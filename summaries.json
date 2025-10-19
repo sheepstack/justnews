@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-19T05:56:24Z",
+  "generated_at": "2025-10-19T06:14:37Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -2880,6 +2880,40 @@
       },
       "read_minutes": 3,
       "cluster_id": "a156487359fb"
+    },
+    {
+      "id": "325e22f787d0",
+      "title": "Breakthrough cancer therapy stops tumor growth without harming healthy cells",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251018102122.htm",
+      "published_at": "Sun, 19 Oct 2025 01:51:40 EDT",
+      "bullets": [
+        "• Breakthrough cancer therapy stops tumor growth without harming healthy cells",
+        "• Researchers from the Francis Crick Institute and Vividion Therapeutics discovered a compound that blocks the signal telling cancer cells to grow and divide",
+        "• Treatment worked in mice with lung and breast tumors and didn't cause harmful side effects seen in earlier drugs",
+        "• Breakthrough could open the door to safer, more precise cancer therapies "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Breakthrough cancer therapy stops tumor growth without harming healthy cells",
+          "• Researchers from the Francis Crick Institute and Vividion Therapeutics discovered a compound that blocks the signal telling cancer cells to grow and divide"
+        ],
+        "hopeful_bullets": [
+          "• Breakthrough cancer therapy stops tumor growth without harming healthy cells",
+          "• Breakthrough could open the door to safer, more precise cancer therapies "
+        ],
+        "stakes_bullets": [
+          "• Treatment worked in mice with lung and breast tumors and didn't cause harmful side effects seen in earlier drugs",
+          "• Breakthrough could open the door to safer, more precise cancer therapies "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "a072b47b719d"
     },
     {
       "id": "e70be0b733b5",
@@ -7952,38 +7986,6 @@
       "cluster_id": "239623be276f"
     },
     {
-      "id": "e9c4ffccf8bb",
-      "title": "Saturn's moon Titan just broke one of chemistry’s oldest rules",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251016223031.htm",
-      "published_at": "Fri, 17 Oct 2025 02:51:11 EDT",
-      "bullets": [
-        "• Scientists from Chalmers University of Technology in Sweden and NASA have made a surprising discovery that challenges one of chemistry's fundamental principles",
-        "• Under ultra-cold conditions, hydrogen cyanide can form stable crystals with methane and ethane",
-        "• This finding expands our understanding of how chemistry may have worked before life appeared on Earth "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists from Chalmers University of Technology in Sweden and NASA have made a surprising discovery that challenges one of chemistry's fundamental principles",
-          "• Under ultra-cold conditions, hydrogen cyanide can form stable crystals with methane and ethane"
-        ],
-        "hopeful_bullets": [
-          "• Scientists from Chalmers University of Technology in Sweden and NASA have made a surprising discovery that challenges one of chemistry's fundamental principles",
-          "• Under ultra-cold conditions, hydrogen cyanide can form stable crystals with methane and ethane"
-        ],
-        "stakes_bullets": [
-          "• This finding expands our understanding of how chemistry may have worked before life appeared on Earth "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "3d9a29ac7ec5"
-    },
-    {
       "id": "a3851fbcb5bc",
       "title": "Watch the Trailer for SILENT NIGHT, DEADLY NIGHT",
       "outlet": "Daily Dead",
@@ -10505,6 +10507,24 @@
       ]
     },
     {
+      "id": "a072b47b719d",
+      "topic": "breakthrough cancer growth stop",
+      "keywords": [
+        "breakthrough",
+        "cancer",
+        "growth",
+        "stop",
+        "therapy",
+        "tumor"
+      ],
+      "item_ids": [
+        "325e22f787d0"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "e134ccc1dabb",
       "topic": "damaging diet even liver",
       "keywords": [
@@ -10643,24 +10663,6 @@
       ],
       "item_ids": [
         "e1a5dd758721"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "3d9a29ac7ec5",
-      "topic": "broke chemistry just moon",
-      "keywords": [
-        "broke",
-        "chemistry",
-        "just",
-        "moon",
-        "saturn",
-        "titan"
-      ],
-      "item_ids": [
-        "e9c4ffccf8bb"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
