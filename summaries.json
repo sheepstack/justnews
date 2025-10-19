@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-19T10:56:29Z",
+  "generated_at": "2025-10-19T11:10:49Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -2389,33 +2389,65 @@
       "title": "Israel launches air strikes in Gaza accusing Hamas of 'bold violation of ceasefire'",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 19 Oct 2025 10:24:32 GMT",
+      "published_at": "Sun, 19 Oct 2025 10:38:32 GMT",
       "bullets": [
-        "• US warns of 'imminent' breach of Gaza ceasefire with planned attack on civilians",
-        "• US says it has \"credible reports\" that Hamas is planning an \"imminent\" attack on Gaza civilians",
-        "• Attack would be a \"direct and grave\" violation of ceasefire agreement, state department says "
+        "• Israel launches air strikes in Gaza accusing Hamas of 'bold violation of ceasefire' Comes hours after US said it had 'credible reports' that Hamas was planning an attack",
+        "• First phase of ceasefire deal remains in force - all hostages have been released and bodies of the deceased are still being returned to Israel "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• US warns of 'imminent' breach of Gaza ceasefire with planned attack on civilians",
-          "• US says it has \"credible reports\" that Hamas is planning an \"imminent\" attack on Gaza civilians"
+          "• Israel launches air strikes in Gaza accusing Hamas of 'bold violation of ceasefire' Comes hours after US said it had 'credible reports' that Hamas was planning an attack",
+          "• First phase of ceasefire deal remains in force - all hostages have been released and bodies of the deceased are still being returned to Israel "
         ],
         "hopeful_bullets": [
-          "• US warns of 'imminent' breach of Gaza ceasefire with planned attack on civilians",
-          "• US says it has \"credible reports\" that Hamas is planning an \"imminent\" attack on Gaza civilians"
+          "• Israel launches air strikes in Gaza accusing Hamas of 'bold violation of ceasefire' Comes hours after US said it had 'credible reports' that Hamas was planning an attack",
+          "• First phase of ceasefire deal remains in force - all hostages have been released and bodies of the deceased are still being returned to Israel "
         ],
         "stakes_bullets": [
-          "• US warns of 'imminent' breach of Gaza ceasefire with planned attack on civilians",
-          "• US says it has \"credible reports\" that Hamas is planning an \"imminent\" attack on Gaza civilians"
+          "• Israel launches air strikes in Gaza accusing Hamas of 'bold violation of ceasefire' Comes hours after US said it had 'credible reports' that Hamas was planning an attack"
         ]
       },
       "read_minutes": 3,
       "cluster_id": "7abf8c09099e"
+    },
+    {
+      "id": "d00fd0da04ff",
+      "title": "Gemini in Google Home Keeps Mistaking My Dog for a Cat",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/gemini-in-google-home-keeps-mistaking-my-dog-for-a-cat/",
+      "published_at": "Sun, 19 Oct 2025 10:30:00 +0000",
+      "bullets": [
+        "• Google's Gemini for Home has been added to its Google Home app",
+        "• It can tell me FedEx came by and send alerts from Nest security cameras",
+        "• But for all its smarts, Gemini refuses to understand that I don't have a cat in my house "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Google's Gemini for Home has been added to its Google Home app",
+          "• It can tell me FedEx came by and send alerts from Nest security cameras"
+        ],
+        "hopeful_bullets": [
+          "• Google's Gemini for Home has been added to its Google Home app",
+          "• It can tell me FedEx came by and send alerts from Nest security cameras"
+        ],
+        "stakes_bullets": [
+          "• Google's Gemini for Home has been added to its Google Home app",
+          "• It can tell me FedEx came by and send alerts from Nest security cameras",
+          "• But for all its smarts, Gemini refuses to understand that I don't have a cat in my house "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "7a827aa5e508"
     },
     {
       "id": "8f7def7d47fe",
@@ -4854,40 +4886,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "009be6a3a8b8"
-    },
-    {
-      "id": "faa29b7a161e",
-      "title": "Swedish Death Cleaning, but for Your Digital Life",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/swedish-death-cleaning-for-your-digital-life/",
-      "published_at": "Sat, 18 Oct 2025 10:30:00 +0000",
-      "bullets": [
-        "• When we die, someone becomes responsible for the things we leave behind",
-        "• Being on the other side and inheriting someone's digital life often leaves people feeling overwhelmed",
-        "• It's in everyone's interest to organize our data at least a little bit before we reach the end of our lives "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.965
-      },
-      "moods": {
-        "brief_bullets": [
-          "• When we die, someone becomes responsible for the things we leave behind",
-          "• Being on the other side and inheriting someone's digital life often leaves people feeling overwhelmed"
-        ],
-        "hopeful_bullets": [
-          "• When we die, someone becomes responsible for the things we leave behind",
-          "• Being on the other side and inheriting someone's digital life often leaves people feeling overwhelmed"
-        ],
-        "stakes_bullets": [
-          "• When we die, someone becomes responsible for the things we leave behind",
-          "• Being on the other side and inheriting someone's digital life often leaves people feeling overwhelmed",
-          "• It's in everyone's interest to organize our data at least a little bit before we reach the end of our lives "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "d3d311ab1d96"
     },
     {
       "id": "f5f5d83f716f",
@@ -10076,6 +10074,24 @@
       ]
     },
     {
+      "id": "7a827aa5e508",
+      "topic": "dog gemini google home",
+      "keywords": [
+        "dog",
+        "gemini",
+        "google",
+        "home",
+        "keep",
+        "mistaking"
+      ],
+      "item_ids": [
+        "d00fd0da04ff"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "9d28861bef1c",
       "topic": "100 first getting major",
       "keywords": [
@@ -10229,23 +10245,6 @@
       ],
       "item_ids": [
         "ea5d20b39fc1"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "d3d311ab1d96",
-      "topic": "cleaning death digital life",
-      "keywords": [
-        "cleaning",
-        "death",
-        "digital",
-        "life",
-        "swedish"
-      ],
-      "item_ids": [
-        "faa29b7a161e"
       ],
       "outlets": [
         "WIRED"
