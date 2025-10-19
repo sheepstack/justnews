@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-19T05:03:26Z",
+  "generated_at": "2025-10-19T05:19:16Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -1490,37 +1490,6 @@
       "cluster_id": "ede2cfd5dd61"
     },
     {
-      "id": "7fdc67890446",
-      "title": "Rogue black hole shocks astronomers with record radio blast",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251016223026.htm",
-      "published_at": "Thu, 16 Oct 2025 23:04:11 EDT",
-      "bullets": [
-        "• For the first time, scientists observed a black hole tearing apart a star far from its galaxy’s center, producing the fastest-changing radio signals ever recorded",
-        "• The event, AT 2024tvd, revealed delayed bursts of energy months after the initial destruction, hinting at mysterious, episodic black hole activity "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• For the first time, scientists observed a black hole tearing apart a star far from its galaxy’s center, producing the fastest-changing radio signals ever recorded",
-          "• The event, AT 2024tvd, revealed delayed bursts of energy months after the initial destruction, hinting at mysterious, episodic black hole activity "
-        ],
-        "hopeful_bullets": [
-          "• For the first time, scientists observed a black hole tearing apart a star far from its galaxy’s center, producing the fastest-changing radio signals ever recorded"
-        ],
-        "stakes_bullets": [
-          "• For the first time, scientists observed a black hole tearing apart a star far from its galaxy’s center, producing the fastest-changing radio signals ever recorded",
-          "• The event, AT 2024tvd, revealed delayed bursts of energy months after the initial destruction, hinting at mysterious, episodic black hole activity "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "bba8a96e5b4b"
-    },
-    {
       "id": "101cf85eb2ce",
       "title": "Strange Journey: The Story of Rocky Horror | Available on DVD, Blu-ray & Digital 20th October",
       "outlet": "HorrorFix",
@@ -2843,8 +2812,40 @@
           "• US says a planned attack against Palestinians would be a \"direct and grave\" violation of the ceasefire agreement "
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 3,
       "cluster_id": "a156487359fb"
+    },
+    {
+      "id": "e70be0b733b5",
+      "title": "Even “diet” soda may be quietly damaging your liver, scientists warn",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251018102119.htm",
+      "published_at": "Sun, 19 Oct 2025 00:45:27 EDT",
+      "bullets": [
+        "• Large-scale UK study of over 120,000 people found sugary and “diet” soft drinks raise the risk of liver disease",
+        "• Consuming more than one can a day of either sugar-sweetened or low/no-sugar beverages sharply increased risk of metabolic-associated steatotic liver disease (MASLD) People who drank more than 250 grams of either type of beverage per day had notably higher risks: a 60% increased risk "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Large-scale UK study of over 120,000 people found sugary and “diet” soft drinks raise the risk of liver disease",
+          "• Consuming more than one can a day of either sugar-sweetened or low/no-sugar beverages sharply increased risk of metabolic-associated steatotic liver disease (MASLD) People who drank more than 250 grams of either type of beverage per day had notably higher risks: a 60% increased risk "
+        ],
+        "hopeful_bullets": [
+          "• Large-scale UK study of over 120,000 people found sugary and “diet” soft drinks raise the risk of liver disease",
+          "• Consuming more than one can a day of either sugar-sweetened or low/no-sugar beverages sharply increased risk of metabolic-associated steatotic liver disease (MASLD) People who drank more than 250 grams of either type of beverage per day had notably higher risks: a 60% increased risk "
+        ],
+        "stakes_bullets": [
+          "• Large-scale UK study of over 120,000 people found sugary and “diet” soft drinks raise the risk of liver disease",
+          "• Consuming more than one can a day of either sugar-sweetened or low/no-sugar beverages sharply increased risk of metabolic-associated steatotic liver disease (MASLD) People who drank more than 250 grams of either type of beverage per day had notably higher risks: a 60% increased risk "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e134ccc1dabb"
     },
     {
       "id": "9baac8dbd18b",
@@ -10504,6 +10505,24 @@
       ]
     },
     {
+      "id": "e134ccc1dabb",
+      "topic": "damaging diet even liver",
+      "keywords": [
+        "damaging",
+        "diet",
+        "even",
+        "liver",
+        "quietly",
+        "soda"
+      ],
+      "item_ids": [
+        "e70be0b733b5"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "e6a6cc66ffcd",
       "topic": "dark lighting milky mysteriou",
       "keywords": [
@@ -10642,24 +10661,6 @@
       ],
       "item_ids": [
         "e9c4ffccf8bb"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "bba8a96e5b4b",
-      "topic": "astronomer black hole record",
-      "keywords": [
-        "astronomer",
-        "black",
-        "hole",
-        "record",
-        "rogue",
-        "shock"
-      ],
-      "item_ids": [
-        "7fdc67890446"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
