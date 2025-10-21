@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-21T05:58:24Z",
+  "generated_at": "2025-10-21T06:17:34Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -698,6 +698,40 @@
       "cluster_id": "6cc9daf95221"
     },
     {
+      "id": "32253c33935a",
+      "title": "European markets set to open higher, building on positive momentum",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/21/european-markets-on-oct-21-stoxx-600-ftse-dax-cac.html",
+      "published_at": "Tue, 21 Oct 2025 05:29:32 GMT",
+      "bullets": [
+        "• European stocks set to open higher on Tuesday",
+        "• FTSE seen opening 0.31% higher, Germany's DAX up 0.22% and France's CAC 40 0.2% higher",
+        "• Third-quarter earnings season kicking into gear this week with L'Oreal and Assa Abloy due to report "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• European stocks set to open higher on Tuesday",
+          "• FTSE seen opening 0.31% higher, Germany's DAX up 0.22% and France's CAC 40 0.2% higher"
+        ],
+        "hopeful_bullets": [
+          "• European stocks set to open higher on Tuesday",
+          "• FTSE seen opening 0.31% higher, Germany's DAX up 0.22% and France's CAC 40 0.2% higher"
+        ],
+        "stakes_bullets": [
+          "• European stocks set to open higher on Tuesday",
+          "• FTSE seen opening 0.31% higher, Germany's DAX up 0.22% and France's CAC 40 0.2% higher",
+          "• Third-quarter earnings season kicking into gear this week with L'Oreal and Assa Abloy due to report "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "ea3f0770d70a"
+    },
+    {
       "id": "2cc599fa378b",
       "title": "Japan makes history as Takaichi set to become the country's first woman prime minister",
       "outlet": "US Top News and Analysis",
@@ -1030,6 +1064,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "431d6e69ea9f"
+    },
+    {
+      "id": "181fdce05949",
+      "title": "White House begins demolishing part of East Wing for Trump ballroom",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ced6np51532o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 21 Oct 2025 02:48:43 GMT",
+      "bullets": [
+        "• White House begins demolishing part of East Wing for Trump ballroom addition",
+        "• Massive chunks of a covered entryway and windows in the East Wing have been demolished",
+        "• Trump said the $250m (£186m) White House ballroom will be \"near\" existing structure but not change it "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• White House begins demolishing part of East Wing for Trump ballroom addition",
+          "• Massive chunks of a covered entryway and windows in the East Wing have been demolished"
+        ],
+        "hopeful_bullets": [
+          "• White House begins demolishing part of East Wing for Trump ballroom addition",
+          "• Massive chunks of a covered entryway and windows in the East Wing have been demolished"
+        ],
+        "stakes_bullets": [
+          "• Trump said the $250m (£186m) White House ballroom will be \"near\" existing structure but not change it "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "8225a3894a0c"
     },
     {
       "id": "007c65fd8f44",
@@ -3922,38 +3988,6 @@
       "cluster_id": "fa7366e7b6dc"
     },
     {
-      "id": "4851fb1d89ce",
-      "title": "James Comey asks judge to toss criminal case, says Trump-picked prosecutor Lindsey Halligan was appointed unlawfully",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/20/comey-trump-halligan-criminal-case.html",
-      "published_at": "Mon, 20 Oct 2025 22:04:41 GMT",
-      "bullets": [
-        "• Former FBI Director James Comey asks a federal judge to dismiss his criminal case with prejudice",
-        "• He says he is being vindictively prosecuted because of President Trump's animus toward him",
-        "• Comey was charged in late September with one count each of making a false statement and obstructing a congressional proceeding "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Former FBI Director James Comey asks a federal judge to dismiss his criminal case with prejudice",
-          "• He says he is being vindictively prosecuted because of President Trump's animus toward him"
-        ],
-        "hopeful_bullets": [
-          "• Former FBI Director James Comey asks a federal judge to dismiss his criminal case with prejudice",
-          "• He says he is being vindictively prosecuted because of President Trump's animus toward him"
-        ],
-        "stakes_bullets": [
-          "• He says he is being vindictively prosecuted because of President Trump's animus toward him"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "63c6d56da6c4"
-    },
-    {
       "id": "d53b5769b389",
       "title": "Why did NASA’s chief just shake up the agency’s plans to land on the Moon?",
       "outlet": "Ars Technica - All content",
@@ -4051,38 +4085,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "5d9b182f6f34"
-    },
-    {
-      "id": "c71b223051f0",
-      "title": "Catholic clergy sex abuse survivors hopeful after Pope Leo meeting",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cev1e7kw0d3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 20 Oct 2025 21:21:10 GMT",
-      "bullets": [
-        "• Pope Francis met with victims of sex abuse at the Vatican for the first time",
-        "• The Pope acknowledged there was \"resistance in some parts of the world\" to a new policy on sex abuse",
-        "• Ending Clergy Abuse (ECA Global) wants to end the problem of cover-up "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Pope Francis met with victims of sex abuse at the Vatican for the first time",
-          "• The Pope acknowledged there was \"resistance in some parts of the world\" to a new policy on sex abuse"
-        ],
-        "hopeful_bullets": [
-          "• Pope Francis met with victims of sex abuse at the Vatican for the first time",
-          "• The Pope acknowledged there was \"resistance in some parts of the world\" to a new policy on sex abuse"
-        ],
-        "stakes_bullets": [
-          "• The Pope acknowledged there was \"resistance in some parts of the world\" to a new policy on sex abuse"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a6eb69986a3a"
     },
     {
       "id": "b61a1e8e7362",
@@ -4279,7 +4281,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "a1f2d155c013"
+      "cluster_id": "8225a3894a0c"
     },
     {
       "id": "a9b1c98d18e0",
@@ -9314,6 +9316,27 @@
       ]
     },
     {
+      "id": "8225a3894a0c",
+      "topic": "begin demolishing east house",
+      "keywords": [
+        "begin",
+        "demolishing",
+        "east",
+        "house",
+        "part",
+        "start",
+        "white"
+      ],
+      "item_ids": [
+        "181fdce05949",
+        "2bea3ed85078"
+      ],
+      "outlets": [
+        "BBC News",
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "580a315c06f7",
       "topic": "being clubbed hospital masked",
       "keywords": [
@@ -9380,24 +9403,6 @@
       ],
       "item_ids": [
         "034c90c9b387"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "a6eb69986a3a",
-      "topic": "abuse catholic clergy hopeful",
-      "keywords": [
-        "abuse",
-        "catholic",
-        "clergy",
-        "hopeful",
-        "sex",
-        "survivor"
-      ],
-      "item_ids": [
-        "c71b223051f0"
       ],
       "outlets": [
         "BBC News"
@@ -9800,24 +9805,6 @@
       ]
     },
     {
-      "id": "a1f2d155c013",
-      "topic": "demolishing east house part",
-      "keywords": [
-        "demolishing",
-        "east",
-        "house",
-        "part",
-        "start",
-        "white"
-      ],
-      "item_ids": [
-        "2bea3ed85078"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "9c1c8b22135b",
       "topic": "amazon disrupt outage service",
       "keywords": [
@@ -9995,6 +9982,24 @@
       ]
     },
     {
+      "id": "ea3f0770d70a",
+      "topic": "building european higher market",
+      "keywords": [
+        "building",
+        "european",
+        "higher",
+        "market",
+        "open",
+        "set"
+      ],
+      "item_ids": [
+        "32253c33935a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "9f8ef9f2c7de",
       "topic": "apple close iphone record",
       "keywords": [
@@ -10097,24 +10102,6 @@
       ],
       "item_ids": [
         "8ff955d810d1"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "63c6d56da6c4",
-      "topic": "asks comey criminal jame",
-      "keywords": [
-        "asks",
-        "comey",
-        "criminal",
-        "jame",
-        "judge",
-        "toss"
-      ],
-      "item_ids": [
-        "4851fb1d89ce"
       ],
       "outlets": [
         "US Top News and Analysis"
