@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-21T21:54:53Z",
+  "generated_at": "2025-10-21T22:11:27Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -529,6 +529,38 @@
       "cluster_id": "6cc9daf95221"
     },
     {
+      "id": "ef85302042c8",
+      "title": "No, Neil Young and Joan Baez Are Not Playing the Anti-Bad Bunny Super Bowl Halftime Show",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/neil-young-joan-baez-not-playing-maga-super-bowl-halftime-1235451487/",
+      "published_at": "Tue, 21 Oct 2025 21:59:57 +0000",
+      "bullets": [
+        "• Turning Point USA’s “All-American Half-Time Show” appears to be on, and for the same day, Feb",
+        "• 8",
+        "• But contrary to what you may have seen on social media, Joan Baez and Neil Young, at the very least, will not be part of it "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Turning Point USA’s “All-American Half-Time Show” appears to be on, and for the same day, Feb",
+          "• 8"
+        ],
+        "hopeful_bullets": [
+          "• Turning Point USA’s “All-American Half-Time Show” appears to be on, and for the same day, Feb",
+          "• 8"
+        ],
+        "stakes_bullets": [
+          "• But contrary to what you may have seen on social media, Joan Baez and Neil Young, at the very least, will not be part of it "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "37140e2d6660"
+    },
+    {
       "id": "2ce2ee39301d",
       "title": "Plan to pump billions of gallons of water from East Texas appears on hold",
       "outlet": "The Texas Tribune",
@@ -626,11 +658,46 @@
       "cluster_id": "bef7bb412ce0"
     },
     {
+      "id": "d6bc78b8834f",
+      "title": "Suspected explosive device prompts Wyoming capitol evacuation",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/21/wyoming-capitol-evacuation-suspected-explosive-device",
+      "published_at": "Tue, 21 Oct 2025 21:35:05 GMT",
+      "bullets": [
+        "• The Wyoming state capital is home to the governor and secretary of state",
+        "• The device was found in a basement-level room near the capitol",
+        "• It was not immediately disclosed exactly where on the grounds it was found",
+        "• Police closed nearby streets to traffic after the discovery "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Wyoming state capital is home to the governor and secretary of state",
+          "• The device was found in a basement-level room near the capitol"
+        ],
+        "hopeful_bullets": [
+          "• The Wyoming state capital is home to the governor and secretary of state",
+          "• The device was found in a basement-level room near the capitol"
+        ],
+        "stakes_bullets": [
+          "• The Wyoming state capital is home to the governor and secretary of state",
+          "• The device was found in a basement-level room near the capitol",
+          "• It was not immediately disclosed exactly where on the grounds it was found"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7abf99ee4e21"
+    },
+    {
       "id": "c630e073b90e",
       "title": "Netflix shares drop after streamer misses earnings estimates, citing Brazilian tax dispute",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/21/netflix-nflx-earnings-q3-2025.html",
-      "published_at": "Tue, 21 Oct 2025 21:27:07 GMT",
+      "published_at": "Tue, 21 Oct 2025 21:32:15 GMT",
       "bullets": [
         "• Netflix shares fell around 7% in extended trading Tuesday",
         "• The company cited an ongoing dispute with Brazilian tax authorities for the weaker-than-estimated results",
@@ -657,6 +724,173 @@
       },
       "read_minutes": 3,
       "cluster_id": "4628812500f2"
+    },
+    {
+      "id": "1cd31dac4599",
+      "title": "Top Senate Republican casts further doubt on Trump special counsel pick after ‘Nazi streak’ comments – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/21/donald-trump-republicans-white-house-ballroom-government-shutdown-troops-us-politics-live-news-updates",
+      "published_at": "Tue, 21 Oct 2025 21:31:49 GMT",
+      "bullets": [
+        "• Senate majority leader John Thune says White House will have 'something to say' about Paul Ingrassia nomination to lead the Office of Special Counsel",
+        "• Thune said Monday that InGrasia’s nomination is “not going to pass” at the White House celebration of Diwali "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Senate majority leader John Thune says White House will have 'something to say' about Paul Ingrassia nomination to lead the Office of Special Counsel",
+          "• Thune said Monday that InGrasia’s nomination is “not going to pass” at the White House celebration of Diwali "
+        ],
+        "hopeful_bullets": [
+          "• Senate majority leader John Thune says White House will have 'something to say' about Paul Ingrassia nomination to lead the Office of Special Counsel",
+          "• Thune said Monday that InGrasia’s nomination is “not going to pass” at the White House celebration of Diwali "
+        ],
+        "stakes_bullets": [
+          "• Senate majority leader John Thune says White House will have 'something to say' about Paul Ingrassia nomination to lead the Office of Special Counsel"
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "53e695d1eae5"
+    },
+    {
+      "id": "89f87ddca7de",
+      "title": "Water firms in England could face harsher sewage fines under new Environment Agency powers",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/business/2025/oct/21/water-firms-england-sewage-fines-environment-agency",
+      "published_at": "Tue, 21 Oct 2025 21:30:47 GMT",
+      "bullets": [
+        "• New rules set to be introduced to penalties for minor to moderate offences",
+        "• New rules would be automatic penalties of £10,000 or £20,000 per person",
+        "• The new rules would apply to just one person per cent of the penalty rate "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New rules set to be introduced to penalties for minor to moderate offences",
+          "• New rules would be automatic penalties of £10,000 or £20,000 per person"
+        ],
+        "hopeful_bullets": [
+          "• New rules set to be introduced to penalties for minor to moderate offences",
+          "• New rules would be automatic penalties of £10,000 or £20,000 per person"
+        ],
+        "stakes_bullets": [
+          "• New rules set to be introduced to penalties for minor to moderate offences",
+          "• New rules would be automatic penalties of £10,000 or £20,000 per person",
+          "• The new rules would apply to just one person per cent of the penalty rate "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "64ae11f1865c"
+    },
+    {
+      "id": "e49dc2848f8f",
+      "title": "Mattel misses Wall Street estimates as North American sales sink",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/21/mattel-mat-earnings-q3-2025.html",
+      "published_at": "Tue, 21 Oct 2025 21:30:07 GMT",
+      "bullets": [
+        "• Barbie-maker Mattel posted third-quarter results after the market close on Tuesday that missed analysts' expectations",
+        "• This is the first time in three quarters that the toy giant has missed on both earnings and revenue expectations",
+        "• In May, Mattel said it would increase prices for some products in the U.S",
+        "• to counter higher input costs due to the Trump administration's tariffs on key trading partners "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Barbie-maker Mattel posted third-quarter results after the market close on Tuesday that missed analysts' expectations",
+          "• This is the first time in three quarters that the toy giant has missed on both earnings and revenue expectations"
+        ],
+        "hopeful_bullets": [
+          "• Barbie-maker Mattel posted third-quarter results after the market close on Tuesday that missed analysts' expectations",
+          "• This is the first time in three quarters that the toy giant has missed on both earnings and revenue expectations"
+        ],
+        "stakes_bullets": [
+          "• Barbie-maker Mattel posted third-quarter results after the market close on Tuesday that missed analysts' expectations",
+          "• In May, Mattel said it would increase prices for some products in the U.S",
+          "• to counter higher input costs due to the Trump administration's tariffs on key trading partners "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "16d746214282"
+    },
+    {
+      "id": "028a60555235",
+      "title": "CNBC exclusive: First look at Shield AI's new AI-piloted military fighter drone",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/21/exclusive-first-look-at-shield-ais-x-bat-ai-piloted-fighter-drone.html",
+      "published_at": "Tue, 21 Oct 2025 21:30:02 GMT",
+      "bullets": [
+        "• Shield AI is set to unveil its next generation, autonomous fighter jet on Wednesday",
+        "• The company is valued at $5.3 billion after securing $240 million in its latest round of funding",
+        "• The X-Bat will be piloted by an AI software developed by Shield AI called Hivemind "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.946
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Shield AI is set to unveil its next generation, autonomous fighter jet on Wednesday",
+          "• The company is valued at $5.3 billion after securing $240 million in its latest round of funding"
+        ],
+        "hopeful_bullets": [
+          "• Shield AI is set to unveil its next generation, autonomous fighter jet on Wednesday",
+          "• The company is valued at $5.3 billion after securing $240 million in its latest round of funding"
+        ],
+        "stakes_bullets": [
+          "• The company is valued at $5.3 billion after securing $240 million in its latest round of funding",
+          "• The X-Bat will be piloted by an AI software developed by Shield AI called Hivemind "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "4dfb9e75503a"
+    },
+    {
+      "id": "2fcc7ce97230",
+      "title": "This week's critical inflation report comes with a variety of doubts about the data",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/21/this-weeks-critical-inflation-report-comes-with-doubts-about-the-data.html",
+      "published_at": "Tue, 21 Oct 2025 21:29:44 GMT",
+      "bullets": [
+        "• The September consumer price index report coming out Friday will command full attention from financial markets",
+        "• Some investors will view the data with a skeptical eye",
+        "• The Bureau of Labor Statistics is already under scrutiny this year for its broad menu of data releases",
+        "• The BLS this year has faced a host of questions over its data collection methods "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.897
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The September consumer price index report coming out Friday will command full attention from financial markets",
+          "• Some investors will view the data with a skeptical eye"
+        ],
+        "hopeful_bullets": [
+          "• The September consumer price index report coming out Friday will command full attention from financial markets",
+          "• Some investors will view the data with a skeptical eye"
+        ],
+        "stakes_bullets": [
+          "• The September consumer price index report coming out Friday will command full attention from financial markets",
+          "• Some investors will view the data with a skeptical eye"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a66f04950163"
     },
     {
       "id": "fd743849a7af",
@@ -697,40 +931,9 @@
       "url": "https://www.theguardian.com/us-news/2025/oct/21/north-carolina-republicans-congressional-map",
       "published_at": "Tue, 21 Oct 2025 21:16:39 GMT",
       "bullets": [
-        "• North Carolina Republicans in the state senate passed a new congressional map Tuesday",
+        "• North Carolina Republicans in the state senate passed a new congressional map on Tuesday",
         "• Currently, North Carolina has a 10-4 partisan split in favor of Republicans in Congress",
         "• The new map would result in an 11-3 split, replacing congressman Don Davis, a Democrat, with a Republican "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.979
-      },
-      "moods": {
-        "brief_bullets": [
-          "• North Carolina Republicans in the state senate passed a new congressional map Tuesday",
-          "• Currently, North Carolina has a 10-4 partisan split in favor of Republicans in Congress"
-        ],
-        "hopeful_bullets": [
-          "• North Carolina Republicans in the state senate passed a new congressional map Tuesday",
-          "• Currently, North Carolina has a 10-4 partisan split in favor of Republicans in Congress"
-        ],
-        "stakes_bullets": [
-          "• The new map would result in an 11-3 split, replacing congressman Don Davis, a Democrat, with a Republican "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "41e9cafda849"
-    },
-    {
-      "id": "1cd31dac4599",
-      "title": "Top Senate Republican casts further doubt on Trump special counsel pick after ‘Nazi streak’ comments – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/21/donald-trump-republicans-white-house-ballroom-government-shutdown-troops-us-politics-live-news-updates",
-      "published_at": "Tue, 21 Oct 2025 21:15:23 GMT",
-      "bullets": [
-        "• Senate majority leader John Thune says White House will have 'something to say' about Paul Ingrassia nomination to lead the Office of Special Counsel",
-        "• Thune said Monday that InGrasia’s nomination is “not going to pass” at the White House celebration of Diwali "
       ],
       "category": "US",
       "sentiment": {
@@ -739,19 +942,19 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Senate majority leader John Thune says White House will have 'something to say' about Paul Ingrassia nomination to lead the Office of Special Counsel",
-          "• Thune said Monday that InGrasia’s nomination is “not going to pass” at the White House celebration of Diwali "
+          "• North Carolina Republicans in the state senate passed a new congressional map on Tuesday",
+          "• Currently, North Carolina has a 10-4 partisan split in favor of Republicans in Congress"
         ],
         "hopeful_bullets": [
-          "• Senate majority leader John Thune says White House will have 'something to say' about Paul Ingrassia nomination to lead the Office of Special Counsel",
-          "• Thune said Monday that InGrasia’s nomination is “not going to pass” at the White House celebration of Diwali "
+          "• North Carolina Republicans in the state senate passed a new congressional map on Tuesday",
+          "• Currently, North Carolina has a 10-4 partisan split in favor of Republicans in Congress"
         ],
         "stakes_bullets": [
-          "• Senate majority leader John Thune says White House will have 'something to say' about Paul Ingrassia nomination to lead the Office of Special Counsel"
+          "• The new map would result in an 11-3 split, replacing congressman Don Davis, a Democrat, with a Republican "
         ]
       },
-      "read_minutes": 12,
-      "cluster_id": "53e695d1eae5"
+      "read_minutes": 3,
+      "cluster_id": "41e9cafda849"
     },
     {
       "id": "8db10f9adeee",
@@ -985,41 +1188,6 @@
       "cluster_id": "966dd0e59189"
     },
     {
-      "id": "e49dc2848f8f",
-      "title": "Mattel misses Wall Street estimates as North American sales sink",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/21/mattel-mat-earnings-q3-2025.html",
-      "published_at": "Tue, 21 Oct 2025 21:01:31 GMT",
-      "bullets": [
-        "• Barbie-maker Mattel posted third-quarter results after the market close on Tuesday that missed analysts' expectations",
-        "• This is the first time in three quarters that the toy giant has missed on both earnings and revenue expectations",
-        "• In May, Mattel said it would increase prices for some products in the U.S",
-        "• to counter higher input costs due to the Trump administration's tariffs on key trading partners "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Barbie-maker Mattel posted third-quarter results after the market close on Tuesday that missed analysts' expectations",
-          "• This is the first time in three quarters that the toy giant has missed on both earnings and revenue expectations"
-        ],
-        "hopeful_bullets": [
-          "• Barbie-maker Mattel posted third-quarter results after the market close on Tuesday that missed analysts' expectations",
-          "• This is the first time in three quarters that the toy giant has missed on both earnings and revenue expectations"
-        ],
-        "stakes_bullets": [
-          "• Barbie-maker Mattel posted third-quarter results after the market close on Tuesday that missed analysts' expectations",
-          "• In May, Mattel said it would increase prices for some products in the U.S",
-          "• to counter higher input costs due to the Trump administration's tariffs on key trading partners "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "16d746214282"
-    },
-    {
       "id": "ca907dd8fa56",
       "title": "Microsoft CEO Satya Nadella's annual pay jumps to $96.5 million",
       "outlet": "US Top News and Analysis",
@@ -1218,37 +1386,6 @@
       },
       "read_minutes": 16,
       "cluster_id": "69b01b10c678"
-    },
-    {
-      "id": "49e9db218954",
-      "title": "Travis Kelce joins activist investor Jana Partners in push to revive Six Flags",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/21/travis-kelce-joins-activist-investor-jana-partners-in-push-to-revive-six-flags.html",
-      "published_at": "Tue, 21 Oct 2025 20:45:22 GMT",
-      "bullets": [
-        "• NFL star Travis Kelce is teaming up with activist investor Jana Partners in a bid to help reshape the future of Six Flags Entertainment Corp",
-        "• The investment group now holds an economic interest of roughly 9% in the amusement park operator",
-        "• The group plans to engage with Six Flags' board and management to explore ways to \"enhance shareholder value\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.965
-      },
-      "moods": {
-        "brief_bullets": [
-          "• NFL star Travis Kelce is teaming up with activist investor Jana Partners in a bid to help reshape the future of Six Flags Entertainment Corp",
-          "• The investment group now holds an economic interest of roughly 9% in the amusement park operator"
-        ],
-        "hopeful_bullets": [
-          "• NFL star Travis Kelce is teaming up with activist investor Jana Partners in a bid to help reshape the future of Six Flags Entertainment Corp"
-        ],
-        "stakes_bullets": [
-          "• The group plans to engage with Six Flags' board and management to explore ways to \"enhance shareholder value\""
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "51f044c490c7"
     },
     {
       "id": "da378089ebd3",
@@ -1839,40 +1976,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "6585aa9f2961"
-    },
-    {
-      "id": "2fcc7ce97230",
-      "title": "This week's critical inflation report comes with a variety of doubts about the data",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/21/this-weeks-critical-inflation-report-comes-with-doubts-about-the-data.html",
-      "published_at": "Tue, 21 Oct 2025 19:14:57 GMT",
-      "bullets": [
-        "• The September consumer price index report coming out Friday will command full attention from financial markets",
-        "• Some investors will view the data with a skeptical eye",
-        "• The Bureau of Labor Statistics is already under scrutiny this year for its broad menu of data releases",
-        "• The BLS this year has faced a host of questions over its data collection methods "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.897
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The September consumer price index report coming out Friday will command full attention from financial markets",
-          "• Some investors will view the data with a skeptical eye"
-        ],
-        "hopeful_bullets": [
-          "• The September consumer price index report coming out Friday will command full attention from financial markets",
-          "• Some investors will view the data with a skeptical eye"
-        ],
-        "stakes_bullets": [
-          "• The September consumer price index report coming out Friday will command full attention from financial markets",
-          "• Some investors will view the data with a skeptical eye"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a66f04950163"
     },
     {
       "id": "d95885591688",
@@ -3479,38 +3582,6 @@
       "cluster_id": "05395660287d"
     },
     {
-      "id": "73d9957eee53",
-      "title": "January 6 US Capitol rioter arrested for alleged threat to kill Hakeem Jeffries",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/21/january-6-rioter-threaten-hakeem-jeffries",
-      "published_at": "Tue, 21 Oct 2025 14:45:42 GMT",
-      "bullets": [
-        "• New York state police say they received texts threatening to kill a member of Congress",
-        "• The texts allegedly said: “Even if I am hated he must be eliminated.” The texts were allegedly sent by a man who was pardoned by Donald Trump for the attack "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New York state police say they received texts threatening to kill a member of Congress",
-          "• The texts allegedly said: “Even if I am hated he must be eliminated.” The texts were allegedly sent by a man who was pardoned by Donald Trump for the attack "
-        ],
-        "hopeful_bullets": [
-          "• New York state police say they received texts threatening to kill a member of Congress",
-          "• The texts allegedly said: “Even if I am hated he must be eliminated.” The texts were allegedly sent by a man who was pardoned by Donald Trump for the attack "
-        ],
-        "stakes_bullets": [
-          "• New York state police say they received texts threatening to kill a member of Congress",
-          "• The texts allegedly said: “Even if I am hated he must be eliminated.” The texts were allegedly sent by a man who was pardoned by Donald Trump for the attack "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8b5b8245ac8a"
-    },
-    {
       "id": "f3fd216c4be0",
       "title": "Two More Men Arrested in Connection to Stabbing Death of Lostprophets Singer Ian Watkins",
       "outlet": "Music News",
@@ -4115,38 +4186,6 @@
       "cluster_id": "9e778c507ad0"
     },
     {
-      "id": "ea58b2be7dd3",
-      "title": "Mosquitoes found in Iceland for first time as climate crisis warms country",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/oct/21/mosquitoes-found-iceland-first-time-climate-crisis-warms-country",
-      "published_at": "Tue, 21 Oct 2025 10:41:08 GMT",
-      "bullets": [
-        "• Mosquitoes have been found in Iceland for the first time as global warming makes the country more hospitable for insects",
-        "• Iceland was until this month one of the few places in the world that did not have a mosquito population",
-        "• Scientists have predicted for some time that mosquitoes could establish themselves in Iceland "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.524
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mosquitoes have been found in Iceland for the first time as global warming makes the country more hospitable for insects",
-          "• Iceland was until this month one of the few places in the world that did not have a mosquito population"
-        ],
-        "hopeful_bullets": [
-          "• Mosquitoes have been found in Iceland for the first time as global warming makes the country more hospitable for insects",
-          "• Iceland was until this month one of the few places in the world that did not have a mosquito population"
-        ],
-        "stakes_bullets": [
-          "• Scientists have predicted for some time that mosquitoes could establish themselves in Iceland "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "5c671437b9fb"
-    },
-    {
       "id": "71e5d4fde750",
       "title": "Woman charged after 1.5m euros of gold stolen from Paris museum",
       "outlet": "BBC News",
@@ -4509,38 +4548,6 @@
       "cluster_id": "264573fc7c32"
     },
     {
-      "id": "839af9ae0af1",
-      "title": "Watch Oscar Isaac Attempt to Cover Tears for Fears on Bagpipe on ‘Fallon’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/oscar-isaac-tears-for-fears-bagpipe-cover-fallon-1235451001/",
-      "published_at": "Tue, 21 Oct 2025 07:50:21 +0000",
-      "bullets": [
-        "• Oscar Isaac appeared on The Tonight Show to promote his new film Frankenstein",
-        "• The actor tried to cover Tears for Fears' \"Shout\" and \"Sweet Caroline\" on the bagpipe",
-        "• He also performed on the electric bass and banjo for the \"Random Instrument Challenge\""
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Oscar Isaac appeared on The Tonight Show to promote his new film Frankenstein",
-          "• The actor tried to cover Tears for Fears' \"Shout\" and \"Sweet Caroline\" on the bagpipe"
-        ],
-        "hopeful_bullets": [
-          "• Oscar Isaac appeared on The Tonight Show to promote his new film Frankenstein",
-          "• The actor tried to cover Tears for Fears' \"Shout\" and \"Sweet Caroline\" on the bagpipe"
-        ],
-        "stakes_bullets": [
-          "• He also performed on the electric bass and banjo for the \"Random Instrument Challenge\""
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "b46faa999c83"
-    },
-    {
       "id": "9196fa2b4373",
       "title": "Some ant architects design a colony to cut the risk of disease. Humans, take note!",
       "outlet": "NPR Topics: News",
@@ -4706,37 +4713,39 @@
       "cluster_id": "227b0f67c00e"
     },
     {
-      "id": "8dab7f989581",
-      "title": "Karine Jean-Pierre on why she left the Democrats — and calls herself independent",
+      "id": "f30ed1de2d87",
+      "title": "'Cancer doesn't care': Patients pushed past divisive politics to lobby Congress",
       "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/21/nx-s1-5423318/karine-jean-pierre-biden-book-democrats",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/10/21/nx-s1-5576978/cancer-lobby-politics-patients-american-cancer-society-cancer-action-network",
       "published_at": "Tue, 21 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• Karine Jean-Pierre served as White House press secretary for nearly three years",
-        "• She says the party's internal dysfunction and disloyalty helped pave the way for its 2024 defeat",
-        "• In a new book, she says the debate revealed Joe Biden's health vulnerability, not cognitive decline "
+        "• American Cancer Society Cancer Action Network organized its annual citizen lobby day in Washington, D.C., last month",
+        "• More than 500 volunteers pushed Congress to keep cancer research and support for cancer patients at the top of the U.S",
+        "• health care agenda",
+        "• Every one of the volunteers had been touched in some way by the deadly disease "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.809
+        "score": 0.943
       },
       "moods": {
         "brief_bullets": [
-          "• Karine Jean-Pierre served as White House press secretary for nearly three years",
-          "• She says the party's internal dysfunction and disloyalty helped pave the way for its 2024 defeat"
+          "• American Cancer Society Cancer Action Network organized its annual citizen lobby day in Washington, D.C., last month",
+          "• More than 500 volunteers pushed Congress to keep cancer research and support for cancer patients at the top of the U.S"
         ],
         "hopeful_bullets": [
-          "• She says the party's internal dysfunction and disloyalty helped pave the way for its 2024 defeat"
+          "• American Cancer Society Cancer Action Network organized its annual citizen lobby day in Washington, D.C., last month",
+          "• More than 500 volunteers pushed Congress to keep cancer research and support for cancer patients at the top of the U.S"
         ],
         "stakes_bullets": [
-          "• Karine Jean-Pierre served as White House press secretary for nearly three years",
-          "• She says the party's internal dysfunction and disloyalty helped pave the way for its 2024 defeat",
-          "• In a new book, she says the debate revealed Joe Biden's health vulnerability, not cognitive decline "
+          "• American Cancer Society Cancer Action Network organized its annual citizen lobby day in Washington, D.C., last month",
+          "• More than 500 volunteers pushed Congress to keep cancer research and support for cancer patients at the top of the U.S",
+          "• health care agenda"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "d1849a847021"
+      "read_minutes": 4,
+      "cluster_id": "325f03b316bb"
     },
     {
       "id": "2df0051b4e8a",
@@ -9307,18 +9316,18 @@
       ]
     },
     {
-      "id": "41e9cafda849",
-      "topic": "advance carolina map north",
+      "id": "7abf99ee4e21",
+      "topic": "capitol device explosive prompt",
       "keywords": [
-        "advance",
-        "carolina",
-        "map",
-        "north",
-        "republican",
-        "secure"
+        "capitol",
+        "device",
+        "explosive",
+        "prompt",
+        "suspected",
+        "wyoming"
       ],
       "item_ids": [
-        "263e01c2e728"
+        "d6bc78b8834f"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9337,6 +9346,24 @@
       ],
       "item_ids": [
         "1cd31dac4599"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "41e9cafda849",
+      "topic": "advance carolina map north",
+      "keywords": [
+        "advance",
+        "carolina",
+        "map",
+        "north",
+        "republican",
+        "secure"
+      ],
+      "item_ids": [
+        "263e01c2e728"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9445,24 +9472,6 @@
       ],
       "item_ids": [
         "d58d89d14f6d"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "8b5b8245ac8a",
-      "topic": "alleged arrested capitol january",
-      "keywords": [
-        "alleged",
-        "arrested",
-        "capitol",
-        "january",
-        "rioter",
-        "threat"
-      ],
-      "item_ids": [
-        "73d9957eee53"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9755,6 +9764,24 @@
       ]
     },
     {
+      "id": "4dfb9e75503a",
+      "topic": "cnbc exclusive first look",
+      "keywords": [
+        "cnbc",
+        "exclusive",
+        "first",
+        "look",
+        "piloted",
+        "shield"
+      ],
+      "item_ids": [
+        "028a60555235"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "b66d9ffde7da",
       "topic": "annual ceo microsoft nadella",
       "keywords": [
@@ -9784,24 +9811,6 @@
       ],
       "item_ids": [
         "0776d3abe3e6"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "51f044c490c7",
-      "topic": "activist investor jana join",
-      "keywords": [
-        "activist",
-        "investor",
-        "jana",
-        "join",
-        "kelce",
-        "travi"
-      ],
-      "item_ids": [
-        "49e9db218954"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10685,18 +10694,18 @@
       ]
     },
     {
-      "id": "d1849a847021",
-      "topic": "democrat jean karine left",
+      "id": "325f03b316bb",
+      "topic": "cancer care doesn past",
       "keywords": [
-        "democrat",
-        "jean",
-        "karine",
-        "left",
-        "pierre",
-        "she"
+        "cancer",
+        "care",
+        "doesn",
+        "past",
+        "patient",
+        "pushed"
       ],
       "item_ids": [
-        "8dab7f989581"
+        "f30ed1de2d87"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -10981,6 +10990,24 @@
       ]
     },
     {
+      "id": "64ae11f1865c",
+      "topic": "england face firm harsher",
+      "keywords": [
+        "england",
+        "face",
+        "firm",
+        "harsher",
+        "sewage",
+        "water"
+      ],
+      "item_ids": [
+        "89f87ddca7de"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "d50c55cd1591",
       "topic": "companie environment laws profit",
       "keywords": [
@@ -11011,24 +11038,6 @@
       ],
       "item_ids": [
         "e2a710f619c2"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "5c671437b9fb",
-      "topic": "climate first found iceland",
-      "keywords": [
-        "climate",
-        "first",
-        "found",
-        "iceland",
-        "mosquitoe",
-        "time"
-      ],
-      "item_ids": [
-        "ea58b2be7dd3"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -13247,6 +13256,24 @@
       ]
     },
     {
+      "id": "37140e2d6660",
+      "topic": "anti baez joan neil",
+      "keywords": [
+        "anti",
+        "baez",
+        "joan",
+        "neil",
+        "playing",
+        "young"
+      ],
+      "item_ids": [
+        "ef85302042c8"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "e1564dc96f4b",
       "topic": "attack brown chri describe",
       "keywords": [
@@ -13402,24 +13429,6 @@
       ],
       "item_ids": [
         "24741896abf7"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "b46faa999c83",
-      "topic": "attempt cover isaac oscar",
-      "keywords": [
-        "attempt",
-        "cover",
-        "isaac",
-        "oscar",
-        "tear",
-        "watch"
-      ],
-      "item_ids": [
-        "839af9ae0af1"
       ],
       "outlets": [
         "Music News"
