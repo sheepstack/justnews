@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-21T05:19:16Z",
+  "generated_at": "2025-10-21T05:58:24Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -698,6 +698,72 @@
       "cluster_id": "6cc9daf95221"
     },
     {
+      "id": "2cc599fa378b",
+      "title": "Japan makes history as Takaichi set to become the country's first woman prime minister",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/21/japan-takaichi-first-woman-prime-minister-ldp.html",
+      "published_at": "Tue, 21 Oct 2025 05:19:23 GMT",
+      "bullets": [
+        "• Takaichi becomes first woman prime minister of Japan",
+        "• She wins 465 seats in the 465-seat Lower House",
+        "• The Liberal Democratic Party has agreed to a deal with the new government",
+        "• The JIP will not be looking at cabinet positions in the new cabinet, analyst says "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Takaichi becomes first woman prime minister of Japan",
+          "• She wins 465 seats in the 465-seat Lower House"
+        ],
+        "hopeful_bullets": [
+          "• She wins 465 seats in the 465-seat Lower House"
+        ],
+        "stakes_bullets": [
+          "• The JIP will not be looking at cabinet positions in the new cabinet, analyst says "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e645c22cd71d"
+    },
+    {
+      "id": "36b13410b3c3",
+      "title": "South Korea's Kospi hits sixth straight record high on U.S. trade deal optimism",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/21/asia-markets-today-japan-parliamentary-vote-australia-rare-earths.html",
+      "published_at": "Tue, 21 Oct 2025 05:17:04 GMT",
+      "bullets": [
+        "• South Korean stocks have been on a roll since U.S",
+        "• Treasury Secretary Scott Bessent said Washington was \"about to finish up\" trade negotiations with the Asian country",
+        "• The Kospi index has risen about 61% year to date",
+        "• Japan's benchmark Nikkei 225 was last trading at 0.6%, paring gains from 1.5%, but still hitting a fresh record "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• South Korean stocks have been on a roll since U.S",
+          "• Treasury Secretary Scott Bessent said Washington was \"about to finish up\" trade negotiations with the Asian country"
+        ],
+        "hopeful_bullets": [
+          "• Japan's benchmark Nikkei 225 was last trading at 0.6%, paring gains from 1.5%, but still hitting a fresh record "
+        ],
+        "stakes_bullets": [
+          "• South Korean stocks have been on a roll since U.S",
+          "• Treasury Secretary Scott Bessent said Washington was \"about to finish up\" trade negotiations with the Asian country",
+          "• The Kospi index has risen about 61% year to date"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "21092d4a0905"
+    },
+    {
       "id": "27c1b5818b3b",
       "title": "Final Fantasy 9 Remake Leak Has Bad News For Fans",
       "outlet": "CBR",
@@ -800,40 +866,6 @@
       "cluster_id": "91d1b2066a5e"
     },
     {
-      "id": "36b13410b3c3",
-      "title": "South Korea's Kospi hits sixth straight record high on U.S. trade deal optimism",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/21/asia-markets-today-japan-parliamentary-vote-australia-rare-earths.html",
-      "published_at": "Tue, 21 Oct 2025 03:45:41 GMT",
-      "bullets": [
-        "• South Korean stocks have been on a roll since U.S",
-        "• Treasury Secretary Scott Bessent said Washington was \"about to finish up\" trade negotiations with the Asian country",
-        "• The Kospi index has risen about 61% year to date",
-        "• Japan's benchmark Nikkei 225 rose 1.5% to a fresh record, after closing at an all-time high Monday "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• South Korean stocks have been on a roll since U.S",
-          "• Treasury Secretary Scott Bessent said Washington was \"about to finish up\" trade negotiations with the Asian country"
-        ],
-        "hopeful_bullets": [
-          "• Japan's benchmark Nikkei 225 rose 1.5% to a fresh record, after closing at an all-time high Monday "
-        ],
-        "stakes_bullets": [
-          "• South Korean stocks have been on a roll since U.S",
-          "• Treasury Secretary Scott Bessent said Washington was \"about to finish up\" trade negotiations with the Asian country",
-          "• The Kospi index has risen about 61% year to date"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "21092d4a0905"
-    },
-    {
       "id": "112921444e95",
       "title": "This 7-Season Disney Fantasy Masterpiece Beat the MCU to the Multiverse by 10 Years",
       "outlet": "CBR",
@@ -864,6 +896,40 @@
       },
       "read_minutes": 7,
       "cluster_id": "711073113b33"
+    },
+    {
+      "id": "a7127963909f",
+      "title": "Amazon outage 'resolved' as Snapchat and banks among sites impacted",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c20pgp3nx07o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 21 Oct 2025 03:30:02 GMT",
+      "bullets": [
+        "• Amazon outage 'resolved' as Snapchat, Lloyds and Halifax among sites impacted",
+        "• Problem at heart of cloud computing giant's operations in the US",
+        "• More than 1,000 apps and websites were impacted by the outage on Monday",
+        "• Users reported more than 11 million problems during the outage "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon outage 'resolved' as Snapchat, Lloyds and Halifax among sites impacted",
+          "• Problem at heart of cloud computing giant's operations in the US"
+        ],
+        "hopeful_bullets": [
+          "• Amazon outage 'resolved' as Snapchat, Lloyds and Halifax among sites impacted",
+          "• Problem at heart of cloud computing giant's operations in the US"
+        ],
+        "stakes_bullets": [
+          "• Amazon outage 'resolved' as Snapchat, Lloyds and Halifax among sites impacted",
+          "• More than 1,000 apps and websites were impacted by the outage on Monday"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "aa4dd2a5c7d5"
     },
     {
       "id": "bce4daace386",
@@ -4545,38 +4611,6 @@
       "cluster_id": "97790f6cfc7c"
     },
     {
-      "id": "11d8939f5138",
-      "title": "OpenAI investor Reid Hoffman spars with AI czar Sacks, calls Anthropic 'one of the good guys'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/20/openai-investor-reid-hoffman-calls-anthropic-one-of-the-good-guys.html",
-      "published_at": "Mon, 20 Oct 2025 19:56:12 GMT",
-      "bullets": [
-        "• Reid Hoffman called Anthropic \"one of the good guys\" after it was criticized by President Trump's AI czar David Sacks",
-        "• Hoffman and Sacks were both early employees at PayPal, part of what became known as the PayPal mafia "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.775
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Reid Hoffman called Anthropic \"one of the good guys\" after it was criticized by President Trump's AI czar David Sacks",
-          "• Hoffman and Sacks were both early employees at PayPal, part of what became known as the PayPal mafia "
-        ],
-        "hopeful_bullets": [
-          "• Reid Hoffman called Anthropic \"one of the good guys\" after it was criticized by President Trump's AI czar David Sacks",
-          "• Hoffman and Sacks were both early employees at PayPal, part of what became known as the PayPal mafia "
-        ],
-        "stakes_bullets": [
-          "• Reid Hoffman called Anthropic \"one of the good guys\" after it was criticized by President Trump's AI czar David Sacks",
-          "• Hoffman and Sacks were both early employees at PayPal, part of what became known as the PayPal mafia "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "82bcdce8985d"
-    },
-    {
       "id": "0dbc25c34962",
       "title": "‘Halloween Hangover’ – Watch Adam Green’s ‘Star Wars’ Halloween Short Starring Joel David Moore",
       "outlet": "Bloody Disgusting!",
@@ -4739,41 +4773,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "093b7b68e2fb"
-    },
-    {
-      "id": "bfcfb2ed7dc7",
-      "title": "Brazil grants oil exploration licence in Amazon region",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm2735yp75ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 20 Oct 2025 19:12:55 GMT",
-      "bullets": [
-        "• Brazil grants oil licence to drill in the Amazon region",
-        "• Environmentalists have raised concerns about the project",
-        "• The licence is expected to last for up to five months",
-        "• Greenpeace has raised concerns over the potential impact of the project on climate change",
-        "• The International Energy Agency says no new oil projects should be approved "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.95
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Brazil grants oil licence to drill in the Amazon region",
-          "• Environmentalists have raised concerns about the project"
-        ],
-        "hopeful_bullets": [
-          "• Brazil grants oil licence to drill in the Amazon region",
-          "• Environmentalists have raised concerns about the project"
-        ],
-        "stakes_bullets": [
-          "• The licence is expected to last for up to five months",
-          "• Greenpeace has raised concerns over the potential impact of the project on climate change"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "acedadf283b0"
     },
     {
       "id": "c153f349c23a",
@@ -9225,6 +9224,24 @@
   ],
   "clusters": [
     {
+      "id": "aa4dd2a5c7d5",
+      "topic": "amazon among bank outage",
+      "keywords": [
+        "amazon",
+        "among",
+        "bank",
+        "outage",
+        "resolved",
+        "snapchat"
+      ],
+      "item_ids": [
+        "a7127963909f"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "5d9b182f6f34",
       "topic": "crash funicular initial lisbon",
       "keywords": [
@@ -9279,18 +9296,18 @@
       ]
     },
     {
-      "id": "19ae3286ea2e",
-      "topic": "join putin ready talk",
+      "id": "be9cff781362",
+      "topic": "australia counter deal earth",
       "keywords": [
-        "join",
-        "putin",
-        "ready",
-        "talk",
-        "trump",
-        "zelensky"
+        "australia",
+        "counter",
+        "deal",
+        "earth",
+        "rare",
+        "sign"
       ],
       "item_ids": [
-        "fb6776d0680b"
+        "8cb1b4c78522"
       ],
       "outlets": [
         "BBC News"
@@ -9315,18 +9332,18 @@
       ]
     },
     {
-      "id": "be9cff781362",
-      "topic": "australia counter deal earth",
+      "id": "19ae3286ea2e",
+      "topic": "join putin ready talk",
       "keywords": [
-        "australia",
-        "counter",
-        "deal",
-        "earth",
-        "rare",
-        "sign"
+        "join",
+        "putin",
+        "ready",
+        "talk",
+        "trump",
+        "zelensky"
       ],
       "item_ids": [
-        "8cb1b4c78522"
+        "fb6776d0680b"
       ],
       "outlets": [
         "BBC News"
@@ -9381,24 +9398,6 @@
       ],
       "item_ids": [
         "c71b223051f0"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "acedadf283b0",
-      "topic": "amazon brazil exploration grant",
-      "keywords": [
-        "amazon",
-        "brazil",
-        "exploration",
-        "grant",
-        "licence",
-        "oil"
-      ],
-      "item_ids": [
-        "bfcfb2ed7dc7"
       ],
       "outlets": [
         "BBC News"
@@ -9960,6 +9959,24 @@
       ]
     },
     {
+      "id": "e645c22cd71d",
+      "topic": "become history japan make",
+      "keywords": [
+        "become",
+        "history",
+        "japan",
+        "make",
+        "set",
+        "takaichi"
+      ],
+      "item_ids": [
+        "2cc599fa378b"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "4cc78897c080",
       "topic": "aws daylong hits outage",
       "keywords": [
@@ -10032,42 +10049,6 @@
       ]
     },
     {
-      "id": "357f833a5332",
-      "topic": "call deployment guard national",
-      "keywords": [
-        "call",
-        "deployment",
-        "guard",
-        "national",
-        "san",
-        "trump"
-      ],
-      "item_ids": [
-        "8ff955d810d1"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "63c6d56da6c4",
-      "topic": "asks comey criminal jame",
-      "keywords": [
-        "asks",
-        "comey",
-        "criminal",
-        "jame",
-        "judge",
-        "toss"
-      ],
-      "item_ids": [
-        "4851fb1d89ce"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "1c3e66469902",
       "topic": "according afford alone american",
       "keywords": [
@@ -10104,18 +10085,36 @@
       ]
     },
     {
-      "id": "82bcdce8985d",
-      "topic": "czar hoffman investor openai",
+      "id": "357f833a5332",
+      "topic": "call deployment guard national",
       "keywords": [
-        "czar",
-        "hoffman",
-        "investor",
-        "openai",
-        "reid",
-        "spar"
+        "call",
+        "deployment",
+        "guard",
+        "national",
+        "san",
+        "trump"
       ],
       "item_ids": [
-        "11d8939f5138"
+        "8ff955d810d1"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "63c6d56da6c4",
+      "topic": "asks comey criminal jame",
+      "keywords": [
+        "asks",
+        "comey",
+        "criminal",
+        "jame",
+        "judge",
+        "toss"
+      ],
+      "item_ids": [
+        "4851fb1d89ce"
       ],
       "outlets": [
         "US Top News and Analysis"
