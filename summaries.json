@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-20T23:54:41Z",
+  "generated_at": "2025-10-21T00:12:08Z",
   "items": [
     {
       "id": "c6eb70794c12",
@@ -696,6 +696,39 @@
       },
       "read_minutes": 3,
       "cluster_id": "6cc9daf95221"
+    },
+    {
+      "id": "7f8cbbdabc4f",
+      "title": "Every Member of the Absolute Justice League, Explained",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/absolute-justice-league-members-explained/",
+      "published_at": "Tue, 21 Oct 2025 00:00:13 GMT",
+      "bullets": [
+        "• The Absolute Universe of DC Comics has introduced several new takes on classic DC heroes",
+        "• These include Superman, Batman and Wonder Woman",
+        "• There's also another, far more unexpected entry in this team that completely corrupts the DC concept of legacy",
+        "• This time around, the Absolute Universe Justice League is actually composed of villains "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.969
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Absolute Universe of DC Comics has introduced several new takes on classic DC heroes",
+          "• These include Superman, Batman and Wonder Woman"
+        ],
+        "hopeful_bullets": [
+          "• The Absolute Universe of DC Comics has introduced several new takes on classic DC heroes",
+          "• These include Superman, Batman and Wonder Woman"
+        ],
+        "stakes_bullets": [
+          "• There's also another, far more unexpected entry in this team that completely corrupts the DC concept of legacy"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "aea513b25c11"
     },
     {
       "id": "5c3c106dae8a",
@@ -3589,41 +3622,6 @@
       "cluster_id": "92dbe7bf15b2"
     },
     {
-      "id": "213294517017",
-      "title": "The Strangers: Chapter 2 Becomes a Streaming Hit With a Catch",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/the-strangers-chapter-2-canada-pvod-hit-october-2025/",
-      "published_at": "Mon, 20 Oct 2025 22:00:12 GMT",
-      "bullets": [
-        "• The Strangers – Chapter 2 is currently in 10th place on the Amazon streaming charts",
-        "• The film has bounced around the bottom half of the platform's top 10 since Oct",
-        "• 17",
-        "• Madelaine Petsch is the star of the movie "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.85
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Strangers – Chapter 2 is currently in 10th place on the Amazon streaming charts",
-          "• The film has bounced around the bottom half of the platform's top 10 since Oct"
-        ],
-        "hopeful_bullets": [
-          "• The Strangers – Chapter 2 is currently in 10th place on the Amazon streaming charts",
-          "• The film has bounced around the bottom half of the platform's top 10 since Oct"
-        ],
-        "stakes_bullets": [
-          "• The Strangers – Chapter 2 is currently in 10th place on the Amazon streaming charts",
-          "• The film has bounced around the bottom half of the platform's top 10 since Oct",
-          "• 17"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "25423ad4a645"
-    },
-    {
       "id": "d53b5769b389",
       "title": "Why did NASA’s chief just shake up the agency’s plans to land on the Moon?",
       "outlet": "Ars Technica - All content",
@@ -3729,9 +3727,10 @@
       "url": "https://www.theguardian.com/us-news/2025/oct/20/trump-white-house-ballroom-construction",
       "published_at": "Mon, 20 Oct 2025 21:42:14 GMT",
       "bullets": [
-        "• The Washington Post published photos of the demolition of parts of the East Wing of the White House on Monday",
-        "• Trump said on Monday that “ground has been broken on’s White House” to build the new ballroom",
-        "• One former lawmaker even called the renovation an “utter desecration”"
+        "• Construction of the White House's East Wing is under way in Washington, D.C",
+        "• President Donald Trump said on Monday",
+        "• Images of the construction of the East Wing have been posted on social media",
+        "• The White House did not respond to a request for comment from the media "
       ],
       "category": "US",
       "sentiment": {
@@ -3740,16 +3739,17 @@
       },
       "moods": {
         "brief_bullets": [
-          "• The Washington Post published photos of the demolition of parts of the East Wing of the White House on Monday",
-          "• Trump said on Monday that “ground has been broken on’s White House” to build the new ballroom"
+          "• Construction of the White House's East Wing is under way in Washington, D.C",
+          "• President Donald Trump said on Monday"
         ],
         "hopeful_bullets": [
-          "• The Washington Post published photos of the demolition of parts of the East Wing of the White House on Monday"
+          "• Construction of the White House's East Wing is under way in Washington, D.C",
+          "• Images of the construction of the East Wing have been posted on social media"
         ],
         "stakes_bullets": [
-          "• The Washington Post published photos of the demolition of parts of the East Wing of the White House on Monday",
-          "• Trump said on Monday that “ground has been broken on’s White House” to build the new ballroom",
-          "• One former lawmaker even called the renovation an “utter desecration”"
+          "• Construction of the White House's East Wing is under way in Washington, D.C",
+          "• President Donald Trump said on Monday",
+          "• Images of the construction of the East Wing have been posted on social media"
         ]
       },
       "read_minutes": 3,
@@ -13130,6 +13130,24 @@
       ]
     },
     {
+      "id": "aea513b25c11",
+      "topic": "absolute every explained justice",
+      "keywords": [
+        "absolute",
+        "every",
+        "explained",
+        "justice",
+        "league",
+        "member"
+      ],
+      "item_ids": [
+        "7f8cbbdabc4f"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "f0d4122907a3",
       "topic": "gem hidden lana lang",
       "keywords": [
@@ -13285,24 +13303,6 @@
       ],
       "item_ids": [
         "6ab724f09f53"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "25423ad4a645",
-      "topic": "become catch chapter hit",
-      "keywords": [
-        "become",
-        "catch",
-        "chapter",
-        "hit",
-        "stranger",
-        "streaming"
-      ],
-      "item_ids": [
-        "213294517017"
       ],
       "outlets": [
         "CBR"
