@@ -1,6 +1,40 @@
 {
-  "generated_at": "2025-10-22T05:03:07Z",
+  "generated_at": "2025-10-22T05:20:46Z",
   "items": [
+    {
+      "id": "0db0619ff928",
+      "title": "Peru’s interim president declares state of emergency after weeks of anti-government protests",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/22/peru-state-emergency-anti-government-protests-interim-president",
+      "published_at": "Wed, 22 Oct 2025 04:35:32 GMT",
+      "bullets": [
+        "• Peru's interim president, Jose Jeri, announced a state of emergency in Lima and the neighbouring port of Callao on Tuesday",
+        "• Under the emergency, the government can send the army to patrol the streets and restrict freedom of assembly and other rights",
+        "• This is the first major action by the interim president since he took office nearly two weeks ago "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.652
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Peru's interim president, Jose Jeri, announced a state of emergency in Lima and the neighbouring port of Callao on Tuesday",
+          "• Under the emergency, the government can send the army to patrol the streets and restrict freedom of assembly and other rights"
+        ],
+        "hopeful_bullets": [
+          "• Peru's interim president, Jose Jeri, announced a state of emergency in Lima and the neighbouring port of Callao on Tuesday",
+          "• Under the emergency, the government can send the army to patrol the streets and restrict freedom of assembly and other rights"
+        ],
+        "stakes_bullets": [
+          "• Peru's interim president, Jose Jeri, announced a state of emergency in Lima and the neighbouring port of Callao on Tuesday",
+          "• Under the emergency, the government can send the army to patrol the streets and restrict freedom of assembly and other rights",
+          "• This is the first major action by the interim president since he took office nearly two weeks ago "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4ec02278fc68"
+    },
     {
       "id": "dcc86cec86f6",
       "title": "Global use of coal hit record high in 2024",
@@ -4345,6 +4379,39 @@
       "cluster_id": "bec5092cc764"
     },
     {
+      "id": "62afe9146451",
+      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
+      "published_at": "Tue, 21 Oct 2025 12:00:36 GMT",
+      "bullets": [
+        "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+        "• But funding for the program has been stalled as winter approaches",
+        "• Millions of Americans face having to rely on the money to pay their bills "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• But funding for the program has been stalled as winter approaches"
+        ],
+        "hopeful_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• But funding for the program has been stalled as winter approaches"
+        ],
+        "stakes_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• Millions of Americans face having to rely on the money to pay their bills "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "50ee20333dc8"
+    },
+    {
       "id": "1715b5cad651",
       "title": "Trump EPA seeks to weaken scrutiny for some of US’s most toxic chemicals",
       "outlet": "Environment | The Guardian",
@@ -4377,39 +4444,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "4fa56ccbfa2c"
-    },
-    {
-      "id": "62afe9146451",
-      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
-      "published_at": "Tue, 21 Oct 2025 12:00:36 GMT",
-      "bullets": [
-        "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-        "• But funding for the program has been stalled as winter approaches",
-        "• Millions of Americans face having to rely on the money to pay their bills "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
-        ],
-        "hopeful_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
-        ],
-        "stakes_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• Millions of Americans face having to rely on the money to pay their bills "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "50ee20333dc8"
     },
     {
       "id": "45805a63e86d",
@@ -4510,38 +4544,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "4471a50eb053"
-    },
-    {
-      "id": "00bc0dbd4126",
-      "title": "CIA playing ‘most important part’ in US strikes in the Caribbean, sources say",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/21/us-strikes-caribbean-cia-role",
-      "published_at": "Tue, 21 Oct 2025 11:06:37 GMT",
-      "bullets": [
-        "• Central Intelligence Agency providing bulk of intelligence used to carry out airstrikes",
-        "• CIA providing real-time intelligence to detect which boats it believes are loaded with drugs, tracking their routes and making recommendations about which vessels should be hit by missiles",
-        "• Experts say much of the evidence used to select which alleged smugglers to kill will almost certainly remain secret "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Central Intelligence Agency providing bulk of intelligence used to carry out airstrikes",
-          "• CIA providing real-time intelligence to detect which boats it believes are loaded with drugs, tracking their routes and making recommendations about which vessels should be hit by missiles"
-        ],
-        "hopeful_bullets": [
-          "• Central Intelligence Agency providing bulk of intelligence used to carry out airstrikes",
-          "• CIA providing real-time intelligence to detect which boats it believes are loaded with drugs, tracking their routes and making recommendations about which vessels should be hit by missiles"
-        ],
-        "stakes_bullets": [
-          "• Experts say much of the evidence used to select which alleged smugglers to kill will almost certainly remain secret "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "9e778c507ad0"
     },
     {
       "id": "71e5d4fde750",
@@ -9024,96 +9026,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "e8cb4812f075"
-    },
-    {
-      "id": "6cc34dfb028d",
-      "title": "Weekend projections: Taylor Swift brings much-needed buzz to theaters",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260080830-Weekend-projections-Taylor-Swift-brings-much-needed-buzz-to-theaters",
-      "published_at": null,
-      "bullets": [
-        "• The Official Release Party of a Showgirl pulled in $33 million domestically and $46 million worldwide",
-        "• The last documentary to earn this kind of money was Michael Jackson’s This Is It, released posthumously in 2009, earning $23.2 million on opening weekend "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Official Release Party of a Showgirl pulled in $33 million domestically and $46 million worldwide",
-          "• The last documentary to earn this kind of money was Michael Jackson’s This Is It, released posthumously in 2009, earning $23.2 million on opening weekend "
-        ],
-        "hopeful_bullets": [
-          "• The Official Release Party of a Showgirl pulled in $33 million domestically and $46 million worldwide",
-          "• The last documentary to earn this kind of money was Michael Jackson’s This Is It, released posthumously in 2009, earning $23.2 million on opening weekend "
-        ],
-        "stakes_bullets": [
-          "• The Official Release Party of a Showgirl pulled in $33 million domestically and $46 million worldwide",
-          "• The last documentary to earn this kind of money was Michael Jackson’s This Is It, released posthumously in 2009, earning $23.2 million on opening weekend "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ff61f88758de"
-    },
-    {
-      "id": "f013c719b3de",
-      "title": "Weekend predictions: Taylor Swift set to have biggest party in theaters this weekend",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260070830-Weekend-predictions-Taylor-Swift-set-to-have-biggest-party-in-theaters-this-weekend",
-      "published_at": null,
-      "bullets": [
-        "• Taylor Swift set to have biggest party in theaters this weekend, with Taylor Swift | The Official Release Party of a Showgirl set to dominate at the box office",
-        "• The Smashing Machine could land in second place, but awards hopefuls will mostly be taking a back seat "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.875
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taylor Swift set to have biggest party in theaters this weekend, with Taylor Swift | The Official Release Party of a Showgirl set to dominate at the box office",
-          "• The Smashing Machine could land in second place, but awards hopefuls will mostly be taking a back seat "
-        ],
-        "hopeful_bullets": [
-          "• The Smashing Machine could land in second place, but awards hopefuls will mostly be taking a back seat "
-        ],
-        "stakes_bullets": [
-          "• The Smashing Machine could land in second place, but awards hopefuls will mostly be taking a back seat "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a868a6fe7739"
-    },
-    {
-      "id": "45c23c8d0be7",
-      "title": "Theater counts: Can One Battle After Another hold the line against Swift competition?",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260060830-Theater-counts-Can-One-Battle-After-Another-hold-the-line-against-Swift-competition",
-      "published_at": null,
-      "bullets": [
-        "• Taylor Swift | The Official Release Party of a Showgirl will be available for viewing at all 540 AMC Theatres locations, as well as at the Cinemark and Regal chains, at Cineplex in Canada, and at approximately 8,000 locations worldwide in 110+ territories across the globe "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.698
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taylor Swift | The Official Release Party of a Showgirl will be available for viewing at all 540 AMC Theatres locations, as well as at the Cinemark and Regal chains, at Cineplex in Canada, and at approximately 8,000 locations worldwide in 110+ territories across the globe "
-        ],
-        "hopeful_bullets": [
-          "• Taylor Swift | The Official Release Party of a Showgirl will be available for viewing at all 540 AMC Theatres locations, as well as at the Cinemark and Regal chains, at Cineplex in Canada, and at approximately 8,000 locations worldwide in 110+ territories across the globe "
-        ],
-        "stakes_bullets": [
-          "• Taylor Swift | The Official Release Party of a Showgirl will be available for viewing at all 540 AMC Theatres locations, as well as at the Cinemark and Regal chains, at Cineplex in Canada, and at approximately 8,000 locations worldwide in 110+ territories across the globe "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "2ede1ddb1e1a"
     }
   ],
   "clusters": [
@@ -9394,6 +9306,24 @@
       ]
     },
     {
+      "id": "4ec02278fc68",
+      "topic": "declare emergency interim peru",
+      "keywords": [
+        "declare",
+        "emergency",
+        "interim",
+        "peru",
+        "president",
+        "state"
+      ],
+      "item_ids": [
+        "0db0619ff928"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "3cf4f497c2cd",
       "topic": "atlantic north right say",
       "keywords": [
@@ -9424,24 +9354,6 @@
       ],
       "item_ids": [
         "a1aa8782a862"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "9e778c507ad0",
-      "topic": "cia important most part",
-      "keywords": [
-        "cia",
-        "important",
-        "most",
-        "part",
-        "playing",
-        "strike"
-      ],
-      "item_ids": [
-        "00bc0dbd4126"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -11051,24 +10963,6 @@
       ]
     },
     {
-      "id": "4fa56ccbfa2c",
-      "topic": "epa scrutiny seek some",
-      "keywords": [
-        "epa",
-        "scrutiny",
-        "seek",
-        "some",
-        "trump",
-        "weaken"
-      ],
-      "item_ids": [
-        "1715b5cad651"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
       "id": "50ee20333dc8",
       "topic": "delay fear heat million",
       "keywords": [
@@ -11081,6 +10975,24 @@
       ],
       "item_ids": [
         "62afe9146451"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "4fa56ccbfa2c",
+      "topic": "epa scrutiny seek some",
+      "keywords": [
+        "epa",
+        "scrutiny",
+        "seek",
+        "some",
+        "trump",
+        "weaken"
+      ],
+      "item_ids": [
+        "1715b5cad651"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11516,60 +11428,6 @@
       ],
       "item_ids": [
         "8e9daa1d39df"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "ff61f88758de",
-      "topic": "bring much projection swift",
-      "keywords": [
-        "bring",
-        "much",
-        "projection",
-        "swift",
-        "taylor",
-        "weekend"
-      ],
-      "item_ids": [
-        "6cc34dfb028d"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "a868a6fe7739",
-      "topic": "biggest prediction set swift",
-      "keywords": [
-        "biggest",
-        "prediction",
-        "set",
-        "swift",
-        "taylor",
-        "weekend"
-      ],
-      "item_ids": [
-        "f013c719b3de"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "2ede1ddb1e1a",
-      "topic": "another battle count hold",
-      "keywords": [
-        "another",
-        "battle",
-        "count",
-        "hold",
-        "line",
-        "theater"
-      ],
-      "item_ids": [
-        "45c23c8d0be7"
       ],
       "outlets": [
         "The Numbers"
