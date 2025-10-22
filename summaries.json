@@ -1,6 +1,39 @@
 {
-  "generated_at": "2025-10-22T07:57:27Z",
+  "generated_at": "2025-10-22T08:15:13Z",
   "items": [
+    {
+      "id": "b1eade1da47f",
+      "title": "Six dead in Russian drone and missile strikes on Ukrainian cities, officials say",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czjpe0193geo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 22 Oct 2025 07:37:24 GMT",
+      "bullets": [
+        "• Six dead in Russian drone and missile strikes on Ukrainian cities, officials say",
+        "• Two children among those killed in the attacks",
+        "• Russia has rejected calls for a ceasefire along the front lines",
+        "• US President Donald Trump's plans for a summit with Vladimir Putin are shelved "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Six dead in Russian drone and missile strikes on Ukrainian cities, officials say",
+          "• Two children among those killed in the attacks"
+        ],
+        "hopeful_bullets": [
+          "• Six dead in Russian drone and missile strikes on Ukrainian cities, officials say",
+          "• Two children among those killed in the attacks"
+        ],
+        "stakes_bullets": [
+          "• US President Donald Trump's plans for a summit with Vladimir Putin are shelved "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6cdf7f37db17"
+    },
     {
       "id": "54c202e8ab4c",
       "title": "Harlan Coben's Lazarus Delivers 2025’s Best TV Cliffhanger (But There's a Catch)",
@@ -102,6 +135,38 @@
       "cluster_id": "563fdba2f584"
     },
     {
+      "id": "b25db698ef45",
+      "title": "More than 60 dead after multi-vehicle crash in Uganda",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgql9lwddw5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 22 Oct 2025 07:26:48 GMT",
+      "bullets": [
+        "• Two buses collided head on while trying to overtake two other vehicles, police say",
+        "• One of the buses swerved in an attempt to avoid a crash, but in the process caused a \"chain reaction\" in which other vehicles lost control and overturned",
+        "• Police have urged motorists to avoid \"dangerous and careless overtaking\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Two buses collided head on while trying to overtake two other vehicles, police say",
+          "• One of the buses swerved in an attempt to avoid a crash, but in the process caused a \"chain reaction\" in which other vehicles lost control and overturned"
+        ],
+        "hopeful_bullets": [
+          "• Two buses collided head on while trying to overtake two other vehicles, police say",
+          "• One of the buses swerved in an attempt to avoid a crash, but in the process caused a \"chain reaction\" in which other vehicles lost control and overturned"
+        ],
+        "stakes_bullets": [
+          "• One of the buses swerved in an attempt to avoid a crash, but in the process caused a \"chain reaction\" in which other vehicles lost control and overturned"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "2a5ed60f7f82"
+    },
+    {
       "id": "8d4c92843fa3",
       "title": "Barclays ups guidance, announces surprise $670 million share buyback",
       "outlet": "US Top News and Analysis",
@@ -168,38 +233,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "8bbbc0cab301"
-    },
-    {
-      "id": "b25db698ef45",
-      "title": "More than 60 dead after multi-vehicle crash in Uganda",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgql9lwddw5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 22 Oct 2025 07:02:32 GMT",
-      "bullets": [
-        "• Two buses \"met head on\" while trying to overtake two other vehicles on the Kampala-Gulu Highway",
-        "• One of the buses swerved in an attempt to avoid a crash, but in the process caused a \"head on and side collision\" in which other vehicles lost control and overturned",
-        "• Police have urged motorists to avoid \"dangerous and careless overtaking\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Two buses \"met head on\" while trying to overtake two other vehicles on the Kampala-Gulu Highway",
-          "• One of the buses swerved in an attempt to avoid a crash, but in the process caused a \"head on and side collision\" in which other vehicles lost control and overturned"
-        ],
-        "hopeful_bullets": [
-          "• Two buses \"met head on\" while trying to overtake two other vehicles on the Kampala-Gulu Highway",
-          "• One of the buses swerved in an attempt to avoid a crash, but in the process caused a \"head on and side collision\" in which other vehicles lost control and overturned"
-        ],
-        "stakes_bullets": [
-          "• One of the buses swerved in an attempt to avoid a crash, but in the process caused a \"head on and side collision\" in which other vehicles lost control and overturned"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "2a5ed60f7f82"
     },
     {
       "id": "e9025c09e0e4",
@@ -305,39 +338,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "71b23c200bd6"
-    },
-    {
-      "id": "6f28ad3ff960",
-      "title": "Ukraine hits Russian chemical plant with UK-made Storm Shadow missiles",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crmxjverzzro?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 22 Oct 2025 06:34:22 GMT",
-      "bullets": [
-        "• Ukraine hits Russian chemical plant with UK-made Storm Shadow missiles",
-        "• Six people killed, including two children, in heavy drone and missile attack on several Ukrainian regions",
-        "• Russia has not yet commented on the strike on the Bryansk chemical plant, although it has warned the West not to give Ukraine long-range missiles "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ukraine hits Russian chemical plant with UK-made Storm Shadow missiles",
-          "• Six people killed, including two children, in heavy drone and missile attack on several Ukrainian regions"
-        ],
-        "hopeful_bullets": [
-          "• Ukraine hits Russian chemical plant with UK-made Storm Shadow missiles",
-          "• Six people killed, including two children, in heavy drone and missile attack on several Ukrainian regions"
-        ],
-        "stakes_bullets": [
-          "• Ukraine hits Russian chemical plant with UK-made Storm Shadow missiles",
-          "• Russia has not yet commented on the strike on the Bryansk chemical plant, although it has warned the West not to give Ukraine long-range missiles "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c874461ce0f7"
     },
     {
       "id": "acf04a833f18",
@@ -508,7 +508,7 @@
     },
     {
       "id": "bb7ae1ea17bc",
-      "title": "Only one prosecution made after 15,195 wood-burning complaints in a year in England",
+      "title": "No prosecutions made after 15,195 wood-burning complaints in a year in England",
       "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/environment/2025/oct/22/only-one-prosecution-wood-burning-complaints-year-england",
       "published_at": "Wed, 22 Oct 2025 05:00:56 GMT",
@@ -535,8 +535,8 @@
           "• In smoke control areas alone, 9,274 complaints were made – a 65% increase on the previous year"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "837f0ccc21a1"
+      "read_minutes": 2,
+      "cluster_id": "da930acc7998"
     },
     {
       "id": "1543f8005f0a",
@@ -679,28 +679,28 @@
       "url": "https://www.bbc.com/news/articles/cd675jygwp1o?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 22 Oct 2025 03:58:08 GMT",
       "bullets": [
-        "• Bodies of two Israeli hostages handed over to the Red Cross in Gaza",
-        "• The bodies of Arie Zalmanowicz and Tamir Adar have been identified by the Israeli military",
-        "• They were taken from the scene of the attack on the Gaza border on 7 October "
+        "• Bodies of Arie Zalmanowicz and Master Sgt Tamir Adar returned by Hamas on Tuesday",
+        "• Return of their remains means that Hamas has transferred 15 out of 28 deceased Israeli hostages",
+        "• Their coffins were handed over to troops in the Palestinian territory by the International Committee of the Red Cross "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.982
+        "score": 0.969
       },
       "moods": {
         "brief_bullets": [
-          "• Bodies of two Israeli hostages handed over to the Red Cross in Gaza",
-          "• The bodies of Arie Zalmanowicz and Tamir Adar have been identified by the Israeli military"
+          "• Bodies of Arie Zalmanowicz and Master Sgt Tamir Adar returned by Hamas on Tuesday",
+          "• Return of their remains means that Hamas has transferred 15 out of 28 deceased Israeli hostages"
         ],
         "hopeful_bullets": [
-          "• Bodies of two Israeli hostages handed over to the Red Cross in Gaza",
-          "• The bodies of Arie Zalmanowicz and Tamir Adar have been identified by the Israeli military"
+          "• Bodies of Arie Zalmanowicz and Master Sgt Tamir Adar returned by Hamas on Tuesday",
+          "• Return of their remains means that Hamas has transferred 15 out of 28 deceased Israeli hostages"
         ],
         "stakes_bullets": [
-          "• Bodies of two Israeli hostages handed over to the Red Cross in Gaza",
-          "• The bodies of Arie Zalmanowicz and Tamir Adar have been identified by the Israeli military",
-          "• They were taken from the scene of the attack on the Gaza border on 7 October "
+          "• Bodies of Arie Zalmanowicz and Master Sgt Tamir Adar returned by Hamas on Tuesday",
+          "• Return of their remains means that Hamas has transferred 15 out of 28 deceased Israeli hostages",
+          "• Their coffins were handed over to troops in the Palestinian territory by the International Committee of the Red Cross "
         ]
       },
       "read_minutes": 2,
@@ -9181,18 +9181,18 @@
       ]
     },
     {
-      "id": "c874461ce0f7",
-      "topic": "chemical hits made plant",
+      "id": "6cdf7f37db17",
+      "topic": "dead drone missile russian",
       "keywords": [
-        "chemical",
-        "hits",
-        "made",
-        "plant",
+        "dead",
+        "drone",
+        "missile",
         "russian",
-        "ukraine"
+        "six",
+        "strike"
       ],
       "item_ids": [
-        "6f28ad3ff960"
+        "b1eade1da47f"
       ],
       "outlets": [
         "BBC News"
@@ -11306,13 +11306,13 @@
       ]
     },
     {
-      "id": "837f0ccc21a1",
-      "topic": "195 burning made only",
+      "id": "da930acc7998",
+      "topic": "195 burning complaint made",
       "keywords": [
         "195",
         "burning",
+        "complaint",
         "made",
-        "only",
         "prosecution",
         "wood"
       ],
