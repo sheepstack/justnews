@@ -1,6 +1,38 @@
 {
-  "generated_at": "2025-10-22T10:03:09Z",
+  "generated_at": "2025-10-22T10:19:53Z",
   "items": [
+    {
+      "id": "b1eade1da47f",
+      "title": "Children among victims in Russian airstrikes, hours after Trump-Putin talks shelved",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czjpe0193geo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 22 Oct 2025 09:35:31 GMT",
+      "bullets": [
+        "• Children among victims in Russian airstrikes, hours after Trump-Putin talks shelved",
+        "• At least 26 people including children are reported hurt, including two children",
+        "• Ukraine's military says it attacked a Russian chemical plant with UK-supplied Storm Shadow missiles "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Children among victims in Russian airstrikes, hours after Trump-Putin talks shelved",
+          "• At least 26 people including children are reported hurt, including two children"
+        ],
+        "hopeful_bullets": [
+          "• Children among victims in Russian airstrikes, hours after Trump-Putin talks shelved",
+          "• At least 26 people including children are reported hurt, including two children"
+        ],
+        "stakes_bullets": [
+          "• Ukraine's military says it attacked a Russian chemical plant with UK-supplied Storm Shadow missiles "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "02b16d496d6c"
+    },
     {
       "id": "a74fcf47e4a4",
       "title": "NASA’s Boss Just Shook Up the Agency’s Plans to Land on the Moon",
@@ -32,38 +64,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "a8b091fe5e4c"
-    },
-    {
-      "id": "b1eade1da47f",
-      "title": "Seven dead in Russian airstrikes, hours after Trump shelves bid for Putin talks",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czjpe0193geo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 22 Oct 2025 09:17:50 GMT",
-      "bullets": [
-        "• Seven dead in Russian airstrikes, hours after US President Donald Trump shelved talks with Russia's Vladimir Putin",
-        "• Ukraine's military said it had attacked a Russian plant in the Bryansk border region with UK-supplied Storm Shadow missiles",
-        "• Russia has rejected calls for a ceasefire along the current front lines "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Seven dead in Russian airstrikes, hours after US President Donald Trump shelved talks with Russia's Vladimir Putin",
-          "• Ukraine's military said it had attacked a Russian plant in the Bryansk border region with UK-supplied Storm Shadow missiles"
-        ],
-        "hopeful_bullets": [
-          "• Seven dead in Russian airstrikes, hours after US President Donald Trump shelved talks with Russia's Vladimir Putin",
-          "• Ukraine's military said it had attacked a Russian plant in the Bryansk border region with UK-supplied Storm Shadow missiles"
-        ],
-        "stakes_bullets": [
-          "• Ukraine's military said it had attacked a Russian plant in the Bryansk border region with UK-supplied Storm Shadow missiles"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1ecc3b76f012"
     },
     {
       "id": "b2dda16c57e5",
@@ -429,38 +429,6 @@
       "cluster_id": "2a5ed60f7f82"
     },
     {
-      "id": "8d4c92843fa3",
-      "title": "Barclays ups guidance, announces surprise $670 million share buyback",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/22/barclays-q3-earnings.html",
-      "published_at": "Wed, 22 Oct 2025 07:55:52 GMT",
-      "bullets": [
-        "• Barclays announces a £500 million share buyback in third-quarter earnings",
-        "• The bank said it now expected to deliver RoTE (Return on Tangible Equity) of greater than 11%, up from around 11% for the full year",
-        "• Earnings took a hit from a £235 million charge related to the U.K.'s car loan scandal "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Barclays announces a £500 million share buyback in third-quarter earnings",
-          "• The bank said it now expected to deliver RoTE (Return on Tangible Equity) of greater than 11%, up from around 11% for the full year"
-        ],
-        "hopeful_bullets": [
-          "• Barclays announces a £500 million share buyback in third-quarter earnings",
-          "• The bank said it now expected to deliver RoTE (Return on Tangible Equity) of greater than 11%, up from around 11% for the full year"
-        ],
-        "stakes_bullets": [
-          "• The bank said it now expected to deliver RoTE (Return on Tangible Equity) of greater than 11%, up from around 11% for the full year"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2c0670f3bd1f"
-    },
-    {
       "id": "54c202e8ab4c",
       "title": "Harlan Coben's Lazarus Delivers 2025’s Best TV Cliffhanger (But There's a Catch)",
       "outlet": "CBR",
@@ -527,38 +495,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "f351bcbe0169"
-    },
-    {
-      "id": "b9aacb35f3de",
-      "title": "UK rate cut hangs in the balance after latest inflation data",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/22/uk-inflation-holds-steady-at-3point8percent-in-september-cooler-than-expected.html",
-      "published_at": "Wed, 22 Oct 2025 07:29:42 GMT",
-      "bullets": [
-        "• Annual inflation rate was unchanged in September at 3.8% for the third month in a row",
-        "• Core inflation, which excludes more volatile energy, food, alcohol and tobacco prices, rose by an annual 3.5% in the year to September",
-        "• The Bank of England forecast earlier this year that the consumer price index would top out at 4% "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Annual inflation rate was unchanged in September at 3.8% for the third month in a row",
-          "• Core inflation, which excludes more volatile energy, food, alcohol and tobacco prices, rose by an annual 3.5% in the year to September"
-        ],
-        "hopeful_bullets": [
-          "• Annual inflation rate was unchanged in September at 3.8% for the third month in a row",
-          "• Core inflation, which excludes more volatile energy, food, alcohol and tobacco prices, rose by an annual 3.5% in the year to September"
-        ],
-        "stakes_bullets": [
-          "• The Bank of England forecast earlier this year that the consumer price index would top out at 4% "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "563fdba2f584"
     },
     {
       "id": "e9025c09e0e4",
@@ -1365,40 +1301,6 @@
       "cluster_id": "f6947b8f837e"
     },
     {
-      "id": "056d2be2c727",
-      "title": "Samsung and Google attempt to one-up Apple with AI-powered headset",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/21/samsung-google-galaxy-xr-headset-ai.html",
-      "published_at": "Wed, 22 Oct 2025 02:00:01 GMT",
-      "bullets": [
-        "• Samsung's Galaxy XR lets you enter an immersive, virtual computing experience where your apps and other content appear to float in your field of view",
-        "• External cameras project the real world onto the tiny 4K displays in the headset",
-        "• You control everything with hand gestures, your voice or a mix of both "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Samsung's Galaxy XR lets you enter an immersive, virtual computing experience where your apps and other content appear to float in your field of view",
-          "• External cameras project the real world onto the tiny 4K displays in the headset"
-        ],
-        "hopeful_bullets": [
-          "• Samsung's Galaxy XR lets you enter an immersive, virtual computing experience where your apps and other content appear to float in your field of view",
-          "• External cameras project the real world onto the tiny 4K displays in the headset"
-        ],
-        "stakes_bullets": [
-          "• Samsung's Galaxy XR lets you enter an immersive, virtual computing experience where your apps and other content appear to float in your field of view",
-          "• External cameras project the real world onto the tiny 4K displays in the headset",
-          "• You control everything with hand gestures, your voice or a mix of both "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "5f603d9b5ee5"
-    },
-    {
       "id": "b58d69a8a2a1",
       "title": "Samsung’s Galaxy XR Mixed Reality Headset Is Here: Price, Release Date, Features",
       "outlet": "WIRED",
@@ -1824,39 +1726,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "8e55e7e9c317"
-    },
-    {
-      "id": "6e7733d3b508",
-      "title": "Trump’s Tariff Fight With China Means Trouble for a Vast Wilderness in Brazil",
-      "outlet": "NYT > Climate and Environment",
-      "url": "https://www.nytimes.com/2025/10/15/climate/china-brazil-soybeans-trade-midwest-amazon.html",
-      "published_at": "Wed, 15 Oct 2025 09:03:03 +0000",
-      "bullets": [
-        "• At issue is China’s enormous appetite for soybeans, mainly for cooking oil and livestock feed",
-        "• China has all but stopped buying American soybeans in retaliation for hefty U.S",
-        "• tariffs on Chinese goods",
-        "• That stands to get worse in the coming months, giving Brazilian farmers greater incentives to expand into new areas to grow soy "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.969
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At issue is China’s enormous appetite for soybeans, mainly for cooking oil and livestock feed",
-          "• China has all but stopped buying American soybeans in retaliation for hefty U.S"
-        ],
-        "hopeful_bullets": [
-          "• At issue is China’s enormous appetite for soybeans, mainly for cooking oil and livestock feed",
-          "• China has all but stopped buying American soybeans in retaliation for hefty U.S"
-        ],
-        "stakes_bullets": [
-          "• That stands to get worse in the coming months, giving Brazilian farmers greater incentives to expand into new areas to grow soy "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "08b1b24f71d8"
     },
     {
       "id": "ef49fb62f975",
@@ -2582,6 +2451,38 @@
       "cluster_id": "ac3def52e57f"
     },
     {
+      "id": "c4d07500afa8",
+      "title": "Meta partners with Blue Owl Capital on $27 billion AI data center project",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/21/meta-blue-owl-capital-partner-on-27-billion-ai-data-center-project-.html",
+      "published_at": "Tue, 21 Oct 2025 21:38:00 GMT",
+      "bullets": [
+        "• Meta forms a joint venture agreement with Blue Owl Capital to fund and develop its massive data center in Louisiana",
+        "• Blue Owl will own 80% of the joint venture, while Meta will retain a 20% stake and oversee the construction and property management services of the facility",
+        "• The social media company has been spending heavily on artificial intelligence "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.945
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Meta forms a joint venture agreement with Blue Owl Capital to fund and develop its massive data center in Louisiana",
+          "• Blue Owl will own 80% of the joint venture, while Meta will retain a 20% stake and oversee the construction and property management services of the facility"
+        ],
+        "hopeful_bullets": [
+          "• Meta forms a joint venture agreement with Blue Owl Capital to fund and develop its massive data center in Louisiana",
+          "• Blue Owl will own 80% of the joint venture, while Meta will retain a 20% stake and oversee the construction and property management services of the facility"
+        ],
+        "stakes_bullets": [
+          "• Blue Owl will own 80% of the joint venture, while Meta will retain a 20% stake and oversee the construction and property management services of the facility"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "eb17c1efa435"
+    },
+    {
       "id": "bd2b7b0836c6",
       "title": "‘Saw’ Restoration to Receive Special Legacy Screening at Sundance Film Fest’s Final Year in Park City",
       "outlet": "Bloody Disgusting!",
@@ -2913,6 +2814,39 @@
       "cluster_id": "966dd0e59189"
     },
     {
+      "id": "ca907dd8fa56",
+      "title": "Microsoft CEO Satya Nadella's annual pay jumps to $96.5 million",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/21/microsoft-ceo-satya-nadellas-total-comp-rises-to-96point5-million.html",
+      "published_at": "Tue, 21 Oct 2025 21:01:16 GMT",
+      "bullets": [
+        "• Microsoft CEO Satya Nadella's pay for fiscal 2025 climbs 22% to $96.5 million from $79.1 million last year",
+        "• That includes more than $84 million in stock awards and over $9.5M in cash incentives",
+        "• So far in 2025, Microsoft's stock price has risen by 23%, topping the S&P 500's 15% gain "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.815
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Microsoft CEO Satya Nadella's pay for fiscal 2025 climbs 22% to $96.5 million from $79.1 million last year",
+          "• That includes more than $84 million in stock awards and over $9.5M in cash incentives"
+        ],
+        "hopeful_bullets": [
+          "• That includes more than $84 million in stock awards and over $9.5M in cash incentives"
+        ],
+        "stakes_bullets": [
+          "• Microsoft CEO Satya Nadella's pay for fiscal 2025 climbs 22% to $96.5 million from $79.1 million last year",
+          "• That includes more than $84 million in stock awards and over $9.5M in cash incentives",
+          "• So far in 2025, Microsoft's stock price has risen by 23%, topping the S&P 500's 15% gain "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b66d9ffde7da"
+    },
+    {
       "id": "8bcf1e7dcda7",
       "title": "Distribution Macabre – Movie Pitch Service To Lionsgate, Shudder, and more",
       "outlet": "HorrorFix",
@@ -2977,6 +2911,37 @@
       },
       "read_minutes": 16,
       "cluster_id": "69b01b10c678"
+    },
+    {
+      "id": "49e9db218954",
+      "title": "Travis Kelce joins activist investor Jana Partners in push to revive Six Flags",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/21/travis-kelce-joins-activist-investor-jana-partners-in-push-to-revive-six-flags.html",
+      "published_at": "Tue, 21 Oct 2025 20:45:22 GMT",
+      "bullets": [
+        "• NFL star Travis Kelce is teaming up with activist investor Jana Partners in a bid to help reshape the future of Six Flags Entertainment Corp",
+        "• The investment group now holds an economic interest of roughly 9% in the amusement park operator",
+        "• The group plans to engage with Six Flags' board and management to explore ways to \"enhance shareholder value\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.965
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NFL star Travis Kelce is teaming up with activist investor Jana Partners in a bid to help reshape the future of Six Flags Entertainment Corp",
+          "• The investment group now holds an economic interest of roughly 9% in the amusement park operator"
+        ],
+        "hopeful_bullets": [
+          "• NFL star Travis Kelce is teaming up with activist investor Jana Partners in a bid to help reshape the future of Six Flags Entertainment Corp"
+        ],
+        "stakes_bullets": [
+          "• The group plans to engage with Six Flags' board and management to explore ways to \"enhance shareholder value\""
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "51f044c490c7"
     },
     {
       "id": "556cbb2f9963",
@@ -9094,15 +9059,15 @@
   ],
   "clusters": [
     {
-      "id": "1ecc3b76f012",
-      "topic": "airstrike dead hour russian",
+      "id": "02b16d496d6c",
+      "topic": "airstrike among children hour",
       "keywords": [
         "airstrike",
-        "dead",
+        "among",
+        "children",
         "hour",
         "russian",
-        "seven",
-        "trump"
+        "victim"
       ],
       "item_ids": [
         "b1eade1da47f"
@@ -9871,24 +9836,6 @@
       ]
     },
     {
-      "id": "2c0670f3bd1f",
-      "topic": "670 announce barclay guidance",
-      "keywords": [
-        "670",
-        "announce",
-        "barclay",
-        "guidance",
-        "surprise",
-        "ups"
-      ],
-      "item_ids": [
-        "8d4c92843fa3"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "8bbbc0cab301",
       "topic": "apple figure founder hundred",
       "keywords": [
@@ -9925,18 +9872,54 @@
       ]
     },
     {
-      "id": "563fdba2f584",
-      "topic": "balance cut data hang",
+      "id": "51f044c490c7",
+      "topic": "activist investor jana join",
       "keywords": [
-        "balance",
-        "cut",
-        "data",
-        "hang",
-        "inflation",
-        "rate"
+        "activist",
+        "investor",
+        "jana",
+        "join",
+        "kelce",
+        "travi"
       ],
       "item_ids": [
-        "b9aacb35f3de"
+        "49e9db218954"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "eb17c1efa435",
+      "topic": "billion blue capital meta",
+      "keywords": [
+        "billion",
+        "blue",
+        "capital",
+        "meta",
+        "owl",
+        "partner"
+      ],
+      "item_ids": [
+        "c4d07500afa8"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "b66d9ffde7da",
+      "topic": "annual ceo microsoft nadella",
+      "keywords": [
+        "annual",
+        "ceo",
+        "microsoft",
+        "nadella",
+        "pay",
+        "satya"
+      ],
+      "item_ids": [
+        "ca907dd8fa56"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9955,24 +9938,6 @@
       ],
       "item_ids": [
         "68918cdddf02"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "5f603d9b5ee5",
-      "topic": "apple attempt google headset",
-      "keywords": [
-        "apple",
-        "attempt",
-        "google",
-        "headset",
-        "powered",
-        "samsung"
-      ],
-      "item_ids": [
-        "056d2be2c727"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -11183,24 +11148,6 @@
       ],
       "outlets": [
         "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "08b1b24f71d8",
-      "topic": "china fight mean tariff",
-      "keywords": [
-        "china",
-        "fight",
-        "mean",
-        "tariff",
-        "trouble",
-        "trump"
-      ],
-      "item_ids": [
-        "6e7733d3b508"
-      ],
-      "outlets": [
-        "NYT > Climate and Environment"
       ]
     },
     {
