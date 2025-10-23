@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-22T23:56:42Z",
+  "generated_at": "2025-10-23T00:04:07Z",
   "items": [
     {
       "id": "9b44bb2f3eb7",
@@ -34,35 +34,135 @@
       "cluster_id": "23b1f1b1af96"
     },
     {
+      "id": "5bbb4d5775dc",
+      "title": "Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He's Building",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/elon-musk-wants-strong-influence-over-the-robot-army-hes-building/",
+      "published_at": "Wed, 22 Oct 2025 23:37:05 +0000",
+      "bullets": [
+        "• Tesla CEO Elon Musk has made clear that he thinks of Tesla as an innovator in artificial intelligence and software",
+        "• In November, Tesla shareholders will vote on a proposal to pay Musk $1 trillion over the next decade",
+        "• Musk would only get that big figure if he hit a series of ambitious metrics, including 20 million vehicles delivered, one million robotaxis in commercial operation, and an $8.5 trillion valuation "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tesla CEO Elon Musk has made clear that he thinks of Tesla as an innovator in artificial intelligence and software",
+          "• In November, Tesla shareholders will vote on a proposal to pay Musk $1 trillion over the next decade"
+        ],
+        "hopeful_bullets": [
+          "• Tesla CEO Elon Musk has made clear that he thinks of Tesla as an innovator in artificial intelligence and software",
+          "• In November, Tesla shareholders will vote on a proposal to pay Musk $1 trillion over the next decade"
+        ],
+        "stakes_bullets": [
+          "• In November, Tesla shareholders will vote on a proposal to pay Musk $1 trillion over the next decade"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "81489d1604a4"
+    },
+    {
       "id": "e623dddd0f8d",
       "title": "New York City mayoral debate live: Zohran Mamdani, Andrew Cuomo and Curtis Sliwa face off for final time",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/22/nyc-mayoral-debate-mamdani-cuomo-live-updates",
-      "published_at": "Wed, 22 Oct 2025 23:24:27 GMT",
+      "published_at": "Wed, 22 Oct 2025 23:35:35 GMT",
       "bullets": [
-        "• Candidates for New York City's third presidential election begin campaigning on Saturday, October 25",
-        "• Zohran Mamdani says Donald Trump 'has all the cards' and 'will take over New York' Mmamdani claims he is the true representative of New York voters "
+        "• Zohran Mamdani and Curtis Sliwa take part in two-hour debate in Queens, New York",
+        "• Debate likely to focus on public safety, rising cost of living, housing and Donald Trump",
+        "• First time candidates will be able to make their pitch to New Yorkers before early voting begins on Saturday, 25 October "
       ],
       "category": "US",
       "sentiment": {
         "label": "positive",
-        "score": 0.908
+        "score": 0.97
       },
       "moods": {
         "brief_bullets": [
-          "• Candidates for New York City's third presidential election begin campaigning on Saturday, October 25",
-          "• Zohran Mamdani says Donald Trump 'has all the cards' and 'will take over New York' Mmamdani claims he is the true representative of New York voters "
+          "• Zohran Mamdani and Curtis Sliwa take part in two-hour debate in Queens, New York",
+          "• Debate likely to focus on public safety, rising cost of living, housing and Donald Trump"
         ],
         "hopeful_bullets": [
-          "• Candidates for New York City's third presidential election begin campaigning on Saturday, October 25",
-          "• Zohran Mamdani says Donald Trump 'has all the cards' and 'will take over New York' Mmamdani claims he is the true representative of New York voters "
+          "• Zohran Mamdani and Curtis Sliwa take part in two-hour debate in Queens, New York",
+          "• Debate likely to focus on public safety, rising cost of living, housing and Donald Trump"
         ],
         "stakes_bullets": [
-          "• Zohran Mamdani says Donald Trump 'has all the cards' and 'will take over New York' Mmamdani claims he is the true representative of New York voters "
+          "• First time candidates will be able to make their pitch to New Yorkers before early voting begins on Saturday, 25 October "
         ]
       },
-      "read_minutes": 6,
+      "read_minutes": 7,
       "cluster_id": "e39c504bb1fa"
+    },
+    {
+      "id": "3d4df6d353c1",
+      "title": "IBM tops third-quarter estimates and lifts guidance, but stock drops",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/22/ibm-q3-2025-earnings-report.html",
+      "published_at": "Wed, 22 Oct 2025 23:34:36 GMT",
+      "bullets": [
+        "• IBM reported third-quarter results that topped Wall Street estimates",
+        "• Revenue increased 9% from about $15 billion in the year-ago period",
+        "• Still, the stock dropped about 6% in extended trading",
+        "• CEO Arvind Krishna: AI book of business has surpassed $9.5 billion "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• IBM reported third-quarter results that topped Wall Street estimates",
+          "• Revenue increased 9% from about $15 billion in the year-ago period"
+        ],
+        "hopeful_bullets": [
+          "• IBM reported third-quarter results that topped Wall Street estimates",
+          "• Revenue increased 9% from about $15 billion in the year-ago period"
+        ],
+        "stakes_bullets": [
+          "• IBM reported third-quarter results that topped Wall Street estimates",
+          "• Revenue increased 9% from about $15 billion in the year-ago period",
+          "• CEO Arvind Krishna: AI book of business has surpassed $9.5 billion "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0b790ee13fd1"
+    },
+    {
+      "id": "58003447e221",
+      "title": "Trump says Putin talks 'don't go anywhere' as he imposes new sanctions",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd6758pn6ylo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 22 Oct 2025 23:30:11 GMT",
+      "bullets": [
+        "• Trump says Putin talks 'don't go anywhere' as he imposes new sanctions on Russia's two largest oil companies",
+        "• US Treasury Secretary Scott Bessent said the new sanctions were needed due to \"Putin's refusal to end this senseless war\" Earlier this week, Russia unleashed an intense bombardment on Ukraine that killed at least seven people "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump says Putin talks 'don't go anywhere' as he imposes new sanctions on Russia's two largest oil companies",
+          "• US Treasury Secretary Scott Bessent said the new sanctions were needed due to \"Putin's refusal to end this senseless war\" Earlier this week, Russia unleashed an intense bombardment on Ukraine that killed at least seven people "
+        ],
+        "hopeful_bullets": [
+          "• Trump says Putin talks 'don't go anywhere' as he imposes new sanctions on Russia's two largest oil companies",
+          "• US Treasury Secretary Scott Bessent said the new sanctions were needed due to \"Putin's refusal to end this senseless war\" Earlier this week, Russia unleashed an intense bombardment on Ukraine that killed at least seven people "
+        ],
+        "stakes_bullets": [
+          "• Trump says Putin talks 'don't go anywhere' as he imposes new sanctions on Russia's two largest oil companies",
+          "• US Treasury Secretary Scott Bessent said the new sanctions were needed due to \"Putin's refusal to end this senseless war\" Earlier this week, Russia unleashed an intense bombardment on Ukraine that killed at least seven people "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "9b9c4f099f41"
     },
     {
       "id": "1182bde2353f",
@@ -195,38 +295,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "ebc00d295308"
-    },
-    {
-      "id": "58003447e221",
-      "title": "Trump says Putin talks 'don't go anywhere' as he imposes new sanctions",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd6758pn6ylo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 22 Oct 2025 23:03:04 GMT",
-      "bullets": [
-        "• Trump says Putin talks 'don't go anywhere' as he imposes new sanctions on Russia's two largest oil companies",
-        "• US Treasury Secretary Scott Bessent said the new sanctions were needed due to \"Putin's refusal to end this senseless war\" Earlier this week, Russia unleashed an intense bombardment on Ukraine that killed at least seven people "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump says Putin talks 'don't go anywhere' as he imposes new sanctions on Russia's two largest oil companies",
-          "• US Treasury Secretary Scott Bessent said the new sanctions were needed due to \"Putin's refusal to end this senseless war\" Earlier this week, Russia unleashed an intense bombardment on Ukraine that killed at least seven people "
-        ],
-        "hopeful_bullets": [
-          "• Trump says Putin talks 'don't go anywhere' as he imposes new sanctions on Russia's two largest oil companies",
-          "• US Treasury Secretary Scott Bessent said the new sanctions were needed due to \"Putin's refusal to end this senseless war\" Earlier this week, Russia unleashed an intense bombardment on Ukraine that killed at least seven people "
-        ],
-        "stakes_bullets": [
-          "• Trump says Putin talks 'don't go anywhere' as he imposes new sanctions on Russia's two largest oil companies",
-          "• US Treasury Secretary Scott Bessent said the new sanctions were needed due to \"Putin's refusal to end this senseless war\" Earlier this week, Russia unleashed an intense bombardment on Ukraine that killed at least seven people "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "9b9c4f099f41"
     },
     {
       "id": "55fd440de223",
@@ -943,25 +1011,26 @@
       "url": "https://www.theguardian.com/us-news/2025/oct/22/senator-jeff-merkley-floor-speech-trump",
       "published_at": "Wed, 22 Oct 2025 21:25:05 GMT",
       "bullets": [
-        "• Merkley: 'We’re in the most perilous moment, the biggest threat to our constitution since the civil war' The Oregon senator gave a marathon, nearly 23-hour speech on the Senate floor on Tuesday night",
-        "• He repeated his words as he finished speaking just before sunset the following day "
+        "• Merkley: 'We're in the most perilous moment, the biggest threat to our constitution since the civil war' He gave a marathon, nearly 23-hour speech on the Senate floor on Tuesday and Wednesday",
+        "• The speech was made in response to anti-Trump protesters who had filled the streets of American cities "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• Merkley: 'We’re in the most perilous moment, the biggest threat to our constitution since the civil war' The Oregon senator gave a marathon, nearly 23-hour speech on the Senate floor on Tuesday night",
-          "• He repeated his words as he finished speaking just before sunset the following day "
+          "• Merkley: 'We're in the most perilous moment, the biggest threat to our constitution since the civil war' He gave a marathon, nearly 23-hour speech on the Senate floor on Tuesday and Wednesday",
+          "• The speech was made in response to anti-Trump protesters who had filled the streets of American cities "
         ],
         "hopeful_bullets": [
-          "• He repeated his words as he finished speaking just before sunset the following day "
+          "• Merkley: 'We're in the most perilous moment, the biggest threat to our constitution since the civil war' He gave a marathon, nearly 23-hour speech on the Senate floor on Tuesday and Wednesday",
+          "• The speech was made in response to anti-Trump protesters who had filled the streets of American cities "
         ],
         "stakes_bullets": [
-          "• Merkley: 'We’re in the most perilous moment, the biggest threat to our constitution since the civil war' The Oregon senator gave a marathon, nearly 23-hour speech on the Senate floor on Tuesday night",
-          "• He repeated his words as he finished speaking just before sunset the following day "
+          "• Merkley: 'We're in the most perilous moment, the biggest threat to our constitution since the civil war' He gave a marathon, nearly 23-hour speech on the Senate floor on Tuesday and Wednesday",
+          "• The speech was made in response to anti-Trump protesters who had filled the streets of American cities "
         ]
       },
       "read_minutes": 4,
@@ -1364,40 +1433,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "c9ad8ed0e7a8"
-    },
-    {
-      "id": "3d4df6d353c1",
-      "title": "IBM tops third-quarter estimates and lifts guidance, but stock drops",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/22/ibm-q3-2025-earnings-report.html",
-      "published_at": "Wed, 22 Oct 2025 20:28:49 GMT",
-      "bullets": [
-        "• IBM reported third-quarter results that topped Wall Street estimates",
-        "• The company's software revenue rose 10% to $7.21 billion, meeting a StreetAccount estimate",
-        "• CEO Arvind Krishna said the company's AI book of business has surpassed $9.5 million",
-        "• IBM's stock dropped 5% in extended trading "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• IBM reported third-quarter results that topped Wall Street estimates",
-          "• The company's software revenue rose 10% to $7.21 billion, meeting a StreetAccount estimate"
-        ],
-        "hopeful_bullets": [
-          "• IBM reported third-quarter results that topped Wall Street estimates",
-          "• The company's software revenue rose 10% to $7.21 billion, meeting a StreetAccount estimate"
-        ],
-        "stakes_bullets": [
-          "• IBM reported third-quarter results that topped Wall Street estimates",
-          "• The company's software revenue rose 10% to $7.21 billion, meeting a StreetAccount estimate"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0b790ee13fd1"
     },
     {
       "id": "e8b57cc0d38b",
@@ -3523,40 +3558,6 @@
       "cluster_id": "47aedd2c475a"
     },
     {
-      "id": "4701f90ea902",
-      "title": "Historians Don't Think a US Civil War Is Likely—but They're Still Nervous",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/path-to-civil-war/",
-      "published_at": "Wed, 22 Oct 2025 15:00:00 +0000",
-      "bullets": [
-        "• It's impossible to look around and not wonder whether the US is teetering on the brink",
-        "• The US military has had boots on the ground in four major cities, another state, and the nation’s capital",
-        "• Elected officials have spoken openly about a ‘national divorce’"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• It's impossible to look around and not wonder whether the US is teetering on the brink",
-          "• The US military has had boots on the ground in four major cities, another state, and the nation’s capital"
-        ],
-        "hopeful_bullets": [
-          "• It's impossible to look around and not wonder whether the US is teetering on the brink",
-          "• The US military has had boots on the ground in four major cities, another state, and the nation’s capital"
-        ],
-        "stakes_bullets": [
-          "• It's impossible to look around and not wonder whether the US is teetering on the brink",
-          "• The US military has had boots on the ground in four major cities, another state, and the nation’s capital",
-          "• Elected officials have spoken openly about a ‘national divorce’"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "883a3de88b0b"
-    },
-    {
       "id": "79e3de7ab34b",
       "title": "Depeche Mode Announce Physical Release of New Live Album and Film",
       "outlet": "RSS: News",
@@ -5181,6 +5182,40 @@
       "cluster_id": "4d68b7d6cb41"
     },
     {
+      "id": "1699713b0fb3",
+      "title": "‘The Conjuring: Last Rites’ is a Drawn-Out Conclusion to a Dependable Franchise [Review]",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-reviews/the-conjuring-last-rites-is-a-drawn-out-conclusion-to-a-dependable-franchise-review/",
+      "published_at": "Wed, 10 Sep 2025 23:38:47 +0000",
+      "bullets": [
+        "• It’s been twelve years since the first Conjuring movie was released, or I should say, unleashed on the general public in 2013",
+        "• The most recent entry, The Conjuring: Last Rites, is like a swan song (most likely), and I would say it handles it",
+        "• Franchises quite simply just work best in horror "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.865
+      },
+      "moods": {
+        "brief_bullets": [
+          "• It’s been twelve years since the first Conjuring movie was released, or I should say, unleashed on the general public in 2013",
+          "• The most recent entry, The Conjuring: Last Rites, is like a swan song (most likely), and I would say it handles it"
+        ],
+        "hopeful_bullets": [
+          "• It’s been twelve years since the first Conjuring movie was released, or I should say, unleashed on the general public in 2013",
+          "• The most recent entry, The Conjuring: Last Rites, is like a swan song (most likely), and I would say it handles it"
+        ],
+        "stakes_bullets": [
+          "• It’s been twelve years since the first Conjuring movie was released, or I should say, unleashed on the general public in 2013",
+          "• The most recent entry, The Conjuring: Last Rites, is like a swan song (most likely), and I would say it handles it",
+          "• Franchises quite simply just work best in horror "
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "5306313fe14f"
+    },
+    {
       "id": "8bc2e543862e",
       "title": "The Boba Fett Trailer has us Geeking Out Loud – SWR #479",
       "outlet": "The Star Wars Report Podcast",
@@ -5213,6 +5248,70 @@
       },
       "read_minutes": 40,
       "cluster_id": "a98a0ede1c29"
+    },
+    {
+      "id": "7d9fedc75080",
+      "title": "Matt Wagner talks Dracula Book III: The Count",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-news/matt-wagner-talks-dracula-book-iii-the-count/",
+      "published_at": "Wed, 01 Oct 2025 17:25:04 +0000",
+      "bullets": [
+        "• Matt Wagner (Grendel) and Kelley Jones (Batman: Red Rain) are returning to their fresh take on Bram Stoker’s 1897 novel Dracula with a new chapter",
+        "• The Count continues their re-telling from the point-of-view of Dracula himself and moves further along in the story in graphic novel form "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Matt Wagner (Grendel) and Kelley Jones (Batman: Red Rain) are returning to their fresh take on Bram Stoker’s 1897 novel Dracula with a new chapter",
+          "• The Count continues their re-telling from the point-of-view of Dracula himself and moves further along in the story in graphic novel form "
+        ],
+        "hopeful_bullets": [
+          "• Matt Wagner (Grendel) and Kelley Jones (Batman: Red Rain) are returning to their fresh take on Bram Stoker’s 1897 novel Dracula with a new chapter",
+          "• The Count continues their re-telling from the point-of-view of Dracula himself and moves further along in the story in graphic novel form "
+        ],
+        "stakes_bullets": [
+          "• Matt Wagner (Grendel) and Kelley Jones (Batman: Red Rain) are returning to their fresh take on Bram Stoker’s 1897 novel Dracula with a new chapter",
+          "• The Count continues their re-telling from the point-of-view of Dracula himself and moves further along in the story in graphic novel form "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "5498413bc8a0"
+    },
+    {
+      "id": "becca1c2ee52",
+      "title": "Found Footage Horror ‘Project Butterfly: Flatwoods’ Coming Halloween Night 2025!",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-news/found-footage-horror-project-butterfly-flatwoods-coming-halloween-night-2025/",
+      "published_at": "Wed, 01 Oct 2025 15:00:00 +0000",
+      "bullets": [
+        "• Project Butterfly: Flatwoods is a found footage horror film set during the lunar eclipse of 2004, in Flatwoods, West Virginia",
+        "• The film follows three students who are filming a school project centered around an investigation that eventually leads them to a government bunker connected to cryptid experimentation",
+        "• The further the students dig, the more they uncover the terrifying truths of this bunker "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.974
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Project Butterfly: Flatwoods is a found footage horror film set during the lunar eclipse of 2004, in Flatwoods, West Virginia",
+          "• The film follows three students who are filming a school project centered around an investigation that eventually leads them to a government bunker connected to cryptid experimentation"
+        ],
+        "hopeful_bullets": [
+          "• Project Butterfly: Flatwoods is a found footage horror film set during the lunar eclipse of 2004, in Flatwoods, West Virginia",
+          "• The film follows three students who are filming a school project centered around an investigation that eventually leads them to a government bunker connected to cryptid experimentation"
+        ],
+        "stakes_bullets": [
+          "• The film follows three students who are filming a school project centered around an investigation that eventually leads them to a government bunker connected to cryptid experimentation"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "28b2f4a1bab7"
     },
     {
       "id": "261e3da66dc2",
@@ -5808,6 +5907,39 @@
       "cluster_id": "ac9cb9349281"
     },
     {
+      "id": "62afe9146451",
+      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
+      "published_at": "Tue, 21 Oct 2025 12:00:36 GMT",
+      "bullets": [
+        "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+        "• But funding for the program has been stalled as winter approaches",
+        "• Millions of Americans face having to rely on the money to pay their bills "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• But funding for the program has been stalled as winter approaches"
+        ],
+        "hopeful_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• But funding for the program has been stalled as winter approaches"
+        ],
+        "stakes_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• Millions of Americans face having to rely on the money to pay their bills "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "50ee20333dc8"
+    },
+    {
       "id": "1715b5cad651",
       "title": "Trump EPA seeks to weaken scrutiny for some of US’s most toxic chemicals",
       "outlet": "Environment | The Guardian",
@@ -5840,39 +5972,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "4fa56ccbfa2c"
-    },
-    {
-      "id": "62afe9146451",
-      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
-      "published_at": "Tue, 21 Oct 2025 12:00:36 GMT",
-      "bullets": [
-        "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-        "• But funding for the program has been stalled as winter approaches",
-        "• Millions of Americans face having to rely on the money to pay their bills "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
-        ],
-        "hopeful_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
-        ],
-        "stakes_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• Millions of Americans face having to rely on the money to pay their bills "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "50ee20333dc8"
     },
     {
       "id": "45805a63e86d",
@@ -6237,6 +6336,38 @@
       "cluster_id": "02f8483db239"
     },
     {
+      "id": "be004731cb37",
+      "title": "Catching Up With Leatherface: An Interview With R.A. Mihailoff of ’Texas Chainsaw Massacre III’",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-news/catching-up-with-leatherface-an-interview-with-r-a-mihailoff-of-texas-chainsaw-massacre-iii/",
+      "published_at": "Tue, 14 Oct 2025 00:52:32 +0000",
+      "bullets": [
+        "• R.A",
+        "• Mihailoff: \"Probably 85 percent of the success I’ve had is directly because of him putting me in that movie\" Burr died in 2023 at the age of 60",
+        "• Burr was a student at the University of Southern California film school "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• R.A",
+          "• Mihailoff: \"Probably 85 percent of the success I’ve had is directly because of him putting me in that movie\" Burr died in 2023 at the age of 60"
+        ],
+        "hopeful_bullets": [
+          "• R.A",
+          "• Mihailoff: \"Probably 85 percent of the success I’ve had is directly because of him putting me in that movie\" Burr died in 2023 at the age of 60"
+        ],
+        "stakes_bullets": [
+          "• Mihailoff: \"Probably 85 percent of the success I’ve had is directly because of him putting me in that movie\" Burr died in 2023 at the age of 60"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "57b98b121a7a"
+    },
+    {
       "id": "7d9c3854e1f3",
       "title": "Everything you need to know about Biden's student loan forgiveness program",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -6401,6 +6532,37 @@
       },
       "read_minutes": 2,
       "cluster_id": "fae2f8de0cfb"
+    },
+    {
+      "id": "e1a7eed23501",
+      "title": "8 Questions with Yuletide writer George Northy",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-news/8-questions-with-yuletide-writer-george-northy/",
+      "published_at": "Thu, 18 Sep 2025 08:08:00 +0000",
+      "bullets": [
+        "• The upcoming graphic adventure series Yuletide from creator/writer George Northy is almost a perfect confluence of elements for horror fans",
+        "• It’s being described as “a fast-paced family adventure in the tradition of The Goonies, Goosebumps, and Hocus Pocus.” Northy – a writer/producer best known for his work on Charmed for The CW – will produce and script the film adaptation "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The upcoming graphic adventure series Yuletide from creator/writer George Northy is almost a perfect confluence of elements for horror fans",
+          "• It’s being described as “a fast-paced family adventure in the tradition of The Goonies, Goosebumps, and Hocus Pocus.” Northy – a writer/producer best known for his work on Charmed for The CW – will produce and script the film adaptation "
+        ],
+        "hopeful_bullets": [
+          "• The upcoming graphic adventure series Yuletide from creator/writer George Northy is almost a perfect confluence of elements for horror fans",
+          "• It’s being described as “a fast-paced family adventure in the tradition of The Goonies, Goosebumps, and Hocus Pocus.” Northy – a writer/producer best known for his work on Charmed for The CW – will produce and script the film adaptation "
+        ],
+        "stakes_bullets": [
+          "• It’s being described as “a fast-paced family adventure in the tradition of The Goonies, Goosebumps, and Hocus Pocus.” Northy – a writer/producer best known for his work on Charmed for The CW – will produce and script the film adaptation "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "f2f4f0a3b6b2"
     },
     {
       "id": "101cf85eb2ce",
@@ -6604,6 +6766,39 @@
       "cluster_id": "cb0ba680c91d"
     },
     {
+      "id": "da4e19a2cba6",
+      "title": "Head Above Water has a Wicked Sense of Humor [The Rabid Dog’s House]",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-reviews/head-above-water-has-a-wicked-sense-of-humor-the-rabid-dogs-house/",
+      "published_at": "Thu, 16 Oct 2025 02:28:37 +0000",
+      "bullets": [
+        "• 1996’s Head Above Water is directed by Jim Wilson and stars Cameron Diaz, Harvey Keitel, Craig Sheffer, and Billy Zane",
+        "• This forgotten 1990s gem showcases the talent of already established performers Harvey Zane and Billy",
+        "• The film is a disturbingly fun examination of what can happen when you do not fully trust the people in your life "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 1996’s Head Above Water is directed by Jim Wilson and stars Cameron Diaz, Harvey Keitel, Craig Sheffer, and Billy Zane",
+          "• This forgotten 1990s gem showcases the talent of already established performers Harvey Zane and Billy"
+        ],
+        "hopeful_bullets": [
+          "• 1996’s Head Above Water is directed by Jim Wilson and stars Cameron Diaz, Harvey Keitel, Craig Sheffer, and Billy Zane",
+          "• This forgotten 1990s gem showcases the talent of already established performers Harvey Zane and Billy"
+        ],
+        "stakes_bullets": [
+          "• 1996’s Head Above Water is directed by Jim Wilson and stars Cameron Diaz, Harvey Keitel, Craig Sheffer, and Billy Zane",
+          "• This forgotten 1990s gem showcases the talent of already established performers Harvey Zane and Billy"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7c3cbb56d74a"
+    },
+    {
       "id": "f9bd93cbbe4f",
       "title": "Skeleton Crew: A Decent Ride That Never Reaches Hyperspace",
       "outlet": "Comic Quarters",
@@ -6698,6 +6893,74 @@
       },
       "read_minutes": 8,
       "cluster_id": "1a8aa91301b8"
+    },
+    {
+      "id": "74a7d9f535a1",
+      "title": "5 Questions With Artist Kelley Jones About Dracula Book 3: The Count",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-news/5-questions-with-artist-kelley-jones-about-dracula-book-3-the-count/",
+      "published_at": "Thu, 02 Oct 2025 16:48:19 +0000",
+      "bullets": [
+        "• Matt Wagner and Kelley Jones have created a graphic novel series based on the famous Transylvanian nobleman",
+        "• A Kickstarter is now underway for the new volume in the series",
+        "• It continues a re-telling of the story from the point-of-view of the Count "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Matt Wagner and Kelley Jones have created a graphic novel series based on the famous Transylvanian nobleman",
+          "• A Kickstarter is now underway for the new volume in the series"
+        ],
+        "hopeful_bullets": [
+          "• Matt Wagner and Kelley Jones have created a graphic novel series based on the famous Transylvanian nobleman",
+          "• A Kickstarter is now underway for the new volume in the series"
+        ],
+        "stakes_bullets": [
+          "• Matt Wagner and Kelley Jones have created a graphic novel series based on the famous Transylvanian nobleman",
+          "• A Kickstarter is now underway for the new volume in the series",
+          "• It continues a re-telling of the story from the point-of-view of the Count "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e0a902ec23a4"
+    },
+    {
+      "id": "443cab740aae",
+      "title": "Coming to Wicked Horror TV in October",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-news/coming-to-wicked-horror-tv-in-october/",
+      "published_at": "Sun, 28 Sep 2025 04:18:00 +0000",
+      "bullets": [
+        "• The original, the classic Halloween (1978) and much more is coming to Wicked Horror TV in October",
+        "• Watch out for walking dead girls, a dybbuk box, cars with teeth and a mystery only Boris Karloff can solve",
+        "• You’ll get the best of classic horror, recent indy masterpieces, trashing cult flicks and even more "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The original, the classic Halloween (1978) and much more is coming to Wicked Horror TV in October",
+          "• Watch out for walking dead girls, a dybbuk box, cars with teeth and a mystery only Boris Karloff can solve"
+        ],
+        "hopeful_bullets": [
+          "• The original, the classic Halloween (1978) and much more is coming to Wicked Horror TV in October",
+          "• Watch out for walking dead girls, a dybbuk box, cars with teeth and a mystery only Boris Karloff can solve"
+        ],
+        "stakes_bullets": [
+          "• The original, the classic Halloween (1978) and much more is coming to Wicked Horror TV in October",
+          "• Watch out for walking dead girls, a dybbuk box, cars with teeth and a mystery only Boris Karloff can solve",
+          "• You’ll get the best of classic horror, recent indy masterpieces, trashing cult flicks and even more "
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "d9be7f29a118"
     },
     {
       "id": "b72963244510",
@@ -7366,6 +7629,40 @@
       "cluster_id": "7d1f5af9f25f"
     },
     {
+      "id": "7ce1c96754d9",
+      "title": "Artist Rachele Aragno talks Yuletide horror",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-news/artist-rachele-aragno-talks-yuletide-horror/",
+      "published_at": "Fri, 19 Sep 2025 07:21:00 +0000",
+      "bullets": [
+        "• Rachele Aragno is known for her artwork on Leonid the Vampire and Star Wars: The High Republic",
+        "• She recently turned her attention to mythic characters and creatures for the holiday horror-fantasy adventure Yuletide",
+        "• The series focuses ancient creatures unleashed in the small town of Christmas, Pennsylvania "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rachele Aragno is known for her artwork on Leonid the Vampire and Star Wars: The High Republic",
+          "• She recently turned her attention to mythic characters and creatures for the holiday horror-fantasy adventure Yuletide"
+        ],
+        "hopeful_bullets": [
+          "• Rachele Aragno is known for her artwork on Leonid the Vampire and Star Wars: The High Republic",
+          "• She recently turned her attention to mythic characters and creatures for the holiday horror-fantasy adventure Yuletide"
+        ],
+        "stakes_bullets": [
+          "• Rachele Aragno is known for her artwork on Leonid the Vampire and Star Wars: The High Republic",
+          "• She recently turned her attention to mythic characters and creatures for the holiday horror-fantasy adventure Yuletide",
+          "• The series focuses ancient creatures unleashed in the small town of Christmas, Pennsylvania "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "f12739ccd738"
+    },
+    {
       "id": "5337a5783b97",
       "title": "TVC15: Kit Fisto (VC29)",
       "outlet": "Jedi Temple Archives",
@@ -7826,6 +8123,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "2daa60016122"
+    },
+    {
+      "id": "142cf1b6c83a",
+      "title": "John Carpenter’s The Thing is About … Diabetes?",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-news/the-thing-is-about-diabetes/",
+      "published_at": "Fri, 03 Oct 2025 22:41:53 +0000",
+      "bullets": [
+        "• Horror fans tend to dig deep into their favorite movies for any signs of “secret” subtext",
+        "• John Carpenter’s works have long been favorite fodder for cinema deconstructionists",
+        "• The Thing's metaphorical context runs the gamut from nuclear war paranoia to a parable for the AIDS crisis "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.959
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Horror fans tend to dig deep into their favorite movies for any signs of “secret” subtext",
+          "• John Carpenter’s works have long been favorite fodder for cinema deconstructionists"
+        ],
+        "hopeful_bullets": [
+          "• Horror fans tend to dig deep into their favorite movies for any signs of “secret” subtext",
+          "• John Carpenter’s works have long been favorite fodder for cinema deconstructionists"
+        ],
+        "stakes_bullets": [
+          "• Horror fans tend to dig deep into their favorite movies for any signs of “secret” subtext",
+          "• John Carpenter’s works have long been favorite fodder for cinema deconstructionists",
+          "• The Thing's metaphorical context runs the gamut from nuclear war paranoia to a parable for the AIDS crisis "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "65f8b15f2aa1"
     },
     {
       "id": "a14f093f556a",
@@ -9512,6 +9843,24 @@
       ]
     },
     {
+      "id": "81489d1604a4",
+      "topic": "elon influence musk robot",
+      "keywords": [
+        "elon",
+        "influence",
+        "musk",
+        "robot",
+        "strong",
+        "want"
+      ],
+      "item_ids": [
+        "5bbb4d5775dc"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "868f1e6ab884",
       "topic": "facial launche mandatory tinder",
       "keywords": [
@@ -9664,24 +10013,6 @@
       ],
       "item_ids": [
         "c7c5a69321b7"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "883a3de88b0b",
-      "topic": "civil don historian likely",
-      "keywords": [
-        "civil",
-        "don",
-        "historian",
-        "likely",
-        "think",
-        "war"
-      ],
-      "item_ids": [
-        "4701f90ea902"
       ],
       "outlets": [
         "WIRED"
@@ -10624,24 +10955,6 @@
       ]
     },
     {
-      "id": "4fa56ccbfa2c",
-      "topic": "epa scrutiny seek some",
-      "keywords": [
-        "epa",
-        "scrutiny",
-        "seek",
-        "some",
-        "trump",
-        "weaken"
-      ],
-      "item_ids": [
-        "1715b5cad651"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
       "id": "50ee20333dc8",
       "topic": "delay fear heat million",
       "keywords": [
@@ -10654,6 +10967,24 @@
       ],
       "item_ids": [
         "62afe9146451"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "4fa56ccbfa2c",
+      "topic": "epa scrutiny seek some",
+      "keywords": [
+        "epa",
+        "scrutiny",
+        "seek",
+        "some",
+        "trump",
+        "weaken"
+      ],
+      "item_ids": [
+        "1715b5cad651"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11626,6 +11957,181 @@
       ],
       "outlets": [
         "Dread Central"
+      ]
+    },
+    {
+      "id": "7c3cbb56d74a",
+      "topic": "above head humor sense",
+      "keywords": [
+        "above",
+        "head",
+        "humor",
+        "sense",
+        "water",
+        "wicked"
+      ],
+      "item_ids": [
+        "da4e19a2cba6"
+      ],
+      "outlets": [
+        "Wicked Horror"
+      ]
+    },
+    {
+      "id": "57b98b121a7a",
+      "topic": "catching chainsaw interview leatherface",
+      "keywords": [
+        "catching",
+        "chainsaw",
+        "interview",
+        "leatherface",
+        "mihailoff",
+        "texa"
+      ],
+      "item_ids": [
+        "be004731cb37"
+      ],
+      "outlets": [
+        "Wicked Horror"
+      ]
+    },
+    {
+      "id": "65f8b15f2aa1",
+      "topic": "carpenter diabete john thing",
+      "keywords": [
+        "carpenter",
+        "diabete",
+        "john",
+        "thing"
+      ],
+      "item_ids": [
+        "142cf1b6c83a"
+      ],
+      "outlets": [
+        "Wicked Horror"
+      ]
+    },
+    {
+      "id": "e0a902ec23a4",
+      "topic": "artist book dracula jone",
+      "keywords": [
+        "artist",
+        "book",
+        "dracula",
+        "jone",
+        "kelley",
+        "question"
+      ],
+      "item_ids": [
+        "74a7d9f535a1"
+      ],
+      "outlets": [
+        "Wicked Horror"
+      ]
+    },
+    {
+      "id": "5498413bc8a0",
+      "topic": "book dracula iii matt",
+      "keywords": [
+        "book",
+        "dracula",
+        "iii",
+        "matt",
+        "talk",
+        "wagner"
+      ],
+      "item_ids": [
+        "7d9fedc75080"
+      ],
+      "outlets": [
+        "Wicked Horror"
+      ]
+    },
+    {
+      "id": "28b2f4a1bab7",
+      "topic": "butterfly flatwood footage found",
+      "keywords": [
+        "butterfly",
+        "flatwood",
+        "footage",
+        "found",
+        "horror",
+        "project"
+      ],
+      "item_ids": [
+        "becca1c2ee52"
+      ],
+      "outlets": [
+        "Wicked Horror"
+      ]
+    },
+    {
+      "id": "d9be7f29a118",
+      "topic": "coming horror october wicked",
+      "keywords": [
+        "coming",
+        "horror",
+        "october",
+        "wicked"
+      ],
+      "item_ids": [
+        "443cab740aae"
+      ],
+      "outlets": [
+        "Wicked Horror"
+      ]
+    },
+    {
+      "id": "f12739ccd738",
+      "topic": "aragno artist horror rachele",
+      "keywords": [
+        "aragno",
+        "artist",
+        "horror",
+        "rachele",
+        "talk",
+        "yuletide"
+      ],
+      "item_ids": [
+        "7ce1c96754d9"
+      ],
+      "outlets": [
+        "Wicked Horror"
+      ]
+    },
+    {
+      "id": "f2f4f0a3b6b2",
+      "topic": "george northy question writer",
+      "keywords": [
+        "george",
+        "northy",
+        "question",
+        "writer",
+        "yuletide"
+      ],
+      "item_ids": [
+        "e1a7eed23501"
+      ],
+      "outlets": [
+        "Wicked Horror"
+      ]
+    },
+    {
+      "id": "5306313fe14f",
+      "topic": "conclusion conjuring drawn last",
+      "keywords": [
+        "conclusion",
+        "conjuring",
+        "drawn",
+        "last",
+        "out",
+        "rite"
+      ],
+      "item_ids": [
+        "1699713b0fb3"
+      ],
+      "outlets": [
+        "Wicked Horror"
       ]
     },
     {
