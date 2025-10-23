@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T07:57:32Z",
+  "generated_at": "2025-10-23T08:14:35Z",
   "items": [
     {
       "id": "5bbb4d5775dc",
@@ -4679,6 +4679,39 @@
       "cluster_id": "084894bd1dbf"
     },
     {
+      "id": "62afe9146451",
+      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
+      "published_at": "Tue, 21 Oct 2025 12:00:36 GMT",
+      "bullets": [
+        "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+        "• But funding for the program has been stalled as winter approaches",
+        "• Millions of Americans face having to rely on the money to pay their bills "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• But funding for the program has been stalled as winter approaches"
+        ],
+        "hopeful_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• But funding for the program has been stalled as winter approaches"
+        ],
+        "stakes_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• Millions of Americans face having to rely on the money to pay their bills "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "50ee20333dc8"
+    },
+    {
       "id": "1715b5cad651",
       "title": "Trump EPA seeks to weaken scrutiny for some of US’s most toxic chemicals",
       "outlet": "Environment | The Guardian",
@@ -4711,39 +4744,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "4fa56ccbfa2c"
-    },
-    {
-      "id": "62afe9146451",
-      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
-      "published_at": "Tue, 21 Oct 2025 12:00:36 GMT",
-      "bullets": [
-        "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-        "• But funding for the program has been stalled as winter approaches",
-        "• Millions of Americans face having to rely on the money to pay their bills "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
-        ],
-        "hopeful_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
-        ],
-        "stakes_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• Millions of Americans face having to rely on the money to pay their bills "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "50ee20333dc8"
     },
     {
       "id": "45805a63e86d",
@@ -8744,38 +8744,6 @@
       "cluster_id": "79a7192c9728"
     },
     {
-      "id": "e8d54bda7746",
-      "title": "Weekend predictions: Tron gifts Black Phone 2 a win on weak weekend",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260150830-Weekend-predictions-Tron-gifts-Black-Phone-2-a-win-on-weak-weekend",
-      "published_at": null,
-      "bullets": [
-        "• New releases look likely to earn over $30 million between them, which means we could still squeak out a market win over last weekend and this weekend last year",
-        "• Tron: Ares is likely to struggle to top $10 million in its second outing",
-        "• The key question is how well it will perform over the long run "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New releases look likely to earn over $30 million between them, which means we could still squeak out a market win over last weekend and this weekend last year",
-          "• Tron: Ares is likely to struggle to top $10 million in its second outing"
-        ],
-        "hopeful_bullets": [
-          "• New releases look likely to earn over $30 million between them, which means we could still squeak out a market win over last weekend and this weekend last year"
-        ],
-        "stakes_bullets": [
-          "• New releases look likely to earn over $30 million between them, which means we could still squeak out a market win over last weekend and this weekend last year",
-          "• The key question is how well it will perform over the long run "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ded4ecdc50b4"
-    },
-    {
       "id": "154c9cc6b4fc",
       "title": "Theater counts: Tron stays on top, widest release locked for second weekend",
       "outlet": "The Numbers",
@@ -11025,24 +10993,6 @@
       ]
     },
     {
-      "id": "4fa56ccbfa2c",
-      "topic": "epa scrutiny seek some",
-      "keywords": [
-        "epa",
-        "scrutiny",
-        "seek",
-        "some",
-        "trump",
-        "weaken"
-      ],
-      "item_ids": [
-        "1715b5cad651"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
       "id": "50ee20333dc8",
       "topic": "delay fear heat million",
       "keywords": [
@@ -11055,6 +11005,24 @@
       ],
       "item_ids": [
         "62afe9146451"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "4fa56ccbfa2c",
+      "topic": "epa scrutiny seek some",
+      "keywords": [
+        "epa",
+        "scrutiny",
+        "seek",
+        "some",
+        "trump",
+        "weaken"
+      ],
+      "item_ids": [
+        "1715b5cad651"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11342,24 +11310,6 @@
       ],
       "item_ids": [
         "56dead9c7d2a"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "ded4ecdc50b4",
-      "topic": "black gift phone prediction",
-      "keywords": [
-        "black",
-        "gift",
-        "phone",
-        "prediction",
-        "tron",
-        "weekend"
-      ],
-      "item_ids": [
-        "e8d54bda7746"
       ],
       "outlets": [
         "The Numbers"
