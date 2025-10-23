@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T05:57:11Z",
+  "generated_at": "2025-10-23T06:15:22Z",
   "items": [
     {
       "id": "5bbb4d5775dc",
@@ -306,39 +306,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "8b8951cc204a"
-    },
-    {
-      "id": "2582dc67b847",
-      "title": "Southwest beats earnings estimates, forecasts record revenue for current quarter",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/22/southwest-airlines-luv-earnings-q3-2025.html",
-      "published_at": "Wed, 22 Oct 2025 21:45:51 GMT",
-      "bullets": [
-        "• Southwest Airlines posted a surprise profit for the third quarter",
-        "• The carrier said it expects to generate record sales in the last three months of the year",
-        "• Southwest's third-quarter profit fell more than 19% year over year to $54 million from $67 million "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Southwest Airlines posted a surprise profit for the third quarter",
-          "• The carrier said it expects to generate record sales in the last three months of the year"
-        ],
-        "hopeful_bullets": [
-          "• The carrier said it expects to generate record sales in the last three months of the year"
-        ],
-        "stakes_bullets": [
-          "• Southwest Airlines posted a surprise profit for the third quarter",
-          "• The carrier said it expects to generate record sales in the last three months of the year",
-          "• Southwest's third-quarter profit fell more than 19% year over year to $54 million from $67 million "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "f6aabea90f8b"
     },
     {
       "id": "b733b79eabdc",
@@ -3866,40 +3833,6 @@
       "cluster_id": "2f78db9c02f5"
     },
     {
-      "id": "f0539e8432cd",
-      "title": "American 'Bibisitters' try to keep the Israel-Hamas truce on track",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/22/nx-s1-5581401/vance-israel-gaza-ceasefire",
-      "published_at": "Wed, 22 Oct 2025 04:58:40 -0400",
-      "bullets": [
-        "• Vice President Vance: \"We have a very tough task ahead of us, which is to disarm Hamas but rebuild Gaza\" Vance is part of a high-profile U.S",
-        "• team that's in Israel this week with the mission of keeping the truce on track",
-        "• The Israeli media is calling this American contingent the \"Bibisitters\""
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.79
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Vice President Vance: \"We have a very tough task ahead of us, which is to disarm Hamas but rebuild Gaza\" Vance is part of a high-profile U.S",
-          "• team that's in Israel this week with the mission of keeping the truce on track"
-        ],
-        "hopeful_bullets": [
-          "• Vice President Vance: \"We have a very tough task ahead of us, which is to disarm Hamas but rebuild Gaza\" Vance is part of a high-profile U.S",
-          "• team that's in Israel this week with the mission of keeping the truce on track"
-        ],
-        "stakes_bullets": [
-          "• Vice President Vance: \"We have a very tough task ahead of us, which is to disarm Hamas but rebuild Gaza\" Vance is part of a high-profile U.S",
-          "• team that's in Israel this week with the mission of keeping the truce on track",
-          "• The Israeli media is calling this American contingent the \"Bibisitters\""
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "e6c543443086"
-    },
-    {
       "id": "e25ce3f67767",
       "title": "Democrats call for a hearing on the use of the military on alleged drug boats",
       "outlet": "NPR Topics: Politics",
@@ -5576,6 +5509,38 @@
       "cluster_id": "de631f7845cb"
     },
     {
+      "id": "133999715bde",
+      "title": "'Europe's Detroit' is losing its shine as an automotive powerhouse",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/23/trump-tariffs-slovakia-struggles-to-protect-automotive-hub-reputation.html",
+      "published_at": "Thu, 23 Oct 2025 05:35:13 GMT",
+      "bullets": [
+        "• Slovakia has positioned itself as the world's leading producer of cars per capita",
+        "• The mountainous nation of just 5.4 million has attracted major manufacturers such as Volkswagen, Stellantis, Kia and Jaguar Land Rover",
+        "• The auto industry currently accounts for roughly 11% of its gross domestic product, half of the country's industrial output and one-tenth of its total employment "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Slovakia has positioned itself as the world's leading producer of cars per capita",
+          "• The mountainous nation of just 5.4 million has attracted major manufacturers such as Volkswagen, Stellantis, Kia and Jaguar Land Rover"
+        ],
+        "hopeful_bullets": [
+          "• Slovakia has positioned itself as the world's leading producer of cars per capita",
+          "• The mountainous nation of just 5.4 million has attracted major manufacturers such as Volkswagen, Stellantis, Kia and Jaguar Land Rover"
+        ],
+        "stakes_bullets": [
+          "• Slovakia has positioned itself as the world's leading producer of cars per capita"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "ec9e5f6ccdf4"
+    },
+    {
       "id": "28319375517b",
       "title": "Reddit sues Perplexity for scraping of posts, expanding user data battle with AI industry",
       "outlet": "US Top News and Analysis",
@@ -6302,6 +6267,39 @@
       },
       "read_minutes": 5,
       "cluster_id": "5774997261c6"
+    },
+    {
+      "id": "0234855521da",
+      "title": "Misty Copeland hangs up her pointe shoes after performing at retirement show",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/23/nx-s1-5583517/misty-copeland-retire",
+      "published_at": "Thu, 23 Oct 2025 01:27:12 -0400",
+      "bullets": [
+        "• Misty Copeland was feted at a star-studded fall gala at Lincoln Center",
+        "• Oprah Winfrey and Debbie Allen were among those who gave speeches of praise",
+        "• Copeland became the first Black female principal dancer in the company's 75-year history "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Misty Copeland was feted at a star-studded fall gala at Lincoln Center",
+          "• Oprah Winfrey and Debbie Allen were among those who gave speeches of praise"
+        ],
+        "hopeful_bullets": [
+          "• Oprah Winfrey and Debbie Allen were among those who gave speeches of praise"
+        ],
+        "stakes_bullets": [
+          "• Misty Copeland was feted at a star-studded fall gala at Lincoln Center",
+          "• Oprah Winfrey and Debbie Allen were among those who gave speeches of praise",
+          "• Copeland became the first Black female principal dancer in the company's 75-year history "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "efe91cf73dbf"
     },
     {
       "id": "d942c247d9c5",
@@ -9532,6 +9530,24 @@
       ]
     },
     {
+      "id": "efe91cf73dbf",
+      "topic": "copeland hang misty performing",
+      "keywords": [
+        "copeland",
+        "hang",
+        "misty",
+        "performing",
+        "pointe",
+        "shoe"
+      ],
+      "item_ids": [
+        "0234855521da"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "5e1d7402f75c",
       "topic": "cancer case fastest nation",
       "keywords": [
@@ -9691,24 +9707,6 @@
       ]
     },
     {
-      "id": "e6c543443086",
-      "topic": "american bibisitter hama israel",
-      "keywords": [
-        "american",
-        "bibisitter",
-        "hama",
-        "israel",
-        "keep",
-        "try"
-      ],
-      "item_ids": [
-        "f0539e8432cd"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "c3411ddd9bb4",
       "topic": "down growth quarter report",
       "keywords": [
@@ -9781,6 +9779,24 @@
       ]
     },
     {
+      "id": "ec9e5f6ccdf4",
+      "topic": "automotive detroit europe losing",
+      "keywords": [
+        "automotive",
+        "detroit",
+        "europe",
+        "losing",
+        "powerhouse",
+        "shine"
+      ],
+      "item_ids": [
+        "133999715bde"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "0b790ee13fd1",
       "topic": "estimate ibm lift quarter",
       "keywords": [
@@ -9829,24 +9845,6 @@
       ],
       "item_ids": [
         "004e09259624"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "f6aabea90f8b",
-      "topic": "beat earning estimate forecast",
-      "keywords": [
-        "beat",
-        "earning",
-        "estimate",
-        "forecast",
-        "record",
-        "southwest"
-      ],
-      "item_ids": [
-        "2582dc67b847"
       ],
       "outlets": [
         "US Top News and Analysis"
