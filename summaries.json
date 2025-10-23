@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T09:08:58Z",
+  "generated_at": "2025-10-23T09:59:55Z",
   "items": [
     {
       "id": "5bbb4d5775dc",
@@ -34,6 +34,41 @@
       "cluster_id": "81489d1604a4"
     },
     {
+      "id": "3d4df6d353c1",
+      "title": "IBM tops third-quarter estimates and lifts guidance, but stock drops",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/22/ibm-q3-2025-earnings-report.html",
+      "published_at": "Wed, 22 Oct 2025 23:34:36 GMT",
+      "bullets": [
+        "• IBM reported third-quarter results that topped Wall Street estimates",
+        "• Revenue increased 9% from about $15 billion in the year-ago period",
+        "• Still, the stock dropped about 6% in extended trading",
+        "• CEO Arvind Krishna: AI book of business has surpassed $9.5 billion "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• IBM reported third-quarter results that topped Wall Street estimates",
+          "• Revenue increased 9% from about $15 billion in the year-ago period"
+        ],
+        "hopeful_bullets": [
+          "• IBM reported third-quarter results that topped Wall Street estimates",
+          "• Revenue increased 9% from about $15 billion in the year-ago period"
+        ],
+        "stakes_bullets": [
+          "• IBM reported third-quarter results that topped Wall Street estimates",
+          "• Revenue increased 9% from about $15 billion in the year-ago period",
+          "• CEO Arvind Krishna: AI book of business has surpassed $9.5 billion "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0b790ee13fd1"
+    },
+    {
       "id": "88ec72be0cba",
       "title": "Gulf South Residents and Green Groups Sue Trump and EPA Over Toxic Air Pollution Exemptions",
       "outlet": "Inside Climate News",
@@ -66,41 +101,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "b2f43d1203b6"
-    },
-    {
-      "id": "266814153b0b",
-      "title": "Temu agrees to remove rip-off greeting cards from its site more quickly",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2kpg9jyn0po?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 22 Oct 2025 23:08:44 GMT",
-      "bullets": [
-        "• Designers say stolen images have cost them thousands of pounds in lost sales",
-        "• They say they are working to remove the images from their website",
-        "• The images are being used to sell more cheaply in the UK than ever before",
-        "• The company says it is working on a new system to remove images from the site "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Designers say stolen images have cost them thousands of pounds in lost sales",
-          "• They say they are working to remove the images from their website"
-        ],
-        "hopeful_bullets": [
-          "• Designers say stolen images have cost them thousands of pounds in lost sales",
-          "• They say they are working to remove the images from their website"
-        ],
-        "stakes_bullets": [
-          "• Designers say stolen images have cost them thousands of pounds in lost sales",
-          "• They say they are working to remove the images from their website",
-          "• The images are being used to sell more cheaply in the UK than ever before"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ce8e91aeed4b"
     },
     {
       "id": "37daa7a91efa",
@@ -206,70 +206,37 @@
       "cluster_id": "071a27603081"
     },
     {
-      "id": "630f560c85e3",
-      "title": "Trump says 'existing structure' of White House East Wing to be torn down",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czxn7lwzx5po?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 22 Oct 2025 22:11:46 GMT",
+      "id": "2582dc67b847",
+      "title": "Southwest beats earnings estimates, forecasts record revenue for current quarter",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/22/southwest-airlines-luv-earnings-q3-2025.html",
+      "published_at": "Wed, 22 Oct 2025 21:45:51 GMT",
       "bullets": [
-        "• Trump says 'existing structure' of White House East Wing must be torn down",
-        "• New $250m ballroom will be built in the East Wing of the White House",
-        "• The White House has served as the home of the US president for two decades "
+        "• Southwest Airlines posted a surprise profit for the third quarter",
+        "• The carrier said it expects to generate record sales in the last three months of the year",
+        "• Southwest's third-quarter profit fell more than 19% year over year to $54 million from $67 million "
       ],
-      "category": "World",
+      "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• Trump says 'existing structure' of White House East Wing must be torn down",
-          "• New $250m ballroom will be built in the East Wing of the White House"
+          "• Southwest Airlines posted a surprise profit for the third quarter",
+          "• The carrier said it expects to generate record sales in the last three months of the year"
         ],
         "hopeful_bullets": [
-          "• Trump says 'existing structure' of White House East Wing must be torn down",
-          "• New $250m ballroom will be built in the East Wing of the White House"
+          "• The carrier said it expects to generate record sales in the last three months of the year"
         ],
         "stakes_bullets": [
-          "• New $250m ballroom will be built in the East Wing of the White House"
+          "• Southwest Airlines posted a surprise profit for the third quarter",
+          "• The carrier said it expects to generate record sales in the last three months of the year",
+          "• Southwest's third-quarter profit fell more than 19% year over year to $54 million from $67 million "
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "6557dc68b610"
-    },
-    {
-      "id": "4133081f8bdf",
-      "title": "Myanmar's army is taking back territory with relentless air strikes - and China's help",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c051m0jn392o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 22 Oct 2025 22:09:32 GMT",
-      "bullets": [
-        "• Myanmar's army is taking back territory with relentless air strikes",
-        "• The town of Kyaukme is on the main trade route from the Chinese border to the rest of Myanmar",
-        "• It took just three weeks for the army to recapture the town in three weeks "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.839
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Myanmar's army is taking back territory with relentless air strikes",
-          "• The town of Kyaukme is on the main trade route from the Chinese border to the rest of Myanmar"
-        ],
-        "hopeful_bullets": [
-          "• Myanmar's army is taking back territory with relentless air strikes",
-          "• The town of Kyaukme is on the main trade route from the Chinese border to the rest of Myanmar"
-        ],
-        "stakes_bullets": [
-          "• Myanmar's army is taking back territory with relentless air strikes",
-          "• The town of Kyaukme is on the main trade route from the Chinese border to the rest of Myanmar",
-          "• It took just three weeks for the army to recapture the town in three weeks "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "8b8951cc204a"
+      "read_minutes": 1,
+      "cluster_id": "f6aabea90f8b"
     },
     {
       "id": "b733b79eabdc",
@@ -303,40 +270,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "08aa0661a5cf"
-    },
-    {
-      "id": "8095b6609f87",
-      "title": "Meta lays off 600 from 'bloated' AI unit as Wang cements leadership",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/22/meta-layoffs-ai.html",
-      "published_at": "Wed, 22 Oct 2025 21:30:37 GMT",
-      "bullets": [
-        "• Meta will lay off roughly 600 employees within its artificial intelligence unit",
-        "• The company announced the cuts in a memo from its chief AI officer, Alexandr Wang",
-        "• Workers across Meta's AI infrastructure units, Fundamental Artificial Intelligence Research unit and other product-related positions will be impacted "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Meta will lay off roughly 600 employees within its artificial intelligence unit",
-          "• The company announced the cuts in a memo from its chief AI officer, Alexandr Wang"
-        ],
-        "hopeful_bullets": [
-          "• Meta will lay off roughly 600 employees within its artificial intelligence unit",
-          "• The company announced the cuts in a memo from its chief AI officer, Alexandr Wang"
-        ],
-        "stakes_bullets": [
-          "• Meta will lay off roughly 600 employees within its artificial intelligence unit",
-          "• The company announced the cuts in a memo from its chief AI officer, Alexandr Wang",
-          "• Workers across Meta's AI infrastructure units, Fundamental Artificial Intelligence Research unit and other product-related positions will be impacted "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8b2ce3081994"
     },
     {
       "id": "d66e5c9a3ede",
@@ -474,38 +407,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "5e1d7402f75c"
-    },
-    {
-      "id": "1f7a6c81572d",
-      "title": "Keir Starmer prepares to miss key green target in effort to keep energy bills down",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/politics/2025/oct/22/keir-starmer-green-pledge-2030-energy-bills",
-      "published_at": "Wed, 22 Oct 2025 20:47:52 GMT",
-      "bullets": [
-        "• Sources say ministers will miss target of removing almost all fossil fuels from UK electricity supply by 2030",
-        "• Issue will come to a head within weeks as they decide how much renewable energy to commission for the next few years",
-        "• Concern is growing that the cost of living is fuelling the rise of Reform UK "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sources say ministers will miss target of removing almost all fossil fuels from UK electricity supply by 2030",
-          "• Issue will come to a head within weeks as they decide how much renewable energy to commission for the next few years"
-        ],
-        "hopeful_bullets": [
-          "• Concern is growing that the cost of living is fuelling the rise of Reform UK "
-        ],
-        "stakes_bullets": [
-          "• Sources say ministers will miss target of removing almost all fossil fuels from UK electricity supply by 2030",
-          "• Issue will come to a head within weeks as they decide how much renewable energy to commission for the next few years"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "75f38f7bf59c"
     },
     {
       "id": "c3080272d2b2",
@@ -2897,40 +2798,6 @@
       "cluster_id": "ba4d32da8e64"
     },
     {
-      "id": "dff90c5907df",
-      "title": "Confused by the U.S. economy? You're not alone",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/22/nx-s1-5581578/confused-by-the-u-s-economy-youre-not-alone",
-      "published_at": "Wed, 22 Oct 2025 11:46:35 -0400",
-      "bullets": [
-        "• Zanny Minton Beddoes, editor in chief of The Economist, joins Terry Gross on FRESH AIR",
-        "• She's also the host of \"The Insider,\" The Economist's new streaming show",
-        "• The Economist editor-in-chief says the stock market remains high despite uncertainty in the economy "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Zanny Minton Beddoes, editor in chief of The Economist, joins Terry Gross on FRESH AIR",
-          "• She's also the host of \"The Insider,\" The Economist's new streaming show"
-        ],
-        "hopeful_bullets": [
-          "• Zanny Minton Beddoes, editor in chief of The Economist, joins Terry Gross on FRESH AIR",
-          "• She's also the host of \"The Insider,\" The Economist's new streaming show"
-        ],
-        "stakes_bullets": [
-          "• Zanny Minton Beddoes, editor in chief of The Economist, joins Terry Gross on FRESH AIR",
-          "• She's also the host of \"The Insider,\" The Economist's new streaming show",
-          "• The Economist editor-in-chief says the stock market remains high despite uncertainty in the economy "
-        ]
-      },
-      "read_minutes": 35,
-      "cluster_id": "3b4bb9e6cdb7"
-    },
-    {
       "id": "9fd8a3b669f7",
       "title": "Cuban man deported from US to Eswatini goes on hunger strike in prison",
       "outlet": "World news | The Guardian",
@@ -2964,41 +2831,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "ab34f09127d1"
-    },
-    {
-      "id": "43e34ba02412",
-      "title": "Greetings from an Indian Railways coach, with spectacular views from Mumbai to Goa",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/22/g-s1-94347/india-train-mumbai-goa",
-      "published_at": "Wed, 22 Oct 2025 11:26:11 -0400",
-      "bullets": [
-        "• Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world",
-        "• Greetings from an Indian Railways coach, with spectacular views from Mumbai to Goa",
-        "• NPR's John Sutter says he loves Mumbai, but there are days when the city tests him",
-        "• He says it's a chance to fall in love, again, with India "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world",
-          "• Greetings from an Indian Railways coach, with spectacular views from Mumbai to Goa"
-        ],
-        "hopeful_bullets": [
-          "• Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world",
-          "• Greetings from an Indian Railways coach, with spectacular views from Mumbai to Goa"
-        ],
-        "stakes_bullets": [
-          "• Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world",
-          "• Greetings from an Indian Railways coach, with spectacular views from Mumbai to Goa",
-          "• NPR's John Sutter says he loves Mumbai, but there are days when the city tests him"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "f1be8c3aebfb"
     },
     {
       "id": "2a311d213be4",
@@ -3328,7 +3160,7 @@
     {
       "id": "4c00e97a8d76",
       "title": "VP Vance tries to progress Gaza ceasefire. And, White House demolition draws critics",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/22/g-s1-94462/up-first-newsletter-jd-vance-israel-gaza-government-shutdown-white-house-ballroom",
       "published_at": "Wed, 22 Oct 2025 07:44:58 -0400",
       "bullets": [
@@ -3337,7 +3169,7 @@
         "• Vance says the deal is continuing to progress despite the fighting between Israel and Hamas over the weekend",
         "• The next phase of the ceasefire poses challenges as Gaza doesn't have a government, and it isn't clear when it will "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.955
@@ -3358,44 +3190,9 @@
       "cluster_id": "24c7ad6cf9dc"
     },
     {
-      "id": "c2a2d2c29910",
-      "title": "Republican Rep. Jeff Hurd of Colorado talks about the ongoing shutdown",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/22/nx-s1-5581346/republican-rep-jeff-hurd-of-colorado-talks-about-the-ongoing-shutdown",
-      "published_at": "Wed, 22 Oct 2025 06:56:54 -0400",
-      "bullets": [
-        "• Republican Rep",
-        "• Jeff Hurd of Colorado talks about the ongoing government shutdown",
-        "• Hurd: \"I felt like we had a really productive several months in Congress\" Hurd says his district is most of western and southern Colorado, and they're frustrated",
-        "• He says constituents are tired of what they see as Washington dysfunction "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Republican Rep",
-          "• Jeff Hurd of Colorado talks about the ongoing government shutdown"
-        ],
-        "hopeful_bullets": [
-          "• Republican Rep",
-          "• Jeff Hurd of Colorado talks about the ongoing government shutdown"
-        ],
-        "stakes_bullets": [
-          "• Republican Rep",
-          "• Jeff Hurd of Colorado talks about the ongoing government shutdown",
-          "• Hurd: \"I felt like we had a really productive several months in Congress\" Hurd says his district is most of western and southern Colorado, and they're frustrated"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "08731309cde2"
-    },
-    {
       "id": "d9e13073dec9",
       "title": "Mental exercise can reverse a brain change linked to aging, study finds",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/10/22/nx-s1-5581409/mental-exercise-reverse-brain-change-aging-acetylcholine",
       "published_at": "Wed, 22 Oct 2025 06:00:00 -0400",
       "bullets": [
@@ -3403,7 +3200,7 @@
         "• The increase \"is not huge,\" says Étienne de Villers-Sidani, a neurologist at McGill University in Montreal",
         "• It's significant, considering that you get a 2.5% decrease per decade normally just with aging, he says "
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "neutral",
         "score": 0.535
@@ -3423,109 +3220,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "95b7380f84a3"
-    },
-    {
-      "id": "a63142e617c5",
-      "title": "The federal government is still shut down. Here's what that means across the country",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/22/g-s1-94389/government-shutdown",
-      "published_at": "Wed, 22 Oct 2025 05:04:00 -0400",
-      "bullets": [
-        "• The federal government is still shut down",
-        "• Without a fix, many federal employees will not be getting paid this Friday",
-        "• By law federal workers are supposed to get back pay once the shutdown ends",
-        "• President Trump has tied the shutdown to his overall goal of shrinking the size of the government "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The federal government is still shut down",
-          "• Without a fix, many federal employees will not be getting paid this Friday"
-        ],
-        "hopeful_bullets": [
-          "• The federal government is still shut down",
-          "• Without a fix, many federal employees will not be getting paid this Friday"
-        ],
-        "stakes_bullets": [
-          "• Without a fix, many federal employees will not be getting paid this Friday"
-        ]
-      },
-      "read_minutes": 19,
-      "cluster_id": "c527079c1b3a"
-    },
-    {
-      "id": "957e9dd9c028",
-      "title": "Mamdani's rise in NYC reflects a generational fight within the Democratic Party",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/22/nx-s1-5581418/mamdani-cuomo-nyc-mayor",
-      "published_at": "Wed, 22 Oct 2025 05:02:00 -0400",
-      "bullets": [
-        "• Zohran Mamdani's rise in NYC reflects a generational fight within the Democratic Party",
-        "• Former Gov",
-        "• Andrew Cuomo is running as an independent after losing to a state lawmaker in the primary",
-        "• Cuomo painted the state lawmaker as a political novice with left-leaning ideas outside the mainstream "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.97
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Zohran Mamdani's rise in NYC reflects a generational fight within the Democratic Party",
-          "• Former Gov"
-        ],
-        "hopeful_bullets": [
-          "• Zohran Mamdani's rise in NYC reflects a generational fight within the Democratic Party",
-          "• Former Gov"
-        ],
-        "stakes_bullets": [
-          "• Zohran Mamdani's rise in NYC reflects a generational fight within the Democratic Party",
-          "• Former Gov",
-          "• Andrew Cuomo is running as an independent after losing to a state lawmaker in the primary"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "624a181df016"
-    },
-    {
-      "id": "88ac24373d02",
-      "title": "Trump uses 'common sense' to make a political point. It has populist appeal",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/22/nx-s1-5581554/trump-common-sense",
-      "published_at": "Wed, 22 Oct 2025 05:00:00 -0400",
-      "bullets": [
-        "• President Trump uses 'common sense' to make a political point",
-        "• \"Common sense\" has been central to American politics since the founding of the U.S",
-        "• Politicians still use the phrase all the time",
-        "• The White House has also used it to explain the government shutdown "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Trump uses 'common sense' to make a political point",
-          "• \"Common sense\" has been central to American politics since the founding of the U.S"
-        ],
-        "hopeful_bullets": [
-          "• President Trump uses 'common sense' to make a political point",
-          "• \"Common sense\" has been central to American politics since the founding of the U.S"
-        ],
-        "stakes_bullets": [
-          "• President Trump uses 'common sense' to make a political point",
-          "• \"Common sense\" has been central to American politics since the founding of the U.S",
-          "• Politicians still use the phrase all the time"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2f78db9c02f5"
     },
     {
       "id": "0db0619ff928",
@@ -4146,39 +3840,6 @@
       "cluster_id": "6cc9daf95221"
     },
     {
-      "id": "4ba30ee11e0e",
-      "title": "Running fixes what junk food breaks in the brain",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251021083638.htm",
-      "published_at": "Tue, 21 Oct 2025 23:31:31 EDT",
-      "bullets": [
-        "• Running fixes what junk food breaks in the brain",
-        "• Running restored metabolites tied to mental well-being and balanced key hormones like insulin and leptin",
-        "• Poor diet limited the brain’s ability to generate new neurons, showing diet still matters for full brain benefits "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Running fixes what junk food breaks in the brain",
-          "• Running restored metabolites tied to mental well-being and balanced key hormones like insulin and leptin"
-        ],
-        "hopeful_bullets": [
-          "• Poor diet limited the brain’s ability to generate new neurons, showing diet still matters for full brain benefits "
-        ],
-        "stakes_bullets": [
-          "• Running fixes what junk food breaks in the brain",
-          "• Running restored metabolites tied to mental well-being and balanced key hormones like insulin and leptin",
-          "• Poor diet limited the brain’s ability to generate new neurons, showing diet still matters for full brain benefits "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "aea03d7c63f6"
-    },
-    {
       "id": "727eaa863fcc",
       "title": "Review: YOUR HOST Features a Fantastic Jackie Earle Haley Role in a Disappointing SAW Rerun",
       "outlet": "Daily Dead",
@@ -4243,74 +3904,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "ac3def52e57f"
-    },
-    {
-      "id": "b269e13f5f23",
-      "title": "New York City Unveils Plan for Flood-Prone Neighborhood Nicknamed ‘The Hole’",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/21102025/new-york-city-flood-prone-jewel-streets/",
-      "published_at": "Tue, 21 Oct 2025 21:06:50 +0000",
-      "bullets": [
-        "• Area known as 'The Hole' sits 10 to 15 feet below the surface of streets",
-        "• The area is also known as the Jewel Streets",
-        "• City officials have released a plan to address flooding and other issues",
-        "• The plan includes plans to build more affordable homes "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.937
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Area known as 'The Hole' sits 10 to 15 feet below the surface of streets",
-          "• The area is also known as the Jewel Streets"
-        ],
-        "hopeful_bullets": [
-          "• Area known as 'The Hole' sits 10 to 15 feet below the surface of streets",
-          "• The area is also known as the Jewel Streets"
-        ],
-        "stakes_bullets": [
-          "• City officials have released a plan to address flooding and other issues",
-          "• The plan includes plans to build more affordable homes "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "5d582926d5b0"
-    },
-    {
-      "id": "ebb7d1010871",
-      "title": "Evacuating Remote Alaska Was Hard. Rebuilding Will Be Even Harder.",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/21102025/todays-climate-alaska-flood-typhoon-halong-evacuation-recovery/",
-      "published_at": "Tue, 21 Oct 2025 21:03:47 +0000",
-      "bullets": [
-        "• Typhoon Halong slammed Western Alaska’s Yukon-Kuskokwim Delta a week and a half ago",
-        "• At least one person was killed, and two more are missing",
-        "• The tail of the storm left its mark on a region already beset by sea-level rise, permafrost melt and coastal erosion exacerbated by climate change "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Typhoon Halong slammed Western Alaska’s Yukon-Kuskokwim Delta a week and a half ago",
-          "• At least one person was killed, and two more are missing"
-        ],
-        "hopeful_bullets": [
-          "• Typhoon Halong slammed Western Alaska’s Yukon-Kuskokwim Delta a week and a half ago",
-          "• At least one person was killed, and two more are missing"
-        ],
-        "stakes_bullets": [
-          "• Typhoon Halong slammed Western Alaska’s Yukon-Kuskokwim Delta a week and a half ago",
-          "• At least one person was killed, and two more are missing",
-          "• The tail of the storm left its mark on a region already beset by sea-level rise, permafrost melt and coastal erosion exacerbated by climate change "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "966dd0e59189"
     },
     {
       "id": "8bcf1e7dcda7",
@@ -4378,40 +3971,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "6c99f7862742"
-    },
-    {
-      "id": "5a106fba937f",
-      "title": "Climate-Warming Methane Emissions from the World’s Biggest Livestock Companies Are Bigger Than From Major Oil and Gas Companies",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/21102025/livestock-industry-methane-emissions/",
-      "published_at": "Tue, 21 Oct 2025 18:21:52 +0000",
-      "bullets": [
-        "• The top five biggest emitters in the world are Brazil, the U.S",
-        "• and the European Union",
-        "• They are responsible for about 1 billion tons of greenhouse gas emissions in 2023",
-        "• The U.N",
-        "• estimates is based on available production and slaughter data "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.549
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The top five biggest emitters in the world are Brazil, the U.S",
-          "• and the European Union"
-        ],
-        "hopeful_bullets": [
-          "• The top five biggest emitters in the world are Brazil, the U.S",
-          "• and the European Union"
-        ],
-        "stakes_bullets": [
-          "• They are responsible for about 1 billion tons of greenhouse gas emissions in 2023"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "2beb213d0341"
     },
     {
       "id": "118ba48b0a43",
@@ -4572,40 +4131,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "91127931f075"
-    },
-    {
-      "id": "34e3fc092a9d",
-      "title": "Trump Targets Federal Employees Working on Conservation and Environmental Protection",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/21102025/trump-targets-federal-employees-working-on-conservation-and-environmental-protection/",
-      "published_at": "Tue, 21 Oct 2025 14:21:42 +0000",
-      "bullets": [
-        "• The Department of the Interior disclosed plans to permanently cut more than 2,000 positions",
-        "• At the Environmental Protection Agency, staff received a new round of furlough notices",
-        "• Most of the planned cuts would hit the U.S",
-        "• Geological Survey, the Bureau of Land Management, the National Park Service’s regional offices "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Department of the Interior disclosed plans to permanently cut more than 2,000 positions",
-          "• At the Environmental Protection Agency, staff received a new round of furlough notices"
-        ],
-        "hopeful_bullets": [
-          "• The Department of the Interior disclosed plans to permanently cut more than 2,000 positions",
-          "• At the Environmental Protection Agency, staff received a new round of furlough notices"
-        ],
-        "stakes_bullets": [
-          "• The Department of the Interior disclosed plans to permanently cut more than 2,000 positions",
-          "• Most of the planned cuts would hit the U.S"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "084894bd1dbf"
     },
     {
       "id": "1715b5cad651",
@@ -4838,72 +4363,6 @@
       "cluster_id": "ede3309f4049"
     },
     {
-      "id": "039343248244",
-      "title": "Renewable Energy Act Before Illinois Legislature Would Decrease Stress on Ratepayers, Advocates Say",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/21102025/illinois-renewable-energy-act-grid-strain-battery-storage/",
-      "published_at": "Tue, 21 Oct 2025 09:00:00 +0000",
-      "bullets": [
-        "• Illinois advocacy groups are lobbying for the Clean and Reliable Grid Affordability (CRGA) Act",
-        "• The legislation would add battery storage to community solar projects and fund cost-effective improvements to energy grid infrastructure",
-        "• The CRGA Act would help the state meet its goal of transitioning to renewable energy by 2050 "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.868
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Illinois advocacy groups are lobbying for the Clean and Reliable Grid Affordability (CRGA) Act",
-          "• The legislation would add battery storage to community solar projects and fund cost-effective improvements to energy grid infrastructure"
-        ],
-        "hopeful_bullets": [
-          "• The legislation would add battery storage to community solar projects and fund cost-effective improvements to energy grid infrastructure",
-          "• The CRGA Act would help the state meet its goal of transitioning to renewable energy by 2050 "
-        ],
-        "stakes_bullets": [
-          "• The legislation would add battery storage to community solar projects and fund cost-effective improvements to energy grid infrastructure"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "fca3ce664e25"
-    },
-    {
-      "id": "e8a446a8125c",
-      "title": "Physicists discover strange spinning crystals that behave like living matter",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251021083635.htm",
-      "published_at": "Tue, 21 Oct 2025 08:36:35 EDT",
-      "bullets": [
-        "• Physicists discover strange spinning crystals that behave like living matter",
-        "• Spinning crystals that twist, shatter, and rebuild themselves may hold the key to next-generation materials",
-        "• Researchers present a broad theoretical framework that can predict several new properties of these so-called \"transverse interaction\" systems "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Physicists discover strange spinning crystals that behave like living matter",
-          "• Spinning crystals that twist, shatter, and rebuild themselves may hold the key to next-generation materials"
-        ],
-        "hopeful_bullets": [
-          "• Physicists discover strange spinning crystals that behave like living matter",
-          "• Spinning crystals that twist, shatter, and rebuild themselves may hold the key to next-generation materials"
-        ],
-        "stakes_bullets": [
-          "• Physicists discover strange spinning crystals that behave like living matter",
-          "• Spinning crystals that twist, shatter, and rebuild themselves may hold the key to next-generation materials",
-          "• Researchers present a broad theoretical framework that can predict several new properties of these so-called \"transverse interaction\" systems "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "264573fc7c32"
-    },
-    {
       "id": "3c605d87c975",
       "title": "10 things we learnt from the new issue of Positive News magazine",
       "outlet": "Positive News",
@@ -5134,37 +4593,540 @@
       "cluster_id": "de631f7845cb"
     },
     {
-      "id": "79550ee87dc7",
-      "title": "EU targets Russian energy with new sanctions — and welcomes Trump’s major policy shift",
+      "id": "36882deecc3d",
+      "title": "First rare earths and chips, now quantum computers: Trump reportedly eyes new U.S. stakes",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/23/eu-targets-russian-energy-with-new-sanctions-welcomes-trump-measures.html",
-      "published_at": "Thu, 23 Oct 2025 08:24:21 GMT",
+      "url": "https://www.cnbc.com/2025/10/23/first-rare-earths-and-chips-now-quantum-computers-trump-reportedly-eyes-new-us-stakes.html",
+      "published_at": "Thu, 23 Oct 2025 09:27:52 GMT",
       "bullets": [
-        "• The European Union has launched a fresh round of sanctions against Russia for its war in Ukraine",
-        "• The new measures include a ban on Russian liquefied natural gas imports",
-        "• It comes shortly after U.S",
-        "• President Donald Trump announced new sanctions against Rosneft and Lukoil "
+        "• The Trump administration is in talks with several quantum-computing firms about giving the Commerce Department equity stakes in exchange for federal funding, the Wall Street Journal reported",
+        "• The news aligns with recent efforts by Washington to take stakes in major companies within industries seen as vital to U.S",
+        "• national security "
       ],
       "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Trump administration is in talks with several quantum-computing firms about giving the Commerce Department equity stakes in exchange for federal funding, the Wall Street Journal reported",
+          "• The news aligns with recent efforts by Washington to take stakes in major companies within industries seen as vital to U.S"
+        ],
+        "hopeful_bullets": [
+          "• The Trump administration is in talks with several quantum-computing firms about giving the Commerce Department equity stakes in exchange for federal funding, the Wall Street Journal reported",
+          "• The news aligns with recent efforts by Washington to take stakes in major companies within industries seen as vital to U.S"
+        ],
+        "stakes_bullets": [
+          "• The Trump administration is in talks with several quantum-computing firms about giving the Commerce Department equity stakes in exchange for federal funding, the Wall Street Journal reported",
+          "• The news aligns with recent efforts by Washington to take stakes in major companies within industries seen as vital to U.S",
+          "• national security "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c48f09ac2f9d"
+    },
+    {
+      "id": "4165b99cb7a4",
+      "title": "Sweden’s Volvo Cars shares jump 40% after profit beat, on track for best day ever",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/23/volvo-cars-shares-skyrocket-on-profit-beat-on-track-for-best-day-ever.html",
+      "published_at": "Thu, 23 Oct 2025 09:16:41 GMT",
+      "bullets": [
+        "• Sweden's Volvo Cars posts stronger-than-expected third-quarter profit",
+        "• Operating income for the July-September period of 6.4 billion kronor ($680.4 million) well above analysts' expectations",
+        "• Volvo Cars said result was largely driven by its ongoing cost-saving program",
+        "• Stockholm-listed stock price jumped as much 41% on Thursday morning "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.521
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sweden's Volvo Cars posts stronger-than-expected third-quarter profit",
+          "• Operating income for the July-September period of 6.4 billion kronor ($680.4 million) well above analysts' expectations"
+        ],
+        "hopeful_bullets": [
+          "• Sweden's Volvo Cars posts stronger-than-expected third-quarter profit"
+        ],
+        "stakes_bullets": [
+          "• Sweden's Volvo Cars posts stronger-than-expected third-quarter profit",
+          "• Operating income for the July-September period of 6.4 billion kronor ($680.4 million) well above analysts' expectations",
+          "• Volvo Cars said result was largely driven by its ongoing cost-saving program"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "942c8af96567"
+    },
+    {
+      "id": "e4d74fe5651f",
+      "title": "US military kills five people in strikes on alleged drug-trafficking boats in Pacific",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/22/military-boat-strike-pacific-pete-hegseth",
+      "published_at": "Thu, 23 Oct 2025 09:08:37 GMT",
+      "bullets": [
+        "• At least seven other strikes in the Caribbean have killed at least 32 people",
+        "• The strikes are part of a series of strikes on the Pacific side of the Atlantic Ocean",
+        "• The attacks have raised tensions between the US and Colombia and the region of South America "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.96
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At least seven other strikes in the Caribbean have killed at least 32 people",
+          "• The strikes are part of a series of strikes on the Pacific side of the Atlantic Ocean"
+        ],
+        "hopeful_bullets": [
+          "• At least seven other strikes in the Caribbean have killed at least 32 people",
+          "• The strikes are part of a series of strikes on the Pacific side of the Atlantic Ocean"
+        ],
+        "stakes_bullets": [
+          "• At least seven other strikes in the Caribbean have killed at least 32 people",
+          "• The strikes are part of a series of strikes on the Pacific side of the Atlantic Ocean",
+          "• The attacks have raised tensions between the US and Colombia and the region of South America "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "8ff7edd1d02b"
+    },
+    {
+      "id": "0a9295bbb6f4",
+      "title": "EU set to endorse deal to turn frozen Russian assets into support for Ukraine",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwykd4l3dy1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 23 Oct 2025 09:06:48 GMT",
+      "bullets": [
+        "• EU set to endorse deal to turn frozen Russian assets into support for Ukraine",
+        "• Would see Kyiv receive €140bn (£121bn) worth of frozen Russian state assets",
+        "• Plan has been months in the making, partly due to legal complexities surrounding it "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• EU set to endorse deal to turn frozen Russian assets into support for Ukraine",
+          "• Would see Kyiv receive €140bn (£121bn) worth of frozen Russian state assets"
+        ],
+        "hopeful_bullets": [
+          "• EU set to endorse deal to turn frozen Russian assets into support for Ukraine",
+          "• Would see Kyiv receive €140bn (£121bn) worth of frozen Russian state assets"
+        ],
+        "stakes_bullets": [
+          "• Plan has been months in the making, partly due to legal complexities surrounding it "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "443791077628"
+    },
+    {
+      "id": "6484cf9640b6",
+      "title": "Ecuadorians to Vote on Constitutional Rewrite, Possibly Gutting Rights of Nature",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/23102025/ecuador-votes-on-possibly-gutting-rights-of-nature/",
+      "published_at": "Thu, 23 Oct 2025 09:05:00 +0000",
+      "bullets": [
+        "• Ecuador made history by enshrining the rights of nature in its constitution, recognizing ecosystems as living entities with legal rights",
+        "• President Daniel Noboa wants to rewrite the constitution, viewing the document as an obstacle to business development and his fight against drug cartels",
+        "• Critics say Noboa is using security concerns to dismantle hard-won rights and accelerate mining and oil extraction "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ecuador made history by enshrining the rights of nature in its constitution, recognizing ecosystems as living entities with legal rights",
+          "• President Daniel Noboa wants to rewrite the constitution, viewing the document as an obstacle to business development and his fight against drug cartels"
+        ],
+        "hopeful_bullets": [
+          "• President Daniel Noboa wants to rewrite the constitution, viewing the document as an obstacle to business development and his fight against drug cartels"
+        ],
+        "stakes_bullets": [
+          "• Ecuador made history by enshrining the rights of nature in its constitution, recognizing ecosystems as living entities with legal rights",
+          "• President Daniel Noboa wants to rewrite the constitution, viewing the document as an obstacle to business development and his fight against drug cartels",
+          "• Critics say Noboa is using security concerns to dismantle hard-won rights and accelerate mining and oil extraction "
+        ]
+      },
+      "read_minutes": 17,
+      "cluster_id": "83d8cf9c4d59"
+    },
+    {
+      "id": "85498e708407",
+      "title": "Rubio warns against West Bank annexation after Israel's parliament advances move",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn8xvj108z9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 23 Oct 2025 09:03:18 GMT",
+      "bullets": [
+        "• Israel's parliament has passed a bill to annex the West Bank",
+        "• The bill passed in a 25-24 vote",
+        "• It is unclear whether it has a majority of support for the bill",
+        "• The International Court of Justice has ruled that Israel's annexation of the land is illegal "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Israel's parliament has passed a bill to annex the West Bank",
+          "• The bill passed in a 25-24 vote"
+        ],
+        "hopeful_bullets": [
+          "• Israel's parliament has passed a bill to annex the West Bank",
+          "• The bill passed in a 25-24 vote"
+        ],
+        "stakes_bullets": [
+          "• Israel's parliament has passed a bill to annex the West Bank",
+          "• The bill passed in a 25-24 vote",
+          "• It is unclear whether it has a majority of support for the bill"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "165a7ae66b90"
+    },
+    {
+      "id": "11656daa67c7",
+      "title": "Watch: Millions of red crabs begin annual migration on Christmas Island",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cx206pvyld5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 23 Oct 2025 09:01:32 GMT",
+      "bullets": [
+        "• Tens of millions of red crabs begin annual migration on Christmas Island",
+        "• Around 50 million of them move from their homes down to the beaches to lay their eggs",
+        "• Special crab bridges have been built on the island to help the crabs get around tricky obstacles like roads "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tens of millions of red crabs begin annual migration on Christmas Island",
+          "• Around 50 million of them move from their homes down to the beaches to lay their eggs"
+        ],
+        "hopeful_bullets": [
+          "• Special crab bridges have been built on the island to help the crabs get around tricky obstacles like roads "
+        ],
+        "stakes_bullets": [
+          "• Tens of millions of red crabs begin annual migration on Christmas Island",
+          "• Around 50 million of them move from their homes down to the beaches to lay their eggs",
+          "• Special crab bridges have been built on the island to help the crabs get around tricky obstacles like roads "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "5e35edc7b65f"
+    },
+    {
+      "id": "6d63faa732c8",
+      "title": "Shouting and ready to ‘bump chests’ with Trump – but nobody moved the needle in the final New York mayoral debate",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/23/shouting-and-ready-to-bump-chests-with-trump-but-nobody-moved-the-needle-in-the-final-new-york-mayoral-debate",
+      "published_at": "Thu, 23 Oct 2025 09:00:05 GMT",
+      "bullets": [
+        "• Zohran Mamdani and Andrew Cuomo clashed over education reform, transportation funding, Israel policy and whether to close the notorious prison on Rikers Island",
+        "• Cuomo dismisses the 34-year-old state lawmaker as a ‘kid’ who, he said, Donald Trump would knock on his “tuchus”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Zohran Mamdani and Andrew Cuomo clashed over education reform, transportation funding, Israel policy and whether to close the notorious prison on Rikers Island",
+          "• Cuomo dismisses the 34-year-old state lawmaker as a ‘kid’ who, he said, Donald Trump would knock on his “tuchus”"
+        ],
+        "hopeful_bullets": [
+          "• Zohran Mamdani and Andrew Cuomo clashed over education reform, transportation funding, Israel policy and whether to close the notorious prison on Rikers Island",
+          "• Cuomo dismisses the 34-year-old state lawmaker as a ‘kid’ who, he said, Donald Trump would knock on his “tuchus”"
+        ],
+        "stakes_bullets": [
+          "• Zohran Mamdani and Andrew Cuomo clashed over education reform, transportation funding, Israel policy and whether to close the notorious prison on Rikers Island"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "64758cfa95bf"
+    },
+    {
+      "id": "85ac4ea7164e",
+      "title": "Starbucks Workers United set to vote on strike authorization",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/23/starbucks-workers-united-set-to-vote-on-strike-authorization.html",
+      "published_at": "Thu, 23 Oct 2025 09:00:01 GMT",
+      "bullets": [
+        "• Starbucks Workers United is kicking off a strike authorization vote Friday",
+        "• The union representing baristas is trying to secure a contract with the coffee giant",
+        "• If approved, the strike would be open-ended, with specifics to be determined",
+        "• If the union votes to go on strike, this would be the third national strike since last December "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Starbucks Workers United is kicking off a strike authorization vote Friday",
+          "• The union representing baristas is trying to secure a contract with the coffee giant"
+        ],
+        "hopeful_bullets": [
+          "• Starbucks Workers United is kicking off a strike authorization vote Friday",
+          "• The union representing baristas is trying to secure a contract with the coffee giant"
+        ],
+        "stakes_bullets": [
+          "• Starbucks Workers United is kicking off a strike authorization vote Friday",
+          "• The union representing baristas is trying to secure a contract with the coffee giant",
+          "• If approved, the strike would be open-ended, with specifics to be determined"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "c335bd29ac20"
+    },
+    {
+      "id": "25ac41ca12de",
+      "title": "Wetlands Help Remedy Agricultural Pollution. Some Illinois Farmers Are Installing New Ones.",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/23102025/illinois-farmers-build-wetlands-to-help-agricultural-pollution/",
+      "published_at": "Thu, 23 Oct 2025 09:00:00 +0000",
+      "bullets": [
+        "• Jim Fulton's family has been farming in Illinois since the 1890s",
+        "• He has created a man-made wetland on his 690-acre property in Livingston County",
+        "• Through soil, plants and microbes, wetlands filter nitrates and phosphorus from fertilizer runoff "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jim Fulton's family has been farming in Illinois since the 1890s",
+          "• He has created a man-made wetland on his 690-acre property in Livingston County"
+        ],
+        "hopeful_bullets": [
+          "• Jim Fulton's family has been farming in Illinois since the 1890s",
+          "• He has created a man-made wetland on his 690-acre property in Livingston County"
+        ],
+        "stakes_bullets": [
+          "• Through soil, plants and microbes, wetlands filter nitrates and phosphorus from fertilizer runoff "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "177a65a89412"
+    },
+    {
+      "id": "03b38956700e",
+      "title": "This Texas Family Designed Their House Around the Solar Cycle Nearly 30 Years Ago",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/23102025/texas-solar-cycle-house/",
+      "published_at": "Thu, 23 Oct 2025 08:55:00 +0000",
+      "bullets": [
+        "• More than 2,500 people have shown up at the Westbrook home over the years",
+        "• The couple built the home in Fairview, Texas, in 1993",
+        "• The two-story home has become a pilgrimage of sorts for those who want to live in the sun "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• More than 2,500 people have shown up at the Westbrook home over the years",
+          "• The couple built the home in Fairview, Texas, in 1993"
+        ],
+        "hopeful_bullets": [
+          "• More than 2,500 people have shown up at the Westbrook home over the years",
+          "• The couple built the home in Fairview, Texas, in 1993"
+        ],
+        "stakes_bullets": [
+          "• More than 2,500 people have shown up at the Westbrook home over the years",
+          "• The couple built the home in Fairview, Texas, in 1993",
+          "• The two-story home has become a pilgrimage of sorts for those who want to live in the sun "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "b804d3e6eb57"
+    },
+    {
+      "id": "0229d6a52e50",
+      "title": "Central Maine Power Faces Backlash Over Proposed Rate Hikes and Shareholder Profits",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/23102025/central-maine-power-proposed-rate-hikes/",
+      "published_at": "Thu, 23 Oct 2025 08:50:00 +0000",
+      "bullets": [
+        "• Central Maine Power's proposal would raise electricity rates over the next five years",
+        "• It would generate roughly $1.4 billion in additional revenue to fund grid reliability and efficiency upgrades",
+        "• For the average customer, that would mean about $35 more per month by the end of the period "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Central Maine Power's proposal would raise electricity rates over the next five years",
+          "• It would generate roughly $1.4 billion in additional revenue to fund grid reliability and efficiency upgrades"
+        ],
+        "hopeful_bullets": [
+          "• Central Maine Power's proposal would raise electricity rates over the next five years",
+          "• It would generate roughly $1.4 billion in additional revenue to fund grid reliability and efficiency upgrades"
+        ],
+        "stakes_bullets": [
+          "• It would generate roughly $1.4 billion in additional revenue to fund grid reliability and efficiency upgrades"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "15d5e5e0a7db"
+    },
+    {
+      "id": "3896e76c81b4",
+      "title": "Ohio Has Invested Millions in Wetlands to Catch Nutrient Runoff From Farms. A New Report Suggests It’s Working.",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/23102025/ohio-wetland-project-farmland-runoff/",
+      "published_at": "Thu, 23 Oct 2025 08:45:00 +0000",
+      "bullets": [
+        "• A new report on purpose-built wetlands in Ohio showcases their success in reducing nutrient runoff from farms",
+        "• Researchers with the H2Ohio Wetland Monitoring Program developed the report",
+        "• Each wetland was built with a common goal: to capture phosphorus and nitrogen that leach from farmland before they reach Lake Erie "
+      ],
+      "category": "Environment",
       "sentiment": {
         "label": "positive",
         "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• The European Union has launched a fresh round of sanctions against Russia for its war in Ukraine",
-          "• The new measures include a ban on Russian liquefied natural gas imports"
+          "• A new report on purpose-built wetlands in Ohio showcases their success in reducing nutrient runoff from farms",
+          "• Researchers with the H2Ohio Wetland Monitoring Program developed the report"
         ],
         "hopeful_bullets": [
-          "• The European Union has launched a fresh round of sanctions against Russia for its war in Ukraine",
-          "• President Donald Trump announced new sanctions against Rosneft and Lukoil "
+          "• A new report on purpose-built wetlands in Ohio showcases their success in reducing nutrient runoff from farms",
+          "• Researchers with the H2Ohio Wetland Monitoring Program developed the report"
         ],
         "stakes_bullets": [
-          "• The new measures include a ban on Russian liquefied natural gas imports"
+          "• A new report on purpose-built wetlands in Ohio showcases their success in reducing nutrient runoff from farms",
+          "• Researchers with the H2Ohio Wetland Monitoring Program developed the report",
+          "• Each wetland was built with a common goal: to capture phosphorus and nitrogen that leach from farmland before they reach Lake Erie "
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "7c2a56cffa58"
+      "read_minutes": 8,
+      "cluster_id": "70e114f0ff0c"
+    },
+    {
+      "id": "147e031dfa21",
+      "title": "Thames Water ranked worst supplier in England as firms’ ratings hit record low",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/business/2025/oct/23/english-water-ratings-record-low-sewage-pollution",
+      "published_at": "Thu, 23 Oct 2025 08:44:51 GMT",
+      "bullets": [
+        "• Eight of nine water companies rated as poor and need improvement by the Environment Agency",
+        "• Severn Trent was the only company to be awarded full marks despite having presided over 62,085 sewage spills, averaging seven hours each, in 2024",
+        "• In 2023-24, its serious sewage pollution incidents more than doubled from 14 to 33",
+        "• Thames Water is on brink of collapse as it struggles to secure a deal to write off its debt "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Eight of nine water companies rated as poor and need improvement by the Environment Agency",
+          "• Severn Trent was the only company to be awarded full marks despite having presided over 62,085 sewage spills, averaging seven hours each, in 2024"
+        ],
+        "hopeful_bullets": [
+          "• Eight of nine water companies rated as poor and need improvement by the Environment Agency",
+          "• Severn Trent was the only company to be awarded full marks despite having presided over 62,085 sewage spills, averaging seven hours each, in 2024"
+        ],
+        "stakes_bullets": [
+          "• Eight of nine water companies rated as poor and need improvement by the Environment Agency",
+          "• Severn Trent was the only company to be awarded full marks despite having presided over 62,085 sewage spills, averaging seven hours each, in 2024",
+          "• In 2023-24, its serious sewage pollution incidents more than doubled from 14 to 33"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "7a182c7f2a4b"
+    },
+    {
+      "id": "e8c168860768",
+      "title": "Ten dead in blast at Russian munitions plant in Urals - reports",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgzx82p1x5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 23 Oct 2025 08:36:22 GMT",
+      "bullets": [
+        "• Witnesses describe seeing explosions and a fireball at the Plastmass military plant in Kopeisk",
+        "• Authorities have not said what caused the blast",
+        "• A day of mourning has been announced and investigators say they have opened a criminal inquiry into the explosion",
+        "• The plant is producing ammunition and weapons for the military "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Witnesses describe seeing explosions and a fireball at the Plastmass military plant in Kopeisk",
+          "• Authorities have not said what caused the blast"
+        ],
+        "hopeful_bullets": [
+          "• Witnesses describe seeing explosions and a fireball at the Plastmass military plant in Kopeisk",
+          "• Authorities have not said what caused the blast"
+        ],
+        "stakes_bullets": [
+          "• Witnesses describe seeing explosions and a fireball at the Plastmass military plant in Kopeisk",
+          "• Authorities have not said what caused the blast",
+          "• The plant is producing ammunition and weapons for the military "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "36203d7ebdc5"
+    },
+    {
+      "id": "65c4f7aa7911",
+      "title": "Stony silence from Moscow after Trump turns on Russia, says talks with Putin 'don't go anywhere'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/23/stunned-silence-from-moscow-after-trump-turns-on-russia.html",
+      "published_at": "Thu, 23 Oct 2025 08:30:53 GMT",
+      "bullets": [
+        "• U.S",
+        "• President Donald Trump criticized Russian President Vladimir Putin and slapped punishing sanctions on Russia's two largest oil companies",
+        "• The two leaders had agreed to meet in Hungary, but Trump canceled the meeting on Wednesday",
+        "• Trump's comments were widely absent from pro-Kremlin state media outlets such as TASS, Radio Sputnik and RIA Novosti's news coverage on Thursday "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• President Donald Trump criticized Russian President Vladimir Putin and slapped punishing sanctions on Russia's two largest oil companies"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• President Donald Trump criticized Russian President Vladimir Putin and slapped punishing sanctions on Russia's two largest oil companies"
+        ],
+        "stakes_bullets": [
+          "• The two leaders had agreed to meet in Hungary, but Trump canceled the meeting on Wednesday"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "7c91e75fe345"
     },
     {
       "id": "58003447e221",
@@ -5197,6 +5159,40 @@
       },
       "read_minutes": 4,
       "cluster_id": "9b9c4f099f41"
+    },
+    {
+      "id": "305d584096ef",
+      "title": "U.S. mulls software-linked export curbs on China: ‘Everything is on the table’",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/23/us-china-software-export-curbs-bessent-trump-xi-meeting.html",
+      "published_at": "Thu, 23 Oct 2025 07:52:39 GMT",
+      "bullets": [
+        "• U.S",
+        "• Treasury Secretary Scott Bessent says \"everything is on the table\" in response to China's curbs on rare-earth export controls",
+        "• The move comes ahead of his highly anticipated talks with Chinese Vice Premier He Lifeng in Malaysia this week "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• Treasury Secretary Scott Bessent says \"everything is on the table\" in response to China's curbs on rare-earth export controls"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• Treasury Secretary Scott Bessent says \"everything is on the table\" in response to China's curbs on rare-earth export controls"
+        ],
+        "stakes_bullets": [
+          "• U.S",
+          "• Treasury Secretary Scott Bessent says \"everything is on the table\" in response to China's curbs on rare-earth export controls",
+          "• The move comes ahead of his highly anticipated talks with Chinese Vice Premier He Lifeng in Malaysia this week "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e6c716e81fd0"
     },
     {
       "id": "7e7f34643c8c",
@@ -5267,38 +5263,6 @@
       "cluster_id": "e65b5625d30f"
     },
     {
-      "id": "a9470bc8270d",
-      "title": "What's at stake as Trump boat strikes strain US-Colombia alliance",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c709w5v9dq9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 23 Oct 2025 07:11:02 GMT",
-      "bullets": [
-        "• US-Colombia alliance has been one of Washington's closest alliances for decades",
-        "• The two countries co-operated in their fight against drug trafficking",
-        "• Trump has suspended payments and subsidies to the South American country",
-        "• Experts say the US and Colombia could be at risk of losing out while organised crime groups look set to benefit "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.87
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US-Colombia alliance has been one of Washington's closest alliances for decades",
-          "• The two countries co-operated in their fight against drug trafficking"
-        ],
-        "hopeful_bullets": [
-          "• The two countries co-operated in their fight against drug trafficking"
-        ],
-        "stakes_bullets": [
-          "• Experts say the US and Colombia could be at risk of losing out while organised crime groups look set to benefit "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "eba700795094"
-    },
-    {
       "id": "28319375517b",
       "title": "Reddit accuses Perplexity of stealing user posts, expanding data rights battle with AI industry",
       "outlet": "US Top News and Analysis",
@@ -5331,38 +5295,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "005fe4f2dd3d"
-    },
-    {
-      "id": "1b077042cd77",
-      "title": "CNBC's Inside India newsletter: Diwali sans sparkles for tariff-hit Indian exporters",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/23/cnbcs-inside-india-newsletter-diwali-sans-sparkles-for-tariff-hit-indian-exporters.html",
-      "published_at": "Thu, 23 Oct 2025 07:04:34 GMT",
-      "bullets": [
-        "• The U.S",
-        "• remains India's single largest export destination, accounting for more than $45.8 billion, or over 20% of its total exports between April and September",
-        "• The levies have been particularly worrisome for India's labor-intensive textiles, and gems and jewelry sectors "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The U.S",
-          "• remains India's single largest export destination, accounting for more than $45.8 billion, or over 20% of its total exports between April and September"
-        ],
-        "hopeful_bullets": [
-          "• The U.S",
-          "• remains India's single largest export destination, accounting for more than $45.8 billion, or over 20% of its total exports between April and September"
-        ],
-        "stakes_bullets": [
-          "• remains India's single largest export destination, accounting for more than $45.8 billion, or over 20% of its total exports between April and September"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "92d9f881f357"
     },
     {
       "id": "2d87b674f661",
@@ -5462,41 +5394,6 @@
       "cluster_id": "f3fe5ff7a62f"
     },
     {
-      "id": "b2caa91e909b",
-      "title": "China and India to face supply jolt as U.S. targets Russia's oil giants",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/23/china-india-us-russia-oil-sanctions-rosneft-lukoil.html",
-      "published_at": "Thu, 23 Oct 2025 06:33:31 GMT",
-      "bullets": [
-        "• U.S",
-        "• sanctions on Russia's two largest oil companies threaten to disrupt energy lifeline",
-        "• Rosneft and Lukoil account for roughly half of Russia's more than 4 million barrels a day of crude exports",
-        "• The sanctions aim to \"degrade\" Kremlin's ability to finance its war in Ukraine, Treasury Department says "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• sanctions on Russia's two largest oil companies threaten to disrupt energy lifeline"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• sanctions on Russia's two largest oil companies threaten to disrupt energy lifeline"
-        ],
-        "stakes_bullets": [
-          "• U.S",
-          "• sanctions on Russia's two largest oil companies threaten to disrupt energy lifeline",
-          "• Rosneft and Lukoil account for roughly half of Russia's more than 4 million barrels a day of crude exports"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "38f8fa345f77"
-    },
-    {
       "id": "33dead3facc0",
       "title": "Chainsaw Man: Reze Arc Movie is a 10/10 Instant Anime Classic",
       "outlet": "CBR",
@@ -5556,69 +5453,238 @@
       "cluster_id": "f3d49b2d926f"
     },
     {
-      "id": "c4c489f76222",
-      "title": "I joined a 24-hour ‘vibe coding’ hackathon and helped build an app – here are my biggest takeaways",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/23/inside-a-24-hour-vibe-coding-hackathonhere-are-my-biggest-takeaways.html",
-      "published_at": "Thu, 23 Oct 2025 05:54:44 GMT",
+      "id": "096b46a5c5ab",
+      "title": "Gold flakes expose the secret forces binding our world together",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251023031607.htm",
+      "published_at": "Thu, 23 Oct 2025 05:03:22 EDT",
       "bullets": [
-        "• Over 400 people from around the world took part in a 24-hour 'vibe coding' event in Singapore",
-        "• The goal was to build something from scratch with the help of artificial intelligence",
-        "• The event was sponsored by OpenAI, Cursor, Anthropic and more "
+        "• Researchers at Chalmers University of Technology in Sweden have developed a simple way to observe the hidden forces that hold the tiniest objects in the universe together",
+        "• They have built a special platform where they can observe the forces that bind objects together using gold, salt water and light "
       ],
-      "category": "Business",
+      "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.921
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• Over 400 people from around the world took part in a 24-hour 'vibe coding' event in Singapore",
-          "• The goal was to build something from scratch with the help of artificial intelligence"
+          "• Researchers at Chalmers University of Technology in Sweden have developed a simple way to observe the hidden forces that hold the tiniest objects in the universe together",
+          "• They have built a special platform where they can observe the forces that bind objects together using gold, salt water and light "
         ],
         "hopeful_bullets": [
-          "• The goal was to build something from scratch with the help of artificial intelligence"
+          "• Researchers at Chalmers University of Technology in Sweden have developed a simple way to observe the hidden forces that hold the tiniest objects in the universe together",
+          "• They have built a special platform where they can observe the forces that bind objects together using gold, salt water and light "
         ],
         "stakes_bullets": [
-          "• Over 400 people from around the world took part in a 24-hour 'vibe coding' event in Singapore",
-          "• The goal was to build something from scratch with the help of artificial intelligence",
-          "• The event was sponsored by OpenAI, Cursor, Anthropic and more "
+          "• Researchers at Chalmers University of Technology in Sweden have developed a simple way to observe the hidden forces that hold the tiniest objects in the universe together",
+          "• They have built a special platform where they can observe the forces that bind objects together using gold, salt water and light "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "9ffa92838126"
+    },
+    {
+      "id": "c2dcf12be74c",
+      "title": "Your ballot or other mail may not get postmarked by USPS the day it's dropped off",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/23/nx-s1-5582370/mail-in-ballot-postmark",
+      "published_at": "Thu, 23 Oct 2025 05:01:00 -0400",
+      "bullets": [
+        "• Postmark date \"does not necessarily align\" with the date it was first accepted by a letter carrier or dropped off at a post office or collection box",
+        "• Postmark dates are often used to determine whether a piece of first-class mail was sent on time",
+        "• The U.S",
+        "• Postal Service hasn't changed how it applies postmarks, but some parts of the country may not get their mail "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Postmark date \"does not necessarily align\" with the date it was first accepted by a letter carrier or dropped off at a post office or collection box",
+          "• Postmark dates are often used to determine whether a piece of first-class mail was sent on time"
+        ],
+        "hopeful_bullets": [
+          "• Postmark date \"does not necessarily align\" with the date it was first accepted by a letter carrier or dropped off at a post office or collection box",
+          "• Postmark dates are often used to determine whether a piece of first-class mail was sent on time"
+        ],
+        "stakes_bullets": [
+          "• Postmark date \"does not necessarily align\" with the date it was first accepted by a letter carrier or dropped off at a post office or collection box",
+          "• Postmark dates are often used to determine whether a piece of first-class mail was sent on time",
+          "• The U.S"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c94eb2b8142a"
+    },
+    {
+      "id": "fd84cd620683",
+      "title": "Starter homes are scarce. But homebuyers can improve their odds",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/23/nx-s1-5582442/starter-homes-housing-mortgage-rates",
+      "published_at": "Thu, 23 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• The housing market in Austin mirrors what's happening across the country",
+        "• The median income in Austin is about $134,000 — enough for a mortgage of roughly $350,000",
+        "• \"If you're a median income earner in the region, you can't afford to buy a house in Austin,\" says local builder Scott Turner "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.958
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The housing market in Austin mirrors what's happening across the country",
+          "• The median income in Austin is about $134,000 — enough for a mortgage of roughly $350,000"
+        ],
+        "hopeful_bullets": [
+          "• The housing market in Austin mirrors what's happening across the country",
+          "• The median income in Austin is about $134,000 — enough for a mortgage of roughly $350,000"
+        ],
+        "stakes_bullets": [
+          "• The housing market in Austin mirrors what's happening across the country",
+          "• The median income in Austin is about $134,000 — enough for a mortgage of roughly $350,000",
+          "• \"If you're a median income earner in the region, you can't afford to buy a house in Austin,\" says local builder Scott Turner "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "a527c260e515"
+    },
+    {
+      "id": "38752007bf5e",
+      "title": "Antidepressant side effects differ greatly depending on the drug, study finds",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/10/23/nx-s1-5582787/antidepressant-side-effects-mental-health",
+      "published_at": "Thu, 23 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Researchers in the U.K",
+        "• have pulled together data from more than 150 clinical trials to compare the physical side effects of dozens of antidepressants",
+        "• The study details how each medication can affect weight, blood pressure, heart rate, cholesterol and other areas of health",
+        "• The findings are based on existing data, mostly from 8-week drug studies that represent more than 58,000 patients "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.885
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Researchers in the U.K",
+          "• have pulled together data from more than 150 clinical trials to compare the physical side effects of dozens of antidepressants"
+        ],
+        "hopeful_bullets": [
+          "• Researchers in the U.K",
+          "• have pulled together data from more than 150 clinical trials to compare the physical side effects of dozens of antidepressants"
+        ],
+        "stakes_bullets": [
+          "• have pulled together data from more than 150 clinical trials to compare the physical side effects of dozens of antidepressants",
+          "• The study details how each medication can affect weight, blood pressure, heart rate, cholesterol and other areas of health"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2f0a53799c2d"
+    },
+    {
+      "id": "c39560fd8610",
+      "title": "Sports ticket prices are getting more expensive — and pricing out many fans",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/23/nx-s1-5561909/ticket-prices-sports",
+      "published_at": "Thu, 23 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Sports ticket prices are getting more expensive — and pricing out many fans",
+        "• There are three main reasons why teams are hiking ticket prices",
+        "• Teams would rather sell fewer seats at higher prices, than more seats at a lower price",
+        "• Teams are offering more premium experiences — meaning swanky club areas and plush seats — because those seats allow them to charge higher prices "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sports ticket prices are getting more expensive — and pricing out many fans",
+          "• There are three main reasons why teams are hiking ticket prices"
+        ],
+        "hopeful_bullets": [
+          "• Sports ticket prices are getting more expensive — and pricing out many fans",
+          "• There are three main reasons why teams are hiking ticket prices"
+        ],
+        "stakes_bullets": [
+          "• Teams are offering more premium experiences — meaning swanky club areas and plush seats — because those seats allow them to charge higher prices "
         ]
       },
       "read_minutes": 5,
-      "cluster_id": "74be1bb18089"
+      "cluster_id": "f58c8be261d2"
     },
     {
-      "id": "133999715bde",
-      "title": "'Europe's Detroit' is losing its shine as an automotive powerhouse",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/23/trump-tariffs-slovakia-struggles-to-protect-automotive-hub-reputation.html",
-      "published_at": "Thu, 23 Oct 2025 05:35:13 GMT",
+      "id": "763f0333fd46",
+      "title": "Confused by the legal battles over troop deployments? Here's what to know",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/23/nx-s1-5581553/national-guard-supreme-court-legal-cases",
+      "published_at": "Thu, 23 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• Slovakia has positioned itself as the world's leading producer of cars per capita",
-        "• The mountainous nation of just 5.4 million has attracted major manufacturers such as Volkswagen, Stellantis, Kia and Jaguar Land Rover",
-        "• The auto industry currently accounts for roughly 11% of its gross domestic product, half of the country's industrial output and one-tenth of its total employment "
+        "• President Trump's deployment of troops to Chicago and Oregon is under scrutiny",
+        "• The two cities are in need of immediate military intervention to protect federal property and immigration officers",
+        "• Both were quickly blocked by a federal judge in Oregon and Illinois",
+        "• The White House has asked the Supreme Court to intervene in both cases "
       ],
-      "category": "Business",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 1.0
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Slovakia has positioned itself as the world's leading producer of cars per capita",
-          "• The mountainous nation of just 5.4 million has attracted major manufacturers such as Volkswagen, Stellantis, Kia and Jaguar Land Rover"
+          "• President Trump's deployment of troops to Chicago and Oregon is under scrutiny",
+          "• The two cities are in need of immediate military intervention to protect federal property and immigration officers"
         ],
         "hopeful_bullets": [
-          "• Slovakia has positioned itself as the world's leading producer of cars per capita",
-          "• The mountainous nation of just 5.4 million has attracted major manufacturers such as Volkswagen, Stellantis, Kia and Jaguar Land Rover"
+          "• President Trump's deployment of troops to Chicago and Oregon is under scrutiny",
+          "• The two cities are in need of immediate military intervention to protect federal property and immigration officers"
         ],
         "stakes_bullets": [
-          "• Slovakia has positioned itself as the world's leading producer of cars per capita"
+          "• President Trump's deployment of troops to Chicago and Oregon is under scrutiny",
+          "• The two cities are in need of immediate military intervention to protect federal property and immigration officers",
+          "• Both were quickly blocked by a federal judge in Oregon and Illinois"
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "ec9e5f6ccdf4"
+      "read_minutes": 5,
+      "cluster_id": "e071bfc9c0bd"
+    },
+    {
+      "id": "c50cf73ebdf2",
+      "title": "What Jared Kushner brings to the negotiating table in the Middle East",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/23/nx-s1-5582806/jared-kushner-mideast-business-ceasefire",
+      "published_at": "Thu, 23 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• President Trump drafted Jared Kushner back to help secure a ceasefire in Gaza",
+        "• The president's son-in-law had said he wasn't planning to join the administration for a second time",
+        "• He successfully returned to the private sector and was raking in millions in foreign investments from his first stint at the White House "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Trump drafted Jared Kushner back to help secure a ceasefire in Gaza",
+          "• The president's son-in-law had said he wasn't planning to join the administration for a second time"
+        ],
+        "hopeful_bullets": [
+          "• President Trump drafted Jared Kushner back to help secure a ceasefire in Gaza"
+        ],
+        "stakes_bullets": [
+          "• The president's son-in-law had said he wasn't planning to join the administration for a second time"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "6294d6db94fa"
     },
     {
       "id": "002415e554f2",
@@ -5983,38 +6049,70 @@
       "cluster_id": "596ef7200404"
     },
     {
-      "id": "e4d74fe5651f",
-      "title": "US military kills five people in strikes on alleged drug-trafficking boats in Pacific",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/22/military-boat-strike-pacific-pete-hegseth",
-      "published_at": "Thu, 23 Oct 2025 02:42:41 GMT",
+      "id": "3d8c63ad0d6d",
+      "title": "Tesla 'not about to replace Nvidia' as EV maker develops chips for cars, robots, Musk says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/22/elon-musk-tesla-ai5-nvidia.html",
+      "published_at": "Thu, 23 Oct 2025 02:39:30 GMT",
       "bullets": [
-        "• US military has destroyed two boats on the Pacific side of South America for the first time",
-        "• Previous attacks have hit seven vessels in the Caribbean and killed at least 32 people",
-        "• US defense secretary Pete Hegseth equates alleged drug traffickers to al-Qaeda "
+        "• Tesla's AI5 chip will be made by Samsung in Texas and TSMC in Arizona",
+        "• CEO Elon Musk said the company is shooting for \"excess production\" Musk said any chips not used in cars or robots can be used in data centers",
+        "• Tesla will continue to use Nvidia's graphics processing units for training its AI models "
       ],
-      "category": "World",
+      "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.984
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• US military has destroyed two boats on the Pacific side of South America for the first time",
-          "• Previous attacks have hit seven vessels in the Caribbean and killed at least 32 people"
+          "• Tesla's AI5 chip will be made by Samsung in Texas and TSMC in Arizona",
+          "• CEO Elon Musk said the company is shooting for \"excess production\" Musk said any chips not used in cars or robots can be used in data centers"
         ],
         "hopeful_bullets": [
-          "• US military has destroyed two boats on the Pacific side of South America for the first time",
-          "• Previous attacks have hit seven vessels in the Caribbean and killed at least 32 people"
+          "• Tesla's AI5 chip will be made by Samsung in Texas and TSMC in Arizona",
+          "• CEO Elon Musk said the company is shooting for \"excess production\" Musk said any chips not used in cars or robots can be used in data centers"
         ],
         "stakes_bullets": [
-          "• US military has destroyed two boats on the Pacific side of South America for the first time",
-          "• Previous attacks have hit seven vessels in the Caribbean and killed at least 32 people",
-          "• US defense secretary Pete Hegseth equates alleged drug traffickers to al-Qaeda "
+          "• Tesla's AI5 chip will be made by Samsung in Texas and TSMC in Arizona",
+          "• Tesla will continue to use Nvidia's graphics processing units for training its AI models "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b5a678c3c04a"
+    },
+    {
+      "id": "874a8da387e1",
+      "title": "Dark matter might not be invisible after all. It could leave a hidden glow",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251022023124.htm",
+      "published_at": "Thu, 23 Oct 2025 02:27:13 EDT",
+      "bullets": [
+        "• Dark matter could leave a faint red or blue \"fingerprint\" in light that passes through regions filled with it",
+        "• Researchers at the University of York propose that light could subtly change color when it encounters dark matter",
+        "• The finding challenges the belief that dark matter and light do not interact in any measurable way "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.851
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dark matter could leave a faint red or blue \"fingerprint\" in light that passes through regions filled with it",
+          "• Researchers at the University of York propose that light could subtly change color when it encounters dark matter"
+        ],
+        "hopeful_bullets": [
+          "• Dark matter could leave a faint red or blue \"fingerprint\" in light that passes through regions filled with it",
+          "• Researchers at the University of York propose that light could subtly change color when it encounters dark matter"
+        ],
+        "stakes_bullets": [
+          "• Dark matter could leave a faint red or blue \"fingerprint\" in light that passes through regions filled with it",
+          "• Researchers at the University of York propose that light could subtly change color when it encounters dark matter"
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "8ff7edd1d02b"
+      "cluster_id": "9caa690ec948"
     },
     {
       "id": "9cd7a283979d",
@@ -6182,40 +6280,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "373474cb6f48"
-    },
-    {
-      "id": "ea4369082758",
-      "title": "Elon Musk said Tesla's robot will be 'incredible surgeon,' left Wall Street with no guidance on EVs",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/22/elon-musk-touted-robotaxi-optimus-not-ev-demand-in-tesla-earnings.html",
-      "published_at": "Thu, 23 Oct 2025 02:14:28 GMT",
-      "bullets": [
-        "• Tesla CEO Elon Musk said nothing about demand for the company's electric vehicles after a key federal tax credit expired last month",
-        "• There was no mention of the Cybertruck or the impact of tariffs on auto parts",
-        "• Musk: \"People just don't don't quite appreciate the degree to which this will take off ",
-        "• it's going to be like a shock wave\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tesla CEO Elon Musk said nothing about demand for the company's electric vehicles after a key federal tax credit expired last month",
-          "• There was no mention of the Cybertruck or the impact of tariffs on auto parts"
-        ],
-        "hopeful_bullets": [
-          "• Tesla CEO Elon Musk said nothing about demand for the company's electric vehicles after a key federal tax credit expired last month",
-          "• There was no mention of the Cybertruck or the impact of tariffs on auto parts"
-        ],
-        "stakes_bullets": [
-          "• There was no mention of the Cybertruck or the impact of tariffs on auto parts",
-          "• Musk: \"People just don't don't quite appreciate the degree to which this will take off "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "30a748b267d8"
     },
     {
       "id": "d5740988996c",
@@ -6411,39 +6475,6 @@
       "cluster_id": "ec6bef115ef9"
     },
     {
-      "id": "dab034228d51",
-      "title": "Oil jumps 3% after Trump administration sanctions big Russian oil companies",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/22/trump-administration-sanctions-russian-oil.html",
-      "published_at": "Thu, 23 Oct 2025 00:39:44 GMT",
-      "bullets": [
-        "• U.S",
-        "• crude oil prices jumped about 3% on Wednesday evening",
-        "• Global benchmark Brent rose 2% to close at $64.42 per barrel",
-        "• The Treasury Department says the new sanctions will harm the Kremlin's ability to raise revenue to fund its war "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• crude oil prices jumped about 3% on Wednesday evening"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• crude oil prices jumped about 3% on Wednesday evening"
-        ],
-        "stakes_bullets": [
-          "• The Treasury Department says the new sanctions will harm the Kremlin's ability to raise revenue to fund its war "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "6b47178a68c6"
-    },
-    {
       "id": "992bb3f4e10b",
       "title": "Pregnant women report medical neglect in ICE detention, rights groups say",
       "outlet": "US news | The Guardian",
@@ -6509,38 +6540,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "1ef7a36d481d"
-    },
-    {
-      "id": "5df2c84d09e5",
-      "title": "Trump poised to send scores of federal agents to San Francisco",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/22/trump-federal-agents-san-francisco",
-      "published_at": "Thu, 23 Oct 2025 00:02:40 GMT",
-      "bullets": [
-        "• Federal agents are reportedly set to use US Coast Guard base in Alameda, California",
-        "• Governor Gavin Newsom said it was ‘right out of the dictator’s handbook’ The deployment follows weeks of threats by Donald Trump to target San Francisco "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.924
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Federal agents are reportedly set to use US Coast Guard base in Alameda, California",
-          "• Governor Gavin Newsom said it was ‘right out of the dictator’s handbook’ The deployment follows weeks of threats by Donald Trump to target San Francisco "
-        ],
-        "hopeful_bullets": [
-          "• Federal agents are reportedly set to use US Coast Guard base in Alameda, California",
-          "• Governor Gavin Newsom said it was ‘right out of the dictator’s handbook’ The deployment follows weeks of threats by Donald Trump to target San Francisco "
-        ],
-        "stakes_bullets": [
-          "• Federal agents are reportedly set to use US Coast Guard base in Alameda, California",
-          "• Governor Gavin Newsom said it was ‘right out of the dictator’s handbook’ The deployment follows weeks of threats by Donald Trump to target San Francisco "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "59dc7ccea8d1"
     },
     {
       "id": "c690784022a8",
@@ -9026,6 +9025,24 @@
       ]
     },
     {
+      "id": "36203d7ebdc5",
+      "topic": "blast dead munition plant",
+      "keywords": [
+        "blast",
+        "dead",
+        "munition",
+        "plant",
+        "russian",
+        "ten"
+      ],
+      "item_ids": [
+        "e8c168860768"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "e65b5625d30f",
       "topic": "away backing france intercept",
       "keywords": [
@@ -9044,36 +9061,36 @@
       ]
     },
     {
-      "id": "e28056c2738d",
-      "topic": "camera covered jewel louvre",
+      "id": "5e35edc7b65f",
+      "topic": "annual begin crab million",
       "keywords": [
-        "camera",
-        "covered",
-        "jewel",
-        "louvre",
-        "thieve",
-        "wall"
+        "annual",
+        "begin",
+        "crab",
+        "million",
+        "red",
+        "watch"
       ],
       "item_ids": [
-        "82cdf868505c"
+        "11656daa67c7"
       ],
       "outlets": [
         "BBC News"
       ]
     },
     {
-      "id": "eba700795094",
-      "topic": "boat colombia stake strain",
+      "id": "165a7ae66b90",
+      "topic": "against annexation bank rubio",
       "keywords": [
-        "boat",
-        "colombia",
-        "stake",
-        "strain",
-        "strike",
-        "trump"
+        "against",
+        "annexation",
+        "bank",
+        "rubio",
+        "warn",
+        "west"
       ],
       "item_ids": [
-        "a9470bc8270d"
+        "85498e708407"
       ],
       "outlets": [
         "BBC News"
@@ -9098,18 +9115,36 @@
       ]
     },
     {
-      "id": "8b8951cc204a",
-      "topic": "army back myanmar relentles",
+      "id": "443791077628",
+      "topic": "deal endorse frozen russian",
       "keywords": [
-        "army",
-        "back",
-        "myanmar",
-        "relentles",
-        "taking",
-        "territory"
+        "deal",
+        "endorse",
+        "frozen",
+        "russian",
+        "set",
+        "turn"
       ],
       "item_ids": [
-        "4133081f8bdf"
+        "0a9295bbb6f4"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "e28056c2738d",
+      "topic": "camera covered jewel louvre",
+      "keywords": [
+        "camera",
+        "covered",
+        "jewel",
+        "louvre",
+        "thieve",
+        "wall"
+      ],
+      "item_ids": [
+        "82cdf868505c"
       ],
       "outlets": [
         "BBC News"
@@ -9128,42 +9163,6 @@
       ],
       "item_ids": [
         "85686380d7ec"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "ce8e91aeed4b",
-      "topic": "agree greeting off remove",
-      "keywords": [
-        "agree",
-        "greeting",
-        "off",
-        "remove",
-        "rip",
-        "temu"
-      ],
-      "item_ids": [
-        "266814153b0b"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "6557dc68b610",
-      "topic": "east existing house structure",
-      "keywords": [
-        "east",
-        "existing",
-        "house",
-        "structure",
-        "trump",
-        "white"
-      ],
-      "item_ids": [
-        "630f560c85e3"
       ],
       "outlets": [
         "BBC News"
@@ -9350,6 +9349,24 @@
       ]
     },
     {
+      "id": "64758cfa95bf",
+      "topic": "bump chest nobody ready",
+      "keywords": [
+        "bump",
+        "chest",
+        "nobody",
+        "ready",
+        "shouting",
+        "trump"
+      ],
+      "item_ids": [
+        "6d63faa732c8"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "ee5e7b57bc02",
       "topic": "condemned criminal cuomo depicting",
       "keywords": [
@@ -9476,24 +9493,6 @@
       ]
     },
     {
-      "id": "59dc7ccea8d1",
-      "topic": "agent federal poised score",
-      "keywords": [
-        "agent",
-        "federal",
-        "poised",
-        "score",
-        "send",
-        "trump"
-      ],
-      "item_ids": [
-        "5df2c84d09e5"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "e64518b116f3",
       "topic": "auku congressman expand nation",
       "keywords": [
@@ -9509,6 +9508,114 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "c94eb2b8142a",
+      "topic": "ballot get mail other",
+      "keywords": [
+        "ballot",
+        "get",
+        "mail",
+        "other",
+        "postmarked",
+        "usps"
+      ],
+      "item_ids": [
+        "c2dcf12be74c"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "a527c260e515",
+      "topic": "home homebuyer improve odds",
+      "keywords": [
+        "home",
+        "homebuyer",
+        "improve",
+        "odds",
+        "scarce",
+        "starter"
+      ],
+      "item_ids": [
+        "fd84cd620683"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "2f0a53799c2d",
+      "topic": "antidepressant depending differ effect",
+      "keywords": [
+        "antidepressant",
+        "depending",
+        "differ",
+        "effect",
+        "greatly",
+        "side"
+      ],
+      "item_ids": [
+        "38752007bf5e"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "f58c8be261d2",
+      "topic": "expensive getting price pricing",
+      "keywords": [
+        "expensive",
+        "getting",
+        "price",
+        "pricing",
+        "sport",
+        "ticket"
+      ],
+      "item_ids": [
+        "c39560fd8610"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "e071bfc9c0bd",
+      "topic": "battle confused deployment here",
+      "keywords": [
+        "battle",
+        "confused",
+        "deployment",
+        "here",
+        "legal",
+        "troop"
+      ],
+      "item_ids": [
+        "763f0333fd46"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "6294d6db94fa",
+      "topic": "bring jared kushner middle",
+      "keywords": [
+        "bring",
+        "jared",
+        "kushner",
+        "middle",
+        "negotiating",
+        "table"
+      ],
+      "item_ids": [
+        "c50cf73ebdf2"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9584,141 +9691,18 @@
       ]
     },
     {
-      "id": "3b4bb9e6cdb7",
-      "topic": "alone confused economy",
+      "id": "942c8af96567",
+      "topic": "cars jump profit share",
       "keywords": [
-        "alone",
-        "confused",
-        "economy"
-      ],
-      "item_ids": [
-        "dff90c5907df"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "f1be8c3aebfb",
-      "topic": "coach greeting indian railway",
-      "keywords": [
-        "coach",
-        "greeting",
-        "indian",
-        "railway",
-        "spectacular",
-        "view"
-      ],
-      "item_ids": [
-        "43e34ba02412"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "24c7ad6cf9dc",
-      "topic": "ceasefire gaza progres trie",
-      "keywords": [
-        "ceasefire",
-        "gaza",
-        "progres",
-        "trie",
-        "vance",
-        "white"
-      ],
-      "item_ids": [
-        "4c00e97a8d76"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "95b7380f84a3",
-      "topic": "brain change exercise linked",
-      "keywords": [
-        "brain",
-        "change",
-        "exercise",
-        "linked",
-        "mental",
-        "reverse"
-      ],
-      "item_ids": [
-        "d9e13073dec9"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "c527079c1b3a",
-      "topic": "down federal government here",
-      "keywords": [
-        "down",
-        "federal",
-        "government",
-        "here",
-        "shut",
-        "still"
-      ],
-      "item_ids": [
-        "a63142e617c5"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "624a181df016",
-      "topic": "fight generational mamdani nyc",
-      "keywords": [
-        "fight",
-        "generational",
-        "mamdani",
-        "nyc",
-        "reflect",
-        "rise"
-      ],
-      "item_ids": [
-        "957e9dd9c028"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "38f8fa345f77",
-      "topic": "china face india jolt",
-      "keywords": [
-        "china",
-        "face",
-        "india",
-        "jolt",
-        "supply",
-        "target"
-      ],
-      "item_ids": [
-        "b2caa91e909b"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "6b47178a68c6",
-      "topic": "administration big jump oil",
-      "keywords": [
-        "administration",
-        "big",
+        "cars",
         "jump",
-        "oil",
-        "sanction",
-        "trump"
+        "profit",
+        "share",
+        "sweden",
+        "volvo"
       ],
       "item_ids": [
-        "dab034228d51"
+        "4165b99cb7a4"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9743,6 +9727,42 @@
       ]
     },
     {
+      "id": "c335bd29ac20",
+      "topic": "set starbuck strike united",
+      "keywords": [
+        "set",
+        "starbuck",
+        "strike",
+        "united",
+        "vote",
+        "worker"
+      ],
+      "item_ids": [
+        "85ac4ea7164e"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "c48f09ac2f9d",
+      "topic": "chip earth first now",
+      "keywords": [
+        "chip",
+        "earth",
+        "first",
+        "now",
+        "quantum",
+        "rare"
+      ],
+      "item_ids": [
+        "36882deecc3d"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "005fe4f2dd3d",
       "topic": "accuse perplexity post reddit",
       "keywords": [
@@ -9761,108 +9781,90 @@
       ]
     },
     {
-      "id": "ec9e5f6ccdf4",
-      "topic": "automotive detroit europe losing",
+      "id": "f6aabea90f8b",
+      "topic": "beat earning estimate forecast",
       "keywords": [
-        "automotive",
-        "detroit",
-        "europe",
-        "losing",
-        "powerhouse",
-        "shine"
+        "beat",
+        "earning",
+        "estimate",
+        "forecast",
+        "record",
+        "southwest"
       ],
       "item_ids": [
-        "133999715bde"
+        "2582dc67b847"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "74be1bb18089",
-      "topic": "coding hackathon helped hour",
+      "id": "e6c716e81fd0",
+      "topic": "china curb export linked",
       "keywords": [
-        "coding",
-        "hackathon",
-        "helped",
-        "hour",
-        "joined",
-        "vibe"
+        "china",
+        "curb",
+        "export",
+        "linked",
+        "mull",
+        "software"
       ],
       "item_ids": [
-        "c4c489f76222"
+        "305d584096ef"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "30a748b267d8",
-      "topic": "elon incredible musk robot",
+      "id": "0b790ee13fd1",
+      "topic": "estimate ibm lift quarter",
       "keywords": [
-        "elon",
-        "incredible",
-        "musk",
-        "robot",
-        "surgeon",
+        "estimate",
+        "ibm",
+        "lift",
+        "quarter",
+        "third",
+        "tops"
+      ],
+      "item_ids": [
+        "3d4df6d353c1"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "b5a678c3c04a",
+      "topic": "chip develop maker nvidia",
+      "keywords": [
+        "chip",
+        "develop",
+        "maker",
+        "nvidia",
+        "replace",
         "tesla"
       ],
       "item_ids": [
-        "ea4369082758"
+        "3d8c63ad0d6d"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "7c2a56cffa58",
-      "topic": "energy russian sanction target",
+      "id": "7c91e75fe345",
+      "topic": "moscow russia silence stony",
       "keywords": [
-        "energy",
-        "russian",
-        "sanction",
-        "target",
+        "moscow",
+        "russia",
+        "silence",
+        "stony",
         "trump",
-        "welcome"
+        "turn"
       ],
       "item_ids": [
-        "79550ee87dc7"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "8b2ce3081994",
-      "topic": "600 bloated lays meta",
-      "keywords": [
-        "600",
-        "bloated",
-        "lays",
-        "meta",
-        "off",
-        "unit"
-      ],
-      "item_ids": [
-        "8095b6609f87"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "92d9f881f357",
-      "topic": "cnbc diwali india inside",
-      "keywords": [
-        "cnbc",
-        "diwali",
-        "india",
-        "inside",
-        "newsletter",
-        "sans"
-      ],
-      "item_ids": [
-        "1b077042cd77"
+        "65c4f7aa7911"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10399,6 +10401,24 @@
       ]
     },
     {
+      "id": "9ffa92838126",
+      "topic": "binding expose flake force",
+      "keywords": [
+        "binding",
+        "expose",
+        "flake",
+        "force",
+        "gold",
+        "secret"
+      ],
+      "item_ids": [
+        "096b46a5c5ab"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "38ba2d82223a",
       "topic": "all drilling found off",
       "keywords": [
@@ -10411,6 +10431,24 @@
       ],
       "item_ids": [
         "0a9f275e054e"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "9caa690ec948",
+      "topic": "all dark invisible leave",
+      "keywords": [
+        "all",
+        "dark",
+        "invisible",
+        "leave",
+        "matter",
+        "might"
+      ],
+      "item_ids": [
+        "874a8da387e1"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10543,42 +10581,6 @@
       ]
     },
     {
-      "id": "aea03d7c63f6",
-      "topic": "brain break fixe food",
-      "keywords": [
-        "brain",
-        "break",
-        "fixe",
-        "food",
-        "junk",
-        "running"
-      ],
-      "item_ids": [
-        "4ba30ee11e0e"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "264573fc7c32",
-      "topic": "behave crystal discover physicist",
-      "keywords": [
-        "behave",
-        "crystal",
-        "discover",
-        "physicist",
-        "spinning",
-        "strange"
-      ],
-      "item_ids": [
-        "e8a446a8125c"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
       "id": "a64a4383add7",
       "topic": "ants make result scientist",
       "keywords": [
@@ -10591,6 +10593,24 @@
       ],
       "item_ids": [
         "25e8a93a5bb7"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "95b7380f84a3",
+      "topic": "brain change exercise linked",
+      "keywords": [
+        "brain",
+        "change",
+        "exercise",
+        "linked",
+        "mental",
+        "reverse"
+      ],
+      "item_ids": [
+        "d9e13073dec9"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -10775,36 +10795,18 @@
       ]
     },
     {
-      "id": "08731309cde2",
-      "topic": "colorado hurd jeff rep",
+      "id": "24c7ad6cf9dc",
+      "topic": "ceasefire gaza progres trie",
       "keywords": [
-        "colorado",
-        "hurd",
-        "jeff",
-        "rep",
-        "republican",
-        "talk"
+        "ceasefire",
+        "gaza",
+        "progres",
+        "trie",
+        "vance",
+        "white"
       ],
       "item_ids": [
-        "c2a2d2c29910"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "2f78db9c02f5",
-      "topic": "common make political sense",
-      "keywords": [
-        "common",
-        "make",
-        "political",
-        "sense",
-        "trump",
-        "uses"
-      ],
-      "item_ids": [
-        "88ac24373d02"
+        "4c00e97a8d76"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11089,6 +11091,24 @@
       ]
     },
     {
+      "id": "7a182c7f2a4b",
+      "topic": "england ranked supplier thame",
+      "keywords": [
+        "england",
+        "ranked",
+        "supplier",
+        "thame",
+        "water",
+        "worst"
+      ],
+      "item_ids": [
+        "147e031dfa21"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "2a323ca8a235",
       "topic": "coalition environment jeopardy labor",
       "keywords": [
@@ -11125,21 +11145,93 @@
       ]
     },
     {
-      "id": "75f38f7bf59c",
-      "topic": "green keir key miss",
+      "id": "83d8cf9c4d59",
+      "topic": "constitutional ecuadorian gutting possibly",
       "keywords": [
-        "green",
-        "keir",
-        "key",
-        "miss",
-        "prepare",
-        "starmer"
+        "constitutional",
+        "ecuadorian",
+        "gutting",
+        "possibly",
+        "rewrite",
+        "vote"
       ],
       "item_ids": [
-        "1f7a6c81572d"
+        "6484cf9640b6"
       ],
       "outlets": [
-        "Environment | The Guardian"
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "177a65a89412",
+      "topic": "agricultural help pollution remedy",
+      "keywords": [
+        "agricultural",
+        "help",
+        "pollution",
+        "remedy",
+        "some",
+        "wetland"
+      ],
+      "item_ids": [
+        "25ac41ca12de"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "b804d3e6eb57",
+      "topic": "around designed family house",
+      "keywords": [
+        "around",
+        "designed",
+        "family",
+        "house",
+        "solar",
+        "texa"
+      ],
+      "item_ids": [
+        "03b38956700e"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "15d5e5e0a7db",
+      "topic": "backlash central face maine",
+      "keywords": [
+        "backlash",
+        "central",
+        "face",
+        "maine",
+        "power",
+        "proposed"
+      ],
+      "item_ids": [
+        "0229d6a52e50"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "70e114f0ff0c",
+      "topic": "catch invested million nutrient",
+      "keywords": [
+        "catch",
+        "invested",
+        "million",
+        "nutrient",
+        "ohio",
+        "wetland"
+      ],
+      "item_ids": [
+        "3896e76c81b4"
+      ],
+      "outlets": [
+        "Inside Climate News"
       ]
     },
     {
@@ -11226,96 +11318,6 @@
       ],
       "item_ids": [
         "6369acba0453"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "5d582926d5b0",
-      "topic": "city flood plan prone",
-      "keywords": [
-        "city",
-        "flood",
-        "plan",
-        "prone",
-        "unveil",
-        "york"
-      ],
-      "item_ids": [
-        "b269e13f5f23"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "966dd0e59189",
-      "topic": "alaska evacuating even hard",
-      "keywords": [
-        "alaska",
-        "evacuating",
-        "even",
-        "hard",
-        "rebuilding",
-        "remote"
-      ],
-      "item_ids": [
-        "ebb7d1010871"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "2beb213d0341",
-      "topic": "biggest climate emission methane",
-      "keywords": [
-        "biggest",
-        "climate",
-        "emission",
-        "methane",
-        "warming",
-        "world"
-      ],
-      "item_ids": [
-        "5a106fba937f"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "084894bd1dbf",
-      "topic": "conservation employee federal target",
-      "keywords": [
-        "conservation",
-        "employee",
-        "federal",
-        "target",
-        "trump",
-        "working"
-      ],
-      "item_ids": [
-        "34e3fc092a9d"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "fca3ce664e25",
-      "topic": "act before energy illinoi",
-      "keywords": [
-        "act",
-        "before",
-        "energy",
-        "illinoi",
-        "legislature",
-        "renewable"
-      ],
-      "item_ids": [
-        "039343248244"
       ],
       "outlets": [
         "Inside Climate News"
