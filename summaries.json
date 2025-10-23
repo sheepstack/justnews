@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T05:01:10Z",
+  "generated_at": "2025-10-23T05:19:10Z",
   "items": [
     {
       "id": "5bbb4d5775dc",
@@ -675,41 +675,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "1331cadedb59"
-    },
-    {
-      "id": "68294ee6ff8f",
-      "title": "Trump says U.S. cattle ranchers 'don't understand' tariffs after some slam Argentine beef plan",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/22/trump-ranchers-beef-tariffs-argentina.html",
-      "published_at": "Wed, 22 Oct 2025 20:36:34 GMT",
-      "bullets": [
-        "• President Donald Trump says U.S",
-        "• cattle ranchers \"don't understand\" how they have benefitted from his tariffs",
-        "• Some ranchers have openly criticized Trump's proposal to import beef from Argentina in order to bring down prices for American consumers",
-        "• Trump: \"The consumer is a very big factor in my thinking, also!\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump says U.S",
-          "• cattle ranchers \"don't understand\" how they have benefitted from his tariffs"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump says U.S",
-          "• cattle ranchers \"don't understand\" how they have benefitted from his tariffs"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump says U.S",
-          "• cattle ranchers \"don't understand\" how they have benefitted from his tariffs",
-          "• Some ranchers have openly criticized Trump's proposal to import beef from Argentina in order to bring down prices for American consumers"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a621256402da"
     },
     {
       "id": "e06af2ce22e5",
@@ -5646,6 +5611,40 @@
       "cluster_id": "ef748c5b0773"
     },
     {
+      "id": "28319375517b",
+      "title": "Reddit sues Perplexity for scraping of posts, expanding user data battle with AI industry",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/23/reddit-user-data-battle-ai-industry-sues-perplexity-scraping-posts-openai-chatgpt-google-gemini-lawsuit.html",
+      "published_at": "Thu, 23 Oct 2025 04:41:26 GMT",
+      "bullets": [
+        "• Reddit has launched a lawsuit against artificial intelligence company Perplexity",
+        "• The social media site says it illegally scraped user posts to train its AI model",
+        "• The lawsuit is the latest in a data-rights battle between content owners and AI firms",
+        "• Perplexy denies the allegations and accuses Reddit of \"extortion\" and opposition to an open internet "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Reddit has launched a lawsuit against artificial intelligence company Perplexity",
+          "• The social media site says it illegally scraped user posts to train its AI model"
+        ],
+        "hopeful_bullets": [
+          "• Reddit has launched a lawsuit against artificial intelligence company Perplexity"
+        ],
+        "stakes_bullets": [
+          "• Reddit has launched a lawsuit against artificial intelligence company Perplexity",
+          "• The social media site says it illegally scraped user posts to train its AI model",
+          "• The lawsuit is the latest in a data-rights battle between content owners and AI firms"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e1b3d1edc064"
+    },
+    {
       "id": "0914f44e41c3",
       "title": "Superman's Secret Connection to Iconic Space Telescope Revealed!",
       "outlet": "CBR",
@@ -9764,6 +9763,24 @@
       ]
     },
     {
+      "id": "e1b3d1edc064",
+      "topic": "expanding perplexity post reddit",
+      "keywords": [
+        "expanding",
+        "perplexity",
+        "post",
+        "reddit",
+        "scraping",
+        "sues"
+      ],
+      "item_ids": [
+        "28319375517b"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "0b790ee13fd1",
       "topic": "estimate ibm lift quarter",
       "keywords": [
@@ -9830,24 +9847,6 @@
       ],
       "item_ids": [
         "2582dc67b847"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "a621256402da",
-      "topic": "cattle don rancher tariff",
-      "keywords": [
-        "cattle",
-        "don",
-        "rancher",
-        "tariff",
-        "trump",
-        "understand"
-      ],
-      "item_ids": [
-        "68294ee6ff8f"
       ],
       "outlets": [
         "US Top News and Analysis"
