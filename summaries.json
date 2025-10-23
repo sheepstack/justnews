@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T05:19:10Z",
+  "generated_at": "2025-10-23T05:57:11Z",
   "items": [
     {
       "id": "5bbb4d5775dc",
@@ -4983,6 +4983,39 @@
       "cluster_id": "084894bd1dbf"
     },
     {
+      "id": "62afe9146451",
+      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
+      "published_at": "Tue, 21 Oct 2025 12:00:36 GMT",
+      "bullets": [
+        "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+        "• But funding for the program has been stalled as winter approaches",
+        "• Millions of Americans face having to rely on the money to pay their bills "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• But funding for the program has been stalled as winter approaches"
+        ],
+        "hopeful_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• But funding for the program has been stalled as winter approaches"
+        ],
+        "stakes_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• Millions of Americans face having to rely on the money to pay their bills "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "50ee20333dc8"
+    },
+    {
       "id": "1715b5cad651",
       "title": "Trump EPA seeks to weaken scrutiny for some of US’s most toxic chemicals",
       "outlet": "Environment | The Guardian",
@@ -5015,39 +5048,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "4fa56ccbfa2c"
-    },
-    {
-      "id": "62afe9146451",
-      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
-      "published_at": "Tue, 21 Oct 2025 12:00:36 GMT",
-      "bullets": [
-        "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-        "• But funding for the program has been stalled as winter approaches",
-        "• Millions of Americans face having to rely on the money to pay their bills "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
-        ],
-        "hopeful_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
-        ],
-        "stakes_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• Millions of Americans face having to rely on the money to pay their bills "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "50ee20333dc8"
     },
     {
       "id": "45805a63e86d",
@@ -5576,6 +5576,40 @@
       "cluster_id": "de631f7845cb"
     },
     {
+      "id": "28319375517b",
+      "title": "Reddit sues Perplexity for scraping of posts, expanding user data battle with AI industry",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/23/reddit-user-data-battle-ai-industry-sues-perplexity-scraping-posts-openai-chatgpt-google-gemini-lawsuit.html",
+      "published_at": "Thu, 23 Oct 2025 05:19:23 GMT",
+      "bullets": [
+        "• Reddit has launched a lawsuit against artificial intelligence company Perplexity",
+        "• The social media site says it illegally scraped user posts to train its AI model",
+        "• The lawsuit is the latest in a data-rights battle between content owners and AI firms",
+        "• Perplexy denies the allegations and accuses Reddit of \"extortion\" and opposition to an open internet "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Reddit has launched a lawsuit against artificial intelligence company Perplexity",
+          "• The social media site says it illegally scraped user posts to train its AI model"
+        ],
+        "hopeful_bullets": [
+          "• Reddit has launched a lawsuit against artificial intelligence company Perplexity"
+        ],
+        "stakes_bullets": [
+          "• Reddit has launched a lawsuit against artificial intelligence company Perplexity",
+          "• The social media site says it illegally scraped user posts to train its AI model",
+          "• The lawsuit is the latest in a data-rights battle between content owners and AI firms"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e1b3d1edc064"
+    },
+    {
       "id": "002415e554f2",
       "title": "Selena Gomez Brings Eighties Luxe and Love to ‘In the Dark’ Video",
       "outlet": "Music News",
@@ -5609,40 +5643,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "ef748c5b0773"
-    },
-    {
-      "id": "28319375517b",
-      "title": "Reddit sues Perplexity for scraping of posts, expanding user data battle with AI industry",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/23/reddit-user-data-battle-ai-industry-sues-perplexity-scraping-posts-openai-chatgpt-google-gemini-lawsuit.html",
-      "published_at": "Thu, 23 Oct 2025 04:41:26 GMT",
-      "bullets": [
-        "• Reddit has launched a lawsuit against artificial intelligence company Perplexity",
-        "• The social media site says it illegally scraped user posts to train its AI model",
-        "• The lawsuit is the latest in a data-rights battle between content owners and AI firms",
-        "• Perplexy denies the allegations and accuses Reddit of \"extortion\" and opposition to an open internet "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Reddit has launched a lawsuit against artificial intelligence company Perplexity",
-          "• The social media site says it illegally scraped user posts to train its AI model"
-        ],
-        "hopeful_bullets": [
-          "• Reddit has launched a lawsuit against artificial intelligence company Perplexity"
-        ],
-        "stakes_bullets": [
-          "• Reddit has launched a lawsuit against artificial intelligence company Perplexity",
-          "• The social media site says it illegally scraped user posts to train its AI model",
-          "• The lawsuit is the latest in a data-rights battle between content owners and AI firms"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e1b3d1edc064"
     },
     {
       "id": "0914f44e41c3",
@@ -11037,24 +11037,6 @@
       ]
     },
     {
-      "id": "4fa56ccbfa2c",
-      "topic": "epa scrutiny seek some",
-      "keywords": [
-        "epa",
-        "scrutiny",
-        "seek",
-        "some",
-        "trump",
-        "weaken"
-      ],
-      "item_ids": [
-        "1715b5cad651"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
       "id": "50ee20333dc8",
       "topic": "delay fear heat million",
       "keywords": [
@@ -11067,6 +11049,24 @@
       ],
       "item_ids": [
         "62afe9146451"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "4fa56ccbfa2c",
+      "topic": "epa scrutiny seek some",
+      "keywords": [
+        "epa",
+        "scrutiny",
+        "seek",
+        "some",
+        "trump",
+        "weaken"
+      ],
+      "item_ids": [
+        "1715b5cad651"
       ],
       "outlets": [
         "Environment | The Guardian"
