@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T17:56:54Z",
+  "generated_at": "2025-10-23T18:14:48Z",
   "items": [
     {
       "id": "88ec72be0cba",
@@ -1355,40 +1355,6 @@
       "cluster_id": "84f39a48ca31"
     },
     {
-      "id": "05b155a60536",
-      "title": "US ‘Night Stalkers’ seen in Caribbean as fears of regime change rise in Venezuela",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/22/us-night-stalkers-caribbean-fears-regime-change-venezuela-nicolas-maduro",
-      "published_at": "Wed, 22 Oct 2025 12:29:23 GMT",
-      "bullets": [
-        "• The 160th Special Operations Aviation Regiment (SOAR) was created in 1981",
-        "• It has taken part in some of the most dangerous missions in recent US military history",
-        "• The group’s Caribbean training assignment comes as Donald Trump ratchets up pressure on Venezuela "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.61
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The 160th Special Operations Aviation Regiment (SOAR) was created in 1981",
-          "• It has taken part in some of the most dangerous missions in recent US military history"
-        ],
-        "hopeful_bullets": [
-          "• The 160th Special Operations Aviation Regiment (SOAR) was created in 1981",
-          "• It has taken part in some of the most dangerous missions in recent US military history"
-        ],
-        "stakes_bullets": [
-          "• The 160th Special Operations Aviation Regiment (SOAR) was created in 1981",
-          "• It has taken part in some of the most dangerous missions in recent US military history",
-          "• The group’s Caribbean training assignment comes as Donald Trump ratchets up pressure on Venezuela "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "ba4d32da8e64"
-    },
-    {
       "id": "9fd8a3b669f7",
       "title": "Cuban man deported from US to Eswatini goes on hunger strike in prison",
       "outlet": "World news | The Guardian",
@@ -2464,6 +2430,39 @@
       "cluster_id": "fc9cd4871d21"
     },
     {
+      "id": "62afe9146451",
+      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
+      "published_at": "Tue, 21 Oct 2025 12:00:36 GMT",
+      "bullets": [
+        "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+        "• But funding for the program has been stalled as winter approaches",
+        "• Millions of Americans face having to rely on the money to pay their bills "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• But funding for the program has been stalled as winter approaches"
+        ],
+        "hopeful_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• But funding for the program has been stalled as winter approaches"
+        ],
+        "stakes_bullets": [
+          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
+          "• Millions of Americans face having to rely on the money to pay their bills "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "50ee20333dc8"
+    },
+    {
       "id": "1715b5cad651",
       "title": "Trump EPA seeks to weaken scrutiny for some of US’s most toxic chemicals",
       "outlet": "Environment | The Guardian",
@@ -2496,39 +2495,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "4fa56ccbfa2c"
-    },
-    {
-      "id": "62afe9146451",
-      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
-      "published_at": "Tue, 21 Oct 2025 12:00:36 GMT",
-      "bullets": [
-        "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-        "• But funding for the program has been stalled as winter approaches",
-        "• Millions of Americans face having to rely on the money to pay their bills "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
-        ],
-        "hopeful_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
-        ],
-        "stakes_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• Millions of Americans face having to rely on the money to pay their bills "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "50ee20333dc8"
     },
     {
       "id": "96b3c0e15480",
@@ -2795,36 +2761,304 @@
       "cluster_id": "de631f7845cb"
     },
     {
+      "id": "334732114f72",
+      "title": "Ryan Murphy's Monster Anthology Draws New Backlash From Oz Perkins",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/ryan-murphy-monster-the-ed-gein-story-backlash-oz-perkins/",
+      "published_at": "Thu, 23 Oct 2025 18:08:11 GMT",
+      "bullets": [
+        "• Osgood \"Oz\" Perkins is the son of the actor and star of Psycho",
+        "• The new season of Ryan Murphy's Monster anthology has received backlash",
+        "• His father has a prominent role in the series, considering Ed Gein inspired Alfred Hitchcock's Psycho "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Osgood \"Oz\" Perkins is the son of the actor and star of Psycho",
+          "• The new season of Ryan Murphy's Monster anthology has received backlash"
+        ],
+        "hopeful_bullets": [
+          "• Osgood \"Oz\" Perkins is the son of the actor and star of Psycho",
+          "• The new season of Ryan Murphy's Monster anthology has received backlash"
+        ],
+        "stakes_bullets": [
+          "• Osgood \"Oz\" Perkins is the son of the actor and star of Psycho",
+          "• The new season of Ryan Murphy's Monster anthology has received backlash",
+          "• His father has a prominent role in the series, considering Ed Gein inspired Alfred Hitchcock's Psycho "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "099ee86f9452"
+    },
+    {
+      "id": "3c9c5a15d614",
+      "title": "The Rainmaker Scores Season 2 Renewal",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-rainmaker-renewed-season-2/",
+      "published_at": "Thu, 23 Oct 2025 18:07:35 GMT",
+      "bullets": [
+        "• USA Network has renewed the legal drama for a second season",
+        "• The legal drama has been a big success on streaming since it was released",
+        "• The Rainmaker will return for season two on USA Network, says Versant's president of entertainment at Versant "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• USA Network has renewed the legal drama for a second season",
+          "• The legal drama has been a big success on streaming since it was released"
+        ],
+        "hopeful_bullets": [
+          "• USA Network has renewed the legal drama for a second season",
+          "• The legal drama has been a big success on streaming since it was released"
+        ],
+        "stakes_bullets": [
+          "• The Rainmaker will return for season two on USA Network, says Versant's president of entertainment at Versant "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "69b4ae8a18e9"
+    },
+    {
+      "id": "c99c01bbe983",
+      "title": "Chainsaw Man Slashes Onto Rotten Tomatoes With First Movie Score Reveal",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/chainsaw-man-reze-arc-rotten-tomatoes-score/",
+      "published_at": "Thu, 23 Oct 2025 18:05:32 GMT",
+      "bullets": [
+        "• Chainsaw Man - The Movie: Reze Arc has debuted with a 100% Fresh rating on Rotten Tomatoes based on 14 critic reviews",
+        "• It also boasts a 99% audience score, indicating widespread acclaim from viewers ahead of its official release in the U.S",
+        "• and Canada on Oct",
+        "• 24",
+        "• Early reviews have praised the film's action, animation and storytelling, with critics particularly highlighting its blend of delicate narrative with over-the-top action sequences "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Chainsaw Man - The Movie: Reze Arc has debuted with a 100% Fresh rating on Rotten Tomatoes based on 14 critic reviews",
+          "• It also boasts a 99% audience score, indicating widespread acclaim from viewers ahead of its official release in the U.S"
+        ],
+        "hopeful_bullets": [
+          "• Chainsaw Man - The Movie: Reze Arc has debuted with a 100% Fresh rating on Rotten Tomatoes based on 14 critic reviews",
+          "• It also boasts a 99% audience score, indicating widespread acclaim from viewers ahead of its official release in the U.S"
+        ],
+        "stakes_bullets": [
+          "• Chainsaw Man - The Movie: Reze Arc has debuted with a 100% Fresh rating on Rotten Tomatoes based on 14 critic reviews",
+          "• It also boasts a 99% audience score, indicating widespread acclaim from viewers ahead of its official release in the U.S",
+          "• and Canada on Oct"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "086b42ec72fb"
+    },
+    {
+      "id": "2befb18d2156",
+      "title": "The X-Men's Age of Revelation Puts a New Twist on This MCU Duo",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/xmen-age-revelation-cloak-dagger-mcu/",
+      "published_at": "Thu, 23 Oct 2025 18:00:12 GMT",
+      "bullets": [
+        "• The Age of Revelation continues to reshape the Marvel Universe",
+        "• Every current X-Men title has been replaced by a corresponding new title set in the future",
+        "• In the preview pages, the world continues to exist on the edge of the \"Revelation Zone,\" namely the area of the United States where Revelation has conquered "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Age of Revelation continues to reshape the Marvel Universe",
+          "• Every current X-Men title has been replaced by a corresponding new title set in the future"
+        ],
+        "hopeful_bullets": [
+          "• The Age of Revelation continues to reshape the Marvel Universe",
+          "• Every current X-Men title has been replaced by a corresponding new title set in the future"
+        ],
+        "stakes_bullets": [
+          "• The Age of Revelation continues to reshape the Marvel Universe",
+          "• Every current X-Men title has been replaced by a corresponding new title set in the future",
+          "• In the preview pages, the world continues to exist on the edge of the \"Revelation Zone,\" namely the area of the United States where Revelation has conquered "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d1889ddc0ab8"
+    },
+    {
+      "id": "bf54ab4abf02",
+      "title": "This Arrowverse Star Needs a Role in James Gunn's DCU",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/arrowverse-melissa-benoist-supergirl-needs-new-dcu-role/",
+      "published_at": "Thu, 23 Oct 2025 18:00:12 GMT",
+      "bullets": [
+        "• Melissa Benoist would be the best Arrowverse addition to the DCU, hyping up the fandom",
+        "• The Arrowverse is one of the biggest superhero phenomena",
+        "• The actors who carry these TV shows have grown to become the official faces of these characters "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Melissa Benoist would be the best Arrowverse addition to the DCU, hyping up the fandom",
+          "• The Arrowverse is one of the biggest superhero phenomena"
+        ],
+        "hopeful_bullets": [
+          "• Melissa Benoist would be the best Arrowverse addition to the DCU, hyping up the fandom",
+          "• The Arrowverse is one of the biggest superhero phenomena"
+        ],
+        "stakes_bullets": [
+          "• Melissa Benoist would be the best Arrowverse addition to the DCU, hyping up the fandom",
+          "• The Arrowverse is one of the biggest superhero phenomena",
+          "• The actors who carry these TV shows have grown to become the official faces of these characters "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "c97f55009dce"
+    },
+    {
+      "id": "5c84d26491c5",
+      "title": "10 Longmire Scenes From the Show That Made Book Readers Furious",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/worst-longmire-changes-from-books/",
+      "published_at": "Thu, 23 Oct 2025 18:00:12 GMT",
+      "bullets": [
+        "• Longmire is based on the book series by Craig Johnson",
+        "• Despite its successful run of 7 seasons and blank episodes, many fans of the show have complained about the changes",
+        "• Even after the show was saved by Netflix after its initial cancellation with FX, the complaints just kept on coming "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Longmire is based on the book series by Craig Johnson",
+          "• Despite its successful run of 7 seasons and blank episodes, many fans of the show have complained about the changes"
+        ],
+        "hopeful_bullets": [
+          "• Even after the show was saved by Netflix after its initial cancellation with FX, the complaints just kept on coming "
+        ],
+        "stakes_bullets": [
+          "• Longmire is based on the book series by Craig Johnson",
+          "• Despite its successful run of 7 seasons and blank episodes, many fans of the show have complained about the changes",
+          "• Even after the show was saved by Netflix after its initial cancellation with FX, the complaints just kept on coming "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "70851b7bb31f"
+    },
+    {
+      "id": "2764662c06d6",
+      "title": "Netflix's Nobody Wants This Rotten Tomatoes Score Unveiled",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/netflix-nobody-wants-this-season-2-rotten-tomatoes-score/",
+      "published_at": "Thu, 23 Oct 2025 17:53:39 GMT",
+      "bullets": [
+        "• Nobody Wants This just returned with Season 2",
+        "• It features an extremely positive score: 89% from the critics on Rotten Tomatoes",
+        "• Season 2's score comes from only 19 reviews, and there's no audience rating available at the time of writing "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nobody Wants This just returned with Season 2",
+          "• It features an extremely positive score: 89% from the critics on Rotten Tomatoes"
+        ],
+        "hopeful_bullets": [
+          "• Nobody Wants This just returned with Season 2",
+          "• It features an extremely positive score: 89% from the critics on Rotten Tomatoes"
+        ],
+        "stakes_bullets": [
+          "• Nobody Wants This just returned with Season 2",
+          "• It features an extremely positive score: 89% from the critics on Rotten Tomatoes",
+          "• Season 2's score comes from only 19 reviews, and there's no audience rating available at the time of writing "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3c5c53cafc39"
+    },
+    {
+      "id": "b4a4097a2e10",
+      "title": "‘Prevenge’ Director to Give Shakespeare’s ‘A Midsummer Night’s Dream’ A Horror Twist",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3910788/prevenge-director-to-give-shakespeares-a-midsummer-nights-dream-a-horror-twist/?utm_source=rss&utm_medium=rss&utm_campaign=prevenge-director-to-give-shakespeares-a-midsummer-nights-dream-a-horror-twist",
+      "published_at": "Thu, 23 Oct 2025 17:50:28 +0000",
+      "bullets": [
+        "• Alice Lowe has lined up two genre projects, including a horror version of the William Shakespeare classic A Midsummer Night’s Dream",
+        "• Lowe will write, direct, and play a key role in both projects",
+        "• The filmmaker aims to lean into the strangeness of it all "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Alice Lowe has lined up two genre projects, including a horror version of the William Shakespeare classic A Midsummer Night’s Dream",
+          "• Lowe will write, direct, and play a key role in both projects"
+        ],
+        "hopeful_bullets": [
+          "• Alice Lowe has lined up two genre projects, including a horror version of the William Shakespeare classic A Midsummer Night’s Dream",
+          "• Lowe will write, direct, and play a key role in both projects"
+        ],
+        "stakes_bullets": [
+          "• Alice Lowe has lined up two genre projects, including a horror version of the William Shakespeare classic A Midsummer Night’s Dream",
+          "• Lowe will write, direct, and play a key role in both projects"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6c4362c77ca6"
+    },
+    {
       "id": "a7d9ad5779f4",
       "title": "‘Ebenezer: A Christmas Carol’ – Ti West Directing Dickens Tale With Johnny Depp as Scrooge",
       "outlet": "Bloody Disgusting!",
       "url": "https://bloody-disgusting.com/movie/3910783/ebenezer-a-christmas-carol-ti-west-directing-dickens-tale-with-johnny-depp-as-scrooge/?utm_source=rss&utm_medium=rss&utm_campaign=ebenezer-a-christmas-carol-ti-west-directing-dickens-tale-with-johnny-depp-as-scrooge",
       "published_at": "Thu, 23 Oct 2025 17:40:51 +0000",
       "bullets": [
-        "• A Christmas Carol is being adapted for the first time",
-        "• The film will be released on December 26, 2015",
-        "• It will be the first adaptation of the classic classic",
-        "• The story is set to be released in December 2015",
-        "• The movie will be based on the story of the Christmas Carols "
+        "• A Christmas Carol is set to be released on November 13, 2015",
+        "• It is the first adaptation of the classic novel by Charles Dickens",
+        "• The story is set in London, England, and will be directed by Martin Luther King Jr",
+        "• It will be the first of many adaptations of the book "
       ],
       "category": "Horror",
       "sentiment": {
         "label": "positive",
-        "score": 0.996
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• A Christmas Carol is being adapted for the first time",
-          "• The film will be released on December 26, 2015"
+          "• A Christmas Carol is set to be released on November 13, 2015",
+          "• It is the first adaptation of the classic novel by Charles Dickens"
         ],
         "hopeful_bullets": [
-          "• A Christmas Carol is being adapted for the first time",
-          "• The film will be released on December 26, 2015"
+          "• A Christmas Carol is set to be released on November 13, 2015",
+          "• It is the first adaptation of the classic novel by Charles Dickens"
         ],
         "stakes_bullets": [
-          "• The film will be released on December 26, 2015",
-          "• It will be the first adaptation of the classic classic",
-          "• The movie will be based on the story of the Christmas Carols "
+          "• The story is set in London, England, and will be directed by Martin Luther King Jr",
+          "• It will be the first of many adaptations of the book "
         ]
       },
       "read_minutes": 1,
@@ -2863,6 +3097,39 @@
       },
       "read_minutes": 2,
       "cluster_id": "fb98bb9d2b06"
+    },
+    {
+      "id": "3ac4fb83bddc",
+      "title": "Senate fails to pass bill to keep essential federal workers and troops paid throughout government shutdown – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/23/trump-san-francisco-federal-agents-white-house-ice-immigration-latest-news-updates",
+      "published_at": "Thu, 23 Oct 2025 17:39:02 GMT",
+      "bullets": [
+        "• Senate fails to pass bill to keep essential federal workers and troops paid throughout government shutdown",
+        "• With a 54-45 vote, the upper chamber didn’t meet the 60-vote threshold needed to advance the Shutdown Fairness Act",
+        "• Three Democratic senators, John Fetterman of Pennsylvania, and Georgia senators Raphael Warnock and Jon Ossoff, broke ranks with their party and voted in favor of the bill "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Senate fails to pass bill to keep essential federal workers and troops paid throughout government shutdown",
+          "• With a 54-45 vote, the upper chamber didn’t meet the 60-vote threshold needed to advance the Shutdown Fairness Act"
+        ],
+        "hopeful_bullets": [
+          "• Senate fails to pass bill to keep essential federal workers and troops paid throughout government shutdown",
+          "• With a 54-45 vote, the upper chamber didn’t meet the 60-vote threshold needed to advance the Shutdown Fairness Act"
+        ],
+        "stakes_bullets": [
+          "• Senate fails to pass bill to keep essential federal workers and troops paid throughout government shutdown",
+          "• Three Democratic senators, John Fetterman of Pennsylvania, and Georgia senators Raphael Warnock and Jon Ossoff, broke ranks with their party and voted in favor of the bill "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "40339c83e429"
     },
     {
       "id": "4ddfd5f4855c",
@@ -2927,6 +3194,71 @@
       },
       "read_minutes": 1,
       "cluster_id": "886546386607"
+    },
+    {
+      "id": "70ce84322047",
+      "title": "Trump pardons founder of Binance, world’s largest crypto exchange",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/technology/2025/oct/23/binance-trump-pardon-changpeng-zhao",
+      "published_at": "Thu, 23 Oct 2025 17:32:46 GMT",
+      "bullets": [
+        "• Donald Trump has been granted a four-year pardon for his role in the creation of the world's largest cryptocurrency network",
+        "• The pardon comes after he pleaded guilty to a charge of failing to pay for his part in a scam that was worth $4.3 billion "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump has been granted a four-year pardon for his role in the creation of the world's largest cryptocurrency network",
+          "• The pardon comes after he pleaded guilty to a charge of failing to pay for his part in a scam that was worth $4.3 billion "
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump has been granted a four-year pardon for his role in the creation of the world's largest cryptocurrency network",
+          "• The pardon comes after he pleaded guilty to a charge of failing to pay for his part in a scam that was worth $4.3 billion "
+        ],
+        "stakes_bullets": [
+          "• The pardon comes after he pleaded guilty to a charge of failing to pay for his part in a scam that was worth $4.3 billion "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ab0d62a95212"
+    },
+    {
+      "id": "f4994d21ac53",
+      "title": "Colombia urges US to halt strikes on alleged drug-smuggling boats: ‘It is murder’:",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/23/colombia-us-boat-strikes",
+      "published_at": "Thu, 23 Oct 2025 17:30:09 GMT",
+      "bullets": [
+        "• Colombia condemns US airstrikes on vessels allegedly involved in drug-smuggling",
+        "• At least nine attacks have now been carried out since early September, killing 37 people",
+        "• The attacks have been accompanied by a major US military buildup in the Caribbean, involving guided missile destroyers, F-35 fighter jets "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Colombia condemns US airstrikes on vessels allegedly involved in drug-smuggling",
+          "• At least nine attacks have now been carried out since early September, killing 37 people"
+        ],
+        "hopeful_bullets": [
+          "• Colombia condemns US airstrikes on vessels allegedly involved in drug-smuggling",
+          "• At least nine attacks have now been carried out since early September, killing 37 people"
+        ],
+        "stakes_bullets": [
+          "• Colombia condemns US airstrikes on vessels allegedly involved in drug-smuggling",
+          "• At least nine attacks have now been carried out since early September, killing 37 people",
+          "• The attacks have been accompanied by a major US military buildup in the Caribbean, involving guided missile destroyers, F-35 fighter jets "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "fb1121985cec"
     },
     {
       "id": "6cd8b234c849",
@@ -3054,37 +3386,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "d1b3c9054df5"
-    },
-    {
-      "id": "3ac4fb83bddc",
-      "title": "Trump calls off federal troop deployment to San Francisco for now – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/23/trump-san-francisco-federal-agents-white-house-ice-immigration-latest-news-updates",
-      "published_at": "Thu, 23 Oct 2025 17:22:03 GMT",
-      "bullets": [
-        "• Trump confirms he is holding off immigration enforcement surge in San Francisco",
-        "• The president said he was prepared to launch the effort but 'friends who live in the area' called him and asked him not to go forward with that plans",
-        "• The people of San Francisco have come together on fighting Crime, especially since we began to take charge of that very nasty subject "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.87
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump confirms he is holding off immigration enforcement surge in San Francisco",
-          "• The president said he was prepared to launch the effort but 'friends who live in the area' called him and asked him not to go forward with that plans"
-        ],
-        "hopeful_bullets": [
-          "• Trump confirms he is holding off immigration enforcement surge in San Francisco"
-        ],
-        "stakes_bullets": [
-          "• The president said he was prepared to launch the effort but 'friends who live in the area' called him and asked him not to go forward with that plans"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "edc940d896c6"
     },
     {
       "id": "4567734a3fb8",
@@ -3256,26 +3557,26 @@
       "url": "https://www.cbr.com/johnny-depp-a-christmas-carol-ti-west-paramount/",
       "published_at": "Thu, 23 Oct 2025 17:07:21 GMT",
       "bullets": [
-        "• Ti West, who is best known for his slasher trilogy X starring Mia Goth, will helm the movie for Paramount Pictures",
-        "• Nathaniel Halpern wrote the script for the movie",
-        "• A Christmas Carol hails from the mind of Charles Dickens and follows Ebenezer Scrooge "
+        "• Paramount is in final negotiations to acquire the movie, titled Ebenezer: A Christmas Carol, which will be directed by Ti West",
+        "• Nathaniel Halpern, best known for his work on Legion and creating and writing Tales from the Loop, wrote the script for the movie",
+        "• Andrea Riseborough has also signed on to star "
       ],
       "category": "Comics",
       "sentiment": {
         "label": "positive",
-        "score": 0.998
+        "score": 0.979
       },
       "moods": {
         "brief_bullets": [
-          "• Ti West, who is best known for his slasher trilogy X starring Mia Goth, will helm the movie for Paramount Pictures",
-          "• Nathaniel Halpern wrote the script for the movie"
+          "• Paramount is in final negotiations to acquire the movie, titled Ebenezer: A Christmas Carol, which will be directed by Ti West",
+          "• Nathaniel Halpern, best known for his work on Legion and creating and writing Tales from the Loop, wrote the script for the movie"
         ],
         "hopeful_bullets": [
-          "• Ti West, who is best known for his slasher trilogy X starring Mia Goth, will helm the movie for Paramount Pictures",
-          "• Nathaniel Halpern wrote the script for the movie"
+          "• Paramount is in final negotiations to acquire the movie, titled Ebenezer: A Christmas Carol, which will be directed by Ti West",
+          "• Nathaniel Halpern, best known for his work on Legion and creating and writing Tales from the Loop, wrote the script for the movie"
         ],
         "stakes_bullets": [
-          "• Ti West, who is best known for his slasher trilogy X starring Mia Goth, will helm the movie for Paramount Pictures"
+          "• Paramount is in final negotiations to acquire the movie, titled Ebenezer: A Christmas Carol, which will be directed by Ti West"
         ]
       },
       "read_minutes": 1,
@@ -3380,142 +3681,6 @@
       "cluster_id": "382223232fc2"
     },
     {
-      "id": "547f20dbec00",
-      "title": "Tom Felton's New Sci-Fi Film Altered Unveils Exciting Trailer & Poster",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/tom-felton-altered-trailer-poster/",
-      "published_at": "Thu, 23 Oct 2025 17:00:12 GMT",
-      "bullets": [
-        "• Tom Felton will return as Draco Malfoy in the Harry Potter and the Cursed Child stage play",
-        "• The actor will also star in the sci-fi film Altered",
-        "• The film follows a post-apocalyptic, dystopian world with genetic enhancements",
-        "• Felton plays a normal guy without any upgrades "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tom Felton will return as Draco Malfoy in the Harry Potter and the Cursed Child stage play",
-          "• The actor will also star in the sci-fi film Altered"
-        ],
-        "hopeful_bullets": [
-          "• Tom Felton will return as Draco Malfoy in the Harry Potter and the Cursed Child stage play",
-          "• The actor will also star in the sci-fi film Altered"
-        ],
-        "stakes_bullets": [
-          "• Tom Felton will return as Draco Malfoy in the Harry Potter and the Cursed Child stage play",
-          "• The actor will also star in the sci-fi film Altered"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "8646a36e7492"
-    },
-    {
-      "id": "51d1710c5c38",
-      "title": "A Missing Character Finally Returns In The Shocking TMNT #12",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/tmnt-12-splinter-returns/",
-      "published_at": "Thu, 23 Oct 2025 17:00:12 GMT",
-      "bullets": [
-        "• Teenage Mutant Ninja Turtles #12 is out on sale now from IDW Publishing",
-        "• The heroes are finally able to come to terms with Splinter's passing and the fact that they cannot bring him back",
-        "• In his past life, the mutant rat known as Splinter was once Hamato Yoshi "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.579
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Teenage Mutant Ninja Turtles #12 is out on sale now from IDW Publishing",
-          "• The heroes are finally able to come to terms with Splinter's passing and the fact that they cannot bring him back"
-        ],
-        "hopeful_bullets": [
-          "• Teenage Mutant Ninja Turtles #12 is out on sale now from IDW Publishing",
-          "• The heroes are finally able to come to terms with Splinter's passing and the fact that they cannot bring him back"
-        ],
-        "stakes_bullets": [
-          "• Teenage Mutant Ninja Turtles #12 is out on sale now from IDW Publishing",
-          "• The heroes are finally able to come to terms with Splinter's passing and the fact that they cannot bring him back",
-          "• In his past life, the mutant rat known as Splinter was once Hamato Yoshi "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "0f4f4b36a0ed"
-    },
-    {
-      "id": "10846f15d1e6",
-      "title": "5 Years After Fast & Furious Debut, Paul Walker Starred in a Mafia Drama Set to Stream for Free",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/paul-walker-running-scared-tubi-november-2025/",
-      "published_at": "Thu, 23 Oct 2025 17:00:12 GMT",
-      "bullets": [
-        "• Free ad-supported streaming service Tubi has released its list of movies coming to the service in November 2025",
-        "• One of those movies is 2006's Running Scared starring Paul Walker",
-        "• The streamer is offering classics like The Godfather, Casino, Space Jam and more "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.888
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Free ad-supported streaming service Tubi has released its list of movies coming to the service in November 2025",
-          "• One of those movies is 2006's Running Scared starring Paul Walker"
-        ],
-        "hopeful_bullets": [
-          "• Free ad-supported streaming service Tubi has released its list of movies coming to the service in November 2025",
-          "• One of those movies is 2006's Running Scared starring Paul Walker"
-        ],
-        "stakes_bullets": [
-          "• Free ad-supported streaming service Tubi has released its list of movies coming to the service in November 2025",
-          "• One of those movies is 2006's Running Scared starring Paul Walker",
-          "• The streamer is offering classics like The Godfather, Casino, Space Jam and more "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "5a8334ef9c9d"
-    },
-    {
-      "id": "84702f1fe4d0",
-      "title": "This Banned Star Trek TNG Episode Remains 1 of the Best in the Series",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/star-trek-tng-banned-episode-conspiracy/",
-      "published_at": "Thu, 23 Oct 2025 17:00:12 GMT",
-      "bullets": [
-        "• Star Trek: The Next Generation debuted in 1987 and was met with lukewarm reviews",
-        "• The episode \"Conspiracy\" was censored in certain countries for its body horror violence",
-        "• Over the course of seven seasons, the show delivered some of the best episodes of the era "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Star Trek: The Next Generation debuted in 1987 and was met with lukewarm reviews",
-          "• The episode \"Conspiracy\" was censored in certain countries for its body horror violence"
-        ],
-        "hopeful_bullets": [
-          "• Star Trek: The Next Generation debuted in 1987 and was met with lukewarm reviews",
-          "• The episode \"Conspiracy\" was censored in certain countries for its body horror violence"
-        ],
-        "stakes_bullets": [
-          "• Star Trek: The Next Generation debuted in 1987 and was met with lukewarm reviews",
-          "• The episode \"Conspiracy\" was censored in certain countries for its body horror violence",
-          "• Over the course of seven seasons, the show delivered some of the best episodes of the era "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "a5d3ca9d0869"
-    },
-    {
       "id": "87c92b16bff6",
       "title": "Ghana's former First Lady Nana Konadu Rawlings dies aged 76",
       "outlet": "BBC News",
@@ -3580,72 +3745,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "d98f257a6319"
-    },
-    {
-      "id": "ed6c9404b995",
-      "title": "Alabama to execute seventh man using controversial nitrogen gas method",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/23/alabama-execution-nitrogen-gas-anthony-boyd",
-      "published_at": "Thu, 23 Oct 2025 16:51:28 GMT",
-      "bullets": [
-        "• Anthony Boyd, 54, will be strapped to a gurney and forced to breathe nitrogen through an industrial mask",
-        "• It will be the eighth time that the gas has been used to kill a man after its initial experimentation by Alabama in January 2024",
-        "• Louisiana became the second state to deploy nitrogen as a killing method with the execution of Jessie Hoffman Jr"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Anthony Boyd, 54, will be strapped to a gurney and forced to breathe nitrogen through an industrial mask",
-          "• It will be the eighth time that the gas has been used to kill a man after its initial experimentation by Alabama in January 2024"
-        ],
-        "hopeful_bullets": [
-          "• Anthony Boyd, 54, will be strapped to a gurney and forced to breathe nitrogen through an industrial mask",
-          "• It will be the eighth time that the gas has been used to kill a man after its initial experimentation by Alabama in January 2024"
-        ],
-        "stakes_bullets": [
-          "• Anthony Boyd, 54, will be strapped to a gurney and forced to breathe nitrogen through an industrial mask",
-          "• It will be the eighth time that the gas has been used to kill a man after its initial experimentation by Alabama in January 2024",
-          "• Louisiana became the second state to deploy nitrogen as a killing method with the execution of Jessie Hoffman Jr"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f7b8478e4d35"
-    },
-    {
-      "id": "670ed4ccfbec",
-      "title": "Transformers Fans Get New Update on G1 Dinobot in High-Flying Prototype Reveal",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/transformers-swoop-cang-toys-color-prototype/",
-      "published_at": "Thu, 23 Oct 2025 16:47:29 GMT",
-      "bullets": [
-        "• TA-Hylo Pterhowl is a third-party version of the classic Dinobot Swoop",
-        "• This incarnation is meant to be in scale with Transformers Generations toys as opposed to toys in the Transformers: Masterpiece line "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.902
-      },
-      "moods": {
-        "brief_bullets": [
-          "• TA-Hylo Pterhowl is a third-party version of the classic Dinobot Swoop",
-          "• This incarnation is meant to be in scale with Transformers Generations toys as opposed to toys in the Transformers: Masterpiece line "
-        ],
-        "hopeful_bullets": [
-          "• TA-Hylo Pterhowl is a third-party version of the classic Dinobot Swoop",
-          "• This incarnation is meant to be in scale with Transformers Generations toys as opposed to toys in the Transformers: Masterpiece line "
-        ],
-        "stakes_bullets": [
-          "• TA-Hylo Pterhowl is a third-party version of the classic Dinobot Swoop",
-          "• This incarnation is meant to be in scale with Transformers Generations toys as opposed to toys in the Transformers: Masterpiece line "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4b81fb308963"
     },
     {
       "id": "5b532447dad3",
@@ -3819,39 +3918,6 @@
       "cluster_id": "2a9e475f2849"
     },
     {
-      "id": "70ce84322047",
-      "title": "Trump pardons founder of Binance, world’s largest crypto exchange",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/technology/2025/oct/23/binance-trump-pardon-changpeng-zhao",
-      "published_at": "Thu, 23 Oct 2025 16:29:26 GMT",
-      "bullets": [
-        "• Donald Trump issues pardon for Binance CEO Zhao",
-        "• Zhao pleaded guilty to one count of failing to maintain an anti-money laundering program",
-        "• He was sentenced to four months in prison",
-        "• The pardon is yet another sign of a shift in the way the president is looking at the crypto industry "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.952
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump issues pardon for Binance CEO Zhao",
-          "• Zhao pleaded guilty to one count of failing to maintain an anti-money laundering program"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump issues pardon for Binance CEO Zhao",
-          "• Zhao pleaded guilty to one count of failing to maintain an anti-money laundering program"
-        ],
-        "stakes_bullets": [
-          "• Zhao pleaded guilty to one count of failing to maintain an anti-money laundering program"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ab0d62a95212"
-    },
-    {
       "id": "b8db13da1c92",
       "title": "Eric Adams to endorse Andrew Cuomo in New York City mayoral race",
       "outlet": "US news | The Guardian",
@@ -3882,34 +3948,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "79abaf8ee06b"
-    },
-    {
-      "id": "f434dac1e5df",
-      "title": "It: Welcome to Derry Will Officially Explore the Most Powerful Piece of Pennywise Lore",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/it-welcome-to-derry-will-officially-explore-pennywise-lore/",
-      "published_at": "Thu, 23 Oct 2025 16:25:12 GMT",
-      "bullets": [
-        "• Stephen King's 1986 novel It was adapted into a made-for-TV miniseries in 1990 and then again in a two-part movie series, It (2017) and It: Chapter Two (2019) Bill Skarsgard, also returning to the franchise as an executive producer, will reprise his role as Pennywise the Dancing Clown "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Stephen King's 1986 novel It was adapted into a made-for-TV miniseries in 1990 and then again in a two-part movie series, It (2017) and It: Chapter Two (2019) Bill Skarsgard, also returning to the franchise as an executive producer, will reprise his role as Pennywise the Dancing Clown "
-        ],
-        "hopeful_bullets": [
-          "• Stephen King's 1986 novel It was adapted into a made-for-TV miniseries in 1990 and then again in a two-part movie series, It (2017) and It: Chapter Two (2019) Bill Skarsgard, also returning to the franchise as an executive producer, will reprise his role as Pennywise the Dancing Clown "
-        ],
-        "stakes_bullets": [
-          "• Stephen King's 1986 novel It was adapted into a made-for-TV miniseries in 1990 and then again in a two-part movie series, It (2017) and It: Chapter Two (2019) Bill Skarsgard, also returning to the franchise as an executive producer, will reprise his role as Pennywise the Dancing Clown "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "0914dea01f84"
     },
     {
       "id": "59d8f9be0b68",
@@ -3988,26 +4026,26 @@
       "url": "https://www.bbc.com/news/articles/c993nlken18o?at_medium=RSS&at_campaign=rss",
       "published_at": "Thu, 23 Oct 2025 16:09:04 GMT",
       "bullets": [
-        "• Soldier F found not guilty of murdering James Wray, 22, and William McKinney, 26",
-        "• 13 people were shot dead and at least 15 others injured on Bloody Sunday in 1972",
-        "• The judge said the evidence against Soldier F had fallen short of what is required for conviction "
+        "• Soldier F found not guilty of murder and attempted murder in Londonderry on Bloody Sunday",
+        "• 13 people were shot dead and at least 15 others injured on 30 January 1972",
+        "• Soldier F faced charges of murdering James Wray, 22, and William McKinney, 26, as well as five charges of attempted murder "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.97
       },
       "moods": {
         "brief_bullets": [
-          "• Soldier F found not guilty of murdering James Wray, 22, and William McKinney, 26",
-          "• 13 people were shot dead and at least 15 others injured on Bloody Sunday in 1972"
+          "• Soldier F found not guilty of murder and attempted murder in Londonderry on Bloody Sunday",
+          "• 13 people were shot dead and at least 15 others injured on 30 January 1972"
         ],
         "hopeful_bullets": [
-          "• The judge said the evidence against Soldier F had fallen short of what is required for conviction "
+          "• Soldier F found not guilty of murder and attempted murder in Londonderry on Bloody Sunday",
+          "• 13 people were shot dead and at least 15 others injured on 30 January 1972"
         ],
         "stakes_bullets": [
-          "• Soldier F found not guilty of murdering James Wray, 22, and William McKinney, 26",
-          "• The judge said the evidence against Soldier F had fallen short of what is required for conviction "
+          "• Soldier F faced charges of murdering James Wray, 22, and William McKinney, 26, as well as five charges of attempted murder "
         ]
       },
       "read_minutes": 4,
@@ -4020,27 +4058,28 @@
       "url": "https://www.bbc.com/news/articles/cn8v0zyx9zyo?at_medium=RSS&at_campaign=rss",
       "published_at": "Thu, 23 Oct 2025 16:06:24 GMT",
       "bullets": [
-        "• Ukraine urges EU to back a plan to release billions of euros in frozen Russian cash",
-        "• Move would be on top of sanctions imposed on Russia by US President Donald Trump",
-        "• EU ministers met in Brussels on Thursday to discuss the plan",
-        "• US sanctions against Russia's oil giants Rosneft and Lukoil are the latest to hit "
+        "• Ukraine urges EU to back loan using frozen Russian assets held in Belgian clearing house",
+        "• Volodymyr Zelensky wants to use €140bn (£122bn) in Russian assets to fund country's defence",
+        "• Move would be on top of sanctions imposed on Russia - the latest on Thursday targeting the Kremlin's oil revenues "
       ],
       "category": "World",
       "sentiment": {
-        "label": "positive",
-        "score": 0.701
+        "label": "negative",
+        "score": 0.986
       },
       "moods": {
         "brief_bullets": [
-          "• Ukraine urges EU to back a plan to release billions of euros in frozen Russian cash",
-          "• Move would be on top of sanctions imposed on Russia by US President Donald Trump"
+          "• Ukraine urges EU to back loan using frozen Russian assets held in Belgian clearing house",
+          "• Volodymyr Zelensky wants to use €140bn (£122bn) in Russian assets to fund country's defence"
         ],
         "hopeful_bullets": [
-          "• US sanctions against Russia's oil giants Rosneft and Lukoil are the latest to hit "
+          "• Ukraine urges EU to back loan using frozen Russian assets held in Belgian clearing house",
+          "• Volodymyr Zelensky wants to use €140bn (£122bn) in Russian assets to fund country's defence"
         ],
         "stakes_bullets": [
-          "• Ukraine urges EU to back a plan to release billions of euros in frozen Russian cash",
-          "• EU ministers met in Brussels on Thursday to discuss the plan"
+          "• Ukraine urges EU to back loan using frozen Russian assets held in Belgian clearing house",
+          "• Volodymyr Zelensky wants to use €140bn (£122bn) in Russian assets to fund country's defence",
+          "• Move would be on top of sanctions imposed on Russia - the latest on Thursday targeting the Kremlin's oil revenues "
         ]
       },
       "read_minutes": 2,
@@ -4114,40 +4153,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "49c96da70de6"
-    },
-    {
-      "id": "25296b63a7ca",
-      "title": "‘Re-Animator’ Screen Print by Phantom City Creative On Sale Now at Mutant",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/the-further/3910674/re-animator-screen-print-by-phantom-city-creative-on-sale-now-at-mutant/?utm_source=rss&utm_medium=rss&utm_campaign=re-animator-screen-print-by-phantom-city-creative-on-sale-now-at-mutant",
-      "published_at": "Thu, 23 Oct 2025 16:01:00 +0000",
-      "bullets": [
-        "• Mutant is celebrating the 40th anniversary of Re-Animator with poster by Phantom City Creative",
-        "• The 18×24, 6-color screen print is limited to 85 for $45",
-        "• Based on H.P",
-        "• Lovecraft’s 1922 short story Herbert West–Reanimator, Stuart Gordon direts from a script he co-wrote with Dennis Paoli and William J",
-        "• Norris "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mutant is celebrating the 40th anniversary of Re-Animator with poster by Phantom City Creative",
-          "• The 18×24, 6-color screen print is limited to 85 for $45"
-        ],
-        "hopeful_bullets": [
-          "• Mutant is celebrating the 40th anniversary of Re-Animator with poster by Phantom City Creative",
-          "• The 18×24, 6-color screen print is limited to 85 for $45"
-        ],
-        "stakes_bullets": [
-          "• Lovecraft’s 1922 short story Herbert West–Reanimator, Stuart Gordon direts from a script he co-wrote with Dennis Paoli and William J"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7b5cf790fcb7"
     },
     {
       "id": "6c6e75713e0b",
@@ -4715,28 +4720,29 @@
       "url": "https://feeds.texastribune.org/link/16799/17192039/texas-education-agency-fort-worth-isd-takeover",
       "published_at": "Thu, 23 Oct 2025 14:47:55 +0000",
       "bullets": [
-        "• The Texas Education Agency will remove the Fort Worth Independent School District’s elected board members and may appoint a new superintendent to oversee its operations",
-        "• The decision to assume control of the North Texas district is the second-largest takeover in Texas history "
+        "• The Texas Education Agency will boot the board of the Fort Worth Independent School District",
+        "• It's the second-largest takeover in Texas history, commissioner Mike Morath announced Thursday morning",
+        "• Morath said through “action and inaction,” the district has “failed the students of Fort Worth ISD "
       ],
       "category": "Texas",
       "sentiment": {
         "label": "negative",
-        "score": 0.981
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• The Texas Education Agency will remove the Fort Worth Independent School District’s elected board members and may appoint a new superintendent to oversee its operations",
-          "• The decision to assume control of the North Texas district is the second-largest takeover in Texas history "
+          "• The Texas Education Agency will boot the board of the Fort Worth Independent School District",
+          "• It's the second-largest takeover in Texas history, commissioner Mike Morath announced Thursday morning"
         ],
         "hopeful_bullets": [
-          "• The Texas Education Agency will remove the Fort Worth Independent School District’s elected board members and may appoint a new superintendent to oversee its operations",
-          "• The decision to assume control of the North Texas district is the second-largest takeover in Texas history "
+          "• The Texas Education Agency will boot the board of the Fort Worth Independent School District",
+          "• It's the second-largest takeover in Texas history, commissioner Mike Morath announced Thursday morning"
         ],
         "stakes_bullets": [
-          "• The Texas Education Agency will remove the Fort Worth Independent School District’s elected board members and may appoint a new superintendent to oversee its operations"
+          "• The Texas Education Agency will boot the board of the Fort Worth Independent School District"
         ]
       },
-      "read_minutes": 4,
+      "read_minutes": 5,
       "cluster_id": "b27b53a5b07d"
     },
     {
@@ -5072,6 +5078,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "59e6956af0d4"
+    },
+    {
+      "id": "23ababb02889",
+      "title": "Donors for Trump’s $300m White House ballroom include Google, Apple and Palantir",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/23/trump-white-house-ballroom-donors",
+      "published_at": "Thu, 23 Oct 2025 13:40:04 GMT",
+      "bullets": [
+        "• Donald Trump's $300m White House ballroom is being funded by major tech and defense companies",
+        "• Donors include Apple, Amazon, Microsoft, Lockheed Martin and T-Mobile",
+        "• Trump initially said the 90,000 sq ft ballroom would cost $200m, but has upped it to $400m "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.924
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump's $300m White House ballroom is being funded by major tech and defense companies",
+          "• Donors include Apple, Amazon, Microsoft, Lockheed Martin and T-Mobile"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump's $300m White House ballroom is being funded by major tech and defense companies",
+          "• Donors include Apple, Amazon, Microsoft, Lockheed Martin and T-Mobile"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump's $300m White House ballroom is being funded by major tech and defense companies",
+          "• Donors include Apple, Amazon, Microsoft, Lockheed Martin and T-Mobile",
+          "• Trump initially said the 90,000 sq ft ballroom would cost $200m, but has upped it to $400m "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e09eb2c699f3"
     },
     {
       "id": "94705313e749",
@@ -6306,6 +6346,37 @@
       "cluster_id": "c94eb2b8142a"
     },
     {
+      "id": "c50cf73ebdf2",
+      "title": "What Jared Kushner brings to the negotiating table in the Middle East",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/23/nx-s1-5582806/jared-kushner-mideast-business-ceasefire",
+      "published_at": "Thu, 23 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• President Trump drafted Jared Kushner back to help secure a ceasefire in Gaza",
+        "• The president's son-in-law had said he wasn't planning to join the administration for a second time",
+        "• He successfully returned to the private sector and was raking in millions in foreign investments from his first stint at the White House "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Trump drafted Jared Kushner back to help secure a ceasefire in Gaza",
+          "• The president's son-in-law had said he wasn't planning to join the administration for a second time"
+        ],
+        "hopeful_bullets": [
+          "• President Trump drafted Jared Kushner back to help secure a ceasefire in Gaza"
+        ],
+        "stakes_bullets": [
+          "• The president's son-in-law had said he wasn't planning to join the administration for a second time"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "6294d6db94fa"
+    },
+    {
       "id": "fd84cd620683",
       "title": "Starter homes are scarce. But homebuyers can improve their odds",
       "outlet": "NPR Topics: News",
@@ -6340,40 +6411,41 @@
       "cluster_id": "a527c260e515"
     },
     {
-      "id": "c50cf73ebdf2",
-      "title": "What Jared Kushner brings to the negotiating table in the Middle East",
+      "id": "c39560fd8610",
+      "title": "Sports ticket prices are getting more expensive — and pricing out many fans",
       "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/23/nx-s1-5582806/jared-kushner-mideast-business-ceasefire",
+      "url": "https://www.npr.org/2025/10/23/nx-s1-5561909/ticket-prices-sports",
       "published_at": "Thu, 23 Oct 2025 05:00:00 -0400",
       "bullets": [
-        "• President Trump drafted Jared Kushner back to help secure a ceasefire in Gaza",
-        "• The president's son-in-law had said he wasn't planning to join the administration for a second time",
-        "• He successfully returned to the private sector and was raking in millions in foreign investments from his first stint at the White House "
+        "• NPR's Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping after years of inflation",
+        "• Sports ticket prices have more than doubled since the Labor Department started tracking sports ticket prices in 1999",
+        "• There are three main reasons why teams are hiking ticket prices: fewer seats at higher prices, more premium seats "
       ],
       "category": "General",
       "sentiment": {
-        "label": "positive",
-        "score": 0.994
+        "label": "negative",
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• President Trump drafted Jared Kushner back to help secure a ceasefire in Gaza",
-          "• The president's son-in-law had said he wasn't planning to join the administration for a second time"
+          "• NPR's Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping after years of inflation",
+          "• Sports ticket prices have more than doubled since the Labor Department started tracking sports ticket prices in 1999"
         ],
         "hopeful_bullets": [
-          "• President Trump drafted Jared Kushner back to help secure a ceasefire in Gaza"
+          "• NPR's Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping after years of inflation",
+          "• Sports ticket prices have more than doubled since the Labor Department started tracking sports ticket prices in 1999"
         ],
         "stakes_bullets": [
-          "• The president's son-in-law had said he wasn't planning to join the administration for a second time"
+          "• NPR's Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping after years of inflation"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "6294d6db94fa"
+      "read_minutes": 5,
+      "cluster_id": "f58c8be261d2"
     },
     {
       "id": "763f0333fd46",
       "title": "Confused by the legal battles over troop deployments? Here's what to know",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/23/nx-s1-5581553/national-guard-supreme-court-legal-cases",
       "published_at": "Thu, 23 Oct 2025 05:00:00 -0400",
       "bullets": [
@@ -6381,7 +6453,7 @@
         "• The deployments were done against the wishes of Democratic state governors, and were quickly blocked by district courts",
         "• The Trump administration has asked the Supreme Court to intervene in both cases "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -9286,6 +9358,24 @@
       ]
     },
     {
+      "id": "fb1121985cec",
+      "topic": "alleged colombia drug halt",
+      "keywords": [
+        "alleged",
+        "colombia",
+        "drug",
+        "halt",
+        "strike",
+        "urge"
+      ],
+      "item_ids": [
+        "f4994d21ac53"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "f6e5f449d52f",
       "topic": "age brazilian fourth president",
       "keywords": [
@@ -9358,21 +9448,21 @@
       ]
     },
     {
-      "id": "ba4d32da8e64",
-      "topic": "caribbean fear night regime",
+      "id": "40339c83e429",
+      "topic": "bill essential fail keep",
       "keywords": [
-        "caribbean",
-        "fear",
-        "night",
-        "regime",
-        "seen",
-        "stalker"
+        "bill",
+        "essential",
+        "fail",
+        "keep",
+        "pass",
+        "senate"
       ],
       "item_ids": [
-        "05b155a60536"
+        "3ac4fb83bddc"
       ],
       "outlets": [
-        "World news | The Guardian"
+        "US news | The Guardian"
       ]
     },
     {
@@ -9388,24 +9478,6 @@
       ],
       "item_ids": [
         "53d95d040ebf"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "edc940d896c6",
-      "topic": "call deployment federal off",
-      "keywords": [
-        "call",
-        "deployment",
-        "federal",
-        "off",
-        "troop",
-        "trump"
-      ],
-      "item_ids": [
-        "3ac4fb83bddc"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9442,24 +9514,6 @@
       ],
       "item_ids": [
         "83b1bccad431"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "f7b8478e4d35",
-      "topic": "alabama controversial execute man",
-      "keywords": [
-        "alabama",
-        "controversial",
-        "execute",
-        "man",
-        "seventh",
-        "using"
-      ],
-      "item_ids": [
-        "ed6c9404b995"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9532,6 +9586,24 @@
       ],
       "item_ids": [
         "cb69b0d36f8a"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "e09eb2c699f3",
+      "topic": "300m ballroom donor house",
+      "keywords": [
+        "300m",
+        "ballroom",
+        "donor",
+        "house",
+        "trump",
+        "white"
+      ],
+      "item_ids": [
+        "23ababb02889"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9682,24 +9754,6 @@
       ]
     },
     {
-      "id": "a527c260e515",
-      "topic": "home homebuyer improve odds",
-      "keywords": [
-        "home",
-        "homebuyer",
-        "improve",
-        "odds",
-        "scarce",
-        "starter"
-      ],
-      "item_ids": [
-        "fd84cd620683"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "6294d6db94fa",
       "topic": "bring jared kushner middle",
       "keywords": [
@@ -9718,36 +9772,54 @@
       ]
     },
     {
-      "id": "e071bfc9c0bd",
-      "topic": "battle confused deployment here",
+      "id": "a527c260e515",
+      "topic": "home homebuyer improve odds",
       "keywords": [
-        "battle",
-        "confused",
-        "deployment",
-        "here",
-        "legal",
-        "troop"
+        "home",
+        "homebuyer",
+        "improve",
+        "odds",
+        "scarce",
+        "starter"
       ],
       "item_ids": [
-        "763f0333fd46"
+        "fd84cd620683"
       ],
       "outlets": [
         "NPR Topics: News"
       ]
     },
     {
-      "id": "9d981498295f",
-      "topic": "home lower mortgage push",
+      "id": "f58c8be261d2",
+      "topic": "expensive getting price pricing",
       "keywords": [
-        "home",
-        "lower",
-        "mortgage",
-        "push",
-        "rate",
-        "sale"
+        "expensive",
+        "getting",
+        "price",
+        "pricing",
+        "sport",
+        "ticket"
       ],
       "item_ids": [
-        "e6e3d5b1c4a6"
+        "c39560fd8610"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "c7ff77f445f0",
+      "topic": "arrested billup chauncey fbi",
+      "keywords": [
+        "arrested",
+        "billup",
+        "chauncey",
+        "fbi",
+        "other",
+        "probe"
+      ],
+      "item_ids": [
+        "6cd8b234c849"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9772,24 +9844,6 @@
       ]
     },
     {
-      "id": "c7ff77f445f0",
-      "topic": "arrested billup chauncey fbi",
-      "keywords": [
-        "arrested",
-        "billup",
-        "chauncey",
-        "fbi",
-        "other",
-        "probe"
-      ],
-      "item_ids": [
-        "6cd8b234c849"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "ac17254b6993",
       "topic": "admin equity negotiating quantum",
       "keywords": [
@@ -9802,6 +9856,24 @@
       ],
       "item_ids": [
         "3218be2a7e4e"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "9d981498295f",
+      "topic": "home lower mortgage push",
+      "keywords": [
+        "home",
+        "lower",
+        "mortgage",
+        "push",
+        "rate",
+        "sale"
+      ],
+      "item_ids": [
+        "e6e3d5b1c4a6"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10791,6 +10863,24 @@
       ]
     },
     {
+      "id": "e071bfc9c0bd",
+      "topic": "battle confused deployment here",
+      "keywords": [
+        "battle",
+        "confused",
+        "deployment",
+        "here",
+        "legal",
+        "troop"
+      ],
+      "item_ids": [
+        "763f0333fd46"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "40d054f8754f",
       "topic": "approve backed carolina north",
       "keywords": [
@@ -11105,24 +11195,6 @@
       ]
     },
     {
-      "id": "4fa56ccbfa2c",
-      "topic": "epa scrutiny seek some",
-      "keywords": [
-        "epa",
-        "scrutiny",
-        "seek",
-        "some",
-        "trump",
-        "weaken"
-      ],
-      "item_ids": [
-        "1715b5cad651"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
       "id": "50ee20333dc8",
       "topic": "delay fear heat million",
       "keywords": [
@@ -11135,6 +11207,24 @@
       ],
       "item_ids": [
         "62afe9146451"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "4fa56ccbfa2c",
+      "topic": "epa scrutiny seek some",
+      "keywords": [
+        "epa",
+        "scrutiny",
+        "seek",
+        "some",
+        "trump",
+        "weaken"
+      ],
+      "item_ids": [
+        "1715b5cad651"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11536,6 +11626,24 @@
       ]
     },
     {
+      "id": "6c4362c77ca6",
+      "topic": "director give midsummer night",
+      "keywords": [
+        "director",
+        "give",
+        "midsummer",
+        "night",
+        "prevenge",
+        "shakespeare"
+      ],
+      "item_ids": [
+        "b4a4097a2e10"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "c55b27fbaf76",
       "topic": "carol christma dicken directing",
       "keywords": [
@@ -11692,24 +11800,6 @@
       ],
       "item_ids": [
         "d6e88a699486"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "7b5cf790fcb7",
-      "topic": "animator city creative phantom",
-      "keywords": [
-        "animator",
-        "city",
-        "creative",
-        "phantom",
-        "print",
-        "screen"
-      ],
-      "item_ids": [
-        "25296b63a7ca"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -13032,6 +13122,130 @@
       ]
     },
     {
+      "id": "099ee86f9452",
+      "topic": "anthology backlash draw monster",
+      "keywords": [
+        "anthology",
+        "backlash",
+        "draw",
+        "monster",
+        "murphy",
+        "ryan"
+      ],
+      "item_ids": [
+        "334732114f72"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "69b4ae8a18e9",
+      "topic": "rainmaker renewal score season",
+      "keywords": [
+        "rainmaker",
+        "renewal",
+        "score",
+        "season"
+      ],
+      "item_ids": [
+        "3c9c5a15d614"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "086b42ec72fb",
+      "topic": "chainsaw man onto rotten",
+      "keywords": [
+        "chainsaw",
+        "man",
+        "onto",
+        "rotten",
+        "slashe",
+        "tomatoe"
+      ],
+      "item_ids": [
+        "c99c01bbe983"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "d1889ddc0ab8",
+      "topic": "age mcu men puts",
+      "keywords": [
+        "age",
+        "mcu",
+        "men",
+        "puts",
+        "revelation",
+        "twist"
+      ],
+      "item_ids": [
+        "2befb18d2156"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "c97f55009dce",
+      "topic": "arrowverse gunn jame need",
+      "keywords": [
+        "arrowverse",
+        "gunn",
+        "jame",
+        "need",
+        "role",
+        "star"
+      ],
+      "item_ids": [
+        "bf54ab4abf02"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "70851b7bb31f",
+      "topic": "book longmire made reader",
+      "keywords": [
+        "book",
+        "longmire",
+        "made",
+        "reader",
+        "scene",
+        "show"
+      ],
+      "item_ids": [
+        "5c84d26491c5"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "3c5c53cafc39",
+      "topic": "netflix nobody rotten score",
+      "keywords": [
+        "netflix",
+        "nobody",
+        "rotten",
+        "score",
+        "tomatoe",
+        "want"
+      ],
+      "item_ids": [
+        "2764662c06d6"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "fb98bb9d2b06",
       "topic": "allen bear confirm jeremy",
       "keywords": [
@@ -13080,114 +13294,6 @@
       ],
       "item_ids": [
         "4ac3766e7dd5"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "8646a36e7492",
-      "topic": "altered felton film sci",
-      "keywords": [
-        "altered",
-        "felton",
-        "film",
-        "sci",
-        "tom",
-        "unveil"
-      ],
-      "item_ids": [
-        "547f20dbec00"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "0f4f4b36a0ed",
-      "topic": "character finally missing return",
-      "keywords": [
-        "character",
-        "finally",
-        "missing",
-        "return",
-        "shocking",
-        "tmnt"
-      ],
-      "item_ids": [
-        "51d1710c5c38"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "5a8334ef9c9d",
-      "topic": "debut fast furiou paul",
-      "keywords": [
-        "debut",
-        "fast",
-        "furiou",
-        "paul",
-        "walker",
-        "year"
-      ],
-      "item_ids": [
-        "10846f15d1e6"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "a5d3ca9d0869",
-      "topic": "banned episode remain star",
-      "keywords": [
-        "banned",
-        "episode",
-        "remain",
-        "star",
-        "tng",
-        "trek"
-      ],
-      "item_ids": [
-        "84702f1fe4d0"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "4b81fb308963",
-      "topic": "dinobot fans flying get",
-      "keywords": [
-        "dinobot",
-        "fans",
-        "flying",
-        "get",
-        "high",
-        "transformer"
-      ],
-      "item_ids": [
-        "670ed4ccfbec"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "0914dea01f84",
-      "topic": "derry explore most officially",
-      "keywords": [
-        "derry",
-        "explore",
-        "most",
-        "officially",
-        "powerful",
-        "welcome"
-      ],
-      "item_ids": [
-        "f434dac1e5df"
       ],
       "outlets": [
         "CBR"
