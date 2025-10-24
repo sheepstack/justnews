@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T16:06:10Z",
+  "generated_at": "2025-10-24T16:17:56Z",
   "items": [
     {
       "id": "88a01c1d8865",
@@ -164,6 +164,39 @@
       },
       "read_minutes": 2,
       "cluster_id": "bc806367f1b8"
+    },
+    {
+      "id": "e8eecf72c69a",
+      "title": "US demands EU reverse new climate rules to allow surge in gas imports",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/22/us-eu-climate-rules-lng-gas",
+      "published_at": "Wed, 22 Oct 2025 19:02:55 GMT",
+      "bullets": [
+        "• US and Qatar, two of the three largest LNG exporters in the world, sent a letter to the European Union",
+        "• The EU should either completely repeal or substantially cut back the new rules, according to the letter",
+        "• The directive requires gas exporters to the 27-country bloc to show they protect human rights and are cutting their planet-heating emissions "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US and Qatar, two of the three largest LNG exporters in the world, sent a letter to the European Union",
+          "• The EU should either completely repeal or substantially cut back the new rules, according to the letter"
+        ],
+        "hopeful_bullets": [
+          "• US and Qatar, two of the three largest LNG exporters in the world, sent a letter to the European Union",
+          "• The EU should either completely repeal or substantially cut back the new rules, according to the letter"
+        ],
+        "stakes_bullets": [
+          "• The EU should either completely repeal or substantially cut back the new rules, according to the letter",
+          "• The directive requires gas exporters to the 27-country bloc to show they protect human rights and are cutting their planet-heating emissions "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "b4141233a306"
     },
     {
       "id": "84d87098429f",
@@ -551,6 +584,36 @@
       "cluster_id": "351efb82233c"
     },
     {
+      "id": "af37c46f5dc3",
+      "title": "Climate disasters in first half of 2025 costliest ever on record, research shows",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/oct/22/climate-disasters-2025-cost",
+      "published_at": "Wed, 22 Oct 2025 14:00:13 GMT",
+      "bullets": [
+        "• 14 weather-related disasters that each caused at least $1bn in damage hit the US in the first six months of this year",
+        "• At $61bn in damages, the LA fires are one of the most expensive climate-related events on record in the US "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 14 weather-related disasters that each caused at least $1bn in damage hit the US in the first six months of this year",
+          "• At $61bn in damages, the LA fires are one of the most expensive climate-related events on record in the US "
+        ],
+        "hopeful_bullets": [
+          "• At $61bn in damages, the LA fires are one of the most expensive climate-related events on record in the US "
+        ],
+        "stakes_bullets": [
+          "• 14 weather-related disasters that each caused at least $1bn in damage hit the US in the first six months of this year"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "c6606de01859"
+    },
+    {
       "id": "9fd8a3b669f7",
       "title": "Cuban man deported from US to Eswatini goes on hunger strike in prison",
       "outlet": "World news | The Guardian",
@@ -584,6 +647,37 @@
       },
       "read_minutes": 1,
       "cluster_id": "ab34f09127d1"
+    },
+    {
+      "id": "197dd713abf0",
+      "title": "Flooding and droughts drove them from their homes. Now they’re seeking a safe haven in New York",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/oct/22/climate-disasters-migration-new-york",
+      "published_at": "Wed, 22 Oct 2025 10:00:50 GMT",
+      "bullets": [
+        "• Thousands of migrants from west Africa have crossed the US-Mexico border in recent years to seek out a new life in New York City",
+        "• Between 2019 and 2024, more than 1,800 Senegans are expected to emigrate to the US "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.77
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Thousands of migrants from west Africa have crossed the US-Mexico border in recent years to seek out a new life in New York City",
+          "• Between 2019 and 2024, more than 1,800 Senegans are expected to emigrate to the US "
+        ],
+        "hopeful_bullets": [
+          "• Thousands of migrants from west Africa have crossed the US-Mexico border in recent years to seek out a new life in New York City",
+          "• Between 2019 and 2024, more than 1,800 Senegans are expected to emigrate to the US "
+        ],
+        "stakes_bullets": [
+          "• Between 2019 and 2024, more than 1,800 Senegans are expected to emigrate to the US "
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "5620a120f242"
     },
     {
       "id": "12e39f23fe8d",
@@ -1540,37 +1634,35 @@
       "cluster_id": "c585a8d10863"
     },
     {
-      "id": "2f871201a838",
-      "title": "Airport expansion will put UK’s net zero goal in ‘serious jeopardy’, MPs warn",
+      "id": "c42ad93d3b2b",
+      "title": "White House approves increased oil and gas drilling in Alaska’s national wildlife refuge",
       "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/oct/24/airport-expansion-uk-net-zero-mp-carbon-emissions-runway",
-      "published_at": "Thu, 23 Oct 2025 23:01:28 GMT",
+      "url": "https://www.theguardian.com/us-news/2025/oct/23/oil-gas-drilling-alaska-national-wildlife-refuge",
+      "published_at": "Thu, 23 Oct 2025 22:31:32 GMT",
       "bullets": [
-        "• Without new safeguards, proposals to enlarge airports including Heathrow and Gatwick could push the UK over its carbon budgets",
-        "• MPs said ministers must set out how they are going to meet climate, environment and biodiversity targets before any of the projects break ground",
-        "• Their report found that government policies were insufficient to cut carbon emissions "
+        "• Interior secretary announced opening of 1.56m acres across ANWR’s coastal plains",
+        "• Interior department also announced an oil and gas lease sale with the National Petroleum Reserve in Alaska this winter, which is set to mark the first sale in the 23m-acre reserve since 2019 "
       ],
       "category": "Environment",
       "sentiment": {
-        "label": "negative",
-        "score": 0.998
+        "label": "positive",
+        "score": 0.973
       },
       "moods": {
         "brief_bullets": [
-          "• Without new safeguards, proposals to enlarge airports including Heathrow and Gatwick could push the UK over its carbon budgets",
-          "• MPs said ministers must set out how they are going to meet climate, environment and biodiversity targets before any of the projects break ground"
+          "• Interior secretary announced opening of 1.56m acres across ANWR’s coastal plains",
+          "• Interior department also announced an oil and gas lease sale with the National Petroleum Reserve in Alaska this winter, which is set to mark the first sale in the 23m-acre reserve since 2019 "
         ],
         "hopeful_bullets": [
-          "• Without new safeguards, proposals to enlarge airports including Heathrow and Gatwick could push the UK over its carbon budgets",
-          "• MPs said ministers must set out how they are going to meet climate, environment and biodiversity targets before any of the projects break ground"
+          "• Interior department also announced an oil and gas lease sale with the National Petroleum Reserve in Alaska this winter, which is set to mark the first sale in the 23m-acre reserve since 2019 "
         ],
         "stakes_bullets": [
-          "• Without new safeguards, proposals to enlarge airports including Heathrow and Gatwick could push the UK over its carbon budgets",
-          "• Their report found that government policies were insufficient to cut carbon emissions "
+          "• Interior secretary announced opening of 1.56m acres across ANWR’s coastal plains",
+          "• Interior department also announced an oil and gas lease sale with the National Petroleum Reserve in Alaska this winter, which is set to mark the first sale in the 23m-acre reserve since 2019 "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "427dc4e6b6c4"
+      "cluster_id": "f2860a7090c9"
     },
     {
       "id": "1ea79c8ad266",
@@ -2461,6 +2553,38 @@
       "cluster_id": "029d3d4ea137"
     },
     {
+      "id": "fb950b50dd76",
+      "title": "Marine heatwave over Pacific Ocean could lead to flooding in north-west",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/23/pacific-ocean-marine-heatwave-north-west",
+      "published_at": "Thu, 23 Oct 2025 15:00:43 GMT",
+      "bullets": [
+        "• The temperature in August in the northern Pacific Ocean was 2.5C above preindustrial levels",
+        "• That spike can lead to more thunder storms and affect marine species, scientists say",
+        "• Such a heatwave have become more severe and frequent in the past decade "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.949
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The temperature in August in the northern Pacific Ocean was 2.5C above preindustrial levels",
+          "• That spike can lead to more thunder storms and affect marine species, scientists say"
+        ],
+        "hopeful_bullets": [
+          "• The temperature in August in the northern Pacific Ocean was 2.5C above preindustrial levels",
+          "• That spike can lead to more thunder storms and affect marine species, scientists say"
+        ],
+        "stakes_bullets": [
+          "• That spike can lead to more thunder storms and affect marine species, scientists say"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "bf5bb6c56187"
+    },
+    {
       "id": "5d8809e0fa34",
       "title": "Texas Education Agency takes over Fort Worth ISD, replacing its elected school board",
       "outlet": "The Texas Tribune",
@@ -2822,39 +2946,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "15d5e5e0a7db"
-    },
-    {
-      "id": "147e031dfa21",
-      "title": "Thames Water ranked worst supplier in England as firms’ ratings hit record low",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/business/2025/oct/23/english-water-ratings-record-low-sewage-pollution",
-      "published_at": "Thu, 23 Oct 2025 08:44:51 GMT",
-      "bullets": [
-        "• Eight of nine water companies rated as poor and need improvement by the Environment Agency",
-        "• Environment Agency's rating of 19 stars out of a possible 36 is the lowest since 2011",
-        "• Only one company, Severn Trent, achieved full marks despite having been responsible for 62,085 sewage spills in 2024 "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Eight of nine water companies rated as poor and need improvement by the Environment Agency",
-          "• Environment Agency's rating of 19 stars out of a possible 36 is the lowest since 2011"
-        ],
-        "hopeful_bullets": [
-          "• Eight of nine water companies rated as poor and need improvement by the Environment Agency"
-        ],
-        "stakes_bullets": [
-          "• Eight of nine water companies rated as poor and need improvement by the Environment Agency",
-          "• Environment Agency's rating of 19 stars out of a possible 36 is the lowest since 2011",
-          "• Only one company, Severn Trent, achieved full marks despite having been responsible for 62,085 sewage spills in 2024 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "7a182c7f2a4b"
     },
     {
       "id": "2d87b674f661",
@@ -4019,6 +4110,74 @@
       "cluster_id": "7d1f5af9f25f"
     },
     {
+      "id": "c5dbec92f656",
+      "title": "An Obscure Marvel Character is the Ultimate Universe’s Most Powerful Villain",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/ultimate-spiderman-incursion-emmanuel-da-costa-most-powerful-villain/",
+      "published_at": "Fri, 24 Oct 2025 16:00:13 GMT",
+      "bullets": [
+        "• Ultimate Spider-Man: Incursion #5 is on sale now from Marvel Comics",
+        "• The book is written by Deniz Camp, Cody Ziglar, Jonas Scharf, Edgar Delgado, and VC's Cory Petit",
+        "• In the primary Marvel Universe, Emmanuel Da Costa was the father of Roberto Da Costa, aka Sunspot "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ultimate Spider-Man: Incursion #5 is on sale now from Marvel Comics",
+          "• The book is written by Deniz Camp, Cody Ziglar, Jonas Scharf, Edgar Delgado, and VC's Cory Petit"
+        ],
+        "hopeful_bullets": [
+          "• Ultimate Spider-Man: Incursion #5 is on sale now from Marvel Comics",
+          "• The book is written by Deniz Camp, Cody Ziglar, Jonas Scharf, Edgar Delgado, and VC's Cory Petit"
+        ],
+        "stakes_bullets": [
+          "• Ultimate Spider-Man: Incursion #5 is on sale now from Marvel Comics",
+          "• The book is written by Deniz Camp, Cody Ziglar, Jonas Scharf, Edgar Delgado, and VC's Cory Petit",
+          "• In the primary Marvel Universe, Emmanuel Da Costa was the father of Roberto Da Costa, aka Sunspot "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "cd495a8ce8e4"
+    },
+    {
+      "id": "47312bce8f44",
+      "title": "Harry Potter's Most Important Scene Isn't What You Think (& It Defines the Franchise 24 Years Later)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/harry-potter-sorcerer-stone-opening-most-important-scene/",
+      "published_at": "Fri, 24 Oct 2025 16:00:13 GMT",
+      "bullets": [
+        "• The opening scene in Harry Potter and the Philosopher's Stone (2001) is the most iconic moment in the series",
+        "• The scene sets the tone for the entire Harry Potter film franchise",
+        "• The first film, \"Sorcerer's Stone,\" was directed by Chris Columbus "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The opening scene in Harry Potter and the Philosopher's Stone (2001) is the most iconic moment in the series",
+          "• The scene sets the tone for the entire Harry Potter film franchise"
+        ],
+        "hopeful_bullets": [
+          "• The opening scene in Harry Potter and the Philosopher's Stone (2001) is the most iconic moment in the series",
+          "• The scene sets the tone for the entire Harry Potter film franchise"
+        ],
+        "stakes_bullets": [
+          "• The opening scene in Harry Potter and the Philosopher's Stone (2001) is the most iconic moment in the series",
+          "• The scene sets the tone for the entire Harry Potter film franchise",
+          "• The first film, \"Sorcerer's Stone,\" was directed by Chris Columbus "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "c46ced1155cf"
+    },
+    {
       "id": "d5d86b93d020",
       "title": "3 Best Crunchyroll Anime to Binge This Weekend (Oct. 24-26)",
       "outlet": "CBR",
@@ -4218,6 +4377,135 @@
       },
       "read_minutes": 2,
       "cluster_id": "e32c11ee107a"
+    },
+    {
+      "id": "5ff96fa59ed4",
+      "title": "Trump foe Letitia James pleads not guilty in mortgage fraud case: Reports",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/24/letitia-james-mortgage-fraud-trump.html",
+      "published_at": "Fri, 24 Oct 2025 15:48:06 GMT",
+      "bullets": [
+        "• James pleads not guilty to one count each of bank fraud and making false statements to a financial institution",
+        "• Interim U.S",
+        "• Attorney for the Eastern District of Virginia presented evidence to a grand jury before it issued the indictment",
+        "• James plans to file a motion Friday that will ask for the case to be dismissed "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• James pleads not guilty to one count each of bank fraud and making false statements to a financial institution",
+          "• Interim U.S"
+        ],
+        "hopeful_bullets": [
+          "• James pleads not guilty to one count each of bank fraud and making false statements to a financial institution",
+          "• Interim U.S"
+        ],
+        "stakes_bullets": [
+          "• James pleads not guilty to one count each of bank fraud and making false statements to a financial institution",
+          "• James plans to file a motion Friday that will ask for the case to be dismissed "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "315a962fd5a4"
+    },
+    {
+      "id": "3653b5f7258e",
+      "title": "AMD's stock pops 6% on report IBM can use its chips for quantum computing",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/24/amd-stock-pops-on-report-ibm-can-use-its-chips-for-quantum-computing.html",
+      "published_at": "Fri, 24 Oct 2025 15:45:12 GMT",
+      "bullets": [
+        "• Shares of Advanced Micro Devices jumped more than 6% on a report that IBM can utilize the company's chips to run certain quantum computing algorithms",
+        "• IBM has also said it plans to debut a quantum computer by 2029",
+        "• Technology giants such as Google, Microsoft and Amazon are also racing to develop quantum computing "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.962
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Shares of Advanced Micro Devices jumped more than 6% on a report that IBM can utilize the company's chips to run certain quantum computing algorithms",
+          "• IBM has also said it plans to debut a quantum computer by 2029"
+        ],
+        "hopeful_bullets": [
+          "• Shares of Advanced Micro Devices jumped more than 6% on a report that IBM can utilize the company's chips to run certain quantum computing algorithms",
+          "• IBM has also said it plans to debut a quantum computer by 2029"
+        ],
+        "stakes_bullets": [
+          "• IBM has also said it plans to debut a quantum computer by 2029"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "5a0d825b73c7"
+    },
+    {
+      "id": "4e68234551ae",
+      "title": "We won't accept a stolen vote, Cameroon opposition leader tells BBC",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2n7dq24glo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 24 Oct 2025 15:42:05 GMT",
+      "bullets": [
+        "• Issa Tchiroma Bakary has declared himself the winner of the 12 October elections",
+        "• He says he will not accept a stolen vote, with results due to be announced on Monday",
+        "• The ruling party has dismissed his victory claims and several officials have described it as illegal "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Issa Tchiroma Bakary has declared himself the winner of the 12 October elections",
+          "• He says he will not accept a stolen vote, with results due to be announced on Monday"
+        ],
+        "hopeful_bullets": [
+          "• Issa Tchiroma Bakary has declared himself the winner of the 12 October elections"
+        ],
+        "stakes_bullets": [
+          "• He says he will not accept a stolen vote, with results due to be announced on Monday"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "a4b10f5b0341"
+    },
+    {
+      "id": "94b9c213e8b9",
+      "title": "US and Canada spar over anti-Trump tariff advertising campaign that derailed trade talks – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/24/donald-trump-trade-negotiations-canada-mark-carney-terminated-tariff-letitia-james-new-york-us-politics-live-news",
+      "published_at": "Fri, 24 Oct 2025 15:36:44 GMT",
+      "bullets": [
+        "• White House economic adviser Kevin Hassett said that the president’s decision to terminate trade talks with Canada was indicative of his “frustration” with the country after month of negotiations",
+        "• He said he didn’t have any information about whether Trump would speak with Canadian PM Mark Carney while they’re both attending the Association of Southeast Asian Nations (Asean) summit this week "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• White House economic adviser Kevin Hassett said that the president’s decision to terminate trade talks with Canada was indicative of his “frustration” with the country after month of negotiations",
+          "• He said he didn’t have any information about whether Trump would speak with Canadian PM Mark Carney while they’re both attending the Association of Southeast Asian Nations (Asean) summit this week "
+        ],
+        "hopeful_bullets": [
+          "• White House economic adviser Kevin Hassett said that the president’s decision to terminate trade talks with Canada was indicative of his “frustration” with the country after month of negotiations",
+          "• He said he didn’t have any information about whether Trump would speak with Canadian PM Mark Carney while they’re both attending the Association of Southeast Asian Nations (Asean) summit this week "
+        ],
+        "stakes_bullets": [
+          "• White House economic adviser Kevin Hassett said that the president’s decision to terminate trade talks with Canada was indicative of his “frustration” with the country after month of negotiations",
+          "• He said he didn’t have any information about whether Trump would speak with Canadian PM Mark Carney while they’re both attending the Association of Southeast Asian Nations (Asean) summit this week "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "50107dac5d71"
     },
     {
       "id": "d5447dc4b8b9",
@@ -4453,37 +4741,6 @@
       "cluster_id": "fd57b359c9b1"
     },
     {
-      "id": "94b9c213e8b9",
-      "title": "US and Canada spar over anti-Trump tariff advertising campaign that derailed trade talks – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/24/donald-trump-trade-negotiations-canada-mark-carney-terminated-tariff-letitia-james-new-york-us-politics-live-news",
-      "published_at": "Fri, 24 Oct 2025 15:24:23 GMT",
-      "bullets": [
-        "• Kevin Hassett said that the president’s decision to terminate trade talks with Canada was indicative of his ‘frustration’ with the country after month of negotiations",
-        "• Letitia James pleads not guilty to two felony charges of bank fraud and making false statements to a financial institution "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Kevin Hassett said that the president’s decision to terminate trade talks with Canada was indicative of his ‘frustration’ with the country after month of negotiations",
-          "• Letitia James pleads not guilty to two felony charges of bank fraud and making false statements to a financial institution "
-        ],
-        "hopeful_bullets": [
-          "• Kevin Hassett said that the president’s decision to terminate trade talks with Canada was indicative of his ‘frustration’ with the country after month of negotiations",
-          "• Letitia James pleads not guilty to two felony charges of bank fraud and making false statements to a financial institution "
-        ],
-        "stakes_bullets": [
-          "• Letitia James pleads not guilty to two felony charges of bank fraud and making false statements to a financial institution "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "50107dac5d71"
-    },
-    {
       "id": "7a079be0940f",
       "title": "Letitia James pleads not guilty in Virginia mortgage fraud case",
       "outlet": "US news | The Guardian",
@@ -4515,40 +4772,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "d5f697a8a34f"
-    },
-    {
-      "id": "5ff96fa59ed4",
-      "title": "Trump foe Letitia James pleads not guilty in mortgage fraud case: Reports",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/24/letitia-james-mortgage-fraud-trump.html",
-      "published_at": "Fri, 24 Oct 2025 15:17:16 GMT",
-      "bullets": [
-        "• James pleads not guilty to one count each of bank fraud and making false statements to a financial institution",
-        "• Interim U.S",
-        "• Attorney for the Eastern District of Virginia presented evidence to a grand jury before it issued the indictment",
-        "• James plans to file a motion Friday that will ask for the case to be dismissed "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• James pleads not guilty to one count each of bank fraud and making false statements to a financial institution",
-          "• Interim U.S"
-        ],
-        "hopeful_bullets": [
-          "• James pleads not guilty to one count each of bank fraud and making false statements to a financial institution",
-          "• Interim U.S"
-        ],
-        "stakes_bullets": [
-          "• James pleads not guilty to one count each of bank fraud and making false statements to a financial institution",
-          "• James plans to file a motion Friday that will ask for the case to be dismissed "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "315a962fd5a4"
     },
     {
       "id": "345b75b542fd",
@@ -4681,73 +4904,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "ebcc5600f693"
-    },
-    {
-      "id": "3e93b4eb2af2",
-      "title": "King Kong Story That Only Lasted One Season Finally Coming Back In 2026",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/king-kong-escape-from-skull-island-returning-2026/",
-      "published_at": "Fri, 24 Oct 2025 15:00:12 GMT",
-      "bullets": [
-        "• Escape from Skull Island #1 is the official follow-up to the hit animated series",
-        "• The first issue of the four-part series will arrive in comic book stores on January 28",
-        "• The series will serve as the official continuation of the 2023 animated series, Skull Island "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Escape from Skull Island #1 is the official follow-up to the hit animated series",
-          "• The first issue of the four-part series will arrive in comic book stores on January 28"
-        ],
-        "hopeful_bullets": [
-          "• Escape from Skull Island #1 is the official follow-up to the hit animated series",
-          "• The first issue of the four-part series will arrive in comic book stores on January 28"
-        ],
-        "stakes_bullets": [
-          "• The first issue of the four-part series will arrive in comic book stores on January 28",
-          "• The series will serve as the official continuation of the 2023 animated series, Skull Island "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "054df2459d02"
-    },
-    {
-      "id": "6eed4761531e",
-      "title": "Stephen King's Best Film in 39 Years Instantly Tops the Charts on PVOD",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/stephen-king-the-long-walk-instant-pvod-hit-october-2025/",
-      "published_at": "Fri, 24 Oct 2025 15:00:12 GMT",
-      "bullets": [
-        "• Stephen King's latest adaptation, The Long Walk, debuted on digital platforms on Oct",
-        "• 21",
-        "• It debuted in first place on the iTunes charts in the U.S",
-        "• and Canada",
-        "• The film is expected to arrive on streaming platforms in late November or early December "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Stephen King's latest adaptation, The Long Walk, debuted on digital platforms on Oct",
-          "• 21"
-        ],
-        "hopeful_bullets": [
-          "• Stephen King's latest adaptation, The Long Walk, debuted on digital platforms on Oct",
-          "• 21"
-        ],
-        "stakes_bullets": [
-          "• The film is expected to arrive on streaming platforms in late November or early December "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "acb6b0cf6e0e"
     },
     {
       "id": "71f76c382b1e",
@@ -5110,38 +5266,37 @@
     },
     {
       "id": "3eb2d22f086f",
-      "title": "Pentagon chief announces another US military strike on alleged drug boat in Caribbean",
+      "title": "Pentagon chief announces another US strike on alleged drug boat in Caribbean",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/oct/24/us-military-strike-alleged-drug-boat-caribbean",
       "published_at": "Fri, 24 Oct 2025 14:25:47 GMT",
       "bullets": [
-        "• Pentagon chief Pete Hegseth says six people were killed in the strike in international waters",
-        "• No US forces were harmed in the attack, he says",
-        "• The strikes have drawn widespread condemnation from civil liberties groups and several South American countries",
-        "• Donald Trump announced what appears to have been the first strike on a boat on 3 September "
+        "• Pentagon chief Pete Hegseth claims six people were killed in a strike on a boat in the Caribbean",
+        "• He says the vessel was carrying illegal drugs and was a known narco-trafficking route",
+        "• The strikes have drawn widespread condemnation from civil liberties groups and South American countries "
       ],
       "category": "US",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.543
+        "label": "negative",
+        "score": 0.986
       },
       "moods": {
         "brief_bullets": [
-          "• Pentagon chief Pete Hegseth says six people were killed in the strike in international waters",
-          "• No US forces were harmed in the attack, he says"
+          "• Pentagon chief Pete Hegseth claims six people were killed in a strike on a boat in the Caribbean",
+          "• He says the vessel was carrying illegal drugs and was a known narco-trafficking route"
         ],
         "hopeful_bullets": [
-          "• Pentagon chief Pete Hegseth says six people were killed in the strike in international waters",
-          "• No US forces were harmed in the attack, he says"
+          "• Pentagon chief Pete Hegseth claims six people were killed in a strike on a boat in the Caribbean",
+          "• He says the vessel was carrying illegal drugs and was a known narco-trafficking route"
         ],
         "stakes_bullets": [
-          "• Pentagon chief Pete Hegseth says six people were killed in the strike in international waters",
-          "• No US forces were harmed in the attack, he says",
-          "• The strikes have drawn widespread condemnation from civil liberties groups and several South American countries"
+          "• Pentagon chief Pete Hegseth claims six people were killed in a strike on a boat in the Caribbean",
+          "• He says the vessel was carrying illegal drugs and was a known narco-trafficking route",
+          "• The strikes have drawn widespread condemnation from civil liberties groups and South American countries "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "6b95bc18e7e9"
+      "cluster_id": "a502ebb62bc2"
     },
     {
       "id": "2d6c58c04b4b",
@@ -5244,38 +5399,6 @@
       },
       "read_minutes": 12,
       "cluster_id": "a6bd5436d12a"
-    },
-    {
-      "id": "8c28da114f45",
-      "title": "‘I was contaminated’: study reveals how hard it is to avoid pesticide exposure",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/oct/24/i-was-contaminated-study-reveals-how-hard-it-is-to-avoid-pesticide-exposure",
-      "published_at": "Fri, 24 Oct 2025 14:00:47 GMT",
-      "bullets": [
-        "• Researchers have found out how many pesticides people are exposed to through their skin",
-        "• Even people who live far from the source of pesticides are exposed through direct contact",
-        "• Pesticides are banned in the Netherlands but little attention has been paid to the effects of breathing them in or absorbing them "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers have found out how many pesticides people are exposed to through their skin",
-          "• Even people who live far from the source of pesticides are exposed through direct contact"
-        ],
-        "hopeful_bullets": [
-          "• Researchers have found out how many pesticides people are exposed to through their skin",
-          "• Even people who live far from the source of pesticides are exposed through direct contact"
-        ],
-        "stakes_bullets": [
-          "• Pesticides are banned in the Netherlands but little attention has been paid to the effects of breathing them in or absorbing them "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "287979e40b60"
     },
     {
       "id": "1caed3aa710d",
@@ -5775,9 +5898,8 @@
       "published_at": "Fri, 24 Oct 2025 13:00:00 +0000",
       "bullets": [
         "• The Best 360 Cameras to See the World Around You",
-        "• The big advantage of 360 cameras is that you don't miss anything",
-        "• GoPro Max 2 and Insta360 X5 are the best 360 cameras to capture everything in a scene",
-        "• DJI Osmo 360 and Ricoh Theta X are among the top 360 cameras "
+        "• The big advantage of 360 cameras over traditional action cameras is that you don't miss anything",
+        "• The DJI Osmo 360 is the latest in our list of top 360 cameras "
       ],
       "category": "Technology",
       "sentiment": {
@@ -5787,19 +5909,19 @@
       "moods": {
         "brief_bullets": [
           "• The Best 360 Cameras to See the World Around You",
-          "• The big advantage of 360 cameras is that you don't miss anything"
+          "• The big advantage of 360 cameras over traditional action cameras is that you don't miss anything"
         ],
         "hopeful_bullets": [
           "• The Best 360 Cameras to See the World Around You",
-          "• The big advantage of 360 cameras is that you don't miss anything"
+          "• The big advantage of 360 cameras over traditional action cameras is that you don't miss anything"
         ],
         "stakes_bullets": [
           "• The Best 360 Cameras to See the World Around You",
-          "• The big advantage of 360 cameras is that you don't miss anything",
-          "• GoPro Max 2 and Insta360 X5 are the best 360 cameras to capture everything in a scene"
+          "• The big advantage of 360 cameras over traditional action cameras is that you don't miss anything",
+          "• The DJI Osmo 360 is the latest in our list of top 360 cameras "
         ]
       },
-      "read_minutes": 8,
+      "read_minutes": 7,
       "cluster_id": "2ad7f3299017"
     },
     {
@@ -5933,37 +6055,6 @@
       },
       "read_minutes": 12,
       "cluster_id": "b0bea2513a37"
-    },
-    {
-      "id": "4e68234551ae",
-      "title": "We won't accept a stolen vote, Cameroon opposition leader tells BBC",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2n7dq24glo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 24 Oct 2025 11:47:17 GMT",
-      "bullets": [
-        "• Issa Tchiroma Bakary has declared himself the winner of the 12 October elections",
-        "• He says he will not accept a stolen vote, with results due to be announced on Monday",
-        "• The ruling party has dismissed his victory claims and several officials have described it as illegal "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Issa Tchiroma Bakary has declared himself the winner of the 12 October elections",
-          "• He says he will not accept a stolen vote, with results due to be announced on Monday"
-        ],
-        "hopeful_bullets": [
-          "• Issa Tchiroma Bakary has declared himself the winner of the 12 October elections"
-        ],
-        "stakes_bullets": [
-          "• He says he will not accept a stolen vote, with results due to be announced on Monday"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a4b10f5b0341"
     },
     {
       "id": "9d36f9e6ea0f",
@@ -6230,6 +6321,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "0f0787e593d4"
+    },
+    {
+      "id": "596f377975d3",
+      "title": "Drax faces lawsuits over claims workers developed asthma from wood dust",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/business/2025/oct/24/drax-faces-lawsuits-over-claims-workers-developed-asthma-from-wood-dust",
+      "published_at": "Fri, 24 Oct 2025 11:00:02 GMT",
+      "bullets": [
+        "• Ten people claim they have not been adequately protected from exposure to wood dust",
+        "• Six of the claims have been settled out of court and four have trial dates in 2026",
+        "• The wood pellet is made by compressing wood at high pressures and then being ground into dust "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ten people claim they have not been adequately protected from exposure to wood dust",
+          "• Six of the claims have been settled out of court and four have trial dates in 2026"
+        ],
+        "hopeful_bullets": [
+          "• Ten people claim they have not been adequately protected from exposure to wood dust",
+          "• Six of the claims have been settled out of court and four have trial dates in 2026"
+        ],
+        "stakes_bullets": [
+          "• Ten people claim they have not been adequately protected from exposure to wood dust",
+          "• Six of the claims have been settled out of court and four have trial dates in 2026",
+          "• The wood pellet is made by compressing wood at high pressures and then being ground into dust "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "bc0873e1f7c2"
     },
     {
       "id": "59413f3fb69c",
@@ -6823,6 +6948,37 @@
       "cluster_id": "c843f1a5d0d4"
     },
     {
+      "id": "0bfc96b5e297",
+      "title": "India trials Delhi cloud seeding to clean air in world’s most polluted city",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/24/india-trial-delhi-cloud-seeding-clean-air-world-polluted-city-bharatiya-janata-party",
+      "published_at": "Fri, 24 Oct 2025 07:25:13 GMT",
+      "bullets": [
+        "• The Bharatiya Janata party has been proposing the use of cloud seeding as a way to bring Delhi’s air pollution under control since it was elected to lead the regional government this year",
+        "• Cloud seeding involves using aircraft or drones to add to clouds particles of silver iodide, which have a structure similar to ice "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.972
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Bharatiya Janata party has been proposing the use of cloud seeding as a way to bring Delhi’s air pollution under control since it was elected to lead the regional government this year",
+          "• Cloud seeding involves using aircraft or drones to add to clouds particles of silver iodide, which have a structure similar to ice "
+        ],
+        "hopeful_bullets": [
+          "• The Bharatiya Janata party has been proposing the use of cloud seeding as a way to bring Delhi’s air pollution under control since it was elected to lead the regional government this year",
+          "• Cloud seeding involves using aircraft or drones to add to clouds particles of silver iodide, which have a structure similar to ice "
+        ],
+        "stakes_bullets": [
+          "• The Bharatiya Janata party has been proposing the use of cloud seeding as a way to bring Delhi’s air pollution under control since it was elected to lead the regional government this year"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0f52490543b2"
+    },
+    {
       "id": "4d0ee9c4a489",
       "title": "Federal workers go without pay today. And, NBA stars arrested for illegal gambling",
       "outlet": "NPR Topics: News",
@@ -7014,39 +7170,6 @@
       "cluster_id": "bd2d83d5d151"
     },
     {
-      "id": "df91c26aad1d",
-      "title": "China strikes conciliatory tone ahead of expected Trump-Xi meeting",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/24/china-strikes-conciliatory-tone-ahead-of-expected-trump-xi-meeting.html",
-      "published_at": "Fri, 24 Oct 2025 05:10:33 GMT",
-      "bullets": [
-        "• Chinese Commerce Minister Wang Wentao says the U.S",
-        "• and China can still find ways to work together",
-        "• The two countries can \"find the right path for getting along,\" he said",
-        "• The White House says the presidents of both countries will meet on the sidelines of a summit in South Korea next Thursday "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Chinese Commerce Minister Wang Wentao says the U.S",
-          "• and China can still find ways to work together"
-        ],
-        "hopeful_bullets": [
-          "• Chinese Commerce Minister Wang Wentao says the U.S",
-          "• and China can still find ways to work together"
-        ],
-        "stakes_bullets": [
-          "• The White House says the presidents of both countries will meet on the sidelines of a summit in South Korea next Thursday "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "38a22adc9503"
-    },
-    {
       "id": "e1a783621d66",
       "title": "Here's what experts say 'A House of Dynamite' gets wrong (and right) about nuclear war",
       "outlet": "NPR Topics: News",
@@ -7114,38 +7237,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "cfcbe36c8f6c"
-    },
-    {
-      "id": "c2be71354612",
-      "title": "Why the climate crisis is especially bad news for frightened flyers",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/oct/24/climate-crisis-turbulence-atmosphere",
-      "published_at": "Fri, 24 Oct 2025 05:00:33 GMT",
-      "bullets": [
-        "• Part of the problem is that most of the time you cannot see it coming",
-        "• High in the atmosphere, the jet stream can behave erratically, causing wind shear",
-        "• Mountain-wave turbulence is caused by towering clouds that often bring thunderstorms",
-        "• The problem for the aviation industry is that the climate crisis is making all three types worse "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Part of the problem is that most of the time you cannot see it coming",
-          "• High in the atmosphere, the jet stream can behave erratically, causing wind shear"
-        ],
-        "hopeful_bullets": [
-          "• High in the atmosphere, the jet stream can behave erratically, causing wind shear"
-        ],
-        "stakes_bullets": [
-          "• Mountain-wave turbulence is caused by towering clouds that often bring thunderstorms"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "123e12544738"
     },
     {
       "id": "b7620028e7c2",
@@ -7278,38 +7369,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "2a5a8907c951"
-    },
-    {
-      "id": "72057e512706",
-      "title": "Country diary: A lesson in rest from the Canada geese | Josie George",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/oct/24/country-diary-a-lesson-in-rest-from-the-canada-geese",
-      "published_at": "Fri, 24 Oct 2025 04:30:33 GMT",
-      "bullets": [
-        "• Most of the Canada geese here are happily resident in the UK and no longer migrate",
-        "• But come autumn, with their babies big enough to fly now, an old restlessness seems to stir in them",
-        "• The sound speaks of a longing to me, one that I recognise because autumn brings a restlessness to me "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Most of the Canada geese here are happily resident in the UK and no longer migrate",
-          "• But come autumn, with their babies big enough to fly now, an old restlessness seems to stir in them"
-        ],
-        "hopeful_bullets": [
-          "• Most of the Canada geese here are happily resident in the UK and no longer migrate",
-          "• But come autumn, with their babies big enough to fly now, an old restlessness seems to stir in them"
-        ],
-        "stakes_bullets": [
-          "• The sound speaks of a longing to me, one that I recognise because autumn brings a restlessness to me "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3bfa52ab7241"
     },
     {
       "id": "3675130725f7",
@@ -7574,39 +7633,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "55ab69ce0e60"
-    },
-    {
-      "id": "1b7acd33466c",
-      "title": "In the depths of the ocean, a new contest between the US and China emerges",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/oct/24/us-china-contest-potential-deep-sea-mineral-mining-cook-islands",
-      "published_at": "Fri, 24 Oct 2025 01:45:59 GMT",
-      "bullets": [
-        "• Deep below the surface of the Pacific Ocean, the seafloor is dotted with clusters of brown and black rocks, each containing valuable metals",
-        "• The Cook Islands has some of the most significant deep-sea mineral reserves in the world",
-        "• Demand for critical minerals - including cobalt, nickel and manganese – has surged as nations race to power clean energy and defence technologies "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Deep below the surface of the Pacific Ocean, the seafloor is dotted with clusters of brown and black rocks, each containing valuable metals",
-          "• The Cook Islands has some of the most significant deep-sea mineral reserves in the world"
-        ],
-        "hopeful_bullets": [
-          "• Demand for critical minerals - including cobalt, nickel and manganese – has surged as nations race to power clean energy and defence technologies "
-        ],
-        "stakes_bullets": [
-          "• Deep below the surface of the Pacific Ocean, the seafloor is dotted with clusters of brown and black rocks, each containing valuable metals",
-          "• The Cook Islands has some of the most significant deep-sea mineral reserves in the world",
-          "• Demand for critical minerals - including cobalt, nickel and manganese – has surged as nations race to power clean energy and defence technologies "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "b13adcf5c7be"
     },
     {
       "id": "d9965fbfe6af",
@@ -8240,6 +8266,37 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "c9aecacb622d",
+      "title": "Nike’s inflatable puffer jacket de-puffs to cool you down",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/806188/nike-therma-fit-air-milano-jacket-inflatable-puffer",
+      "published_at": "2025-10-24T11:41:28-04:00",
+      "bullets": [
+        "• The Nike Therma-FIT Air Milano Jacket will make its debut at the 2026 Winter Olympics in Milan, Italy",
+        "• The jacket is made from a soft but durable two-layer composite laminate material that can be inflated or deflated in seconds",
+        "• When deflated it provides about as much warmth as a lightweight hoodie "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.8
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Nike Therma-FIT Air Milano Jacket will make its debut at the 2026 Winter Olympics in Milan, Italy",
+          "• The jacket is made from a soft but durable two-layer composite laminate material that can be inflated or deflated in seconds"
+        ],
+        "hopeful_bullets": [
+          "• The Nike Therma-FIT Air Milano Jacket will make its debut at the 2026 Winter Olympics in Milan, Italy"
+        ],
+        "stakes_bullets": [
+          "• The Nike Therma-FIT Air Milano Jacket will make its debut at the 2026 Winter Olympics in Milan, Italy"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "36b474ede6a8"
+    },
+    {
       "id": "73a8b9445520",
       "title": "DJI’s new Osmo Mobile 8 adds pet tracking and 360-degree camera pans",
       "outlet": "The Verge",
@@ -8533,39 +8590,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "cb0fcc54aad7"
-    },
-    {
-      "id": "abe736dcfecd",
-      "title": "The best Sonos speakers to buy in 2025",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/652171/best-sonos-speakers",
-      "published_at": "2025-10-23T19:00:00-04:00",
-      "bullets": [
-        "• It's been a tough year for the speakers, but they're getting back on track",
-        "• The best-sounding speakers are now available on Amazon and Google Play",
-        "• The company says it's working to improve the sound quality of its speakers and improve the quality of the system "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• It's been a tough year for the speakers, but they're getting back on track",
-          "• The best-sounding speakers are now available on Amazon and Google Play"
-        ],
-        "hopeful_bullets": [
-          "• The company says it's working to improve the sound quality of its speakers and improve the quality of the system "
-        ],
-        "stakes_bullets": [
-          "• It's been a tough year for the speakers, but they're getting back on track",
-          "• The best-sounding speakers are now available on Amazon and Google Play",
-          "• The company says it's working to improve the sound quality of its speakers and improve the quality of the system "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "c31fbd468014"
     },
     {
       "id": "c41ff758b36a",
@@ -9429,13 +9453,13 @@
       ]
     },
     {
-      "id": "6b95bc18e7e9",
-      "topic": "announce another chief military",
+      "id": "a502ebb62bc2",
+      "topic": "alleged announce another chief",
       "keywords": [
+        "alleged",
         "announce",
         "another",
         "chief",
-        "military",
         "pentagon",
         "strike"
       ],
@@ -9753,6 +9777,24 @@
       ]
     },
     {
+      "id": "5a0d825b73c7",
+      "topic": "amd ibm pops report",
+      "keywords": [
+        "amd",
+        "ibm",
+        "pops",
+        "report",
+        "stock",
+        "use"
+      ],
+      "item_ids": [
+        "3653b5f7258e"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "315a962fd5a4",
       "topic": "foe guilty jame letitia",
       "keywords": [
@@ -9837,24 +9879,6 @@
       ],
       "item_ids": [
         "f46d0c0fd8e8"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "38a22adc9503",
-      "topic": "ahead china conciliatory expected",
-      "keywords": [
-        "ahead",
-        "china",
-        "conciliatory",
-        "expected",
-        "strike",
-        "tone"
-      ],
-      "item_ids": [
-        "df91c26aad1d"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10052,6 +10076,24 @@
       ]
     },
     {
+      "id": "36b474ede6a8",
+      "topic": "cool inflatable jacket nike",
+      "keywords": [
+        "cool",
+        "inflatable",
+        "jacket",
+        "nike",
+        "puff",
+        "puffer"
+      ],
+      "item_ids": [
+        "c9aecacb622d"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "2bb115d2b7b7",
       "topic": "adds dji mobile osmo",
       "keywords": [
@@ -10205,23 +10247,6 @@
       ],
       "item_ids": [
         "eccd5c710180"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "c31fbd468014",
-      "topic": "2025 best buy sono",
-      "keywords": [
-        "2025",
-        "best",
-        "buy",
-        "sono",
-        "speaker"
-      ],
-      "item_ids": [
-        "abe736dcfecd"
       ],
       "outlets": [
         "The Verge"
@@ -10970,18 +10995,108 @@
       ]
     },
     {
-      "id": "287979e40b60",
-      "topic": "avoid contaminated hard pesticide",
+      "id": "f2860a7090c9",
+      "topic": "approve gas house increased",
       "keywords": [
-        "avoid",
-        "contaminated",
-        "hard",
-        "pesticide",
-        "reveal",
-        "study"
+        "approve",
+        "gas",
+        "house",
+        "increased",
+        "oil",
+        "white"
       ],
       "item_ids": [
-        "8c28da114f45"
+        "c42ad93d3b2b"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "029d3d4ea137",
+      "topic": "blackfeet centurie montana nation",
+      "keywords": [
+        "blackfeet",
+        "centurie",
+        "montana",
+        "nation",
+        "trauma",
+        "turn"
+      ],
+      "item_ids": [
+        "c078221a22cb"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "bf5bb6c56187",
+      "topic": "flooding heatwave lead marine",
+      "keywords": [
+        "flooding",
+        "heatwave",
+        "lead",
+        "marine",
+        "ocean",
+        "pacific"
+      ],
+      "item_ids": [
+        "fb950b50dd76"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "b4141233a306",
+      "topic": "allow climate demand reverse",
+      "keywords": [
+        "allow",
+        "climate",
+        "demand",
+        "reverse",
+        "rule",
+        "surge"
+      ],
+      "item_ids": [
+        "e8eecf72c69a"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "c6606de01859",
+      "topic": "2025 climate costliest disaster",
+      "keywords": [
+        "2025",
+        "climate",
+        "costliest",
+        "disaster",
+        "first",
+        "half"
+      ],
+      "item_ids": [
+        "af37c46f5dc3"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "5620a120f242",
+      "topic": "drought drove flooding home",
+      "keywords": [
+        "drought",
+        "drove",
+        "flooding",
+        "home",
+        "now",
+        "seeking"
+      ],
+      "item_ids": [
+        "197dd713abf0"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11006,108 +11121,36 @@
       ]
     },
     {
-      "id": "427dc4e6b6c4",
-      "topic": "airport expansion goal net",
+      "id": "bc0873e1f7c2",
+      "topic": "claim developed drax face",
       "keywords": [
-        "airport",
-        "expansion",
-        "goal",
-        "net",
-        "put",
-        "zero"
+        "claim",
+        "developed",
+        "drax",
+        "face",
+        "lawsuit",
+        "worker"
       ],
       "item_ids": [
-        "2f871201a838"
+        "596f377975d3"
       ],
       "outlets": [
         "Environment | The Guardian"
       ]
     },
     {
-      "id": "123e12544738",
-      "topic": "bad climate crisi especially",
+      "id": "0f52490543b2",
+      "topic": "clean cloud delhi india",
       "keywords": [
-        "bad",
-        "climate",
-        "crisi",
-        "especially",
-        "flyer",
-        "frightened"
+        "clean",
+        "cloud",
+        "delhi",
+        "india",
+        "seeding",
+        "trial"
       ],
       "item_ids": [
-        "c2be71354612"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "3bfa52ab7241",
-      "topic": "canada country diary geese",
-      "keywords": [
-        "canada",
-        "country",
-        "diary",
-        "geese",
-        "lesson",
-        "rest"
-      ],
-      "item_ids": [
-        "72057e512706"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "7a182c7f2a4b",
-      "topic": "england ranked supplier thame",
-      "keywords": [
-        "england",
-        "ranked",
-        "supplier",
-        "thame",
-        "water",
-        "worst"
-      ],
-      "item_ids": [
-        "147e031dfa21"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "b13adcf5c7be",
-      "topic": "between china contest depth",
-      "keywords": [
-        "between",
-        "china",
-        "contest",
-        "depth",
-        "emerge",
-        "ocean"
-      ],
-      "item_ids": [
-        "1b7acd33466c"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "029d3d4ea137",
-      "topic": "blackfeet centurie montana nation",
-      "keywords": [
-        "blackfeet",
-        "centurie",
-        "montana",
-        "nation",
-        "trauma",
-        "turn"
-      ],
-      "item_ids": [
-        "c078221a22cb"
+        "0bfc96b5e297"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -12951,6 +12994,42 @@
       ]
     },
     {
+      "id": "cd495a8ce8e4",
+      "topic": "character marvel most obscure",
+      "keywords": [
+        "character",
+        "marvel",
+        "most",
+        "obscure",
+        "ultimate",
+        "universe"
+      ],
+      "item_ids": [
+        "c5dbec92f656"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "c46ced1155cf",
+      "topic": "harry important isn most",
+      "keywords": [
+        "harry",
+        "important",
+        "isn",
+        "most",
+        "potter",
+        "scene"
+      ],
+      "item_ids": [
+        "47312bce8f44"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "4dd05cebd06e",
       "topic": "anime best binge crunchyroll",
       "keywords": [
@@ -13088,42 +13167,6 @@
       ],
       "item_ids": [
         "6b510f5e6cdc"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "054df2459d02",
-      "topic": "king kong lasted only",
-      "keywords": [
-        "king",
-        "kong",
-        "lasted",
-        "only",
-        "season",
-        "story"
-      ],
-      "item_ids": [
-        "3e93b4eb2af2"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "acb6b0cf6e0e",
-      "topic": "best film instantly king",
-      "keywords": [
-        "best",
-        "film",
-        "instantly",
-        "king",
-        "stephen",
-        "year"
-      ],
-      "item_ids": [
-        "6eed4761531e"
       ],
       "outlets": [
         "CBR"
