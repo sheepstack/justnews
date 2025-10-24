@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T11:00:49Z",
+  "generated_at": "2025-10-24T11:18:55Z",
   "items": [
     {
       "id": "88a01c1d8865",
@@ -1332,37 +1332,38 @@
       "cluster_id": "fc9cd4871d21"
     },
     {
-      "id": "62afe9146451",
-      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
+      "id": "1715b5cad651",
+      "title": "Trump EPA seeks to weaken scrutiny for some of US’s most toxic chemicals",
       "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
+      "url": "https://www.theguardian.com/environment/2025/oct/21/trump-epa-toxic-chemicals",
       "published_at": "Tue, 21 Oct 2025 12:00:36 GMT",
       "bullets": [
-        "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-        "• But funding for the program has been stalled as winter approaches",
-        "• Millions of Americans face having to rely on the money to pay their bills "
+        "• The new rule would reduce the time it takes to review chemicals that are already on the market",
+        "• The chemicals include formaldehyde, formaldehyde and dioxins",
+        "• It would also invalidate hundreds of state-level restrictions on the chemicals",
+        "• The rule would be a \"gift to industry wrapped on golden wrapping paper with a big bow\""
       ],
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.984
       },
       "moods": {
         "brief_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
+          "• The new rule would reduce the time it takes to review chemicals that are already on the market",
+          "• The chemicals include formaldehyde, formaldehyde and dioxins"
         ],
         "hopeful_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
+          "• The new rule would reduce the time it takes to review chemicals that are already on the market"
         ],
         "stakes_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• Millions of Americans face having to rely on the money to pay their bills "
+          "• The new rule would reduce the time it takes to review chemicals that are already on the market",
+          "• The chemicals include formaldehyde, formaldehyde and dioxins",
+          "• It would also invalidate hundreds of state-level restrictions on the chemicals"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "50ee20333dc8"
+      "read_minutes": 4,
+      "cluster_id": "4fa56ccbfa2c"
     },
     {
       "id": "3c605d87c975",
@@ -5619,7 +5620,7 @@
           "• Post came after Canadian prime minister Mark Carney said he aims to double his country’s exports to countries outside the US because of the threat posed by tariffs "
         ]
       },
-      "read_minutes": 8,
+      "read_minutes": 9,
       "cluster_id": "9df79a5c7e5f"
     },
     {
@@ -6471,39 +6472,6 @@
       "cluster_id": "d1e4f05eb86d"
     },
     {
-      "id": "e1a783621d66",
-      "title": "Here's what experts say 'A House of Dynamite' gets wrong (and right) about nuclear war",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/24/nx-s1-5580534/house-of-dynamite-experts-review",
-      "published_at": "Fri, 24 Oct 2025 05:01:00 -0400",
-      "bullets": [
-        "• Kathryn Bigalow's latest film, A House of Dynamite, opens in the opening minutes",
-        "• A single nuclear warhead is lobbed from somewhere in the Pacific towards the U.S",
-        "• mainland",
-        "• America's leadership has less than half an hour to decide whether to order a massive nuclear counterstrike "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Kathryn Bigalow's latest film, A House of Dynamite, opens in the opening minutes",
-          "• A single nuclear warhead is lobbed from somewhere in the Pacific towards the U.S"
-        ],
-        "hopeful_bullets": [
-          "• Kathryn Bigalow's latest film, A House of Dynamite, opens in the opening minutes",
-          "• A single nuclear warhead is lobbed from somewhere in the Pacific towards the U.S"
-        ],
-        "stakes_bullets": [
-          "• America's leadership has less than half an hour to decide whether to order a massive nuclear counterstrike "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "83384f78335f"
-    },
-    {
       "id": "9fc98c7c2821",
       "title": "It's supposed to be payday for many federal workers. Instead, they're getting nothing",
       "outlet": "NPR Topics: News",
@@ -6537,6 +6505,39 @@
       },
       "read_minutes": 5,
       "cluster_id": "cfcbe36c8f6c"
+    },
+    {
+      "id": "e1a783621d66",
+      "title": "Here's what experts say 'A House of Dynamite' gets wrong (and right) about nuclear war",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/24/nx-s1-5580534/house-of-dynamite-experts-review",
+      "published_at": "Fri, 24 Oct 2025 05:01:00 -0400",
+      "bullets": [
+        "• Kathryn Bigalow's latest film, A House of Dynamite, opens in the opening minutes",
+        "• A single nuclear warhead is lobbed from somewhere in the Pacific towards the U.S",
+        "• mainland",
+        "• America's leadership has less than half an hour to decide whether to order a massive nuclear counterstrike "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kathryn Bigalow's latest film, A House of Dynamite, opens in the opening minutes",
+          "• A single nuclear warhead is lobbed from somewhere in the Pacific towards the U.S"
+        ],
+        "hopeful_bullets": [
+          "• Kathryn Bigalow's latest film, A House of Dynamite, opens in the opening minutes",
+          "• A single nuclear warhead is lobbed from somewhere in the Pacific towards the U.S"
+        ],
+        "stakes_bullets": [
+          "• America's leadership has less than half an hour to decide whether to order a massive nuclear counterstrike "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "83384f78335f"
     },
     {
       "id": "b7620028e7c2",
@@ -9394,24 +9395,6 @@
       ]
     },
     {
-      "id": "83384f78335f",
-      "topic": "dynamite expert gets here",
-      "keywords": [
-        "dynamite",
-        "expert",
-        "gets",
-        "here",
-        "house",
-        "say"
-      ],
-      "item_ids": [
-        "e1a783621d66"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "cfcbe36c8f6c",
       "topic": "federal instead many payday",
       "keywords": [
@@ -9424,6 +9407,24 @@
       ],
       "item_ids": [
         "9fc98c7c2821"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "83384f78335f",
+      "topic": "dynamite expert gets here",
+      "keywords": [
+        "dynamite",
+        "expert",
+        "gets",
+        "here",
+        "house",
+        "say"
+      ],
+      "item_ids": [
+        "e1a783621d66"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9574,24 +9575,6 @@
       ]
     },
     {
-      "id": "0bde8a6fcb28",
-      "topic": "broke meta rule tiktok",
-      "keywords": [
-        "broke",
-        "meta",
-        "rule",
-        "tiktok",
-        "transparency",
-        "under"
-      ],
-      "item_ids": [
-        "29d3fac6e50a"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "8804c8ab4ffc",
       "topic": "beat earning first intel",
       "keywords": [
@@ -9663,6 +9646,24 @@
       ]
     },
     {
+      "id": "4831428ce1af",
+      "topic": "bust gambling illegal nba",
+      "keywords": [
+        "bust",
+        "gambling",
+        "illegal",
+        "nba",
+        "put",
+        "sportsbook"
+      ],
+      "item_ids": [
+        "7d7061041471"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "1e5b3e148b1a",
       "topic": "ballroom big financed house",
       "keywords": [
@@ -9681,18 +9682,18 @@
       ]
     },
     {
-      "id": "4831428ce1af",
-      "topic": "bust gambling illegal nba",
+      "id": "0bde8a6fcb28",
+      "topic": "broke meta rule tiktok",
       "keywords": [
-        "bust",
-        "gambling",
-        "illegal",
-        "nba",
-        "put",
-        "sportsbook"
+        "broke",
+        "meta",
+        "rule",
+        "tiktok",
+        "transparency",
+        "under"
       ],
       "item_ids": [
-        "7d7061041471"
+        "29d3fac6e50a"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10883,18 +10884,18 @@
       ]
     },
     {
-      "id": "50ee20333dc8",
-      "topic": "delay fear heat million",
+      "id": "4fa56ccbfa2c",
+      "topic": "epa scrutiny seek some",
       "keywords": [
-        "delay",
-        "fear",
-        "heat",
-        "million",
-        "rationing",
-        "shutdown"
+        "epa",
+        "scrutiny",
+        "seek",
+        "some",
+        "trump",
+        "weaken"
       ],
       "item_ids": [
-        "62afe9146451"
+        "1715b5cad651"
       ],
       "outlets": [
         "Environment | The Guardian"
