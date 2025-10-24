@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T23:53:59Z",
+  "generated_at": "2025-10-24T00:03:57Z",
   "items": [
     {
       "id": "88ec72be0cba",
@@ -1785,37 +1785,38 @@
       "cluster_id": "fc9cd4871d21"
     },
     {
-      "id": "62afe9146451",
-      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
+      "id": "1715b5cad651",
+      "title": "Trump EPA seeks to weaken scrutiny for some of US’s most toxic chemicals",
       "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
+      "url": "https://www.theguardian.com/environment/2025/oct/21/trump-epa-toxic-chemicals",
       "published_at": "Tue, 21 Oct 2025 12:00:36 GMT",
       "bullets": [
-        "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-        "• But funding for the program has been stalled as winter approaches",
-        "• Millions of Americans face having to rely on the money to pay their bills "
+        "• The new rule would reduce the time it takes to review chemicals that are already on the market",
+        "• The chemicals include formaldehyde, formaldehyde and dioxins",
+        "• It would also invalidate hundreds of state-level restrictions on the chemicals",
+        "• The rule would be a \"gift to industry wrapped on golden wrapping paper with a big bow\""
       ],
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.984
       },
       "moods": {
         "brief_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
+          "• The new rule would reduce the time it takes to review chemicals that are already on the market",
+          "• The chemicals include formaldehyde, formaldehyde and dioxins"
         ],
         "hopeful_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• But funding for the program has been stalled as winter approaches"
+          "• The new rule would reduce the time it takes to review chemicals that are already on the market"
         ],
         "stakes_bullets": [
-          "• Low-Income Home Energy Assistance Program (Liheap) helps low-income families pay energy bills",
-          "• Millions of Americans face having to rely on the money to pay their bills "
+          "• The new rule would reduce the time it takes to review chemicals that are already on the market",
+          "• The chemicals include formaldehyde, formaldehyde and dioxins",
+          "• It would also invalidate hundreds of state-level restrictions on the chemicals"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "50ee20333dc8"
+      "read_minutes": 4,
+      "cluster_id": "4fa56ccbfa2c"
     },
     {
       "id": "96b3c0e15480",
@@ -2113,6 +2114,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "97b15df7b93f"
+    },
+    {
+      "id": "cb2d95fdaad6",
+      "title": "EU fails to back frozen Russian cash loan - but vows to support Ukraine",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn8v0zyx9zyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 23 Oct 2025 23:32:39 GMT",
+      "bullets": [
+        "• EU fails to back frozen Russian cash to help Ukraine's defence",
+        "• Move would be the latest in a series of sanctions imposed on Russia over its oil industry",
+        "• Decision to use frozen Russian assets held in a Belgian clearing house pushed back until December",
+        "• But EU leaders say they will work out a formal plan for the next two years "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.95
+      },
+      "moods": {
+        "brief_bullets": [
+          "• EU fails to back frozen Russian cash to help Ukraine's defence",
+          "• Move would be the latest in a series of sanctions imposed on Russia over its oil industry"
+        ],
+        "hopeful_bullets": [
+          "• EU fails to back frozen Russian cash to help Ukraine's defence"
+        ],
+        "stakes_bullets": [
+          "• But EU leaders say they will work out a formal plan for the next two years "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d0c6415be8c2"
     },
     {
       "id": "1a70a7c647ea",
@@ -2607,6 +2640,39 @@
       "cluster_id": "55101291e0e4"
     },
     {
+      "id": "ac1a3d93791a",
+      "title": "Applied Materials lays off 4% of workforce",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/23/applied-materials-lays-off-4percent-of-workforce.html",
+      "published_at": "Thu, 23 Oct 2025 22:50:08 GMT",
+      "bullets": [
+        "• The move comes at the end of the U.S",
+        "• fiscal year",
+        "• The company expects to incur $160 million to $180 million in one-time costs",
+        "• The move is a way to position itself \"as a more competitive and productive place,\" the company says "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.746
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The move comes at the end of the U.S",
+          "• fiscal year"
+        ],
+        "hopeful_bullets": [
+          "• The move comes at the end of the U.S",
+          "• fiscal year"
+        ],
+        "stakes_bullets": [
+          "• The company expects to incur $160 million to $180 million in one-time costs"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e5178ec6cbe4"
+    },
+    {
       "id": "daa72e1b856c",
       "title": "‘Mockbuster’: New Documentary Reveals the Studio Behind B-Movie Parodies Like ‘Sharknado’",
       "outlet": "Dread Central",
@@ -2776,62 +2842,30 @@
       "url": "https://www.theguardian.com/us-news/live/2025/oct/23/trump-san-francisco-federal-agents-white-house-ice-immigration-latest-news-updates",
       "published_at": "Thu, 23 Oct 2025 22:36:53 GMT",
       "bullets": [
-        "• Trump says that he will 'take care of Chicago', continues threats to deploy national guard to Chicago indefinitely",
-        "• A federal judge in Texas dismissed a lawsuit filed by a Republican congressman who argued that California’s redistricting proposal would cause him personal injury and should be blocked "
+        "• Trump says that he will 'take care of Chicago', continues threats to deploy national guard",
+        "• Administration files emergency appeal to supreme court after judge blocks deployment of troops to Chicago indefinitely",
+        "• Trump says 'a friend' sent him a check for $130m to pay military salaries during the shutdown "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.975
+        "score": 0.978
       },
       "moods": {
         "brief_bullets": [
-          "• Trump says that he will 'take care of Chicago', continues threats to deploy national guard to Chicago indefinitely",
-          "• A federal judge in Texas dismissed a lawsuit filed by a Republican congressman who argued that California’s redistricting proposal would cause him personal injury and should be blocked "
+          "• Trump says that he will 'take care of Chicago', continues threats to deploy national guard",
+          "• Administration files emergency appeal to supreme court after judge blocks deployment of troops to Chicago indefinitely"
         ],
         "hopeful_bullets": [
-          "• Trump says that he will 'take care of Chicago', continues threats to deploy national guard to Chicago indefinitely",
-          "• A federal judge in Texas dismissed a lawsuit filed by a Republican congressman who argued that California’s redistricting proposal would cause him personal injury and should be blocked "
+          "• Trump says that he will 'take care of Chicago', continues threats to deploy national guard",
+          "• Administration files emergency appeal to supreme court after judge blocks deployment of troops to Chicago indefinitely"
         ],
         "stakes_bullets": [
-          "• Trump says that he will 'take care of Chicago', continues threats to deploy national guard to Chicago indefinitely",
-          "• A federal judge in Texas dismissed a lawsuit filed by a Republican congressman who argued that California’s redistricting proposal would cause him personal injury and should be blocked "
+          "• Trump says that he will 'take care of Chicago', continues threats to deploy national guard"
         ]
       },
-      "read_minutes": 10,
+      "read_minutes": 11,
       "cluster_id": "9da8b0fbd00d"
-    },
-    {
-      "id": "103c1fc3bf86",
-      "title": "Why Jim Cramer thinks it pays to bet on the bulls",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/23/jim-cramer-bulls-bet.html",
-      "published_at": "Thu, 23 Oct 2025 22:33:47 GMT",
-      "bullets": [
-        "• CNBC's Jim Cramer says the market is not \"a bunch of coins to be flipped,\" but \"a collection of companies to be invested in\" Many are concerned about how the government shutdown impacts the market, Cramer said",
-        "• Cramer also suggested fears about tensions between the U.S",
-        "• and China can be overblown "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• CNBC's Jim Cramer says the market is not \"a bunch of coins to be flipped,\" but \"a collection of companies to be invested in\" Many are concerned about how the government shutdown impacts the market, Cramer said",
-          "• Cramer also suggested fears about tensions between the U.S"
-        ],
-        "hopeful_bullets": [
-          "• CNBC's Jim Cramer says the market is not \"a bunch of coins to be flipped,\" but \"a collection of companies to be invested in\" Many are concerned about how the government shutdown impacts the market, Cramer said",
-          "• Cramer also suggested fears about tensions between the U.S"
-        ],
-        "stakes_bullets": [
-          "• CNBC's Jim Cramer says the market is not \"a bunch of coins to be flipped,\" but \"a collection of companies to be invested in\" Many are concerned about how the government shutdown impacts the market, Cramer said"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c95a35dbffa1"
     },
     {
       "id": "c42ad93d3b2b",
@@ -3313,36 +3347,38 @@
       "cluster_id": "716c2e1169d0"
     },
     {
-      "id": "fd7846494bc1",
-      "title": "Former Knicks star Carmelo Anthony says gambling puts pressure on athletes",
+      "id": "c271cda1fc77",
+      "title": "LeBron James, Anthony Davis injury information leaked to bettors, NBA gambling indictment suggests",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/23/carmelo-anthony-nba-bets-gambling-pressure.html",
-      "published_at": "Thu, 23 Oct 2025 21:42:46 GMT",
+      "url": "https://www.cnbc.com/2025/10/23/nba-lebron-james-sports-betting-gambling-info-indictment.html",
+      "published_at": "Thu, 23 Oct 2025 21:45:35 GMT",
       "bullets": [
-        "• Carmelo Anthony says gambling culture \"mentally affects\" athletes",
-        "• NBA star says gambling is \"changing the narrative of the game\" NBA legend says he expects consequences to follow the latest allegations",
-        "• Anthony was not involved in the investigation into alleged insider bets on basketball games "
+        "• Damon Jones and four others charged with defrauding betting companies and conspiracy to commit money laundering in the case",
+        "• Indictment says Jones leaked information to bettors about the injury status of LeBron James",
+        "• Neither James nor Anthony Davis are accused of wrongdoing in the federal indictment "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.979
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• Carmelo Anthony says gambling culture \"mentally affects\" athletes",
-          "• NBA star says gambling is \"changing the narrative of the game\" NBA legend says he expects consequences to follow the latest allegations"
+          "• Damon Jones and four others charged with defrauding betting companies and conspiracy to commit money laundering in the case",
+          "• Indictment says Jones leaked information to bettors about the injury status of LeBron James"
         ],
         "hopeful_bullets": [
-          "• Carmelo Anthony says gambling culture \"mentally affects\" athletes",
-          "• NBA star says gambling is \"changing the narrative of the game\" NBA legend says he expects consequences to follow the latest allegations"
+          "• Damon Jones and four others charged with defrauding betting companies and conspiracy to commit money laundering in the case",
+          "• Indictment says Jones leaked information to bettors about the injury status of LeBron James"
         ],
         "stakes_bullets": [
-          "• Carmelo Anthony says gambling culture \"mentally affects\" athletes"
+          "• Damon Jones and four others charged with defrauding betting companies and conspiracy to commit money laundering in the case",
+          "• Indictment says Jones leaked information to bettors about the injury status of LeBron James",
+          "• Neither James nor Anthony Davis are accused of wrongdoing in the federal indictment "
         ]
       },
-      "read_minutes": 1,
-      "cluster_id": "67944c8d2656"
+      "read_minutes": 3,
+      "cluster_id": "bef17f3b944d"
     },
     {
       "id": "f46d0c0fd8e8",
@@ -4463,40 +4499,6 @@
       "cluster_id": "15fe061f66b4"
     },
     {
-      "id": "1b0bec3a07fb",
-      "title": "Staghorn and Elkhorn Coral Are Functionally Extinct Off Florida, Researchers Say",
-      "outlet": "NYT > Climate and Environment",
-      "url": "https://www.nytimes.com/2025/10/23/climate/coral-bleaching-florida-staghorn-elkorn.html",
-      "published_at": "Thu, 23 Oct 2025 18:00:19 +0000",
-      "bullets": [
-        "• Elkhorn and staghorn coral have all but vanished everywhere except the northernmost sections of the reef",
-        "• Coral reefs support an estimated quarter of marine species, including fish that provide protein and income in coastal communities",
-        "• The findings are a bracing example of the toll that climate change is wreaking on the world’s coral reefs "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Elkhorn and staghorn coral have all but vanished everywhere except the northernmost sections of the reef",
-          "• Coral reefs support an estimated quarter of marine species, including fish that provide protein and income in coastal communities"
-        ],
-        "hopeful_bullets": [
-          "• Elkhorn and staghorn coral have all but vanished everywhere except the northernmost sections of the reef",
-          "• Coral reefs support an estimated quarter of marine species, including fish that provide protein and income in coastal communities"
-        ],
-        "stakes_bullets": [
-          "• Elkhorn and staghorn coral have all but vanished everywhere except the northernmost sections of the reef",
-          "• Coral reefs support an estimated quarter of marine species, including fish that provide protein and income in coastal communities",
-          "• The findings are a bracing example of the toll that climate change is wreaking on the world’s coral reefs "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1a5ed61d5f1f"
-    },
-    {
       "id": "f4994d21ac53",
       "title": "Colombia urges US to halt strikes on alleged drug-smuggling boats: ‘It is murder’",
       "outlet": "World news | The Guardian",
@@ -4797,40 +4799,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "d7e6d1a9f76d"
-    },
-    {
-      "id": "cb2d95fdaad6",
-      "title": "Ukraine urges EU to back loan using frozen Russian cash",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn8v0zyx9zyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 23 Oct 2025 16:06:24 GMT",
-      "bullets": [
-        "• Ukraine urges EU to back loan using frozen Russian assets held in Belgian clearing house",
-        "• Volodymyr Zelensky wants to use €140bn (£122bn) in Russian assets to fund country's defence",
-        "• Move would be on top of sanctions imposed on Russia - latest on Thursday targeting the Kremlin's oil revenues "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ukraine urges EU to back loan using frozen Russian assets held in Belgian clearing house",
-          "• Volodymyr Zelensky wants to use €140bn (£122bn) in Russian assets to fund country's defence"
-        ],
-        "hopeful_bullets": [
-          "• Ukraine urges EU to back loan using frozen Russian assets held in Belgian clearing house",
-          "• Volodymyr Zelensky wants to use €140bn (£122bn) in Russian assets to fund country's defence"
-        ],
-        "stakes_bullets": [
-          "• Ukraine urges EU to back loan using frozen Russian assets held in Belgian clearing house",
-          "• Volodymyr Zelensky wants to use €140bn (£122bn) in Russian assets to fund country's defence",
-          "• Move would be on top of sanctions imposed on Russia - latest on Thursday targeting the Kremlin's oil revenues "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "5551b22d566d"
     },
     {
       "id": "6bbe99315099",
@@ -9037,15 +9005,15 @@
   ],
   "clusters": [
     {
-      "id": "5551b22d566d",
-      "topic": "back frozen loan ukraine",
+      "id": "d0c6415be8c2",
+      "topic": "back cash fail frozen",
       "keywords": [
         "back",
+        "cash",
+        "fail",
         "frozen",
         "loan",
-        "ukraine",
-        "urge",
-        "using"
+        "russian"
       ],
       "item_ids": [
         "cb2d95fdaad6"
@@ -9791,24 +9759,6 @@
       ]
     },
     {
-      "id": "9485544c3df3",
-      "topic": "disney espn network other",
-      "keywords": [
-        "disney",
-        "espn",
-        "network",
-        "other",
-        "out",
-        "warn"
-      ],
-      "item_ids": [
-        "344b7ba13b8f"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "a55a5dfeeaef",
       "topic": "build chatbot chief company",
       "keywords": [
@@ -9827,6 +9777,59 @@
       ]
     },
     {
+      "id": "e5178ec6cbe4",
+      "topic": "applied lays material off",
+      "keywords": [
+        "applied",
+        "lays",
+        "material",
+        "off",
+        "workforce"
+      ],
+      "item_ids": [
+        "ac1a3d93791a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "9485544c3df3",
+      "topic": "disney espn network other",
+      "keywords": [
+        "disney",
+        "espn",
+        "network",
+        "other",
+        "out",
+        "warn"
+      ],
+      "item_ids": [
+        "344b7ba13b8f"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "bef17f3b944d",
+      "topic": "anthony davi information injury",
+      "keywords": [
+        "anthony",
+        "davi",
+        "information",
+        "injury",
+        "jame",
+        "lebron"
+      ],
+      "item_ids": [
+        "c271cda1fc77"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "8d7c15d2ed42",
       "topic": "big everyone friday inflation",
       "keywords": [
@@ -9839,24 +9842,6 @@
       ],
       "item_ids": [
         "0779f13bd4fc"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "31cc3a25adb1",
-      "topic": "american apple begin made",
-      "keywords": [
-        "american",
-        "apple",
-        "begin",
-        "made",
-        "server",
-        "shipping"
-      ],
-      "item_ids": [
-        "f46d0c0fd8e8"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9899,36 +9884,18 @@
       ]
     },
     {
-      "id": "67944c8d2656",
-      "topic": "anthony carmelo former gambling",
+      "id": "31cc3a25adb1",
+      "topic": "american apple begin made",
       "keywords": [
-        "anthony",
-        "carmelo",
-        "former",
-        "gambling",
-        "knick",
-        "star"
+        "american",
+        "apple",
+        "begin",
+        "made",
+        "server",
+        "shipping"
       ],
       "item_ids": [
-        "fd7846494bc1"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "c95a35dbffa1",
-      "topic": "bet bull cramer jim",
-      "keywords": [
-        "bet",
-        "bull",
-        "cramer",
-        "jim",
-        "pays",
-        "think"
-      ],
-      "item_ids": [
-        "103c1fc3bf86"
+        "f46d0c0fd8e8"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -11137,18 +11104,18 @@
       ]
     },
     {
-      "id": "50ee20333dc8",
-      "topic": "delay fear heat million",
+      "id": "4fa56ccbfa2c",
+      "topic": "epa scrutiny seek some",
       "keywords": [
-        "delay",
-        "fear",
-        "heat",
-        "million",
-        "rationing",
-        "shutdown"
+        "epa",
+        "scrutiny",
+        "seek",
+        "some",
+        "trump",
+        "weaken"
       ],
       "item_ids": [
-        "62afe9146451"
+        "1715b5cad651"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11206,24 +11173,6 @@
       ],
       "outlets": [
         "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "1a5ed61d5f1f",
-      "topic": "coral elkhorn extinct functionally",
-      "keywords": [
-        "coral",
-        "elkhorn",
-        "extinct",
-        "functionally",
-        "off",
-        "staghorn"
-      ],
-      "item_ids": [
-        "1b0bec3a07fb"
-      ],
-      "outlets": [
-        "NYT > Climate and Environment"
       ]
     },
     {
