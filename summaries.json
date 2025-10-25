@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T06:13:45Z",
+  "generated_at": "2025-10-25T07:07:19Z",
   "items": [
     {
       "id": "88a01c1d8865",
@@ -2590,6 +2590,73 @@
       },
       "read_minutes": 40,
       "cluster_id": "077fbd269b7a"
+    },
+    {
+      "id": "443b3c21cb9f",
+      "title": "Trump says he would be open to meeting Kim Jong-un as he embarks on whirlwind Asia tour",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/25/trump-open-to-meeting-kim-jong-un-asia-tour-japan-korea-xi-jinping",
+      "published_at": "Sat, 25 Oct 2025 06:01:02 GMT",
+      "bullets": [
+        "• Donald Trump has embarked on a five-day trip to Malaysia, Japan and South Korea",
+        "• Set to meet Xi Jinping on the last day of his trip to seal a deal to end the bruising trade war between the world’s two biggest economies",
+        "• Trump said he was open to meeting Kim Jong-un for the first time since 2019 "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump has embarked on a five-day trip to Malaysia, Japan and South Korea",
+          "• Set to meet Xi Jinping on the last day of his trip to seal a deal to end the bruising trade war between the world’s two biggest economies"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump has embarked on a five-day trip to Malaysia, Japan and South Korea",
+          "• Set to meet Xi Jinping on the last day of his trip to seal a deal to end the bruising trade war between the world’s two biggest economies"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump has embarked on a five-day trip to Malaysia, Japan and South Korea",
+          "• Set to meet Xi Jinping on the last day of his trip to seal a deal to end the bruising trade war between the world’s two biggest economies",
+          "• Trump said he was open to meeting Kim Jong-un for the first time since 2019 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "721be9a4f6dd"
+    },
+    {
+      "id": "0767c8f29fc8",
+      "title": "‘Enforced veganism’: Ofcom lets GB News flout accuracy rules, say climate campaigners",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/oct/25/enforced-veganism-ofcom-gb-news-flout-accuracy-rules-say-climate-campaigners",
+      "published_at": "Sat, 25 Oct 2025 06:00:27 GMT",
+      "bullets": [
+        "• Ofcom has received 1,221 complaints related to climate crisis since January 2020",
+        "• None resulted in a ruling that the broadcasting code had been breached",
+        "• Only two such breaches have been found since 2007",
+        "• GB News said the complaints were politically motivated and wanted to shut down debate "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ofcom has received 1,221 complaints related to climate crisis since January 2020",
+          "• None resulted in a ruling that the broadcasting code had been breached"
+        ],
+        "hopeful_bullets": [
+          "• Ofcom has received 1,221 complaints related to climate crisis since January 2020",
+          "• None resulted in a ruling that the broadcasting code had been breached"
+        ],
+        "stakes_bullets": [
+          "• None resulted in a ruling that the broadcasting code had been breached"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "3f7e07458b6c"
     },
     {
       "id": "8a4b7aa5bc72",
@@ -7380,37 +7447,6 @@
       "cluster_id": "66e9e3333d72"
     },
     {
-      "id": "0bfc96b5e297",
-      "title": "India trials Delhi cloud seeding to clean air in world’s most polluted city",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/oct/24/india-trial-delhi-cloud-seeding-clean-air-world-polluted-city-bharatiya-janata-party",
-      "published_at": "Fri, 24 Oct 2025 07:25:13 GMT",
-      "bullets": [
-        "• The Bharatiya Janata party has been proposing the use of cloud seeding as a way to bring Delhi’s air pollution under control since it was elected to lead the regional government this year",
-        "• Cloud seeding involves using aircraft or drones to add to clouds particles of silver iodide, which have a structure similar to ice "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Bharatiya Janata party has been proposing the use of cloud seeding as a way to bring Delhi’s air pollution under control since it was elected to lead the regional government this year",
-          "• Cloud seeding involves using aircraft or drones to add to clouds particles of silver iodide, which have a structure similar to ice "
-        ],
-        "hopeful_bullets": [
-          "• The Bharatiya Janata party has been proposing the use of cloud seeding as a way to bring Delhi’s air pollution under control since it was elected to lead the regional government this year",
-          "• Cloud seeding involves using aircraft or drones to add to clouds particles of silver iodide, which have a structure similar to ice "
-        ],
-        "stakes_bullets": [
-          "• The Bharatiya Janata party has been proposing the use of cloud seeding as a way to bring Delhi’s air pollution under control since it was elected to lead the regional government this year"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "0f52490543b2"
-    },
-    {
       "id": "4d0ee9c4a489",
       "title": "Federal workers go without pay today. And, NBA stars arrested for illegal gambling",
       "outlet": "NPR Topics: Politics",
@@ -9559,6 +9595,24 @@
       ]
     },
     {
+      "id": "721be9a4f6dd",
+      "topic": "embark jong kim meeting",
+      "keywords": [
+        "embark",
+        "jong",
+        "kim",
+        "meeting",
+        "open",
+        "trump"
+      ],
+      "item_ids": [
+        "443b3c21cb9f"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "2b5129a801fd",
       "topic": "down east house torn",
       "keywords": [
@@ -11376,6 +11430,24 @@
       ]
     },
     {
+      "id": "3f7e07458b6c",
+      "topic": "accuracy enforced flout lets",
+      "keywords": [
+        "accuracy",
+        "enforced",
+        "flout",
+        "lets",
+        "ofcom",
+        "veganism"
+      ],
+      "item_ids": [
+        "0767c8f29fc8"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "7079587b05ce",
       "topic": "disabled driver grey risk",
       "keywords": [
@@ -11406,24 +11478,6 @@
       ],
       "item_ids": [
         "596f377975d3"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "0f52490543b2",
-      "topic": "clean cloud delhi india",
-      "keywords": [
-        "clean",
-        "cloud",
-        "delhi",
-        "india",
-        "seeding",
-        "trial"
-      ],
-      "item_ids": [
-        "0bfc96b5e297"
       ],
       "outlets": [
         "Environment | The Guardian"
