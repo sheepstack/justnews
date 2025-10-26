@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T13:20:58Z",
+  "generated_at": "2025-10-26T14:00:52Z",
   "items": [
     {
       "id": "88a01c1d8865",
@@ -164,6 +164,39 @@
       },
       "read_minutes": 2,
       "cluster_id": "bc806367f1b8"
+    },
+    {
+      "id": "e8eecf72c69a",
+      "title": "US demands EU reverse new climate rules to allow surge in gas imports",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/22/us-eu-climate-rules-lng-gas",
+      "published_at": "Wed, 22 Oct 2025 19:02:55 GMT",
+      "bullets": [
+        "• US and Qatar, two of the three largest LNG exporters in the world, sent a letter to the European Union",
+        "• The EU should either completely repeal or substantially cut back the new rules, according to the letter",
+        "• The directive requires gas exporters to the 27-country bloc to show they protect human rights and are cutting their planet-heating emissions "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US and Qatar, two of the three largest LNG exporters in the world, sent a letter to the European Union",
+          "• The EU should either completely repeal or substantially cut back the new rules, according to the letter"
+        ],
+        "hopeful_bullets": [
+          "• US and Qatar, two of the three largest LNG exporters in the world, sent a letter to the European Union",
+          "• The EU should either completely repeal or substantially cut back the new rules, according to the letter"
+        ],
+        "stakes_bullets": [
+          "• The EU should either completely repeal or substantially cut back the new rules, according to the letter",
+          "• The directive requires gas exporters to the 27-country bloc to show they protect human rights and are cutting their planet-heating emissions "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "b4141233a306"
     },
     {
       "id": "84d87098429f",
@@ -1177,37 +1210,35 @@
       "cluster_id": "de631f7845cb"
     },
     {
-      "id": "2f871201a838",
-      "title": "Airport expansion will put UK’s net zero goal in ‘serious jeopardy’, MPs warn",
+      "id": "c42ad93d3b2b",
+      "title": "White House approves increased oil and gas drilling in Alaska’s national wildlife refuge",
       "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/oct/24/airport-expansion-uk-net-zero-mp-carbon-emissions-runway",
-      "published_at": "Thu, 23 Oct 2025 23:01:28 GMT",
+      "url": "https://www.theguardian.com/us-news/2025/oct/23/oil-gas-drilling-alaska-national-wildlife-refuge",
+      "published_at": "Thu, 23 Oct 2025 22:31:32 GMT",
       "bullets": [
-        "• Without new safeguards, proposals to enlarge airports including Heathrow and Gatwick could push the UK over its carbon budgets",
-        "• MPs said ministers must set out how they are going to meet climate, environment and biodiversity targets before any of the projects break ground",
-        "• Their report found that government policies were insufficient to cut carbon emissions "
+        "• Interior secretary announced opening of 1.56m acres across ANWR’s coastal plains",
+        "• Interior department also announced an oil and gas lease sale with the National Petroleum Reserve in Alaska this winter, which is set to mark the first sale in the 23m-acre reserve since 2019 "
       ],
       "category": "Environment",
       "sentiment": {
-        "label": "negative",
-        "score": 0.998
+        "label": "positive",
+        "score": 0.973
       },
       "moods": {
         "brief_bullets": [
-          "• Without new safeguards, proposals to enlarge airports including Heathrow and Gatwick could push the UK over its carbon budgets",
-          "• MPs said ministers must set out how they are going to meet climate, environment and biodiversity targets before any of the projects break ground"
+          "• Interior secretary announced opening of 1.56m acres across ANWR’s coastal plains",
+          "• Interior department also announced an oil and gas lease sale with the National Petroleum Reserve in Alaska this winter, which is set to mark the first sale in the 23m-acre reserve since 2019 "
         ],
         "hopeful_bullets": [
-          "• Without new safeguards, proposals to enlarge airports including Heathrow and Gatwick could push the UK over its carbon budgets",
-          "• MPs said ministers must set out how they are going to meet climate, environment and biodiversity targets before any of the projects break ground"
+          "• Interior department also announced an oil and gas lease sale with the National Petroleum Reserve in Alaska this winter, which is set to mark the first sale in the 23m-acre reserve since 2019 "
         ],
         "stakes_bullets": [
-          "• Without new safeguards, proposals to enlarge airports including Heathrow and Gatwick could push the UK over its carbon budgets",
-          "• Their report found that government policies were insufficient to cut carbon emissions "
+          "• Interior secretary announced opening of 1.56m acres across ANWR’s coastal plains",
+          "• Interior department also announced an oil and gas lease sale with the National Petroleum Reserve in Alaska this winter, which is set to mark the first sale in the 23m-acre reserve since 2019 "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "427dc4e6b6c4"
+      "cluster_id": "f2860a7090c9"
     },
     {
       "id": "cd3a39afc2e8",
@@ -1373,6 +1404,72 @@
       },
       "read_minutes": 4,
       "cluster_id": "e04f797f7576"
+    },
+    {
+      "id": "c078221a22cb",
+      "title": "After centuries of trauma, Montana’s Blackfeet Nation turns to an old friend for food sovereignty: bison",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2025/oct/23/blackfeet-nation-bison-food-sovereignty-montana",
+      "published_at": "Thu, 23 Oct 2025 15:00:44 GMT",
+      "bullets": [
+        "• The Blackfeet Nation is a remote and rugged landscape on the windswept plains of northern Montana",
+        "• While rich in resources, the remote location and management by the federal government have made food access a challenge",
+        "• Only four grocery stores serve the entire reservation",
+        "• Rates of chronic illness here exceed both state and national averages "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.909
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Blackfeet Nation is a remote and rugged landscape on the windswept plains of northern Montana",
+          "• While rich in resources, the remote location and management by the federal government have made food access a challenge"
+        ],
+        "hopeful_bullets": [
+          "• The Blackfeet Nation is a remote and rugged landscape on the windswept plains of northern Montana"
+        ],
+        "stakes_bullets": [
+          "• The Blackfeet Nation is a remote and rugged landscape on the windswept plains of northern Montana",
+          "• While rich in resources, the remote location and management by the federal government have made food access a challenge",
+          "• Only four grocery stores serve the entire reservation"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "029d3d4ea137"
+    },
+    {
+      "id": "fb950b50dd76",
+      "title": "Marine heatwave over Pacific Ocean could lead to flooding in north-west",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/23/pacific-ocean-marine-heatwave-north-west",
+      "published_at": "Thu, 23 Oct 2025 15:00:43 GMT",
+      "bullets": [
+        "• The temperature in August in the northern Pacific Ocean was 2.5C above preindustrial levels",
+        "• That spike can lead to more thunder storms and affect marine species, scientists say",
+        "• Such a heatwave have become more severe and frequent in the past decade "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.949
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The temperature in August in the northern Pacific Ocean was 2.5C above preindustrial levels",
+          "• That spike can lead to more thunder storms and affect marine species, scientists say"
+        ],
+        "hopeful_bullets": [
+          "• The temperature in August in the northern Pacific Ocean was 2.5C above preindustrial levels",
+          "• That spike can lead to more thunder storms and affect marine species, scientists say"
+        ],
+        "stakes_bullets": [
+          "• That spike can lead to more thunder storms and affect marine species, scientists say"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "bf5bb6c56187"
     },
     {
       "id": "bc5e90fd9733",
@@ -1971,6 +2068,71 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "c8dcda906d19",
+      "title": "Radiohead Talk European Tour and Why They Took Break in New Interview: ‘The Wheels Came Off a Bit’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/radiohead-european-tour-take-break-new-interview-1235454458/",
+      "published_at": "Sun, 26 Oct 2025 13:32:51 +0000",
+      "bullets": [
+        "• Radiohead talked about their upcoming European tour in a new interview",
+        "• Thom Yorke said he needed to take a break after the band's tour in support of 2016's A Moon Shaped Pool",
+        "• Ed O'Brien said he was “effectively over Radiohead’s” tour "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Radiohead talked about their upcoming European tour in a new interview",
+          "• Thom Yorke said he needed to take a break after the band's tour in support of 2016's A Moon Shaped Pool"
+        ],
+        "hopeful_bullets": [
+          "• Radiohead talked about their upcoming European tour in a new interview",
+          "• Thom Yorke said he needed to take a break after the band's tour in support of 2016's A Moon Shaped Pool"
+        ],
+        "stakes_bullets": [
+          "• Thom Yorke said he needed to take a break after the band's tour in support of 2016's A Moon Shaped Pool",
+          "• Ed O'Brien said he was “effectively over Radiohead’s” tour "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "0949e887932a"
+    },
+    {
+      "id": "14e2662639c9",
+      "title": "‘Cthulhu: The Cosmic Abyss’ Ascends April 16, 2026 [Trailer]",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/video-games/3911100/cthulhu-the-cosmic-abyss-ascends-april-16-2026-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=cthulhu-the-cosmic-abyss-ascends-april-16-2026-trailer",
+      "published_at": "Sun, 26 Oct 2025 13:30:05 +0000",
+      "bullets": [
+        "• NACON and the studio Big Bad Wolf have announced an April 16 release date for Cthulhu: The Cosmic Abyss",
+        "• The game is coming to PlayStation 5, Xbox Series, and PC via Steam",
+        "• Players can now register for the next playtest, which will take place from October 28 to November 4 "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.82
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NACON and the studio Big Bad Wolf have announced an April 16 release date for Cthulhu: The Cosmic Abyss",
+          "• The game is coming to PlayStation 5, Xbox Series, and PC via Steam"
+        ],
+        "hopeful_bullets": [
+          "• NACON and the studio Big Bad Wolf have announced an April 16 release date for Cthulhu: The Cosmic Abyss",
+          "• The game is coming to PlayStation 5, Xbox Series, and PC via Steam"
+        ],
+        "stakes_bullets": [
+          "• Players can now register for the next playtest, which will take place from October 28 to November 4 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b5dee65708ac"
+    },
+    {
       "id": "dccd89f577cb",
       "title": "Solo Leveling Isn't a Good Anime -- But I Know How to Fix It",
       "outlet": "CBR",
@@ -1999,6 +2161,105 @@
       },
       "read_minutes": 3,
       "cluster_id": "93eb42849f41"
+    },
+    {
+      "id": "112da7376bf7",
+      "title": "Russia says it has tested nuclear-powered Burevestnik missile",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0qp8ed877jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 26 Oct 2025 13:14:37 GMT",
+      "bullets": [
+        "• Russia says it has tested nuclear-powered Burevestnik missile",
+        "• Chief of General Staff Valery Gerasimov said it covered a 14,000km (8,700-mile) distance",
+        "• Western experts have previously cast doubt over missile's strategic value "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Russia says it has tested nuclear-powered Burevestnik missile",
+          "• Chief of General Staff Valery Gerasimov said it covered a 14,000km (8,700-mile) distance"
+        ],
+        "hopeful_bullets": [
+          "• Russia says it has tested nuclear-powered Burevestnik missile",
+          "• Chief of General Staff Valery Gerasimov said it covered a 14,000km (8,700-mile) distance"
+        ],
+        "stakes_bullets": [
+          "• Russia says it has tested nuclear-powered Burevestnik missile",
+          "• Chief of General Staff Valery Gerasimov said it covered a 14,000km (8,700-mile) distance",
+          "• Western experts have previously cast doubt over missile's strategic value "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "bd6335aedfa3"
+    },
+    {
+      "id": "146c298cc6d3",
+      "title": "US judge rules ICE illegally detained man whose daughter is battling cancer",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/26/ice-detained-chicago-man-daughter-cancer",
+      "published_at": "Sun, 26 Oct 2025 13:05:15 GMT",
+      "bullets": [
+        "• Ruben Torres Maldonado, 40, must be given bond hearing by 31 October, federal judge rules",
+        "• His daughter, Ofelia Torres, 16, is undergoing treatment for advanced cancer",
+        "• Torres entered the US in October and was detained at a suburban Home Depot store "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ruben Torres Maldonado, 40, must be given bond hearing by 31 October, federal judge rules",
+          "• His daughter, Ofelia Torres, 16, is undergoing treatment for advanced cancer"
+        ],
+        "hopeful_bullets": [
+          "• Ruben Torres Maldonado, 40, must be given bond hearing by 31 October, federal judge rules",
+          "• His daughter, Ofelia Torres, 16, is undergoing treatment for advanced cancer"
+        ],
+        "stakes_bullets": [
+          "• Torres entered the US in October and was detained at a suburban Home Depot store "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b790965c0a1b"
+    },
+    {
+      "id": "f52d0ff8826d",
+      "title": "Georgia arrests three for trying to illegally buy 2kg of uranium",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgjdgv6z3l9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 26 Oct 2025 13:01:58 GMT",
+      "bullets": [
+        "• Three men arrested in Georgia on suspicion of trying to illegally buy 2kg of uranium",
+        "• They face up to five years in prison under a law banning the sale of nuclear material",
+        "• The men are believed to have planned to sell the material to China for £300,000 "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Three men arrested in Georgia on suspicion of trying to illegally buy 2kg of uranium",
+          "• They face up to five years in prison under a law banning the sale of nuclear material"
+        ],
+        "hopeful_bullets": [
+          "• Three men arrested in Georgia on suspicion of trying to illegally buy 2kg of uranium",
+          "• They face up to five years in prison under a law banning the sale of nuclear material"
+        ],
+        "stakes_bullets": [
+          "• They face up to five years in prison under a law banning the sale of nuclear material",
+          "• The men are believed to have planned to sell the material to China for £300,000 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a17e2c87bc62"
     },
     {
       "id": "76ee8553f401",
@@ -2128,6 +2389,104 @@
       },
       "read_minutes": 7,
       "cluster_id": "08528260a3d7"
+    },
+    {
+      "id": "f26f5ace00eb",
+      "title": "Jewish New York’s reckoning with Zohran Mamdani: ‘He’s become a vehicle for our tensions’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/26/zohran-mamdani-jewish-voters-new-york",
+      "published_at": "Sun, 26 Oct 2025 13:00:04 GMT",
+      "bullets": [
+        "• Zohran Mamdani is on track to become the most prominent Palestine supporter to assume elected office in the US",
+        "• The notion that he could sparks outright panic in some quarters",
+        "• But many of them already are engaged, says Rabbi Elliot Cosgrove of the Conservative Upper East Side Park Avenue Synagogue "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Zohran Mamdani is on track to become the most prominent Palestine supporter to assume elected office in the US",
+          "• The notion that he could sparks outright panic in some quarters"
+        ],
+        "hopeful_bullets": [
+          "• Zohran Mamdani is on track to become the most prominent Palestine supporter to assume elected office in the US",
+          "• The notion that he could sparks outright panic in some quarters"
+        ],
+        "stakes_bullets": [
+          "• The notion that he could sparks outright panic in some quarters"
+        ]
+      },
+      "read_minutes": 20,
+      "cluster_id": "5e1d571967f9"
+    },
+    {
+      "id": "b08bc09d4c1a",
+      "title": "Can Democrats harness the energy of the No Kings protests to fight Trump?",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/26/democrats-no-kings-protests-trump",
+      "published_at": "Sun, 26 Oct 2025 13:00:03 GMT",
+      "bullets": [
+        "• Many Democratic lawmakers did not attend last weekend's No Kings rally against Donald Trump's authoritarianism",
+        "• The energy of the No Kings protests was palpable and peaceful, drawing an estimated 7 million people to rallies across the country",
+        "• Democrats face the challenge of harnessing the spirit of No Kings and turning anti-Trump sentiment into votes at the ballot box "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Many Democratic lawmakers did not attend last weekend's No Kings rally against Donald Trump's authoritarianism",
+          "• The energy of the No Kings protests was palpable and peaceful, drawing an estimated 7 million people to rallies across the country"
+        ],
+        "hopeful_bullets": [
+          "• Many Democratic lawmakers did not attend last weekend's No Kings rally against Donald Trump's authoritarianism",
+          "• The energy of the No Kings protests was palpable and peaceful, drawing an estimated 7 million people to rallies across the country"
+        ],
+        "stakes_bullets": [
+          "• Many Democratic lawmakers did not attend last weekend's No Kings rally against Donald Trump's authoritarianism",
+          "• The energy of the No Kings protests was palpable and peaceful, drawing an estimated 7 million people to rallies across the country",
+          "• Democrats face the challenge of harnessing the spirit of No Kings and turning anti-Trump sentiment into votes at the ballot box "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "28479f5ff120"
+    },
+    {
+      "id": "b81fd40ff8f5",
+      "title": "Best GoPro Camera (2025): Compact, Budget, Accessories",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/gallery/best-gopro-hero-camera/",
+      "published_at": "Sun, 26 Oct 2025 13:00:00 +0000",
+      "bullets": [
+        "• The best GoPro for you depends on how you plan to use it and what you want to do with the results",
+        "• We've put together this guide to all the currently available GoPro cameras",
+        "• If you're not set on a GoPro, be sure to check out our Guide to Action Cameras for our take on cameras from other competitors "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The best GoPro for you depends on how you plan to use it and what you want to do with the results",
+          "• We've put together this guide to all the currently available GoPro cameras"
+        ],
+        "hopeful_bullets": [
+          "• The best GoPro for you depends on how you plan to use it and what you want to do with the results",
+          "• We've put together this guide to all the currently available GoPro cameras"
+        ],
+        "stakes_bullets": [
+          "• The best GoPro for you depends on how you plan to use it and what you want to do with the results"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "16f9e5cc16e7"
     },
     {
       "id": "63a6d38fb60d",
@@ -2488,38 +2847,6 @@
       "cluster_id": "659794d02530"
     },
     {
-      "id": "6d7c8db16e32",
-      "title": "As Trump cracks down, faith groups step up for immigrants: ‘What has happened to our heart?’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/26/trump-immigration-faith-groups",
-      "published_at": "Sun, 26 Oct 2025 11:00:01 GMT",
-      "bullets": [
-        "• Catholic nuns, laypeople and volunteers in Nogales, Mexico, cook and serve two meals daily for immigrants who have been deported or lost their chances at US asylum in Donald Trump’s crackdown",
-        "• Catholic parishioners rushed to deliver food boxes to immigrants too terrified to leave their homes in Coachella after federal immigration agents swept through Latino neighborhoods during the summer "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Catholic nuns, laypeople and volunteers in Nogales, Mexico, cook and serve two meals daily for immigrants who have been deported or lost their chances at US asylum in Donald Trump’s crackdown",
-          "• Catholic parishioners rushed to deliver food boxes to immigrants too terrified to leave their homes in Coachella after federal immigration agents swept through Latino neighborhoods during the summer "
-        ],
-        "hopeful_bullets": [
-          "• Catholic nuns, laypeople and volunteers in Nogales, Mexico, cook and serve two meals daily for immigrants who have been deported or lost their chances at US asylum in Donald Trump’s crackdown",
-          "• Catholic parishioners rushed to deliver food boxes to immigrants too terrified to leave their homes in Coachella after federal immigration agents swept through Latino neighborhoods during the summer "
-        ],
-        "stakes_bullets": [
-          "• Catholic nuns, laypeople and volunteers in Nogales, Mexico, cook and serve two meals daily for immigrants who have been deported or lost their chances at US asylum in Donald Trump’s crackdown",
-          "• Catholic parishioners rushed to deliver food boxes to immigrants too terrified to leave their homes in Coachella after federal immigration agents swept through Latino neighborhoods during the summer "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "607313287320"
-    },
-    {
       "id": "76b9f4ba1ee7",
       "title": "Gun violence prevention groups disqualified from grants built around their work",
       "outlet": "US news | The Guardian",
@@ -2550,6 +2877,38 @@
       },
       "read_minutes": 5,
       "cluster_id": "f894aaf92c0b"
+    },
+    {
+      "id": "6d7c8db16e32",
+      "title": "As Trump cracks down, faith groups step up for immigrants: ‘What has happened to our heart?’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/26/trump-immigration-faith-groups",
+      "published_at": "Sun, 26 Oct 2025 11:00:01 GMT",
+      "bullets": [
+        "• Catholic nuns, laypeople and volunteers in Nogales, Mexico, cook and serve two meals daily for immigrants who have been deported or lost their chances at US asylum in Donald Trump’s crackdown",
+        "• Catholic parishioners rushed to deliver food boxes to immigrants too terrified to leave their homes in Coachella after federal immigration agents swept through Latino neighborhoods during the summer "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.974
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Catholic nuns, laypeople and volunteers in Nogales, Mexico, cook and serve two meals daily for immigrants who have been deported or lost their chances at US asylum in Donald Trump’s crackdown",
+          "• Catholic parishioners rushed to deliver food boxes to immigrants too terrified to leave their homes in Coachella after federal immigration agents swept through Latino neighborhoods during the summer "
+        ],
+        "hopeful_bullets": [
+          "• Catholic nuns, laypeople and volunteers in Nogales, Mexico, cook and serve two meals daily for immigrants who have been deported or lost their chances at US asylum in Donald Trump’s crackdown",
+          "• Catholic parishioners rushed to deliver food boxes to immigrants too terrified to leave their homes in Coachella after federal immigration agents swept through Latino neighborhoods during the summer "
+        ],
+        "stakes_bullets": [
+          "• Catholic nuns, laypeople and volunteers in Nogales, Mexico, cook and serve two meals daily for immigrants who have been deported or lost their chances at US asylum in Donald Trump’s crackdown",
+          "• Catholic parishioners rushed to deliver food boxes to immigrants too terrified to leave their homes in Coachella after federal immigration agents swept through Latino neighborhoods during the summer "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "607313287320"
     },
     {
       "id": "1802ad4483aa",
@@ -2818,6 +3177,39 @@
       "cluster_id": "29184ce5cc7b"
     },
     {
+      "id": "aca5ad19655a",
+      "title": "Russia arrests Ukrainian biologist for backing curbs on Antarctic krill fishing",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/oct/26/russia-ukrainian-biologist-leonid-pshenichnov-arrest-treason-antarctic-krill-overfishing",
+      "published_at": "Sun, 26 Oct 2025 10:00:01 GMT",
+      "bullets": [
+        "• Leonid Pshenichnov, 70, has a decades-long record of scientific research",
+        "• He was preparing to attend a conference on protecting Antarctic marine life when he was arrested",
+        "• He has since been accused by the Russians of high treason "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.795
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Leonid Pshenichnov, 70, has a decades-long record of scientific research",
+          "• He was preparing to attend a conference on protecting Antarctic marine life when he was arrested"
+        ],
+        "hopeful_bullets": [
+          "• Leonid Pshenichnov, 70, has a decades-long record of scientific research"
+        ],
+        "stakes_bullets": [
+          "• Leonid Pshenichnov, 70, has a decades-long record of scientific research",
+          "• He was preparing to attend a conference on protecting Antarctic marine life when he was arrested",
+          "• He has since been accused by the Russians of high treason "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "acbbf6f0695d"
+    },
+    {
       "id": "3a981833f45c",
       "title": "A First Ride With the Maeving RM2 Electric Motorcycle",
       "outlet": "WIRED",
@@ -2885,38 +3277,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "a56049a3bd4a"
-    },
-    {
-      "id": "bbf44a5edad7",
-      "title": "Sodapop Bluetooth Speaker Review: Bottled Up",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/review/sodapop-bluetooth-speaker/",
-      "published_at": "Sun, 26 Oct 2025 09:30:00 +0000",
-      "bullets": [
-        "• Slack channels are constantly pinging with links to interesting ideas and cool concepts",
-        "• Sodapop is a Bluetooth speaker that can be screwed onto a standard soda bottle if you want to boost the bass",
-        "• Your empty bottle of Mountain Dew is transformed into a bass chamber that will boost the speaker’s bass output by 10 decibels "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.956
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Slack channels are constantly pinging with links to interesting ideas and cool concepts",
-          "• Sodapop is a Bluetooth speaker that can be screwed onto a standard soda bottle if you want to boost the bass"
-        ],
-        "hopeful_bullets": [
-          "• Sodapop is a Bluetooth speaker that can be screwed onto a standard soda bottle if you want to boost the bass",
-          "• Your empty bottle of Mountain Dew is transformed into a bass chamber that will boost the speaker’s bass output by 10 decibels "
-        ],
-        "stakes_bullets": [
-          "• Your empty bottle of Mountain Dew is transformed into a bass chamber that will boost the speaker’s bass output by 10 decibels "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7605480bde53"
     },
     {
       "id": "fb74acb97eec",
@@ -3183,38 +3543,6 @@
       "cluster_id": "51bcdf643772"
     },
     {
-      "id": "d7df9af890cd",
-      "title": "Mystery donor gives $130m to US military to pay troops during shutdown",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c891p1pez42o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 26 Oct 2025 06:51:07 GMT",
-      "bullets": [
-        "• Mystery donor gives $130m to US military to pay troops during shutdown",
-        "• President Donald Trump said gift will make up for shortfalls in paying the country's 1.32m service members",
-        "• Government shut down more than three weeks ago, after lawmakers failed to approve a funding deal "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mystery donor gives $130m to US military to pay troops during shutdown",
-          "• President Donald Trump said gift will make up for shortfalls in paying the country's 1.32m service members"
-        ],
-        "hopeful_bullets": [
-          "• Mystery donor gives $130m to US military to pay troops during shutdown",
-          "• President Donald Trump said gift will make up for shortfalls in paying the country's 1.32m service members"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump said gift will make up for shortfalls in paying the country's 1.32m service members"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "06a5fc2c0bfe"
-    },
-    {
       "id": "adf2fe99934a",
       "title": "Trump raises tariffs on Canadian goods over Reagan advert",
       "outlet": "BBC News",
@@ -3313,6 +3641,38 @@
       },
       "read_minutes": 8,
       "cluster_id": "f8e5dc78908e"
+    },
+    {
+      "id": "068b54e84230",
+      "title": "Young first-time buyers forced into ‘nature deserts’, UK data shows",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/money/2025/oct/26/young-first-time-buyers-uk-homes-green-spaces",
+      "published_at": "Sun, 26 Oct 2025 06:00:55 GMT",
+      "bullets": [
+        "• Government policy has failed to create greener and healthier new-build properties, experts say",
+        "• For every square metre of green space lost for each person, a further 494 first-time buyers are drawn to that area",
+        "• The English nature coalition is calling for the government’s new planning bill to be amended to improve access to nature "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Government policy has failed to create greener and healthier new-build properties, experts say",
+          "• For every square metre of green space lost for each person, a further 494 first-time buyers are drawn to that area"
+        ],
+        "hopeful_bullets": [
+          "• The English nature coalition is calling for the government’s new planning bill to be amended to improve access to nature "
+        ],
+        "stakes_bullets": [
+          "• Government policy has failed to create greener and healthier new-build properties, experts say",
+          "• The English nature coalition is calling for the government’s new planning bill to be amended to improve access to nature "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "dd9e83e76ec8"
     },
     {
       "id": "c9b0616da1aa",
@@ -3914,38 +4274,6 @@
       "cluster_id": "11a6dad10837"
     },
     {
-      "id": "d7c60246e518",
-      "title": "New Jersey officer charged after going out for pizza instead of responding to shooting",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/25/new-jersey-pizza-double-homicide",
-      "published_at": "Sat, 25 Oct 2025 22:10:03 GMT",
-      "bullets": [
-        "• Kevin Bollaro was the on-duty officer on the evening of 1 August when police received 911 calls reporting gunshots and screaming in Pittstown, New Jersey",
-        "• Rather than responding immediately, prosecutors say, Bollaro drove nearly 2 miles in the opposite direction of the caller’s location to a bank ATM",
-        "• They say Bollaro instead headed to a pizzeria where he remained for nearly an hour "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Kevin Bollaro was the on-duty officer on the evening of 1 August when police received 911 calls reporting gunshots and screaming in Pittstown, New Jersey",
-          "• Rather than responding immediately, prosecutors say, Bollaro drove nearly 2 miles in the opposite direction of the caller’s location to a bank ATM"
-        ],
-        "hopeful_bullets": [
-          "• Kevin Bollaro was the on-duty officer on the evening of 1 August when police received 911 calls reporting gunshots and screaming in Pittstown, New Jersey",
-          "• Rather than responding immediately, prosecutors say, Bollaro drove nearly 2 miles in the opposite direction of the caller’s location to a bank ATM"
-        ],
-        "stakes_bullets": [
-          "• Rather than responding immediately, prosecutors say, Bollaro drove nearly 2 miles in the opposite direction of the caller’s location to a bank ATM"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2270a49a1781"
-    },
-    {
       "id": "5e3893c1ab33",
       "title": "Trump raises tariffs on Canada by 10% in retaliation for anti-tariff TV ad",
       "outlet": "US news | The Guardian",
@@ -4009,40 +4337,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "f579bbcf4d6a"
-    },
-    {
-      "id": "8c8a83be843d",
-      "title": "Connolly declared president of Ireland after landslide win",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gk2kml122o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 25 Oct 2025 21:34:39 GMT",
-      "bullets": [
-        "• Catherine Connolly declared president of Ireland after landslide win at Dublin Castle",
-        "• Independent candidate secured 914,143 first preference votes (63%) - a record in Irish presidential election history",
-        "• She pledged to be \"an inclusive president for all\" in her acceptance speech "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Catherine Connolly declared president of Ireland after landslide win at Dublin Castle",
-          "• Independent candidate secured 914,143 first preference votes (63%) - a record in Irish presidential election history"
-        ],
-        "hopeful_bullets": [
-          "• Catherine Connolly declared president of Ireland after landslide win at Dublin Castle",
-          "• Independent candidate secured 914,143 first preference votes (63%) - a record in Irish presidential election history"
-        ],
-        "stakes_bullets": [
-          "• Catherine Connolly declared president of Ireland after landslide win at Dublin Castle",
-          "• Independent candidate secured 914,143 first preference votes (63%) - a record in Irish presidential election history",
-          "• She pledged to be \"an inclusive president for all\" in her acceptance speech "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d863b0f0da97"
     },
     {
       "id": "bf29a3976a02",
@@ -4146,38 +4440,6 @@
       "cluster_id": "f86907830778"
     },
     {
-      "id": "b35ddede2726",
-      "title": "Hispanics’ support of Trump plunges since he started second term",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/25/trump-hispanic-approval-rating",
-      "published_at": "Sat, 25 Oct 2025 19:20:06 GMT",
-      "bullets": [
-        "• 25% of Hispanic adults now hold a “somewhat” or “very” favorable view of Trump, down from 44% in an AP-NORC poll conducted just before he began his second term",
-        "• Hispanic adults also expressed less confidence in Trump’s management of the economy and immigration, two key issues that once bolstered his support "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 25% of Hispanic adults now hold a “somewhat” or “very” favorable view of Trump, down from 44% in an AP-NORC poll conducted just before he began his second term",
-          "• Hispanic adults also expressed less confidence in Trump’s management of the economy and immigration, two key issues that once bolstered his support "
-        ],
-        "hopeful_bullets": [
-          "• 25% of Hispanic adults now hold a “somewhat” or “very” favorable view of Trump, down from 44% in an AP-NORC poll conducted just before he began his second term",
-          "• Hispanic adults also expressed less confidence in Trump’s management of the economy and immigration, two key issues that once bolstered his support "
-        ],
-        "stakes_bullets": [
-          "• 25% of Hispanic adults now hold a “somewhat” or “very” favorable view of Trump, down from 44% in an AP-NORC poll conducted just before he began his second term",
-          "• Hispanic adults also expressed less confidence in Trump’s management of the economy and immigration, two key issues that once bolstered his support "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "52e4217f291c"
-    },
-    {
       "id": "75efcbb311f9",
       "title": "See Jackson Browne, Dwight Yoakam Cover Warren Zevon at Tribute Concert",
       "outlet": "Music News",
@@ -4208,39 +4470,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "b12c9cfbdf9f"
-    },
-    {
-      "id": "615f3dd17860",
-      "title": "A big moth, or something from Day of the Dead? One man’s search for an otherworldly Australian insect",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2025/oct/26/southern-pink-underwing-moth-man-search-for-giant-australian-insect",
-      "published_at": "Sat, 25 Oct 2025 19:00:42 GMT",
-      "bullets": [
-        "• Ian McMaster has gone looking for moths about four nights every week for the past seven years",
-        "• He has only once seen the species of moth that singer-songwriter Emma Bosworth hopes to see on this night in late August",
-        "• The normally most elusive moth settled in to pass the day, and McMaster was able to admire it from the comfort of his own home until night fell "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ian McMaster has gone looking for moths about four nights every week for the past seven years",
-          "• He has only once seen the species of moth that singer-songwriter Emma Bosworth hopes to see on this night in late August"
-        ],
-        "hopeful_bullets": [
-          "• He has only once seen the species of moth that singer-songwriter Emma Bosworth hopes to see on this night in late August"
-        ],
-        "stakes_bullets": [
-          "• Ian McMaster has gone looking for moths about four nights every week for the past seven years",
-          "• He has only once seen the species of moth that singer-songwriter Emma Bosworth hopes to see on this night in late August",
-          "• The normally most elusive moth settled in to pass the day, and McMaster was able to admire it from the comfort of his own home until night fell "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "011b352a84eb"
     },
     {
       "id": "8d39741e8234",
@@ -4310,38 +4539,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "de48038f8531"
-    },
-    {
-      "id": "4dec2ded441d",
-      "title": "Trump backer Timothy Mellon identified as donor of $130m for US troop pay during government shutdown",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/25/timothy-mellon-donor-military-pay-shutdown",
-      "published_at": "Sat, 25 Oct 2025 16:37:18 GMT",
-      "bullets": [
-        "• Timothy Mellon, heir to the gilded age industrialist and former treasury secretary Andrew Mellon, named as the donor",
-        "• Trump has described the donor as a “friend”, “great American” and “patriot” but has refused to name "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.809
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Timothy Mellon, heir to the gilded age industrialist and former treasury secretary Andrew Mellon, named as the donor",
-          "• Trump has described the donor as a “friend”, “great American” and “patriot” but has refused to name "
-        ],
-        "hopeful_bullets": [
-          "• Timothy Mellon, heir to the gilded age industrialist and former treasury secretary Andrew Mellon, named as the donor",
-          "• Trump has described the donor as a “friend”, “great American” and “patriot” but has refused to name "
-        ],
-        "stakes_bullets": [
-          "• Timothy Mellon, heir to the gilded age industrialist and former treasury secretary Andrew Mellon, named as the donor",
-          "• Trump has described the donor as a “friend”, “great American” and “patriot” but has refused to name "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "05270c52dfe8"
     },
     {
       "id": "70bd45a571fe",
@@ -4703,6 +4900,39 @@
       "cluster_id": "821bbd05edef"
     },
     {
+      "id": "29372dcf53b2",
+      "title": "‘A problematic species’: California to allow hunting of ‘very aggressive’ swans",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/25/california-swans-hunting-rules",
+      "published_at": "Sat, 25 Oct 2025 11:00:32 GMT",
+      "bullets": [
+        "• A new law will allow year-round use of mute swans in California",
+        "• The law adds the birds to the state’s list of birds that can be used in the wild",
+        "• The bill will go into effect on January 1, 2015 "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.896
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A new law will allow year-round use of mute swans in California",
+          "• The law adds the birds to the state’s list of birds that can be used in the wild"
+        ],
+        "hopeful_bullets": [
+          "• A new law will allow year-round use of mute swans in California",
+          "• The law adds the birds to the state’s list of birds that can be used in the wild"
+        ],
+        "stakes_bullets": [
+          "• A new law will allow year-round use of mute swans in California",
+          "• The bill will go into effect on January 1, 2015 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "5f8aea493e53"
+    },
+    {
       "id": "07b00d8429ef",
       "title": "Whale and dolphin migrations are being disrupted by climate change",
       "outlet": "Ars Technica - All content",
@@ -4797,38 +5027,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "6f3584df0d82"
-    },
-    {
-      "id": "87e3b8b3b430",
-      "title": "Young country diary: The foxes and I have been watching each other closely",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/oct/25/young-country-diary-the-foxes-and-i-have-been-watching-each-other-closely",
-      "published_at": "Sat, 25 Oct 2025 10:00:32 GMT",
-      "bullets": [
-        "• Many urban foxes find shelter around people’s gardens",
-        "• This can include under sheds, in bushes, behind bins or in their own burrows",
-        "• In spring, baby foxes are born, and when we’re gardening they stare at us through the bushes "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.962
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Many urban foxes find shelter around people’s gardens",
-          "• This can include under sheds, in bushes, behind bins or in their own burrows"
-        ],
-        "hopeful_bullets": [
-          "• Many urban foxes find shelter around people’s gardens",
-          "• This can include under sheds, in bushes, behind bins or in their own burrows"
-        ],
-        "stakes_bullets": [
-          "• Many urban foxes find shelter around people’s gardens"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "ac63e3986640"
     },
     {
       "id": "37d3e45cc37d",
@@ -7024,70 +7222,6 @@
       "cluster_id": "8963080a269d"
     },
     {
-      "id": "35fa777063da",
-      "title": "Skeet Ulrich, Alicia Witt, and More Join Gen X Satirical Slasher ‘The Big Kill’",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3911010/skeet-ulrich-alicia-witt-and-more-join-gen-x-satirical-slasher-the-big-kill/?utm_source=rss&utm_medium=rss&utm_campaign=skeet-ulrich-alicia-witt-and-more-join-gen-x-satirical-slasher-the-big-kill",
-      "published_at": "Fri, 24 Oct 2025 17:49:12 +0000",
-      "bullets": [
-        "• Skeet Ulrich, Alicia Witt, Pete Holmes, Jolene Suri, Megan Leggero, Jon Heder, Morgan Jay, Trevor Wallace, Steph Tolev",
-        "• The trio joins an ensemble cast that includes Jolene (Star Trek: Enterprise), Megan Suri (Companion, It Lives Inside)"
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Skeet Ulrich, Alicia Witt, Pete Holmes, Jolene Suri, Megan Leggero, Jon Heder, Morgan Jay, Trevor Wallace, Steph Tolev",
-          "• The trio joins an ensemble cast that includes Jolene (Star Trek: Enterprise), Megan Suri (Companion, It Lives Inside)"
-        ],
-        "hopeful_bullets": [
-          "• Skeet Ulrich, Alicia Witt, Pete Holmes, Jolene Suri, Megan Leggero, Jon Heder, Morgan Jay, Trevor Wallace, Steph Tolev",
-          "• The trio joins an ensemble cast that includes Jolene (Star Trek: Enterprise), Megan Suri (Companion, It Lives Inside)"
-        ],
-        "stakes_bullets": [
-          "• Skeet Ulrich, Alicia Witt, Pete Holmes, Jolene Suri, Megan Leggero, Jon Heder, Morgan Jay, Trevor Wallace, Steph Tolev",
-          "• The trio joins an ensemble cast that includes Jolene (Star Trek: Enterprise), Megan Suri (Companion, It Lives Inside)"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "10b8b306122a"
-    },
-    {
-      "id": "39044ffdb250",
-      "title": "The Beatles Preview ‘Anthology 4’ With Unreleased Version of ‘I’ve Just Seen a Face’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/the-beatles-anthology-4-unreleased-ive-just-seen-a-face-1235453895/",
-      "published_at": "Fri, 24 Oct 2025 17:39:30 +0000",
-      "bullets": [
-        "• The Beatles have previewed their upcoming Anthology 4 by unearthing an unreleased version of 'I’ve Just Seen a Face' It was recorded at Abbey Road Studios on June 14, 1965",
-        "• The Fab Four ultimately recorded six takes of the song "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Beatles have previewed their upcoming Anthology 4 by unearthing an unreleased version of 'I’ve Just Seen a Face' It was recorded at Abbey Road Studios on June 14, 1965",
-          "• The Fab Four ultimately recorded six takes of the song "
-        ],
-        "hopeful_bullets": [
-          "• The Beatles have previewed their upcoming Anthology 4 by unearthing an unreleased version of 'I’ve Just Seen a Face' It was recorded at Abbey Road Studios on June 14, 1965",
-          "• The Fab Four ultimately recorded six takes of the song "
-        ],
-        "stakes_bullets": [
-          "• The Beatles have previewed their upcoming Anthology 4 by unearthing an unreleased version of 'I’ve Just Seen a Face' It was recorded at Abbey Road Studios on June 14, 1965",
-          "• The Fab Four ultimately recorded six takes of the song "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "bd8ef4acb549"
-    },
-    {
       "id": "0e73425319f2",
       "title": "Environmentalists Sue Regulator Over Extension of Construction Permit for LNG Export Terminal in New Jersey",
       "outlet": "Inside Climate News",
@@ -7355,36 +7489,37 @@
       "cluster_id": "2bca6f625336"
     },
     {
-      "id": "8c28da114f45",
-      "title": "‘I was contaminated’: study reveals how hard it is to avoid pesticide exposure",
+      "id": "d3fea4f99d09",
+      "title": "She took chickens from a slaughterhouse. Was it a rescue or a crime?",
       "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/oct/24/i-was-contaminated-study-reveals-how-hard-it-is-to-avoid-pesticide-exposure",
+      "url": "https://www.theguardian.com/us-news/2025/oct/24/chicken-rescue-factory-farm",
       "published_at": "Fri, 24 Oct 2025 14:00:47 GMT",
       "bullets": [
-        "• Researchers have found out how many pesticides people are exposed to through their skin",
-        "• Even people who live far from the source of pesticides are exposed through direct contact",
-        "• Pesticides are banned in the Netherlands but little attention has been paid to the effects of breathing them in or absorbing them "
+        "• Zoe Rosenberg, a 23-year-old University of California, Berkeley, student, is on trial in Santa Rosa, California",
+        "• If convicted on all charges, she could spend up to four and a half years in jail",
+        "• The facts at the center of the case were not in dispute",
+        "• They removed four chickens, placed them in buckets and drove away "
       ],
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.992
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• Researchers have found out how many pesticides people are exposed to through their skin",
-          "• Even people who live far from the source of pesticides are exposed through direct contact"
+          "• Zoe Rosenberg, a 23-year-old University of California, Berkeley, student, is on trial in Santa Rosa, California",
+          "• If convicted on all charges, she could spend up to four and a half years in jail"
         ],
         "hopeful_bullets": [
-          "• Researchers have found out how many pesticides people are exposed to through their skin",
-          "• Even people who live far from the source of pesticides are exposed through direct contact"
+          "• Zoe Rosenberg, a 23-year-old University of California, Berkeley, student, is on trial in Santa Rosa, California",
+          "• If convicted on all charges, she could spend up to four and a half years in jail"
         ],
         "stakes_bullets": [
-          "• Pesticides are banned in the Netherlands but little attention has been paid to the effects of breathing them in or absorbing them "
+          "• If convicted on all charges, she could spend up to four and a half years in jail"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "287979e40b60"
+      "read_minutes": 12,
+      "cluster_id": "22db6b7ddbfb"
     },
     {
       "id": "8d79ae58535a",
@@ -7449,38 +7584,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "ddbb9653306b"
-    },
-    {
-      "id": "405248e48c7a",
-      "title": "Tanni Grey-Thompson says disabled drivers at risk of missing out on switch to electric cars",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/oct/24/tanni-grey-thompson-disabled-drivers-at-risk-of-missing-out-on-switch-to-electric-cars",
-      "published_at": "Fri, 24 Oct 2025 13:00:44 GMT",
-      "bullets": [
-        "• The number of public chargers across the UK is rising rapidly, with 17,400 installed in the year to July",
-        "• But disabled drivers have often been unable to trust that they can use them",
-        "• The House of Lords passed an amendment to the government’s planning and infrastructure bill "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.967
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The number of public chargers across the UK is rising rapidly, with 17,400 installed in the year to July",
-          "• But disabled drivers have often been unable to trust that they can use them"
-        ],
-        "hopeful_bullets": [
-          "• The number of public chargers across the UK is rising rapidly, with 17,400 installed in the year to July",
-          "• But disabled drivers have often been unable to trust that they can use them"
-        ],
-        "stakes_bullets": [
-          "• The House of Lords passed an amendment to the government’s planning and infrastructure bill "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "7079587b05ce"
     },
     {
       "id": "5a378e889f70",
@@ -7903,38 +8006,6 @@
       "cluster_id": "83384f78335f"
     },
     {
-      "id": "c2be71354612",
-      "title": "Why the climate crisis is especially bad news for frightened flyers",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/oct/24/climate-crisis-turbulence-atmosphere",
-      "published_at": "Fri, 24 Oct 2025 05:00:33 GMT",
-      "bullets": [
-        "• Part of the problem is that most of the time you cannot see it coming",
-        "• High in the atmosphere, the jet stream can behave erratically, causing wind shear",
-        "• Mountain-wave turbulence is caused by towering clouds that often bring thunderstorms",
-        "• The problem for the aviation industry is that the climate crisis is making all three types worse "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Part of the problem is that most of the time you cannot see it coming",
-          "• High in the atmosphere, the jet stream can behave erratically, causing wind shear"
-        ],
-        "hopeful_bullets": [
-          "• High in the atmosphere, the jet stream can behave erratically, causing wind shear"
-        ],
-        "stakes_bullets": [
-          "• Mountain-wave turbulence is caused by towering clouds that often bring thunderstorms"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "123e12544738"
-    },
-    {
       "id": "db4f7c24f45d",
       "title": "Megan Thee Stallion Shares New Song “Lover Girl”: Listen",
       "outlet": "RSS: News",
@@ -7965,38 +8036,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "b8799bdca85f"
-    },
-    {
-      "id": "72057e512706",
-      "title": "Country diary: A lesson in rest from the Canada geese | Josie George",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/oct/24/country-diary-a-lesson-in-rest-from-the-canada-geese",
-      "published_at": "Fri, 24 Oct 2025 04:30:33 GMT",
-      "bullets": [
-        "• Most of the Canada geese here are happily resident in the UK and no longer migrate",
-        "• But come autumn, with their babies big enough to fly now, an old restlessness seems to stir in them",
-        "• The sound speaks of a longing to me, one that I recognise because autumn brings a restlessness to me "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Most of the Canada geese here are happily resident in the UK and no longer migrate",
-          "• But come autumn, with their babies big enough to fly now, an old restlessness seems to stir in them"
-        ],
-        "hopeful_bullets": [
-          "• Most of the Canada geese here are happily resident in the UK and no longer migrate",
-          "• But come autumn, with their babies big enough to fly now, an old restlessness seems to stir in them"
-        ],
-        "stakes_bullets": [
-          "• The sound speaks of a longing to me, one that I recognise because autumn brings a restlessness to me "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3bfa52ab7241"
     },
     {
       "id": "279c8e41acac",
@@ -9324,18 +9363,18 @@
       ]
     },
     {
-      "id": "a56049a3bd4a",
-      "topic": "killed kyiv official russian",
+      "id": "bd6335aedfa3",
+      "topic": "burevestnik missile nuclear powered",
       "keywords": [
-        "killed",
-        "kyiv",
-        "official",
-        "russian",
-        "say",
-        "strike"
+        "burevestnik",
+        "missile",
+        "nuclear",
+        "powered",
+        "russia",
+        "tested"
       ],
       "item_ids": [
-        "537b0cce1a81"
+        "112da7376bf7"
       ],
       "outlets": [
         "BBC News"
@@ -9360,6 +9399,42 @@
       ]
     },
     {
+      "id": "a17e2c87bc62",
+      "topic": "2kg arrest buy georgia",
+      "keywords": [
+        "2kg",
+        "arrest",
+        "buy",
+        "georgia",
+        "illegally",
+        "trying"
+      ],
+      "item_ids": [
+        "f52d0ff8826d"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "a56049a3bd4a",
+      "topic": "killed kyiv official russian",
+      "keywords": [
+        "killed",
+        "kyiv",
+        "official",
+        "russian",
+        "say",
+        "strike"
+      ],
+      "item_ids": [
+        "537b0cce1a81"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "11a6dad10837",
       "topic": "arrest boss charity identified",
       "keywords": [
@@ -9372,42 +9447,6 @@
       ],
       "item_ids": [
         "1f60611d6189"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "06a5fc2c0bfe",
-      "topic": "130m donor give military",
-      "keywords": [
-        "130m",
-        "donor",
-        "give",
-        "military",
-        "mystery",
-        "pay"
-      ],
-      "item_ids": [
-        "d7df9af890cd"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "d863b0f0da97",
-      "topic": "connolly declared ireland landslide",
-      "keywords": [
-        "connolly",
-        "declared",
-        "ireland",
-        "landslide",
-        "president",
-        "win"
-      ],
-      "item_ids": [
-        "8c8a83be843d"
       ],
       "outlets": [
         "BBC News"
@@ -9592,18 +9631,54 @@
       ]
     },
     {
-      "id": "607313287320",
-      "topic": "crack down faith group",
+      "id": "b790965c0a1b",
+      "topic": "detained ice illegally judge",
       "keywords": [
-        "crack",
-        "down",
-        "faith",
-        "group",
-        "step",
-        "trump"
+        "detained",
+        "ice",
+        "illegally",
+        "judge",
+        "man",
+        "rule"
       ],
       "item_ids": [
-        "6d7c8db16e32"
+        "146c298cc6d3"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "5e1d571967f9",
+      "topic": "become jewish mamdani reckoning",
+      "keywords": [
+        "become",
+        "jewish",
+        "mamdani",
+        "reckoning",
+        "york",
+        "zohran"
+      ],
+      "item_ids": [
+        "f26f5ace00eb"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "28479f5ff120",
+      "topic": "democrat energy fight harnes",
+      "keywords": [
+        "democrat",
+        "energy",
+        "fight",
+        "harnes",
+        "king",
+        "protest"
+      ],
+      "item_ids": [
+        "b08bc09d4c1a"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9622,6 +9697,24 @@
       ],
       "item_ids": [
         "76b9f4ba1ee7"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "607313287320",
+      "topic": "crack down faith group",
+      "keywords": [
+        "crack",
+        "down",
+        "faith",
+        "group",
+        "step",
+        "trump"
+      ],
+      "item_ids": [
+        "6d7c8db16e32"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9700,24 +9793,6 @@
       ]
     },
     {
-      "id": "2270a49a1781",
-      "topic": "charged going jersey officer",
-      "keywords": [
-        "charged",
-        "going",
-        "jersey",
-        "officer",
-        "out",
-        "pizza"
-      ],
-      "item_ids": [
-        "d7c60246e518"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "2ba651db3c9c",
       "topic": "anti canada raise retaliation",
       "keywords": [
@@ -9730,42 +9805,6 @@
       ],
       "item_ids": [
         "5e3893c1ab33"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "52e4217f291c",
-      "topic": "hispanic plunge since started",
-      "keywords": [
-        "hispanic",
-        "plunge",
-        "since",
-        "started",
-        "support",
-        "trump"
-      ],
-      "item_ids": [
-        "b35ddede2726"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "05270c52dfe8",
-      "topic": "backer donor identified mellon",
-      "keywords": [
-        "backer",
-        "donor",
-        "identified",
-        "mellon",
-        "timothy",
-        "trump"
-      ],
-      "item_ids": [
-        "4dec2ded441d"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -10132,6 +10171,24 @@
       ]
     },
     {
+      "id": "16f9e5cc16e7",
+      "topic": "2025 best budget camera",
+      "keywords": [
+        "2025",
+        "best",
+        "budget",
+        "camera",
+        "compact",
+        "gopro"
+      ],
+      "item_ids": [
+        "b81fd40ff8f5"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "dd136c9bf6c9",
       "topic": "favorable firm hybrid mattres",
       "keywords": [
@@ -10287,23 +10344,6 @@
       ],
       "item_ids": [
         "3a981833f45c"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "7605480bde53",
-      "topic": "bluetooth bottled review sodapop",
-      "keywords": [
-        "bluetooth",
-        "bottled",
-        "review",
-        "sodapop",
-        "speaker"
-      ],
-      "item_ids": [
-        "bbf44a5edad7"
       ],
       "outlets": [
         "WIRED"
@@ -11320,108 +11360,144 @@
       ]
     },
     {
-      "id": "287979e40b60",
-      "topic": "avoid contaminated hard pesticide",
+      "id": "019ca9f3f6d0",
+      "topic": "dam historic inspire removal",
       "keywords": [
-        "avoid",
-        "contaminated",
-        "hard",
-        "pesticide",
-        "reveal",
-        "study"
+        "dam",
+        "historic",
+        "inspire",
+        "removal",
+        "teen",
+        "year"
       ],
       "item_ids": [
-        "8c28da114f45"
+        "18dc788c65ab"
       ],
       "outlets": [
         "Environment | The Guardian"
       ]
     },
     {
-      "id": "7079587b05ce",
-      "topic": "disabled driver grey risk",
+      "id": "5f8aea493e53",
+      "topic": "allow california hunting problematic",
       "keywords": [
-        "disabled",
-        "driver",
-        "grey",
-        "risk",
-        "tanni",
-        "thompson"
+        "allow",
+        "california",
+        "hunting",
+        "problematic",
+        "specie",
+        "very"
       ],
       "item_ids": [
-        "405248e48c7a"
+        "29372dcf53b2"
       ],
       "outlets": [
         "Environment | The Guardian"
       ]
     },
     {
-      "id": "ac63e3986640",
-      "topic": "country diary each foxe",
+      "id": "22db6b7ddbfb",
+      "topic": "chicken crime rescue she",
       "keywords": [
-        "country",
-        "diary",
-        "each",
-        "foxe",
-        "watching",
-        "young"
+        "chicken",
+        "crime",
+        "rescue",
+        "she",
+        "slaughterhouse",
+        "took"
       ],
       "item_ids": [
-        "87e3b8b3b430"
+        "d3fea4f99d09"
       ],
       "outlets": [
         "Environment | The Guardian"
       ]
     },
     {
-      "id": "427dc4e6b6c4",
-      "topic": "airport expansion goal net",
+      "id": "f2860a7090c9",
+      "topic": "approve gas house increased",
       "keywords": [
-        "airport",
-        "expansion",
-        "goal",
-        "net",
-        "put",
-        "zero"
+        "approve",
+        "gas",
+        "house",
+        "increased",
+        "oil",
+        "white"
       ],
       "item_ids": [
-        "2f871201a838"
+        "c42ad93d3b2b"
       ],
       "outlets": [
         "Environment | The Guardian"
       ]
     },
     {
-      "id": "123e12544738",
-      "topic": "bad climate crisi especially",
+      "id": "029d3d4ea137",
+      "topic": "blackfeet centurie montana nation",
       "keywords": [
-        "bad",
+        "blackfeet",
+        "centurie",
+        "montana",
+        "nation",
+        "trauma",
+        "turn"
+      ],
+      "item_ids": [
+        "c078221a22cb"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "bf5bb6c56187",
+      "topic": "flooding heatwave lead marine",
+      "keywords": [
+        "flooding",
+        "heatwave",
+        "lead",
+        "marine",
+        "ocean",
+        "pacific"
+      ],
+      "item_ids": [
+        "fb950b50dd76"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "b4141233a306",
+      "topic": "allow climate demand reverse",
+      "keywords": [
+        "allow",
         "climate",
-        "crisi",
-        "especially",
-        "flyer",
-        "frightened"
+        "demand",
+        "reverse",
+        "rule",
+        "surge"
       ],
       "item_ids": [
-        "c2be71354612"
+        "e8eecf72c69a"
       ],
       "outlets": [
         "Environment | The Guardian"
       ]
     },
     {
-      "id": "3bfa52ab7241",
-      "topic": "canada country diary geese",
+      "id": "acbbf6f0695d",
+      "topic": "arrest backing biologist curb",
       "keywords": [
-        "canada",
-        "country",
-        "diary",
-        "geese",
-        "lesson",
-        "rest"
+        "arrest",
+        "backing",
+        "biologist",
+        "curb",
+        "russia",
+        "ukrainian"
       ],
       "item_ids": [
-        "72057e512706"
+        "aca5ad19655a"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11446,36 +11522,18 @@
       ]
     },
     {
-      "id": "011b352a84eb",
-      "topic": "big day dead man",
+      "id": "dd9e83e76ec8",
+      "topic": "buyer first forced nature",
       "keywords": [
-        "big",
-        "day",
-        "dead",
-        "man",
-        "moth",
-        "something"
+        "buyer",
+        "first",
+        "forced",
+        "nature",
+        "time",
+        "young"
       ],
       "item_ids": [
-        "615f3dd17860"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "019ca9f3f6d0",
-      "topic": "dam historic inspire removal",
-      "keywords": [
-        "dam",
-        "historic",
-        "inspire",
-        "removal",
-        "teen",
-        "year"
-      ],
-      "item_ids": [
-        "18dc788c65ab"
+        "068b54e84230"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11804,6 +11862,24 @@
       ]
     },
     {
+      "id": "b5dee65708ac",
+      "topic": "2026 abys april ascend",
+      "keywords": [
+        "2026",
+        "abys",
+        "april",
+        "ascend",
+        "cosmic",
+        "cthulhu"
+      ],
+      "item_ids": [
+        "14e2662639c9"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "e66312000a6c",
       "topic": "cuts dead dice finger",
       "keywords": [
@@ -11960,24 +12036,6 @@
       ],
       "item_ids": [
         "191d881ca8b8"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "10b8b306122a",
-      "topic": "alicia gen join skeet",
-      "keywords": [
-        "alicia",
-        "gen",
-        "join",
-        "skeet",
-        "ulrich",
-        "witt"
-      ],
-      "item_ids": [
-        "35fa777063da"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -13640,6 +13698,24 @@
       ]
     },
     {
+      "id": "0949e887932a",
+      "topic": "break european radiohead talk",
+      "keywords": [
+        "break",
+        "european",
+        "radiohead",
+        "talk",
+        "took",
+        "tour"
+      ],
+      "item_ids": [
+        "c8dcda906d19"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "672a56c705c6",
       "topic": "mamdani message pinkpantheres share",
       "keywords": [
@@ -13796,24 +13872,6 @@
       ],
       "item_ids": [
         "aa4efad78e3c"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "bd8ef4acb549",
-      "topic": "anthology beatle just preview",
-      "keywords": [
-        "anthology",
-        "beatle",
-        "just",
-        "preview",
-        "unreleased",
-        "version"
-      ],
-      "item_ids": [
-        "39044ffdb250"
       ],
       "outlets": [
         "Music News"
