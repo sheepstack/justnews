@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T05:18:43Z",
+  "generated_at": "2025-10-26T05:56:33Z",
   "items": [
     {
       "id": "88a01c1d8865",
@@ -2132,6 +2132,39 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "537b0cce1a81",
+      "title": "Children injured in Russian strikes on Kyiv, Ukrainian officials say",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czxnye07x2lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 26 Oct 2025 04:53:17 GMT",
+      "bullets": [
+        "• Four children injured in Russian air strikes on Kyiv, Ukrainian officials say",
+        "• US President Donald Trump says he will only meet Putin if he knows a deal is reached",
+        "• Russia-Ukraine war has become a focal point for Trump in recent months",
+        "• He is due to meet China's President Xi Jinping in South Korea on Thursday "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.815
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Four children injured in Russian air strikes on Kyiv, Ukrainian officials say",
+          "• US President Donald Trump says he will only meet Putin if he knows a deal is reached"
+        ],
+        "hopeful_bullets": [
+          "• Four children injured in Russian air strikes on Kyiv, Ukrainian officials say",
+          "• US President Donald Trump says he will only meet Putin if he knows a deal is reached"
+        ],
+        "stakes_bullets": [
+          "• US President Donald Trump says he will only meet Putin if he knows a deal is reached"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "475e48a7a3fa"
+    },
+    {
       "id": "3b256ad3070f",
       "title": "Minister to retain final say on controversial projects under Labor’s long-awaited nature laws",
       "outlet": "Environment | The Guardian",
@@ -3792,37 +3825,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "7c6babf43a05"
-    },
-    {
-      "id": "827c90c7d5d3",
-      "title": "Trump hopes China will help push Russia towards Ukraine peace talks",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn51yk9vgrko?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 25 Oct 2025 13:07:30 GMT",
-      "bullets": [
-        "• Trump hopes China will help push Russia towards Ukraine peace talks",
-        "• China is Russia's biggest ally, and a vital support to Moscow since sanctions were imposed over its war in Ukraine",
-        "• Ending the Russia-Ukraine war has become a focal point for Trump in recent months "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump hopes China will help push Russia towards Ukraine peace talks",
-          "• China is Russia's biggest ally, and a vital support to Moscow since sanctions were imposed over its war in Ukraine"
-        ],
-        "hopeful_bullets": [
-          "• Trump hopes China will help push Russia towards Ukraine peace talks"
-        ],
-        "stakes_bullets": [
-          "• Trump hopes China will help push Russia towards Ukraine peace talks"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5d740a962549"
     },
     {
       "id": "32421baf2849",
@@ -9332,6 +9334,24 @@
       ]
     },
     {
+      "id": "475e48a7a3fa",
+      "topic": "children injured kyiv russian",
+      "keywords": [
+        "children",
+        "injured",
+        "kyiv",
+        "russian",
+        "strike",
+        "ukrainian"
+      ],
+      "item_ids": [
+        "537b0cce1a81"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "06a5fc2c0bfe",
       "topic": "130m donor give military",
       "keywords": [
@@ -9398,24 +9418,6 @@
       ],
       "item_ids": [
         "78cb66af2b4f"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "5d740a962549",
-      "topic": "china help hope push",
-      "keywords": [
-        "china",
-        "help",
-        "hope",
-        "push",
-        "russia",
-        "trump"
-      ],
-      "item_ids": [
-        "827c90c7d5d3"
       ],
       "outlets": [
         "BBC News"
