@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T07:54:46Z",
+  "generated_at": "2025-10-26T08:13:24Z",
   "items": [
     {
       "id": "88a01c1d8865",
@@ -2306,30 +2306,31 @@
       "url": "https://www.theguardian.com/us-news/2025/oct/26/trump-oversees-thailand-cambodia-ceasefire-signing-as-asia-tour-gets-under-way",
       "published_at": "Sun, 26 Oct 2025 05:32:46 GMT",
       "bullets": [
-        "• The leaders of Thailand and Cambodia signed an enhanced ceasefire deal on Sunday in the presence of Donald Trump",
-        "• The agreement included Thailand releasing 18 Cambodian soldiers held prisoner and for both sides to begin removing heavy weapons from the border area",
-        "• It builds on a truce reached three months ago after Trump called the then leaders of the two countries and urged them to end hostilities "
+        "• Donald Trump has overseen the signing of a ceasefire agreement between Thailand and Cambodia",
+        "• The US president arrived in Malaysia on Sunday ahead of the Asean summit in Kuala Lumpur",
+        "• The two sides agreed to remove heavy weapons from the border area, remove landmines and release 18 detained Cambodian soldiers "
       ],
       "category": "US",
       "sentiment": {
-        "label": "negative",
-        "score": 0.812
+        "label": "positive",
+        "score": 0.827
       },
       "moods": {
         "brief_bullets": [
-          "• The leaders of Thailand and Cambodia signed an enhanced ceasefire deal on Sunday in the presence of Donald Trump",
-          "• The agreement included Thailand releasing 18 Cambodian soldiers held prisoner and for both sides to begin removing heavy weapons from the border area"
+          "• Donald Trump has overseen the signing of a ceasefire agreement between Thailand and Cambodia",
+          "• The US president arrived in Malaysia on Sunday ahead of the Asean summit in Kuala Lumpur"
         ],
         "hopeful_bullets": [
-          "• The leaders of Thailand and Cambodia signed an enhanced ceasefire deal on Sunday in the presence of Donald Trump",
-          "• The agreement included Thailand releasing 18 Cambodian soldiers held prisoner and for both sides to begin removing heavy weapons from the border area"
+          "• Donald Trump has overseen the signing of a ceasefire agreement between Thailand and Cambodia",
+          "• The US president arrived in Malaysia on Sunday ahead of the Asean summit in Kuala Lumpur"
         ],
         "stakes_bullets": [
-          "• The leaders of Thailand and Cambodia signed an enhanced ceasefire deal on Sunday in the presence of Donald Trump",
-          "• It builds on a truce reached three months ago after Trump called the then leaders of the two countries and urged them to end hostilities "
+          "• Donald Trump has overseen the signing of a ceasefire agreement between Thailand and Cambodia",
+          "• The US president arrived in Malaysia on Sunday ahead of the Asean summit in Kuala Lumpur",
+          "• The two sides agreed to remove heavy weapons from the border area, remove landmines and release 18 detained Cambodian soldiers "
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 3,
       "cluster_id": "a4753e599ed4"
     },
     {
@@ -2497,6 +2498,41 @@
       },
       "read_minutes": 13,
       "cluster_id": "3c61426aaf64"
+    },
+    {
+      "id": "9dc4cd93215c",
+      "title": "Trump attends ceasefire ceremony with Thailand and Cambodia during Malaysia visit",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/10/26/nx-s1-5586583/trump-ceasefire-ceremony-thailand-cambodia-malaysia-visit",
+      "published_at": "Sun, 26 Oct 2025 03:41:12 -0400",
+      "bullets": [
+        "• U.S",
+        "• President Donald Trump attends ceasefire agreement with Thailand and Cambodia",
+        "• The two nations signed an expanded ceasefire agreement on Sunday during a ceremony in Malaysia",
+        "• Cambodia and Thailand will release prisoners and withdraw heavy weapons from each other",
+        "• The deal is part of an ongoing dispute between the two nations over the border "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.892
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• President Donald Trump attends ceasefire agreement with Thailand and Cambodia"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• President Donald Trump attends ceasefire agreement with Thailand and Cambodia"
+        ],
+        "stakes_bullets": [
+          "• The two nations signed an expanded ceasefire agreement on Sunday during a ceremony in Malaysia",
+          "• Cambodia and Thailand will release prisoners and withdraw heavy weapons from each other"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "510e2af8b577"
     },
     {
       "id": "ec4d32d69069",
@@ -7523,41 +7559,6 @@
       "cluster_id": "56df7b0d8d11"
     },
     {
-      "id": "b0ee869612f4",
-      "title": "Inflation ticked up 3% in September, the U.S. belatedly reports",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/24/nx-s1-5584959/inflation-september-shutdown-social-security",
-      "published_at": "Fri, 24 Oct 2025 08:52:30 -0400",
-      "bullets": [
-        "• Inflation ticked up 3% in September, the U.S",
-        "• Bureau of Labor Statistics belatedly reports",
-        "• The report was published nine days later than normal due to the government shutdown",
-        "• Most government economic reports have been suspended until funding is restored "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Inflation ticked up 3% in September, the U.S",
-          "• Bureau of Labor Statistics belatedly reports"
-        ],
-        "hopeful_bullets": [
-          "• Inflation ticked up 3% in September, the U.S",
-          "• Bureau of Labor Statistics belatedly reports"
-        ],
-        "stakes_bullets": [
-          "• Inflation ticked up 3% in September, the U.S",
-          "• Bureau of Labor Statistics belatedly reports",
-          "• The report was published nine days later than normal due to the government shutdown"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "66e9e3333d72"
-    },
-    {
       "id": "a593e6e86ca9",
       "title": "UK’s biggest weapons firm BAE grounds ‘lifeline’ aircraft delivering food aid",
       "outlet": "World news | The Guardian",
@@ -10707,6 +10708,24 @@
       ]
     },
     {
+      "id": "510e2af8b577",
+      "topic": "attend cambodia ceasefire ceremony",
+      "keywords": [
+        "attend",
+        "cambodia",
+        "ceasefire",
+        "ceremony",
+        "thailand",
+        "trump"
+      ],
+      "item_ids": [
+        "9dc4cd93215c"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "fde970c43cfb",
       "topic": "congressman constituent republican shutdown",
       "keywords": [
@@ -10827,23 +10846,6 @@
       ],
       "item_ids": [
         "993468877b74"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "66e9e3333d72",
-      "topic": "belatedly inflation report september",
-      "keywords": [
-        "belatedly",
-        "inflation",
-        "report",
-        "september",
-        "ticked"
-      ],
-      "item_ids": [
-        "b0ee869612f4"
       ],
       "outlets": [
         "NPR Topics: Politics"
