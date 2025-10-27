@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T04:14:38Z",
+  "generated_at": "2025-10-27T06:01:16Z",
   "items": [
     {
       "id": "88a01c1d8865",
@@ -2032,6 +2032,38 @@
       "cluster_id": "f5a5cf44b472"
     },
     {
+      "id": "560046df8bd7",
+      "title": "Rebel group claims capture of key city in Sudan",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78z025dze4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 26 Oct 2025 23:42:02 GMT",
+      "bullets": [
+        "• Rebel group claims capture of key city in Sudan's Darfur region",
+        "• Rapid Support Forces (RSF) says it has taken control of western city of el-Fasher",
+        "• The loss would be a huge blow to the Sudanese army, leaving it effectively in control of the area "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.943
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rebel group claims capture of key city in Sudan's Darfur region",
+          "• Rapid Support Forces (RSF) says it has taken control of western city of el-Fasher"
+        ],
+        "hopeful_bullets": [
+          "• Rebel group claims capture of key city in Sudan's Darfur region",
+          "• Rapid Support Forces (RSF) says it has taken control of western city of el-Fasher"
+        ],
+        "stakes_bullets": [
+          "• The loss would be a huge blow to the Sudanese army, leaving it effectively in control of the area "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "1573c51e0ab0"
+    },
+    {
       "id": "2cebd0b17139",
       "title": "Joe Jonas Humorously Responds to Backlash Over Jonas Brothers’ World Series Performance",
       "outlet": "Music News",
@@ -2100,6 +2132,39 @@
       "cluster_id": "72a7a807da17"
     },
     {
+      "id": "0bafbb4190b8",
+      "title": "Inside Syria's jail for IS suspects as officials say attacks by group are rising",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cze6y5x8np8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 26 Oct 2025 22:04:29 GMT",
+      "bullets": [
+        "• Walid Abdul-Basit Mousa was killed in battle against IS in Syria",
+        "• The 21-year-old was so keen to take on the extremists that he ran away from home to join the SDF",
+        "• He was one of eight children, and the youngest of the boys "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Walid Abdul-Basit Mousa was killed in battle against IS in Syria",
+          "• The 21-year-old was so keen to take on the extremists that he ran away from home to join the SDF"
+        ],
+        "hopeful_bullets": [
+          "• Walid Abdul-Basit Mousa was killed in battle against IS in Syria"
+        ],
+        "stakes_bullets": [
+          "• Walid Abdul-Basit Mousa was killed in battle against IS in Syria",
+          "• The 21-year-old was so keen to take on the extremists that he ran away from home to join the SDF",
+          "• He was one of eight children, and the youngest of the boys "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "88c1c7cfb916"
+    },
+    {
       "id": "2686ade26625",
       "title": "Mike Flanagan Wraps Production on ‘Carrie’ Series, “One of My Favorite Projects Ever”",
       "outlet": "Bloody Disgusting!",
@@ -2130,39 +2195,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "017ad098ab2a"
-    },
-    {
-      "id": "f2b88d52a942",
-      "title": "Violent protests flare in Cameroon as results due in contested election",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly4x9n0yvno?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 26 Oct 2025 21:45:04 GMT",
-      "bullets": [
-        "• Police fire tear gas and water cannons at opposition supporters of Issa Tchiroma Bakary in his stronghold of Garoua, a city in the north of the country",
-        "• The opposition leader has insisted that he won the presidential election held on 12 October",
-        "• The CPDM party has dismissed the claims",
-        "• Authorities have banned gatherings until Monday when results are due to be announced "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Police fire tear gas and water cannons at opposition supporters of Issa Tchiroma Bakary in his stronghold of Garoua, a city in the north of the country",
-          "• The opposition leader has insisted that he won the presidential election held on 12 October"
-        ],
-        "hopeful_bullets": [
-          "• Police fire tear gas and water cannons at opposition supporters of Issa Tchiroma Bakary in his stronghold of Garoua, a city in the north of the country"
-        ],
-        "stakes_bullets": [
-          "• The opposition leader has insisted that he won the presidential election held on 12 October",
-          "• Authorities have banned gatherings until Monday when results are due to be announced "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "bb3963443af0"
     },
     {
       "id": "f654c0dc55c0",
@@ -2629,40 +2661,6 @@
       "cluster_id": "302192778b88"
     },
     {
-      "id": "537b0cce1a81",
-      "title": "Three killed in Russian strikes on Kyiv, officials say",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czxnye07x2lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 26 Oct 2025 15:35:22 GMT",
-      "bullets": [
-        "• Three people killed and at least 32 injured in Russian air strikes on Ukraine's capital",
-        "• Russian air defences destroyed two drones heading towards Moscow on Sunday",
-        "• Two high-rise residential buildings were hit in the strikes, city's mayor said",
-        "• Russia has stepped up attacks on civilian targets and energy infrastructure ahead of winter "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.967
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Three people killed and at least 32 injured in Russian air strikes on Ukraine's capital",
-          "• Russian air defences destroyed two drones heading towards Moscow on Sunday"
-        ],
-        "hopeful_bullets": [
-          "• Russia has stepped up attacks on civilian targets and energy infrastructure ahead of winter "
-        ],
-        "stakes_bullets": [
-          "• Three people killed and at least 32 injured in Russian air strikes on Ukraine's capital",
-          "• Russian air defences destroyed two drones heading towards Moscow on Sunday",
-          "• Two high-rise residential buildings were hit in the strikes, city's mayor said"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a56049a3bd4a"
-    },
-    {
       "id": "0eeb4acb1385",
       "title": "Two arrested over theft of jewels at Louvre museum in Paris",
       "outlet": "BBC News",
@@ -2729,6 +2727,37 @@
       "cluster_id": "57c02d5a2642"
     },
     {
+      "id": "6ec86871ccdd",
+      "title": "Hurricane Melissa strengthens to category 4 as evacuations ordered in Jamaica’s capital",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/26/hurricane-melissa-strengthens-into-category-4-approaches-jamaica",
+      "published_at": "Sun, 26 Oct 2025 14:12:48 GMT",
+      "bullets": [
+        "• Jamaica's prime minister orders mandatory evacuations for vulnerable areas including in the capital, Kingston",
+        "• The storm could reach category 5 strength on Monday, the US National Hurricane Centre said",
+        "• It had maximum sustained winds of 145mph (230km/h) and was moving west at 5mph (7km/H)"
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jamaica's prime minister orders mandatory evacuations for vulnerable areas including in the capital, Kingston",
+          "• The storm could reach category 5 strength on Monday, the US National Hurricane Centre said"
+        ],
+        "hopeful_bullets": [
+          "• It had maximum sustained winds of 145mph (230km/h) and was moving west at 5mph (7km/H)"
+        ],
+        "stakes_bullets": [
+          "• The storm could reach category 5 strength on Monday, the US National Hurricane Centre said"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "2fa4b0b30068"
+    },
+    {
       "id": "b0368770ddd5",
       "title": "Coalition pushes to break up environment bill as fight over new nature laws heads to parliament",
       "outlet": "Environment | The Guardian",
@@ -2761,39 +2790,6 @@
       "cluster_id": "c2108a2f7edf"
     },
     {
-      "id": "1de6fee882d3",
-      "title": "The not-so-little Murray cod that could: fish tracked swimming 900km along Australia’s biggest river system",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/oct/27/murray-cod-tracked-swimming-australia-biggest-river-system",
-      "published_at": "Sun, 26 Oct 2025 14:00:06 GMT",
-      "bullets": [
-        "• A young Murray cod has swum one of the longest ever recorded journeys for the species",
-        "• The species is Australia’s largest freshwater fish, grow up to 1.5 metres and can live for half a century",
-        "• Researchers tagged about 70 juvenile cod using small audio tags "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A young Murray cod has swum one of the longest ever recorded journeys for the species",
-          "• The species is Australia’s largest freshwater fish, grow up to 1.5 metres and can live for half a century"
-        ],
-        "hopeful_bullets": [
-          "• A young Murray cod has swum one of the longest ever recorded journeys for the species"
-        ],
-        "stakes_bullets": [
-          "• A young Murray cod has swum one of the longest ever recorded journeys for the species",
-          "• The species is Australia’s largest freshwater fish, grow up to 1.5 metres and can live for half a century",
-          "• Researchers tagged about 70 juvenile cod using small audio tags "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "3b40e60c46b5"
-    },
-    {
       "id": "d54d1d8638cf",
       "title": "These friends were fired from dream jobs decades into their careers—their best advice for surviving a layoff",
       "outlet": "US Top News and Analysis",
@@ -2824,41 +2820,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "0435ba9c9407"
-    },
-    {
-      "id": "5ee7cd9cecb7",
-      "title": "Has Trump's 'peace deal' solved the Thailand-Cambodia dispute?",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cy40n3ykx93o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 26 Oct 2025 13:39:19 GMT",
-      "bullets": [
-        "• Donald Trump has signed a peace deal between Thailand and Cambodia",
-        "• The two countries have agreed to withdraw their heavy weapons from the disputed region",
-        "• But the underlying issues remain unresolved, says the BBC's Tessa Wong",
-        "• She asks: What does the \"Kuala Lumpur Peace Accord\" actually amount to?"
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump has signed a peace deal between Thailand and Cambodia",
-          "• The two countries have agreed to withdraw their heavy weapons from the disputed region"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump has signed a peace deal between Thailand and Cambodia",
-          "• The two countries have agreed to withdraw their heavy weapons from the disputed region"
-        ],
-        "stakes_bullets": [
-          "• Donald Trump has signed a peace deal between Thailand and Cambodia",
-          "• The two countries have agreed to withdraw their heavy weapons from the disputed region",
-          "• But the underlying issues remain unresolved, says the BBC's Tessa Wong"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "de09570fc769"
     },
     {
       "id": "c8dcda906d19",
@@ -2987,39 +2948,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "3bd053f247a4"
-    },
-    {
-      "id": "f52d0ff8826d",
-      "title": "Georgia arrests three for trying to illegally buy 2kg of uranium",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgjdgv6z3l9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 26 Oct 2025 13:01:58 GMT",
-      "bullets": [
-        "• Group planned to pay $400,000 (£300,570) for 2kg of uranium, officials say",
-        "• One member of the group was attempting to buy the radioactive substance on the black market, they say",
-        "• The three have pleaded not guilty at a court in Tblisi and have been placed in custody "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Group planned to pay $400,000 (£300,570) for 2kg of uranium, officials say",
-          "• One member of the group was attempting to buy the radioactive substance on the black market, they say"
-        ],
-        "hopeful_bullets": [
-          "• Group planned to pay $400,000 (£300,570) for 2kg of uranium, officials say",
-          "• One member of the group was attempting to buy the radioactive substance on the black market, they say"
-        ],
-        "stakes_bullets": [
-          "• Group planned to pay $400,000 (£300,570) for 2kg of uranium, officials say",
-          "• The three have pleaded not guilty at a court in Tblisi and have been placed in custody "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a17e2c87bc62"
     },
     {
       "id": "b81fd40ff8f5",
@@ -3545,70 +3473,6 @@
       "cluster_id": "bd3f76f10389"
     },
     {
-      "id": "909e6962ed9c",
-      "title": "Hurricane Melissa strengthens as it barrels towards Jamaica",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgkqvxkzx0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 26 Oct 2025 10:28:16 GMT",
-      "bullets": [
-        "• Hurricane Melissa is forecast to become a rare category five hurricane",
-        "• The cyclone is expected to bring up to 30 inches of rain and sea level surges as high as 13ft (4m) above ground",
-        "• It is the 13th hurricane in this year's Atlantic season, which typically ends in November "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hurricane Melissa is forecast to become a rare category five hurricane",
-          "• The cyclone is expected to bring up to 30 inches of rain and sea level surges as high as 13ft (4m) above ground"
-        ],
-        "hopeful_bullets": [
-          "• The cyclone is expected to bring up to 30 inches of rain and sea level surges as high as 13ft (4m) above ground"
-        ],
-        "stakes_bullets": [
-          "• The cyclone is expected to bring up to 30 inches of rain and sea level surges as high as 13ft (4m) above ground"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "5becd6bfd4fa"
-    },
-    {
-      "id": "aca5ad19655a",
-      "title": "Russia arrests Ukrainian biologist for backing curbs on Antarctic krill fishing",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/oct/26/russia-ukrainian-biologist-leonid-pshenichnov-arrest-treason-antarctic-krill-overfishing",
-      "published_at": "Sun, 26 Oct 2025 10:00:01 GMT",
-      "bullets": [
-        "• Leonid Pshenichnov, 70, has a decades-long record of scientific research",
-        "• He was preparing to attend a conference on protecting Antarctic marine life when he was arrested",
-        "• He has since been accused by the Russians of high treason "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.795
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Leonid Pshenichnov, 70, has a decades-long record of scientific research",
-          "• He was preparing to attend a conference on protecting Antarctic marine life when he was arrested"
-        ],
-        "hopeful_bullets": [
-          "• Leonid Pshenichnov, 70, has a decades-long record of scientific research"
-        ],
-        "stakes_bullets": [
-          "• Leonid Pshenichnov, 70, has a decades-long record of scientific research",
-          "• He was preparing to attend a conference on protecting Antarctic marine life when he was arrested",
-          "• He has since been accused by the Russians of high treason "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "acbbf6f0695d"
-    },
-    {
       "id": "3a981833f45c",
       "title": "A First Ride With the Maeving RM2 Electric Motorcycle",
       "outlet": "WIRED",
@@ -3805,38 +3669,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "985024bc40af"
-    },
-    {
-      "id": "ebc0737954e6",
-      "title": "Harris 'concerned' she did not ask Biden to quit race",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj412zgvy4do?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 26 Oct 2025 08:07:39 GMT",
-      "bullets": [
-        "• Harris 'concerned' she did not ask Biden to quit race after months of speculation about his health and mental acuity",
-        "• She said: \"I do reflect on whether I should have had a conversation with him, urging him not to run\" President Biden ended his re-election bid in July 2024 "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.916
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Harris 'concerned' she did not ask Biden to quit race after months of speculation about his health and mental acuity",
-          "• She said: \"I do reflect on whether I should have had a conversation with him, urging him not to run\" President Biden ended his re-election bid in July 2024 "
-        ],
-        "hopeful_bullets": [
-          "• Harris 'concerned' she did not ask Biden to quit race after months of speculation about his health and mental acuity",
-          "• She said: \"I do reflect on whether I should have had a conversation with him, urging him not to run\" President Biden ended his re-election bid in July 2024 "
-        ],
-        "stakes_bullets": [
-          "• Harris 'concerned' she did not ask Biden to quit race after months of speculation about his health and mental acuity",
-          "• She said: \"I do reflect on whether I should have had a conversation with him, urging him not to run\" President Biden ended his re-election bid in July 2024 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b2d2dbe100fb"
     },
     {
       "id": "ed0e5130556e",
@@ -4338,35 +4170,36 @@
     },
     {
       "id": "bf29a3976a02",
-      "title": "Hurricane Melissa threatens life-threatening flooding in Jamaica, Haiti and Cuba",
+      "title": "Hurricane Melissa threatens catastrophic flooding in Jamaica, Haiti and Cuba",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2025/10/25/nx-s1-5586114/category-4-hurricane-melissa-jamaica",
       "published_at": "Sat, 25 Oct 2025 21:31:15 -0400",
       "bullets": [
-        "• Hurricane Melissa threatens life-threatening flooding in Jamaica, Haiti and Cuba",
-        "• The storm is expected to bring a deluge of rain to multiple countries in the Caribbean",
-        "• The hurricane was moving west at 5 mph as of 8 p.m",
-        "• ET Sunday, with maximum sustained winds reaching 145 mph "
+        "• Hurricane Melissa threatens catastrophic flooding in Jamaica, Haiti and Cuba",
+        "• The storm is expected to bring life-threatening flash flooding and landslides to parts of Jamaica, eastern Cuba, and southern Hispaniola",
+        "• A hurricane warning is in effect for Jamaica and parts of Cuba, while parts of Haiti are under a hurricane watch "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.817
+        "score": 0.926
       },
       "moods": {
         "brief_bullets": [
-          "• Hurricane Melissa threatens life-threatening flooding in Jamaica, Haiti and Cuba",
-          "• The storm is expected to bring a deluge of rain to multiple countries in the Caribbean"
+          "• Hurricane Melissa threatens catastrophic flooding in Jamaica, Haiti and Cuba",
+          "• The storm is expected to bring life-threatening flash flooding and landslides to parts of Jamaica, eastern Cuba, and southern Hispaniola"
         ],
         "hopeful_bullets": [
-          "• ET Sunday, with maximum sustained winds reaching 145 mph "
+          "• Hurricane Melissa threatens catastrophic flooding in Jamaica, Haiti and Cuba",
+          "• The storm is expected to bring life-threatening flash flooding and landslides to parts of Jamaica, eastern Cuba, and southern Hispaniola"
         ],
         "stakes_bullets": [
-          "• The storm is expected to bring a deluge of rain to multiple countries in the Caribbean"
+          "• The storm is expected to bring life-threatening flash flooding and landslides to parts of Jamaica, eastern Cuba, and southern Hispaniola",
+          "• A hurricane warning is in effect for Jamaica and parts of Cuba, while parts of Haiti are under a hurricane watch "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "b10fa6afcf70"
+      "cluster_id": "cefb94860a46"
     },
     {
       "id": "b739167a97ae",
@@ -4437,7 +4270,7 @@
     {
       "id": "8d39741e8234",
       "title": "The White House movie theater demolition ends a storied era in presidential history",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/25/nx-s1-5586110/white-house-movie-theater-cultural-history-demolition",
       "published_at": "Sat, 25 Oct 2025 18:23:07 -0400",
       "bullets": [
@@ -4445,7 +4278,7 @@
         "• It was, on occasion, used by presidents to rehearse important speeches such as the State of the Union address",
         "• The theater has screened everything from newsreels and documentaries to westerns and musicals "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.937
@@ -5191,41 +5024,6 @@
       "cluster_id": "431181199539"
     },
     {
-      "id": "e81342ef220a",
-      "title": "US places sanctions on Colombian president over alleged failure to stop cartels",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/24/us-sanctions-colombian-president-gustavo-petro",
-      "published_at": "Sat, 25 Oct 2025 00:36:53 GMT",
-      "bullets": [
-        "• The US treasury department has announced sanctions on Colombian president Gustavo Petro",
-        "• Petro is one of Donald Trump's harshest international critics",
-        "• Petro has consistently criticized US support of Israeli military actions",
-        "• The US state department revoked Petro’s visa in September after he took part in pro-Palestinian protests "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The US treasury department has announced sanctions on Colombian president Gustavo Petro",
-          "• Petro is one of Donald Trump's harshest international critics"
-        ],
-        "hopeful_bullets": [
-          "• The US treasury department has announced sanctions on Colombian president Gustavo Petro",
-          "• Petro is one of Donald Trump's harshest international critics"
-        ],
-        "stakes_bullets": [
-          "• The US treasury department has announced sanctions on Colombian president Gustavo Petro",
-          "• Petro is one of Donald Trump's harshest international critics",
-          "• Petro has consistently criticized US support of Israeli military actions"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2955beeb8a50"
-    },
-    {
       "id": "5726b62cf7fe",
       "title": "Chrissy Chlapecka Reconnects With Her Inner ‘Fierce Diva’ in Cyberpop ‘Apollo’ Video",
       "outlet": "Music News",
@@ -5460,6 +5258,236 @@
       "cluster_id": "ce5a5a3ce234"
     },
     {
+      "id": "2020b8f1f7a9",
+      "title": "HSBC to recognize $1.1 billion provision in third quarter after court ruling in Madoff case",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/27/hsbc-1point1-billion-in-provision-third-quarter-madoff-case.html",
+      "published_at": "Mon, 27 Oct 2025 05:31:13 GMT",
+      "bullets": [
+        "• HSBC says it will recognize a provision of $1.1 billion in its third quarter results",
+        "• The bank will now pursue a second appeal before the Luxembourg Court of Appeal",
+        "• Bernard Madoff was described as the mastermind of the largest investment fraud in U.S., defrauding clients of $65 billion "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.964
+      },
+      "moods": {
+        "brief_bullets": [
+          "• HSBC says it will recognize a provision of $1.1 billion in its third quarter results",
+          "• The bank will now pursue a second appeal before the Luxembourg Court of Appeal"
+        ],
+        "hopeful_bullets": [
+          "• HSBC says it will recognize a provision of $1.1 billion in its third quarter results",
+          "• The bank will now pursue a second appeal before the Luxembourg Court of Appeal"
+        ],
+        "stakes_bullets": [
+          "• HSBC says it will recognize a provision of $1.1 billion in its third quarter results",
+          "• The bank will now pursue a second appeal before the Luxembourg Court of Appeal",
+          "• Bernard Madoff was described as the mastermind of the largest investment fraud in U.S., defrauding clients of $65 billion "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e7a9103090b1"
+    },
+    {
+      "id": "f2b88d52a942",
+      "title": "Four killed in Cameroon protests as results due in contested election",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly4x9n0yvno?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 27 Oct 2025 05:21:20 GMT",
+      "bullets": [
+        "• Four killed in Cameroon protests as results due in contested election are announced",
+        "• Hundreds of supporters of opposition presidential candidate, Issa Tchiroma Bakary, defy ban to hold protests",
+        "• Security forces clash with protesters in several cities, clashing with security forces",
+        "• The ruling party has dismissed the claims "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Four killed in Cameroon protests as results due in contested election are announced",
+          "• Hundreds of supporters of opposition presidential candidate, Issa Tchiroma Bakary, defy ban to hold protests"
+        ],
+        "hopeful_bullets": [
+          "• Four killed in Cameroon protests as results due in contested election are announced",
+          "• Hundreds of supporters of opposition presidential candidate, Issa Tchiroma Bakary, defy ban to hold protests"
+        ],
+        "stakes_bullets": [
+          "• Four killed in Cameroon protests as results due in contested election are announced",
+          "• Hundreds of supporters of opposition presidential candidate, Issa Tchiroma Bakary, defy ban to hold protests"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d536253fa072"
+    },
+    {
+      "id": "2f503ae8c367",
+      "title": "Argentina's Milei wins big in midterms with 'chainsaw' austerity",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gw8qpyvqdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 27 Oct 2025 05:14:10 GMT",
+      "bullets": [
+        "• Argentina's president wins landslide victory in midterm elections",
+        "• His party takes 13 of 24 Senate seats and 64 of the 127 lower-house seats",
+        "• The result will make it easier for the president to push ahead with his programme to cut spending and deregulate the economy "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Argentina's president wins landslide victory in midterm elections",
+          "• His party takes 13 of 24 Senate seats and 64 of the 127 lower-house seats"
+        ],
+        "hopeful_bullets": [
+          "• Argentina's president wins landslide victory in midterm elections"
+        ],
+        "stakes_bullets": [
+          "• The result will make it easier for the president to push ahead with his programme to cut spending and deregulate the economy "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "60ead3ede3f3"
+    },
+    {
+      "id": "c3595727e3e3",
+      "title": "The most challenging thing you’ve ever done – and what you learned from it",
+      "outlet": "Positive News",
+      "url": "https://www.positive.news/society/most-challenging-thing-you-have-ever-done/",
+      "published_at": "Mon, 27 Oct 2025 05:00:25 +0000",
+      "bullets": [
+        "• We asked for your transformative struggles, and you responded in droves, with word of physical challenges, mental hurdles and meaningful moments of reckoning",
+        "• Life-altering moments include confronting childhood abuser and confronting childhood tormentor",
+        "• Moving to another country all by myself has been the most challenging experience I've gone through "
+      ],
+      "category": "Good News",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• We asked for your transformative struggles, and you responded in droves, with word of physical challenges, mental hurdles and meaningful moments of reckoning",
+          "• Life-altering moments include confronting childhood abuser and confronting childhood tormentor"
+        ],
+        "hopeful_bullets": [
+          "• We asked for your transformative struggles, and you responded in droves, with word of physical challenges, mental hurdles and meaningful moments of reckoning",
+          "• Life-altering moments include confronting childhood abuser and confronting childhood tormentor"
+        ],
+        "stakes_bullets": [
+          "• We asked for your transformative struggles, and you responded in droves, with word of physical challenges, mental hurdles and meaningful moments of reckoning",
+          "• Life-altering moments include confronting childhood abuser and confronting childhood tormentor",
+          "• Moving to another country all by myself has been the most challenging experience I've gone through "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "66fb3583ebdb"
+    },
+    {
+      "id": "af894d290dd9",
+      "title": "Bear attack survival tips released in Japan as encounters surge",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/27/bear-attack-survival-tips-released-in-japan-as-encounters-surge",
+      "published_at": "Mon, 27 Oct 2025 04:55:05 GMT",
+      "bullets": [
+        "• People in populated areas are being urged to learn how to protect themselves following a spate of attacks",
+        "• In the past week in Akita prefecture, the animals attacked a jogger and a walker in built-up areas",
+        "• Nine people have died across the country since April – the highest annual total on record "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• People in populated areas are being urged to learn how to protect themselves following a spate of attacks",
+          "• In the past week in Akita prefecture, the animals attacked a jogger and a walker in built-up areas"
+        ],
+        "hopeful_bullets": [
+          "• People in populated areas are being urged to learn how to protect themselves following a spate of attacks",
+          "• Nine people have died across the country since April – the highest annual total on record "
+        ],
+        "stakes_bullets": [
+          "• People in populated areas are being urged to learn how to protect themselves following a spate of attacks",
+          "• In the past week in Akita prefecture, the animals attacked a jogger and a walker in built-up areas",
+          "• Nine people have died across the country since April – the highest annual total on record "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "11cbba2dc9fc"
+    },
+    {
+      "id": "248081ad711a",
+      "title": "Coalition and Greens scolded for opposing new nature laws by author of key environment report",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2025/oct/27/coalition-greens-scolded-opposing-new-nature-laws-environment",
+      "published_at": "Mon, 27 Oct 2025 04:53:36 GMT",
+      "bullets": [
+        "• Graeme Samuel has urged the Coalition and Greens to set aside grievances with the Albanese government’s new nature laws and support them",
+        "• The author of the 2021 review of the Environment Protection and Biodiversity Conservation (EPBC) Act issued a stern message to both sides as Labor braces for a political fight "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.651
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Graeme Samuel has urged the Coalition and Greens to set aside grievances with the Albanese government’s new nature laws and support them",
+          "• The author of the 2021 review of the Environment Protection and Biodiversity Conservation (EPBC) Act issued a stern message to both sides as Labor braces for a political fight "
+        ],
+        "hopeful_bullets": [
+          "• Graeme Samuel has urged the Coalition and Greens to set aside grievances with the Albanese government’s new nature laws and support them",
+          "• The author of the 2021 review of the Environment Protection and Biodiversity Conservation (EPBC) Act issued a stern message to both sides as Labor braces for a political fight "
+        ],
+        "stakes_bullets": [
+          "• Graeme Samuel has urged the Coalition and Greens to set aside grievances with the Albanese government’s new nature laws and support them"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "5b2415861165"
+    },
+    {
+      "id": "a03d7a9b4f0c",
+      "title": "Javier Milei hails ‘tipping point’ as his far-right party wins Argentina’s midterm elections",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/oct/27/javier-milei-president-far-right-party-wins-argentina-midterm-elections",
+      "published_at": "Mon, 27 Oct 2025 04:35:54 GMT",
+      "bullets": [
+        "• Javier Milei's party, La Libertad Avanza, won 40.84% of the nationwide vote",
+        "• The result falls short of giving Milei a congressional majority - which remains with the Peronists",
+        "• The Peronist opposition, Fuerza Patria, secured 31.67% "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.922
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Javier Milei's party, La Libertad Avanza, won 40.84% of the nationwide vote",
+          "• The result falls short of giving Milei a congressional majority - which remains with the Peronists"
+        ],
+        "hopeful_bullets": [
+          "• Javier Milei's party, La Libertad Avanza, won 40.84% of the nationwide vote",
+          "• The result falls short of giving Milei a congressional majority - which remains with the Peronists"
+        ],
+        "stakes_bullets": [
+          "• The result falls short of giving Milei a congressional majority - which remains with the Peronists"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "b3e27145d0f1"
+    },
+    {
       "id": "eafb49e911ef",
       "title": "A Major Era Comes to a Close in Teenage Mutant Ninja Turtles #12",
       "outlet": "CBR",
@@ -5467,28 +5495,30 @@
       "published_at": "Mon, 27 Oct 2025 03:59:29 GMT",
       "bullets": [
         "• Teenage Mutant Ninja Turtles #12 is from writer Jason Aaron, artist Juan Ferrerya, letterer Shawn Lee, and designer Nathan Widick",
-        "• The issue wraps up the return of the Turtles to New York City, but also to each other as a family "
+        "• It wraps up the return of the Turtles both to New York City, but also to each other as a family",
+        "• Aaron's run on the series was a really impressive feat to pull off in his twelve issues "
       ],
       "category": "Comics",
       "sentiment": {
         "label": "positive",
-        "score": 0.992
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
           "• Teenage Mutant Ninja Turtles #12 is from writer Jason Aaron, artist Juan Ferrerya, letterer Shawn Lee, and designer Nathan Widick",
-          "• The issue wraps up the return of the Turtles to New York City, but also to each other as a family "
+          "• It wraps up the return of the Turtles both to New York City, but also to each other as a family"
         ],
         "hopeful_bullets": [
           "• Teenage Mutant Ninja Turtles #12 is from writer Jason Aaron, artist Juan Ferrerya, letterer Shawn Lee, and designer Nathan Widick",
-          "• The issue wraps up the return of the Turtles to New York City, but also to each other as a family "
+          "• It wraps up the return of the Turtles both to New York City, but also to each other as a family"
         ],
         "stakes_bullets": [
           "• Teenage Mutant Ninja Turtles #12 is from writer Jason Aaron, artist Juan Ferrerya, letterer Shawn Lee, and designer Nathan Widick",
-          "• The issue wraps up the return of the Turtles to New York City, but also to each other as a family "
+          "• It wraps up the return of the Turtles both to New York City, but also to each other as a family",
+          "• Aaron's run on the series was a really impressive feat to pull off in his twelve issues "
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 5,
       "cluster_id": "9c1cd5c0f7cb"
     },
     {
@@ -5522,6 +5552,39 @@
       },
       "read_minutes": 2,
       "cluster_id": "d8193670daf2"
+    },
+    {
+      "id": "5655e34ff864",
+      "title": "Japan's Nikkei 225 crosses 50,000 for the first time, ahead of Takaichi-Trump meeting",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/27/asia-pacific-markets-monday-hang-seng-index-nifty-50-kospi-nikkei-225-us-china-trade-trump-xi.html",
+      "published_at": "Mon, 27 Oct 2025 03:56:35 GMT",
+      "bullets": [
+        "• Japan's Nikkei 225 breached the 50,000 mark for the first time on Monday",
+        "• The benchmark index rose over 2%, while the Topix added 1.61%",
+        "• South Korea's Kospi jumped 2.1% to cross 4,000 after hitting a record high on Friday "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.964
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Japan's Nikkei 225 breached the 50,000 mark for the first time on Monday",
+          "• The benchmark index rose over 2%, while the Topix added 1.61%"
+        ],
+        "hopeful_bullets": [
+          "• South Korea's Kospi jumped 2.1% to cross 4,000 after hitting a record high on Friday "
+        ],
+        "stakes_bullets": [
+          "• Japan's Nikkei 225 breached the 50,000 mark for the first time on Monday",
+          "• The benchmark index rose over 2%, while the Topix added 1.61%",
+          "• South Korea's Kospi jumped 2.1% to cross 4,000 after hitting a record high on Friday "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "6d8ec36cca97"
     },
     {
       "id": "c22030011235",
@@ -5762,6 +5825,41 @@
       "cluster_id": "822b19344e41"
     },
     {
+      "id": "b465ecb91336",
+      "title": "India and China resume direct flights as ties improve",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3rj9pe0e1wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 27 Oct 2025 03:11:16 GMT",
+      "bullets": [
+        "• India and China have resumed direct flights between Kolkata and Guangzhou",
+        "• Flights were first suspended during the Covid pandemic in early 2020",
+        "• The two countries have been steadily improving relations since then",
+        "• They reached a landmark agreement on border patrols last year "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• India and China have resumed direct flights between Kolkata and Guangzhou",
+          "• Flights were first suspended during the Covid pandemic in early 2020"
+        ],
+        "hopeful_bullets": [
+          "• India and China have resumed direct flights between Kolkata and Guangzhou",
+          "• Flights were first suspended during the Covid pandemic in early 2020"
+        ],
+        "stakes_bullets": [
+          "• India and China have resumed direct flights between Kolkata and Guangzhou",
+          "• Flights were first suspended during the Covid pandemic in early 2020",
+          "• The two countries have been steadily improving relations since then"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "9f56f33b4235"
+    },
+    {
       "id": "8222fd15d9cb",
       "title": "Trump news at a glance: administration accused of attack on free speech after British journalist detained",
       "outlet": "US news | The Guardian",
@@ -5864,36 +5962,38 @@
       "cluster_id": "71728cc3271b"
     },
     {
-      "id": "a03d7a9b4f0c",
-      "title": "Javier Milei hails ‘tipping point’ as his far-right party wins Argentina’s midterm elections",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/oct/27/javier-milei-president-far-right-party-wins-argentina-midterm-elections",
-      "published_at": "Mon, 27 Oct 2025 02:21:17 GMT",
+      "id": "5e34215b6525",
+      "title": "'No doubt' Trump wants to topple our government, Venezuelan official tells BBC",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyg2wljz6xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 27 Oct 2025 02:40:15 GMT",
       "bullets": [
-        "• Javier Milei's party, La Libertad Avanza, won 40.84% of the nationwide vote",
-        "• The result falls short of giving Milei a congressional majority - which remains with the Peronists",
-        "• The Peronist opposition, Fuerza Patria, secured 31.67% "
+        "• US President Donald Trump wants to turn Venezuela into a \"land state\", Venezuela's president says",
+        "• The Venezuelan government is accused of trying to overthrow the government of Venezuela",
+        "• The US is among many nations that do not recognise the country's president as legitimate "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.922
+        "score": 0.992
       },
       "moods": {
         "brief_bullets": [
-          "• Javier Milei's party, La Libertad Avanza, won 40.84% of the nationwide vote",
-          "• The result falls short of giving Milei a congressional majority - which remains with the Peronists"
+          "• US President Donald Trump wants to turn Venezuela into a \"land state\", Venezuela's president says",
+          "• The Venezuelan government is accused of trying to overthrow the government of Venezuela"
         ],
         "hopeful_bullets": [
-          "• Javier Milei's party, La Libertad Avanza, won 40.84% of the nationwide vote",
-          "• The result falls short of giving Milei a congressional majority - which remains with the Peronists"
+          "• US President Donald Trump wants to turn Venezuela into a \"land state\", Venezuela's president says",
+          "• The Venezuelan government is accused of trying to overthrow the government of Venezuela"
         ],
         "stakes_bullets": [
-          "• The result falls short of giving Milei a congressional majority - which remains with the Peronists"
+          "• US President Donald Trump wants to turn Venezuela into a \"land state\", Venezuela's president says",
+          "• The Venezuelan government is accused of trying to overthrow the government of Venezuela",
+          "• The US is among many nations that do not recognise the country's president as legitimate "
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "b3e27145d0f1"
+      "read_minutes": 2,
+      "cluster_id": "91ab5e6c5c19"
     },
     {
       "id": "ef2ac5abd914",
@@ -5997,39 +6097,6 @@
       "cluster_id": "ef191067950b"
     },
     {
-      "id": "5655e34ff864",
-      "title": "Japan's Nikkei 225 crosses 50,000 for the first time, ahead of Takaichi-Trump meeting",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/27/asia-pacific-markets-monday-hang-seng-index-nifty-50-kospi-nikkei-225-us-china-trade-trump-xi.html",
-      "published_at": "Mon, 27 Oct 2025 01:44:32 GMT",
-      "bullets": [
-        "• Japan's Nikkei 225 breached the 50,000 mark for the first time Monday",
-        "• The benchmark index rose over 2%, while the Topix added 1.61%",
-        "• South Korea's Kospi jumped 2.1% to cross 4,000 after hitting a record high on Friday "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's Nikkei 225 breached the 50,000 mark for the first time Monday",
-          "• The benchmark index rose over 2%, while the Topix added 1.61%"
-        ],
-        "hopeful_bullets": [
-          "• South Korea's Kospi jumped 2.1% to cross 4,000 after hitting a record high on Friday "
-        ],
-        "stakes_bullets": [
-          "• Japan's Nikkei 225 breached the 50,000 mark for the first time Monday",
-          "• The benchmark index rose over 2%, while the Topix added 1.61%",
-          "• South Korea's Kospi jumped 2.1% to cross 4,000 after hitting a record high on Friday "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6d8ec36cca97"
-    },
-    {
       "id": "cfea5bc6726f",
       "title": "CNBC Daily Open: Cooler-than-expected U.S. consumer inflation adds to market cheer",
       "outlet": "US Top News and Analysis",
@@ -6062,38 +6129,36 @@
       "cluster_id": "07cf36c3ba1a"
     },
     {
-      "id": "2020b8f1f7a9",
-      "title": "HSBC to recognize $1.1 billion provision in third quarter after court ruling in Madoff case",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/27/hsbc-1point1-billion-in-provision-third-quarter-madoff-case.html",
-      "published_at": "Mon, 27 Oct 2025 01:01:23 GMT",
+      "id": "23ecd56ed744",
+      "title": "Milei triumphs in Argentine midterm elections closely watched by Washington",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/27/g-s1-95158/milei-triumphs-argentine-midterm-elections",
+      "published_at": "Mon, 27 Oct 2025 01:07:55 -0400",
       "bullets": [
-        "• Court of Appeal ruled in favour of HSBC's claim of $1.1 billion in damages",
-        "• The Luxembourg court will now decide whether to pay the money back to the company",
-        "• The case was brought before the court in Luxembourg in 2009",
-        "• It was the largest fraud in the world, defrauding more than 40,000 people over four decades "
+        "• U.S",
+        "• President Donald Trump has pledged $20 billion in aid to Argentina's economy",
+        "• Argentina's president's party picked up 14 seats in the Senate and 64 in the lower house of Congress on Sunday",
+        "• The vote of confidence in the president's government is seen as a boost to his ability to carry out his radical agenda "
       ],
-      "category": "Business",
+      "category": "General",
       "sentiment": {
-        "label": "negative",
-        "score": 0.984
+        "label": "positive",
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Court of Appeal ruled in favour of HSBC's claim of $1.1 billion in damages",
-          "• The Luxembourg court will now decide whether to pay the money back to the company"
+          "• U.S",
+          "• President Donald Trump has pledged $20 billion in aid to Argentina's economy"
         ],
         "hopeful_bullets": [
-          "• Court of Appeal ruled in favour of HSBC's claim of $1.1 billion in damages",
-          "• The Luxembourg court will now decide whether to pay the money back to the company"
+          "• The vote of confidence in the president's government is seen as a boost to his ability to carry out his radical agenda "
         ],
         "stakes_bullets": [
-          "• Court of Appeal ruled in favour of HSBC's claim of $1.1 billion in damages",
-          "• The Luxembourg court will now decide whether to pay the money back to the company"
+          "• President Donald Trump has pledged $20 billion in aid to Argentina's economy"
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "e7a9103090b1"
+      "read_minutes": 3,
+      "cluster_id": "ab058ac4ce62"
     },
     {
       "id": "28d7ab19a2d5",
@@ -8216,36 +8281,6 @@
       "cluster_id": "339e6645bf8c"
     },
     {
-      "id": "98133b264836",
-      "title": "What went right this week: coming off the ‘endangered’ list, plus more",
-      "outlet": "Positive News",
-      "url": "https://www.positive.news/society/good-news-stories-from-week-42-of-2025/",
-      "published_at": "Fri, 17 Oct 2025 05:00:42 +0000",
-      "bullets": [
-        "• IUCN reclassified green turtle from 'endangered' to 'least concern' Conservationists have been working with fisheries to cut turtle bycatch by deploying turtle-safe nets",
-        "• The Maldives made medical history, and global EV sales surged, plus more good news "
-      ],
-      "category": "Good News",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• IUCN reclassified green turtle from 'endangered' to 'least concern' Conservationists have been working with fisheries to cut turtle bycatch by deploying turtle-safe nets",
-          "• The Maldives made medical history, and global EV sales surged, plus more good news "
-        ],
-        "hopeful_bullets": [
-          "• The Maldives made medical history, and global EV sales surged, plus more good news "
-        ],
-        "stakes_bullets": [
-          "• IUCN reclassified green turtle from 'endangered' to 'least concern' Conservationists have been working with fisheries to cut turtle bycatch by deploying turtle-safe nets"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "26b7f5ed6110"
-    },
-    {
       "id": "cd39cebe7492",
       "title": "Kraven the Hunter: Action Thrills, Story Spills",
       "outlet": "Comic Quarters",
@@ -9217,6 +9252,96 @@
   ],
   "clusters": [
     {
+      "id": "88c1c7cfb916",
+      "topic": "inside jail official say",
+      "keywords": [
+        "inside",
+        "jail",
+        "official",
+        "say",
+        "suspect",
+        "syria"
+      ],
+      "item_ids": [
+        "0bafbb4190b8"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "60ead3ede3f3",
+      "topic": "argentina big chainsaw midterm",
+      "keywords": [
+        "argentina",
+        "big",
+        "chainsaw",
+        "midterm",
+        "milei",
+        "wins"
+      ],
+      "item_ids": [
+        "2f503ae8c367"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "91ab5e6c5c19",
+      "topic": "doubt government topple trump",
+      "keywords": [
+        "doubt",
+        "government",
+        "topple",
+        "trump",
+        "venezuelan",
+        "want"
+      ],
+      "item_ids": [
+        "5e34215b6525"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "1573c51e0ab0",
+      "topic": "capture city claim group",
+      "keywords": [
+        "capture",
+        "city",
+        "claim",
+        "group",
+        "key",
+        "rebel"
+      ],
+      "item_ids": [
+        "560046df8bd7"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "9f56f33b4235",
+      "topic": "china direct flight india",
+      "keywords": [
+        "china",
+        "direct",
+        "flight",
+        "india",
+        "resume",
+        "ties"
+      ],
+      "item_ids": [
+        "b465ecb91336"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "802b61596c26",
       "topic": "arrested jewel louvre museum",
       "keywords": [
@@ -9291,108 +9416,18 @@
       ]
     },
     {
-      "id": "de09570fc769",
-      "topic": "cambodia deal peace solved",
-      "keywords": [
-        "cambodia",
-        "deal",
-        "peace",
-        "solved",
-        "thailand",
-        "trump"
-      ],
-      "item_ids": [
-        "5ee7cd9cecb7"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "bb3963443af0",
-      "topic": "cameroon due flare protest",
+      "id": "d536253fa072",
+      "topic": "cameroon due four killed",
       "keywords": [
         "cameroon",
         "due",
-        "flare",
+        "four",
+        "killed",
         "protest",
-        "result",
-        "violent"
+        "result"
       ],
       "item_ids": [
         "f2b88d52a942"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "b2d2dbe100fb",
-      "topic": "ask biden concerned did",
-      "keywords": [
-        "ask",
-        "biden",
-        "concerned",
-        "did",
-        "harri",
-        "she"
-      ],
-      "item_ids": [
-        "ebc0737954e6"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "5becd6bfd4fa",
-      "topic": "barrel hurricane jamaica melissa",
-      "keywords": [
-        "barrel",
-        "hurricane",
-        "jamaica",
-        "melissa",
-        "strengthen",
-        "toward"
-      ],
-      "item_ids": [
-        "909e6962ed9c"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "a17e2c87bc62",
-      "topic": "2kg arrest buy georgia",
-      "keywords": [
-        "2kg",
-        "arrest",
-        "buy",
-        "georgia",
-        "illegally",
-        "trying"
-      ],
-      "item_ids": [
-        "f52d0ff8826d"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "a56049a3bd4a",
-      "topic": "killed kyiv official russian",
-      "keywords": [
-        "killed",
-        "kyiv",
-        "official",
-        "russian",
-        "say",
-        "strike"
-      ],
-      "item_ids": [
-        "537b0cce1a81"
       ],
       "outlets": [
         "BBC News"
@@ -9507,6 +9542,24 @@
       ]
     },
     {
+      "id": "2fa4b0b30068",
+      "topic": "category evacuation hurricane melissa",
+      "keywords": [
+        "category",
+        "evacuation",
+        "hurricane",
+        "melissa",
+        "ordered",
+        "strengthen"
+      ],
+      "item_ids": [
+        "6ec86871ccdd"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "f8e5dc78908e",
       "topic": "alway crash economy populist",
       "keywords": [
@@ -9553,24 +9606,6 @@
       ],
       "item_ids": [
         "9bf6f1f0d87a"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "2955beeb8a50",
-      "topic": "alleged colombian failure place",
-      "keywords": [
-        "alleged",
-        "colombian",
-        "failure",
-        "place",
-        "president",
-        "sanction"
-      ],
-      "item_ids": [
-        "e81342ef220a"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -9739,6 +9774,24 @@
       ]
     },
     {
+      "id": "ab058ac4ce62",
+      "topic": "argentine closely election midterm",
+      "keywords": [
+        "argentine",
+        "closely",
+        "election",
+        "midterm",
+        "milei",
+        "triumph"
+      ],
+      "item_ids": [
+        "23ecd56ed744"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "595636b0d31f",
       "topic": "california euthanize gray surge",
       "keywords": [
@@ -9883,36 +9936,18 @@
       ]
     },
     {
-      "id": "b10fa6afcf70",
-      "topic": "flooding hurricane life melissa",
+      "id": "cefb94860a46",
+      "topic": "catastrophic flooding hurricane jamaica",
       "keywords": [
+        "catastrophic",
         "flooding",
         "hurricane",
-        "life",
+        "jamaica",
         "melissa",
-        "threaten",
-        "threatening"
+        "threaten"
       ],
       "item_ids": [
         "bf29a3976a02"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "50cb5ce13ff7",
-      "topic": "demolition ends house movie",
-      "keywords": [
-        "demolition",
-        "ends",
-        "house",
-        "movie",
-        "theater",
-        "white"
-      ],
-      "item_ids": [
-        "8d39741e8234"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10009,24 +10044,6 @@
       ]
     },
     {
-      "id": "2340782778ba",
-      "topic": "avidity bioscience biotech buy",
-      "keywords": [
-        "avidity",
-        "bioscience",
-        "biotech",
-        "buy",
-        "firm",
-        "novarti"
-      ],
-      "item_ids": [
-        "5bf00a937e8b"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "0435ba9c9407",
       "topic": "decade dream fired friend",
       "keywords": [
@@ -10063,18 +10080,18 @@
       ]
     },
     {
-      "id": "548edbc31d45",
-      "topic": "airline american arriving late",
+      "id": "2340782778ba",
+      "topic": "avidity bioscience biotech buy",
       "keywords": [
-        "airline",
-        "american",
-        "arriving",
-        "late",
-        "luxury",
-        "travel"
+        "avidity",
+        "bioscience",
+        "biotech",
+        "buy",
+        "firm",
+        "novarti"
       ],
       "item_ids": [
-        "2e940a011276"
+        "5bf00a937e8b"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10093,6 +10110,24 @@
       ],
       "item_ids": [
         "f9e472ac37b3"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "548edbc31d45",
+      "topic": "airline american arriving late",
+      "keywords": [
+        "airline",
+        "american",
+        "arriving",
+        "late",
+        "luxury",
+        "travel"
+      ],
+      "item_ids": [
+        "2e940a011276"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10992,6 +11027,24 @@
       ]
     },
     {
+      "id": "50cb5ce13ff7",
+      "topic": "demolition ends house movie",
+      "keywords": [
+        "demolition",
+        "ends",
+        "house",
+        "movie",
+        "theater",
+        "white"
+      ],
+      "item_ids": [
+        "8d39741e8234"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "fde970c43cfb",
       "topic": "congressman constituent republican shutdown",
       "keywords": [
@@ -11378,6 +11431,42 @@
       ]
     },
     {
+      "id": "11cbba2dc9fc",
+      "topic": "attack bear japan released",
+      "keywords": [
+        "attack",
+        "bear",
+        "japan",
+        "released",
+        "survival",
+        "tips"
+      ],
+      "item_ids": [
+        "af894d290dd9"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "5b2415861165",
+      "topic": "coalition green laws nature",
+      "keywords": [
+        "coalition",
+        "green",
+        "laws",
+        "nature",
+        "opposing",
+        "scolded"
+      ],
+      "item_ids": [
+        "248081ad711a"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "c2108a2f7edf",
       "topic": "bill break coalition environment",
       "keywords": [
@@ -11390,42 +11479,6 @@
       ],
       "item_ids": [
         "b0368770ddd5"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "3b40e60c46b5",
-      "topic": "cod fish little murray",
-      "keywords": [
-        "cod",
-        "fish",
-        "little",
-        "murray",
-        "swimming",
-        "tracked"
-      ],
-      "item_ids": [
-        "1de6fee882d3"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "acbbf6f0695d",
-      "topic": "arrest backing biologist curb",
-      "keywords": [
-        "arrest",
-        "backing",
-        "biologist",
-        "curb",
-        "russia",
-        "ukrainian"
-      ],
-      "item_ids": [
-        "aca5ad19655a"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -13058,6 +13111,24 @@
       ]
     },
     {
+      "id": "66fb3583ebdb",
+      "topic": "challenging done ever learned",
+      "keywords": [
+        "challenging",
+        "done",
+        "ever",
+        "learned",
+        "most",
+        "thing"
+      ],
+      "item_ids": [
+        "c3595727e3e3"
+      ],
+      "outlets": [
+        "Positive News"
+      ]
+    },
+    {
       "id": "ff4bdde0fa67",
       "topic": "award comedy finalist peek",
       "keywords": [
@@ -13208,24 +13279,6 @@
       ],
       "item_ids": [
         "13cfc561acf4"
-      ],
-      "outlets": [
-        "Positive News"
-      ]
-    },
-    {
-      "id": "26b7f5ed6110",
-      "topic": "coming endangered off right",
-      "keywords": [
-        "coming",
-        "endangered",
-        "off",
-        "right",
-        "week",
-        "went"
-      ],
-      "item_ids": [
-        "98133b264836"
       ],
       "outlets": [
         "Positive News"
