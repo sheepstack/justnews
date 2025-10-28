@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-28T04:27:15Z",
+  "generated_at": "2025-10-28T05:03:21Z",
   "items": [
     {
       "id": "88a01c1d8865",
@@ -657,6 +657,72 @@
       "cluster_id": "0c06403ea92a"
     },
     {
+      "id": "f41bf452b1bf",
+      "title": "Justin Bieber Shows Up to World Series in Blue Jays Jersey, Gives Shohei Ohtani’s HR the Thumbs Down",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/justin-bieber-world-series-blue-jays-shohei-ohtani-1235455226/",
+      "published_at": "Tue, 28 Oct 2025 04:57:30 +0000",
+      "bullets": [
+        "• Justin Bieber shows up in full gear to support the Toronto Blue Jays against the Los Angeles Dodgers in Game 3 of the World Series",
+        "• After Shohei Ohtani hit his first home run of the night, Bieber responded with a thumbs down from the crowd",
+        "• The moment was captured on camera, with attendees reposting it on social media "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.915
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Justin Bieber shows up in full gear to support the Toronto Blue Jays against the Los Angeles Dodgers in Game 3 of the World Series",
+          "• After Shohei Ohtani hit his first home run of the night, Bieber responded with a thumbs down from the crowd"
+        ],
+        "hopeful_bullets": [
+          "• Justin Bieber shows up in full gear to support the Toronto Blue Jays against the Los Angeles Dodgers in Game 3 of the World Series"
+        ],
+        "stakes_bullets": [
+          "• Justin Bieber shows up in full gear to support the Toronto Blue Jays against the Los Angeles Dodgers in Game 3 of the World Series",
+          "• After Shohei Ohtani hit his first home run of the night, Bieber responded with a thumbs down from the crowd",
+          "• The moment was captured on camera, with attendees reposting it on social media "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f3f47ea14079"
+    },
+    {
+      "id": "e34e337dd94e",
+      "title": "HSBC's third-quarter profit drops 14%, but beats expectations as net interest income rises",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/28/hsbc-q3-earnings.html",
+      "published_at": "Tue, 28 Oct 2025 04:27:44 GMT",
+      "bullets": [
+        "• Europe's largest lender HSBC beat third-quarter profit expectations",
+        "• Profit before tax for the three months ended in September was $7.3 billion, down nearly 14% from a year ago",
+        "• The bank's net interest income for the third quarter rose 15% year on year to $8.8 billion "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.782
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Europe's largest lender HSBC beat third-quarter profit expectations",
+          "• Profit before tax for the three months ended in September was $7.3 billion, down nearly 14% from a year ago"
+        ],
+        "hopeful_bullets": [
+          "• Europe's largest lender HSBC beat third-quarter profit expectations",
+          "• Profit before tax for the three months ended in September was $7.3 billion, down nearly 14% from a year ago"
+        ],
+        "stakes_bullets": [
+          "• Profit before tax for the three months ended in September was $7.3 billion, down nearly 14% from a year ago",
+          "• The bank's net interest income for the third quarter rose 15% year on year to $8.8 billion "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "94514c5e26e1"
+    },
+    {
       "id": "10c9de7cc85f",
       "title": "Gundam's Most Unique Anime Mecha Gets 'Zen-Sational' New High Grade Gunpla Model Kit",
       "outlet": "CBR",
@@ -689,6 +755,36 @@
       },
       "read_minutes": 2,
       "cluster_id": "4d2c833d823d"
+    },
+    {
+      "id": "584cd8b1a647",
+      "title": "Hurricane Melissa: Jamaica braces for world's strongest storm of 2025",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2dr0z57nygo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 28 Oct 2025 03:59:18 GMT",
+      "bullets": [
+        "• Hurricane Melissa is a category five storm with maximum winds of 175mph (282km/h) It is expected to make landfall on the Caribbean island early on Tuesday morning",
+        "• It has been blamed for four deaths in Haiti and the Dominican Republic, in addition to the deaths of three people in Jamaica "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.962
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hurricane Melissa is a category five storm with maximum winds of 175mph (282km/h) It is expected to make landfall on the Caribbean island early on Tuesday morning",
+          "• It has been blamed for four deaths in Haiti and the Dominican Republic, in addition to the deaths of three people in Jamaica "
+        ],
+        "hopeful_bullets": [
+          "• Hurricane Melissa is a category five storm with maximum winds of 175mph (282km/h) It is expected to make landfall on the Caribbean island early on Tuesday morning"
+        ],
+        "stakes_bullets": [
+          "• Hurricane Melissa is a category five storm with maximum winds of 175mph (282km/h) It is expected to make landfall on the Caribbean island early on Tuesday morning"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "68366b41015c"
     },
     {
       "id": "b8ab554f6cf2",
@@ -1114,36 +1210,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "6549833ce10a"
-    },
-    {
-      "id": "584cd8b1a647",
-      "title": "Hurricane Melissa: Jamaica braces for world's strongest storm of 2025",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2dr0z57nygo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 28 Oct 2025 01:55:45 GMT",
-      "bullets": [
-        "• Hurricane Melissa is a category five storm with maximum winds of 175mph (282km/h) It is intensifying and expected to make landfall on the Caribbean island early on Tuesday",
-        "• It has been blamed for four deaths in Haiti and the Dominican Republic, in addition to the lives lost in Jamaica "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hurricane Melissa is a category five storm with maximum winds of 175mph (282km/h) It is intensifying and expected to make landfall on the Caribbean island early on Tuesday",
-          "• It has been blamed for four deaths in Haiti and the Dominican Republic, in addition to the lives lost in Jamaica "
-        ],
-        "hopeful_bullets": [
-          "• Hurricane Melissa is a category five storm with maximum winds of 175mph (282km/h) It is intensifying and expected to make landfall on the Caribbean island early on Tuesday"
-        ],
-        "stakes_bullets": [
-          "• Hurricane Melissa is a category five storm with maximum winds of 175mph (282km/h) It is intensifying and expected to make landfall on the Caribbean island early on Tuesday"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "68366b41015c"
     },
     {
       "id": "59641616de55",
@@ -2033,25 +2099,25 @@
       "url": "https://www.positive.news/society/how-virtual-reality-is-helping-people-see-the-life-saving-power-of-vaccines/",
       "published_at": "Thu, 23 Oct 2025 07:00:34 +0000",
       "bullets": [
-        "• A US company backed by the Gates Foundation is using virtual reality to show how vaccines save lives",
-        "• Apporter La Vie – meaning Delivering Life – takes audiences deep into the DRC, following frontline worker Kasongo as he transports vaccines through sweltering heat, torrential rain and hundreds of kilometres of inland waterways "
+        "• A US company funded by a grant from the Gates Foundation is using virtual reality to show how vaccines save lives",
+        "• Their latest project, Apporter La Vie – meaning Delivering Life – takes audiences deep into the DRC, following frontline worker Kasongo as he transports vaccines through sweltering heat, torrential rain and hundreds of kilometres of inland waterways "
       ],
       "category": "Good News",
       "sentiment": {
         "label": "positive",
-        "score": 0.996
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• A US company backed by the Gates Foundation is using virtual reality to show how vaccines save lives",
-          "• Apporter La Vie – meaning Delivering Life – takes audiences deep into the DRC, following frontline worker Kasongo as he transports vaccines through sweltering heat, torrential rain and hundreds of kilometres of inland waterways "
+          "• A US company funded by a grant from the Gates Foundation is using virtual reality to show how vaccines save lives",
+          "• Their latest project, Apporter La Vie – meaning Delivering Life – takes audiences deep into the DRC, following frontline worker Kasongo as he transports vaccines through sweltering heat, torrential rain and hundreds of kilometres of inland waterways "
         ],
         "hopeful_bullets": [
-          "• Apporter La Vie – meaning Delivering Life – takes audiences deep into the DRC, following frontline worker Kasongo as he transports vaccines through sweltering heat, torrential rain and hundreds of kilometres of inland waterways "
+          "• Their latest project, Apporter La Vie – meaning Delivering Life – takes audiences deep into the DRC, following frontline worker Kasongo as he transports vaccines through sweltering heat, torrential rain and hundreds of kilometres of inland waterways "
         ],
         "stakes_bullets": [
-          "• A US company backed by the Gates Foundation is using virtual reality to show how vaccines save lives",
-          "• Apporter La Vie – meaning Delivering Life – takes audiences deep into the DRC, following frontline worker Kasongo as he transports vaccines through sweltering heat, torrential rain and hundreds of kilometres of inland waterways "
+          "• A US company funded by a grant from the Gates Foundation is using virtual reality to show how vaccines save lives",
+          "• Their latest project, Apporter La Vie – meaning Delivering Life – takes audiences deep into the DRC, following frontline worker Kasongo as he transports vaccines through sweltering heat, torrential rain and hundreds of kilometres of inland waterways "
         ]
       },
       "read_minutes": 5,
@@ -3853,40 +3919,6 @@
       "cluster_id": "1e371edf8ee4"
     },
     {
-      "id": "19a10bcb50f9",
-      "title": "AI is driving huge productivity gains for large companies, while small companies get left behind",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/27/ai-is-driving-huge-productivity-gains-for-large-companies-while-small-companies-get-left-behind.html",
-      "published_at": "Mon, 27 Oct 2025 22:08:49 GMT",
-      "bullets": [
-        "• Large-cap companies are seeing steady AI-related productivity gains since the release of OpenAI's ChatGPT model in 2022",
-        "• Small-cap names are witnessing a decline over the same period",
-        "• The performance of the S&P 500 versus the Russell 2000 reflects this divergence in productivity gains "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Large-cap companies are seeing steady AI-related productivity gains since the release of OpenAI's ChatGPT model in 2022",
-          "• Small-cap names are witnessing a decline over the same period"
-        ],
-        "hopeful_bullets": [
-          "• Large-cap companies are seeing steady AI-related productivity gains since the release of OpenAI's ChatGPT model in 2022",
-          "• The performance of the S&P 500 versus the Russell 2000 reflects this divergence in productivity gains "
-        ],
-        "stakes_bullets": [
-          "• Large-cap companies are seeing steady AI-related productivity gains since the release of OpenAI's ChatGPT model in 2022",
-          "• Small-cap names are witnessing a decline over the same period",
-          "• The performance of the S&P 500 versus the Russell 2000 reflects this divergence in productivity gains "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "53459a3a8d4f"
-    },
-    {
       "id": "5cefd21da12b",
       "title": "Trump officials ask supreme court to allow firing of top copyright official",
       "outlet": "US news | The Guardian",
@@ -5285,38 +5317,6 @@
       "cluster_id": "89090ea206b0"
     },
     {
-      "id": "dc476404cfc2",
-      "title": "Jack DeJohnette, Renowned Jazz Drummer Who Played on Miles Davis’ ‘Bitches Brew,’ Dead at 83",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/jack-dejohnette-jazz-drummer-bitches-brew-dead-obituary-1235454492/",
-      "published_at": "Mon, 27 Oct 2025 17:08:23 +0000",
-      "bullets": [
-        "• Jack DeJohnette, who played on Miles Davis' 'Bitches Brew' died Sunday at the age of 83",
-        "• The cause of his death was congestive heart failure, his assistant says",
-        "• The jazz drummer was ranked at Number 40 on Rolling Stone's 100 Greatest Drummers of All Time list "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.91
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jack DeJohnette, who played on Miles Davis' 'Bitches Brew' died Sunday at the age of 83",
-          "• The cause of his death was congestive heart failure, his assistant says"
-        ],
-        "hopeful_bullets": [
-          "• Jack DeJohnette, who played on Miles Davis' 'Bitches Brew' died Sunday at the age of 83",
-          "• The cause of his death was congestive heart failure, his assistant says"
-        ],
-        "stakes_bullets": [
-          "• The cause of his death was congestive heart failure, his assistant says"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "334a2766c139"
-    },
-    {
       "id": "e2d436e7f45c",
       "title": "Jack DeJohnette, Towering Jazz Drummer and Bandleader, Dies at 83",
       "outlet": "RSS: News",
@@ -6571,38 +6571,6 @@
       "cluster_id": "cd03efbb1927"
     },
     {
-      "id": "da3a66fc709d",
-      "title": "The devil's in the detailing at haunted Halloween car washes",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/27/nx-s1-5566674/haunted-car-wash-halloween",
-      "published_at": "Mon, 27 Oct 2025 10:00:00 -0400",
-      "bullets": [
-        "• The origins of the haunted car wash trend are murky",
-        "• The trend has grown across the country for years at independent and chain car washes",
-        "• Nearly half of them, from Alaska to Wyoming, will be running a Halloween-themed \"Tunnel of Terror\""
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The origins of the haunted car wash trend are murky",
-          "• The trend has grown across the country for years at independent and chain car washes"
-        ],
-        "hopeful_bullets": [
-          "• The origins of the haunted car wash trend are murky",
-          "• The trend has grown across the country for years at independent and chain car washes"
-        ],
-        "stakes_bullets": [
-          "• Nearly half of them, from Alaska to Wyoming, will be running a Halloween-themed \"Tunnel of Terror\""
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6019689d5614"
-    },
-    {
       "id": "b23a0daec1df",
       "title": "Finland's stubbornly low birth rate shows why a population shift may be inevitable",
       "outlet": "NPR Topics: News",
@@ -6634,6 +6602,38 @@
       },
       "read_minutes": 6,
       "cluster_id": "6674c7a1f449"
+    },
+    {
+      "id": "da3a66fc709d",
+      "title": "The devil's in the detailing at haunted Halloween car washes",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/27/nx-s1-5566674/haunted-car-wash-halloween",
+      "published_at": "Mon, 27 Oct 2025 10:00:00 -0400",
+      "bullets": [
+        "• The origins of the haunted car wash trend are murky",
+        "• The trend has grown across the country for years at independent and chain car washes",
+        "• Nearly half of them, from Alaska to Wyoming, will be running a Halloween-themed \"Tunnel of Terror\""
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The origins of the haunted car wash trend are murky",
+          "• The trend has grown across the country for years at independent and chain car washes"
+        ],
+        "hopeful_bullets": [
+          "• The origins of the haunted car wash trend are murky",
+          "• The trend has grown across the country for years at independent and chain car washes"
+        ],
+        "stakes_bullets": [
+          "• Nearly half of them, from Alaska to Wyoming, will be running a Halloween-themed \"Tunnel of Terror\""
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "6019689d5614"
     },
     {
       "id": "5e22e4b14f5c",
@@ -9854,24 +9854,6 @@
       ]
     },
     {
-      "id": "6019689d5614",
-      "topic": "car detailing devil halloween",
-      "keywords": [
-        "car",
-        "detailing",
-        "devil",
-        "halloween",
-        "haunted",
-        "washe"
-      ],
-      "item_ids": [
-        "da3a66fc709d"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "6674c7a1f449",
       "topic": "birth finland low rate",
       "keywords": [
@@ -9890,6 +9872,24 @@
       ]
     },
     {
+      "id": "6019689d5614",
+      "topic": "car detailing devil halloween",
+      "keywords": [
+        "car",
+        "detailing",
+        "devil",
+        "halloween",
+        "haunted",
+        "washe"
+      ],
+      "item_ids": [
+        "da3a66fc709d"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "2264807669fe",
       "topic": "amazon announce company history",
       "keywords": [
@@ -9902,6 +9902,24 @@
       ],
       "item_ids": [
         "1619a8666cb6"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "94514c5e26e1",
+      "topic": "beat drop hsbc profit",
+      "keywords": [
+        "beat",
+        "drop",
+        "hsbc",
+        "profit",
+        "quarter",
+        "third"
+      ],
+      "item_ids": [
+        "e34e337dd94e"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10009,24 +10027,6 @@
       ],
       "item_ids": [
         "b8ab554f6cf2"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "53459a3a8d4f",
-      "topic": "companie driving gain huge",
-      "keywords": [
-        "companie",
-        "driving",
-        "gain",
-        "huge",
-        "large",
-        "productivity"
-      ],
-      "item_ids": [
-        "19a10bcb50f9"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -13592,6 +13592,24 @@
       ]
     },
     {
+      "id": "f3f47ea14079",
+      "topic": "bieber blue justin serie",
+      "keywords": [
+        "bieber",
+        "blue",
+        "justin",
+        "serie",
+        "show",
+        "world"
+      ],
+      "item_ids": [
+        "f41bf452b1bf"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "aebfb10f1db7",
       "topic": "cruise hurricane jamrock marley",
       "keywords": [
@@ -13747,24 +13765,6 @@
       ],
       "item_ids": [
         "5e73bb36635a"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "334a2766c139",
-      "topic": "dejohnette drummer jack jazz",
-      "keywords": [
-        "dejohnette",
-        "drummer",
-        "jack",
-        "jazz",
-        "played",
-        "renowned"
-      ],
-      "item_ids": [
-        "dc476404cfc2"
       ],
       "outlets": [
         "Music News"
