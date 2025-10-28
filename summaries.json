@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-28T06:09:18Z",
+  "generated_at": "2025-10-28T07:11:18Z",
   "items": [
     {
       "id": "88a01c1d8865",
@@ -657,34 +657,168 @@
       "cluster_id": "0c06403ea92a"
     },
     {
+      "id": "953cbd860773",
+      "title": "European stocks head for broadly flat open as markets await Fed decision",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/28/european-markets-ftse-dax-and-cac-in-foucs-ahead-of-fed-decision.html",
+      "published_at": "Tue, 28 Oct 2025 06:27:57 GMT",
+      "bullets": [
+        "• European markets expected to open flat to higher on Tuesday as global markets await U.S",
+        "• Federal Reserve's interest rate decision",
+        "• The market is now pricing in a 96% chance that the Fed will announce a 25 basis-point rate cut this week",
+        "• Geopolitics and trade are also at the forefront of investors' minds "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.727
+      },
+      "moods": {
+        "brief_bullets": [
+          "• European markets expected to open flat to higher on Tuesday as global markets await U.S",
+          "• Federal Reserve's interest rate decision"
+        ],
+        "hopeful_bullets": [
+          "• European markets expected to open flat to higher on Tuesday as global markets await U.S",
+          "• Federal Reserve's interest rate decision"
+        ],
+        "stakes_bullets": [
+          "• European markets expected to open flat to higher on Tuesday as global markets await U.S",
+          "• The market is now pricing in a 96% chance that the Fed will announce a 25 basis-point rate cut this week"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "43df13e00ea7"
+    },
+    {
+      "id": "59641616de55",
+      "title": "CNBC Daily Open: We are all farmers hoping for the end of the U.S.-China trade war",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/28/cnbc-daily-open-we-are-all-farmers-hoping-for-the-end-of-the-us-china-trade-war.html",
+      "published_at": "Tue, 28 Oct 2025 06:27:24 GMT",
+      "bullets": [
+        "• The mere prospect of a U.S.-China trade deal is enough to send global markets higher",
+        "• The S&P 500, Dow Jones Industrial Average and Nasdaq Composite closed at record highs",
+        "• European stocks rose too, but the Stoxx 600 was just an inch away from its all-time high "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.955
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The mere prospect of a U.S.-China trade deal is enough to send global markets higher",
+          "• The S&P 500, Dow Jones Industrial Average and Nasdaq Composite closed at record highs"
+        ],
+        "hopeful_bullets": [
+          "• The S&P 500, Dow Jones Industrial Average and Nasdaq Composite closed at record highs"
+        ],
+        "stakes_bullets": [
+          "• The mere prospect of a U.S.-China trade deal is enough to send global markets higher",
+          "• The S&P 500, Dow Jones Industrial Average and Nasdaq Composite closed at record highs",
+          "• European stocks rose too, but the Stoxx 600 was just an inch away from its all-time high "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9b81eebefe7f"
+    },
+    {
+      "id": "8e9a0d3d10d9",
+      "title": "Google and NextEra to revive major Iowa nuclear facility as AI energy demand surges",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/28/google-nextera-iowa-duane-arnold-nuclear-power-plant-ai-energy-demand-data-centers.html",
+      "published_at": "Tue, 28 Oct 2025 06:14:13 GMT",
+      "bullets": [
+        "• The Duane Arnold Energy Center could begin operating in early 2029, pending regulatory approval",
+        "• The plant's prior shutdown had come at a time when the nuclear sector was struggling to compete with natural gas and other renewable energy sources",
+        "• The site's revival marks a trend as energy demand in the U.S",
+        "• has been surging "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.964
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Duane Arnold Energy Center could begin operating in early 2029, pending regulatory approval",
+          "• The plant's prior shutdown had come at a time when the nuclear sector was struggling to compete with natural gas and other renewable energy sources"
+        ],
+        "hopeful_bullets": [
+          "• The Duane Arnold Energy Center could begin operating in early 2029, pending regulatory approval",
+          "• The plant's prior shutdown had come at a time when the nuclear sector was struggling to compete with natural gas and other renewable energy sources"
+        ],
+        "stakes_bullets": [
+          "• The Duane Arnold Energy Center could begin operating in early 2029, pending regulatory approval",
+          "• The plant's prior shutdown had come at a time when the nuclear sector was struggling to compete with natural gas and other renewable energy sources"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "efba1ee510a2"
+    },
+    {
+      "id": "dc8790259703",
+      "title": "How Saudi Arabia is diversifying away from oil — and betting big on AI",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/28/how-saudi-arabia-is-diversifying-away-from-oil-and-betting-big-on-ai.html",
+      "published_at": "Tue, 28 Oct 2025 06:09:22 GMT",
+      "bullets": [
+        "• 50.6% of Saudi Arabia's economy is now \"completely decoupled\" from oil",
+        "• Government revenue used to be almost completely derived from oil money",
+        "• Saudi Arabia will be a \"key investor\" in developing AI applications and large language models "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 50.6% of Saudi Arabia's economy is now \"completely decoupled\" from oil",
+          "• Government revenue used to be almost completely derived from oil money"
+        ],
+        "hopeful_bullets": [
+          "• 50.6% of Saudi Arabia's economy is now \"completely decoupled\" from oil",
+          "• Government revenue used to be almost completely derived from oil money"
+        ],
+        "stakes_bullets": [
+          "• Saudi Arabia will be a \"key investor\" in developing AI applications and large language models "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "7b947e86585e"
+    },
+    {
       "id": "f6353d3a868c",
       "title": "First deadly mine explosion in Australia since 2015 kills man and woman",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cwy5ez34yezo?at_medium=RSS&at_campaign=rss",
       "published_at": "Tue, 28 Oct 2025 05:25:47 GMT",
       "bullets": [
-        "• First deadly mine explosion in Australia since 2015 kills man and woman",
-        "• First such incident of its kind since 2015 at a mine in Queensland",
-        "• Polymetals Resources, which bought the Endeavor mine in 2023, said all operations at the site were temporarily suspended "
+        "• Two people have been killed in an explosion at a mine in New South Wales",
+        "• It is the first such incident of its kind in Australia since 2015",
+        "• The explosion happened in the early hours of Tuesday morning",
+        "• Two people were airlifted to hospital but one died in the explosion "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.87
       },
       "moods": {
         "brief_bullets": [
-          "• First deadly mine explosion in Australia since 2015 kills man and woman",
-          "• First such incident of its kind since 2015 at a mine in Queensland"
+          "• Two people have been killed in an explosion at a mine in New South Wales",
+          "• It is the first such incident of its kind in Australia since 2015"
         ],
         "hopeful_bullets": [
-          "• First deadly mine explosion in Australia since 2015 kills man and woman",
-          "• First such incident of its kind since 2015 at a mine in Queensland"
+          "• Two people have been killed in an explosion at a mine in New South Wales",
+          "• It is the first such incident of its kind in Australia since 2015"
         ],
         "stakes_bullets": [
-          "• First deadly mine explosion in Australia since 2015 kills man and woman",
-          "• First such incident of its kind since 2015 at a mine in Queensland",
-          "• Polymetals Resources, which bought the Endeavor mine in 2023, said all operations at the site were temporarily suspended "
+          "• Two people have been killed in an explosion at a mine in New South Wales",
+          "• It is the first such incident of its kind in Australia since 2015",
+          "• The explosion happened in the early hours of Tuesday morning"
         ]
       },
       "read_minutes": 2,
@@ -985,37 +1119,6 @@
       "cluster_id": "68366b41015c"
     },
     {
-      "id": "b8ab554f6cf2",
-      "title": "Asia markets mostly slip as investors look to Trump-Takaichi meeting in Japan",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/28/asia-stock-markets-live-tuesday-nikkei-kospi-hang-seng-trump-takaichi-japan.html",
-      "published_at": "Tue, 28 Oct 2025 03:54:16 GMT",
-      "bullets": [
-        "• Japan's Nikkei 225 retreated from its record high on Tuesday, falling 0.15%, while the broad-based Topix was down 0.49%",
-        "• South Korea's Kospi led losses in the region, dipping 1.15%",
-        "• Sany Heavy Industry traded flat on its Hong Kong trading debut Tuesday after raising HKD$12.36 billion ($1.59 billion)"
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's Nikkei 225 retreated from its record high on Tuesday, falling 0.15%, while the broad-based Topix was down 0.49%",
-          "• South Korea's Kospi led losses in the region, dipping 1.15%"
-        ],
-        "hopeful_bullets": [
-          "• Japan's Nikkei 225 retreated from its record high on Tuesday, falling 0.15%, while the broad-based Topix was down 0.49%"
-        ],
-        "stakes_bullets": [
-          "• Sany Heavy Industry traded flat on its Hong Kong trading debut Tuesday after raising HKD$12.36 billion ($1.59 billion)"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "af1ac205c22e"
-    },
-    {
       "id": "ab6c3ddda680",
       "title": "10 MCU Characters Who Deserve Their Own TV Show",
       "outlet": "CBR",
@@ -1179,38 +1282,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "d305030b9a1d"
-    },
-    {
-      "id": "dc8790259703",
-      "title": "How Saudi Arabia is diversifying away from oil — and betting big on AI",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/28/how-saudi-arabia-is-diversifying-away-from-oil-and-betting-big-on-ai.html",
-      "published_at": "Tue, 28 Oct 2025 02:53:06 GMT",
-      "bullets": [
-        "• 50.6% of Saudi Arabia's economy is now \"completely decoupled\" from oil",
-        "• Government revenue used to be almost completely derived from oil money",
-        "• Saudi Arabia will be a \"key investor\" in developing AI applications and large language models "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.978
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 50.6% of Saudi Arabia's economy is now \"completely decoupled\" from oil",
-          "• Government revenue used to be almost completely derived from oil money"
-        ],
-        "hopeful_bullets": [
-          "• 50.6% of Saudi Arabia's economy is now \"completely decoupled\" from oil",
-          "• Government revenue used to be almost completely derived from oil money"
-        ],
-        "stakes_bullets": [
-          "• Saudi Arabia will be a \"key investor\" in developing AI applications and large language models "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "7b947e86585e"
     },
     {
       "id": "cb21c6be7aaf",
@@ -1410,37 +1481,36 @@
       "cluster_id": "6549833ce10a"
     },
     {
-      "id": "59641616de55",
-      "title": "CNBC Daily Open: We are all farmers hoping for the end of the U.S.-China trade war",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/28/cnbc-daily-open-we-are-all-farmers-hoping-for-the-end-of-the-us-china-trade-war.html",
-      "published_at": "Tue, 28 Oct 2025 01:40:10 GMT",
+      "id": "7c9b7f97fdd0",
+      "title": "Earth’s “boring billion” set the stage for complex life",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251027224824.htm",
+      "published_at": "Tue, 28 Oct 2025 01:52:34 EDT",
       "bullets": [
-        "• The mere prospect of a U.S.-China trade deal is enough to send global markets higher",
-        "• The S&P 500, Dow Jones Industrial Average and Nasdaq Composite closed at record highs",
-        "• European stocks rose too, but the Stoxx 600 was just an inch away from its all-time high "
+        "• Scientists trace origins of complex life to breakup of supercontinent Nuna 1.5 billion years ago",
+        "• Breakdown reduced volcanic carbon emissions, expanded shallow seas and boosted oxygen availability",
+        "• Study links deep-Earth movements directly to rise of eukaryotic life "
       ],
-      "category": "Business",
+      "category": "Science",
       "sentiment": {
         "label": "negative",
-        "score": 0.955
+        "score": 0.723
       },
       "moods": {
         "brief_bullets": [
-          "• The mere prospect of a U.S.-China trade deal is enough to send global markets higher",
-          "• The S&P 500, Dow Jones Industrial Average and Nasdaq Composite closed at record highs"
+          "• Scientists trace origins of complex life to breakup of supercontinent Nuna 1.5 billion years ago",
+          "• Breakdown reduced volcanic carbon emissions, expanded shallow seas and boosted oxygen availability"
         ],
         "hopeful_bullets": [
-          "• The S&P 500, Dow Jones Industrial Average and Nasdaq Composite closed at record highs"
+          "• Breakdown reduced volcanic carbon emissions, expanded shallow seas and boosted oxygen availability"
         ],
         "stakes_bullets": [
-          "• The mere prospect of a U.S.-China trade deal is enough to send global markets higher",
-          "• The S&P 500, Dow Jones Industrial Average and Nasdaq Composite closed at record highs",
-          "• European stocks rose too, but the Stoxx 600 was just an inch away from its all-time high "
+          "• Scientists trace origins of complex life to breakup of supercontinent Nuna 1.5 billion years ago",
+          "• Breakdown reduced volcanic carbon emissions, expanded shallow seas and boosted oxygen availability"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "9b81eebefe7f"
+      "read_minutes": 4,
+      "cluster_id": "41c653d7962e"
     },
     {
       "id": "048677369a4b",
@@ -3020,40 +3090,6 @@
       "cluster_id": "9802e1491f0a"
     },
     {
-      "id": "287cf7f41702",
-      "title": "Hippos once roamed frozen Germany with mammoths",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251026021740.htm",
-      "published_at": "Sun, 26 Oct 2025 08:29:01 EDT",
-      "bullets": [
-        "• Ancient DNA and radiocarbon dating confirm hippos survived in Germany’s Upper Rhine Graben during a milder Ice Age phase",
-        "• Closely related to modern African hippos, they shared the landscape with cold-adapted giants like mammoths",
-        "• The finding rewrites Ice Age history and suggests regional climates were far more diverse "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.916
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ancient DNA and radiocarbon dating confirm hippos survived in Germany’s Upper Rhine Graben during a milder Ice Age phase",
-          "• Closely related to modern African hippos, they shared the landscape with cold-adapted giants like mammoths"
-        ],
-        "hopeful_bullets": [
-          "• Ancient DNA and radiocarbon dating confirm hippos survived in Germany’s Upper Rhine Graben during a milder Ice Age phase",
-          "• Closely related to modern African hippos, they shared the landscape with cold-adapted giants like mammoths"
-        ],
-        "stakes_bullets": [
-          "• Ancient DNA and radiocarbon dating confirm hippos survived in Germany’s Upper Rhine Graben during a milder Ice Age phase",
-          "• Closely related to modern African hippos, they shared the landscape with cold-adapted giants like mammoths",
-          "• The finding rewrites Ice Age history and suggests regional climates were far more diverse "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "985024bc40af"
-    },
-    {
       "id": "ed0e5130556e",
       "title": "Politics chat: East Wing demolition, sanctions on Russia, redistricting",
       "outlet": "NPR Topics: Politics",
@@ -3888,29 +3924,28 @@
       "published_at": "Mon, 27 Oct 2025 23:35:00 GMT",
       "bullets": [
         "• Hurricane Melissa is the strongest hurricane to hit Jamaica since records began in 1851",
-        "• Authorities fear it will unleash catastrophic flooding, landslides and extensive infrastructure damage",
-        "• One tree fell on to electricity poles and knocked out power in St Elizabeth parish",
-        "• Meteorological Service of Jamaica warns that no part of the island will be spared "
+        "• It is set to make landfall early on Tuesday and to linger over the island",
+        "• Forecasters warn of catastrophic flooding, landslides and extensive infrastructure damage",
+        "• Some parts of eastern Jamaica could receive up to a metre (40in) of rain "
       ],
       "category": "World",
       "sentiment": {
-        "label": "negative",
+        "label": "positive",
         "score": 0.994
       },
       "moods": {
         "brief_bullets": [
           "• Hurricane Melissa is the strongest hurricane to hit Jamaica since records began in 1851",
-          "• Authorities fear it will unleash catastrophic flooding, landslides and extensive infrastructure damage"
+          "• It is set to make landfall early on Tuesday and to linger over the island"
         ],
         "hopeful_bullets": [
           "• Hurricane Melissa is the strongest hurricane to hit Jamaica since records began in 1851"
         ],
         "stakes_bullets": [
-          "• Authorities fear it will unleash catastrophic flooding, landslides and extensive infrastructure damage",
-          "• Meteorological Service of Jamaica warns that no part of the island will be spared "
+          "• Some parts of eastern Jamaica could receive up to a metre (40in) of rain "
         ]
       },
-      "read_minutes": 5,
+      "read_minutes": 6,
       "cluster_id": "4a174b629323"
     },
     {
@@ -4825,37 +4860,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "7375fd2b8cfc"
-    },
-    {
-      "id": "3deec0458287",
-      "title": "NBA reviewing prop bets, injury reporting, AI to track wagers after gambling indictment",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/27/nba-prop-bets-ai-rozier-billups-gambling.html",
-      "published_at": "Mon, 27 Oct 2025 19:34:42 GMT",
-      "bullets": [
-        "• NBA to review betting-related issues to \"protect the integrity of the NBA and our affiliated leagues\" Review will focus on proposition bets offered by legal online sports bookies",
-        "• Six people named in indictment unsealed last week are accused of conspiracy to commit wire fraud and money laundering "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.966
-      },
-      "moods": {
-        "brief_bullets": [
-          "• NBA to review betting-related issues to \"protect the integrity of the NBA and our affiliated leagues\" Review will focus on proposition bets offered by legal online sports bookies",
-          "• Six people named in indictment unsealed last week are accused of conspiracy to commit wire fraud and money laundering "
-        ],
-        "hopeful_bullets": [
-          "• NBA to review betting-related issues to \"protect the integrity of the NBA and our affiliated leagues\" Review will focus on proposition bets offered by legal online sports bookies",
-          "• Six people named in indictment unsealed last week are accused of conspiracy to commit wire fraud and money laundering "
-        ],
-        "stakes_bullets": [
-          "• NBA to review betting-related issues to \"protect the integrity of the NBA and our affiliated leagues\" Review will focus on proposition bets offered by legal online sports bookies"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "0870e90190e4"
     },
     {
       "id": "09737fd9a9a2",
@@ -6604,38 +6608,6 @@
       "cluster_id": "cd03efbb1927"
     },
     {
-      "id": "da3a66fc709d",
-      "title": "The devil's in the detailing at haunted Halloween car washes",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/27/nx-s1-5566674/haunted-car-wash-halloween",
-      "published_at": "Mon, 27 Oct 2025 10:00:00 -0400",
-      "bullets": [
-        "• The origins of the haunted car wash trend are murky",
-        "• The trend has grown across the country for years at independent and chain car washes",
-        "• Nearly half of them, from Alaska to Wyoming, will be running a Halloween-themed \"Tunnel of Terror\""
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The origins of the haunted car wash trend are murky",
-          "• The trend has grown across the country for years at independent and chain car washes"
-        ],
-        "hopeful_bullets": [
-          "• The origins of the haunted car wash trend are murky",
-          "• The trend has grown across the country for years at independent and chain car washes"
-        ],
-        "stakes_bullets": [
-          "• Nearly half of them, from Alaska to Wyoming, will be running a Halloween-themed \"Tunnel of Terror\""
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6019689d5614"
-    },
-    {
       "id": "b23a0daec1df",
       "title": "Finland's stubbornly low birth rate shows why a population shift may be inevitable",
       "outlet": "NPR Topics: News",
@@ -6667,6 +6639,38 @@
       },
       "read_minutes": 6,
       "cluster_id": "6674c7a1f449"
+    },
+    {
+      "id": "da3a66fc709d",
+      "title": "The devil's in the detailing at haunted Halloween car washes",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/27/nx-s1-5566674/haunted-car-wash-halloween",
+      "published_at": "Mon, 27 Oct 2025 10:00:00 -0400",
+      "bullets": [
+        "• The origins of the haunted car wash trend are murky",
+        "• The trend has grown across the country for years at independent and chain car washes",
+        "• Nearly half of them, from Alaska to Wyoming, will be running a Halloween-themed \"Tunnel of Terror\""
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The origins of the haunted car wash trend are murky",
+          "• The trend has grown across the country for years at independent and chain car washes"
+        ],
+        "hopeful_bullets": [
+          "• The origins of the haunted car wash trend are murky",
+          "• The trend has grown across the country for years at independent and chain car washes"
+        ],
+        "stakes_bullets": [
+          "• Nearly half of them, from Alaska to Wyoming, will be running a Halloween-themed \"Tunnel of Terror\""
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "6019689d5614"
     },
     {
       "id": "5e22e4b14f5c",
@@ -9852,24 +9856,6 @@
       ]
     },
     {
-      "id": "6019689d5614",
-      "topic": "car detailing devil halloween",
-      "keywords": [
-        "car",
-        "detailing",
-        "devil",
-        "halloween",
-        "haunted",
-        "washe"
-      ],
-      "item_ids": [
-        "da3a66fc709d"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "6674c7a1f449",
       "topic": "birth finland low rate",
       "keywords": [
@@ -9882,6 +9868,24 @@
       ],
       "item_ids": [
         "b23a0daec1df"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "6019689d5614",
+      "topic": "car detailing devil halloween",
+      "keywords": [
+        "car",
+        "detailing",
+        "devil",
+        "halloween",
+        "haunted",
+        "washe"
+      ],
+      "item_ids": [
+        "da3a66fc709d"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9918,6 +9922,42 @@
       ],
       "item_ids": [
         "e34e337dd94e"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "efba1ee510a2",
+      "topic": "google iowa major nextera",
+      "keywords": [
+        "google",
+        "iowa",
+        "major",
+        "nextera",
+        "nuclear",
+        "revive"
+      ],
+      "item_ids": [
+        "8e9a0d3d10d9"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "43df13e00ea7",
+      "topic": "broadly european flat head",
+      "keywords": [
+        "broadly",
+        "european",
+        "flat",
+        "head",
+        "open",
+        "stock"
+      ],
+      "item_ids": [
+        "953cbd860773"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9989,42 +10029,6 @@
       ],
       "item_ids": [
         "59641616de55"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "0870e90190e4",
-      "topic": "bets injury nba prop",
-      "keywords": [
-        "bets",
-        "injury",
-        "nba",
-        "prop",
-        "reporting",
-        "reviewing"
-      ],
-      "item_ids": [
-        "3deec0458287"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "af1ac205c22e",
-      "topic": "asia investor look market",
-      "keywords": [
-        "asia",
-        "investor",
-        "look",
-        "market",
-        "mostly",
-        "slip"
-      ],
-      "item_ids": [
-        "b8ab554f6cf2"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10617,6 +10621,24 @@
       ]
     },
     {
+      "id": "41c653d7962e",
+      "topic": "billion boring complex earth",
+      "keywords": [
+        "billion",
+        "boring",
+        "complex",
+        "earth",
+        "set",
+        "stage"
+      ],
+      "item_ids": [
+        "7c9b7f97fdd0"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "734c83dc62e0",
       "topic": "ancient first humanity sparked",
       "keywords": [
@@ -10755,24 +10777,6 @@
       ],
       "item_ids": [
         "b165fd224698"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "985024bc40af",
-      "topic": "frozen germany hippo mammoth",
-      "keywords": [
-        "frozen",
-        "germany",
-        "hippo",
-        "mammoth",
-        "once",
-        "roamed"
-      ],
-      "item_ids": [
-        "287cf7f41702"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
