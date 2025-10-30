@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-30T05:20:18Z",
+  "generated_at": "2025-10-30T05:49:46Z",
   "items": [
     {
       "id": "d6f893eb9077",
@@ -568,38 +568,6 @@
       "cluster_id": "e33f387a749b"
     },
     {
-      "id": "94c3fefdcb62",
-      "title": "Trump-Xi meeting nears with high stakes and hopes, but few details",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/29/trump-xi-meeting-trade.html",
-      "published_at": "Wed, 29 Oct 2025 21:31:21 GMT",
-      "bullets": [
-        "• President Donald Trump and Chinese President Xi Jinping are set to meet in Busan, South Korea",
-        "• The two leaders' first face-to-face since Trump took office and began his trade war with China",
-        "• But some experts are skeptical of the White House's confidence ahead of the summit "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.795
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump and Chinese President Xi Jinping are set to meet in Busan, South Korea",
-          "• The two leaders' first face-to-face since Trump took office and began his trade war with China"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump and Chinese President Xi Jinping are set to meet in Busan, South Korea",
-          "• The two leaders' first face-to-face since Trump took office and began his trade war with China"
-        ],
-        "stakes_bullets": [
-          "• The two leaders' first face-to-face since Trump took office and began his trade war with China"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "50e3c240ac89"
-    },
-    {
       "id": "fff53ec21bef",
       "title": "Space station astronauts eager to open “golden treasure box” from Japan",
       "outlet": "Ars Technica - All content",
@@ -632,6 +600,37 @@
       },
       "read_minutes": 2,
       "cluster_id": "f904f79cda48"
+    },
+    {
+      "id": "79718e67edde",
+      "title": "Meta’s Reality Labs posts $4.4 billion loss in third quarter",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/29/metas-reality-labs-posts-4point4-billion-loss-in-third-quarter.html",
+      "published_at": "Wed, 29 Oct 2025 21:22:50 GMT",
+      "bullets": [
+        "• Meta's Reality Labs division recorded an operating loss of $4.4 billion in third-quarter earnings",
+        "• Reality Labs is responsible for developing the company's VR headsets and Ray-Ban and Oakley AI smart glasses that Meta develops in partnership with eyewear giant EssilorLuxottica "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Meta's Reality Labs division recorded an operating loss of $4.4 billion in third-quarter earnings",
+          "• Reality Labs is responsible for developing the company's VR headsets and Ray-Ban and Oakley AI smart glasses that Meta develops in partnership with eyewear giant EssilorLuxottica "
+        ],
+        "hopeful_bullets": [
+          "• Meta's Reality Labs division recorded an operating loss of $4.4 billion in third-quarter earnings"
+        ],
+        "stakes_bullets": [
+          "• Meta's Reality Labs division recorded an operating loss of $4.4 billion in third-quarter earnings",
+          "• Reality Labs is responsible for developing the company's VR headsets and Ray-Ban and Oakley AI smart glasses that Meta develops in partnership with eyewear giant EssilorLuxottica "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "752c73601db6"
     },
     {
       "id": "9f1257c1b869",
@@ -2274,39 +2273,6 @@
       "cluster_id": "64e7ba7351b6"
     },
     {
-      "id": "a861dc4df9ae",
-      "title": "Extropic Aims to Disrupt the Data Center Bonanza",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/extropic-aims-to-disrupt-the-data-center-bonanza/",
-      "published_at": "Wed, 29 Oct 2025 17:11:10 +0000",
-      "bullets": [
-        "• Extropic is developing an exotic new kind of computer chip that handles probabilistic bits",
-        "• The startup's chips work in a fundamentally different way than chips from Nvidia, AMD, and others",
-        "• They promise to be thousands of times more energy-efficient when scaled up",
-        "• With AI companies pouring billions of dollars into building data centers, a new approach could offer a cheaper alternative "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.536
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Extropic is developing an exotic new kind of computer chip that handles probabilistic bits",
-          "• The startup's chips work in a fundamentally different way than chips from Nvidia, AMD, and others"
-        ],
-        "hopeful_bullets": [
-          "• Extropic is developing an exotic new kind of computer chip that handles probabilistic bits",
-          "• The startup's chips work in a fundamentally different way than chips from Nvidia, AMD, and others"
-        ],
-        "stakes_bullets": [
-          "• With AI companies pouring billions of dollars into building data centers, a new approach could offer a cheaper alternative "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f483a8749d46"
-    },
-    {
       "id": "f4f042376977",
       "title": "Public Enemy Urge Us to ‘Do Something’ in Politically-Charged Music Video",
       "outlet": "Music News",
@@ -2336,40 +2302,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "82c7fa1cf469"
-    },
-    {
-      "id": "f1193bacee55",
-      "title": "9 Best Seiko 5 Sports Watches (2025)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/the-best-seiko-5-sports-watches/",
-      "published_at": "Wed, 29 Oct 2025 16:52:23 +0000",
-      "bullets": [
-        "• The Seiko 5 Sports range is one of the most varied, well-respected, and, crucially, often most reasonably priced watch collections",
-        "• The 5 in the name comes from the five core design and manufacturing principles",
-        "• Seiko has been making wristwatches for more than 100 years, but the modern range traces its roots to 1963 "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Seiko 5 Sports range is one of the most varied, well-respected, and, crucially, often most reasonably priced watch collections",
-          "• The 5 in the name comes from the five core design and manufacturing principles"
-        ],
-        "hopeful_bullets": [
-          "• The Seiko 5 Sports range is one of the most varied, well-respected, and, crucially, often most reasonably priced watch collections",
-          "• The 5 in the name comes from the five core design and manufacturing principles"
-        ],
-        "stakes_bullets": [
-          "• The Seiko 5 Sports range is one of the most varied, well-respected, and, crucially, often most reasonably priced watch collections",
-          "• The 5 in the name comes from the five core design and manufacturing principles",
-          "• Seiko has been making wristwatches for more than 100 years, but the modern range traces its roots to 1963 "
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "fbffcac4bf9e"
     },
     {
       "id": "d00998e69898",
@@ -2727,38 +2659,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "5328287f3332"
-    },
-    {
-      "id": "f8a78de5469f",
-      "title": "Donald Trump Is the First AI Slop President",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/donald-trump-ai-slop-white-house/",
-      "published_at": "Wed, 29 Oct 2025 15:00:00 +0000",
-      "bullets": [
-        "• President Donald Trump has posted a series of AI-generated videos on his official Twitter account",
-        "• The most infamous clip came ahead of the No Kings protests earlier this month",
-        "• Trump has also shared a racist depiction of House minority leader Hakeem Jeffries wearing a mustache and sombrero "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump has posted a series of AI-generated videos on his official Twitter account",
-          "• The most infamous clip came ahead of the No Kings protests earlier this month"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump has posted a series of AI-generated videos on his official Twitter account",
-          "• The most infamous clip came ahead of the No Kings protests earlier this month"
-        ],
-        "stakes_bullets": [
-          "• Trump has also shared a racist depiction of House minority leader Hakeem Jeffries wearing a mustache and sombrero "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "be9b6095cb41"
     },
     {
       "id": "dd47bd588585",
@@ -3660,10 +3560,9 @@
       "url": "https://www.npr.org/2025/10/29/nx-s1-5589729/trump-xi-deal-south-korea-apec",
       "published_at": "Wed, 29 Oct 2025 06:02:21 -0400",
       "bullets": [
-        "• Trump-Xi meeting concludes after days of build-up in the Indo-pacific region",
-        "• It's unclear how secure any trade deal between the two is",
-        "• The two leaders spoke for about an hour and 40 minutes Thursday",
-        "• Trump headed straight to Air Force One as planned, traveling back to Washington "
+        "• President Trump says he and Chinese leader Xi Jinping have already agreed to many points in trade negotiations",
+        "• The two leaders sat down for about an hour and 40 minutes Thursday at a South Korean air base in Busan",
+        "• It's unclear how secure any trade deal between the two is "
       ],
       "category": "Politics",
       "sentiment": {
@@ -3672,16 +3571,16 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Trump-Xi meeting concludes after days of build-up in the Indo-pacific region",
-          "• It's unclear how secure any trade deal between the two is"
+          "• President Trump says he and Chinese leader Xi Jinping have already agreed to many points in trade negotiations",
+          "• The two leaders sat down for about an hour and 40 minutes Thursday at a South Korean air base in Busan"
         ],
         "hopeful_bullets": [
-          "• Trump-Xi meeting concludes after days of build-up in the Indo-pacific region",
-          "• It's unclear how secure any trade deal between the two is"
+          "• President Trump says he and Chinese leader Xi Jinping have already agreed to many points in trade negotiations",
+          "• The two leaders sat down for about an hour and 40 minutes Thursday at a South Korean air base in Busan"
         ],
         "stakes_bullets": [
-          "• The two leaders spoke for about an hour and 40 minutes Thursday",
-          "• Trump headed straight to Air Force One as planned, traveling back to Washington "
+          "• President Trump says he and Chinese leader Xi Jinping have already agreed to many points in trade negotiations",
+          "• The two leaders sat down for about an hour and 40 minutes Thursday at a South Korean air base in Busan"
         ]
       },
       "read_minutes": 4,
@@ -3821,40 +3720,6 @@
       "cluster_id": "d3a7be4a33fb"
     },
     {
-      "id": "1bcac66f1c0f",
-      "title": "Antarctic robot ‘Lassie’ uncovers thousands of icefish nests beneath Antarctic ice",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251029002847.htm",
-      "published_at": "Wed, 29 Oct 2025 03:45:40 EDT",
-      "bullets": [
-        "• Antarctic robot ‘Lassie’ uncovers thousands of icefish nests beneath Antarctic ice",
-        "• The find came after the massive A68 iceberg, spanning 5,800 square kilometers, broke away from the Larsen C Ice Shelf in 2017",
-        "• Using a remotely operated vehicle (ROV), scientists observed more than a thousand circular nests on the seafloor "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.764
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Antarctic robot ‘Lassie’ uncovers thousands of icefish nests beneath Antarctic ice",
-          "• The find came after the massive A68 iceberg, spanning 5,800 square kilometers, broke away from the Larsen C Ice Shelf in 2017"
-        ],
-        "hopeful_bullets": [
-          "• Antarctic robot ‘Lassie’ uncovers thousands of icefish nests beneath Antarctic ice",
-          "• The find came after the massive A68 iceberg, spanning 5,800 square kilometers, broke away from the Larsen C Ice Shelf in 2017"
-        ],
-        "stakes_bullets": [
-          "• Antarctic robot ‘Lassie’ uncovers thousands of icefish nests beneath Antarctic ice",
-          "• The find came after the massive A68 iceberg, spanning 5,800 square kilometers, broke away from the Larsen C Ice Shelf in 2017",
-          "• Using a remotely operated vehicle (ROV), scientists observed more than a thousand circular nests on the seafloor "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "aed554561196"
-    },
-    {
       "id": "e71db39d75c7",
       "title": "New quantum network could finally reveal dark matter",
       "outlet": "All Top News -- ScienceDaily",
@@ -3987,6 +3852,40 @@
       },
       "read_minutes": 8,
       "cluster_id": "f8ac666aa68d"
+    },
+    {
+      "id": "935f20325471",
+      "title": "TVC15: Ahsoka (VC102)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-28-tvc15-ahsoka-vc102/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-ahsoka-vc102",
+      "published_at": "Wed, 29 Oct 2025 01:29:01 +0000",
+      "bullets": [
+        "• Ahsoka was one of the most sought-after action figures in Hasbro’s long history of action figure making",
+        "• Today, the reissue has made the figure more prevalent in online retail",
+        "• But time has made it a bit obsolete now"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ahsoka was one of the most sought-after action figures in Hasbro’s long history of action figure making",
+          "• Today, the reissue has made the figure more prevalent in online retail"
+        ],
+        "hopeful_bullets": [
+          "• Ahsoka was one of the most sought-after action figures in Hasbro’s long history of action figure making",
+          "• Today, the reissue has made the figure more prevalent in online retail"
+        ],
+        "stakes_bullets": [
+          "• Ahsoka was one of the most sought-after action figures in Hasbro’s long history of action figure making",
+          "• Today, the reissue has made the figure more prevalent in online retail",
+          "• But time has made it a bit obsolete now"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a425e1a29863"
     },
     {
       "id": "1ff1eef08b87",
@@ -5363,6 +5262,39 @@
       "cluster_id": "07158874bda5"
     },
     {
+      "id": "048677369a4b",
+      "title": "TVC15: Fi-Ek Sirch (Jedi Knight) (VC49)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-27-tvc15-fi-ek-sirch-jedi-knight-vc49/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-fi-ek-sirch-jedi-knight-vc49",
+      "published_at": "Tue, 28 Oct 2025 01:33:42 +0000",
+      "bullets": [
+        "• Fi-Ek Sirch (Jedi Knight) is one of Hasbro’s finest efforts of all time",
+        "• The Vintage Collection TVC15 VC49 is celebrating the 15th Anniversary of The Vintage Series",
+        "• We only hope they’ll continue to give us the many alien Jedi during the Battle of Geonosis from Attack Of The Clones "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fi-Ek Sirch (Jedi Knight) is one of Hasbro’s finest efforts of all time",
+          "• The Vintage Collection TVC15 VC49 is celebrating the 15th Anniversary of The Vintage Series"
+        ],
+        "hopeful_bullets": [
+          "• We only hope they’ll continue to give us the many alien Jedi during the Battle of Geonosis from Attack Of The Clones "
+        ],
+        "stakes_bullets": [
+          "• Fi-Ek Sirch (Jedi Knight) is one of Hasbro’s finest efforts of all time",
+          "• The Vintage Collection TVC15 VC49 is celebrating the 15th Anniversary of The Vintage Series",
+          "• We only hope they’ll continue to give us the many alien Jedi during the Battle of Geonosis from Attack Of The Clones "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "239e29644a45"
+    },
+    {
       "id": "b15305ca2dbb",
       "title": "‘Art is good for you’: how going to a gallery can boost your health",
       "outlet": "Positive News",
@@ -5619,36 +5551,170 @@
       "cluster_id": "3041f5367d34"
     },
     {
-      "id": "3abe9c887aee",
-      "title": "‘Partners and friends’: Xi strikes conciliatory tone as he meets Trump in South Korea",
+      "id": "91429089b16f",
+      "title": "Trump cuts fentanyl tariffs on China to 10%, says U.S. reached rare earths deal with Beijing",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/30/trump-and-xi-land-busan-meeting-trade-and-tariffs-.html",
-      "published_at": "Thu, 30 Oct 2025 04:41:39 GMT",
+      "url": "https://www.cnbc.com/2025/10/30/trump-cuts-fentanyl-tariffs-on-china-to-10percent-says-us-reached-rare-earths-deal-.html",
+      "published_at": "Thu, 30 Oct 2025 05:27:16 GMT",
       "bullets": [
-        "• Chinese President Xi Jinping says Beijing and Washington should be \"partners and friends\" The two leaders shake hands before leaving the venue without making public comments",
-        "• This is the first time the two leaders met in person since Trump began his second term in January "
+        "• The fentanyl-linked tariffs will be lowered to 10% from 20% effective immediately, Trump says",
+        "• The fentanyl tariffs will also be lowered, effective immediately",
+        "• In return, Beijing will resume purchases of American soybeans and other agricultural products",
+        "• The two sides had discussed \"a lot of chips\" but not the most advanced Blackwell chips "
       ],
       "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.998
+        "label": "negative",
+        "score": 0.977
       },
       "moods": {
         "brief_bullets": [
-          "• Chinese President Xi Jinping says Beijing and Washington should be \"partners and friends\" The two leaders shake hands before leaving the venue without making public comments",
-          "• This is the first time the two leaders met in person since Trump began his second term in January "
+          "• The fentanyl-linked tariffs will be lowered to 10% from 20% effective immediately, Trump says",
+          "• The fentanyl tariffs will also be lowered, effective immediately"
         ],
         "hopeful_bullets": [
-          "• Chinese President Xi Jinping says Beijing and Washington should be \"partners and friends\" The two leaders shake hands before leaving the venue without making public comments",
-          "• This is the first time the two leaders met in person since Trump began his second term in January "
+          "• The fentanyl-linked tariffs will be lowered to 10% from 20% effective immediately, Trump says",
+          "• The fentanyl tariffs will also be lowered, effective immediately"
         ],
         "stakes_bullets": [
-          "• Chinese President Xi Jinping says Beijing and Washington should be \"partners and friends\" The two leaders shake hands before leaving the venue without making public comments",
-          "• This is the first time the two leaders met in person since Trump began his second term in January "
+          "• The fentanyl-linked tariffs will be lowered to 10% from 20% effective immediately, Trump says",
+          "• The fentanyl tariffs will also be lowered, effective immediately",
+          "• In return, Beijing will resume purchases of American soybeans and other agricultural products"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "5b7d75cf89e0"
+      "read_minutes": 2,
+      "cluster_id": "f353297f87ad"
+    },
+    {
+      "id": "9e3fa95afff2",
+      "title": "Newegg Promo Code: 10% Off in November 2025",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/newegg-promo-code/",
+      "published_at": "Thu, 30 Oct 2025 05:15:00 +0000",
+      "bullets": [
+        "• Newegg currently has promo codes and deals on gently used, refurbished, new and hard-to-find electronics, gaming products and more",
+        "• Newegg is a leading global online retailer for PC hardware, home appliances and all things tech",
+        "• In the last decade, Newegg has expanded its online retail presence "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Newegg currently has promo codes and deals on gently used, refurbished, new and hard-to-find electronics, gaming products and more",
+          "• Newegg is a leading global online retailer for PC hardware, home appliances and all things tech"
+        ],
+        "hopeful_bullets": [
+          "• Newegg currently has promo codes and deals on gently used, refurbished, new and hard-to-find electronics, gaming products and more",
+          "• Newegg is a leading global online retailer for PC hardware, home appliances and all things tech"
+        ],
+        "stakes_bullets": [
+          "• Newegg is a leading global online retailer for PC hardware, home appliances and all things tech",
+          "• In the last decade, Newegg has expanded its online retail presence "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "6e2f16f4f6c1"
+    },
+    {
+      "id": "fe4e625528ab",
+      "title": "Dell Coupon Codes: 10% Off | November 2025",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/dell-coupon-code/",
+      "published_at": "Thu, 30 Oct 2025 05:07:00 +0000",
+      "bullets": [
+        "• Early Holiday deals rival even Black Friday prices",
+        "• Dell has marked down some of their most popular laptops and monitors",
+        "• New customers can get 10% off Dell products when you sign up for their email newsletter",
+        "• Save your tech refresh with clearance sale discounts and Dell promo codes today "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Early Holiday deals rival even Black Friday prices",
+          "• Dell has marked down some of their most popular laptops and monitors"
+        ],
+        "hopeful_bullets": [
+          "• Early Holiday deals rival even Black Friday prices",
+          "• Dell has marked down some of their most popular laptops and monitors"
+        ],
+        "stakes_bullets": [
+          "• Early Holiday deals rival even Black Friday prices",
+          "• Dell has marked down some of their most popular laptops and monitors",
+          "• New customers can get 10% off Dell products when you sign up for their email newsletter"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "804762d50fc7"
+    },
+    {
+      "id": "b204494f3f71",
+      "title": "Squarespace Promo Codes: 10% Off | November 2025",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "published_at": "Thu, 30 Oct 2025 05:03:00 +0000",
+      "bullets": [
+        "• Squarespace helps small businesses and regular Joe Schmoes get software help to build their own websites",
+        "• Right now, first-time users can get 10% off any website or domain plan, plus a 2 week free t",
+        "• WIRED even named Squarepace one of the best websites to show off your portfolio of work "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.939
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Squarespace helps small businesses and regular Joe Schmoes get software help to build their own websites",
+          "• Right now, first-time users can get 10% off any website or domain plan, plus a 2 week free t"
+        ],
+        "hopeful_bullets": [
+          "• Squarespace helps small businesses and regular Joe Schmoes get software help to build their own websites"
+        ],
+        "stakes_bullets": [
+          "• Right now, first-time users can get 10% off any website or domain plan, plus a 2 week free t"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "6e2f16f4f6c1"
+    },
+    {
+      "id": "12e82e415ce1",
+      "title": "‘White-knuckled wolf spider’ thought lost is rediscovered on Isle of Wight",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/oct/30/white-knuckled-wolf-spider-thought-lost-is-rediscovered-on-isle-of-wight",
+      "published_at": "Thu, 30 Oct 2025 05:00:53 GMT",
+      "bullets": [
+        "• The Aulonia albimana was found on the Isle of Wight in a spot grazed by a flock of Hebridean sheep",
+        "• It was rediscovered more than a mile from its former colony at the National Trust’s Newtown nature reserve "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Aulonia albimana was found on the Isle of Wight in a spot grazed by a flock of Hebridean sheep",
+          "• It was rediscovered more than a mile from its former colony at the National Trust’s Newtown nature reserve "
+        ],
+        "hopeful_bullets": [
+          "• The Aulonia albimana was found on the Isle of Wight in a spot grazed by a flock of Hebridean sheep",
+          "• It was rediscovered more than a mile from its former colony at the National Trust’s Newtown nature reserve "
+        ],
+        "stakes_bullets": [
+          "• The Aulonia albimana was found on the Isle of Wight in a spot grazed by a flock of Hebridean sheep",
+          "• It was rediscovered more than a mile from its former colony at the National Trust’s Newtown nature reserve "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "89aa2ec08f97"
     },
     {
       "id": "901673eaf10c",
@@ -5710,7 +5776,7 @@
           "• The planet is falling apart in the meantime, so DC's superheroes are all evacuating the planet "
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 4,
       "cluster_id": "fe71c03fd6fa"
     },
     {
@@ -5822,31 +5888,31 @@
       "url": "https://www.theguardian.com/us-news/2025/oct/30/trump-and-xi-meet-in-south-korea-for-crunch-talks-on-trade",
       "published_at": "Thu, 30 Oct 2025 03:36:43 GMT",
       "bullets": [
-        "• Donald Trump and Xi Jinping begin highly anticipated trade talks in South Korea",
-        "• The two men indicated they were prepared to declare a truce on key issues including the threat of additional US tariffs on Chinese goods",
-        "• Xi said the countries should “stay on the right course” and “be partners and friends”"
+        "• Donald Trump and Xi Jinping meet in Busan, South Korea, for the first time in six years",
+        "• They agreed to work together on Ukraine as an issue, Trump said",
+        "• He said he would lower fentanyl-linked tariffs from 20% to 10% in return "
       ],
       "category": "US",
       "sentiment": {
         "label": "positive",
-        "score": 0.97
+        "score": 0.899
       },
       "moods": {
         "brief_bullets": [
-          "• Donald Trump and Xi Jinping begin highly anticipated trade talks in South Korea",
-          "• The two men indicated they were prepared to declare a truce on key issues including the threat of additional US tariffs on Chinese goods"
+          "• Donald Trump and Xi Jinping meet in Busan, South Korea, for the first time in six years",
+          "• They agreed to work together on Ukraine as an issue, Trump said"
         ],
         "hopeful_bullets": [
-          "• Donald Trump and Xi Jinping begin highly anticipated trade talks in South Korea",
-          "• The two men indicated they were prepared to declare a truce on key issues including the threat of additional US tariffs on Chinese goods"
+          "• Donald Trump and Xi Jinping meet in Busan, South Korea, for the first time in six years",
+          "• They agreed to work together on Ukraine as an issue, Trump said"
         ],
         "stakes_bullets": [
-          "• Donald Trump and Xi Jinping begin highly anticipated trade talks in South Korea",
-          "• The two men indicated they were prepared to declare a truce on key issues including the threat of additional US tariffs on Chinese goods",
-          "• Xi said the countries should “stay on the right course” and “be partners and friends”"
+          "• Donald Trump and Xi Jinping meet in Busan, South Korea, for the first time in six years",
+          "• They agreed to work together on Ukraine as an issue, Trump said",
+          "• He said he would lower fentanyl-linked tariffs from 20% to 10% in return "
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 4,
       "cluster_id": "e74315d5f931"
     },
     {
@@ -6412,39 +6478,71 @@
       "cluster_id": "c6c1c6b088af"
     },
     {
-      "id": "23fc22d7dda4",
-      "title": "Grieving daughter of cruise ship passenger left behind on remote Australian island says ‘there was a failure of care’",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2025/oct/30/daughter-of-woman-cruise-ship-left-behind-dead-lizard-island-australia-failure-care",
-      "published_at": "Thu, 30 Oct 2025 00:15:10 GMT",
+      "id": "67c2af86c9bd",
+      "title": "Hidden clues in ghostly particles could explain why we exist",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251029100144.htm",
+      "published_at": "Thu, 30 Oct 2025 00:54:56 EDT",
       "bullets": [
-        "• Her body was found the next day after she was reported missing from the island",
-        "• She had been travelling with a group of friends and family members",
-        "• She was believed to have been on her way back to the island when she was killed",
-        "• The family was travelling with her on the way to Australia from the start of the day "
+        "• Researchers from Japan and the U.S",
+        "• joined forces to explore one of the universe's deepest mysteries",
+        "• They combined data from two massive neutrino experiments to achieve unprecedented precision in studying neutrinos, the nearly invisible particles that fill the cosmos but rarely interact with anything "
       ],
-      "category": "Environment",
+      "category": "Science",
       "sentiment": {
-        "label": "negative",
-        "score": 1.0
+        "label": "positive",
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• Her body was found the next day after she was reported missing from the island",
-          "• She had been travelling with a group of friends and family members"
+          "• Researchers from Japan and the U.S",
+          "• joined forces to explore one of the universe's deepest mysteries"
         ],
         "hopeful_bullets": [
-          "• Her body was found the next day after she was reported missing from the island",
-          "• She had been travelling with a group of friends and family members"
+          "• Researchers from Japan and the U.S",
+          "• joined forces to explore one of the universe's deepest mysteries"
         ],
         "stakes_bullets": [
-          "• Her body was found the next day after she was reported missing from the island",
-          "• She had been travelling with a group of friends and family members",
-          "• She was believed to have been on her way back to the island when she was killed"
+          "• Researchers from Japan and the U.S",
+          "• joined forces to explore one of the universe's deepest mysteries",
+          "• They combined data from two massive neutrino experiments to achieve unprecedented precision in studying neutrinos, the nearly invisible particles that fill the cosmos but rarely interact with anything "
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "6e4309cd2679"
+      "read_minutes": 10,
+      "cluster_id": "28a5e2d0d039"
+    },
+    {
+      "id": "04e15f0e698f",
+      "title": "TVC15: Ratts Tyerell & Pit Droid (VC77)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-29-tvc15-ratts-tyerell-pit-droid-vc77/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-ratts-tyerell-pit-droid-vc77",
+      "published_at": "Thu, 30 Oct 2025 00:47:09 +0000",
+      "bullets": [
+        "• Ratts Tyerell & Pit Droid was pulled at the eleventh hour due to cost",
+        "• Originally planned to be part of a two-pack in the Legacy Collection line",
+        "• Hasbro held off on the figure’s release to release it as part of The Vintage Collection's The Phantom Menace wave",
+        "• Not a revolutionary action figure, it still serves a relevant place in the line "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ratts Tyerell & Pit Droid was pulled at the eleventh hour due to cost",
+          "• Originally planned to be part of a two-pack in the Legacy Collection line"
+        ],
+        "hopeful_bullets": [
+          "• Ratts Tyerell & Pit Droid was pulled at the eleventh hour due to cost",
+          "• Originally planned to be part of a two-pack in the Legacy Collection line"
+        ],
+        "stakes_bullets": [
+          "• Originally planned to be part of a two-pack in the Legacy Collection line"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "d88e92e40085"
     },
     {
       "id": "2ebb9ebcde07",
@@ -7047,6 +7145,37 @@
       "cluster_id": "3c61426aaf64"
     },
     {
+      "id": "0f21f95a3042",
+      "title": "TVC15: Naboo Royal Guard (VC83)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-25-tvc15-naboo-royal-guard-vc83/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-naboo-royal-guard-vc83",
+      "published_at": "Sun, 26 Oct 2025 03:19:31 +0000",
+      "bullets": [
+        "• Hasbro released a Naboo Royal Guard action figure with enhanced articulation in 2012",
+        "• Unfortunately, they messed up the figure’s helmet in terms of deco",
+        "• Despite a super-articulated body, the range of movement in many parts is reduced by the angle of their cuts "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro released a Naboo Royal Guard action figure with enhanced articulation in 2012",
+          "• Unfortunately, they messed up the figure’s helmet in terms of deco"
+        ],
+        "hopeful_bullets": [
+          "• Despite a super-articulated body, the range of movement in many parts is reduced by the angle of their cuts "
+        ],
+        "stakes_bullets": [
+          "• Despite a super-articulated body, the range of movement in many parts is reduced by the angle of their cuts "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "3802d696adc8"
+    },
+    {
       "id": "eb57e9ca09a9",
       "title": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -7145,6 +7274,40 @@
       },
       "read_minutes": 7,
       "cluster_id": "019ca9f3f6d0"
+    },
+    {
+      "id": "547f600e8e93",
+      "title": "Several New TVC And TBS Figures Revealed At MCM Comic Con In London",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-25-several-new-tvc-and-tbs-figures-revealed-at-mcm-comic-con-in-london/?utm_source=rss&utm_medium=rss&utm_campaign=several-new-tvc-and-tbs-figures-revealed-at-mcm-comic-con-in-london",
+      "published_at": "Sat, 25 Oct 2025 14:59:56 +0000",
+      "bullets": [
+        "• The Vintage Collection gets one new figure, Qimir aka “The Stranger” from The Acolyte",
+        "• Two repacks were also shown, Emperor’s Wrath Darth Vader and Shadow Lord Maul",
+        "• All three are fan channel mainline releases and are part of the Kyle Katarn wave "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.97
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Vintage Collection gets one new figure, Qimir aka “The Stranger” from The Acolyte",
+          "• Two repacks were also shown, Emperor’s Wrath Darth Vader and Shadow Lord Maul"
+        ],
+        "hopeful_bullets": [
+          "• The Vintage Collection gets one new figure, Qimir aka “The Stranger” from The Acolyte",
+          "• Two repacks were also shown, Emperor’s Wrath Darth Vader and Shadow Lord Maul"
+        ],
+        "stakes_bullets": [
+          "• The Vintage Collection gets one new figure, Qimir aka “The Stranger” from The Acolyte",
+          "• Two repacks were also shown, Emperor’s Wrath Darth Vader and Shadow Lord Maul",
+          "• All three are fan channel mainline releases and are part of the Kyle Katarn wave "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "01f83db9643c"
     },
     {
       "id": "29372dcf53b2",
@@ -7546,6 +7709,40 @@
       "cluster_id": "d47dd33ed95d"
     },
     {
+      "id": "a244d9988ade",
+      "title": "Review: Jedi Spirits (Anakin Skywalker (Jedi Spirit)/Yoda (Jedi Spirit)/Obi-Wan Kenobi (Jedi Spirit)) - TVC - Special Action Figure Set",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-27-review-jedi-spirits-anakin-skywalker-jedi-spirit-yoda-jedi-spirit-obi-wan-kenobi-jedi-spirit-tvc-special-action-figure-set/?utm_source=rss&utm_medium=rss&utm_campaign=review-jedi-spirits-anakin-skywalker-jedi-spirit-yoda-jedi-spirit-obi-wan-kenobi-jedi-spirit-tvc-special-action-figure-set",
+      "published_at": "Mon, 27 Oct 2025 10:21:09 +0000",
+      "bullets": [
+        "• The Jedi Spirits (Anakin Skywalker (Jedi Spirit)/Yoda (Jed Spirit) Special Action Figure Set) The Vintage Collection is a Hasbro Pulse exclusive",
+        "• It provides us with a critical update on another O96 Kenner figure",
+        "• See this release in our Research Droids Reviews "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Jedi Spirits (Anakin Skywalker (Jedi Spirit)/Yoda (Jed Spirit) Special Action Figure Set) The Vintage Collection is a Hasbro Pulse exclusive",
+          "• It provides us with a critical update on another O96 Kenner figure"
+        ],
+        "hopeful_bullets": [
+          "• The Jedi Spirits (Anakin Skywalker (Jedi Spirit)/Yoda (Jed Spirit) Special Action Figure Set) The Vintage Collection is a Hasbro Pulse exclusive",
+          "• It provides us with a critical update on another O96 Kenner figure"
+        ],
+        "stakes_bullets": [
+          "• The Jedi Spirits (Anakin Skywalker (Jedi Spirit)/Yoda (Jed Spirit) Special Action Figure Set) The Vintage Collection is a Hasbro Pulse exclusive",
+          "• It provides us with a critical update on another O96 Kenner figure",
+          "• See this release in our Research Droids Reviews "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "cd03efbb1927"
+    },
+    {
       "id": "347ab7d45611",
       "title": "Sheep, soldiers, and grains: Studying the physics of crowds",
       "outlet": "NPR Topics: Science",
@@ -7614,6 +7811,39 @@
       "cluster_id": "66fb3583ebdb"
     },
     {
+      "id": "871d77d53996",
+      "title": "TVC15: R5-D4 (VC40)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-26-tvc15-r5-d4-vc40/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-r5-d4-vc40",
+      "published_at": "Mon, 27 Oct 2025 01:54:31 +0000",
+      "bullets": [
+        "• The Vintage Collection is celebrating the 15th Anniversary of the Star Wars series",
+        "• R5-D4 helped us check off another O96 character, Skippy, as well as the Astromech Droid Skippy",
+        "• Hasbro needed to pad the collection with a ‘holdover’ repack-and-repaint wave of figures "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.821
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Vintage Collection is celebrating the 15th Anniversary of the Star Wars series",
+          "• R5-D4 helped us check off another O96 character, Skippy, as well as the Astromech Droid Skippy"
+        ],
+        "hopeful_bullets": [
+          "• R5-D4 helped us check off another O96 character, Skippy, as well as the Astromech Droid Skippy"
+        ],
+        "stakes_bullets": [
+          "• The Vintage Collection is celebrating the 15th Anniversary of the Star Wars series",
+          "• R5-D4 helped us check off another O96 character, Skippy, as well as the Astromech Droid Skippy",
+          "• Hasbro needed to pad the collection with a ‘holdover’ repack-and-repaint wave of figures "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "ef191067950b"
+    },
+    {
       "id": "1b037cbd2fa0",
       "title": "How the Force can Fix the World w/ Stephen Kent – SWR #482",
       "outlet": "The Star Wars Report Podcast",
@@ -7679,6 +7909,40 @@
       },
       "read_minutes": 3,
       "cluster_id": "b235c16fb40e"
+    },
+    {
+      "id": "a4145e152263",
+      "title": "TVC15: AT-AT Commander (VC05)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-24-tvc15-at-at-commander-vc05/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-at-at-commander-vc05",
+      "published_at": "Fri, 24 Oct 2025 23:25:40 +0000",
+      "bullets": [
+        "• The Vintage Collection TVC15 VC05 is celebrating the 15th anniversary of The Empire Strikes Back",
+        "• Not based on any character seen in the film, it’s assumed that this action figure is based on one of the multiple commanders we DON’T see during the Battle of Hoth",
+        "• Nicely accessorized and adequately sculpted, the AT-AT Commander is the nicest interpretation of these on-screen characters "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Vintage Collection TVC15 VC05 is celebrating the 15th anniversary of The Empire Strikes Back",
+          "• Not based on any character seen in the film, it’s assumed that this action figure is based on one of the multiple commanders we DON’T see during the Battle of Hoth"
+        ],
+        "hopeful_bullets": [
+          "• The Vintage Collection TVC15 VC05 is celebrating the 15th anniversary of The Empire Strikes Back",
+          "• Not based on any character seen in the film, it’s assumed that this action figure is based on one of the multiple commanders we DON’T see during the Battle of Hoth"
+        ],
+        "stakes_bullets": [
+          "• The Vintage Collection TVC15 VC05 is celebrating the 15th anniversary of The Empire Strikes Back",
+          "• Not based on any character seen in the film, it’s assumed that this action figure is based on one of the multiple commanders we DON’T see during the Battle of Hoth",
+          "• Nicely accessorized and adequately sculpted, the AT-AT Commander is the nicest interpretation of these on-screen characters "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "eaee0c868f85"
     },
     {
       "id": "4f0e94bed4e3",
@@ -7774,6 +8038,40 @@
       },
       "read_minutes": 12,
       "cluster_id": "22db6b7ddbfb"
+    },
+    {
+      "id": "5a378e889f70",
+      "title": "Hot Toys The Empire Strikes Back Han Solo (MMS846) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-24-hot-toys-the-empire-strikes-back-han-solo-mms846-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-the-empire-strikes-back-han-solo-mms846-1-6-scale-figure",
+      "published_at": "Fri, 24 Oct 2025 11:10:11 +0000",
+      "bullets": [
+        "• The figure includes a newly developed head sculpt with separate rolling eyeballs that convey Han’s wit and resolve",
+        "• His facial features are meticulously realized, from natural skin texture and realistic scar to finely sculpted short brown hair",
+        "• The figure comes equipped with a Hoth parka embedded with bendable wire, layered over his jacket and his signature V-neck shirt "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The figure includes a newly developed head sculpt with separate rolling eyeballs that convey Han’s wit and resolve",
+          "• His facial features are meticulously realized, from natural skin texture and realistic scar to finely sculpted short brown hair"
+        ],
+        "hopeful_bullets": [
+          "• The figure includes a newly developed head sculpt with separate rolling eyeballs that convey Han’s wit and resolve",
+          "• His facial features are meticulously realized, from natural skin texture and realistic scar to finely sculpted short brown hair"
+        ],
+        "stakes_bullets": [
+          "• The figure includes a newly developed head sculpt with separate rolling eyeballs that convey Han’s wit and resolve",
+          "• His facial features are meticulously realized, from natural skin texture and realistic scar to finely sculpted short brown hair",
+          "• The figure comes equipped with a Hoth parka embedded with bendable wire, layered over his jacket and his signature V-neck shirt "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3fc342e3440f"
     },
     {
       "id": "a94d548405aa",
@@ -9651,18 +9949,18 @@
       ]
     },
     {
-      "id": "5b7d75cf89e0",
-      "topic": "conciliatory friend meet partner",
+      "id": "f353297f87ad",
+      "topic": "china cuts fentanyl reached",
       "keywords": [
-        "conciliatory",
-        "friend",
-        "meet",
-        "partner",
-        "strike",
-        "tone"
+        "china",
+        "cuts",
+        "fentanyl",
+        "reached",
+        "tariff",
+        "trump"
       ],
       "item_ids": [
-        "3abe9c887aee"
+        "91429089b16f"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9759,24 +10057,6 @@
       ]
     },
     {
-      "id": "50e3c240ac89",
-      "topic": "high hope meeting near",
-      "keywords": [
-        "high",
-        "hope",
-        "meeting",
-        "near",
-        "stake",
-        "trump"
-      ],
-      "item_ids": [
-        "94c3fefdcb62"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "1034495fa1bf",
       "topic": "ceo defend mark meta",
       "keywords": [
@@ -9789,6 +10069,24 @@
       ],
       "item_ids": [
         "d4077b103389"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "752c73601db6",
+      "topic": "billion labs loss meta",
+      "keywords": [
+        "billion",
+        "labs",
+        "loss",
+        "meta",
+        "post",
+        "reality"
+      ],
+      "item_ids": [
+        "79718e67edde"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9828,6 +10126,44 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "6e2f16f4f6c1",
+      "topic": "2025 code newegg november",
+      "keywords": [
+        "2025",
+        "code",
+        "newegg",
+        "november",
+        "off",
+        "promo",
+        "squarespace"
+      ],
+      "item_ids": [
+        "9e3fa95afff2",
+        "b204494f3f71"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "804762d50fc7",
+      "topic": "2025 code coupon dell",
+      "keywords": [
+        "2025",
+        "code",
+        "coupon",
+        "dell",
+        "november",
+        "off"
+      ],
+      "item_ids": [
+        "fe4e625528ab"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -9947,58 +10283,6 @@
       ],
       "item_ids": [
         "5a6a01c1f26c"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "f483a8749d46",
-      "topic": "aims bonanza center data",
-      "keywords": [
-        "aims",
-        "bonanza",
-        "center",
-        "data",
-        "disrupt",
-        "extropic"
-      ],
-      "item_ids": [
-        "a861dc4df9ae"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "fbffcac4bf9e",
-      "topic": "2025 best seiko sport",
-      "keywords": [
-        "2025",
-        "best",
-        "seiko",
-        "sport",
-        "watche"
-      ],
-      "item_ids": [
-        "f1193bacee55"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "be9b6095cb41",
-      "topic": "donald first president slop",
-      "keywords": [
-        "donald",
-        "first",
-        "president",
-        "slop",
-        "trump"
-      ],
-      "item_ids": [
-        "f8a78de5469f"
       ],
       "outlets": [
         "WIRED"
@@ -10391,6 +10675,24 @@
       ]
     },
     {
+      "id": "28a5e2d0d039",
+      "topic": "clue exist explain ghostly",
+      "keywords": [
+        "clue",
+        "exist",
+        "explain",
+        "ghostly",
+        "hidden",
+        "particle"
+      ],
+      "item_ids": [
+        "67c2af86c9bd"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "d6487ed7e3ca",
       "topic": "dark finally matter network",
       "keywords": [
@@ -10509,24 +10811,6 @@
       ],
       "item_ids": [
         "3a592f7d9dea"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "aed554561196",
-      "topic": "antarctic icefish lassie robot",
-      "keywords": [
-        "antarctic",
-        "icefish",
-        "lassie",
-        "robot",
-        "thousand",
-        "uncover"
-      ],
-      "item_ids": [
-        "1bcac66f1c0f"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -11116,6 +11400,24 @@
       ]
     },
     {
+      "id": "89aa2ec08f97",
+      "topic": "knuckled lost spider thought",
+      "keywords": [
+        "knuckled",
+        "lost",
+        "spider",
+        "thought",
+        "white",
+        "wolf"
+      ],
+      "item_ids": [
+        "12e82e415ce1"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "c6c1c6b088af",
       "topic": "bashing bori johnson stop",
       "keywords": [
@@ -11128,24 +11430,6 @@
       ],
       "item_ids": [
         "983a54094891"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "6e4309cd2679",
-      "topic": "cruise daughter grieving left",
-      "keywords": [
-        "cruise",
-        "daughter",
-        "grieving",
-        "left",
-        "passenger",
-        "ship"
-      ],
-      "item_ids": [
-        "23fc22d7dda4"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -12330,6 +12614,156 @@
       ],
       "outlets": [
         "HorrorFix"
+      ]
+    },
+    {
+      "id": "d88e92e40085",
+      "topic": "droid pit ratt tvc15",
+      "keywords": [
+        "droid",
+        "pit",
+        "ratt",
+        "tvc15",
+        "tyerell",
+        "vc77"
+      ],
+      "item_ids": [
+        "04e15f0e698f"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "a425e1a29863",
+      "topic": "ahsoka tvc15 vc102",
+      "keywords": [
+        "ahsoka",
+        "tvc15",
+        "vc102"
+      ],
+      "item_ids": [
+        "935f20325471"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "239e29644a45",
+      "topic": "jedi knight sirch tvc15",
+      "keywords": [
+        "jedi",
+        "knight",
+        "sirch",
+        "tvc15",
+        "vc49"
+      ],
+      "item_ids": [
+        "048677369a4b"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "cd03efbb1927",
+      "topic": "anakin jedi review skywalker",
+      "keywords": [
+        "anakin",
+        "jedi",
+        "review",
+        "skywalker",
+        "spirit",
+        "yoda"
+      ],
+      "item_ids": [
+        "a244d9988ade"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "ef191067950b",
+      "topic": "tvc15 vc40",
+      "keywords": [
+        "tvc15",
+        "vc40"
+      ],
+      "item_ids": [
+        "871d77d53996"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "3802d696adc8",
+      "topic": "guard naboo royal tvc15",
+      "keywords": [
+        "guard",
+        "naboo",
+        "royal",
+        "tvc15",
+        "vc83"
+      ],
+      "item_ids": [
+        "0f21f95a3042"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "01f83db9643c",
+      "topic": "figure mcm revealed several",
+      "keywords": [
+        "figure",
+        "mcm",
+        "revealed",
+        "several",
+        "tbs",
+        "tvc"
+      ],
+      "item_ids": [
+        "547f600e8e93"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "eaee0c868f85",
+      "topic": "commander tvc15 vc05",
+      "keywords": [
+        "commander",
+        "tvc15",
+        "vc05"
+      ],
+      "item_ids": [
+        "a4145e152263"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "3fc342e3440f",
+      "topic": "back empire han hot",
+      "keywords": [
+        "back",
+        "empire",
+        "han",
+        "hot",
+        "strike",
+        "toys"
+      ],
+      "item_ids": [
+        "5a378e889f70"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
       ]
     },
     {
