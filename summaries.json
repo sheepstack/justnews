@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-30T21:00:14Z",
+  "generated_at": "2025-10-30T21:21:33Z",
   "items": [
     {
       "id": "d6f893eb9077",
@@ -494,6 +494,41 @@
       },
       "read_minutes": 4,
       "cluster_id": "5621cc6c221b"
+    },
+    {
+      "id": "d566bebea92f",
+      "title": "Helping Small Business Dream Bigger in Texas",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17199413/helping-small-business-dream-bigger-in-texas",
+      "published_at": "Wed, 29 Oct 2025 15:16:00 +0000",
+      "bullets": [
+        "• In Dallas-Fort Worth, 99.6 percent of all firms are small businesses",
+        "• In the second half of 2024, DFW ranked first among all U.S",
+        "• metro areas in small-business job growth",
+        "• JPMorganChase is among the local companies that have helped to make this possible "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In Dallas-Fort Worth, 99.6 percent of all firms are small businesses",
+          "• In the second half of 2024, DFW ranked first among all U.S"
+        ],
+        "hopeful_bullets": [
+          "• metro areas in small-business job growth",
+          "• JPMorganChase is among the local companies that have helped to make this possible "
+        ],
+        "stakes_bullets": [
+          "• In Dallas-Fort Worth, 99.6 percent of all firms are small businesses",
+          "• In the second half of 2024, DFW ranked first among all U.S",
+          "• metro areas in small-business job growth"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "7c2fd403fcc5"
     },
     {
       "id": "8ef0f4ec9716",
@@ -1408,38 +1443,6 @@
       "cluster_id": "cf8dcfed4429"
     },
     {
-      "id": "60aeeff93ed0",
-      "title": "‘Rapid Explosion’ of Data Centers Causes Planning Struggles in Texas",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/28102025/texas-data-center-grid-planning-struggles/",
-      "published_at": "Tue, 28 Oct 2025 19:37:06 +0000",
-      "bullets": [
-        "• Large load users looking to connect onto Texas’ electric grid are being built faster than traditional transmission planning can manage",
-        "• In September 2024, ERCOT was tracking 56 gigawatts in large load interconnection requests",
-        "• Now, that number has almost quadrupled to 205 gigawatts "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Large load users looking to connect onto Texas’ electric grid are being built faster than traditional transmission planning can manage",
-          "• In September 2024, ERCOT was tracking 56 gigawatts in large load interconnection requests"
-        ],
-        "hopeful_bullets": [
-          "• Large load users looking to connect onto Texas’ electric grid are being built faster than traditional transmission planning can manage",
-          "• In September 2024, ERCOT was tracking 56 gigawatts in large load interconnection requests"
-        ],
-        "stakes_bullets": [
-          "• Large load users looking to connect onto Texas’ electric grid are being built faster than traditional transmission planning can manage"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "030b3082c326"
-    },
-    {
       "id": "f58d80ea566f",
       "title": "Horror Highlights: SOMETHING IS KILLING THE CHILDREN, HECTOR’S HELL HOUSE, FRONTIER CRUCIBLE",
       "outlet": "Daily Dead",
@@ -1895,6 +1898,72 @@
       "cluster_id": "3041f5367d34"
     },
     {
+      "id": "ecca20e2ec8e",
+      "title": "Tom Hanks' Larry Crowne Heading to Prime Video",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/tom-hanks-larry-crowne-streaming-november-2025/",
+      "published_at": "Thu, 30 Oct 2025 21:00:12 GMT",
+      "bullets": [
+        "• Tom Hanks directed and starred in the 2011 rom-com Larry Crowne",
+        "• The movie's story was inspired by Hanks' time studying theater at Chabot College in California",
+        "• It took Hanks 15 years after his directorial debut, 1996's That Thing You Do!"
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tom Hanks directed and starred in the 2011 rom-com Larry Crowne",
+          "• The movie's story was inspired by Hanks' time studying theater at Chabot College in California"
+        ],
+        "hopeful_bullets": [
+          "• Tom Hanks directed and starred in the 2011 rom-com Larry Crowne",
+          "• The movie's story was inspired by Hanks' time studying theater at Chabot College in California"
+        ],
+        "stakes_bullets": [
+          "• Tom Hanks directed and starred in the 2011 rom-com Larry Crowne",
+          "• The movie's story was inspired by Hanks' time studying theater at Chabot College in California",
+          "• It took Hanks 15 years after his directorial debut, 1996's That Thing You Do!"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e8bbdee5f59c"
+    },
+    {
+      "id": "cfbcc8816fbc",
+      "title": "NJ Residents to Receive $4.9 Million Settlement for PFAS Contamination in Drinking Water",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/30102025/new-jersey-forever-chemical-drinking-water-settlement/",
+      "published_at": "Thu, 30 Oct 2025 20:59:53 +0000",
+      "bullets": [
+        "• Some 60,000 residential water customers in New Jersey will share $4.9 million in the settlement of a lawsuit that charged a water company and a chemical maker with violating a state health limit on the presence of PFOA, a toxic “forever chemical” in drinking water",
+        "• Middlesex Water Co",
+        "• and 3M agreed to settle the class action almost four years after it was filed "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.953
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Some 60,000 residential water customers in New Jersey will share $4.9 million in the settlement of a lawsuit that charged a water company and a chemical maker with violating a state health limit on the presence of PFOA, a toxic “forever chemical” in drinking water",
+          "• Middlesex Water Co"
+        ],
+        "hopeful_bullets": [
+          "• Some 60,000 residential water customers in New Jersey will share $4.9 million in the settlement of a lawsuit that charged a water company and a chemical maker with violating a state health limit on the presence of PFOA, a toxic “forever chemical” in drinking water",
+          "• Middlesex Water Co"
+        ],
+        "stakes_bullets": [
+          "• Some 60,000 residential water customers in New Jersey will share $4.9 million in the settlement of a lawsuit that charged a water company and a chemical maker with violating a state health limit on the presence of PFOA, a toxic “forever chemical” in drinking water"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "298313c52655"
+    },
+    {
       "id": "c92fc8cc260a",
       "title": "Bon Jovi, the Offspring, Billy Idol, and More Remember Late Philly DJ Pierre Robert",
       "outlet": "Music News",
@@ -1928,6 +1997,41 @@
       "cluster_id": "2656da28ae79"
     },
     {
+      "id": "5580e90eb58d",
+      "title": "Netflix announces a 10-for-1 stock split",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/30/netflix-stock-split.html",
+      "published_at": "Thu, 30 Oct 2025 20:47:33 GMT",
+      "bullets": [
+        "• Netflix announced a 10-for-1 stock split Thursday",
+        "• Existing shareholders as of Nov",
+        "• 10 will receive nine additional shares for each one they hold",
+        "• The stock will begin trading at the new post-split price on Monday, Nov",
+        "• 17"
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.976
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Netflix announced a 10-for-1 stock split Thursday",
+          "• Existing shareholders as of Nov"
+        ],
+        "hopeful_bullets": [
+          "• Netflix announced a 10-for-1 stock split Thursday",
+          "• Existing shareholders as of Nov"
+        ],
+        "stakes_bullets": [
+          "• 10 will receive nine additional shares for each one they hold",
+          "• The stock will begin trading at the new post-split price on Monday, Nov"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "ae4a7dc6a40f"
+    },
+    {
       "id": "10d030154ad5",
       "title": "Star Trek: The Last Starship Finally Explains Why Captain Kirk Has Returned In Our Advanced Preview, And It's Shockingly Dark",
       "outlet": "CBR",
@@ -1959,6 +2063,38 @@
       },
       "read_minutes": 6,
       "cluster_id": "3a0bfea502af"
+    },
+    {
+      "id": "f60afb7f59ad",
+      "title": "Apple sees big December quarter driven by strong iPhone 17 demand",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/30/apple-aapl-earnings-report-q4-2025.html",
+      "published_at": "Thu, 30 Oct 2025 20:47:16 GMT",
+      "bullets": [
+        "• Apple reported fiscal-fourth quarter earnings on Thursday that beat analyst expectations",
+        "• CEO Tim Cook told CNBC's Steve Kovach that revenue in the current quarter will increase by at least 10%",
+        "• With 11% growth over last year's December quarter, revenue for the upcoming period would be $137.97 billion "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Apple reported fiscal-fourth quarter earnings on Thursday that beat analyst expectations",
+          "• CEO Tim Cook told CNBC's Steve Kovach that revenue in the current quarter will increase by at least 10%"
+        ],
+        "hopeful_bullets": [
+          "• With 11% growth over last year's December quarter, revenue for the upcoming period would be $137.97 billion "
+        ],
+        "stakes_bullets": [
+          "• CEO Tim Cook told CNBC's Steve Kovach that revenue in the current quarter will increase by at least 10%",
+          "• With 11% growth over last year's December quarter, revenue for the upcoming period would be $137.97 billion "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "91623f43ba08"
     },
     {
       "id": "dadd3c471637",
@@ -1995,6 +2131,105 @@
       "cluster_id": "5f80e7882a91"
     },
     {
+      "id": "112c0ebde3ae",
+      "title": "Amazon stock soars 10% as earnings beat estimates, company posts strong cloud growth",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/30/amazon-amzn-q3-earnings-report-2025.html",
+      "published_at": "Thu, 30 Oct 2025 20:45:56 GMT",
+      "bullets": [
+        "• Amazon shares jumped more than 10% in extended trading Thursday",
+        "• The company posted third-quarter earnings that exceeded expectations",
+        "• Revenue in Amazon's cloud-computing unit accelerated 20.2% during the quarter, blowing past analysts' expectations of 18.1% "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.944
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon shares jumped more than 10% in extended trading Thursday",
+          "• The company posted third-quarter earnings that exceeded expectations"
+        ],
+        "hopeful_bullets": [
+          "• Revenue in Amazon's cloud-computing unit accelerated 20.2% during the quarter, blowing past analysts' expectations of 18.1% "
+        ],
+        "stakes_bullets": [
+          "• Amazon shares jumped more than 10% in extended trading Thursday",
+          "• The company posted third-quarter earnings that exceeded expectations",
+          "• Revenue in Amazon's cloud-computing unit accelerated 20.2% during the quarter, blowing past analysts' expectations of 18.1% "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b64b6853005b"
+    },
+    {
+      "id": "cc0663055ed9",
+      "title": "Reddit shares rise on earnings beat, strong forecast",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/30/reddit-rddt-q3-2025.html",
+      "published_at": "Thu, 30 Oct 2025 20:43:41 GMT",
+      "bullets": [
+        "• Sales jumped 68% year-over-year in the third quarter, while net income was $163 million",
+        "• The company said it expects fourth-quarter sales to come in the range of $655 million to $665 million",
+        "• Shares were up more than 2% in after-hours trading "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.61
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sales jumped 68% year-over-year in the third quarter, while net income was $163 million",
+          "• The company said it expects fourth-quarter sales to come in the range of $655 million to $665 million"
+        ],
+        "hopeful_bullets": [
+          "• Sales jumped 68% year-over-year in the third quarter, while net income was $163 million",
+          "• The company said it expects fourth-quarter sales to come in the range of $655 million to $665 million"
+        ],
+        "stakes_bullets": [
+          "• Sales jumped 68% year-over-year in the third quarter, while net income was $163 million",
+          "• The company said it expects fourth-quarter sales to come in the range of $655 million to $665 million",
+          "• Shares were up more than 2% in after-hours trading "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e17446b4a83c"
+    },
+    {
+      "id": "5b909e32369f",
+      "title": "Coinbase shares rise on third-quarter earnings beat",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/30/coinbase-shares-rise-on-third-quarter-earnings-beat-.html",
+      "published_at": "Thu, 30 Oct 2025 20:42:42 GMT",
+      "bullets": [
+        "• The crypto exchange posted strong financial results for the third quarter that exceeded Wall Street's expectations",
+        "• Net income rose to $432.6 million, or $1.50 per share, from $75.5 million a year ago",
+        "• Revenue tied to transactions came in 37% higher quarter-over-quarter at $1 billion "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The crypto exchange posted strong financial results for the third quarter that exceeded Wall Street's expectations",
+          "• Net income rose to $432.6 million, or $1.50 per share, from $75.5 million a year ago"
+        ],
+        "hopeful_bullets": [
+          "• The crypto exchange posted strong financial results for the third quarter that exceeded Wall Street's expectations"
+        ],
+        "stakes_bullets": [
+          "• The crypto exchange posted strong financial results for the third quarter that exceeded Wall Street's expectations",
+          "• Revenue tied to transactions came in 37% higher quarter-over-quarter at $1 billion "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a0d91cd0bcae"
+    },
+    {
       "id": "b1ca942378b7",
       "title": "A Light Novel Officially Plagiarized Bleach – And Now It’s Getting an Anime",
       "outlet": "CBR",
@@ -2025,138 +2260,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "d8b79ff09d8b"
-    },
-    {
-      "id": "5580e90eb58d",
-      "title": "Netflix announces a 10-for-1 stock split",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/30/netflix-stock-split.html",
-      "published_at": "Thu, 30 Oct 2025 20:32:57 GMT",
-      "bullets": [
-        "• Netflix announced a 10-for-1 stock split on Thursday",
-        "• Shareholders as of Nov",
-        "• 10 will receive nine additional shares for each one they hold on Nov",
-        "• 14",
-        "• The stock will then begin trading at the new post-split price on Monday, Nov"
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Netflix announced a 10-for-1 stock split on Thursday",
-          "• Shareholders as of Nov"
-        ],
-        "hopeful_bullets": [
-          "• Netflix announced a 10-for-1 stock split on Thursday",
-          "• Shareholders as of Nov"
-        ],
-        "stakes_bullets": [
-          "• 10 will receive nine additional shares for each one they hold on Nov",
-          "• The stock will then begin trading at the new post-split price on Monday, Nov"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "ae4a7dc6a40f"
-    },
-    {
-      "id": "112c0ebde3ae",
-      "title": "Amazon stock soars 10% as earnings beat estimates, company posts strong cloud growth",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/30/amazon-amzn-q3-earnings-report-2025.html",
-      "published_at": "Thu, 30 Oct 2025 20:32:56 GMT",
-      "bullets": [
-        "• Amazon shares jumped more than 10% in extended trading Thursday",
-        "• The company posted third-quarter earnings that exceeded expectations",
-        "• Amazon's cloud-computing unit grew 20.2% in the quarter, blowing past analysts' expectations",
-        "• For the current quarter, Amazon said it expects sales to be $206 billion to $213 billion "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.758
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amazon shares jumped more than 10% in extended trading Thursday",
-          "• The company posted third-quarter earnings that exceeded expectations"
-        ],
-        "hopeful_bullets": [
-          "• Amazon's cloud-computing unit grew 20.2% in the quarter, blowing past analysts' expectations"
-        ],
-        "stakes_bullets": [
-          "• For the current quarter, Amazon said it expects sales to be $206 billion to $213 billion "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "b64b6853005b"
-    },
-    {
-      "id": "f60afb7f59ad",
-      "title": "Apple sees big December quarter driven by strong iPhone 17 demand",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/30/apple-aapl-earnings-report-q4-2025.html",
-      "published_at": "Thu, 30 Oct 2025 20:32:08 GMT",
-      "bullets": [
-        "• Apple reported fiscal-fourth quarter earnings on Thursday that beat analyst expectations",
-        "• CEO Tim Cook told CNBC's Steve Kovach that the current quarter, which ends in December, would see total company revenue grow 10 to 12% on a year-over-year basis",
-        "• Cook said that Apple was confident in its guidance because of the strong reception for the company "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Apple reported fiscal-fourth quarter earnings on Thursday that beat analyst expectations",
-          "• CEO Tim Cook told CNBC's Steve Kovach that the current quarter, which ends in December, would see total company revenue grow 10 to 12% on a year-over-year basis"
-        ],
-        "hopeful_bullets": [
-          "• Cook said that Apple was confident in its guidance because of the strong reception for the company "
-        ],
-        "stakes_bullets": [
-          "• Cook said that Apple was confident in its guidance because of the strong reception for the company "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "91623f43ba08"
-    },
-    {
-      "id": "cc0663055ed9",
-      "title": "Reddit shares rise on earnings beat, strong forecast",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/30/reddit-rddt-q3-2025.html",
-      "published_at": "Thu, 30 Oct 2025 20:31:29 GMT",
-      "bullets": [
-        "• Sales jumped 68% year-over-year in the third quarter, while net income was $163 million",
-        "• The company said it expects fourth-quarter sales to come in the range of $655 million to $665 million",
-        "• Shares were up more than 2% in after-hours trading "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.61
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sales jumped 68% year-over-year in the third quarter, while net income was $163 million",
-          "• The company said it expects fourth-quarter sales to come in the range of $655 million to $665 million"
-        ],
-        "hopeful_bullets": [
-          "• Sales jumped 68% year-over-year in the third quarter, while net income was $163 million",
-          "• The company said it expects fourth-quarter sales to come in the range of $655 million to $665 million"
-        ],
-        "stakes_bullets": [
-          "• Sales jumped 68% year-over-year in the third quarter, while net income was $163 million",
-          "• The company said it expects fourth-quarter sales to come in the range of $655 million to $665 million",
-          "• Shares were up more than 2% in after-hours trading "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e17446b4a83c"
     },
     {
       "id": "5c2aac678578",
@@ -2328,7 +2431,7 @@
       "url": "https://www.theguardian.com/world/live/2025/oct/30/donald-trump-xi-jinping-meeting-live-updates",
       "published_at": "Thu, 30 Oct 2025 20:11:40 GMT",
       "bullets": [
-        "• Bipartisan push to nullify tariffs imposed by Donald Trump on more than 100 US trading partners",
+        "• Bipartisan group of senators vote to nullify 'reciprocal' tariffs imposed by Donald Trump",
         "• Comes hours after Trump emerged from crucial trade talks with the Chinese leader Xi Jinping",
         "• Measure is all but certain to stall in the House, where the Republican majority approved new rules to ensure such resolutions do reach the floor "
       ],
@@ -2339,11 +2442,11 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Bipartisan push to nullify tariffs imposed by Donald Trump on more than 100 US trading partners",
+          "• Bipartisan group of senators vote to nullify 'reciprocal' tariffs imposed by Donald Trump",
           "• Comes hours after Trump emerged from crucial trade talks with the Chinese leader Xi Jinping"
         ],
         "hopeful_bullets": [
-          "• Bipartisan push to nullify tariffs imposed by Donald Trump on more than 100 US trading partners",
+          "• Bipartisan group of senators vote to nullify 'reciprocal' tariffs imposed by Donald Trump",
           "• Comes hours after Trump emerged from crucial trade talks with the Chinese leader Xi Jinping"
         ],
         "stakes_bullets": [
@@ -3314,6 +3417,40 @@
       "cluster_id": "6bbf3a8c988e"
     },
     {
+      "id": "043c90cef62d",
+      "title": "The 35 Best Movies on HBO Max Right Now (November 2025)",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/best-movies-hbo-max-right-now/",
+      "published_at": "Thu, 30 Oct 2025 19:00:00 +0000",
+      "bullets": [
+        "• HBO Max is best known for its impressive lineup of original series",
+        "• The network has also been upping the ante with feature-length movies that are the stuff of Oscar dreams",
+        "• Here are some of our picks for the best movies streaming on HBO Max "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• HBO Max is best known for its impressive lineup of original series",
+          "• The network has also been upping the ante with feature-length movies that are the stuff of Oscar dreams"
+        ],
+        "hopeful_bullets": [
+          "• HBO Max is best known for its impressive lineup of original series",
+          "• The network has also been upping the ante with feature-length movies that are the stuff of Oscar dreams"
+        ],
+        "stakes_bullets": [
+          "• HBO Max is best known for its impressive lineup of original series",
+          "• The network has also been upping the ante with feature-length movies that are the stuff of Oscar dreams",
+          "• Here are some of our picks for the best movies streaming on HBO Max "
+        ]
+      },
+      "read_minutes": 19,
+      "cluster_id": "ea27ee3520b3"
+    },
+    {
       "id": "1aafcdc548f3",
       "title": "‘Monster Squad,’ ‘Freddy vs. Jason’ Posters On Sale Tomorrow at Bottleneck Gallery",
       "outlet": "Bloody Disgusting!",
@@ -3376,39 +3513,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "20694b875aee"
-    },
-    {
-      "id": "1ea3f7827cb0",
-      "title": "Mortgage rates jump 20 basis points following Fed cut",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/30/mortgage-rates-fed-cut.html",
-      "published_at": "Thu, 30 Oct 2025 18:54:09 GMT",
-      "bullets": [
-        "• The average rate on the 30-year fixed mortgage has jumped 20 basis points since the Fed cut rates",
-        "• This happened the last time the Fed lowered its rate as well",
-        "• The bond market had already priced in a cut, but it didn't like the commentary from Fed Chairman Powell "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The average rate on the 30-year fixed mortgage has jumped 20 basis points since the Fed cut rates",
-          "• This happened the last time the Fed lowered its rate as well"
-        ],
-        "hopeful_bullets": [
-          "• The average rate on the 30-year fixed mortgage has jumped 20 basis points since the Fed cut rates",
-          "• This happened the last time the Fed lowered its rate as well"
-        ],
-        "stakes_bullets": [
-          "• The average rate on the 30-year fixed mortgage has jumped 20 basis points since the Fed cut rates",
-          "• The bond market had already priced in a cut, but it didn't like the commentary from Fed Chairman Powell "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "3ba3553eb51b"
     },
     {
       "id": "922ad03ffdf8",
@@ -3507,37 +3611,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "2b6d8d9ecb08"
-    },
-    {
-      "id": "b0e33087689a",
-      "title": "Ahsoka Season 2 Gets Possible Disney+ Release Window",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/ahsoka-season-2-possible-release-window/",
-      "published_at": "Thu, 30 Oct 2025 18:42:08 GMT",
-      "bullets": [
-        "• A new report from Forbes has calculated when Ahsoka will likely return with its Season 2 on Disney+",
-        "• The report used the show's first season as a metric, comparing when it wrapped production (October 2022) with when it premiered on Disney+ (August 2023) If a similar post-production/marketing window is used, then fans will likely be waiting 10 months for the show to return in August 2026 "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A new report from Forbes has calculated when Ahsoka will likely return with its Season 2 on Disney+",
-          "• The report used the show's first season as a metric, comparing when it wrapped production (October 2022) with when it premiered on Disney+ (August 2023) If a similar post-production/marketing window is used, then fans will likely be waiting 10 months for the show to return in August 2026 "
-        ],
-        "hopeful_bullets": [
-          "• The report used the show's first season as a metric, comparing when it wrapped production (October 2022) with when it premiered on Disney+ (August 2023) If a similar post-production/marketing window is used, then fans will likely be waiting 10 months for the show to return in August 2026 "
-        ],
-        "stakes_bullets": [
-          "• A new report from Forbes has calculated when Ahsoka will likely return with its Season 2 on Disney+",
-          "• The report used the show's first season as a metric, comparing when it wrapped production (October 2022) with when it premiered on Disney+ (August 2023) If a similar post-production/marketing window is used, then fans will likely be waiting 10 months for the show to return in August 2026 "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "069af20b3f58"
     },
     {
       "id": "984dbbd07696",
@@ -5463,9 +5536,9 @@
       "url": "https://www.npr.org/2025/10/30/nx-s1-5590818/trump-nuclear-testing",
       "published_at": "Thu, 30 Oct 2025 13:06:47 -0400",
       "bullets": [
-        "• Trump says he wants to resume nuclear testing",
-        "• There's currently only one place America could test a nuke — near Las Vegas, Nevada",
-        "• Experts say the resumption of testing would be a major escalation and could upend the nuclear balance of power "
+        "• Trump says he wants to resume nuclear testing for the first time in decades",
+        "• Experts say the resumption of testing would be a major escalation and could upend the nuclear balance of power",
+        "• The Nevada National Security Site is currently the only place America could test a nuke "
       ],
       "category": "General",
       "sentiment": {
@@ -5474,54 +5547,20 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Trump says he wants to resume nuclear testing",
-          "• There's currently only one place America could test a nuke — near Las Vegas, Nevada"
+          "• Trump says he wants to resume nuclear testing for the first time in decades",
+          "• Experts say the resumption of testing would be a major escalation and could upend the nuclear balance of power"
         ],
         "hopeful_bullets": [
-          "• Trump says he wants to resume nuclear testing",
-          "• There's currently only one place America could test a nuke — near Las Vegas, Nevada"
+          "• Trump says he wants to resume nuclear testing for the first time in decades",
+          "• Experts say the resumption of testing would be a major escalation and could upend the nuclear balance of power"
         ],
         "stakes_bullets": [
-          "• There's currently only one place America could test a nuke — near Las Vegas, Nevada",
-          "• Experts say the resumption of testing would be a major escalation and could upend the nuclear balance of power "
+          "• Experts say the resumption of testing would be a major escalation and could upend the nuclear balance of power",
+          "• The Nevada National Security Site is currently the only place America could test a nuke "
         ]
       },
       "read_minutes": 4,
       "cluster_id": "1be0ff36785f"
-    },
-    {
-      "id": "e2367d44d60c",
-      "title": "14 Best Lego Gifts for Brick Builders (2025)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/gifts-for-lego-lovers/",
-      "published_at": "Thu, 30 Oct 2025 13:05:00 +0000",
-      "bullets": [
-        "• Lego bricks are machined to incredibly tight tolerances",
-        "• Unless your dog chews on them, the bricks retain what Lego refers to as their “clutch power” for decades",
-        "• Lego sets are so popular that Lego has signed a deal to make a Lego set about it "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Lego bricks are machined to incredibly tight tolerances",
-          "• Unless your dog chews on them, the bricks retain what Lego refers to as their “clutch power” for decades"
-        ],
-        "hopeful_bullets": [
-          "• Lego bricks are machined to incredibly tight tolerances",
-          "• Unless your dog chews on them, the bricks retain what Lego refers to as their “clutch power” for decades"
-        ],
-        "stakes_bullets": [
-          "• Lego bricks are machined to incredibly tight tolerances",
-          "• Unless your dog chews on them, the bricks retain what Lego refers to as their “clutch power” for decades",
-          "• Lego sets are so popular that Lego has signed a deal to make a Lego set about it "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "7eb002fe7df8"
     },
     {
       "id": "f4a466fbbae6",
@@ -5991,7 +6030,7 @@
         ]
       },
       "read_minutes": 5,
-      "cluster_id": "030b3082c326"
+      "cluster_id": "a6ad96b3c11d"
     },
     {
       "id": "2078df4aac65",
@@ -8312,38 +8351,6 @@
       "cluster_id": "41d453121fe2"
     },
     {
-      "id": "4b9b9d11dfc3",
-      "title": "The best Fitbits for your fitness and health",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker",
-      "published_at": "2025-10-30T16:23:22-04:00",
-      "bullets": [
-        "• Despite getting acquired by Google, Fitbit remains one of the most recognizable names in the industry",
-        "• Fitbit trackers aren’t meant for the most hardcore of athletes, but they’re still excellent devices for tracking overall activity as well as monitoring certain health and wellness metrics, like EKGs and blood oxygen levels "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Despite getting acquired by Google, Fitbit remains one of the most recognizable names in the industry",
-          "• Fitbit trackers aren’t meant for the most hardcore of athletes, but they’re still excellent devices for tracking overall activity as well as monitoring certain health and wellness metrics, like EKGs and blood oxygen levels "
-        ],
-        "hopeful_bullets": [
-          "• Despite getting acquired by Google, Fitbit remains one of the most recognizable names in the industry",
-          "• Fitbit trackers aren’t meant for the most hardcore of athletes, but they’re still excellent devices for tracking overall activity as well as monitoring certain health and wellness metrics, like EKGs and blood oxygen levels "
-        ],
-        "stakes_bullets": [
-          "• Despite getting acquired by Google, Fitbit remains one of the most recognizable names in the industry",
-          "• Fitbit trackers aren’t meant for the most hardcore of athletes, but they’re still excellent devices for tracking overall activity as well as monitoring certain health and wellness metrics, like EKGs and blood oxygen levels "
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "d66cc9b93818"
-    },
-    {
       "id": "c91f9dacff09",
       "title": "How to shop like a pro during Black Friday and Cyber Monday",
       "outlet": "The Verge",
@@ -8503,6 +8510,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "40f35d74be94"
+    },
+    {
+      "id": "4b9b9d11dfc3",
+      "title": "The best Fitbits for your fitness and health",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker",
+      "published_at": "2025-10-30T14:20:00-04:00",
+      "bullets": [
+        "• Despite getting acquired by Google, Fitbit remains one of the most recognizable names in the industry",
+        "• Fitbit trackers aren’t meant for the most hardcore of athletes, but they’re still excellent devices for tracking overall activity as well as monitoring certain health and wellness metrics, like EKGs and blood oxygen levels "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Despite getting acquired by Google, Fitbit remains one of the most recognizable names in the industry",
+          "• Fitbit trackers aren’t meant for the most hardcore of athletes, but they’re still excellent devices for tracking overall activity as well as monitoring certain health and wellness metrics, like EKGs and blood oxygen levels "
+        ],
+        "hopeful_bullets": [
+          "• Despite getting acquired by Google, Fitbit remains one of the most recognizable names in the industry",
+          "• Fitbit trackers aren’t meant for the most hardcore of athletes, but they’re still excellent devices for tracking overall activity as well as monitoring certain health and wellness metrics, like EKGs and blood oxygen levels "
+        ],
+        "stakes_bullets": [
+          "• Despite getting acquired by Google, Fitbit remains one of the most recognizable names in the industry",
+          "• Fitbit trackers aren’t meant for the most hardcore of athletes, but they’re still excellent devices for tracking overall activity as well as monitoring certain health and wellness metrics, like EKGs and blood oxygen levels "
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "d66cc9b93818"
     },
     {
       "id": "3863890edee5",
@@ -9759,24 +9798,6 @@
       ]
     },
     {
-      "id": "b64b6853005b",
-      "topic": "amazon beat earning estimate",
-      "keywords": [
-        "amazon",
-        "beat",
-        "earning",
-        "estimate",
-        "soar",
-        "stock"
-      ],
-      "item_ids": [
-        "112c0ebde3ae"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "91623f43ba08",
       "topic": "apple big december driven",
       "keywords": [
@@ -9789,6 +9810,24 @@
       ],
       "item_ids": [
         "f60afb7f59ad"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "b64b6853005b",
+      "topic": "amazon beat earning estimate",
+      "keywords": [
+        "amazon",
+        "beat",
+        "earning",
+        "estimate",
+        "soar",
+        "stock"
+      ],
+      "item_ids": [
+        "112c0ebde3ae"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9823,6 +9862,24 @@
       ],
       "item_ids": [
         "5580e90eb58d"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "a0d91cd0bcae",
+      "topic": "coinbase earning quarter rise",
+      "keywords": [
+        "coinbase",
+        "earning",
+        "quarter",
+        "rise",
+        "share",
+        "third"
+      ],
+      "item_ids": [
+        "5b909e32369f"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9901,24 +9958,6 @@
       ]
     },
     {
-      "id": "3ba3553eb51b",
-      "topic": "basi following jump mortgage",
-      "keywords": [
-        "basi",
-        "following",
-        "jump",
-        "mortgage",
-        "point",
-        "rate"
-      ],
-      "item_ids": [
-        "1ea3f7827cb0"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "4817ca5b19b9",
       "topic": "decision fed interest lower",
       "keywords": [
@@ -9934,6 +9973,24 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "ea27ee3520b3",
+      "topic": "best hbo max movie",
+      "keywords": [
+        "best",
+        "hbo",
+        "max",
+        "movie",
+        "now",
+        "right"
+      ],
+      "item_ids": [
+        "043c90cef62d"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10098,24 +10155,6 @@
       ]
     },
     {
-      "id": "7eb002fe7df8",
-      "topic": "2025 best brick builder",
-      "keywords": [
-        "2025",
-        "best",
-        "brick",
-        "builder",
-        "gift",
-        "lego"
-      ],
-      "item_ids": [
-        "e2367d44d60c"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
       "id": "41d453121fe2",
       "topic": "airpod alike fallen look",
       "keywords": [
@@ -10128,22 +10167,6 @@
       ],
       "item_ids": [
         "1bf6ffc4c489"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "d66cc9b93818",
-      "topic": "best fitbit fitnes health",
-      "keywords": [
-        "best",
-        "fitbit",
-        "fitnes",
-        "health"
-      ],
-      "item_ids": [
-        "4b9b9d11dfc3"
       ],
       "outlets": [
         "The Verge"
@@ -10232,6 +10255,22 @@
       ],
       "item_ids": [
         "00e23df7c757"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "d66cc9b93818",
+      "topic": "best fitbit fitnes health",
+      "keywords": [
+        "best",
+        "fitbit",
+        "fitnes",
+        "health"
+      ],
+      "item_ids": [
+        "4b9b9d11dfc3"
       ],
       "outlets": [
         "The Verge"
@@ -11198,6 +11237,24 @@
       ]
     },
     {
+      "id": "298313c52655",
+      "topic": "contamination million pfas receive",
+      "keywords": [
+        "contamination",
+        "million",
+        "pfas",
+        "receive",
+        "resident",
+        "settlement"
+      ],
+      "item_ids": [
+        "cfbcc8816fbc"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "fdbab53ffaf0",
       "topic": "food land less produce",
       "keywords": [
@@ -11355,27 +11412,6 @@
       ],
       "outlets": [
         "Inside Climate News"
-      ]
-    },
-    {
-      "id": "030b3082c326",
-      "topic": "cause center data explosion",
-      "keywords": [
-        "cause",
-        "center",
-        "data",
-        "explosion",
-        "planning",
-        "rapid",
-        "struggle"
-      ],
-      "item_ids": [
-        "60aeeff93ed0",
-        "f980c73d91e4"
-      ],
-      "outlets": [
-        "Inside Climate News",
-        "The Texas Tribune"
       ]
     },
     {
@@ -13022,6 +13058,24 @@
       ]
     },
     {
+      "id": "e8bbdee5f59c",
+      "topic": "crowne hank heading larry",
+      "keywords": [
+        "crowne",
+        "hank",
+        "heading",
+        "larry",
+        "prime",
+        "tom"
+      ],
+      "item_ids": [
+        "ecca20e2ec8e"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "3a0bfea502af",
       "topic": "explain finally last star",
       "keywords": [
@@ -13175,24 +13229,6 @@
       ],
       "item_ids": [
         "bb4d159d7bf7"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "069af20b3f58",
-      "topic": "ahsoka disney gets possible",
-      "keywords": [
-        "ahsoka",
-        "disney",
-        "gets",
-        "possible",
-        "release",
-        "season"
-      ],
-      "item_ids": [
-        "b0e33087689a"
       ],
       "outlets": [
         "CBR"
@@ -13840,6 +13876,24 @@
       ]
     },
     {
+      "id": "a6ad96b3c11d",
+      "topic": "cause center data explosion",
+      "keywords": [
+        "cause",
+        "center",
+        "data",
+        "explosion",
+        "planning",
+        "struggle"
+      ],
+      "item_ids": [
+        "f980c73d91e4"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "7a1f25675953",
       "topic": "city dalla resident sue",
       "keywords": [
@@ -13870,6 +13924,24 @@
       ],
       "item_ids": [
         "c41fb902a750"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "7c2fd403fcc5",
+      "topic": "bigger busines dream helping",
+      "keywords": [
+        "bigger",
+        "busines",
+        "dream",
+        "helping",
+        "small",
+        "texa"
+      ],
+      "item_ids": [
+        "d566bebea92f"
       ],
       "outlets": [
         "The Texas Tribune"
