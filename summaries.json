@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-30T09:06:47Z",
+  "generated_at": "2025-10-30T10:00:55Z",
   "items": [
     {
       "id": "d6f893eb9077",
@@ -30,6 +30,39 @@
       },
       "read_minutes": 4,
       "cluster_id": "a17a184338b9"
+    },
+    {
+      "id": "8e329a7b7e2c",
+      "title": "Microsoft stock drops on forecast for increased spending growth this year",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/29/microsoft-msft-q1-2026-earnings-report.html",
+      "published_at": "Wed, 29 Oct 2025 23:24:42 GMT",
+      "bullets": [
+        "• Microsoft reported better-than-expected results for its fiscal first quarter as revenue in the company's Azure cloud business jumped 40%",
+        "• The stock slipped almost 4% in extended trading after finance chief Amy Hood said growth in capital expenditures will accelerate this fiscal year",
+        "• Microsoft said its investment in OpenAI resulted in a $3.1 billion hit to net income "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Microsoft reported better-than-expected results for its fiscal first quarter as revenue in the company's Azure cloud business jumped 40%",
+          "• The stock slipped almost 4% in extended trading after finance chief Amy Hood said growth in capital expenditures will accelerate this fiscal year"
+        ],
+        "hopeful_bullets": [
+          "• The stock slipped almost 4% in extended trading after finance chief Amy Hood said growth in capital expenditures will accelerate this fiscal year"
+        ],
+        "stakes_bullets": [
+          "• Microsoft reported better-than-expected results for its fiscal first quarter as revenue in the company's Azure cloud business jumped 40%",
+          "• The stock slipped almost 4% in extended trading after finance chief Amy Hood said growth in capital expenditures will accelerate this fiscal year",
+          "• Microsoft said its investment in OpenAI resulted in a $3.1 billion hit to net income "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e952eccc3aca"
     },
     {
       "id": "e0126c692a45",
@@ -202,6 +235,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "6d6da165f8cf"
+    },
+    {
+      "id": "3c332fb58599",
+      "title": "Chipotle stock plunges 13% as chain lowers sales forecast, says younger diners are cutting back",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/29/chipotle-cmg-earnings-q3-2025.html",
+      "published_at": "Wed, 29 Oct 2025 22:54:54 GMT",
+      "bullets": [
+        "• Chipotle is expecting full-year same-store sales to shrink by a low-single digit percentage in fiscal 2025",
+        "• CEO Scott Boatwright said the company is seeing \"consistent macroeconomic pressures\" Shares of the company plunged 13% in extended trading "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Chipotle is expecting full-year same-store sales to shrink by a low-single digit percentage in fiscal 2025",
+          "• CEO Scott Boatwright said the company is seeing \"consistent macroeconomic pressures\" Shares of the company plunged 13% in extended trading "
+        ],
+        "hopeful_bullets": [
+          "• Chipotle is expecting full-year same-store sales to shrink by a low-single digit percentage in fiscal 2025",
+          "• CEO Scott Boatwright said the company is seeing \"consistent macroeconomic pressures\" Shares of the company plunged 13% in extended trading "
+        ],
+        "stakes_bullets": [
+          "• Chipotle is expecting full-year same-store sales to shrink by a low-single digit percentage in fiscal 2025",
+          "• CEO Scott Boatwright said the company is seeing \"consistent macroeconomic pressures\" Shares of the company plunged 13% in extended trading "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ef4258f1ec55"
     },
     {
       "id": "b015f9f6d94b",
@@ -467,40 +532,6 @@
       "cluster_id": "6ea75171a999"
     },
     {
-      "id": "c65177c63101",
-      "title": "Microsoft takes $3.1 billion hit from OpenAI investment",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/29/microsoft-open-ai-investment-earnings.html",
-      "published_at": "Wed, 29 Oct 2025 21:37:39 GMT",
-      "bullets": [
-        "• Microsoft took a $3.1 billion hit to its net income in the first quarter",
-        "• The drop in profit reflected an \"equity method investment\" Microsoft has committed to invest $13 billion in OpenAI",
-        "• The company now holds an investment in the public benefit corporation valued at $135 billion "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Microsoft took a $3.1 billion hit to its net income in the first quarter",
-          "• The drop in profit reflected an \"equity method investment\" Microsoft has committed to invest $13 billion in OpenAI"
-        ],
-        "hopeful_bullets": [
-          "• Microsoft took a $3.1 billion hit to its net income in the first quarter",
-          "• The drop in profit reflected an \"equity method investment\" Microsoft has committed to invest $13 billion in OpenAI"
-        ],
-        "stakes_bullets": [
-          "• Microsoft took a $3.1 billion hit to its net income in the first quarter",
-          "• The drop in profit reflected an \"equity method investment\" Microsoft has committed to invest $13 billion in OpenAI",
-          "• The company now holds an investment in the public benefit corporation valued at $135 billion "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "55852c846689"
-    },
-    {
       "id": "d73bdfffee5f",
       "title": "Meta denies torrenting porn to train AI, says downloads were for “personal use”",
       "outlet": "Ars Technica - All content",
@@ -565,6 +596,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "e33f387a749b"
+    },
+    {
+      "id": "318bf7bed90a",
+      "title": "Starbucks reports same-store sales growth for the first time in nearly two years",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/29/starbucks-sbux-earnings-q4-2025.html",
+      "published_at": "Wed, 29 Oct 2025 21:25:59 GMT",
+      "bullets": [
+        "• Starbucks' quarterly same-store sales returned to growth for the first time in nearly two years",
+        "• CEO Brian Niccol: \"It's clear that our turnaround is taking hold\" Shares of Starbucks rose 2% in extended trading",
+        "• Wall Street was expecting global sales declines of 0.3% and a 0.9% decrease in U.S",
+        "• sales "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.841
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Starbucks' quarterly same-store sales returned to growth for the first time in nearly two years",
+          "• CEO Brian Niccol: \"It's clear that our turnaround is taking hold\" Shares of Starbucks rose 2% in extended trading"
+        ],
+        "hopeful_bullets": [
+          "• Starbucks' quarterly same-store sales returned to growth for the first time in nearly two years"
+        ],
+        "stakes_bullets": [
+          "• Wall Street was expecting global sales declines of 0.3% and a 0.9% decrease in U.S"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a253c7c3834c"
     },
     {
       "id": "fff53ec21bef",
@@ -1064,37 +1127,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "8aba22e3ca09"
-    },
-    {
-      "id": "ed6c7cea414a",
-      "title": "Two Russians sentenced to 25 years for plot to kill Iranian dissident in US",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/29/masih-alinejad-assassination-plot-sentences",
-      "published_at": "Wed, 29 Oct 2025 19:30:31 GMT",
-      "bullets": [
-        "• Russian mobsters sentenced to 25 years in prison for attempted murder of Iranian dissident",
-        "• Masih Alinejad has been a vocal advocate for women's rights in Iran for years",
-        "• He says he hopes the sentence will be a deterrent to Iran "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Russian mobsters sentenced to 25 years in prison for attempted murder of Iranian dissident",
-          "• Masih Alinejad has been a vocal advocate for women's rights in Iran for years"
-        ],
-        "hopeful_bullets": [
-          "• He says he hopes the sentence will be a deterrent to Iran "
-        ],
-        "stakes_bullets": [
-          "• He says he hopes the sentence will be a deterrent to Iran "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "6d2d252618d3"
     },
     {
       "id": "6741f272a34c",
@@ -1620,6 +1652,39 @@
       "cluster_id": "1de6ac3ca597"
     },
     {
+      "id": "433ffab6067b",
+      "title": "How the Fed's decision to lower interest rates could widen the generational wealth gap",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/29/fed-rate-cut-generational-wealth-gap.html",
+      "published_at": "Wed, 29 Oct 2025 18:04:19 GMT",
+      "bullets": [
+        "• The Federal Reserve is expected to lower its interest rate to 3.75% on Wednesday",
+        "• The rate could fall to 4.1% by the end of 2027",
+        "• Lowering the rate could help lower the net worth of older people, experts say "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Federal Reserve is expected to lower its interest rate to 3.75% on Wednesday",
+          "• The rate could fall to 4.1% by the end of 2027"
+        ],
+        "hopeful_bullets": [
+          "• Lowering the rate could help lower the net worth of older people, experts say "
+        ],
+        "stakes_bullets": [
+          "• The Federal Reserve is expected to lower its interest rate to 3.75% on Wednesday",
+          "• The rate could fall to 4.1% by the end of 2027",
+          "• Lowering the rate could help lower the net worth of older people, experts say "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4817ca5b19b9"
+    },
+    {
       "id": "5e41a743ad98",
       "title": "Now, Now Return With Surprise New 01 EP: Listen",
       "outlet": "RSS: News",
@@ -1690,24 +1755,24 @@
       "published_at": "Wed, 29 Oct 2025 18:00:44 GMT",
       "bullets": [
         "• France has added a new definition of sexual assault and rape to the law",
-        "• Previously, it had been defined as \"any form of sexual penetration committed with the use of violence, threat or surprise\" The change is the result of a series of high-profile cases involving women being raped in France "
+        "• Previously, it had been defined as \"any form of sexual penetration committed with the use of violence, threat or surprise\" The change is the result of a series of high-profile cases involving women being drugged "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.835
+        "score": 0.942
       },
       "moods": {
         "brief_bullets": [
           "• France has added a new definition of sexual assault and rape to the law",
-          "• Previously, it had been defined as \"any form of sexual penetration committed with the use of violence, threat or surprise\" The change is the result of a series of high-profile cases involving women being raped in France "
+          "• Previously, it had been defined as \"any form of sexual penetration committed with the use of violence, threat or surprise\" The change is the result of a series of high-profile cases involving women being drugged "
         ],
         "hopeful_bullets": [
           "• France has added a new definition of sexual assault and rape to the law",
-          "• Previously, it had been defined as \"any form of sexual penetration committed with the use of violence, threat or surprise\" The change is the result of a series of high-profile cases involving women being raped in France "
+          "• Previously, it had been defined as \"any form of sexual penetration committed with the use of violence, threat or surprise\" The change is the result of a series of high-profile cases involving women being drugged "
         ],
         "stakes_bullets": [
-          "• Previously, it had been defined as \"any form of sexual penetration committed with the use of violence, threat or surprise\" The change is the result of a series of high-profile cases involving women being raped in France "
+          "• Previously, it had been defined as \"any form of sexual penetration committed with the use of violence, threat or surprise\" The change is the result of a series of high-profile cases involving women being drugged "
         ]
       },
       "read_minutes": 2,
@@ -2335,69 +2400,6 @@
       "cluster_id": "370882cc54f9"
     },
     {
-      "id": "0f4af6e333dc",
-      "title": "How will the dismantling of USAID affect U.S. relief efforts in Jamaica?",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/goats-and-soda/2025/10/29/g-s1-95551/jamaica-melissa-hurricane-relief-usaid",
-      "published_at": "Wed, 29 Oct 2025 15:00:18 -0400",
-      "bullets": [
-        "• How will the dismantling of USAID affect U.S",
-        "• relief efforts in Jamaica? It comes in the wake of the Trump administration's dismantling of the world's largest aid agency, the United States Agency for International Development",
-        "• President Trump told reporters on Wednesday: \"We're watching it closely, and we're prepared to move\""
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.927
-      },
-      "moods": {
-        "brief_bullets": [
-          "• How will the dismantling of USAID affect U.S",
-          "• relief efforts in Jamaica? It comes in the wake of the Trump administration's dismantling of the world's largest aid agency, the United States Agency for International Development"
-        ],
-        "hopeful_bullets": [
-          "• relief efforts in Jamaica? It comes in the wake of the Trump administration's dismantling of the world's largest aid agency, the United States Agency for International Development"
-        ],
-        "stakes_bullets": [
-          "• How will the dismantling of USAID affect U.S"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "5328287f3332"
-    },
-    {
-      "id": "dd47bd588585",
-      "title": "DHS calls for defending American culture. That leaves some Latinos rattled",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/10/29/nx-s1-5564025/defend-american-culture-dhs-pledge-leaves-some-latinos-rattled",
-      "published_at": "Wed, 29 Oct 2025 14:50:04 -0400",
-      "bullets": [
-        "• DHS calls for defending American culture",
-        "• Recruiting video part of a social media and advertising blitz to build public support for the current crackdown",
-        "• Agency's Instagram is a potpourri of pop culture memes, action film quality videos of ICE raids, and paintings of white settlers expanding West "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.969
-      },
-      "moods": {
-        "brief_bullets": [
-          "• DHS calls for defending American culture",
-          "• Recruiting video part of a social media and advertising blitz to build public support for the current crackdown"
-        ],
-        "hopeful_bullets": [
-          "• DHS calls for defending American culture",
-          "• Recruiting video part of a social media and advertising blitz to build public support for the current crackdown"
-        ],
-        "stakes_bullets": [
-          "• Agency's Instagram is a potpourri of pop culture memes, action film quality videos of ICE raids, and paintings of white settlers expanding West "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "c5a22f3f926c"
-    },
-    {
       "id": "14ea7ad79946",
       "title": "Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns",
       "outlet": "Ars Technica - All content",
@@ -2696,7 +2698,7 @@
     {
       "id": "17948d8b4f5d",
       "title": "White House fires entire commission that reviews designs for federal buildings",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/29/nx-s1-5589793/white-house-fired-arts-commission",
       "published_at": "Wed, 29 Oct 2025 10:16:54 -0400",
       "bullets": [
@@ -2704,7 +2706,7 @@
         "• Commission of Fine Arts advises the president and Congress on design plans for monuments, memorials, coins and buildings",
         "• Chair position, now vacant, was held by Billie Tsien, one of the architects working on the Obama Presidential Center in Chicago "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.984
@@ -2725,39 +2727,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "ebf5d1fb81ee"
-    },
-    {
-      "id": "5403c4e7edcb",
-      "title": "Teens who use weed before age 15 have more trouble later, a study finds",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/10/29/nx-s1-5589224/teens-weed-cannabis-marijuana",
-      "published_at": "Wed, 29 Oct 2025 10:00:00 -0400",
-      "bullets": [
-        "• Teens who use weed before age 15 have more trouble later, a new study finds",
-        "• Researchers in Montreal, Canada, have been following more than 1,500 kids since birth into young adulthood",
-        "• The study used data from the Québec Longitudinal Study of Child Development "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.962
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Teens who use weed before age 15 have more trouble later, a new study finds",
-          "• Researchers in Montreal, Canada, have been following more than 1,500 kids since birth into young adulthood"
-        ],
-        "hopeful_bullets": [
-          "• Researchers in Montreal, Canada, have been following more than 1,500 kids since birth into young adulthood"
-        ],
-        "stakes_bullets": [
-          "• Teens who use weed before age 15 have more trouble later, a new study finds",
-          "• Researchers in Montreal, Canada, have been following more than 1,500 kids since birth into young adulthood",
-          "• The study used data from the Québec Longitudinal Study of Child Development "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "f0e91f08d09b"
     },
     {
       "id": "3e4e2de8ff70",
@@ -3289,41 +3258,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "5669005c2fb0"
-    },
-    {
-      "id": "1df12ff33e99",
-      "title": "North Korea touts missile tests as Trump visits South Korea",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/29/nx-s1-5589702/north-korea-missile-tests-trump-south-korea",
-      "published_at": "Wed, 29 Oct 2025 01:45:40 -0400",
-      "bullets": [
-        "• North Korea touts missile tests as U.S",
-        "• President Donald Trump visits South Korea",
-        "• North Korea says recent test-firings of sea-to-surface cruise missiles were successful",
-        "• South Korea's Joint Chiefs of Staff says military detected North Korean launch preparations "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.514
-      },
-      "moods": {
-        "brief_bullets": [
-          "• North Korea touts missile tests as U.S",
-          "• President Donald Trump visits South Korea"
-        ],
-        "hopeful_bullets": [
-          "• North Korea touts missile tests as U.S",
-          "• President Donald Trump visits South Korea"
-        ],
-        "stakes_bullets": [
-          "• North Korea touts missile tests as U.S",
-          "• President Donald Trump visits South Korea",
-          "• North Korea says recent test-firings of sea-to-surface cruise missiles were successful"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "788a9f822af4"
     },
     {
       "id": "f0aa34bcfb04",
@@ -4012,40 +3946,6 @@
       "cluster_id": "cf8dcfed4429"
     },
     {
-      "id": "2e08f30dd728",
-      "title": "Senate Republicans deal Trump a rare rebuke on trade with vote against Brazil tariffs",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/28/nx-s1-5589180/trump-tariffs-senate-vote",
-      "published_at": "Tue, 28 Oct 2025 19:47:12 -0400",
-      "bullets": [
-        "• Senate votes to roll back the 50% tariffs on Brazil imposed by President Trump in July",
-        "• The vote was part of a larger push to rein in the administration's efforts to install trade barriers",
-        "• The success of the resolution, which needed just a simple majority, may only prove symbolic "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.937
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Senate votes to roll back the 50% tariffs on Brazil imposed by President Trump in July",
-          "• The vote was part of a larger push to rein in the administration's efforts to install trade barriers"
-        ],
-        "hopeful_bullets": [
-          "• Senate votes to roll back the 50% tariffs on Brazil imposed by President Trump in July",
-          "• The vote was part of a larger push to rein in the administration's efforts to install trade barriers"
-        ],
-        "stakes_bullets": [
-          "• Senate votes to roll back the 50% tariffs on Brazil imposed by President Trump in July",
-          "• The vote was part of a larger push to rein in the administration's efforts to install trade barriers",
-          "• The success of the resolution, which needed just a simple majority, may only prove symbolic "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "023d23a3cd09"
-    },
-    {
       "id": "f0880be9c5c7",
       "title": "SNAP cutoff could hurt Texas grocers and the rest of the economy, experts say",
       "outlet": "The Texas Tribune",
@@ -4337,73 +4237,6 @@
       "cluster_id": "1b0c982e8879"
     },
     {
-      "id": "fdcaec4d71a0",
-      "title": "A GOP-led House committee takes aim at what it calls Biden's 'autopen presidency'",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/28/nx-s1-5588624/a-gop-led-house-committee-takes-aim-at-what-it-calls-bidens-autopen-presidency",
-      "published_at": "Tue, 28 Oct 2025 16:20:31 -0400",
-      "bullets": [
-        "• A GOP-led House committee takes aim at what it calls Biden's 'autopen presidency' NPR's Ailsa Chang speaks with University of St",
-        "• Thomas law professor Mark Osler about the House Oversight Committee's call for an investigation "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A GOP-led House committee takes aim at what it calls Biden's 'autopen presidency' NPR's Ailsa Chang speaks with University of St",
-          "• Thomas law professor Mark Osler about the House Oversight Committee's call for an investigation "
-        ],
-        "hopeful_bullets": [
-          "• A GOP-led House committee takes aim at what it calls Biden's 'autopen presidency' NPR's Ailsa Chang speaks with University of St",
-          "• Thomas law professor Mark Osler about the House Oversight Committee's call for an investigation "
-        ],
-        "stakes_bullets": [
-          "• A GOP-led House committee takes aim at what it calls Biden's 'autopen presidency' NPR's Ailsa Chang speaks with University of St",
-          "• Thomas law professor Mark Osler about the House Oversight Committee's call for an investigation "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "db66fe08d63b"
-    },
-    {
-      "id": "053d77eee9c5",
-      "title": "Want to opt out of AI? State labeling laws might help",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/10/28/nx-s1-5575748/some-states-want-labels-ai-opt-out",
-      "published_at": "Tue, 28 Oct 2025 16:07:40 -0400",
-      "bullets": [
-        "• Utah and California have passed laws requiring entities to disclose when they use AI",
-        "• Proponents say labels make it easier for people who don't like AI to opt out of using it",
-        "• California passed a similar law regarding chatbots back in 2019",
-        "• White House \"AI Czar\" David Sacks has referred to a \"state regulatory frenzy\""
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Utah and California have passed laws requiring entities to disclose when they use AI",
-          "• Proponents say labels make it easier for people who don't like AI to opt out of using it"
-        ],
-        "hopeful_bullets": [
-          "• Utah and California have passed laws requiring entities to disclose when they use AI",
-          "• Proponents say labels make it easier for people who don't like AI to opt out of using it"
-        ],
-        "stakes_bullets": [
-          "• Utah and California have passed laws requiring entities to disclose when they use AI",
-          "• Proponents say labels make it easier for people who don't like AI to opt out of using it",
-          "• California passed a similar law regarding chatbots back in 2019"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "353580753eb6"
-    },
-    {
       "id": "dfb9ac60a01a",
       "title": "Animal Collective’s Geologist Announces Debut Solo Album, Shares New Video: Watch",
       "outlet": "RSS: News",
@@ -4668,40 +4501,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "0a6062098718"
-    },
-    {
-      "id": "31439b20aec2",
-      "title": "Why Billions of Gallons of Raw Sewage Keep Ending up in Philadelphia Waterways",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/28102025/philadelphia-raw-sewage-waterways/",
-      "published_at": "Tue, 28 Oct 2025 08:55:00 +0000",
-      "bullets": [
-        "• Benjamin Franklin petitioned to curb water pollution in Philadelphia 280 years ago",
-        "• Today it's human waste spilling from archaic sewer systems that impairs city's waterways, group says",
-        "• Group: \"On far too many days each year, the Philadelphia Water Department's pipes and sewer systems dump huge volumes of raw sewage\""
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Benjamin Franklin petitioned to curb water pollution in Philadelphia 280 years ago",
-          "• Today it's human waste spilling from archaic sewer systems that impairs city's waterways, group says"
-        ],
-        "hopeful_bullets": [
-          "• Benjamin Franklin petitioned to curb water pollution in Philadelphia 280 years ago",
-          "• Today it's human waste spilling from archaic sewer systems that impairs city's waterways, group says"
-        ],
-        "stakes_bullets": [
-          "• Benjamin Franklin petitioned to curb water pollution in Philadelphia 280 years ago",
-          "• Today it's human waste spilling from archaic sewer systems that impairs city's waterways, group says",
-          "• Group: \"On far too many days each year, the Philadelphia Water Department's pipes and sewer systems dump huge volumes of raw sewage\""
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "b3091e9e6b0c"
     },
     {
       "id": "b000966bf149",
@@ -4994,6 +4793,270 @@
       "cluster_id": "3041f5367d34"
     },
     {
+      "id": "caed8b787efa",
+      "title": "Jeep maker Stellantis falls as much as 6% after issuing warning on one-off costs",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/30/jeep-maker-stellantis-posts-revenue-jump-warns-on-one-off-costs.html",
+      "published_at": "Thu, 30 Oct 2025 09:23:57 GMT",
+      "bullets": [
+        "• Stellantis issues warning on one-off costs through the second half of the year",
+        "• Italian-owned automaker says it expects to incur charges in the six months through to December that will be \"largely excluded\" from its operating income",
+        "• The warning comes despite what appeared to be a fairly positive third quarter",
+        "• Milan-listed shares fell as much as 6% on the news before paring losses to trade around 5% lower "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Stellantis issues warning on one-off costs through the second half of the year",
+          "• Italian-owned automaker says it expects to incur charges in the six months through to December that will be \"largely excluded\" from its operating income"
+        ],
+        "hopeful_bullets": [
+          "• Stellantis issues warning on one-off costs through the second half of the year",
+          "• Italian-owned automaker says it expects to incur charges in the six months through to December that will be \"largely excluded\" from its operating income"
+        ],
+        "stakes_bullets": [
+          "• Stellantis issues warning on one-off costs through the second half of the year",
+          "• Italian-owned automaker says it expects to incur charges in the six months through to December that will be \"largely excluded\" from its operating income"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2392d7ccd37c"
+    },
+    {
+      "id": "864af9a1bc60",
+      "title": "Five new suspects arrested over Louvre jewellery theft",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz91jnyelq2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 30 Oct 2025 09:23:29 GMT",
+      "bullets": [
+        "• Five new suspects arrested over Louvre heist, Paris' public prosecutor says",
+        "• They were arrested on Wednesday night in the Paris region, Laure Beccuau's office said",
+        "• Items worth €88m (£76m; $102m) were taken from the Louvre in October "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Five new suspects arrested over Louvre heist, Paris' public prosecutor says",
+          "• They were arrested on Wednesday night in the Paris region, Laure Beccuau's office said"
+        ],
+        "hopeful_bullets": [
+          "• Five new suspects arrested over Louvre heist, Paris' public prosecutor says",
+          "• They were arrested on Wednesday night in the Paris region, Laure Beccuau's office said"
+        ],
+        "stakes_bullets": [
+          "• Five new suspects arrested over Louvre heist, Paris' public prosecutor says"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ac04c4c1fec8"
+    },
+    {
+      "id": "57f41d09d2b5",
+      "title": "Dutch centrist Jetten neck and neck with populist Wilders in tight election",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpwvy4w875vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 30 Oct 2025 09:10:33 GMT",
+      "bullets": [
+        "• Both D66 and Wilders' D66 are heading for 26 seats in the Dutch parliament",
+        "• The two parties are neck-and-neck in the polls with only a few results left to declare",
+        "• Wilders had earlier conceded the result was not what he wanted, having lost 11 seats "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Both D66 and Wilders' D66 are heading for 26 seats in the Dutch parliament",
+          "• The two parties are neck-and-neck in the polls with only a few results left to declare"
+        ],
+        "hopeful_bullets": [
+          "• Both D66 and Wilders' D66 are heading for 26 seats in the Dutch parliament",
+          "• The two parties are neck-and-neck in the polls with only a few results left to declare"
+        ],
+        "stakes_bullets": [
+          "• The two parties are neck-and-neck in the polls with only a few results left to declare",
+          "• Wilders had earlier conceded the result was not what he wanted, having lost 11 seats "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "ea23bd7b52d7"
+    },
+    {
+      "id": "026d877b3465",
+      "title": "Extremists exploit political ‘trigger events’ to recruit people online, says study",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/30/extremists-political-violence-online",
+      "published_at": "Thu, 30 Oct 2025 09:00:57 GMT",
+      "bullets": [
+        "• New York University researchers monitored social media feeds for several months this year",
+        "• Extremists are exploiting political violence on online platforms to recruit new people to their causes and amplify the use of violence for political goals, the report says",
+        "• The US is experiencing an increase in political violence and extremism, with high-profile incidents targeting Democratic lawmakers in Minnesota, an ICE facility, a Jewish museum and more "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New York University researchers monitored social media feeds for several months this year",
+          "• Extremists are exploiting political violence on online platforms to recruit new people to their causes and amplify the use of violence for political goals, the report says"
+        ],
+        "hopeful_bullets": [
+          "• New York University researchers monitored social media feeds for several months this year",
+          "• Extremists are exploiting political violence on online platforms to recruit new people to their causes and amplify the use of violence for political goals, the report says"
+        ],
+        "stakes_bullets": [
+          "• Extremists are exploiting political violence on online platforms to recruit new people to their causes and amplify the use of violence for political goals, the report says",
+          "• The US is experiencing an increase in political violence and extremism, with high-profile incidents targeting Democratic lawmakers in Minnesota, an ICE facility, a Jewish museum and more "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ae68917cea42"
+    },
+    {
+      "id": "73621df6c309",
+      "title": "Growing Threat to Heat-Exposed Workers: Chronic Kidney Disease",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/30102025/workers-heat-exposure-chronic-kidney-disease/",
+      "published_at": "Thu, 30 Oct 2025 09:00:00 +0000",
+      "bullets": [
+        "• Some researchers have called chronic kidney disease the first chronic illness directly linked to climate change",
+        "• A growing body of evidence shows that working in hot weather slowly damages the kidneys",
+        "• At first, Ignacio thought he was going to die and worried what his family would do without him "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Some researchers have called chronic kidney disease the first chronic illness directly linked to climate change",
+          "• A growing body of evidence shows that working in hot weather slowly damages the kidneys"
+        ],
+        "hopeful_bullets": [
+          "• A growing body of evidence shows that working in hot weather slowly damages the kidneys"
+        ],
+        "stakes_bullets": [
+          "• Some researchers have called chronic kidney disease the first chronic illness directly linked to climate change",
+          "• A growing body of evidence shows that working in hot weather slowly damages the kidneys",
+          "• At first, Ignacio thought he was going to die and worried what his family would do without him "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "69a9c1642a0e"
+    },
+    {
+      "id": "1e7330fc46c0",
+      "title": "Trump directs Pentagon to match Russia and China in nuclear weapons testing",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/29/trump-pentagon-us-nuclear-weapons",
+      "published_at": "Thu, 30 Oct 2025 08:58:40 GMT",
+      "bullets": [
+        "• Donald Trump has instructed the Pentagon to start matching other countries' nuclear tests with Russia and China",
+        "• No country other than North Korea is confirmed to have conducted a full explosive nuclear test since 1998",
+        "• The United States last held a full nuclear test in 1992, and China and Russia are not known to have done so "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.971
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump has instructed the Pentagon to start matching other countries' nuclear tests with Russia and China",
+          "• No country other than North Korea is confirmed to have conducted a full explosive nuclear test since 1998"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump has instructed the Pentagon to start matching other countries' nuclear tests with Russia and China",
+          "• No country other than North Korea is confirmed to have conducted a full explosive nuclear test since 1998"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump has instructed the Pentagon to start matching other countries' nuclear tests with Russia and China",
+          "• No country other than North Korea is confirmed to have conducted a full explosive nuclear test since 1998",
+          "• The United States last held a full nuclear test in 1992, and China and Russia are not known to have done so "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e604285178cc"
+    },
+    {
+      "id": "568b7a905bf4",
+      "title": "Four Governors Whose States Rely on PJM Want Data Centers to Guarantee Their Own Power",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/30102025/pjm-governors-data-centers-power/",
+      "published_at": "Thu, 30 Oct 2025 08:55:00 +0000",
+      "bullets": [
+        "• Four governors from Pennsylvania, Maryland, New Jersey and Virginia have submitted a joint proposal to the PJM Interconnection",
+        "• The proposal would offer a fast track approval process for both the data centers and the power sources they would build",
+        "• The electricity originated by the centers’ power generators would feed into the regional grid, according to the proposal "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.845
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Four governors from Pennsylvania, Maryland, New Jersey and Virginia have submitted a joint proposal to the PJM Interconnection",
+          "• The proposal would offer a fast track approval process for both the data centers and the power sources they would build"
+        ],
+        "hopeful_bullets": [
+          "• Four governors from Pennsylvania, Maryland, New Jersey and Virginia have submitted a joint proposal to the PJM Interconnection",
+          "• The proposal would offer a fast track approval process for both the data centers and the power sources they would build"
+        ],
+        "stakes_bullets": [
+          "• Four governors from Pennsylvania, Maryland, New Jersey and Virginia have submitted a joint proposal to the PJM Interconnection",
+          "• The proposal would offer a fast track approval process for both the data centers and the power sources they would build",
+          "• The electricity originated by the centers’ power generators would feed into the regional grid, according to the proposal "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "10661837f324"
+    },
+    {
+      "id": "fa07c1574267",
+      "title": "Shell’s profits surpass $43bn after production hits new highs in Brazil and Gulf of Mexico",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/business/2025/oct/30/shells-profits-surpass-43bn-after-production-hits-new-highs-in-brazil-and-gulf-of-mexico",
+      "published_at": "Thu, 30 Oct 2025 08:49:11 GMT",
+      "bullets": [
+        "• FTSE profits at $5.4bn for the third quarter, up 27% from $4.3bn a year earlier",
+        "• Shell says it has one of the 'strongest balance sheets in the world' in the oil industry "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• FTSE profits at $5.4bn for the third quarter, up 27% from $4.3bn a year earlier",
+          "• Shell says it has one of the 'strongest balance sheets in the world' in the oil industry "
+        ],
+        "hopeful_bullets": [
+          "• Shell says it has one of the 'strongest balance sheets in the world' in the oil industry "
+        ],
+        "stakes_bullets": [
+          "• FTSE profits at $5.4bn for the third quarter, up 27% from $4.3bn a year earlier",
+          "• Shell says it has one of the 'strongest balance sheets in the world' in the oil industry "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "3a1adc40ba5f"
+    },
+    {
       "id": "7f226567cd96",
       "title": "Watch Steve Martin, Alison Brown Perform Instrumental Track ‘Let’s Get Out of Here’ on ‘Fallon’",
       "outlet": "Music News",
@@ -5031,12 +5094,12 @@
       "title": "Trump cuts fentanyl tariffs on China to 10% as Beijing delays latest rare earth curbs by a year",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/10/30/trump-cuts-fentanyl-tariffs-on-china-to-10percent-says-us-reached-rare-earths-deal-.html",
-      "published_at": "Thu, 30 Oct 2025 08:39:30 GMT",
+      "published_at": "Thu, 30 Oct 2025 08:40:30 GMT",
       "bullets": [
         "• Beijing pauses export controls on rare earths, while Washington cuts fentanyl-linked tariffs",
-        "• U.S",
-        "• President Donald Trump and his Chinese counterpart Xi Jinping met in South Korea",
-        "• The fentanyl-related tariffs will be lowered to 10% from 20% effective immediately, Trump says "
+        "• The move follows a high-stakes meeting between U.S",
+        "• President Donald Trump and his Chinese counterpart Xi Jinping in South Korea",
+        "• Beijing has ramped up restrictions on exports of critical minerals over the last two years "
       ],
       "category": "Business",
       "sentiment": {
@@ -5046,117 +5109,18 @@
       "moods": {
         "brief_bullets": [
           "• Beijing pauses export controls on rare earths, while Washington cuts fentanyl-linked tariffs",
-          "• U.S"
+          "• The move follows a high-stakes meeting between U.S"
         ],
         "hopeful_bullets": [
           "• Beijing pauses export controls on rare earths, while Washington cuts fentanyl-linked tariffs",
-          "• U.S"
+          "• The move follows a high-stakes meeting between U.S"
         ],
         "stakes_bullets": [
-          "• Beijing pauses export controls on rare earths, while Washington cuts fentanyl-linked tariffs",
-          "• The fentanyl-related tariffs will be lowered to 10% from 20% effective immediately, Trump says "
+          "• Beijing pauses export controls on rare earths, while Washington cuts fentanyl-linked tariffs"
         ]
       },
       "read_minutes": 4,
       "cluster_id": "8c07883f9528"
-    },
-    {
-      "id": "57f41d09d2b5",
-      "title": "Dutch centrist liberals neck and neck with populist Wilders in tight election",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpwvy4w875vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 30 Oct 2025 08:31:07 GMT",
-      "bullets": [
-        "• Rob Jetten's centrist-liberal party D66 are neck and neck with populist Wilders' Freedom Party",
-        "• Both parties heading for 26 seats in the 150-member parliament",
-        "• Wilders had earlier conceded the result was not what he wanted, but said he had achieved his second best result ever "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Rob Jetten's centrist-liberal party D66 are neck and neck with populist Wilders' Freedom Party",
-          "• Both parties heading for 26 seats in the 150-member parliament"
-        ],
-        "hopeful_bullets": [
-          "• Rob Jetten's centrist-liberal party D66 are neck and neck with populist Wilders' Freedom Party",
-          "• Both parties heading for 26 seats in the 150-member parliament"
-        ],
-        "stakes_bullets": [
-          "• Wilders had earlier conceded the result was not what he wanted, but said he had achieved his second best result ever "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "9eaaf7edc887"
-    },
-    {
-      "id": "864af9a1bc60",
-      "title": "Five new suspects arrested over Louvre jewellery theft",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz91jnyelq2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 30 Oct 2025 08:30:49 GMT",
-      "bullets": [
-        "• Five new suspects arrested over Louvre heist, Paris police say",
-        "• Main suspect is thought to be part of the four-man gang that stole £76m worth of jewels",
-        "• Items worth €88m (£76m; $102m) were stolen from the world's most-visited museum "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Five new suspects arrested over Louvre heist, Paris police say",
-          "• Main suspect is thought to be part of the four-man gang that stole £76m worth of jewels"
-        ],
-        "hopeful_bullets": [
-          "• Five new suspects arrested over Louvre heist, Paris police say",
-          "• Main suspect is thought to be part of the four-man gang that stole £76m worth of jewels"
-        ],
-        "stakes_bullets": [
-          "• Five new suspects arrested over Louvre heist, Paris police say",
-          "• Main suspect is thought to be part of the four-man gang that stole £76m worth of jewels",
-          "• Items worth €88m (£76m; $102m) were stolen from the world's most-visited museum "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ac04c4c1fec8"
-    },
-    {
-      "id": "7c9824c65ec8",
-      "title": "South Korean auto, shipbuilding shares climb after trade deal finalized",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/30/south-korean-auto-shipbuilding-shares-climb-after-trade-deal-finalized-.html",
-      "published_at": "Thu, 30 Oct 2025 08:25:25 GMT",
-      "bullets": [
-        "• South Korean auto and shipbuilding stocks rallied Thursday after Seoul and Washington finalized a trade deal",
-        "• The deal includes lower U.S",
-        "• tariffs on South Korean goods in exchange for a $350 billion investment pledge from Seoul",
-        "• Hanwha Ocean spiked as much as 14.9% before paring gains to close at the end of the session "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• South Korean auto and shipbuilding stocks rallied Thursday after Seoul and Washington finalized a trade deal",
-          "• The deal includes lower U.S"
-        ],
-        "hopeful_bullets": [
-          "• Hanwha Ocean spiked as much as 14.9% before paring gains to close at the end of the session "
-        ],
-        "stakes_bullets": [
-          "• tariffs on South Korean goods in exchange for a $350 billion investment pledge from Seoul"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "19b82bfc8342"
     },
     {
       "id": "def6fb2ba193",
@@ -5166,25 +5130,25 @@
       "published_at": "Thu, 30 Oct 2025 08:20:53 GMT",
       "bullets": [
         "• Donald Trump described crucial trade talks with Chinese president in Busan, South Korea, as 'amazing' He said the dispute over supply of rare earths had been settled and that he would visit China in April",
-        "• Xi Jinping has not commented on the discussions but noted that the economic and trade teams had “reached a basic consensus on addressing our respective major concerns”"
+        "• Xi Jinping has not commented on the discussions but noted that the economic and trade teams from both countries had “reached a basic consensus” during recent talks in Kuala Lumpur "
       ],
       "category": "US",
       "sentiment": {
         "label": "positive",
-        "score": 0.998
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
           "• Donald Trump described crucial trade talks with Chinese president in Busan, South Korea, as 'amazing' He said the dispute over supply of rare earths had been settled and that he would visit China in April",
-          "• Xi Jinping has not commented on the discussions but noted that the economic and trade teams had “reached a basic consensus on addressing our respective major concerns”"
+          "• Xi Jinping has not commented on the discussions but noted that the economic and trade teams from both countries had “reached a basic consensus” during recent talks in Kuala Lumpur "
         ],
         "hopeful_bullets": [
           "• Donald Trump described crucial trade talks with Chinese president in Busan, South Korea, as 'amazing' He said the dispute over supply of rare earths had been settled and that he would visit China in April",
-          "• Xi Jinping has not commented on the discussions but noted that the economic and trade teams had “reached a basic consensus on addressing our respective major concerns”"
+          "• Xi Jinping has not commented on the discussions but noted that the economic and trade teams from both countries had “reached a basic consensus” during recent talks in Kuala Lumpur "
         ],
         "stakes_bullets": [
           "• Donald Trump described crucial trade talks with Chinese president in Busan, South Korea, as 'amazing' He said the dispute over supply of rare earths had been settled and that he would visit China in April",
-          "• Xi Jinping has not commented on the discussions but noted that the economic and trade teams had “reached a basic consensus on addressing our respective major concerns”"
+          "• Xi Jinping has not commented on the discussions but noted that the economic and trade teams from both countries had “reached a basic consensus” during recent talks in Kuala Lumpur "
         ]
       },
       "read_minutes": 4,
@@ -5223,39 +5187,6 @@
       "cluster_id": "a13a871e101a"
     },
     {
-      "id": "3b69a6a5fa5d",
-      "title": "Oil giant Shell launches another $3.5 billion share buyback as profit beats expectations",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/30/shell-earnings-q3-2025.html",
-      "published_at": "Thu, 30 Oct 2025 08:06:53 GMT",
-      "bullets": [
-        "• Shell posted adjusted earnings of $5.4 billion for the third quarter, beating analyst expectations",
-        "• The London-headquartered oil giant announced another $3.5 billion in share buybacks over the next three months",
-        "• Shell's London-listed share price has climbed more than 16% year-to-date, outperforming its peers "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.78
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Shell posted adjusted earnings of $5.4 billion for the third quarter, beating analyst expectations",
-          "• The London-headquartered oil giant announced another $3.5 billion in share buybacks over the next three months"
-        ],
-        "hopeful_bullets": [
-          "• Shell posted adjusted earnings of $5.4 billion for the third quarter, beating analyst expectations",
-          "• The London-headquartered oil giant announced another $3.5 billion in share buybacks over the next three months"
-        ],
-        "stakes_bullets": [
-          "• Shell posted adjusted earnings of $5.4 billion for the third quarter, beating analyst expectations",
-          "• The London-headquartered oil giant announced another $3.5 billion in share buybacks over the next three months"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "09dbbe88a0d5"
-    },
-    {
       "id": "75e26ae924ef",
       "title": "The Witcher Creator Confirms Seasons 4 & 5 Will Bring the Series to Its Planned Ending",
       "outlet": "CBR",
@@ -5288,75 +5219,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "427a6b132c56"
-    },
-    {
-      "id": "18500cb0bd05",
-      "title": "From futuristic NEOM to tech and tourism, Saudi Arabia's priorities are shifting",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/29/from-neom-to-ai-and-tourism-saudi-arabias-priorities-are-shifting.html",
-      "published_at": "Thu, 30 Oct 2025 07:13:35 GMT",
-      "bullets": [
-        "• Saudi Arabia's \"Vision 2030\" strategy to diversify its economy has shifted priorities in recent years",
-        "• Technology and artificial intelligence are key priorities for the kingdom",
-        "• Non-oil activities now account for 56% of total real GDP in Saudi Arabia "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Saudi Arabia's \"Vision 2030\" strategy to diversify its economy has shifted priorities in recent years",
-          "• Technology and artificial intelligence are key priorities for the kingdom"
-        ],
-        "hopeful_bullets": [
-          "• Saudi Arabia's \"Vision 2030\" strategy to diversify its economy has shifted priorities in recent years",
-          "• Technology and artificial intelligence are key priorities for the kingdom"
-        ],
-        "stakes_bullets": [
-          "• Saudi Arabia's \"Vision 2030\" strategy to diversify its economy has shifted priorities in recent years",
-          "• Technology and artificial intelligence are key priorities for the kingdom",
-          "• Non-oil activities now account for 56% of total real GDP in Saudi Arabia "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d2ee9f9982d9"
-    },
-    {
-      "id": "5e7db58ba1b3",
-      "title": "Jaguar Land Rover’s cyberattack holds an ominous lesson for British businesses",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/29/jaguar-land-rover-cyberattack-holds-ominous-lesson-for-british-firms.html",
-      "published_at": "Thu, 30 Oct 2025 07:13:15 GMT",
-      "bullets": [
-        "• Cybersecurity expert: \"This isn't just another cyber headline",
-        "• This was a macro economic event, and a very serious one for the U.K.\" JLR first reported it had been victim of a \"cyber incident\" on Sept",
-        "• 2",
-        "• The company is currently in the midst of a phased restart to operations after the incident "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Cybersecurity expert: \"This isn't just another cyber headline",
-          "• This was a macro economic event, and a very serious one for the U.K.\" JLR first reported it had been victim of a \"cyber incident\" on Sept"
-        ],
-        "hopeful_bullets": [
-          "• Cybersecurity expert: \"This isn't just another cyber headline",
-          "• This was a macro economic event, and a very serious one for the U.K.\" JLR first reported it had been victim of a \"cyber incident\" on Sept"
-        ],
-        "stakes_bullets": [
-          "• Cybersecurity expert: \"This isn't just another cyber headline",
-          "• This was a macro economic event, and a very serious one for the U.K.\" JLR first reported it had been victim of a \"cyber incident\" on Sept",
-          "• 2"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "3866c359edc5"
     },
     {
       "id": "ee8af2af24f6",
@@ -5657,6 +5519,41 @@
       "cluster_id": "16684cb4d95f"
     },
     {
+      "id": "383f67832632",
+      "title": "Trump suggests the U.S. will resume testing nuclear weapons",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/30/g-s1-95725/trump-testing-nuclear-weapons",
+      "published_at": "Thu, 30 Oct 2025 05:18:55 -0400",
+      "bullets": [
+        "• President Trump says U.S",
+        "• will resume using nuclear weapons for first time in three decades",
+        "• He says it will be on an \"equal basis\" with Russia and China",
+        "• The White House did not immediately respond to questions from reporters",
+        "• It was unclear what the president was referring to when he spoke to reporters "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Trump says U.S",
+          "• will resume using nuclear weapons for first time in three decades"
+        ],
+        "hopeful_bullets": [
+          "• President Trump says U.S",
+          "• will resume using nuclear weapons for first time in three decades"
+        ],
+        "stakes_bullets": [
+          "• will resume using nuclear weapons for first time in three decades",
+          "• He says it will be on an \"equal basis\" with Russia and China"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "700dd449f7ed"
+    },
+    {
       "id": "9e3fa95afff2",
       "title": "Newegg Promo Code: 10% Off in November 2025",
       "outlet": "WIRED",
@@ -5786,6 +5683,105 @@
       },
       "read_minutes": 2,
       "cluster_id": "89aa2ec08f97"
+    },
+    {
+      "id": "0c52b92ba0bd",
+      "title": "Trump keeps flirting with the idea of a third term. That would be unconstitutional",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/30/nx-s1-5590293/trump-2028-third-term-constitution",
+      "published_at": "Thu, 30 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Trump keeps flirting with the idea of a third term",
+        "• That would be unconstitutional",
+        "• Legal experts say there is no way around the 22nd Amendment to the Constitution",
+        "• Steve Bannon, an on-again off-again Trump ally and MAGA mastermind, has talked about a third Trump term as a certainty "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump keeps flirting with the idea of a third term",
+          "• That would be unconstitutional"
+        ],
+        "hopeful_bullets": [
+          "• Trump keeps flirting with the idea of a third term",
+          "• That would be unconstitutional"
+        ],
+        "stakes_bullets": [
+          "• Steve Bannon, an on-again off-again Trump ally and MAGA mastermind, has talked about a third Trump term as a certainty "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "50831077ffe2"
+    },
+    {
+      "id": "4b394dcfef59",
+      "title": "What to watch for during Casey Means' confirmation hearing for surgeon general",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/30/nx-s1-5589127/casey-means-confirmation-hearing-surgeon-general",
+      "published_at": "Thu, 30 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• What to watch for during Casey Means' confirmation hearing for the U.S",
+        "• surgeon general",
+        "• She has been nominated for the post in the past",
+        "• She is known for her work as a health care worker and author of a book called \"Good Energy\""
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• What to watch for during Casey Means' confirmation hearing for the U.S",
+          "• surgeon general"
+        ],
+        "hopeful_bullets": [
+          "• surgeon general"
+        ],
+        "stakes_bullets": [
+          "• What to watch for during Casey Means' confirmation hearing for the U.S",
+          "• surgeon general",
+          "• She has been nominated for the post in the past"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "c410e4a8b0e6"
+    },
+    {
+      "id": "5ee4ba131c2e",
+      "title": "Why car insurance costs have soared (and what drivers are doing about it)",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/30/nx-s1-5542448/car-insurance-rising-premiums",
+      "published_at": "Thu, 30 Oct 2025 05:00:00 -0400",
+      "bullets": [
+        "• Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping after years of stubborn inflation",
+        "• How are higher prices changing the way you live? Fill out this form to share your story with NPR",
+        "• The good news is that, largely, the industry is caught up on premiums, an insurance commissioner says "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.818
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping after years of stubborn inflation",
+          "• How are higher prices changing the way you live? Fill out this form to share your story with NPR"
+        ],
+        "hopeful_bullets": [
+          "• Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping after years of stubborn inflation",
+          "• How are higher prices changing the way you live? Fill out this form to share your story with NPR"
+        ],
+        "stakes_bullets": [
+          "• Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping after years of stubborn inflation"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "b64836dafa7f"
     },
     {
       "id": "c21e52631802",
@@ -6147,38 +6143,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "cbfda574fbb9"
-    },
-    {
-      "id": "1e7330fc46c0",
-      "title": "Trump directs Pentagon to match Russia and China in nuclear weapons testing",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/29/trump-pentagon-us-nuclear-weapons",
-      "published_at": "Thu, 30 Oct 2025 03:02:04 GMT",
-      "bullets": [
-        "• Donald Trump has instructed the Pentagon to start matching other nuclear powers in their testing of nuclear weapons, specifically citing Russia and China",
-        "• The United States last held a full nuclear weapons test in 1992, and China and Russia are not known to have held any such tests since the same era "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump has instructed the Pentagon to start matching other nuclear powers in their testing of nuclear weapons, specifically citing Russia and China",
-          "• The United States last held a full nuclear weapons test in 1992, and China and Russia are not known to have held any such tests since the same era "
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump has instructed the Pentagon to start matching other nuclear powers in their testing of nuclear weapons, specifically citing Russia and China",
-          "• The United States last held a full nuclear weapons test in 1992, and China and Russia are not known to have held any such tests since the same era "
-        ],
-        "stakes_bullets": [
-          "• Donald Trump has instructed the Pentagon to start matching other nuclear powers in their testing of nuclear weapons, specifically citing Russia and China",
-          "• The United States last held a full nuclear weapons test in 1992, and China and Russia are not known to have held any such tests since the same era "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "e604285178cc"
     },
     {
       "id": "dabee62409c4",
@@ -7477,40 +7441,6 @@
       "cluster_id": "ce5a5a3ce234"
     },
     {
-      "id": "6326f0f2fa50",
-      "title": "Asheboro, North Carolina, Is Under Pressure to Control Discharges of a Toxic Chemical Into Drinking Water Supply",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/27102025/asheboro-nc-toxic-chemical-drinking-water-supply-epa/",
-      "published_at": "Mon, 27 Oct 2025 21:31:11 +0000",
-      "bullets": [
-        "• North Carolina has some of the highest levels of 1,4-Dioxane in the country",
-        "• Long-term exposure can damage the liver and kidneys",
-        "• The EPA has not established a limit on the amount of exposure to the chemical in the state "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• North Carolina has some of the highest levels of 1,4-Dioxane in the country",
-          "• Long-term exposure can damage the liver and kidneys"
-        ],
-        "hopeful_bullets": [
-          "• North Carolina has some of the highest levels of 1,4-Dioxane in the country",
-          "• Long-term exposure can damage the liver and kidneys"
-        ],
-        "stakes_bullets": [
-          "• North Carolina has some of the highest levels of 1,4-Dioxane in the country",
-          "• Long-term exposure can damage the liver and kidneys",
-          "• The EPA has not established a limit on the amount of exposure to the chemical in the state "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "b2db71fe0bb4"
-    },
-    {
       "id": "c32760f90bf8",
       "title": "Q&A: Joshua Viola Shares Details on ROCKY HORROR SHOW: BRIDE OF ROCKY HORROR Graphic Novel",
       "outlet": "Daily Dead",
@@ -8439,6 +8369,72 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "d4a8de113283",
+      "title": "Hands on with Ursa, a new keycap option for Topre keyboards",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/809659/ursa-topre-keycap-hands-on-extras-sale",
+      "published_at": "2025-10-30T05:00:00-04:00",
+      "bullets": [
+        "• Ursa is a new style of keycap for Topre electrocapacitive switches",
+        "• The scooped spherical caps are comfortable to type on and the edges are well-defined without being too sharp",
+        "• Preorders are shipping in November and extras go on sale at 5am Eastern time on October 30th "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ursa is a new style of keycap for Topre electrocapacitive switches",
+          "• The scooped spherical caps are comfortable to type on and the edges are well-defined without being too sharp"
+        ],
+        "hopeful_bullets": [
+          "• Ursa is a new style of keycap for Topre electrocapacitive switches",
+          "• The scooped spherical caps are comfortable to type on and the edges are well-defined without being too sharp"
+        ],
+        "stakes_bullets": [
+          "• Ursa is a new style of keycap for Topre electrocapacitive switches",
+          "• The scooped spherical caps are comfortable to type on and the edges are well-defined without being too sharp",
+          "• Preorders are shipping in November and extras go on sale at 5am Eastern time on October 30th "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "0796e7170bd8"
+    },
+    {
+      "id": "8ad61dba779e",
+      "title": "Lost your Meta Neural Band? A new one will cost $199",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/809805/meta-ray-ban-display-neural-band-wristband-replacement-cost",
+      "published_at": "2025-10-30T05:00:00-04:00",
+      "bullets": [
+        "• The Meta Ray-Ban Display’s neural wristband isn’t sold separately, but if you lose yours, you can buy a new one for about $200",
+        "• Only customers who have already purchased the glasses and need a band replacement that's outside of the limited warranty policy will be able to buy the band "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Meta Ray-Ban Display’s neural wristband isn’t sold separately, but if you lose yours, you can buy a new one for about $200",
+          "• Only customers who have already purchased the glasses and need a band replacement that's outside of the limited warranty policy will be able to buy the band "
+        ],
+        "hopeful_bullets": [
+          "• The Meta Ray-Ban Display’s neural wristband isn’t sold separately, but if you lose yours, you can buy a new one for about $200",
+          "• Only customers who have already purchased the glasses and need a band replacement that's outside of the limited warranty policy will be able to buy the band "
+        ],
+        "stakes_bullets": [
+          "• The Meta Ray-Ban Display’s neural wristband isn’t sold separately, but if you lose yours, you can buy a new one for about $200",
+          "• Only customers who have already purchased the glasses and need a band replacement that's outside of the limited warranty policy will be able to buy the band "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b970f012e68a"
+    },
+    {
       "id": "2cac2279a9e4",
       "title": "Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks",
       "outlet": "The Verge",
@@ -8699,71 +8695,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "ab355b5a20c3"
-    },
-    {
-      "id": "71a00e5ebf4f",
-      "title": "The government shutdown is delaying new gadgets",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/report/807850/government-shutdown-fcc-clearance-delaying-tech-products",
-      "published_at": "2025-10-29T16:46:59-04:00",
-      "bullets": [
-        "• Manufacturers are facing a growing backlog of approval from the Federal Communications Commission",
-        "• The longer the shutdown stretches, the worse the backlog will get, says Harold Feld, SVP at Public Knowledge",
-        "• Any product that emits radio frequencies cannot be sold in the US until the FCC provides clearance "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Manufacturers are facing a growing backlog of approval from the Federal Communications Commission",
-          "• The longer the shutdown stretches, the worse the backlog will get, says Harold Feld, SVP at Public Knowledge"
-        ],
-        "hopeful_bullets": [
-          "• Manufacturers are facing a growing backlog of approval from the Federal Communications Commission"
-        ],
-        "stakes_bullets": [
-          "• The longer the shutdown stretches, the worse the backlog will get, says Harold Feld, SVP at Public Knowledge"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "93298891c7a8"
-    },
-    {
-      "id": "23d82310e9c5",
-      "title": "The best iPhones",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
-      "published_at": "2025-10-29T16:32:24-04:00",
-      "bullets": [
-        "• Apple recently launched its 2025 iPhone lineup, which includes the iPhone 17, 17 Pro, and 17 Pro Max",
-        "• The new phones offer a number of new features over their predecessors, such as upgraded cameras, faster chips, better battery life, and even better screens",
-        "• If you’ve been holding off on getting a new iPhone, now is the perfect time to size up your options "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Apple recently launched its 2025 iPhone lineup, which includes the iPhone 17, 17 Pro, and 17 Pro Max",
-          "• The new phones offer a number of new features over their predecessors, such as upgraded cameras, faster chips, better battery life, and even better screens"
-        ],
-        "hopeful_bullets": [
-          "• Apple recently launched its 2025 iPhone lineup, which includes the iPhone 17, 17 Pro, and 17 Pro Max",
-          "• The new phones offer a number of new features over their predecessors, such as upgraded cameras, faster chips, better battery life, and even better screens"
-        ],
-        "stakes_bullets": [
-          "• Apple recently launched its 2025 iPhone lineup, which includes the iPhone 17, 17 Pro, and 17 Pro Max",
-          "• The new phones offer a number of new features over their predecessors, such as upgraded cameras, faster chips, better battery life, and even better screens",
-          "• If you’ve been holding off on getting a new iPhone, now is the perfect time to size up your options "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "6a573d85dc85"
     },
     {
       "id": "c41ff758b36a",
@@ -9216,12 +9147,12 @@
       ]
     },
     {
-      "id": "9eaaf7edc887",
-      "topic": "centrist dutch liberal neck",
+      "id": "ea23bd7b52d7",
+      "topic": "centrist dutch jetten neck",
       "keywords": [
         "centrist",
         "dutch",
-        "liberal",
+        "jetten",
         "neck",
         "populist",
         "wilder"
@@ -9557,18 +9488,18 @@
       ]
     },
     {
-      "id": "c139c7b371c4",
-      "topic": "deal earth meeting president",
+      "id": "ae68917cea42",
+      "topic": "event exploit extremist political",
       "keywords": [
-        "deal",
-        "earth",
-        "meeting",
-        "president",
-        "rare",
-        "trump"
+        "event",
+        "exploit",
+        "extremist",
+        "political",
+        "recruit",
+        "trigger"
       ],
       "item_ids": [
-        "def6fb2ba193"
+        "026d877b3465"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9587,6 +9518,24 @@
       ],
       "item_ids": [
         "1e7330fc46c0"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "c139c7b371c4",
+      "topic": "deal earth meeting president",
+      "keywords": [
+        "deal",
+        "earth",
+        "meeting",
+        "president",
+        "rare",
+        "trump"
+      ],
+      "item_ids": [
+        "def6fb2ba193"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9700,24 +9649,6 @@
       ]
     },
     {
-      "id": "6d2d252618d3",
-      "topic": "iranian kill plot russian",
-      "keywords": [
-        "iranian",
-        "kill",
-        "plot",
-        "russian",
-        "sentenced",
-        "year"
-      ],
-      "item_ids": [
-        "ed6c7cea414a"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "99ee036b490e",
       "topic": "financial meta mixed report",
       "keywords": [
@@ -9733,6 +9664,78 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "700dd449f7ed",
+      "topic": "nuclear resume suggest testing",
+      "keywords": [
+        "nuclear",
+        "resume",
+        "suggest",
+        "testing",
+        "trump",
+        "weapon"
+      ],
+      "item_ids": [
+        "383f67832632"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "50831077ffe2",
+      "topic": "flirting idea keep term",
+      "keywords": [
+        "flirting",
+        "idea",
+        "keep",
+        "term",
+        "third",
+        "trump"
+      ],
+      "item_ids": [
+        "0c52b92ba0bd"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "c410e4a8b0e6",
+      "topic": "casey confirmation during hearing",
+      "keywords": [
+        "casey",
+        "confirmation",
+        "during",
+        "hearing",
+        "mean",
+        "watch"
+      ],
+      "item_ids": [
+        "4b394dcfef59"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "b64836dafa7f",
+      "topic": "car cost doing driver",
+      "keywords": [
+        "car",
+        "cost",
+        "doing",
+        "driver",
+        "insurance",
+        "soared"
+      ],
+      "item_ids": [
+        "5ee4ba131c2e"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9843,78 +9846,6 @@
       ]
     },
     {
-      "id": "5328287f3332",
-      "topic": "affect dismantling effort jamaica",
-      "keywords": [
-        "affect",
-        "dismantling",
-        "effort",
-        "jamaica",
-        "relief",
-        "usaid"
-      ],
-      "item_ids": [
-        "0f4af6e333dc"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "c5a22f3f926c",
-      "topic": "american call culture defending",
-      "keywords": [
-        "american",
-        "call",
-        "culture",
-        "defending",
-        "dhs",
-        "leave"
-      ],
-      "item_ids": [
-        "dd47bd588585"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "ebf5d1fb81ee",
-      "topic": "commission entire fire house",
-      "keywords": [
-        "commission",
-        "entire",
-        "fire",
-        "house",
-        "review",
-        "white"
-      ],
-      "item_ids": [
-        "17948d8b4f5d"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "f0e91f08d09b",
-      "topic": "age before teen trouble",
-      "keywords": [
-        "age",
-        "before",
-        "teen",
-        "trouble",
-        "use",
-        "weed"
-      ],
-      "item_ids": [
-        "5403c4e7edcb"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "8c07883f9528",
       "topic": "beijing china cuts fentanyl",
       "keywords": [
@@ -9933,36 +9864,36 @@
       ]
     },
     {
-      "id": "09dbbe88a0d5",
-      "topic": "another billion giant launche",
+      "id": "2392d7ccd37c",
+      "topic": "fall issuing jeep maker",
       "keywords": [
-        "another",
-        "billion",
-        "giant",
-        "launche",
-        "oil",
-        "shell"
+        "fall",
+        "issuing",
+        "jeep",
+        "maker",
+        "much",
+        "stellanti"
       ],
       "item_ids": [
-        "3b69a6a5fa5d"
+        "caed8b787efa"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "6ea75171a999",
-      "topic": "beat despite drop earning",
+      "id": "e952eccc3aca",
+      "topic": "drop forecast increased microsoft",
       "keywords": [
-        "beat",
-        "despite",
         "drop",
-        "earning",
-        "meta",
-        "share"
+        "forecast",
+        "increased",
+        "microsoft",
+        "spending",
+        "stock"
       ],
       "item_ids": [
-        "8c7e8f7d3ba2"
+        "8e329a7b7e2c"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9987,90 +9918,36 @@
       ]
     },
     {
-      "id": "e22552305a7b",
-      "topic": "nuclear order pentagon resume",
+      "id": "ef4258f1ec55",
+      "topic": "chain chipotle lower plunge",
       "keywords": [
-        "nuclear",
-        "order",
-        "pentagon",
-        "resume",
-        "trump",
-        "weapon"
+        "chain",
+        "chipotle",
+        "lower",
+        "plunge",
+        "sale",
+        "stock"
       ],
       "item_ids": [
-        "cd719b92b84d"
+        "3c332fb58599"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "19b82bfc8342",
-      "topic": "auto climb korean share",
+      "id": "6ea75171a999",
+      "topic": "beat despite drop earning",
       "keywords": [
-        "auto",
-        "climb",
-        "korean",
-        "share",
-        "shipbuilding",
-        "south"
+        "beat",
+        "despite",
+        "drop",
+        "earning",
+        "meta",
+        "share"
       ],
       "item_ids": [
-        "7c9824c65ec8"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "55852c846689",
-      "topic": "billion hit investment microsoft",
-      "keywords": [
-        "billion",
-        "hit",
-        "investment",
-        "microsoft",
-        "openai",
-        "take"
-      ],
-      "item_ids": [
-        "c65177c63101"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "3866c359edc5",
-      "topic": "cyberattack hold jaguar land",
-      "keywords": [
-        "cyberattack",
-        "hold",
-        "jaguar",
-        "land",
-        "ominou",
-        "rover"
-      ],
-      "item_ids": [
-        "5e7db58ba1b3"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "d2ee9f9982d9",
-      "topic": "arabia futuristic neom saudi",
-      "keywords": [
-        "arabia",
-        "futuristic",
-        "neom",
-        "saudi",
-        "tech",
-        "tourism"
-      ],
-      "item_ids": [
-        "18500cb0bd05"
+        "8c7e8f7d3ba2"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10089,6 +9966,60 @@
       ],
       "item_ids": [
         "72d7a130fd07"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "a253c7c3834c",
+      "topic": "growth report sale same",
+      "keywords": [
+        "growth",
+        "report",
+        "sale",
+        "same",
+        "starbuck",
+        "store"
+      ],
+      "item_ids": [
+        "318bf7bed90a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "e22552305a7b",
+      "topic": "nuclear order pentagon resume",
+      "keywords": [
+        "nuclear",
+        "order",
+        "pentagon",
+        "resume",
+        "trump",
+        "weapon"
+      ],
+      "item_ids": [
+        "cd719b92b84d"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "4817ca5b19b9",
+      "topic": "decision fed interest lower",
+      "keywords": [
+        "decision",
+        "fed",
+        "interest",
+        "lower",
+        "rate",
+        "widen"
+      ],
+      "item_ids": [
+        "433ffab6067b"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10239,6 +10170,42 @@
       ]
     },
     {
+      "id": "0796e7170bd8",
+      "topic": "hand keyboard keycap option",
+      "keywords": [
+        "hand",
+        "keyboard",
+        "keycap",
+        "option",
+        "topre",
+        "ursa"
+      ],
+      "item_ids": [
+        "d4a8de113283"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "b970f012e68a",
+      "topic": "199 band cost lost",
+      "keywords": [
+        "199",
+        "band",
+        "cost",
+        "lost",
+        "meta",
+        "neural"
+      ],
+      "item_ids": [
+        "8ad61dba779e"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "b4befb163c94",
       "topic": "azure down microsoft outage",
       "keywords": [
@@ -10373,36 +10340,6 @@
       ],
       "item_ids": [
         "c1dbc005ad67"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "93298891c7a8",
-      "topic": "delaying gadget government shutdown",
-      "keywords": [
-        "delaying",
-        "gadget",
-        "government",
-        "shutdown"
-      ],
-      "item_ids": [
-        "71a00e5ebf4f"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "6a573d85dc85",
-      "topic": "best iphone",
-      "keywords": [
-        "best",
-        "iphone"
-      ],
-      "item_ids": [
-        "23d82310e9c5"
       ],
       "outlets": [
         "The Verge"
@@ -10947,6 +10884,24 @@
       ]
     },
     {
+      "id": "ebf5d1fb81ee",
+      "topic": "commission entire fire house",
+      "keywords": [
+        "commission",
+        "entire",
+        "fire",
+        "house",
+        "review",
+        "white"
+      ],
+      "item_ids": [
+        "17948d8b4f5d"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "85658444f3e8",
       "topic": "build conclude days meeting",
       "keywords": [
@@ -10994,78 +10949,6 @@
       ],
       "item_ids": [
         "0e7aa547c624"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "788a9f822af4",
-      "topic": "korea missile north test",
-      "keywords": [
-        "korea",
-        "missile",
-        "north",
-        "test",
-        "tout",
-        "trump"
-      ],
-      "item_ids": [
-        "1df12ff33e99"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "023d23a3cd09",
-      "topic": "deal rare rebuke republican",
-      "keywords": [
-        "deal",
-        "rare",
-        "rebuke",
-        "republican",
-        "senate",
-        "trump"
-      ],
-      "item_ids": [
-        "2e08f30dd728"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "db66fe08d63b",
-      "topic": "aim committee gop house",
-      "keywords": [
-        "aim",
-        "committee",
-        "gop",
-        "house",
-        "led",
-        "take"
-      ],
-      "item_ids": [
-        "fdcaec4d71a0"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "353580753eb6",
-      "topic": "labeling laws opt out",
-      "keywords": [
-        "labeling",
-        "laws",
-        "opt",
-        "out",
-        "state",
-        "want"
-      ],
-      "item_ids": [
-        "053d77eee9c5"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11350,6 +11233,24 @@
       ]
     },
     {
+      "id": "3a1adc40ba5f",
+      "topic": "43bn hits production profit",
+      "keywords": [
+        "43bn",
+        "hits",
+        "production",
+        "profit",
+        "shell",
+        "surpas"
+      ],
+      "item_ids": [
+        "fa07c1574267"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "89aa2ec08f97",
       "topic": "knuckled lost spider thought",
       "keywords": [
@@ -11365,6 +11266,42 @@
       ],
       "outlets": [
         "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "69a9c1642a0e",
+      "topic": "chronic exposed growing heat",
+      "keywords": [
+        "chronic",
+        "exposed",
+        "growing",
+        "heat",
+        "threat",
+        "worker"
+      ],
+      "item_ids": [
+        "73621df6c309"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "10661837f324",
+      "topic": "four governor pjm rely",
+      "keywords": [
+        "four",
+        "governor",
+        "pjm",
+        "rely",
+        "state",
+        "whose"
+      ],
+      "item_ids": [
+        "568b7a905bf4"
+      ],
+      "outlets": [
+        "Inside Climate News"
       ]
     },
     {
@@ -11506,42 +11443,6 @@
       ],
       "item_ids": [
         "39c7688119de"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "b3091e9e6b0c",
-      "topic": "billion ending gallon keep",
-      "keywords": [
-        "billion",
-        "ending",
-        "gallon",
-        "keep",
-        "raw",
-        "sewage"
-      ],
-      "item_ids": [
-        "31439b20aec2"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "b2db71fe0bb4",
-      "topic": "asheboro carolina control north",
-      "keywords": [
-        "asheboro",
-        "carolina",
-        "control",
-        "north",
-        "pressure",
-        "under"
-      ],
-      "item_ids": [
-        "6326f0f2fa50"
       ],
       "outlets": [
         "Inside Climate News"
