@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-31T07:10:39Z",
+  "generated_at": "2025-10-31T07:56:57Z",
   "items": [
     {
       "id": "d6f893eb9077",
@@ -1082,6 +1082,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "28b2f4a1bab7"
+    },
+    {
+      "id": "261e3da66dc2",
+      "title": "RFR Q&A #267: Star Wars Inspired Nachos",
+      "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
+      "url": "https://www.rebelforceradio.com/shows/2025/9/30/rfr-qampa-267-star-wars-inspired-nachos",
+      "published_at": "Tue, 30 Sep 2025 17:13:00 +0000",
+      "bullets": [
+        "• RFR Q&A #267: Star Wars Inspired Nachos",
+        "• Plus, we discuss RFR at Rancho Obi-Wan, LEGO Star Wars: Rebuild The Galaxy",
+        "• Joe Dallas was gifted an odd-ball piece of Star Wars bootleg memorabilia "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• RFR Q&A #267: Star Wars Inspired Nachos",
+          "• Plus, we discuss RFR at Rancho Obi-Wan, LEGO Star Wars: Rebuild The Galaxy"
+        ],
+        "hopeful_bullets": [
+          "• RFR Q&A #267: Star Wars Inspired Nachos",
+          "• Plus, we discuss RFR at Rancho Obi-Wan, LEGO Star Wars: Rebuild The Galaxy"
+        ],
+        "stakes_bullets": [
+          "• RFR Q&A #267: Star Wars Inspired Nachos",
+          "• Plus, we discuss RFR at Rancho Obi-Wan, LEGO Star Wars: Rebuild The Galaxy",
+          "• Joe Dallas was gifted an odd-ball piece of Star Wars bootleg memorabilia "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "107222b83c35"
     },
     {
       "id": "604f29467dbc",
@@ -3044,38 +3078,6 @@
       "cluster_id": "8625be2e5e29"
     },
     {
-      "id": "3001e6813d0c",
-      "title": "Soundgarden Promises ‘Seattle-Centric’ Performance at Rock Hall With Nancy Wilson, Mike McCready",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/soundgarden-will-perform-rock-hall-fame-nancy-wilson-1235457006/",
-      "published_at": "Thu, 30 Oct 2025 19:03:21 +0000",
-      "bullets": [
-        "• Soundgarden will be inducted into the Rock & Roll Hall of Fame next month",
-        "• The band will perform with Nancy Wilson, Jerry Cantrell of Alice in Chains, Mike McCready, and Taylor Momsen of the Pretty Reckless "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Soundgarden will be inducted into the Rock & Roll Hall of Fame next month",
-          "• The band will perform with Nancy Wilson, Jerry Cantrell of Alice in Chains, Mike McCready, and Taylor Momsen of the Pretty Reckless "
-        ],
-        "hopeful_bullets": [
-          "• Soundgarden will be inducted into the Rock & Roll Hall of Fame next month",
-          "• The band will perform with Nancy Wilson, Jerry Cantrell of Alice in Chains, Mike McCready, and Taylor Momsen of the Pretty Reckless "
-        ],
-        "stakes_bullets": [
-          "• Soundgarden will be inducted into the Rock & Roll Hall of Fame next month",
-          "• The band will perform with Nancy Wilson, Jerry Cantrell of Alice in Chains, Mike McCready, and Taylor Momsen of the Pretty Reckless "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7f4b9c4eef46"
-    },
-    {
       "id": "043c90cef62d",
       "title": "The 35 Best Movies on HBO Max Right Now (November 2025)",
       "outlet": "WIRED",
@@ -4275,7 +4277,7 @@
     {
       "id": "3894434f46d4",
       "title": "Judge sets trial over whether CPB pulled back from NPR due to White House pressure",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/10/30/nx-s1-5590945/npr-cpb-lawsuit-trial-political-pressure",
       "published_at": "Thu, 30 Oct 2025 14:46:40 -0400",
       "bullets": [
@@ -4283,7 +4285,7 @@
         "• NPR alleges that CPB unlawfully yanked away a planned three-year contract worth $36 million",
         "• CPB is the nonprofit that funneled federal dollars to public media until this month "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.995
@@ -4435,6 +4437,39 @@
       },
       "read_minutes": 3,
       "cluster_id": "15685e87341b"
+    },
+    {
+      "id": "16d3321eeee6",
+      "title": "After the Fed cut interest rates, adjustable-rate mortgages may be 'an underappreciated opportunity,' top advisor says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/30/fed-rate-cut-homebuyers-arms.html",
+      "published_at": "Thu, 30 Oct 2025 13:47:16 GMT",
+      "bullets": [
+        "• A 30-year, fixed-rate mortgage rate fell to 6.3% for the week ended Oct",
+        "• 24, according to the Mortgage Bankers Association",
+        "• Rates are now at their lowest level since September 2024",
+        "• But the average rate is still significantly higher compared to the under-3% levels near the start of the pandemic "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.594
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A 30-year, fixed-rate mortgage rate fell to 6.3% for the week ended Oct",
+          "• 24, according to the Mortgage Bankers Association"
+        ],
+        "hopeful_bullets": [
+          "• A 30-year, fixed-rate mortgage rate fell to 6.3% for the week ended Oct",
+          "• 24, according to the Mortgage Bankers Association"
+        ],
+        "stakes_bullets": [
+          "• 24, according to the Mortgage Bankers Association"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "969015652001"
     },
     {
       "id": "a07b073535c3",
@@ -4640,40 +4675,6 @@
       "cluster_id": "52fe3e57c601"
     },
     {
-      "id": "433ffab6067b",
-      "title": "How the Fed's decision to lower interest rates could widen the generational wealth gap",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/29/fed-rate-cut-generational-wealth-gap.html",
-      "published_at": "Thu, 30 Oct 2025 12:55:04 GMT",
-      "bullets": [
-        "• The Federal Reserve cut interest rates on Wednesday and wealthy U.S",
-        "• households may benefit most",
-        "• A quarter-point reduction would bring the benchmark rate to a range between 3.75%-4.00%",
-        "• Lower interest rates can speed up economic growth and lead to an increase in hiring",
-        "• But they are also associated with rising levels of wealth inequality "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.899
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Federal Reserve cut interest rates on Wednesday and wealthy U.S",
-          "• households may benefit most"
-        ],
-        "hopeful_bullets": [
-          "• Lower interest rates can speed up economic growth and lead to an increase in hiring"
-        ],
-        "stakes_bullets": [
-          "• The Federal Reserve cut interest rates on Wednesday and wealthy U.S",
-          "• Lower interest rates can speed up economic growth and lead to an increase in hiring"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4817ca5b19b9"
-    },
-    {
       "id": "dd3c6e7bedb6",
       "title": "Who's the man behind President Trump's dismantling of the federal government?",
       "outlet": "NPR Topics: Politics",
@@ -4776,40 +4777,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "bee936f0fce5"
-    },
-    {
-      "id": "864af9a1bc60",
-      "title": "Five new suspects arrested over Louvre jewellery theft",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz91jnyelq2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 30 Oct 2025 11:45:35 GMT",
-      "bullets": [
-        "• Five new suspects arrested over Louvre heist in Paris",
-        "• One of the suspects is thought to be part of the four-man team that carried out the heist",
-        "• Two of the other alleged thieves have already been arrested and have \"partially recognised\" their involvement "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Five new suspects arrested over Louvre heist in Paris",
-          "• One of the suspects is thought to be part of the four-man team that carried out the heist"
-        ],
-        "hopeful_bullets": [
-          "• Five new suspects arrested over Louvre heist in Paris",
-          "• One of the suspects is thought to be part of the four-man team that carried out the heist"
-        ],
-        "stakes_bullets": [
-          "• Five new suspects arrested over Louvre heist in Paris",
-          "• One of the suspects is thought to be part of the four-man team that carried out the heist",
-          "• Two of the other alleged thieves have already been arrested and have \"partially recognised\" their involvement "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ac04c4c1fec8"
     },
     {
       "id": "09f43f5c9dbd",
@@ -4941,38 +4908,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "4eb6ef8299a9"
-    },
-    {
-      "id": "73f098131fae",
-      "title": "Trump pushes an end to medical care for transgender youth nationally",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/10/30/nx-s1-5588655/transgender-trump-medicare-medicaid-gender-affirming-care",
-      "published_at": "Thu, 30 Oct 2025 09:00:00 -0400",
-      "bullets": [
-        "• Proposed rule would ban Medicaid reimbursement for transgender patients under age 18",
-        "• It also prohibits reimbursement through the Children's Health Insurance Program or CHIP for patients under 19",
-        "• An additional proposed rule would go even further, blocking all Medicaid and Medicare funding for any services at hospitals that provide pediatric gender-affirming care "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Proposed rule would ban Medicaid reimbursement for transgender patients under age 18",
-          "• It also prohibits reimbursement through the Children's Health Insurance Program or CHIP for patients under 19"
-        ],
-        "hopeful_bullets": [
-          "• Proposed rule would ban Medicaid reimbursement for transgender patients under age 18",
-          "• It also prohibits reimbursement through the Children's Health Insurance Program or CHIP for patients under 19"
-        ],
-        "stakes_bullets": [
-          "• Proposed rule would ban Medicaid reimbursement for transgender patients under age 18"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "049e36432999"
     },
     {
       "id": "73621df6c309",
@@ -6536,6 +6471,40 @@
       "cluster_id": "b235c16fb40e"
     },
     {
+      "id": "1931788d04ae",
+      "title": "Taylor Swift Shares Intimate Acoustic Version of ‘The Fate of Ophelia’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/taylor-swift-the-fate-of-ophelia-acoustic-version-release-1235457472/",
+      "published_at": "Fri, 31 Oct 2025 07:45:35 +0000",
+      "bullets": [
+        "• Taylor Swift has released an acoustic version of \"The Fate of Ophelia\" The song is the opening track from her album The Life of a Showgirl",
+        "• Swift released a music video for the track last night",
+        "• She also released a limited edition version of the song "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Taylor Swift has released an acoustic version of \"The Fate of Ophelia\" The song is the opening track from her album The Life of a Showgirl",
+          "• Swift released a music video for the track last night"
+        ],
+        "hopeful_bullets": [
+          "• Taylor Swift has released an acoustic version of \"The Fate of Ophelia\" The song is the opening track from her album The Life of a Showgirl",
+          "• Swift released a music video for the track last night"
+        ],
+        "stakes_bullets": [
+          "• Taylor Swift has released an acoustic version of \"The Fate of Ophelia\" The song is the opening track from her album The Life of a Showgirl",
+          "• Swift released a music video for the track last night",
+          "• She also released a limited edition version of the song "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f3e52c218699"
+    },
+    {
       "id": "918704ffabf5",
       "title": "Robin Hood Review: Sean Bean Gives Some Serious Boromir Vibes in MGM+'s New Take on the Legendary Hero",
       "outlet": "CBR",
@@ -6566,6 +6535,41 @@
       },
       "read_minutes": 7,
       "cluster_id": "94964a477a15"
+    },
+    {
+      "id": "4505cb255a74",
+      "title": "Nasa hits back at Kim Kardashian's moon landing conspiracy",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg1epp73ppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 31 Oct 2025 06:25:11 GMT",
+      "bullets": [
+        "• Kim Kardashian made the comments on the latest episode of her TV series The Kardashians",
+        "• The reality star said the 1969 mission to land the first man on the Moon was faked",
+        "• Nasa acting administrator Sean Duffy wrote on social media: \"Yes, we've been to the Moon before",
+        "• 6 times!\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kim Kardashian made the comments on the latest episode of her TV series The Kardashians",
+          "• The reality star said the 1969 mission to land the first man on the Moon was faked"
+        ],
+        "hopeful_bullets": [
+          "• Kim Kardashian made the comments on the latest episode of her TV series The Kardashians",
+          "• The reality star said the 1969 mission to land the first man on the Moon was faked"
+        ],
+        "stakes_bullets": [
+          "• Kim Kardashian made the comments on the latest episode of her TV series The Kardashians",
+          "• The reality star said the 1969 mission to land the first man on the Moon was faked",
+          "• Nasa acting administrator Sean Duffy wrote on social media: \"Yes, we've been to the Moon before"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b043608f5106"
     },
     {
       "id": "ac07a544c86b",
@@ -7158,6 +7162,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "9963c57d80ac"
+    },
+    {
+      "id": "8a9266a83c2b",
+      "title": "Trump says Senate should scrap the filibuster to end the government shutdown",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/10/31/nx-s1-5591978/trump-senate-scrap-filibuster-end-government-shutdown",
+      "published_at": "Fri, 31 Oct 2025 02:59:36 -0400",
+      "bullets": [
+        "• Trump says Senate should scrap the filibuster to end the government shutdown",
+        "• The filibuster is a long-standing tactic in the Senate to delay or block votes on legislation by keeping the debate running",
+        "• It requires 60 votes in a full Senate to overcome a filibuster, giving Democrats a check on the Republican majority "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump says Senate should scrap the filibuster to end the government shutdown",
+          "• The filibuster is a long-standing tactic in the Senate to delay or block votes on legislation by keeping the debate running"
+        ],
+        "hopeful_bullets": [
+          "• Trump says Senate should scrap the filibuster to end the government shutdown",
+          "• The filibuster is a long-standing tactic in the Senate to delay or block votes on legislation by keeping the debate running"
+        ],
+        "stakes_bullets": [
+          "• It requires 60 votes in a full Senate to overcome a filibuster, giving Democrats a check on the Republican majority "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "729d2399d8e9"
     },
     {
       "id": "22f520b2df21",
@@ -9251,18 +9287,18 @@
       ]
     },
     {
-      "id": "9cb889939d75",
-      "topic": "bodie coming deadly just",
+      "id": "b043608f5106",
+      "topic": "back hits kardashian kim",
       "keywords": [
-        "bodie",
-        "coming",
-        "deadly",
-        "just",
-        "kept",
-        "photographer"
+        "back",
+        "hits",
+        "kardashian",
+        "kim",
+        "moon",
+        "nasa"
       ],
       "item_ids": [
-        "35fbb5bd153d"
+        "4505cb255a74"
       ],
       "outlets": [
         "BBC News"
@@ -9305,18 +9341,18 @@
       ]
     },
     {
-      "id": "ac04c4c1fec8",
-      "topic": "arrested five jewellery louvre",
+      "id": "9cb889939d75",
+      "topic": "bodie coming deadly just",
       "keywords": [
-        "arrested",
-        "five",
-        "jewellery",
-        "louvre",
-        "suspect",
-        "theft"
+        "bodie",
+        "coming",
+        "deadly",
+        "just",
+        "kept",
+        "photographer"
       ],
       "item_ids": [
-        "864af9a1bc60"
+        "35fbb5bd153d"
       ],
       "outlets": [
         "BBC News"
@@ -9683,6 +9719,24 @@
       ]
     },
     {
+      "id": "729d2399d8e9",
+      "topic": "end filibuster government scrap",
+      "keywords": [
+        "end",
+        "filibuster",
+        "government",
+        "scrap",
+        "senate",
+        "trump"
+      ],
+      "item_ids": [
+        "8a9266a83c2b"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "4dfcbe49d50f",
       "topic": "cuba haiti jamaica melissa",
       "keywords": [
@@ -9843,24 +9897,6 @@
       ]
     },
     {
-      "id": "d36594d4f3ff",
-      "topic": "cpb judge pulled sets",
-      "keywords": [
-        "cpb",
-        "judge",
-        "pulled",
-        "sets",
-        "trial",
-        "whether"
-      ],
-      "item_ids": [
-        "3894434f46d4"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "ad372c03fba6",
       "topic": "000 building facility gpus",
       "keywords": [
@@ -10003,6 +10039,24 @@
       ]
     },
     {
+      "id": "969015652001",
+      "topic": "adjustable cut fed interest",
+      "keywords": [
+        "adjustable",
+        "cut",
+        "fed",
+        "interest",
+        "mortgage",
+        "rate"
+      ],
+      "item_ids": [
+        "16d3321eeee6"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "b16590e744c8",
       "topic": "cnbc entrepreneurship india inside",
       "keywords": [
@@ -10015,24 +10069,6 @@
       ],
       "item_ids": [
         "fdbd1d9c94a3"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "4817ca5b19b9",
-      "topic": "decision fed interest lower",
-      "keywords": [
-        "decision",
-        "fed",
-        "interest",
-        "lower",
-        "rate",
-        "widen"
-      ],
-      "item_ids": [
-        "433ffab6067b"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10913,6 +10949,24 @@
       ]
     },
     {
+      "id": "d36594d4f3ff",
+      "topic": "cpb judge pulled sets",
+      "keywords": [
+        "cpb",
+        "judge",
+        "pulled",
+        "sets",
+        "trial",
+        "whether"
+      ],
+      "item_ids": [
+        "3894434f46d4"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "1be0ff36785f",
       "topic": "here nuclear resume testing",
       "keywords": [
@@ -10961,24 +11015,6 @@
       ],
       "item_ids": [
         "dd3c6e7bedb6"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "049e36432999",
-      "topic": "care end medical pushe",
-      "keywords": [
-        "care",
-        "end",
-        "medical",
-        "pushe",
-        "transgender",
-        "trump"
-      ],
-      "item_ids": [
-        "73f098131fae"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -12962,6 +12998,24 @@
       ]
     },
     {
+      "id": "107222b83c35",
+      "topic": "267 inspired nacho rfr",
+      "keywords": [
+        "267",
+        "inspired",
+        "nacho",
+        "rfr",
+        "star",
+        "wars"
+      ],
+      "item_ids": [
+        "261e3da66dc2"
+      ],
+      "outlets": [
+        "All Shows - Rebel Force Radio: Star Wars Podcast"
+      ]
+    },
+    {
       "id": "94a1fafc87d9",
       "topic": "good matter right week",
       "keywords": [
@@ -13495,6 +13549,24 @@
       ]
     },
     {
+      "id": "f3e52c218699",
+      "topic": "acoustic intimate share swift",
+      "keywords": [
+        "acoustic",
+        "intimate",
+        "share",
+        "swift",
+        "taylor",
+        "version"
+      ],
+      "item_ids": [
+        "1931788d04ae"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "04bf7ca68a9b",
       "topic": "allison crutchfield drop katie",
       "keywords": [
@@ -13653,24 +13725,6 @@
       ],
       "item_ids": [
         "10c0025d140e"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "7f4b9c4eef46",
-      "topic": "centric performance promise rock",
-      "keywords": [
-        "centric",
-        "performance",
-        "promise",
-        "rock",
-        "seattle",
-        "soundgarden"
-      ],
-      "item_ids": [
-        "3001e6813d0c"
       ],
       "outlets": [
         "Music News"
