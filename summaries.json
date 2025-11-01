@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-01T07:53:58Z",
+  "generated_at": "2025-11-01T08:12:25Z",
   "items": [
     {
       "id": "d7516b7ee302",
@@ -3214,7 +3214,7 @@
     },
     {
       "id": "6fd9cd0c9b97",
-      "title": "Scavenging for food in streets - desperation takes hold in Jamaica after hurricane",
+      "title": "'We need food, we have no food' - desperation takes hold in Jamaica after hurricane",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c0jdd186l0go?at_medium=RSS&at_campaign=rss",
       "published_at": "Sat, 01 Nov 2025 02:10:13 GMT",
@@ -3225,7 +3225,7 @@
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.987
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
@@ -3241,7 +3241,7 @@
         ]
       },
       "read_minutes": 5,
-      "cluster_id": "6fa3dc13df95"
+      "cluster_id": "888bdba0ce42"
     },
     {
       "id": "22c06a252a8d",
@@ -9201,14 +9201,14 @@
   ],
   "clusters": [
     {
-      "id": "6fa3dc13df95",
-      "topic": "desperation food hold scavenging",
+      "id": "888bdba0ce42",
+      "topic": "desperation food hold jamaica",
       "keywords": [
         "desperation",
         "food",
         "hold",
-        "scavenging",
-        "street",
+        "jamaica",
+        "need",
         "take"
       ],
       "item_ids": [
