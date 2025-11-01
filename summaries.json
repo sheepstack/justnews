@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-01T17:54:24Z",
+  "generated_at": "2025-11-01T18:02:51Z",
   "items": [
     {
       "id": "d7516b7ee302",
@@ -2364,6 +2364,40 @@
       "cluster_id": "aa43071e1b7c"
     },
     {
+      "id": "c1fad3c41a15",
+      "title": "Two more charged over Louvre jewellery heist",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgkk1mkg0po?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 01 Nov 2025 17:32:16 GMT",
+      "bullets": [
+        "• A 38-year-old woman charged with complicity in organised theft and criminal conspiracy",
+        "• Separately, a man, aged 37, charged with criminal conspiracy and theft",
+        "• Jewels worth €88m (£76m; $102m) were taken from the world's most-visited museum on 19 October "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A 38-year-old woman charged with complicity in organised theft and criminal conspiracy",
+          "• Separately, a man, aged 37, charged with criminal conspiracy and theft"
+        ],
+        "hopeful_bullets": [
+          "• A 38-year-old woman charged with complicity in organised theft and criminal conspiracy",
+          "• Separately, a man, aged 37, charged with criminal conspiracy and theft"
+        ],
+        "stakes_bullets": [
+          "• A 38-year-old woman charged with complicity in organised theft and criminal conspiracy",
+          "• Separately, a man, aged 37, charged with criminal conspiracy and theft",
+          "• Jewels worth €88m (£76m; $102m) were taken from the world's most-visited museum on 19 October "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "76ad589ce4b2"
+    },
+    {
       "id": "c40cf3b2980d",
       "title": "Sean Combs Accused of Allegedly Assaulting Producer Following Masturbation Incident: Police Report",
       "outlet": "Music News",
@@ -2430,6 +2464,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "bb57c45d2835"
+    },
+    {
+      "id": "db6cd4edab51",
+      "title": "UK aid for Hurricane Melissa reaches Jamaica as Britons to be evacuated",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg441qyv2xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 01 Nov 2025 17:06:11 GMT",
+      "bullets": [
+        "• UK aid for Hurricane Melissa reaches Jamaica as Britons to be evacuated",
+        "• Flight brings more than 3,000 shelter kits as part of a £7.5m regional emergency package",
+        "• Part of funding will be used to match public donations up to £1m to the International Red Cross and Red Crescent "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.951
+      },
+      "moods": {
+        "brief_bullets": [
+          "• UK aid for Hurricane Melissa reaches Jamaica as Britons to be evacuated",
+          "• Flight brings more than 3,000 shelter kits as part of a £7.5m regional emergency package"
+        ],
+        "hopeful_bullets": [
+          "• UK aid for Hurricane Melissa reaches Jamaica as Britons to be evacuated",
+          "• Flight brings more than 3,000 shelter kits as part of a £7.5m regional emergency package"
+        ],
+        "stakes_bullets": [
+          "• Part of funding will be used to match public donations up to £1m to the International Red Cross and Red Crescent "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e1d6ecb5538b"
     },
     {
       "id": "99ff82b4a881",
@@ -2596,38 +2662,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "fcbe3afcb964"
-    },
-    {
-      "id": "c1fad3c41a15",
-      "title": "Two more charged over Louvre jewellery heist",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgkk1mkg0po?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 01 Nov 2025 16:56:17 GMT",
-      "bullets": [
-        "• Two more people have been charged over a theft at the Louvre Museum in Paris last month",
-        "• A 38-year-old woman, who has not been named, is being prosecuted for complicity in organised theft and criminal conspiracy",
-        "• Jewels worth €88m (£76m) were taken from the world's most-visited museum on 19 October "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Two more people have been charged over a theft at the Louvre Museum in Paris last month",
-          "• A 38-year-old woman, who has not been named, is being prosecuted for complicity in organised theft and criminal conspiracy"
-        ],
-        "hopeful_bullets": [
-          "• Two more people have been charged over a theft at the Louvre Museum in Paris last month",
-          "• A 38-year-old woman, who has not been named, is being prosecuted for complicity in organised theft and criminal conspiracy"
-        ],
-        "stakes_bullets": [
-          "• A 38-year-old woman, who has not been named, is being prosecuted for complicity in organised theft and criminal conspiracy"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "76ad589ce4b2"
     },
     {
       "id": "3182903e1c36",
@@ -3176,8 +3210,9 @@
       "url": "https://www.theguardian.com/us-news/2025/nov/01/michigan-mormon-church-shooter",
       "published_at": "Sat, 01 Nov 2025 13:39:47 GMT",
       "bullets": [
-        "• Four people have been killed in the attack on a church in Grand Rapids, Michigan",
-        "• The attack is believed to have been motivated by ‘anti-religious beliefs’ Police say the attack was an act of violence against the church of Jesus Christ of Latter Day Jesus Christ "
+        "• Four people have been killed in an arson attack on a church in Michigan",
+        "• The attack is believed to have been motivated by ‘anti-religious beliefs’ The attack was carried out by a man who set fire to the church",
+        "• Police say the attack was motivated by an act of terrorism "
       ],
       "category": "US",
       "sentiment": {
@@ -3186,15 +3221,17 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Four people have been killed in the attack on a church in Grand Rapids, Michigan",
-          "• The attack is believed to have been motivated by ‘anti-religious beliefs’ Police say the attack was an act of violence against the church of Jesus Christ of Latter Day Jesus Christ "
+          "• Four people have been killed in an arson attack on a church in Michigan",
+          "• The attack is believed to have been motivated by ‘anti-religious beliefs’ The attack was carried out by a man who set fire to the church"
         ],
         "hopeful_bullets": [
-          "• The attack is believed to have been motivated by ‘anti-religious beliefs’ Police say the attack was an act of violence against the church of Jesus Christ of Latter Day Jesus Christ "
+          "• Four people have been killed in an arson attack on a church in Michigan",
+          "• The attack is believed to have been motivated by ‘anti-religious beliefs’ The attack was carried out by a man who set fire to the church"
         ],
         "stakes_bullets": [
-          "• Four people have been killed in the attack on a church in Grand Rapids, Michigan",
-          "• The attack is believed to have been motivated by ‘anti-religious beliefs’ Police say the attack was an act of violence against the church of Jesus Christ of Latter Day Jesus Christ "
+          "• Four people have been killed in an arson attack on a church in Michigan",
+          "• The attack is believed to have been motivated by ‘anti-religious beliefs’ The attack was carried out by a man who set fire to the church",
+          "• Police say the attack was motivated by an act of terrorism "
         ]
       },
       "read_minutes": 3,
@@ -3207,31 +3244,31 @@
       "url": "https://www.wired.com/story/best-rain-jackets/",
       "published_at": "Sat, 01 Nov 2025 13:30:00 +0000",
       "bullets": [
-        "• The best rain jackets today are more comfortable and watertight than ever thanks to advances in weatherproof textiles and apparel design",
-        "• Sorting through different styles, technologies, and waterproof ratings can be confusing",
-        "• WIRED's Best Umbrellas, Best Puffer Jackets, Best Running Shorts, and Best Merino Wool Clothes "
+        "• The best rain jackets today are more comfortable and watertight than ever, thanks to advances in weatherproof textiles and apparel design",
+        "• But sorting through different styles, technologies, and waterproof ratings can be confusing",
+        "• The best overall rain jacket is Arc'teryx Beta SL "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.995
+        "score": 0.982
       },
       "moods": {
         "brief_bullets": [
-          "• The best rain jackets today are more comfortable and watertight than ever thanks to advances in weatherproof textiles and apparel design",
-          "• Sorting through different styles, technologies, and waterproof ratings can be confusing"
+          "• The best rain jackets today are more comfortable and watertight than ever, thanks to advances in weatherproof textiles and apparel design",
+          "• But sorting through different styles, technologies, and waterproof ratings can be confusing"
         ],
         "hopeful_bullets": [
-          "• The best rain jackets today are more comfortable and watertight than ever thanks to advances in weatherproof textiles and apparel design",
-          "• Sorting through different styles, technologies, and waterproof ratings can be confusing"
+          "• The best rain jackets today are more comfortable and watertight than ever, thanks to advances in weatherproof textiles and apparel design",
+          "• But sorting through different styles, technologies, and waterproof ratings can be confusing"
         ],
         "stakes_bullets": [
-          "• The best rain jackets today are more comfortable and watertight than ever thanks to advances in weatherproof textiles and apparel design",
-          "• Sorting through different styles, technologies, and waterproof ratings can be confusing",
-          "• WIRED's Best Umbrellas, Best Puffer Jackets, Best Running Shorts, and Best Merino Wool Clothes "
+          "• The best rain jackets today are more comfortable and watertight than ever, thanks to advances in weatherproof textiles and apparel design",
+          "• But sorting through different styles, technologies, and waterproof ratings can be confusing",
+          "• The best overall rain jacket is Arc'teryx Beta SL "
         ]
       },
-      "read_minutes": 14,
+      "read_minutes": 18,
       "cluster_id": "6e993fda1169"
     },
     {
@@ -4526,9 +4563,77 @@
       "cluster_id": "a258cee7f2c2"
     },
     {
+      "id": "4fcb495b82f6",
+      "title": "How one legal team is building support for people with cognitive disabilities",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/01/nx-s1-5582617/cognitive-disabilities-diversion",
+      "published_at": "Sat, 01 Nov 2025 05:00:00 -0400",
+      "bullets": [
+        "• People with disabilities are overrepresented in prisons and jails, studies show",
+        "• A Los Angeles public defender's team is trying to break that pattern",
+        "• It's a pioneering effort built on the premise that prison is not always the right place for people with disabilities "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• People with disabilities are overrepresented in prisons and jails, studies show",
+          "• A Los Angeles public defender's team is trying to break that pattern"
+        ],
+        "hopeful_bullets": [
+          "• People with disabilities are overrepresented in prisons and jails, studies show",
+          "• A Los Angeles public defender's team is trying to break that pattern"
+        ],
+        "stakes_bullets": [
+          "• People with disabilities are overrepresented in prisons and jails, studies show",
+          "• A Los Angeles public defender's team is trying to break that pattern",
+          "• It's a pioneering effort built on the premise that prison is not always the right place for people with disabilities "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "5899c3369b98"
+    },
+    {
+      "id": "d56a4152d284",
+      "title": "Fewer students are missing school. These state policies may have helped",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/01/nx-s1-5576453/schools-absenteeism-states-pandemic",
+      "published_at": "Sat, 01 Nov 2025 05:00:00 -0400",
+      "bullets": [
+        "• The rates of chronic absenteeism in K-12 schools are showing steady signs of improvement",
+        "• A new report looks at how policies in 22 states plus Washington, D.C., have helped improve student attendance",
+        "• The rates nearly doubled during the pandemic, from 15% in 2019 to 28% in 2022 "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.703
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The rates of chronic absenteeism in K-12 schools are showing steady signs of improvement",
+          "• A new report looks at how policies in 22 states plus Washington, D.C., have helped improve student attendance"
+        ],
+        "hopeful_bullets": [
+          "• The rates of chronic absenteeism in K-12 schools are showing steady signs of improvement",
+          "• A new report looks at how policies in 22 states plus Washington, D.C., have helped improve student attendance"
+        ],
+        "stakes_bullets": [
+          "• The rates of chronic absenteeism in K-12 schools are showing steady signs of improvement",
+          "• A new report looks at how policies in 22 states plus Washington, D.C., have helped improve student attendance",
+          "• The rates nearly doubled during the pandemic, from 15% in 2019 to 28% in 2022 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a395d5df63f3"
+    },
+    {
       "id": "3c0813508e1e",
       "title": "With the outlook for SNAP benefits uncertain, food banks are warning of a crisis",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/11/01/nx-s1-5591434/snap-benefits-food-banks",
       "published_at": "Sat, 01 Nov 2025 05:00:00 -0400",
       "bullets": [
@@ -4537,7 +4642,7 @@
         "• A federal judge in Rhode Island ordered the White House to use contingency funds to pay for those benefits",
         "• It was unclear how that decision would correspond with a separate decision by a judge in Massachusetts "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -4563,7 +4668,7 @@
     {
       "id": "dc2f7d57103d",
       "title": "Election Day is Tuesday. Here are 5 questions about what the results might mean",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/11/01/nx-s1-5593453/election-day-results-questions",
       "published_at": "Sat, 01 Nov 2025 05:00:00 -0400",
       "bullets": [
@@ -4571,7 +4676,7 @@
         "• Republicans lost 40 House seats in the first midterm election in 2018",
         "• Democrats have been trying to use Trump a lot in the election, but have largely avoided him "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.993
@@ -4591,40 +4696,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "0007923bcb75"
-    },
-    {
-      "id": "d56a4152d284",
-      "title": "Fewer students are missing school. These state policies may have helped",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/01/nx-s1-5576453/schools-absenteeism-states-pandemic",
-      "published_at": "Sat, 01 Nov 2025 05:00:00 -0400",
-      "bullets": [
-        "• The rates of chronic absenteeism in K-12 schools are showing steady signs of improvement",
-        "• A new report looks at how policies in 22 states plus Washington, D.C., have helped improve student attendance",
-        "• The rates nearly doubled during the pandemic, from 15% in 2019 to 28% in 2022 "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.703
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The rates of chronic absenteeism in K-12 schools are showing steady signs of improvement",
-          "• A new report looks at how policies in 22 states plus Washington, D.C., have helped improve student attendance"
-        ],
-        "hopeful_bullets": [
-          "• The rates of chronic absenteeism in K-12 schools are showing steady signs of improvement",
-          "• A new report looks at how policies in 22 states plus Washington, D.C., have helped improve student attendance"
-        ],
-        "stakes_bullets": [
-          "• The rates of chronic absenteeism in K-12 schools are showing steady signs of improvement",
-          "• A new report looks at how policies in 22 states plus Washington, D.C., have helped improve student attendance",
-          "• The rates nearly doubled during the pandemic, from 15% in 2019 to 28% in 2022 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a395d5df63f3"
     },
     {
       "id": "0d753c5c4683",
@@ -5544,41 +5615,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "6499f22ae4e8"
-    },
-    {
-      "id": "c04fc7dbef5d",
-      "title": "Hotel owner and 10 others jailed for life over deadly Turkish fire",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c7977nlzvgpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 31 Oct 2025 21:31:52 GMT",
-      "bullets": [
-        "• The Grand Kartal Hotel in Bolu, Turkey, was the deadliest fire in the country's history",
-        "• 78 people were killed in the blaze, including 34 children",
-        "• The owner of the hotel and 10 others have been sentenced to life in prison",
-        "• The fire broke out during school holidays in January "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.94
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Grand Kartal Hotel in Bolu, Turkey, was the deadliest fire in the country's history",
-          "• 78 people were killed in the blaze, including 34 children"
-        ],
-        "hopeful_bullets": [
-          "• The Grand Kartal Hotel in Bolu, Turkey, was the deadliest fire in the country's history",
-          "• 78 people were killed in the blaze, including 34 children"
-        ],
-        "stakes_bullets": [
-          "• The Grand Kartal Hotel in Bolu, Turkey, was the deadliest fire in the country's history",
-          "• 78 people were killed in the blaze, including 34 children",
-          "• The owner of the hotel and 10 others have been sentenced to life in prison"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "f1a2fee595d0"
     },
     {
       "id": "db020075a737",
@@ -9190,6 +9226,24 @@
       ]
     },
     {
+      "id": "e1d6ecb5538b",
+      "topic": "aid briton hurricane jamaica",
+      "keywords": [
+        "aid",
+        "briton",
+        "hurricane",
+        "jamaica",
+        "melissa",
+        "reache"
+      ],
+      "item_ids": [
+        "db6cd4edab51"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "158fd64eb250",
       "topic": "defence donba priority special",
       "keywords": [
@@ -9326,24 +9380,6 @@
       ],
       "item_ids": [
         "c079a3bdc48b"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "f1a2fee595d0",
-      "topic": "deadly hotel jailed life",
-      "keywords": [
-        "deadly",
-        "hotel",
-        "jailed",
-        "life",
-        "other",
-        "owner"
-      ],
-      "item_ids": [
-        "c04fc7dbef5d"
       ],
       "outlets": [
         "BBC News"
@@ -9836,36 +9872,36 @@
       ]
     },
     {
-      "id": "5a6777e4afc8",
-      "topic": "bank benefit food outlook",
+      "id": "5899c3369b98",
+      "topic": "building cognitive legal people",
       "keywords": [
-        "bank",
-        "benefit",
-        "food",
-        "outlook",
-        "snap",
-        "uncertain"
+        "building",
+        "cognitive",
+        "legal",
+        "people",
+        "support",
+        "team"
       ],
       "item_ids": [
-        "3c0813508e1e"
+        "4fcb495b82f6"
       ],
       "outlets": [
         "NPR Topics: News"
       ]
     },
     {
-      "id": "0007923bcb75",
-      "topic": "day election here question",
+      "id": "a395d5df63f3",
+      "topic": "fewer missing school state",
       "keywords": [
-        "day",
-        "election",
-        "here",
-        "question",
-        "result",
-        "tuesday"
+        "fewer",
+        "missing",
+        "school",
+        "state",
+        "student",
+        "these"
       ],
       "item_ids": [
-        "dc2f7d57103d"
+        "d56a4152d284"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10764,24 +10800,6 @@
       ]
     },
     {
-      "id": "a395d5df63f3",
-      "topic": "fewer missing school state",
-      "keywords": [
-        "fewer",
-        "missing",
-        "school",
-        "state",
-        "student",
-        "these"
-      ],
-      "item_ids": [
-        "d56a4152d284"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "93f161cad5eb",
       "topic": "comet excited interstellar scientist",
       "keywords": [
@@ -10916,6 +10934,42 @@
       ],
       "item_ids": [
         "424e0f39aec5"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "5a6777e4afc8",
+      "topic": "bank benefit food outlook",
+      "keywords": [
+        "bank",
+        "benefit",
+        "food",
+        "outlook",
+        "snap",
+        "uncertain"
+      ],
+      "item_ids": [
+        "3c0813508e1e"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "0007923bcb75",
+      "topic": "day election here question",
+      "keywords": [
+        "day",
+        "election",
+        "here",
+        "question",
+        "result",
+        "tuesday"
+      ],
+      "item_ids": [
+        "dc2f7d57103d"
       ],
       "outlets": [
         "NPR Topics: Politics"
