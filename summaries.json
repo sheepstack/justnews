@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-01T00:12:25Z",
+  "generated_at": "2025-11-01T02:36:07Z",
   "items": [
     {
       "id": "d7516b7ee302",
@@ -1040,40 +1040,6 @@
       },
       "read_minutes": 40,
       "cluster_id": "3041f5367d34"
-    },
-    {
-      "id": "36d5098fd476",
-      "title": "Texas freezes program to help minority-owned businesses",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17200260/texas-comptroller-hub-program-frozen-minority-business-contracts-dei",
-      "published_at": "Thu, 30 Oct 2025 22:52:45 +0000",
-      "bullets": [
-        "• Texas Comptroller of Public Accounts freezes Historically Underutilized Business program",
-        "• Program gives exposure to businesses owned by women, minorities and disabled veterans seeking state contracts",
-        "• Comptroller's office says it is pausing the issuance of all new and renewed certifications for state procurement "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.947
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Texas Comptroller of Public Accounts freezes Historically Underutilized Business program",
-          "• Program gives exposure to businesses owned by women, minorities and disabled veterans seeking state contracts"
-        ],
-        "hopeful_bullets": [
-          "• Texas Comptroller of Public Accounts freezes Historically Underutilized Business program",
-          "• Program gives exposure to businesses owned by women, minorities and disabled veterans seeking state contracts"
-        ],
-        "stakes_bullets": [
-          "• Texas Comptroller of Public Accounts freezes Historically Underutilized Business program",
-          "• Program gives exposure to businesses owned by women, minorities and disabled veterans seeking state contracts",
-          "• Comptroller's office says it is pausing the issuance of all new and renewed certifications for state procurement "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "4904be6f3010"
     },
     {
       "id": "412ba0525866",
@@ -2725,15 +2691,277 @@
       "cluster_id": "ce288799fa10"
     },
     {
-      "id": "2e48b84a6d82",
-      "title": "25 Years Later, Gilmore Girls Fans Are Still Haunted by How Badly 1 Character Was Handled",
+      "id": "89f3738a4489",
+      "title": "10 Mystery Shows That Hook You in the First 5 Minutes",
       "outlet": "CBR",
-      "url": "https://www.cbr.com/gilmore-girls-paris-geller-poorly-handled-character/",
-      "published_at": "Sat, 01 Nov 2025 00:00:13 GMT",
+      "url": "https://www.cbr.com/mystery-shows-hook-you-in-5-minutes/",
+      "published_at": "Sat, 01 Nov 2025 02:30:13 GMT",
       "bullets": [
-        "• Nearly 20 years after its conclusion, the drama-comedy series is still a major hit",
-        "• It has a bad reputation for poorly developing and handling popular side characters",
-        "• One poorly handled character storyline that still haunts viewers is Paris Geller, who had an entertaining and thought-provoking personality "
+        "• Mystery shows are dependent on starting with a shocking event, which is usually the first clue to unveiling the big question behind the story",
+        "• Even when the opening sequence of a pilot is cliché, it can still hit hard depending on how that situation is performed, shot, and edited "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mystery shows are dependent on starting with a shocking event, which is usually the first clue to unveiling the big question behind the story",
+          "• Even when the opening sequence of a pilot is cliché, it can still hit hard depending on how that situation is performed, shot, and edited "
+        ],
+        "hopeful_bullets": [
+          "• Mystery shows are dependent on starting with a shocking event, which is usually the first clue to unveiling the big question behind the story",
+          "• Even when the opening sequence of a pilot is cliché, it can still hit hard depending on how that situation is performed, shot, and edited "
+        ],
+        "stakes_bullets": [
+          "• Mystery shows are dependent on starting with a shocking event, which is usually the first clue to unveiling the big question behind the story",
+          "• Even when the opening sequence of a pilot is cliché, it can still hit hard depending on how that situation is performed, shot, and edited "
+        ]
+      },
+      "read_minutes": 13,
+      "cluster_id": "017349a1e018"
+    },
+    {
+      "id": "265f7c057ed8",
+      "title": "This Superhero Show Already Beat Out The Boys for the Best TV Finale of the 2020s",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/mha-seaso-8-better-finale-the-boys-season-5/",
+      "published_at": "Sat, 01 Nov 2025 02:15:12 GMT",
+      "bullets": [
+        "• My Hero Academia has spent the decade ascending into hope",
+        "• The series has shown that sincerity can also be radical",
+        "• The finale feels climactic and satisfying",
+        "• The pointed message is that idealism need not die simply because the genre has become a little jaded "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• My Hero Academia has spent the decade ascending into hope",
+          "• The series has shown that sincerity can also be radical"
+        ],
+        "hopeful_bullets": [
+          "• My Hero Academia has spent the decade ascending into hope"
+        ],
+        "stakes_bullets": [
+          "• The pointed message is that idealism need not die simply because the genre has become a little jaded "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "46202667003a"
+    },
+    {
+      "id": "6fd9cd0c9b97",
+      "title": "Scavenging for food in streets - desperation takes hold in Jamaica after hurricane",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0jdd186l0go?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 01 Nov 2025 02:00:55 GMT",
+      "bullets": [
+        "• Black River, Jamaica, is ground zero in the devastation of Hurricane Melissa",
+        "• Residents have been living in a state of chaos for three days since the storm hit",
+        "• They are desperate and isolated with no electricity or running water",
+        "• Some residents climbed on top of one partially destroyed market to find water and food "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Black River, Jamaica, is ground zero in the devastation of Hurricane Melissa",
+          "• Residents have been living in a state of chaos for three days since the storm hit"
+        ],
+        "hopeful_bullets": [
+          "• Black River, Jamaica, is ground zero in the devastation of Hurricane Melissa",
+          "• Residents have been living in a state of chaos for three days since the storm hit"
+        ],
+        "stakes_bullets": [
+          "• Black River, Jamaica, is ground zero in the devastation of Hurricane Melissa",
+          "• Residents have been living in a state of chaos for three days since the storm hit",
+          "• They are desperate and isolated with no electricity or running water"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "6fa3dc13df95"
+    },
+    {
+      "id": "6579a494c5bd",
+      "title": "The New Event Horizon Prequel Series is Just as Disturbing as the 28-Year-Old Cult Classic",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/event-horizon-prequel-review-dark-descent/",
+      "published_at": "Sat, 01 Nov 2025 01:58:20 GMT",
+      "bullets": [
+        "• Event Horizon: Dark Descent #1-2 are by writer Christian Ward, artist Tristan Jones, colorist Pip Martin, and letterer Alex Ray",
+        "• The issue is a prequel to the film, Event Horizon, showing exactly what happens to the crew of the ship",
+        "• The one major character who is in both the film and the series is Billy Weir, the man who designed the special gravity drive that theoretically was supposed to allow them to transform through space and time "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Event Horizon: Dark Descent #1-2 are by writer Christian Ward, artist Tristan Jones, colorist Pip Martin, and letterer Alex Ray",
+          "• The issue is a prequel to the film, Event Horizon, showing exactly what happens to the crew of the ship"
+        ],
+        "hopeful_bullets": [
+          "• The issue is a prequel to the film, Event Horizon, showing exactly what happens to the crew of the ship"
+        ],
+        "stakes_bullets": [
+          "• The one major character who is in both the film and the series is Billy Weir, the man who designed the special gravity drive that theoretically was supposed to allow them to transform through space and time "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "eccbc5a9cd2d"
+    },
+    {
+      "id": "d35cd00f62d5",
+      "title": "New York judge dismisses Ken Paxton’s legal challenge in abortion pills case",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17200934/texas-lawsuit-new-york-abortion-provider-shield-law-ken-paxton",
+      "published_at": "Sat, 01 Nov 2025 01:32:59 +0000",
+      "bullets": [
+        "• Texas sought to enforce a more than $100,000 civil judgment against Dr",
+        "• Margaret Carpenter for allegedly prescribing abortion medication via telemedicine",
+        "• But Ulster County Clerk Taylor Bruck refused to file the judgment, saying he was a government employee who had to comply with New York’s shield law "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Texas sought to enforce a more than $100,000 civil judgment against Dr",
+          "• Margaret Carpenter for allegedly prescribing abortion medication via telemedicine"
+        ],
+        "hopeful_bullets": [
+          "• Texas sought to enforce a more than $100,000 civil judgment against Dr"
+        ],
+        "stakes_bullets": [
+          "• Texas sought to enforce a more than $100,000 civil judgment against Dr",
+          "• Margaret Carpenter for allegedly prescribing abortion medication via telemedicine",
+          "• But Ulster County Clerk Taylor Bruck refused to file the judgment, saying he was a government employee who had to comply with New York’s shield law "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7509a96534a5"
+    },
+    {
+      "id": "812ad3319f33",
+      "title": "26 Years Later, The Sopranos’ Ending Finally Makes Sense — But Only If You Rewatch It Now",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/sopranos-ending-actually-makes-sense-rewatch-2025/",
+      "published_at": "Sat, 01 Nov 2025 01:30:13 GMT",
+      "bullets": [
+        "• The Sopranos aired its finale, \"Made in America,\" on June 10, 2007",
+        "• After ten full seconds of silence, the screen cut to black",
+        "• David Chase's artistic choice split audiences down the middle",
+        "• Some hailed the fade to black as genius",
+        "• Others felt cheated "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Sopranos aired its finale, \"Made in America,\" on June 10, 2007",
+          "• After ten full seconds of silence, the screen cut to black"
+        ],
+        "hopeful_bullets": [
+          "• The Sopranos aired its finale, \"Made in America,\" on June 10, 2007",
+          "• After ten full seconds of silence, the screen cut to black"
+        ],
+        "stakes_bullets": [
+          "• After ten full seconds of silence, the screen cut to black"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "397e4f2e3c99"
+    },
+    {
+      "id": "efd414817701",
+      "title": "5 Best-Written Horror Anime You Can Binge All Of This Weekend",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-horror-anime-binge-halloween-2025/",
+      "published_at": "Sat, 01 Nov 2025 01:29:40 GMT",
+      "bullets": [
+        "• Some of the best horror anime series condense their greatness into a small batch of episodes that’s easy to binge-watch during a weekend",
+        "• The 13-episode Paranoia Agent attempts to unlock the mystery around Shonen Bat, an armed assailant who has attacked a small Tokyo community "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Some of the best horror anime series condense their greatness into a small batch of episodes that’s easy to binge-watch during a weekend",
+          "• The 13-episode Paranoia Agent attempts to unlock the mystery around Shonen Bat, an armed assailant who has attacked a small Tokyo community "
+        ],
+        "hopeful_bullets": [
+          "• Some of the best horror anime series condense their greatness into a small batch of episodes that’s easy to binge-watch during a weekend",
+          "• The 13-episode Paranoia Agent attempts to unlock the mystery around Shonen Bat, an armed assailant who has attacked a small Tokyo community "
+        ],
+        "stakes_bullets": [
+          "• Some of the best horror anime series condense their greatness into a small batch of episodes that’s easy to binge-watch during a weekend",
+          "• The 13-episode Paranoia Agent attempts to unlock the mystery around Shonen Bat, an armed assailant who has attacked a small Tokyo community "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "ee986b7dbafc"
+    },
+    {
+      "id": "1ffa8ef24710",
+      "title": "Trump news at a glance: Friday rulings hamper administration on food stamps, voting access",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/31/trump-administration-news-updates-today",
+      "published_at": "Sat, 01 Nov 2025 01:01:09 GMT",
+      "bullets": [
+        "• President Trump received a trio of legal setbacks Friday related to the government shutdown and his attempts to tweak voting access in US elections",
+        "• Two federal judges issued back-to-back rulings in separate cases ordering the administration to use contingency funds to continue paying for food stamps "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Trump received a trio of legal setbacks Friday related to the government shutdown and his attempts to tweak voting access in US elections",
+          "• Two federal judges issued back-to-back rulings in separate cases ordering the administration to use contingency funds to continue paying for food stamps "
+        ],
+        "hopeful_bullets": [
+          "• President Trump received a trio of legal setbacks Friday related to the government shutdown and his attempts to tweak voting access in US elections",
+          "• Two federal judges issued back-to-back rulings in separate cases ordering the administration to use contingency funds to continue paying for food stamps "
+        ],
+        "stakes_bullets": [
+          "• President Trump received a trio of legal setbacks Friday related to the government shutdown and his attempts to tweak voting access in US elections",
+          "• Two federal judges issued back-to-back rulings in separate cases ordering the administration to use contingency funds to continue paying for food stamps "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f2e5555dbc64"
+    },
+    {
+      "id": "89cc95e7722f",
+      "title": "Avengers: Doomsday Already Is Making a Major Mistake With an OG Avenger",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/avengers-doomsday-major-mistake-jeremy-renner-hawkeye/",
+      "published_at": "Sat, 01 Nov 2025 01:00:12 GMT",
+      "bullets": [
+        "• Marvel's fifth movie, The Avengers: Doomsday, will not be released this month",
+        "• Fans have voiced concerns about the lack of a return to the original team-up",
+        "• The film is set to be released in 2015",
+        "• It will be a two-part finale of the Marvel Cinematic Universe's long-running series "
       ],
       "category": "Comics",
       "sentiment": {
@@ -2742,21 +2970,183 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Nearly 20 years after its conclusion, the drama-comedy series is still a major hit",
-          "• It has a bad reputation for poorly developing and handling popular side characters"
+          "• Marvel's fifth movie, The Avengers: Doomsday, will not be released this month",
+          "• Fans have voiced concerns about the lack of a return to the original team-up"
         ],
         "hopeful_bullets": [
-          "• Nearly 20 years after its conclusion, the drama-comedy series is still a major hit",
-          "• It has a bad reputation for poorly developing and handling popular side characters"
+          "• Marvel's fifth movie, The Avengers: Doomsday, will not be released this month",
+          "• Fans have voiced concerns about the lack of a return to the original team-up"
         ],
         "stakes_bullets": [
-          "• Nearly 20 years after its conclusion, the drama-comedy series is still a major hit",
-          "• It has a bad reputation for poorly developing and handling popular side characters",
-          "• One poorly handled character storyline that still haunts viewers is Paris Geller, who had an entertaining and thought-provoking personality "
+          "• Marvel's fifth movie, The Avengers: Doomsday, will not be released this month",
+          "• It will be a two-part finale of the Marvel Cinematic Universe's long-running series "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "53a6a3149dbc"
+    },
+    {
+      "id": "0fe9971e6d09",
+      "title": "Star Wars’ Newest Project is Perfect for the Franchise’s Biggest Milestone (And It’s Not Mandalorian & Grogu)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/star-wars-starfighter-celebrate-50th-anniversary/",
+      "published_at": "Sat, 01 Nov 2025 01:00:12 GMT",
+      "bullets": [
+        "• In the last few years, Lucasfilm's attention in the Star Wars space has been on streaming",
+        "• The Book of Boba Fett, Ahsoka, The Acolyte, Skeleton Crew, and Obi-Wan Kenobi are just some of the television projects Lucasfilm has released on Disney+",
+        "• Star Wars will relaunch its theatrical presence with The Mandalorian and Grogu next summer "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In the last few years, Lucasfilm's attention in the Star Wars space has been on streaming",
+          "• The Book of Boba Fett, Ahsoka, The Acolyte, Skeleton Crew, and Obi-Wan Kenobi are just some of the television projects Lucasfilm has released on Disney+"
+        ],
+        "hopeful_bullets": [
+          "• In the last few years, Lucasfilm's attention in the Star Wars space has been on streaming",
+          "• The Book of Boba Fett, Ahsoka, The Acolyte, Skeleton Crew, and Obi-Wan Kenobi are just some of the television projects Lucasfilm has released on Disney+"
+        ],
+        "stakes_bullets": [
+          "• Star Wars will relaunch its theatrical presence with The Mandalorian and Grogu next summer "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "409edf071b73"
+    },
+    {
+      "id": "6ebcb99adc67",
+      "title": "YouTube denies AI was involved with odd removals of tech tutorials",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/",
+      "published_at": "Sat, 01 Nov 2025 00:32:01 +0000",
+      "bullets": [
+        "• This week, tech content creators began to suspect that AI was making it harder to share some of the most sought-after tech tutorials on YouTube",
+        "• Creators grew alarmed when videos that YouTube had allowed for years were suddenly being bizarrely flagged as “dangerous” or “harmful” with seemingly no way to trigger human review to overturn removals",
+        "• A YouTube spokesperson confirmed that videos flagged by Ars have been reinstated "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• This week, tech content creators began to suspect that AI was making it harder to share some of the most sought-after tech tutorials on YouTube",
+          "• Creators grew alarmed when videos that YouTube had allowed for years were suddenly being bizarrely flagged as “dangerous” or “harmful” with seemingly no way to trigger human review to overturn removals"
+        ],
+        "hopeful_bullets": [
+          "• This week, tech content creators began to suspect that AI was making it harder to share some of the most sought-after tech tutorials on YouTube",
+          "• Creators grew alarmed when videos that YouTube had allowed for years were suddenly being bizarrely flagged as “dangerous” or “harmful” with seemingly no way to trigger human review to overturn removals"
+        ],
+        "stakes_bullets": [
+          "• This week, tech content creators began to suspect that AI was making it harder to share some of the most sought-after tech tutorials on YouTube",
+          "• Creators grew alarmed when videos that YouTube had allowed for years were suddenly being bizarrely flagged as “dangerous” or “harmful” with seemingly no way to trigger human review to overturn removals",
+          "• A YouTube spokesperson confirmed that videos flagged by Ars have been reinstated "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "bc05e1ffe9b9"
+    },
+    {
+      "id": "fa8d49f427a3",
+      "title": "Silent Demon Slayer Protagonist Lands Loud New Role in Upcoming 2026 Series",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/demon-slayer-nezuko-va-new-role-scum-of-brave/",
+      "published_at": "Sat, 01 Nov 2025 00:31:56 GMT",
+      "bullets": [
+        "• Scum of the Brave anime is a futuristic action series set for release in 2026",
+        "• Akari Kito is the silent star of Demon Slayer and the voice behind Nezuko Kamado",
+        "• Kito will star as Aki Jogamine, a self-proclaimed prodigy who acts first and thinks later "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.919
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scum of the Brave anime is a futuristic action series set for release in 2026",
+          "• Akari Kito is the silent star of Demon Slayer and the voice behind Nezuko Kamado"
+        ],
+        "hopeful_bullets": [
+          "• Scum of the Brave anime is a futuristic action series set for release in 2026",
+          "• Akari Kito is the silent star of Demon Slayer and the voice behind Nezuko Kamado"
+        ],
+        "stakes_bullets": [
+          "• Kito will star as Aki Jogamine, a self-proclaimed prodigy who acts first and thinks later "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "b4b278bc8e81"
+    },
+    {
+      "id": "6b8a43496bde",
+      "title": "Idle Game With Farming Is Blowing Up On Steam",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-new-idle-games-steam-famer-was-replaced/",
+      "published_at": "Sat, 01 Nov 2025 00:30:13 GMT",
+      "bullets": [
+        "• The Farmer Was Replaced is a new indie game with farming from developer Timon Herzog",
+        "• Players replace a farmer with a drone that can handle tasks like planting seeds and watering crops",
+        "• It's still an idle game, but players will have to set up the drone to handle various tasks on their own "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Farmer Was Replaced is a new indie game with farming from developer Timon Herzog",
+          "• Players replace a farmer with a drone that can handle tasks like planting seeds and watering crops"
+        ],
+        "hopeful_bullets": [
+          "• The Farmer Was Replaced is a new indie game with farming from developer Timon Herzog",
+          "• Players replace a farmer with a drone that can handle tasks like planting seeds and watering crops"
+        ],
+        "stakes_bullets": [
+          "• Players replace a farmer with a drone that can handle tasks like planting seeds and watering crops",
+          "• It's still an idle game, but players will have to set up the drone to handle various tasks on their own "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "74718ec40aea"
+    },
+    {
+      "id": "7c39a973c834",
+      "title": "8 Mob Movies Better Than The Godfather",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/8-mob-movies-better-than-the-godfather/",
+      "published_at": "Sat, 01 Nov 2025 00:30:13 GMT",
+      "bullets": [
+        "• The Godfather redefined the gangster genre with operatic storytelling, complex morality, and unforgettable performances",
+        "• The world of organized crime has produced a rich lineup of films that explore the mob’s allure, brutality, and contradictions in equally powerful ways "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Godfather redefined the gangster genre with operatic storytelling, complex morality, and unforgettable performances",
+          "• The world of organized crime has produced a rich lineup of films that explore the mob’s allure, brutality, and contradictions in equally powerful ways "
+        ],
+        "hopeful_bullets": [
+          "• The Godfather redefined the gangster genre with operatic storytelling, complex morality, and unforgettable performances",
+          "• The world of organized crime has produced a rich lineup of films that explore the mob’s allure, brutality, and contradictions in equally powerful ways "
+        ],
+        "stakes_bullets": [
+          "• The Godfather redefined the gangster genre with operatic storytelling, complex morality, and unforgettable performances",
+          "• The world of organized crime has produced a rich lineup of films that explore the mob’s allure, brutality, and contradictions in equally powerful ways "
         ]
       },
       "read_minutes": 7,
-      "cluster_id": "b7e51aa4c686"
+      "cluster_id": "66e3cd26134a"
     },
     {
       "id": "40236a8d776a",
@@ -2926,6 +3316,42 @@
       "cluster_id": "66fb3583ebdb"
     },
     {
+      "id": "96a88ae15af3",
+      "title": "17 statewide propositions are on Texans’ ballots Tuesday. Here’s what voters need to know.",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17168060/texas-statewide-propositions-november-ballot-election",
+      "published_at": "Mon, 22 Sep 2025 10:00:00 +0000",
+      "bullets": [
+        "• Early voting begins Monday and runs through Oct",
+        "• 4",
+        "• Voters will have final say on 17 constitutional amendments",
+        "• The state's budget includes $51 billion for property tax cuts",
+        "• Some lawmakers have raised concerns that more tax cuts could be harmful to the state "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.963
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Early voting begins Monday and runs through Oct",
+          "• 4"
+        ],
+        "hopeful_bullets": [
+          "• Early voting begins Monday and runs through Oct",
+          "• 4"
+        ],
+        "stakes_bullets": [
+          "• Voters will have final say on 17 constitutional amendments",
+          "• The state's budget includes $51 billion for property tax cuts",
+          "• Some lawmakers have raised concerns that more tax cuts could be harmful to the state "
+        ]
+      },
+      "read_minutes": 20,
+      "cluster_id": "dd80de267c62"
+    },
+    {
       "id": "1b037cbd2fa0",
       "title": "How the Force can Fix the World w/ Stephen Kent – SWR #482",
       "outlet": "The Star Wars Report Podcast",
@@ -2993,133 +3419,37 @@
       "cluster_id": "b235c16fb40e"
     },
     {
-      "id": "ea4cd2ca10a5",
-      "title": "50 Years Ago, Captain America's Creator had a Triumphant Return to the Hero",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/captain-america-jack-kirby-return-madbomb/",
-      "published_at": "Fri, 31 Oct 2025 23:48:33 GMT",
+      "id": "76a4ea7b19c2",
+      "title": "Musk teases Tesla Roadster demo by year-end. He's been hyping a new one since 2017",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/31/musk-teases-tesla-roadster-demo-this-year-been-hyping-it-since-2017.html",
+      "published_at": "Fri, 31 Oct 2025 23:53:25 GMT",
       "bullets": [
-        "• In every Look Back, we examine a comic book issue from 10/25/50 years ago (plus a wild card every month with a fifth week in it) This time around, we head to October 1975 to see the start of Jack Kirby's triumphant return to Captain America "
+        "• Tesla CEO Elon Musk says a next-generation Roadster is on the way",
+        "• He declined to share updated technical or design details on the vehicle",
+        "• Musk said the car \"has a shot at being the most memorable product unveil ever\" Tesla is aiming to show off the updated Roadster \"hopefully before the end of the year\""
       ],
-      "category": "Comics",
+      "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In every Look Back, we examine a comic book issue from 10/25/50 years ago (plus a wild card every month with a fifth week in it) This time around, we head to October 1975 to see the start of Jack Kirby's triumphant return to Captain America "
-        ],
-        "hopeful_bullets": [
-          "• In every Look Back, we examine a comic book issue from 10/25/50 years ago (plus a wild card every month with a fifth week in it) This time around, we head to October 1975 to see the start of Jack Kirby's triumphant return to Captain America "
-        ],
-        "stakes_bullets": [
-          "• In every Look Back, we examine a comic book issue from 10/25/50 years ago (plus a wild card every month with a fifth week in it) This time around, we head to October 1975 to see the start of Jack Kirby's triumphant return to Captain America "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "55176113e37c"
-    },
-    {
-      "id": "069d115aea13",
-      "title": "Gundam Sets New Gold Standard With Major Upgrade for Master Grade Gunpla",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/zeta-gundam-hyaku-shiki-gold-gunpla/",
-      "published_at": "Fri, 31 Oct 2025 23:30:14 GMT",
-      "bullets": [
-        "• MG 1/100 Hyaku Shiki Ver.2.0 [Mechanical Core Plating] model kit",
-        "• Exclusive to the Gundam Base, it's a variant of a previous Master Grade kit for the mecha",
-        "• It also features a unique plating that puts the gleam in its gold colors "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
+        "label": "negative",
         "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• MG 1/100 Hyaku Shiki Ver.2.0 [Mechanical Core Plating] model kit",
-          "• Exclusive to the Gundam Base, it's a variant of a previous Master Grade kit for the mecha"
+          "• Tesla CEO Elon Musk says a next-generation Roadster is on the way",
+          "• He declined to share updated technical or design details on the vehicle"
         ],
         "hopeful_bullets": [
-          "• MG 1/100 Hyaku Shiki Ver.2.0 [Mechanical Core Plating] model kit",
-          "• Exclusive to the Gundam Base, it's a variant of a previous Master Grade kit for the mecha"
+          "• Musk said the car \"has a shot at being the most memorable product unveil ever\" Tesla is aiming to show off the updated Roadster \"hopefully before the end of the year\""
         ],
         "stakes_bullets": [
-          "• MG 1/100 Hyaku Shiki Ver.2.0 [Mechanical Core Plating] model kit",
-          "• Exclusive to the Gundam Base, it's a variant of a previous Master Grade kit for the mecha",
-          "• It also features a unique plating that puts the gleam in its gold colors "
+          "• Tesla CEO Elon Musk says a next-generation Roadster is on the way",
+          "• He declined to share updated technical or design details on the vehicle",
+          "• Musk said the car \"has a shot at being the most memorable product unveil ever\" Tesla is aiming to show off the updated Roadster \"hopefully before the end of the year\""
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "a6d67a1f7f41"
-    },
-    {
-      "id": "4e310faba8b1",
-      "title": "The 10 Greatest Things to Happen in X-Men Comics",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-x-men-moments-all-time/",
-      "published_at": "Fri, 31 Oct 2025 23:30:14 GMT",
-      "bullets": [
-        "• The X-Men have grown from relative unknowns to one of the most recognizable teams in Marvel Comics",
-        "• The International Team introduced five years ago",
-        "• Chris Claremont's run at the end of the run in the mid-'90s helped shape the franchise "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The X-Men have grown from relative unknowns to one of the most recognizable teams in Marvel Comics",
-          "• The International Team introduced five years ago"
-        ],
-        "hopeful_bullets": [
-          "• Chris Claremont's run at the end of the run in the mid-'90s helped shape the franchise "
-        ],
-        "stakes_bullets": [
-          "• The X-Men have grown from relative unknowns to one of the most recognizable teams in Marvel Comics",
-          "• The International Team introduced five years ago",
-          "• Chris Claremont's run at the end of the run in the mid-'90s helped shape the franchise "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "f00bf8dfa928"
-    },
-    {
-      "id": "20e32bb93f2c",
-      "title": "Jack Nicholson's The Shining Performance Remains Unmatched 45 Years Later",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/jack-nicholson-the-shining-scariest-performance/",
-      "published_at": "Fri, 31 Oct 2025 23:30:14 GMT",
-      "bullets": [
-        "• The Shining has been able to maintain a lasting impact with most audiences",
-        "• The Stephen King material was translated and dramatized in a way that only Stanley Kubrick could do",
-        "• While Kubrick's impact is obvious, The Shining also succeee "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Shining has been able to maintain a lasting impact with most audiences",
-          "• The Stephen King material was translated and dramatized in a way that only Stanley Kubrick could do"
-        ],
-        "hopeful_bullets": [
-          "• The Shining has been able to maintain a lasting impact with most audiences",
-          "• The Stephen King material was translated and dramatized in a way that only Stanley Kubrick could do"
-        ],
-        "stakes_bullets": [
-          "• The Shining has been able to maintain a lasting impact with most audiences",
-          "• The Stephen King material was translated and dramatized in a way that only Stanley Kubrick could do",
-          "• While Kubrick's impact is obvious, The Shining also succeee "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "7607fc10dd40"
+      "cluster_id": "2c8178cd48ea"
     },
     {
       "id": "1e1140991c24",
@@ -3253,40 +3583,6 @@
       "cluster_id": "261dab342cb9"
     },
     {
-      "id": "38919bac6bc5",
-      "title": "Dragon Ball Is Coming Back With a New Goku Transformation",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/dragon-ball-anime-return-new-goku-form/",
-      "published_at": "Fri, 31 Oct 2025 23:15:12 GMT",
-      "bullets": [
-        "• The Dragon Ball website announced that a two-part “super announcement” will be made by Capsule Corporation founder Akio Iyoku, regarding “new developments” for the series",
-        "• Rumors have since spread that the announcement will actually reveal 2 major new anime projects",
-        "• Dragon Ball will host a “Genkidamatsuri” event as part of its ongoing 40th anniversary celebration "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.683
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Dragon Ball website announced that a two-part “super announcement” will be made by Capsule Corporation founder Akio Iyoku, regarding “new developments” for the series",
-          "• Rumors have since spread that the announcement will actually reveal 2 major new anime projects"
-        ],
-        "hopeful_bullets": [
-          "• The Dragon Ball website announced that a two-part “super announcement” will be made by Capsule Corporation founder Akio Iyoku, regarding “new developments” for the series",
-          "• Rumors have since spread that the announcement will actually reveal 2 major new anime projects"
-        ],
-        "stakes_bullets": [
-          "• The Dragon Ball website announced that a two-part “super announcement” will be made by Capsule Corporation founder Akio Iyoku, regarding “new developments” for the series",
-          "• Rumors have since spread that the announcement will actually reveal 2 major new anime projects",
-          "• Dragon Ball will host a “Genkidamatsuri” event as part of its ongoing 40th anniversary celebration "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "63d228e2d24f"
-    },
-    {
       "id": "c24612ca4a52",
       "title": "Kelly Osbourne’s Son Recreates Grandpa Ozzy’s Wild Bat Incident in Adorable Video",
       "outlet": "Music News",
@@ -3320,39 +3616,6 @@
       "cluster_id": "5c1660d8c320"
     },
     {
-      "id": "ff9c9509a50b",
-      "title": "Glen Powell's Blunt Reason For Never Wanting to Do a Marvel or DC Movie",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/glen-powell-odds-of-doing-marvel-mcu-movie-nova/",
-      "published_at": "Fri, 31 Oct 2025 23:09:17 GMT",
-      "bullets": [
-        "• Glenn Powell is not interested in taking on the role of Nova in the Marvel Cinemas",
-        "• The Top Gun: Maverick star wants to play an ordinary guy against extraordinary odds",
-        "• He wants to stick with roles that are more grounded and relatable than the DCU "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Glenn Powell is not interested in taking on the role of Nova in the Marvel Cinemas",
-          "• The Top Gun: Maverick star wants to play an ordinary guy against extraordinary odds"
-        ],
-        "hopeful_bullets": [
-          "• The Top Gun: Maverick star wants to play an ordinary guy against extraordinary odds"
-        ],
-        "stakes_bullets": [
-          "• Glenn Powell is not interested in taking on the role of Nova in the Marvel Cinemas",
-          "• The Top Gun: Maverick star wants to play an ordinary guy against extraordinary odds",
-          "• He wants to stick with roles that are more grounded and relatable than the DCU "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "622ccc62d30c"
-    },
-    {
       "id": "c0333128a088",
       "title": "Trump administration blocked from suspending Snap benefits for millions of Americans",
       "outlet": "US news | The Guardian",
@@ -3382,73 +3645,42 @@
           "• The decision puts food aid recipients at risk of losing their benefits"
         ]
       },
-      "read_minutes": 4,
+      "read_minutes": 5,
       "cluster_id": "8826b5cd3f8e"
     },
     {
-      "id": "1c9b8c4e733a",
-      "title": "Taylor Sheridan’s Yellowstone Exit Could Be the Best Thing to Happen to Star Trek in Years",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/taylor-sheridans-yellowstone-exit-better-for-star-trek/",
-      "published_at": "Fri, 31 Oct 2025 23:00:14 GMT",
-      "bullets": [
-        "• Taylor Sheridan is leaving Paramount for NBC and Universal",
-        "• Sheridan's departure is the best news Star Trek has gotten in years",
-        "• Sheridan oversaw the creation of a number of spinoff and standalone series",
-        "• By the time Sheridan exits completely for Universal in 2029, Paramount will have several shows with multiple seasons "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.527
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taylor Sheridan is leaving Paramount for NBC and Universal",
-          "• Sheridan's departure is the best news Star Trek has gotten in years"
-        ],
-        "hopeful_bullets": [
-          "• Taylor Sheridan is leaving Paramount for NBC and Universal",
-          "• Sheridan's departure is the best news Star Trek has gotten in years"
-        ],
-        "stakes_bullets": [
-          "• By the time Sheridan exits completely for Universal in 2029, Paramount will have several shows with multiple seasons "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "fbac57f178f3"
-    },
-    {
       "id": "d879addf866f",
-      "title": "Several hundred feared dead as Tanzania election protests continue",
+      "title": "Hundreds feared dead in Tanzania crackdown on election protests",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cz0x8vdvkjgo?at_medium=RSS&at_campaign=rss",
       "published_at": "Fri, 31 Oct 2025 22:53:39 GMT",
       "bullets": [
-        "• Several people have been killed in a series of incidents over the past week",
-        "• The deaths are the result of a lack of communication between the public and the public",
-        "• The government has been accused of over-reacting to the deaths of some of the world's most dangerous people "
+        "• At least 500 people have been killed in three days of unrest in the country's capital, Tanzania",
+        "• The country's main opposition party has called for the end of the unrest",
+        "• The government has vowed to end the unrest in a bid to prevent further unrest in Tanzania "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.975
       },
       "moods": {
         "brief_bullets": [
-          "• Several people have been killed in a series of incidents over the past week",
-          "• The deaths are the result of a lack of communication between the public and the public"
+          "• At least 500 people have been killed in three days of unrest in the country's capital, Tanzania",
+          "• The country's main opposition party has called for the end of the unrest"
         ],
         "hopeful_bullets": [
-          "• Several people have been killed in a series of incidents over the past week",
-          "• The deaths are the result of a lack of communication between the public and the public"
+          "• At least 500 people have been killed in three days of unrest in the country's capital, Tanzania",
+          "• The country's main opposition party has called for the end of the unrest"
         ],
         "stakes_bullets": [
-          "• The deaths are the result of a lack of communication between the public and the public"
+          "• At least 500 people have been killed in three days of unrest in the country's capital, Tanzania",
+          "• The country's main opposition party has called for the end of the unrest",
+          "• The government has vowed to end the unrest in a bid to prevent further unrest in Tanzania "
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "dd6ea3edbf73"
+      "cluster_id": "537ed3f11a98"
     },
     {
       "id": "d52a33223e97",
@@ -3477,40 +3709,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "ac322d41c2d3"
-    },
-    {
-      "id": "d03e5217aab9",
-      "title": "21 Years Ago Today, One Piece Released the Worst Anime Arc of the 2000s",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/one-piece-long-ring-long-land-arc-worst-2000s-anime-arc/",
-      "published_at": "Fri, 31 Oct 2025 22:43:31 GMT",
-      "bullets": [
-        "• Eiichiro Oda's One Piece has been a hit with fans since the late 1990s",
-        "• The series has undergone a lot of change since debuting in 1999",
-        "• The Long Ring Long Land Arc is the series's most infamous narrative stretch "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Eiichiro Oda's One Piece has been a hit with fans since the late 1990s",
-          "• The series has undergone a lot of change since debuting in 1999"
-        ],
-        "hopeful_bullets": [
-          "• Eiichiro Oda's One Piece has been a hit with fans since the late 1990s",
-          "• The series has undergone a lot of change since debuting in 1999"
-        ],
-        "stakes_bullets": [
-          "• Eiichiro Oda's One Piece has been a hit with fans since the late 1990s",
-          "• The series has undergone a lot of change since debuting in 1999",
-          "• The Long Ring Long Land Arc is the series's most infamous narrative stretch "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "7283f77b35b6"
     },
     {
       "id": "0ff592f99d0a",
@@ -3611,38 +3809,6 @@
       "cluster_id": "9d8aafe23a64"
     },
     {
-      "id": "8c921dba5f8f",
-      "title": "15 DC Fighters Who Could Challenge Batman",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/marvel-combatants-challenge-batman/",
-      "published_at": "Fri, 31 Oct 2025 22:35:14 GMT",
-      "bullets": [
-        "• Absolute Batman is more of a brawler and the mainstream Batman has mastered several martial arts",
-        "• Both require a higher level of combat skills in their opponent to offer them any kind of challenge whatsoever",
-        "• Batman is forced to rely instead on sheer brawn and brain "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Absolute Batman is more of a brawler and the mainstream Batman has mastered several martial arts",
-          "• Both require a higher level of combat skills in their opponent to offer them any kind of challenge whatsoever"
-        ],
-        "hopeful_bullets": [
-          "• Absolute Batman is more of a brawler and the mainstream Batman has mastered several martial arts",
-          "• Both require a higher level of combat skills in their opponent to offer them any kind of challenge whatsoever"
-        ],
-        "stakes_bullets": [
-          "• Both require a higher level of combat skills in their opponent to offer them any kind of challenge whatsoever"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "c6b654800186"
-    },
-    {
       "id": "63fa3b3137f8",
       "title": "Sevdaliza Unleashes Her Inner ‘Heroina’ With Karol G, Kenia Os, Tokischa on New LP",
       "outlet": "Music News",
@@ -3711,35 +3877,32 @@
     },
     {
       "id": "b582c663a3bb",
-      "title": "Judge rules Trump can’t require citizenship proof on federal voting form – US politics live",
+      "title": "Judge rules Trump can’t require citizenship proof on federal voting form – as it happened",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/31/donald-trump-filibuster-shutdown-snap-food-refugees-drug-boats-latest-news-updates",
       "published_at": "Fri, 31 Oct 2025 21:54:21 GMT",
       "bullets": [
-        "• Federal judge rules Trump can’t require proof of citizenship on the federal voting form",
-        "• White House also bans journalists from access to the White House’s ‘Upper Press’ office",
-        "• The move is an unconstitutional violation of the separation of powers, the judge ruled "
+        "• The White House announced a new rule restricting the ability of credentialed journalists to freely access the offices of press secretary Karoline Leavitt and other top communications officials in the West Wing",
+        "• A memorandum issued late today bans journalists from accessing Room 140, also known as ‘Upper Press’ without a prior appointment, citing the need to protect potentially sensitive material "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.991
       },
       "moods": {
         "brief_bullets": [
-          "• Federal judge rules Trump can’t require proof of citizenship on the federal voting form",
-          "• White House also bans journalists from access to the White House’s ‘Upper Press’ office"
+          "• The White House announced a new rule restricting the ability of credentialed journalists to freely access the offices of press secretary Karoline Leavitt and other top communications officials in the West Wing",
+          "• A memorandum issued late today bans journalists from accessing Room 140, also known as ‘Upper Press’ without a prior appointment, citing the need to protect potentially sensitive material "
         ],
         "hopeful_bullets": [
-          "• Federal judge rules Trump can’t require proof of citizenship on the federal voting form",
-          "• White House also bans journalists from access to the White House’s ‘Upper Press’ office"
+          "• The White House announced a new rule restricting the ability of credentialed journalists to freely access the offices of press secretary Karoline Leavitt and other top communications officials in the West Wing"
         ],
         "stakes_bullets": [
-          "• Federal judge rules Trump can’t require proof of citizenship on the federal voting form",
-          "• White House also bans journalists from access to the White House’s ‘Upper Press’ office"
+          "• A memorandum issued late today bans journalists from accessing Room 140, also known as ‘Upper Press’ without a prior appointment, citing the need to protect potentially sensitive material "
         ]
       },
-      "read_minutes": 16,
+      "read_minutes": 15,
       "cluster_id": "0c41dc657308"
     },
     {
@@ -3914,7 +4077,7 @@
     },
     {
       "id": "31f80f061625",
-      "title": "Maine mother who lost daughter to leukemia awarded $25m in wrongful death suit",
+      "title": "Maine mother whose daughter died of leukemia wins $25m in wrongful death suit",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/oct/31/maine-mother-daughter-wrongful-death-lawsuit",
       "published_at": "Fri, 31 Oct 2025 21:27:10 GMT",
@@ -3926,7 +4089,7 @@
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.982
+        "score": 0.976
       },
       "moods": {
         "brief_bullets": [
@@ -3942,7 +4105,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "2cd95208e02d"
+      "cluster_id": "db125582fbe9"
     },
     {
       "id": "e401918d0ce6",
@@ -4437,37 +4600,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "23f299ca842a"
-    },
-    {
-      "id": "f65a443911cf",
-      "title": "Reddit stock jumps 7% after showing strong advertising and user growth",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/10/31/reddit-rddt-stock-earnings-outlook.html",
-      "published_at": "Fri, 31 Oct 2025 20:03:06 GMT",
-      "bullets": [
-        "• Revenues surged 68% from a year ago to $585 million, beating an LSEG estimate of $546 million",
-        "• Earnings per share totaled 80 cents, surpassing an estimate of 51 cents",
-        "• Reddit also released a better-than-expected sales outlook for the fourth quarter "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.516
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Revenues surged 68% from a year ago to $585 million, beating an LSEG estimate of $546 million",
-          "• Earnings per share totaled 80 cents, surpassing an estimate of 51 cents"
-        ],
-        "hopeful_bullets": [
-          "• Revenues surged 68% from a year ago to $585 million, beating an LSEG estimate of $546 million"
-        ],
-        "stakes_bullets": [
-          "• Reddit also released a better-than-expected sales outlook for the fourth quarter "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "26a5d774d588"
     },
     {
       "id": "7cad61200dca",
@@ -5390,39 +5522,6 @@
       "cluster_id": "6e785fb535a9"
     },
     {
-      "id": "60b1cdc850e2",
-      "title": "US electricity bills increased by 11% in Trump’s second term, data shows",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/31/us-electricity-bills-increased-trump",
-      "published_at": "Fri, 31 Oct 2025 17:49:55 GMT",
-      "bullets": [
-        "• Donald Trump promised to slash US electricity prices by 20 years",
-        "• But new data shows prices have risen by 11% since January",
-        "• New figures show that figure is based on data from the US Energy Department",
-        "• More than 12m US homes could have been powered by the clean energy projects "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump promised to slash US electricity prices by 20 years",
-          "• But new data shows prices have risen by 11% since January"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump promised to slash US electricity prices by 20 years",
-          "• But new data shows prices have risen by 11% since January"
-        ],
-        "stakes_bullets": [
-          "• More than 12m US homes could have been powered by the clean energy projects "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ac838cae8e7d"
-    },
-    {
       "id": "93ef0f505f32",
       "title": "Severin Films Reveals THE EUROCRYPT OF CHRISTOPHER LEE COLLECTION 3!",
       "outlet": "Daily Dead",
@@ -5890,39 +5989,6 @@
       "cluster_id": "0589336bb6db"
     },
     {
-      "id": "57d50e5440b3",
-      "title": "Elon Musk on data centers in orbit: “SpaceX will be doing this”",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/space/2025/10/elon-musk-on-data-centers-in-orbit-spacex-will-be-doing-this/",
-      "published_at": "Fri, 31 Oct 2025 16:40:56 +0000",
-      "bullets": [
-        "• Elon Musk has expressed interest in space-based data centers",
-        "• The SpaceX CEO said that Starlink satellites could be used for this purpose",
-        "• Proponents of the idea say the advantages are clear: free, limitless power from the Sun and none of the messy environmental costs of building these facilities on Earth "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Elon Musk has expressed interest in space-based data centers",
-          "• The SpaceX CEO said that Starlink satellites could be used for this purpose"
-        ],
-        "hopeful_bullets": [
-          "• Elon Musk has expressed interest in space-based data centers",
-          "• The SpaceX CEO said that Starlink satellites could be used for this purpose"
-        ],
-        "stakes_bullets": [
-          "• The SpaceX CEO said that Starlink satellites could be used for this purpose",
-          "• Proponents of the idea say the advantages are clear: free, limitless power from the Sun and none of the messy environmental costs of building these facilities on Earth "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "92d24676940f"
-    },
-    {
       "id": "28898da84b3c",
       "title": "Los Ecuatorianos Votarán Sobre la Reforma Constitucional, que Podría Acabar con los Derechos de la Naturaleza",
       "outlet": "Inside Climate News",
@@ -5955,6 +6021,38 @@
       "cluster_id": "aaf5175dd2d1"
     },
     {
+      "id": "f0ce1253f1a7",
+      "title": "Tucker Carlson’s interview with far-right antisemite Nick Fuentes divides conservatives",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/oct/31/conservative-reaction-tucker-carlson-nick-fuentes-interview",
+      "published_at": "Fri, 31 Oct 2025 16:36:57 GMT",
+      "bullets": [
+        "• Tucker Carlson interviewed antisemitic white supremacist Nick Fuentes on his podcast",
+        "• He called out Republicans including Ted Cruz, George W Bush and Mike Huckabee for being ‘Christian Zionists’ who have been ‘seized by this brain virus” The response from the Heritage Foundation thinktank roiled some of its supporters "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.763
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tucker Carlson interviewed antisemitic white supremacist Nick Fuentes on his podcast",
+          "• He called out Republicans including Ted Cruz, George W Bush and Mike Huckabee for being ‘Christian Zionists’ who have been ‘seized by this brain virus” The response from the Heritage Foundation thinktank roiled some of its supporters "
+        ],
+        "hopeful_bullets": [
+          "• Tucker Carlson interviewed antisemitic white supremacist Nick Fuentes on his podcast",
+          "• He called out Republicans including Ted Cruz, George W Bush and Mike Huckabee for being ‘Christian Zionists’ who have been ‘seized by this brain virus” The response from the Heritage Foundation thinktank roiled some of its supporters "
+        ],
+        "stakes_bullets": [
+          "• Tucker Carlson interviewed antisemitic white supremacist Nick Fuentes on his podcast",
+          "• He called out Republicans including Ted Cruz, George W Bush and Mike Huckabee for being ‘Christian Zionists’ who have been ‘seized by this brain virus” The response from the Heritage Foundation thinktank roiled some of its supporters "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "4eb58e692474"
+    },
+    {
       "id": "450038b5a621",
       "title": "GOP Sen. Lisa Murkowski urges colleagues to reach deal as SNAP benefits dry up",
       "outlet": "NPR Topics: Politics",
@@ -5962,30 +6060,28 @@
       "published_at": "Fri, 31 Oct 2025 16:05:16 -0400",
       "bullets": [
         "• GOP Sen",
-        "• Lisa Murkowski urges colleagues to reach deal as SNAP benefits dry up October 31, 20254:05 PM ET Heard on All Things Considered by Michael Levitt , Scott Detrow , John Ketchum",
-        "• Murkowski on SNAP benefits and the government shutdown "
+        "• Lisa Murkowski urges colleagues to reach deal as SNAP benefits dry up",
+        "• Tomorrow, November 1, is the day that federal food assistance will be drastically cut or reduced for tens of millions of people across the U.S",
+        "• The loss of SNAP benefits would be just the latest casualty of a federal government shutdown that has now gone on for a month "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.99
+        "score": 0.997
       },
       "moods": {
         "brief_bullets": [
           "• GOP Sen",
-          "• Lisa Murkowski urges colleagues to reach deal as SNAP benefits dry up October 31, 20254:05 PM ET Heard on All Things Considered by Michael Levitt , Scott Detrow , John Ketchum"
+          "• Lisa Murkowski urges colleagues to reach deal as SNAP benefits dry up"
         ],
         "hopeful_bullets": [
-          "• GOP Sen",
-          "• Lisa Murkowski urges colleagues to reach deal as SNAP benefits dry up October 31, 20254:05 PM ET Heard on All Things Considered by Michael Levitt , Scott Detrow , John Ketchum"
+          "• Tomorrow, November 1, is the day that federal food assistance will be drastically cut or reduced for tens of millions of people across the U.S"
         ],
         "stakes_bullets": [
-          "• GOP Sen",
-          "• Lisa Murkowski urges colleagues to reach deal as SNAP benefits dry up October 31, 20254:05 PM ET Heard on All Things Considered by Michael Levitt , Scott Detrow , John Ketchum",
-          "• Murkowski on SNAP benefits and the government shutdown "
+          "• Tomorrow, November 1, is the day that federal food assistance will be drastically cut or reduced for tens of millions of people across the U.S"
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 6,
       "cluster_id": "3ef358095f9d"
     },
     {
@@ -5998,12 +6094,12 @@
         "• As the shutdown grinds on, Trump isn't sticking around to negotiate",
         "• President Trump has spent nearly two weeks outside of Washington, D.C., since the shutdown began on Oct",
         "• 1",
-        "• Tamara Keith: President Trump is not going to negotiate with the federal government "
+        "• President Clinton canceled a trip to Japan during a shutdown in 1995 "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.99
       },
       "moods": {
         "brief_bullets": [
@@ -6020,7 +6116,7 @@
           "• 1"
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 3,
       "cluster_id": "75019a5e5e92"
     },
     {
@@ -6087,38 +6183,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "15c70d6df915"
-    },
-    {
-      "id": "9ac0e91609e9",
-      "title": "Trump calls on Republicans to abolish the Senate filibuster rule",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/oct/31/trump-republicans-senate-filibuster-shutdown",
-      "published_at": "Fri, 31 Oct 2025 15:58:43 GMT",
-      "bullets": [
-        "• The Senate is currently in a standstill over the 60-vote rule",
-        "• The rule allows only a small group of senators to vote on a bill that must be approved by a majority of the chamber",
-        "• The Senate has been in a stalemate over the issue "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.764
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Senate is currently in a standstill over the 60-vote rule",
-          "• The rule allows only a small group of senators to vote on a bill that must be approved by a majority of the chamber"
-        ],
-        "hopeful_bullets": [
-          "• The Senate is currently in a standstill over the 60-vote rule",
-          "• The rule allows only a small group of senators to vote on a bill that must be approved by a majority of the chamber"
-        ],
-        "stakes_bullets": [
-          "• The rule allows only a small group of senators to vote on a bill that must be approved by a majority of the chamber"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "319335adb23c"
     },
     {
       "id": "4d6a2d08f0fa",
@@ -6218,37 +6282,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "aba6890e481c"
-    },
-    {
-      "id": "2e4fee4690db",
-      "title": "Hurricane death toll rises as Jamaica aid effort struggles",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clylqpyg8pjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 31 Oct 2025 15:29:21 GMT",
-      "bullets": [
-        "• At least 19 people have died in Jamaica as a result of Hurricane Melissa, Information Minister Dana Morris Dixon says",
-        "• Aid agencies and the military are bringing in the urgently needed supplies from Kingston by land but many roads remain unpassable in places",
-        "• Parts of the country have been without water for several days and food is growing scarce "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least 19 people have died in Jamaica as a result of Hurricane Melissa, Information Minister Dana Morris Dixon says",
-          "• Aid agencies and the military are bringing in the urgently needed supplies from Kingston by land but many roads remain unpassable in places"
-        ],
-        "hopeful_bullets": [
-          "• Parts of the country have been without water for several days and food is growing scarce "
-        ],
-        "stakes_bullets": [
-          "• At least 19 people have died in Jamaica as a result of Hurricane Melissa, Information Minister Dana Morris Dixon says"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "e20fd4c7cb22"
     },
     {
       "id": "5225686b5d1c",
@@ -7101,42 +7134,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "359a954d885b"
-    },
-    {
-      "id": "9bb5d9021fa1",
-      "title": "Texas put its chief financial officer in charge of school vouchers. Here’s what you need to know.",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17200483/texas-comptroller-school-vouchers-explained",
-      "published_at": "Fri, 31 Oct 2025 10:00:00 +0000",
-      "bullets": [
-        "• Gov",
-        "• Abbott signed a law authorizing a $1 billion private school voucher program",
-        "• The program will allow families to receive money to cover their children’s private school or home-schooling costs",
-        "• Former Texas Sen",
-        "• Kelly Hancock will guide most of the program's development "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Gov",
-          "• Abbott signed a law authorizing a $1 billion private school voucher program"
-        ],
-        "hopeful_bullets": [
-          "• Gov",
-          "• Abbott signed a law authorizing a $1 billion private school voucher program"
-        ],
-        "stakes_bullets": [
-          "• Abbott signed a law authorizing a $1 billion private school voucher program",
-          "• The program will allow families to receive money to cover their children’s private school or home-schooling costs",
-          "• Kelly Hancock will guide most of the program's development "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "fe5ae23546f8"
     },
     {
       "id": "f4041fa6cab8",
@@ -8427,27 +8424,27 @@
       "url": "https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider",
       "published_at": "2025-10-31T14:52:09-04:00",
       "bullets": [
-        "• Microsoft’s new Xbox Full Screen Experience (FSE) adds a console-like navigation experience to Windows PC gaming handhelds",
+        "• Microsoft’s new Xbox Full Screen Experience (FSE) adds console-like navigation experience to Windows PC gaming handhelds",
         "• Microsoft is rolling out support for the Xbox FSE in preview to “MSI Claw models” today",
-        "• FSE debuted on the Xbox Ally and Xbox Ally X earlier this month, and my colleague Sean Hollister ran into quite a few issues with it "
+        "• FSE debuted on the Xbox Ally and Xbox Ally X earlier this month, and my colleague Sean Hollister ran into a few issues with it "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• Microsoft’s new Xbox Full Screen Experience (FSE) adds a console-like navigation experience to Windows PC gaming handhelds",
+          "• Microsoft’s new Xbox Full Screen Experience (FSE) adds console-like navigation experience to Windows PC gaming handhelds",
           "• Microsoft is rolling out support for the Xbox FSE in preview to “MSI Claw models” today"
         ],
         "hopeful_bullets": [
-          "• Microsoft’s new Xbox Full Screen Experience (FSE) adds a console-like navigation experience to Windows PC gaming handhelds"
+          "• Microsoft’s new Xbox Full Screen Experience (FSE) adds console-like navigation experience to Windows PC gaming handhelds"
         ],
         "stakes_bullets": [
-          "• Microsoft’s new Xbox Full Screen Experience (FSE) adds a console-like navigation experience to Windows PC gaming handhelds",
+          "• Microsoft’s new Xbox Full Screen Experience (FSE) adds console-like navigation experience to Windows PC gaming handhelds",
           "• Microsoft is rolling out support for the Xbox FSE in preview to “MSI Claw models” today",
-          "• FSE debuted on the Xbox Ally and Xbox Ally X earlier this month, and my colleague Sean Hollister ran into quite a few issues with it "
+          "• FSE debuted on the Xbox Ally and Xbox Ally X earlier this month, and my colleague Sean Hollister ran into a few issues with it "
         ]
       },
       "read_minutes": 1,
@@ -8482,7 +8479,7 @@
           "• Windows 11 will allow you to stream audio across two pairs of wireless headphones, speakers, earbuds, or hearing aids"
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 1,
       "cluster_id": "fca80ef12326"
     },
     {
@@ -8510,7 +8507,7 @@
           "• Hyundai is including Dolby Atmos audio in the new entry-level Elexio EV, a China-exclusive (for now) SUV that costs between RMB 119,800 and 149,800 (or $16,800 to $21,000) The spatial audio technology has previously only been available in luxury vehicles "
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 1,
       "cluster_id": "dc0cd6bf7bbf"
     },
     {
@@ -9145,18 +9142,36 @@
   ],
   "clusters": [
     {
-      "id": "e20fd4c7cb22",
-      "topic": "aid death hurricane jamaica",
+      "id": "6fa3dc13df95",
+      "topic": "desperation food hold scavenging",
       "keywords": [
-        "aid",
-        "death",
-        "hurricane",
-        "jamaica",
-        "rise",
-        "toll"
+        "desperation",
+        "food",
+        "hold",
+        "scavenging",
+        "street",
+        "take"
       ],
       "item_ids": [
-        "2e4fee4690db"
+        "6fd9cd0c9b97"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "537ed3f11a98",
+      "topic": "crackdown dead election feared",
+      "keywords": [
+        "crackdown",
+        "dead",
+        "election",
+        "feared",
+        "hundred",
+        "tanzania"
+      ],
+      "item_ids": [
+        "d879addf866f"
       ],
       "outlets": [
         "BBC News"
@@ -9193,24 +9208,6 @@
       ],
       "item_ids": [
         "c079a3bdc48b"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "dd6ea3edbf73",
-      "topic": "dead election feared hundred",
-      "keywords": [
-        "dead",
-        "election",
-        "feared",
-        "hundred",
-        "several",
-        "tanzania"
-      ],
-      "item_ids": [
-        "d879addf866f"
       ],
       "outlets": [
         "BBC News"
@@ -9487,6 +9484,24 @@
       ]
     },
     {
+      "id": "f2e5555dbc64",
+      "topic": "administration friday glance hamper",
+      "keywords": [
+        "administration",
+        "friday",
+        "glance",
+        "hamper",
+        "ruling",
+        "trump"
+      ],
+      "item_ids": [
+        "1ffa8ef24710"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "8826b5cd3f8e",
       "topic": "administration benefit blocked snap",
       "keywords": [
@@ -9523,15 +9538,15 @@
       ]
     },
     {
-      "id": "2cd95208e02d",
-      "topic": "awarded daughter leukemia lost",
+      "id": "db125582fbe9",
+      "topic": "daughter died leukemia maine",
       "keywords": [
-        "awarded",
         "daughter",
+        "died",
         "leukemia",
-        "lost",
         "maine",
-        "mother"
+        "mother",
+        "whose"
       ],
       "item_ids": [
         "31f80f061625"
@@ -9631,36 +9646,18 @@
       ]
     },
     {
-      "id": "ac838cae8e7d",
-      "topic": "bill electricity increased second",
+      "id": "4eb58e692474",
+      "topic": "antisemite carlson far interview",
       "keywords": [
-        "bill",
-        "electricity",
-        "increased",
-        "second",
-        "term",
-        "trump"
+        "antisemite",
+        "carlson",
+        "far",
+        "interview",
+        "right",
+        "tucker"
       ],
       "item_ids": [
-        "60b1cdc850e2"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "319335adb23c",
-      "topic": "abolish call filibuster republican",
-      "keywords": [
-        "abolish",
-        "call",
-        "filibuster",
-        "republican",
-        "senate",
-        "trump"
-      ],
-      "item_ids": [
-        "9ac0e91609e9"
+        "f0ce1253f1a7"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9882,6 +9879,24 @@
       ]
     },
     {
+      "id": "2c8178cd48ea",
+      "topic": "demo musk roadster tease",
+      "keywords": [
+        "demo",
+        "musk",
+        "roadster",
+        "tease",
+        "tesla",
+        "year"
+      ],
+      "item_ids": [
+        "76a4ea7b19c2"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "ecf940196614",
       "topic": "consumer expected price showing",
       "keywords": [
@@ -9930,24 +9945,6 @@
       ],
       "item_ids": [
         "98e16a089b00"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "26a5d774d588",
-      "topic": "advertising jump reddit showing",
-      "keywords": [
-        "advertising",
-        "jump",
-        "reddit",
-        "showing",
-        "stock",
-        "strong"
-      ],
-      "item_ids": [
-        "f65a443911cf"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10363,6 +10360,24 @@
       ]
     },
     {
+      "id": "bc05e1ffe9b9",
+      "topic": "denie involved odd removal",
+      "keywords": [
+        "denie",
+        "involved",
+        "odd",
+        "removal",
+        "tech",
+        "youtube"
+      ],
+      "item_ids": [
+        "6ebcb99adc67"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
       "id": "9d8aafe23a64",
       "topic": "break down enzyme find",
       "keywords": [
@@ -10519,24 +10534,6 @@
       ],
       "item_ids": [
         "d1ca3e2e72be"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "92d24676940f",
-      "topic": "center data elon musk",
-      "keywords": [
-        "center",
-        "data",
-        "elon",
-        "musk",
-        "orbit",
-        "spacex"
-      ],
-      "item_ids": [
-        "57d50e5440b3"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -13177,176 +13174,176 @@
       ]
     },
     {
-      "id": "b7e51aa4c686",
-      "topic": "fans gilmore girl later",
+      "id": "017349a1e018",
+      "topic": "first hook minute mystery",
       "keywords": [
-        "fans",
-        "gilmore",
-        "girl",
+        "first",
+        "hook",
+        "minute",
+        "mystery",
+        "show"
+      ],
+      "item_ids": [
+        "89f3738a4489"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "46202667003a",
+      "topic": "already beat boys out",
+      "keywords": [
+        "already",
+        "beat",
+        "boys",
+        "out",
+        "show",
+        "superhero"
+      ],
+      "item_ids": [
+        "265f7c057ed8"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "eccbc5a9cd2d",
+      "topic": "disturbing event horizon just",
+      "keywords": [
+        "disturbing",
+        "event",
+        "horizon",
+        "just",
+        "prequel",
+        "serie"
+      ],
+      "item_ids": [
+        "6579a494c5bd"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "397e4f2e3c99",
+      "topic": "ending finally later make",
+      "keywords": [
+        "ending",
+        "finally",
         "later",
-        "still",
+        "make",
+        "soprano",
         "year"
       ],
       "item_ids": [
-        "2e48b84a6d82"
+        "812ad3319f33"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "55176113e37c",
-      "topic": "ago america captain creator",
+      "id": "ee986b7dbafc",
+      "topic": "all anime best binge",
       "keywords": [
-        "ago",
-        "america",
-        "captain",
-        "creator",
-        "triumphant",
-        "year"
-      ],
-      "item_ids": [
-        "ea4cd2ca10a5"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "a6d67a1f7f41",
-      "topic": "gold gundam major sets",
-      "keywords": [
-        "gold",
-        "gundam",
-        "major",
-        "sets",
-        "standard",
-        "upgrade"
-      ],
-      "item_ids": [
-        "069d115aea13"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "f00bf8dfa928",
-      "topic": "comic greatest happen men",
-      "keywords": [
-        "comic",
-        "greatest",
-        "happen",
-        "men",
-        "thing"
-      ],
-      "item_ids": [
-        "4e310faba8b1"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "7607fc10dd40",
-      "topic": "jack nicholson performance remain",
-      "keywords": [
-        "jack",
-        "nicholson",
-        "performance",
-        "remain",
-        "shining",
-        "unmatched"
-      ],
-      "item_ids": [
-        "20e32bb93f2c"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "63d228e2d24f",
-      "topic": "back ball coming dragon",
-      "keywords": [
-        "back",
-        "ball",
-        "coming",
-        "dragon",
-        "goku",
-        "transformation"
-      ],
-      "item_ids": [
-        "38919bac6bc5"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "622ccc62d30c",
-      "topic": "blunt glen never powell",
-      "keywords": [
-        "blunt",
-        "glen",
-        "never",
-        "powell",
-        "reason",
-        "wanting"
-      ],
-      "item_ids": [
-        "ff9c9509a50b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "fbac57f178f3",
-      "topic": "best exit sheridan taylor",
-      "keywords": [
+        "all",
+        "anime",
         "best",
-        "exit",
-        "sheridan",
-        "taylor",
-        "thing",
-        "yellowstone"
+        "binge",
+        "horror",
+        "written"
       ],
       "item_ids": [
-        "1c9b8c4e733a"
+        "efd414817701"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "7283f77b35b6",
-      "topic": "ago piece released today",
+      "id": "53a6a3149dbc",
+      "topic": "already avenger doomsday major",
       "keywords": [
-        "ago",
-        "piece",
-        "released",
-        "today",
-        "worst",
-        "year"
+        "already",
+        "avenger",
+        "doomsday",
+        "major",
+        "making",
+        "mistake"
       ],
       "item_ids": [
-        "d03e5217aab9"
+        "89cc95e7722f"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "c6b654800186",
-      "topic": "batman challenge fighter",
+      "id": "409edf071b73",
+      "topic": "franchise newest perfect project",
       "keywords": [
-        "batman",
-        "challenge",
-        "fighter"
+        "franchise",
+        "newest",
+        "perfect",
+        "project",
+        "star",
+        "wars"
       ],
       "item_ids": [
-        "8c921dba5f8f"
+        "0fe9971e6d09"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "b4b278bc8e81",
+      "topic": "demon land loud protagonist",
+      "keywords": [
+        "demon",
+        "land",
+        "loud",
+        "protagonist",
+        "silent",
+        "slayer"
+      ],
+      "item_ids": [
+        "fa8d49f427a3"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "74718ec40aea",
+      "topic": "blowing farming game idle",
+      "keywords": [
+        "blowing",
+        "farming",
+        "game",
+        "idle",
+        "steam"
+      ],
+      "item_ids": [
+        "6b8a43496bde"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "66e3cd26134a",
+      "topic": "better godfather mob movie",
+      "keywords": [
+        "better",
+        "godfather",
+        "mob",
+        "movie"
+      ],
+      "item_ids": [
+        "7c39a973c834"
       ],
       "outlets": [
         "CBR"
@@ -13909,6 +13906,42 @@
       ]
     },
     {
+      "id": "7509a96534a5",
+      "topic": "dismisse judge ken legal",
+      "keywords": [
+        "dismisse",
+        "judge",
+        "ken",
+        "legal",
+        "paxton",
+        "york"
+      ],
+      "item_ids": [
+        "d35cd00f62d5"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "dd80de267c62",
+      "topic": "ballot here proposition statewide",
+      "keywords": [
+        "ballot",
+        "here",
+        "proposition",
+        "statewide",
+        "texan",
+        "tuesday"
+      ],
+      "item_ids": [
+        "96a88ae15af3"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "95e113d8d752",
       "topic": "aca hike insurer monthly",
       "keywords": [
@@ -14029,42 +14062,6 @@
       ],
       "item_ids": [
         "eccf08fae48c"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "fe5ae23546f8",
-      "topic": "charge chief financial officer",
-      "keywords": [
-        "charge",
-        "chief",
-        "financial",
-        "officer",
-        "put",
-        "texa"
-      ],
-      "item_ids": [
-        "9bb5d9021fa1"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "4904be6f3010",
-      "topic": "freeze help minority owned",
-      "keywords": [
-        "freeze",
-        "help",
-        "minority",
-        "owned",
-        "program",
-        "texa"
-      ],
-      "item_ids": [
-        "36d5098fd476"
       ],
       "outlets": [
         "The Texas Tribune"
