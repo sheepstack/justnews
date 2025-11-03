@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-03T06:01:04Z",
+  "generated_at": "2025-11-03T06:18:06Z",
   "items": [
     {
       "id": "d7516b7ee302",
@@ -5593,6 +5593,38 @@
       "cluster_id": "b235c16fb40e"
     },
     {
+      "id": "cc2162cf790f",
+      "title": "At least 20 dead after magnitude-6.3 earthquake hits Afghanistan",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8jrw12d3edo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 03 Nov 2025 05:42:27 GMT",
+      "bullets": [
+        "• At least 20 dead after magnitude-6.3 earthquake hits Afghanistan, say local authorities",
+        "• Death toll expected to rise as rescue efforts continue, local officials say",
+        "• Quake struck near Mazar-e-Sharif, one of the largest cities in Afghanistan, at around 01:00 local time "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At least 20 dead after magnitude-6.3 earthquake hits Afghanistan, say local authorities",
+          "• Death toll expected to rise as rescue efforts continue, local officials say"
+        ],
+        "hopeful_bullets": [
+          "• At least 20 dead after magnitude-6.3 earthquake hits Afghanistan, say local authorities",
+          "• Death toll expected to rise as rescue efforts continue, local officials say"
+        ],
+        "stakes_bullets": [
+          "• Death toll expected to rise as rescue efforts continue, local officials say"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4311d8539870"
+    },
+    {
       "id": "b074c19a4434",
       "title": "K-pop prospects brighten on China market hopes as Seoul and Beijing sign content exchange deal",
       "outlet": "US Top News and Analysis",
@@ -6117,38 +6149,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "12e794b2f50f"
-    },
-    {
-      "id": "cc2162cf790f",
-      "title": "At least eight dead after magnitude-6.3 earthquake hits Afghanistan",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8jrw12d3edo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 03 Nov 2025 03:44:21 GMT",
-      "bullets": [
-        "• At least eight dead after magnitude-6.3 earthquake hits Afghanistan's capital, Mazar-e Sharif",
-        "• Death toll expected to rise as rescue efforts continue, with 180 people left injured",
-        "• The earthquake struck at around 01:00 local time (20:30 GMT) in the early hours of Monday "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.967
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least eight dead after magnitude-6.3 earthquake hits Afghanistan's capital, Mazar-e Sharif",
-          "• Death toll expected to rise as rescue efforts continue, with 180 people left injured"
-        ],
-        "hopeful_bullets": [
-          "• At least eight dead after magnitude-6.3 earthquake hits Afghanistan's capital, Mazar-e Sharif",
-          "• Death toll expected to rise as rescue efforts continue, with 180 people left injured"
-        ],
-        "stakes_bullets": [
-          "• Death toll expected to rise as rescue efforts continue, with 180 people left injured"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "5b4c7647eacf"
     },
     {
       "id": "1a23999dc16b",
@@ -7050,6 +7050,36 @@
       },
       "read_minutes": 2,
       "cluster_id": "6f6e05962fc8"
+    },
+    {
+      "id": "98be201333d4",
+      "title": "DHS asked Texas to hand over driver’s license data for citizenship checks",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17200770/dhs-texas-drivers-license-citizenship",
+      "published_at": "Fri, 31 Oct 2025 19:45:00 +0000",
+      "bullets": [
+        "• The Department of Homeland Security says it intends to add state driver’s license information to a federal system",
+        "• The plan is the latest step in an unprecedented Trump administration initiative to pool confidential data from varied sources that it claims will help identify noncitizens on voter rolls and tighten immigration enforcement "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.734
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Department of Homeland Security says it intends to add state driver’s license information to a federal system",
+          "• The plan is the latest step in an unprecedented Trump administration initiative to pool confidential data from varied sources that it claims will help identify noncitizens on voter rolls and tighten immigration enforcement "
+        ],
+        "hopeful_bullets": [
+          "• The plan is the latest step in an unprecedented Trump administration initiative to pool confidential data from varied sources that it claims will help identify noncitizens on voter rolls and tighten immigration enforcement "
+        ],
+        "stakes_bullets": [
+          "• The plan is the latest step in an unprecedented Trump administration initiative to pool confidential data from varied sources that it claims will help identify noncitizens on voter rolls and tighten immigration enforcement "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "86840e967f92"
     },
     {
       "id": "50ed42a36b70",
@@ -9354,12 +9384,12 @@
       ]
     },
     {
-      "id": "5b4c7647eacf",
-      "topic": "dead earthquake eight hits",
+      "id": "4311d8539870",
+      "topic": "afghanistan dead earthquake hits",
       "keywords": [
+        "afghanistan",
         "dead",
         "earthquake",
-        "eight",
         "hits",
         "least",
         "magnitude"
@@ -14243,6 +14273,24 @@
       ],
       "item_ids": [
         "50ed42a36b70"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "86840e967f92",
+      "topic": "asked dhs driver hand",
+      "keywords": [
+        "asked",
+        "dhs",
+        "driver",
+        "hand",
+        "license",
+        "texa"
+      ],
+      "item_ids": [
+        "98be201333d4"
       ],
       "outlets": [
         "The Texas Tribune"
