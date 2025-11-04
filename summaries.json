@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-04T05:59:55Z",
+  "generated_at": "2025-11-04T06:09:26Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -749,11 +749,45 @@
       "cluster_id": "3041f5367d34"
     },
     {
+      "id": "1f0f15ce20c8",
+      "title": "‘The Madness of David Judge’ is a Twisted and Exciting Miniseries [Review]",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-reviews/the-madness-of-david-judge-is-a-twisted-and-exciting-miniseries-review/",
+      "published_at": "Tue, 04 Nov 2025 05:59:20 +0000",
+      "bullets": [
+        "• In recent years, horror in the miniseries format has had a reemergence, and has become more and more of a popular format in the genre",
+        "• Some of my earliest memories of becoming a horror obsessive are from stumbling into watching those Stephen King miniseries’ from the nineties",
+        "• Harper’s Island was truly a great series and wild experience, with tons of schlock and flaws, but beautiful in its eccentricity and uniqueness, especially for a slasher "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In recent years, horror in the miniseries format has had a reemergence, and has become more and more of a popular format in the genre",
+          "• Some of my earliest memories of becoming a horror obsessive are from stumbling into watching those Stephen King miniseries’ from the nineties"
+        ],
+        "hopeful_bullets": [
+          "• In recent years, horror in the miniseries format has had a reemergence, and has become more and more of a popular format in the genre",
+          "• Some of my earliest memories of becoming a horror obsessive are from stumbling into watching those Stephen King miniseries’ from the nineties"
+        ],
+        "stakes_bullets": [
+          "• In recent years, horror in the miniseries format has had a reemergence, and has become more and more of a popular format in the genre",
+          "• Some of my earliest memories of becoming a horror obsessive are from stumbling into watching those Stephen King miniseries’ from the nineties",
+          "• Harper’s Island was truly a great series and wild experience, with tons of schlock and flaws, but beautiful in its eccentricity and uniqueness, especially for a slasher "
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "e8ac82f303b1"
+    },
+    {
       "id": "dadbc18e6e01",
       "title": "World's largest oil company Aramco reports higher third-quarter net profit on production boost",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/11/04/saudi-aramco-q3-net-profit-oil-.html",
-      "published_at": "Tue, 04 Nov 2025 05:32:08 GMT",
+      "published_at": "Tue, 04 Nov 2025 05:36:42 GMT",
       "bullets": [
         "• Saudi Aramco posted a 0.9% jump in third-quarter profit on the back of higher production",
         "• The world's largest oil company reported a free cash flow of $23.6 billion compared with $22 billion a year earlier",
@@ -2467,40 +2501,6 @@
       "cluster_id": "e0a902ec23a4"
     },
     {
-      "id": "443cab740aae",
-      "title": "Coming to Wicked Horror TV in October",
-      "outlet": "Wicked Horror",
-      "url": "https://wickedhorror.com/horror-news/coming-to-wicked-horror-tv-in-october/",
-      "published_at": "Sun, 28 Sep 2025 04:18:00 +0000",
-      "bullets": [
-        "• The original, the classic Halloween (1978) and much more is coming to Wicked Horror TV in October",
-        "• Watch out for walking dead girls, a dybbuk box, cars with teeth and a mystery only Boris Karloff can solve",
-        "• You’ll get the best of classic horror, recent indy masterpieces, trashing cult flicks and even more "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The original, the classic Halloween (1978) and much more is coming to Wicked Horror TV in October",
-          "• Watch out for walking dead girls, a dybbuk box, cars with teeth and a mystery only Boris Karloff can solve"
-        ],
-        "hopeful_bullets": [
-          "• The original, the classic Halloween (1978) and much more is coming to Wicked Horror TV in October",
-          "• Watch out for walking dead girls, a dybbuk box, cars with teeth and a mystery only Boris Karloff can solve"
-        ],
-        "stakes_bullets": [
-          "• The original, the classic Halloween (1978) and much more is coming to Wicked Horror TV in October",
-          "• Watch out for walking dead girls, a dybbuk box, cars with teeth and a mystery only Boris Karloff can solve",
-          "• You’ll get the best of classic horror, recent indy masterpieces, trashing cult flicks and even more "
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "3c61426aaf64"
-    },
-    {
       "id": "b72963244510",
       "title": "Agatha All Along: Unpacking the Pop Culture References",
       "outlet": "Comic Quarters",
@@ -2632,7 +2632,7 @@
         ]
       },
       "read_minutes": 13,
-      "cluster_id": "3c61426aaf64"
+      "cluster_id": "b9a50c0f5f38"
     },
     {
       "id": "eb57e9ca09a9",
@@ -12231,6 +12231,24 @@
       ]
     },
     {
+      "id": "e8ac82f303b1",
+      "topic": "david exciting judge madnes",
+      "keywords": [
+        "david",
+        "exciting",
+        "judge",
+        "madnes",
+        "miniserie",
+        "twisted"
+      ],
+      "item_ids": [
+        "1f0f15ce20c8"
+      ],
+      "outlets": [
+        "Wicked Horror"
+      ]
+    },
+    {
       "id": "793d98f4fcf5",
       "topic": "jason last left vorhee",
       "keywords": [
@@ -12265,18 +12283,16 @@
       ]
     },
     {
-      "id": "3c61426aaf64",
-      "topic": "coming horror november october",
+      "id": "b9a50c0f5f38",
+      "topic": "coming horror november wicked",
       "keywords": [
         "coming",
         "horror",
         "november",
-        "october",
         "wicked"
       ],
       "item_ids": [
-        "0ed239aed088",
-        "443cab740aae"
+        "0ed239aed088"
       ],
       "outlets": [
         "Wicked Horror"
