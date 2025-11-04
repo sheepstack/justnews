@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-04T08:15:28Z",
+  "generated_at": "2025-11-04T08:42:17Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -749,73 +749,103 @@
       "cluster_id": "3041f5367d34"
     },
     {
-      "id": "0359b7b6b6da",
-      "title": "BP beats third-quarter profit expectations on higher oil and gas production",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/04/bp-earnings-q3-2025.html",
-      "published_at": "Tue, 04 Nov 2025 07:47:11 GMT",
+      "id": "2862caefcbb9",
+      "title": "Halsey Shuts Down Audience Member for Telling Her to ‘Stop Talking and Play’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/halsey-audience-member-shut-down-boston-show-1235459103/",
+      "published_at": "Tue, 04 Nov 2025 08:13:18 +0000",
       "bullets": [
-        "• British oil giant BP posts stronger-than-expected third-quarter profit",
-        "• London-listed oil and gas major posted underlying replacement cost profit of $2.21 billion for July-September period",
-        "• That beat an LSEG-compiled consensus of $1.03 billion",
-        "• BP also announced another $750 million in share buybacks over next three months "
+        "• Halsey spent the night in the ER after her first show in Boston",
+        "• The singer-songwriter said she had a \"minor medical emergency\" on Sunday night",
+        "• She later wrote on X.com that she won't be caught dead letting a man tell her what to play "
       ],
-      "category": "Business",
+      "category": "Music",
       "sentiment": {
         "label": "negative",
-        "score": 0.925
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• British oil giant BP posts stronger-than-expected third-quarter profit",
-          "• London-listed oil and gas major posted underlying replacement cost profit of $2.21 billion for July-September period"
+          "• Halsey spent the night in the ER after her first show in Boston",
+          "• The singer-songwriter said she had a \"minor medical emergency\" on Sunday night"
         ],
         "hopeful_bullets": [
-          "• British oil giant BP posts stronger-than-expected third-quarter profit"
+          "• Halsey spent the night in the ER after her first show in Boston",
+          "• The singer-songwriter said she had a \"minor medical emergency\" on Sunday night"
         ],
         "stakes_bullets": [
-          "• British oil giant BP posts stronger-than-expected third-quarter profit",
-          "• London-listed oil and gas major posted underlying replacement cost profit of $2.21 billion for July-September period",
-          "• That beat an LSEG-compiled consensus of $1.03 billion"
+          "• Halsey spent the night in the ER after her first show in Boston",
+          "• The singer-songwriter said she had a \"minor medical emergency\" on Sunday night",
+          "• She later wrote on X.com that she won't be caught dead letting a man tell her what to play "
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "3c1850a67471"
+      "read_minutes": 1,
+      "cluster_id": "d2121a654b6a"
     },
     {
       "id": "d2441d584148",
       "title": "Nintendo hikes Switch 2 sales forecast to 19 million units as flagship console momentum grows",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/11/04/nintendo-raises-switch-2-sales-forecast-to-19-million-units.html",
-      "published_at": "Tue, 04 Nov 2025 07:46:24 GMT",
+      "published_at": "Tue, 04 Nov 2025 07:24:09 GMT",
       "bullets": [
         "• Nintendo raised its forecast for sales of the Switch 2 console in its current fiscal year",
-        "• The Japanese gaming giant now expects to sell 19 million units in fiscal year ending March 2026",
-        "• Nintendo is riding a wave of momentum after launching its latest console called Switch 2 in June",
-        "• Nintendo has sold 10.36 million units of the new console since launch "
+        "• It now expects to sell 19 million units in fiscal year ending March 2026 versus a previous forecast of 15 million units",
+        "• Nintendo is riding a wave of momentum after launching its latest console called Switch 2 in June "
       ],
       "category": "Business",
       "sentiment": {
         "label": "positive",
-        "score": 0.973
+        "score": 0.874
       },
       "moods": {
         "brief_bullets": [
           "• Nintendo raised its forecast for sales of the Switch 2 console in its current fiscal year",
-          "• The Japanese gaming giant now expects to sell 19 million units in fiscal year ending March 2026"
+          "• It now expects to sell 19 million units in fiscal year ending March 2026 versus a previous forecast of 15 million units"
         ],
         "hopeful_bullets": [
           "• Nintendo raised its forecast for sales of the Switch 2 console in its current fiscal year",
-          "• The Japanese gaming giant now expects to sell 19 million units in fiscal year ending March 2026"
+          "• It now expects to sell 19 million units in fiscal year ending March 2026 versus a previous forecast of 15 million units"
         ],
         "stakes_bullets": [
           "• Nintendo raised its forecast for sales of the Switch 2 console in its current fiscal year",
-          "• The Japanese gaming giant now expects to sell 19 million units in fiscal year ending March 2026",
-          "• Nintendo is riding a wave of momentum after launching its latest console called Switch 2 in June"
+          "• It now expects to sell 19 million units in fiscal year ending March 2026 versus a previous forecast of 15 million units",
+          "• Nintendo is riding a wave of momentum after launching its latest console called Switch 2 in June "
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 1,
       "cluster_id": "4c3fcce4019e"
+    },
+    {
+      "id": "0359b7b6b6da",
+      "title": "Oil giant BP beats third-quarter profit expectations despite weaker crude prices",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/04/bp-earnings-q3-2025.html",
+      "published_at": "Tue, 04 Nov 2025 07:20:00 GMT",
+      "bullets": [
+        "• BP posts stronger-than-expected third-quarter profit of $2.21 billion for July-September period",
+        "• London-listed oil and gas major posted underlying replacement cost profit, used as a proxy for net profit",
+        "• BP also announced another $750 million in share buybacks over the next three months "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.915
+      },
+      "moods": {
+        "brief_bullets": [
+          "• BP posts stronger-than-expected third-quarter profit of $2.21 billion for July-September period",
+          "• London-listed oil and gas major posted underlying replacement cost profit, used as a proxy for net profit"
+        ],
+        "hopeful_bullets": [
+          "• BP posts stronger-than-expected third-quarter profit of $2.21 billion for July-September period"
+        ],
+        "stakes_bullets": [
+          "• BP posts stronger-than-expected third-quarter profit of $2.21 billion for July-September period"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a5f11ce7391b"
     },
     {
       "id": "d7732038aed9",
@@ -6311,38 +6341,6 @@
       "cluster_id": "b5e7c3c2b179"
     },
     {
-      "id": "f5dae81e345d",
-      "title": "Katseye, Sombr, Ravyn Lenae Score Nominations at Inaugural TikTok Awards",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/tiktok-awards-nominees-breakthrough-artist-sombr-katseye-1235458463/",
-      "published_at": "Mon, 03 Nov 2025 16:07:27 +0000",
-      "bullets": [
-        "• More than 70 artists have been nominated for the TikTok Awards",
-        "• Among them are Alex Warren, Katseye, Laufey, Ravyn Lenae, and Sombr",
-        "• The event will be held in Los Angeles on Dec",
-        "• 18 "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• More than 70 artists have been nominated for the TikTok Awards",
-          "• Among them are Alex Warren, Katseye, Laufey, Ravyn Lenae, and Sombr"
-        ],
-        "hopeful_bullets": [
-          "• More than 70 artists have been nominated for the TikTok Awards"
-        ],
-        "stakes_bullets": [
-          "• The event will be held in Los Angeles on Dec"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8ce92fd6d4e1"
-    },
-    {
       "id": "ab67c570af57",
       "title": "Antarctic glacier's rapid retreat sparks scientific 'whodunnit'",
       "outlet": "BBC News",
@@ -9887,12 +9885,12 @@
       ]
     },
     {
-      "id": "3c1850a67471",
-      "topic": "beat expectation higher profit",
+      "id": "a5f11ce7391b",
+      "topic": "beat giant oil profit",
       "keywords": [
         "beat",
-        "expectation",
-        "higher",
+        "giant",
+        "oil",
         "profit",
         "quarter",
         "third"
@@ -13498,6 +13496,24 @@
       ]
     },
     {
+      "id": "d2121a654b6a",
+      "topic": "audience down halsey member",
+      "keywords": [
+        "audience",
+        "down",
+        "halsey",
+        "member",
+        "shut",
+        "telling"
+      ],
+      "item_ids": [
+        "2862caefcbb9"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "bfb58590fb3f",
       "topic": "attacked claim lawsuit offset",
       "keywords": [
@@ -13656,24 +13672,6 @@
       ],
       "item_ids": [
         "3c6c0138f7ce"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "8ce92fd6d4e1",
-      "topic": "katseye lenae nomination ravyn",
-      "keywords": [
-        "katseye",
-        "lenae",
-        "nomination",
-        "ravyn",
-        "score",
-        "sombr"
-      ],
-      "item_ids": [
-        "f5dae81e345d"
       ],
       "outlets": [
         "Music News"
