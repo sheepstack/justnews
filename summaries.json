@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-05T10:52:59Z",
+  "generated_at": "2025-11-05T11:12:17Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -69,6 +69,39 @@
       },
       "read_minutes": 6,
       "cluster_id": "870dce529f91"
+    },
+    {
+      "id": "c7c10c388f46",
+      "title": "An Alzheimer's pill appears to protect some in a high-risk population",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/10/29/nx-s1-5575561/alzheimers-pill-apoe4-high-risk-lecanemab-donanemab",
+      "published_at": "Wed, 29 Oct 2025 06:00:00 -0400",
+      "bullets": [
+        "• An experimental Alzheimer's drug appears to protect some in a high-risk population",
+        "• The drug slowed cognitive decline by 52% in people with mild cognitive impairment",
+        "• The true effect of ALZ-801 is hard to quantify because of the relatively small number of participants in the group "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• An experimental Alzheimer's drug appears to protect some in a high-risk population",
+          "• The drug slowed cognitive decline by 52% in people with mild cognitive impairment"
+        ],
+        "hopeful_bullets": [
+          "• An experimental Alzheimer's drug appears to protect some in a high-risk population",
+          "• The drug slowed cognitive decline by 52% in people with mild cognitive impairment"
+        ],
+        "stakes_bullets": [
+          "• An experimental Alzheimer's drug appears to protect some in a high-risk population",
+          "• The true effect of ALZ-801 is hard to quantify because of the relatively small number of participants in the group "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9a7d593d6f2f"
     },
     {
       "id": "88a01c1d8865",
@@ -296,6 +329,38 @@
       "cluster_id": "4d68b7d6cb41"
     },
     {
+      "id": "adc1fa958ec0",
+      "title": "New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/04/nyc-mayor-election-zohran-mamdani-andrew-cuomo-results-latest",
+      "published_at": "Wed, 05 Nov 2025 10:34:16 GMT",
+      "bullets": [
+        "• New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live live",
+        "• New Jersey, New Jersey and Virginia gubernatorial elections – live",
+        "• California passed measure that will temporarily redistrict the state in hopes of countering Republican efforts to do same in Texas "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.971
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live live",
+          "• New Jersey, New Jersey and Virginia gubernatorial elections – live"
+        ],
+        "hopeful_bullets": [
+          "• New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live live",
+          "• California passed measure that will temporarily redistrict the state in hopes of countering Republican efforts to do same in Texas "
+        ],
+        "stakes_bullets": [
+          "• California passed measure that will temporarily redistrict the state in hopes of countering Republican efforts to do same in Texas "
+        ]
+      },
+      "read_minutes": 13,
+      "cluster_id": "98417b77e7c4"
+    },
+    {
       "id": "b67605d042ed",
       "title": "Israel says Hamas returned body of Israeli-US soldier held hostage",
       "outlet": "BBC News",
@@ -328,70 +393,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "925d939c9070"
-    },
-    {
-      "id": "8d60beb96058",
-      "title": "Chinese EV maker Xpeng to launch robotaxis, humanoid robots with self-developed AI chips",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/05/china-xpeng-to-launch-robotaxis-humanoid-robots-with-own-ai-chips.html",
-      "published_at": "Wed, 05 Nov 2025 10:17:53 GMT",
-      "bullets": [
-        "• Chinese electric car company Xpeng plans to launch robotaxis next year",
-        "• The automaker announced on Wednesday as part of its \"AI Day\" that it is launching three robotaxi models",
-        "• The vehicles will use four of X peng's self-developed \"Turing\" AI chips "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Chinese electric car company Xpeng plans to launch robotaxis next year",
-          "• The automaker announced on Wednesday as part of its \"AI Day\" that it is launching three robotaxi models"
-        ],
-        "hopeful_bullets": [
-          "• Chinese electric car company Xpeng plans to launch robotaxis next year",
-          "• The automaker announced on Wednesday as part of its \"AI Day\" that it is launching three robotaxi models"
-        ],
-        "stakes_bullets": [
-          "• Chinese electric car company Xpeng plans to launch robotaxis next year",
-          "• The vehicles will use four of X peng's self-developed \"Turing\" AI chips "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "e573025067b7"
-    },
-    {
-      "id": "adc1fa958ec0",
-      "title": "New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/nov/04/nyc-mayor-election-zohran-mamdani-andrew-cuomo-results-latest",
-      "published_at": "Wed, 05 Nov 2025 10:12:22 GMT",
-      "bullets": [
-        "• New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live live",
-        "• California passed measure that will temporarily redistrict the state in hopes of countering Republican efforts to do the same in Texas "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.949
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live live",
-          "• California passed measure that will temporarily redistrict the state in hopes of countering Republican efforts to do the same in Texas "
-        ],
-        "hopeful_bullets": [
-          "• New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live live",
-          "• California passed measure that will temporarily redistrict the state in hopes of countering Republican efforts to do the same in Texas "
-        ],
-        "stakes_bullets": [
-          "• California passed measure that will temporarily redistrict the state in hopes of countering Republican efforts to do the same in Texas "
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "98417b77e7c4"
     },
     {
       "id": "c3c8ae627422",
@@ -656,6 +657,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "721ba2743f4a"
+    },
+    {
+      "id": "6e12a23c3f33",
+      "title": "Space junk may have struck a Chinese crew ship in low-Earth orbit",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/space/2025/11/landing-postponed-for-chinese-astronauts-after-suspected-space-debris-strike/",
+      "published_at": "Wed, 05 Nov 2025 09:15:41 +0000",
+      "bullets": [
+        "• Officials order the crew to remain at the Tiangong space station while engineers investigate a potential problem with their landing craft",
+        "• The China Manned Space Agency announced the change late Tuesday in a brief statement on Weibo",
+        "• It did not say what part of the Shenzhou 20 spacecraft may have been damaged "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Officials order the crew to remain at the Tiangong space station while engineers investigate a potential problem with their landing craft",
+          "• The China Manned Space Agency announced the change late Tuesday in a brief statement on Weibo"
+        ],
+        "hopeful_bullets": [
+          "• Officials order the crew to remain at the Tiangong space station while engineers investigate a potential problem with their landing craft",
+          "• The China Manned Space Agency announced the change late Tuesday in a brief statement on Weibo"
+        ],
+        "stakes_bullets": [
+          "• Officials order the crew to remain at the Tiangong space station while engineers investigate a potential problem with their landing craft",
+          "• The China Manned Space Agency announced the change late Tuesday in a brief statement on Weibo",
+          "• It did not say what part of the Shenzhou 20 spacecraft may have been damaged "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "4a3a45782643"
     },
     {
       "id": "c0677b157eed",
@@ -1283,6 +1318,42 @@
       "cluster_id": "07ffe872fb36"
     },
     {
+      "id": "6bac479678fc",
+      "title": "Prosecutors seize yachts, luxury cars from man accused of running Cambodia cyberscams",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/05/nx-s1-5599032/prosecutors-seize-yachts-luxury-cars-from-man-accused-of-running-cambodia-cyberscams",
+      "published_at": "Wed, 05 Nov 2025 05:25:54 -0500",
+      "bullets": [
+        "• Prosecutors seize yachts, luxury cars from man accused of running Cambodia cyberscams",
+        "• U.N",
+        "• estimates that scammers take in tens of billions of dollars every year from victims",
+        "• Latest in string of investigations and asset seizures that began when U.S",
+        "• prosecutors charged Chen Zhi with running a large-scale cyber-scam network "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.948
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Prosecutors seize yachts, luxury cars from man accused of running Cambodia cyberscams",
+          "• U.N"
+        ],
+        "hopeful_bullets": [
+          "• Prosecutors seize yachts, luxury cars from man accused of running Cambodia cyberscams",
+          "• U.N"
+        ],
+        "stakes_bullets": [
+          "• Prosecutors seize yachts, luxury cars from man accused of running Cambodia cyberscams",
+          "• estimates that scammers take in tens of billions of dollars every year from victims",
+          "• prosecutors charged Chen Zhi with running a large-scale cyber-scam network "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "8bc3607e909b"
+    },
+    {
       "id": "e6c04a22fba5",
       "title": "McDonald's is about to report earnings. Here's what to expect",
       "outlet": "US Top News and Analysis",
@@ -1313,68 +1384,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "c2db8da6ae3b"
-    },
-    {
-      "id": "821bbe173b89",
-      "title": "Here are 6 'Beautiful Bill' tax changes that will benefit wealthy Americans",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/05/nx-s1-5590112/trump-beautiful-bill-taxes-republican-rich-wealthy",
-      "published_at": "Wed, 05 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• A series of tax breaks approved by the Republican-led Congress this past summer mainly benefit high-net-worth and high-income people",
-        "• The changes approved by lawmakers in July lock in a friendlier tax climate for affluent Americans",
-        "• While middle-income households may see some modest relief, the lion's share will flow to those with substantial earnings "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A series of tax breaks approved by the Republican-led Congress this past summer mainly benefit high-net-worth and high-income people",
-          "• The changes approved by lawmakers in July lock in a friendlier tax climate for affluent Americans"
-        ],
-        "hopeful_bullets": [
-          "• While middle-income households may see some modest relief, the lion's share will flow to those with substantial earnings "
-        ],
-        "stakes_bullets": [
-          "• While middle-income households may see some modest relief, the lion's share will flow to those with substantial earnings "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "f5f835713e66"
-    },
-    {
-      "id": "df3127973d7f",
-      "title": "Air traffic controllers warn of 'tipping point' as U.S. government shutdown drags on",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/05/nx-s1-5598420/air-traffic-controllers-government-shutdown",
-      "published_at": "Wed, 05 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• The government shutdown is taking a growing toll on air traffic controllers who are required to work without pay",
-        "• Staffing shortages led to major delays over the weekend, raising concerns about more widespread travel chaos as the shutdown continues",
-        "• Air traffic controllers say morale is already low, even before the shutdown, due to a longstanding staffing shortage "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The government shutdown is taking a growing toll on air traffic controllers who are required to work without pay",
-          "• Staffing shortages led to major delays over the weekend, raising concerns about more widespread travel chaos as the shutdown continues"
-        ],
-        "hopeful_bullets": [
-          "• The government shutdown is taking a growing toll on air traffic controllers who are required to work without pay"
-        ],
-        "stakes_bullets": [
-          "• The government shutdown is taking a growing toll on air traffic controllers who are required to work without pay"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "f3257f1da08a"
     },
     {
       "id": "f40fc9cb35cd",
@@ -1447,38 +1456,6 @@
       "cluster_id": "003267e8d893"
     },
     {
-      "id": "05164abd616e",
-      "title": "From Abigail to Zohran, here's what you need to know about the 2025 elections",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/05/nx-s1-5598418/2025-election-prop-50-zohran-mamdani-nyc-virginia-new-jersey",
-      "published_at": "Wed, 05 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• Up and down the ballot, Democrats did well in the off-year elections Tuesday night",
-        "• The outcomes may have consequences in the near term, for things like the federal government shutdown, in the medium term for the 2026 midterm elections and in the longer term for 2028 "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.843
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Up and down the ballot, Democrats did well in the off-year elections Tuesday night",
-          "• The outcomes may have consequences in the near term, for things like the federal government shutdown, in the medium term for the 2026 midterm elections and in the longer term for 2028 "
-        ],
-        "hopeful_bullets": [
-          "• Up and down the ballot, Democrats did well in the off-year elections Tuesday night",
-          "• The outcomes may have consequences in the near term, for things like the federal government shutdown, in the medium term for the 2026 midterm elections and in the longer term for 2028 "
-        ],
-        "stakes_bullets": [
-          "• Up and down the ballot, Democrats did well in the off-year elections Tuesday night",
-          "• The outcomes may have consequences in the near term, for things like the federal government shutdown, in the medium term for the 2026 midterm elections and in the longer term for 2028 "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "9af0f6a0a634"
-    },
-    {
       "id": "1068cf36fe28",
       "title": "Yes, Trump's tariffs are raising billions -- but at a steep economic cost",
       "outlet": "NPR Topics: News",
@@ -1511,6 +1488,72 @@
       },
       "read_minutes": 3,
       "cluster_id": "6424d662e923"
+    },
+    {
+      "id": "a4ac2447d450",
+      "title": "Iowa doesn't have enough OB-GYNs. Is the state's abortion ban part of the problem?",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/11/05/nx-s1-5558169/iowa-obgyns-abortion-ban-maternity-care-desert-maternal-mortality-obstetrics",
+      "published_at": "Wed, 05 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• Some doctors say the state's strict abortion ban is the reason for a shortage of OB-GYNs",
+        "• The ban was the last straw for one doctor to move to Minnesota",
+        "• The law bans abortion as early as six weeks of pregnancy, with very few exceptions",
+        "• Some doctors have already left the state "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Some doctors say the state's strict abortion ban is the reason for a shortage of OB-GYNs",
+          "• The ban was the last straw for one doctor to move to Minnesota"
+        ],
+        "hopeful_bullets": [
+          "• Some doctors say the state's strict abortion ban is the reason for a shortage of OB-GYNs",
+          "• The ban was the last straw for one doctor to move to Minnesota"
+        ],
+        "stakes_bullets": [
+          "• Some doctors say the state's strict abortion ban is the reason for a shortage of OB-GYNs",
+          "• The ban was the last straw for one doctor to move to Minnesota",
+          "• The law bans abortion as early as six weeks of pregnancy, with very few exceptions"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "a741e67f3342"
+    },
+    {
+      "id": "821bbe173b89",
+      "title": "Here are 6 'Beautiful Bill' tax changes that will benefit wealthy Americans",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/05/nx-s1-5590112/trump-beautiful-bill-taxes-republican-rich-wealthy",
+      "published_at": "Wed, 05 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• A series of tax breaks approved by the Republican-led Congress this past summer mainly benefit high-net-worth and high-income people",
+        "• The changes approved by lawmakers in July lock in a friendlier tax climate for affluent Americans",
+        "• While middle-income households may see some modest relief, the lion's share will flow to those with substantial earnings "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A series of tax breaks approved by the Republican-led Congress this past summer mainly benefit high-net-worth and high-income people",
+          "• The changes approved by lawmakers in July lock in a friendlier tax climate for affluent Americans"
+        ],
+        "hopeful_bullets": [
+          "• While middle-income households may see some modest relief, the lion's share will flow to those with substantial earnings "
+        ],
+        "stakes_bullets": [
+          "• While middle-income households may see some modest relief, the lion's share will flow to those with substantial earnings "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "f5f835713e66"
     },
     {
       "id": "950d8967427b",
@@ -1547,39 +1590,67 @@
       "cluster_id": "29dede379931"
     },
     {
-      "id": "a4ac2447d450",
-      "title": "Iowa doesn't have enough OB-GYNs. Is the state's abortion ban part of the problem?",
+      "id": "df3127973d7f",
+      "title": "Air traffic controllers warn of 'tipping point' as U.S. government shutdown drags on",
       "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/11/05/nx-s1-5558169/iowa-obgyns-abortion-ban-maternity-care-desert-maternal-mortality-obstetrics",
+      "url": "https://www.npr.org/2025/11/05/nx-s1-5598420/air-traffic-controllers-government-shutdown",
       "published_at": "Wed, 05 Nov 2025 05:00:00 -0500",
       "bullets": [
-        "• Some doctors say the state's strict abortion ban is the reason for a shortage of OB-GYNs",
-        "• The ban was the last straw for one doctor to move to Minnesota",
-        "• The law bans abortion as early as six weeks of pregnancy, with very few exceptions",
-        "• Some doctors have already left the state "
+        "• The government shutdown is taking a growing toll on air traffic controllers who are required to work without pay",
+        "• Staffing shortages led to major delays over the weekend, raising concerns about more widespread travel chaos as the shutdown continues",
+        "• Air traffic controllers say morale is already low, even before the shutdown, due to a longstanding staffing shortage "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Some doctors say the state's strict abortion ban is the reason for a shortage of OB-GYNs",
-          "• The ban was the last straw for one doctor to move to Minnesota"
+          "• The government shutdown is taking a growing toll on air traffic controllers who are required to work without pay",
+          "• Staffing shortages led to major delays over the weekend, raising concerns about more widespread travel chaos as the shutdown continues"
         ],
         "hopeful_bullets": [
-          "• Some doctors say the state's strict abortion ban is the reason for a shortage of OB-GYNs",
-          "• The ban was the last straw for one doctor to move to Minnesota"
+          "• The government shutdown is taking a growing toll on air traffic controllers who are required to work without pay"
         ],
         "stakes_bullets": [
-          "• Some doctors say the state's strict abortion ban is the reason for a shortage of OB-GYNs",
-          "• The ban was the last straw for one doctor to move to Minnesota",
-          "• The law bans abortion as early as six weeks of pregnancy, with very few exceptions"
+          "• The government shutdown is taking a growing toll on air traffic controllers who are required to work without pay"
         ]
       },
-      "read_minutes": 5,
-      "cluster_id": "a741e67f3342"
+      "read_minutes": 4,
+      "cluster_id": "f3257f1da08a"
+    },
+    {
+      "id": "05164abd616e",
+      "title": "From Abigail to Zohran, here's what you need to know about the 2025 elections",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/05/nx-s1-5598418/2025-election-prop-50-zohran-mamdani-nyc-virginia-new-jersey",
+      "published_at": "Wed, 05 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• The outcomes may have consequences in the near term for things like the federal government shutdown, in the medium term for the 2026 midterm elections and in the longer term for 2028",
+        "• It's still the cost of living, stupid",
+        "• The old political axiom, coined by former Bill Clinton adviser James Carville is, \"It's the economy, stupid.\""
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The outcomes may have consequences in the near term for things like the federal government shutdown, in the medium term for the 2026 midterm elections and in the longer term for 2028",
+          "• It's still the cost of living, stupid"
+        ],
+        "hopeful_bullets": [
+          "• The outcomes may have consequences in the near term for things like the federal government shutdown, in the medium term for the 2026 midterm elections and in the longer term for 2028",
+          "• It's still the cost of living, stupid"
+        ],
+        "stakes_bullets": [
+          "• The old political axiom, coined by former Bill Clinton adviser James Carville is, \"It's the economy, stupid.\""
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "9af0f6a0a634"
     },
     {
       "id": "c08fd10d798f",
@@ -1817,6 +1888,73 @@
       },
       "read_minutes": 7,
       "cluster_id": "5b84f925757a"
+    },
+    {
+      "id": "18df29cbdbc5",
+      "title": "Dark matter may be lighting up the heart of the Milky Way",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251104094152.htm",
+      "published_at": "Wed, 05 Nov 2025 04:14:06 EST",
+      "bullets": [
+        "• Researchers using new simulations suggest that the Milky Way’s past collisions may have reshaped its dark matter core",
+        "• This distorted structure could naturally explain the puzzling gamma-ray glow long thought to come from pulsars",
+        "• The findings revive dark matter as a major suspect in one of astronomy's biggest mysteries and set the stage for crucial future observations "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Researchers using new simulations suggest that the Milky Way’s past collisions may have reshaped its dark matter core",
+          "• This distorted structure could naturally explain the puzzling gamma-ray glow long thought to come from pulsars"
+        ],
+        "hopeful_bullets": [
+          "• Researchers using new simulations suggest that the Milky Way’s past collisions may have reshaped its dark matter core",
+          "• This distorted structure could naturally explain the puzzling gamma-ray glow long thought to come from pulsars"
+        ],
+        "stakes_bullets": [
+          "• This distorted structure could naturally explain the puzzling gamma-ray glow long thought to come from pulsars"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "fbe1399656e4"
+    },
+    {
+      "id": "47fab97bd076",
+      "title": "UPS cargo plane crash near Louisville airport kills at least 7, injures 11",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/04/ups-plane-louisville.html",
+      "published_at": "Wed, 05 Nov 2025 04:06:56 GMT",
+      "bullets": [
+        "• A UPS cargo plane crashed shortly after taking off from Louisville Muhammad Ali International Airport in Kentucky",
+        "• At least seven people were killed, Kentucky Gov",
+        "• Andy Beshear said on X, adding that the death toll is expected to rise",
+        "• The plane was a MD-11F, a type of freight transport aircraft made by aircraft manufacturer McDonnell Douglas "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A UPS cargo plane crashed shortly after taking off from Louisville Muhammad Ali International Airport in Kentucky",
+          "• At least seven people were killed, Kentucky Gov"
+        ],
+        "hopeful_bullets": [
+          "• A UPS cargo plane crashed shortly after taking off from Louisville Muhammad Ali International Airport in Kentucky",
+          "• At least seven people were killed, Kentucky Gov"
+        ],
+        "stakes_bullets": [
+          "• A UPS cargo plane crashed shortly after taking off from Louisville Muhammad Ali International Airport in Kentucky",
+          "• Andy Beshear said on X, adding that the death toll is expected to rise",
+          "• The plane was a MD-11F, a type of freight transport aircraft made by aircraft manufacturer McDonnell Douglas "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ce15fcc610d6"
     },
     {
       "id": "7b58263d2d03",
@@ -2192,7 +2330,7 @@
     {
       "id": "c5f4c0e9949d",
       "title": "Trump administration announces 16th deadly strike on an alleged drug boat",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/11/05/nx-s1-5599008/trump-administration-16th-strike-drug-boat",
       "published_at": "Wed, 05 Nov 2025 02:56:52 -0500",
       "bullets": [
@@ -2202,7 +2340,7 @@
         "• The U.S",
         "• has justified the strikes by saying the United States is fighting drug cartels "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.972
@@ -2813,6 +2951,40 @@
       },
       "read_minutes": 5,
       "cluster_id": "0c06403ea92a"
+    },
+    {
+      "id": "6b8d3be96a18",
+      "title": "A spider scientist makes the case for why we should love arachnids",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/10/28/nx-s1-5563991/a-spider-scientist-makes-the-case-for-why-we-should-love-arachnids",
+      "published_at": "Tue, 28 Oct 2025 16:51:07 -0400",
+      "bullets": [
+        "• NPR's Ailsa Chang goes on a nighttime hike in search of spiders in Los Angeles",
+        "• A spider scientist makes the case for why we should love arachnids",
+        "• This is the time of year that certain spiders have fattened up, reached adulthood and are ready to mate "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NPR's Ailsa Chang goes on a nighttime hike in search of spiders in Los Angeles",
+          "• A spider scientist makes the case for why we should love arachnids"
+        ],
+        "hopeful_bullets": [
+          "• NPR's Ailsa Chang goes on a nighttime hike in search of spiders in Los Angeles",
+          "• A spider scientist makes the case for why we should love arachnids"
+        ],
+        "stakes_bullets": [
+          "• NPR's Ailsa Chang goes on a nighttime hike in search of spiders in Los Angeles",
+          "• A spider scientist makes the case for why we should love arachnids",
+          "• This is the time of year that certain spiders have fattened up, reached adulthood and are ready to mate "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "1b2eca1e422a"
     },
     {
       "id": "b000966bf149",
@@ -5419,40 +5591,6 @@
       "cluster_id": "0fac0d07e4c3"
     },
     {
-      "id": "6dfb6b31b3d7",
-      "title": "New evidence suggests Einstein’s cosmic constant may be wrong",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251104013010.htm",
-      "published_at": "Tue, 04 Nov 2025 01:30:10 EST",
-      "bullets": [
-        "• Astronomers are rethinking one of cosmology's biggest mysteries: dark energy",
-        "• New evidence suggests Einstein’s cosmic constant may be wrong",
-        "• New findings show that evolving dark energy models, tied to ultra-light axion particles, may better fit the universe's expansion history than Einstein's constant model "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Astronomers are rethinking one of cosmology's biggest mysteries: dark energy",
-          "• New evidence suggests Einstein’s cosmic constant may be wrong"
-        ],
-        "hopeful_bullets": [
-          "• Astronomers are rethinking one of cosmology's biggest mysteries: dark energy",
-          "• New evidence suggests Einstein’s cosmic constant may be wrong"
-        ],
-        "stakes_bullets": [
-          "• Astronomers are rethinking one of cosmology's biggest mysteries: dark energy",
-          "• New evidence suggests Einstein’s cosmic constant may be wrong",
-          "• New findings show that evolving dark energy models, tied to ultra-light axion particles, may better fit the universe's expansion history than Einstein's constant model "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "50c86162d84f"
-    },
-    {
       "id": "412ba0525866",
       "title": "Horror Highlights: TALES FROM BEYOND THE PALE, BRIDE OF RE-ANIMATOR, STAYTUS’ “KISS N TELL”",
       "outlet": "Daily Dead",
@@ -6718,40 +6856,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "9d375af10be1"
-    },
-    {
-      "id": "c8378ec9dc74",
-      "title": "A commercial space station startup now has a foothold in space",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/space/2025/11/a-commercial-space-station-startup-now-has-a-foothold-in-space/",
-      "published_at": "Mon, 03 Nov 2025 22:13:53 +0000",
-      "bullets": [
-        "• A pathfinder mission for Vast’s privately owned space station launched into orbit Sunday",
-        "• Haven Demo extended its solar panel and captured 4K video of its deployment",
-        "• Vast is one of several companies vying for a NASA contract to deploy a commercial space station "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.978
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A pathfinder mission for Vast’s privately owned space station launched into orbit Sunday",
-          "• Haven Demo extended its solar panel and captured 4K video of its deployment"
-        ],
-        "hopeful_bullets": [
-          "• A pathfinder mission for Vast’s privately owned space station launched into orbit Sunday",
-          "• Haven Demo extended its solar panel and captured 4K video of its deployment"
-        ],
-        "stakes_bullets": [
-          "• A pathfinder mission for Vast’s privately owned space station launched into orbit Sunday",
-          "• Haven Demo extended its solar panel and captured 4K video of its deployment",
-          "• Vast is one of several companies vying for a NASA contract to deploy a commercial space station "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "3d449fafa4b4"
     },
     {
       "id": "b85ac1735e0a",
@@ -8046,6 +8150,38 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "f2d3d431ac1b",
+      "title": "Trump re-nominates billionaire Jared Isaacman to lead NASA",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/814035/donald-trump-jared-isaacman-nasa-nomination",
+      "published_at": "2025-11-05T05:47:34-05:00",
+      "bullets": [
+        "• Trump re-nominated tech billionaire Jared Isaacman to lead NASA Administrator",
+        "• Isaacman is an Elon Musk ally and commercial astronaut who has travelled into orbit twice as a civilian aboard SpaceX rockets",
+        "• He was reportedly withdrawn from consideration over previous political donations to Democrats "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump re-nominated tech billionaire Jared Isaacman to lead NASA Administrator",
+          "• Isaacman is an Elon Musk ally and commercial astronaut who has travelled into orbit twice as a civilian aboard SpaceX rockets"
+        ],
+        "hopeful_bullets": [
+          "• Trump re-nominated tech billionaire Jared Isaacman to lead NASA Administrator",
+          "• Isaacman is an Elon Musk ally and commercial astronaut who has travelled into orbit twice as a civilian aboard SpaceX rockets"
+        ],
+        "stakes_bullets": [
+          "• Trump re-nominated tech billionaire Jared Isaacman to lead NASA Administrator"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "6ba33f6829c7"
+    },
+    {
       "id": "5a7ba480d5a5",
       "title": "Motorola’s Edge 70 is the blueprint for future thin phones",
       "outlet": "The Verge",
@@ -8339,39 +8475,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "2b4a500c1240"
-    },
-    {
-      "id": "782b7bed32a2",
-      "title": "Nomad’s magnetic charging stands now support faster 25W rates",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/813769/nomad-qi2-stand-one-max-wireless-charging-25w-magsafe-pixelsnap",
-      "published_at": "2025-11-04T16:42:13-05:00",
-      "bullets": [
-        "• Nomad’s magnetic charging stands now support faster wireless charging rates of up to 25W",
-        "• The Stand One and Stand One Max hubs are made from a mix of glass and CNC-machined aluminum",
-        "• A braided USB-C cable is included, but each requires you to supply your own 40W charger",
-        "• The new version of the Stand One is available now for $119 in silver or carbide colors "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nomad’s magnetic charging stands now support faster wireless charging rates of up to 25W",
-          "• The Stand One and Stand One Max hubs are made from a mix of glass and CNC-machined aluminum"
-        ],
-        "hopeful_bullets": [
-          "• Nomad’s magnetic charging stands now support faster wireless charging rates of up to 25W",
-          "• The Stand One and Stand One Max hubs are made from a mix of glass and CNC-machined aluminum"
-        ],
-        "stakes_bullets": [
-          "• A braided USB-C cable is included, but each requires you to supply your own 40W charger"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6df1af462994"
     },
     {
       "id": "c41ff758b36a",
@@ -9344,36 +9447,18 @@
       ]
     },
     {
-      "id": "f5f835713e66",
-      "topic": "beautiful benefit bill change",
+      "id": "8bc3607e909b",
+      "topic": "cars luxury man prosecutor",
       "keywords": [
-        "beautiful",
-        "benefit",
-        "bill",
-        "change",
-        "here",
-        "tax"
+        "cars",
+        "luxury",
+        "man",
+        "prosecutor",
+        "seize",
+        "yacht"
       ],
       "item_ids": [
-        "821bbe173b89"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "f3257f1da08a",
-      "topic": "air controller point tipping",
-      "keywords": [
-        "air",
-        "controller",
-        "point",
-        "tipping",
-        "traffic",
-        "warn"
-      ],
-      "item_ids": [
-        "df3127973d7f"
+        "6bac479678fc"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9416,24 +9501,6 @@
       ]
     },
     {
-      "id": "9af0f6a0a634",
-      "topic": "2025 abigail here know",
-      "keywords": [
-        "2025",
-        "abigail",
-        "here",
-        "know",
-        "need",
-        "zohran"
-      ],
-      "item_ids": [
-        "05164abd616e"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "6424d662e923",
       "topic": "billion raising steep tariff",
       "keywords": [
@@ -9446,24 +9513,6 @@
       ],
       "item_ids": [
         "1068cf36fe28"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "29dede379931",
-      "topic": "court den enter lion",
-      "keywords": [
-        "court",
-        "den",
-        "enter",
-        "lion",
-        "supreme",
-        "trump"
-      ],
-      "item_ids": [
-        "950d8967427b"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9488,6 +9537,78 @@
       ]
     },
     {
+      "id": "f5f835713e66",
+      "topic": "beautiful benefit bill change",
+      "keywords": [
+        "beautiful",
+        "benefit",
+        "bill",
+        "change",
+        "here",
+        "tax"
+      ],
+      "item_ids": [
+        "821bbe173b89"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "29dede379931",
+      "topic": "court den enter lion",
+      "keywords": [
+        "court",
+        "den",
+        "enter",
+        "lion",
+        "supreme",
+        "trump"
+      ],
+      "item_ids": [
+        "950d8967427b"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "f3257f1da08a",
+      "topic": "air controller point tipping",
+      "keywords": [
+        "air",
+        "controller",
+        "point",
+        "tipping",
+        "traffic",
+        "warn"
+      ],
+      "item_ids": [
+        "df3127973d7f"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "9af0f6a0a634",
+      "topic": "2025 abigail here know",
+      "keywords": [
+        "2025",
+        "abigail",
+        "here",
+        "know",
+        "need",
+        "zohran"
+      ],
+      "item_ids": [
+        "05164abd616e"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "7362ce81106a",
       "topic": "again nominate once space",
       "keywords": [
@@ -9500,24 +9621,6 @@
       ],
       "item_ids": [
         "b70403eb9664"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "b9402219376b",
-      "topic": "16th administration announce deadly",
-      "keywords": [
-        "16th",
-        "administration",
-        "announce",
-        "deadly",
-        "strike",
-        "trump"
-      ],
-      "item_ids": [
-        "c5f4c0e9949d"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9542,24 +9645,6 @@
       ]
     },
     {
-      "id": "5b17469815a6",
-      "topic": "despite forecast profit raise",
-      "keywords": [
-        "despite",
-        "forecast",
-        "profit",
-        "raise",
-        "toyota",
-        "yearly"
-      ],
-      "item_ids": [
-        "c0677b157eed"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "f309f328cda3",
       "topic": "growth lower maker nordisk",
       "keywords": [
@@ -9578,17 +9663,18 @@
       ]
     },
     {
-      "id": "c2db8da6ae3b",
-      "topic": "earning expect here mcdonald",
+      "id": "5b17469815a6",
+      "topic": "despite forecast profit raise",
       "keywords": [
-        "earning",
-        "expect",
-        "here",
-        "mcdonald",
-        "report"
+        "despite",
+        "forecast",
+        "profit",
+        "raise",
+        "toyota",
+        "yearly"
       ],
       "item_ids": [
-        "e6c04a22fba5"
+        "c0677b157eed"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9631,6 +9717,23 @@
       ]
     },
     {
+      "id": "c2db8da6ae3b",
+      "topic": "earning expect here mcdonald",
+      "keywords": [
+        "earning",
+        "expect",
+        "here",
+        "mcdonald",
+        "report"
+      ],
+      "item_ids": [
+        "e6c04a22fba5"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "279114d8b6ea",
       "topic": "amd better expected margin",
       "keywords": [
@@ -9649,18 +9752,18 @@
       ]
     },
     {
-      "id": "e573025067b7",
-      "topic": "chinese humanoid launch maker",
+      "id": "ce15fcc610d6",
+      "topic": "cargo crash louisville near",
       "keywords": [
-        "chinese",
-        "humanoid",
-        "launch",
-        "maker",
-        "robotaxi",
-        "xpeng"
+        "cargo",
+        "crash",
+        "louisville",
+        "near",
+        "plane",
+        "ups"
       ],
       "item_ids": [
-        "8d60beb96058"
+        "47fab97bd076"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9881,6 +9984,24 @@
       ]
     },
     {
+      "id": "6ba33f6829c7",
+      "topic": "billionaire isaacman jared lead",
+      "keywords": [
+        "billionaire",
+        "isaacman",
+        "jared",
+        "lead",
+        "nominate",
+        "trump"
+      ],
+      "item_ids": [
+        "f2d3d431ac1b"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "f02246838237",
       "topic": "blueprint edge future motorola",
       "keywords": [
@@ -10040,21 +10161,21 @@
       ]
     },
     {
-      "id": "6df1af462994",
-      "topic": "charging magnetic nomad now",
+      "id": "4a3a45782643",
+      "topic": "chinese crew junk ship",
       "keywords": [
-        "charging",
-        "magnetic",
-        "nomad",
-        "now",
-        "stand",
-        "support"
+        "chinese",
+        "crew",
+        "junk",
+        "ship",
+        "space",
+        "struck"
       ],
       "item_ids": [
-        "782b7bed32a2"
+        "6e12a23c3f33"
       ],
       "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
@@ -10220,24 +10341,6 @@
       ]
     },
     {
-      "id": "3d449fafa4b4",
-      "topic": "commercial foothold now space",
-      "keywords": [
-        "commercial",
-        "foothold",
-        "now",
-        "space",
-        "startup",
-        "station"
-      ],
-      "item_ids": [
-        "c8378ec9dc74"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
       "id": "fa2136ad99c8",
       "topic": "air cockroache indoor poisoning",
       "keywords": [
@@ -10249,6 +10352,24 @@
       ],
       "item_ids": [
         "ce5b7abc6848"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "fbe1399656e4",
+      "topic": "dark heart lighting matter",
+      "keywords": [
+        "dark",
+        "heart",
+        "lighting",
+        "matter",
+        "milky",
+        "way"
+      ],
+      "item_ids": [
+        "18df29cbdbc5"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10398,24 +10519,6 @@
       ]
     },
     {
-      "id": "50c86162d84f",
-      "topic": "constant cosmic einstein evidence",
-      "keywords": [
-        "constant",
-        "cosmic",
-        "einstein",
-        "evidence",
-        "suggest",
-        "wrong"
-      ],
-      "item_ids": [
-        "6dfb6b31b3d7"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
       "id": "58f88951b6b6",
       "topic": "agree autumn leave red",
       "keywords": [
@@ -10535,6 +10638,60 @@
       ],
       "outlets": [
         "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "9a7d593d6f2f",
+      "topic": "alzheimer appear high pill",
+      "keywords": [
+        "alzheimer",
+        "appear",
+        "high",
+        "pill",
+        "protect",
+        "some"
+      ],
+      "item_ids": [
+        "c7c10c388f46"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "1b2eca1e422a",
+      "topic": "arachnid case love make",
+      "keywords": [
+        "arachnid",
+        "case",
+        "love",
+        "make",
+        "scientist",
+        "spider"
+      ],
+      "item_ids": [
+        "6b8d3be96a18"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "b9402219376b",
+      "topic": "16th administration announce deadly",
+      "keywords": [
+        "16th",
+        "administration",
+        "announce",
+        "deadly",
+        "strike",
+        "trump"
+      ],
+      "item_ids": [
+        "c5f4c0e9949d"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
       ]
     },
     {
