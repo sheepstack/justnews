@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-05T07:57:06Z",
+  "generated_at": "2025-11-05T08:16:03Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -329,6 +329,72 @@
       "cluster_id": "4d68b7d6cb41"
     },
     {
+      "id": "b67605d042ed",
+      "title": "Israel says Hamas returned body of Israeli-US soldier held hostage",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1wlz8j8lr4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 05 Nov 2025 07:37:04 GMT",
+      "bullets": [
+        "• Israel says Hamas returned body of Israeli-US soldier held hostage",
+        "• The 19-year-old's remains were handed over as part of a Gaza ceasefire deal",
+        "• Staff Sgt Chen was serving as a soldier in the IDF's 7th Brigade when Hamas-led gunmen attacked southern Israel "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Israel says Hamas returned body of Israeli-US soldier held hostage",
+          "• The 19-year-old's remains were handed over as part of a Gaza ceasefire deal"
+        ],
+        "hopeful_bullets": [
+          "• Israel says Hamas returned body of Israeli-US soldier held hostage",
+          "• The 19-year-old's remains were handed over as part of a Gaza ceasefire deal"
+        ],
+        "stakes_bullets": [
+          "• Israel says Hamas returned body of Israeli-US soldier held hostage",
+          "• The 19-year-old's remains were handed over as part of a Gaza ceasefire deal",
+          "• Staff Sgt Chen was serving as a soldier in the IDF's 7th Brigade when Hamas-led gunmen attacked southern Israel "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "925d939c9070"
+    },
+    {
+      "id": "adc1fa958ec0",
+      "title": "New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/04/nyc-mayor-election-zohran-mamdani-andrew-cuomo-results-latest",
+      "published_at": "Wed, 05 Nov 2025 07:35:35 GMT",
+      "bullets": [
+        "• New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live live",
+        "• New Jersey, New Jersey and Virginia gubernatorial elections – live",
+        "• California passed measure that will temporarily redistrict the state in hopes of countering Republican efforts to do same in Texas "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.971
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live live",
+          "• New Jersey, New Jersey and Virginia gubernatorial elections – live"
+        ],
+        "hopeful_bullets": [
+          "• New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live live",
+          "• California passed measure that will temporarily redistrict the state in hopes of countering Republican efforts to do same in Texas "
+        ],
+        "stakes_bullets": [
+          "• California passed measure that will temporarily redistrict the state in hopes of countering Republican efforts to do same in Texas "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "98417b77e7c4"
+    },
+    {
       "id": "e918cf95d6bb",
       "title": "Ozempic maker Novo Nordisk lowers growth outlook for its weight loss drugs as pricing pressures mount",
       "outlet": "US Top News and Analysis",
@@ -426,39 +492,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "e93b6398e4f7"
-    },
-    {
-      "id": "adc1fa958ec0",
-      "title": "New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/nov/04/nyc-mayor-election-zohran-mamdani-andrew-cuomo-results-latest",
-      "published_at": "Wed, 05 Nov 2025 07:10:08 GMT",
-      "bullets": [
-        "• New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live live",
-        "• New Jersey, New Jersey and Virginia gubernatorial elections also on the night",
-        "• President Donald Trump took to his favored platform, Truth Social, to distance himself from the losses "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live live",
-          "• New Jersey, New Jersey and Virginia gubernatorial elections also on the night"
-        ],
-        "hopeful_bullets": [
-          "• New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live live"
-        ],
-        "stakes_bullets": [
-          "• New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live live",
-          "• New Jersey, New Jersey and Virginia gubernatorial elections also on the night",
-          "• President Donald Trump took to his favored platform, Truth Social, to distance himself from the losses "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "98417b77e7c4"
     },
     {
       "id": "e6b76f299ed0",
@@ -916,38 +949,39 @@
     },
     {
       "id": "e9b819251075",
-      "title": "Menefee advances to runoff, Edwards leads Jones for second spot in special election for Houston congressional seat",
+      "title": "Menefee, Edwards advance to runoff in special election for Houston congressional seat",
       "outlet": "The Texas Tribune",
       "url": "https://feeds.texastribune.org/link/16799/17203441/texas-special-election-congress-houston-18th-district",
       "published_at": "Wed, 05 Nov 2025 05:32:29 +0000",
       "bullets": [
-        "• Harris County Attorney Christian Menefee advanced to a runoff in Tuesday's special election to fill the late U.S",
+        "• Harris County Attorney Christian Menefee and former Houston City Councilmember Amanda Edwards advanced to a runoff Tuesday in the special election to decide who will serve out the term of U.S",
         "• Rep",
         "• Sylvester Turner, D-Houston",
-        "• No candidate was close to the 50% threshold needed to avoid a runoff",
-        "• The winner of the runoff is only guaranteed the seat through the end of 2026 "
+        "• Both candidates are Democrats, guaranteeing that the Houston-based seat will remain under Democratic control",
+        "• Whoever emerges from the 18th District will shrink House Republicans’ already narrow majority once seated in Congress "
       ],
       "category": "Texas",
       "sentiment": {
         "label": "negative",
-        "score": 0.952
+        "score": 0.916
       },
       "moods": {
         "brief_bullets": [
-          "• Harris County Attorney Christian Menefee advanced to a runoff in Tuesday's special election to fill the late U.S",
+          "• Harris County Attorney Christian Menefee and former Houston City Councilmember Amanda Edwards advanced to a runoff Tuesday in the special election to decide who will serve out the term of U.S",
           "• Rep"
         ],
         "hopeful_bullets": [
-          "• The winner of the runoff is only guaranteed the seat through the end of 2026 "
+          "• Harris County Attorney Christian Menefee and former Houston City Councilmember Amanda Edwards advanced to a runoff Tuesday in the special election to decide who will serve out the term of U.S",
+          "• Rep"
         ],
         "stakes_bullets": [
-          "• Harris County Attorney Christian Menefee advanced to a runoff in Tuesday's special election to fill the late U.S",
-          "• Rep",
-          "• Sylvester Turner, D-Houston"
+          "• Harris County Attorney Christian Menefee and former Houston City Councilmember Amanda Edwards advanced to a runoff Tuesday in the special election to decide who will serve out the term of U.S",
+          "• Both candidates are Democrats, guaranteeing that the Houston-based seat will remain under Democratic control",
+          "• Whoever emerges from the 18th District will shrink House Republicans’ already narrow majority once seated in Congress "
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "4db708471de2"
+      "read_minutes": 2,
+      "cluster_id": "07ffe872fb36"
     },
     {
       "id": "c08fd10d798f",
@@ -1744,40 +1778,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "dc1d6399103c"
-    },
-    {
-      "id": "b67605d042ed",
-      "title": "Israel identifies body returned by Hamas as Israeli-American soldier",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1wlz8j8lr4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 05 Nov 2025 01:45:01 GMT",
-      "bullets": [
-        "• Israel identifies body returned by Hamas as Israeli-American soldier Itay Chen",
-        "• The 19-year-old soldier's remains were returned on Tuesday as part of a Gaza ceasefire deal",
-        "• Chen was working at his base on the Gaza border when Hamas launched their attacks on Israel on October 7, 2023 "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Israel identifies body returned by Hamas as Israeli-American soldier Itay Chen",
-          "• The 19-year-old soldier's remains were returned on Tuesday as part of a Gaza ceasefire deal"
-        ],
-        "hopeful_bullets": [
-          "• Israel identifies body returned by Hamas as Israeli-American soldier Itay Chen",
-          "• The 19-year-old soldier's remains were returned on Tuesday as part of a Gaza ceasefire deal"
-        ],
-        "stakes_bullets": [
-          "• Israel identifies body returned by Hamas as Israeli-American soldier Itay Chen",
-          "• The 19-year-old soldier's remains were returned on Tuesday as part of a Gaza ceasefire deal",
-          "• Chen was working at his base on the Gaza border when Hamas launched their attacks on Israel on October 7, 2023 "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1736f3a18203"
     },
     {
       "id": "09e45b61cd9c",
@@ -9162,15 +9162,15 @@
       ]
     },
     {
-      "id": "1736f3a18203",
-      "topic": "body hama identifie israel",
+      "id": "925d939c9070",
+      "topic": "body hama israel israeli",
       "keywords": [
         "body",
         "hama",
-        "identifie",
         "israel",
         "israeli",
-        "returned"
+        "returned",
+        "soldier"
       ],
       "item_ids": [
         "b67605d042ed"
@@ -13851,15 +13851,15 @@
       ]
     },
     {
-      "id": "4db708471de2",
-      "topic": "advance edward jone lead",
+      "id": "07ffe872fb36",
+      "topic": "advance edward election menefee",
       "keywords": [
         "advance",
         "edward",
-        "jone",
-        "lead",
+        "election",
         "menefee",
-        "runoff"
+        "runoff",
+        "special"
       ],
       "item_ids": [
         "e9b819251075"
