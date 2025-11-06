@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-06T05:05:59Z",
+  "generated_at": "2025-11-06T05:59:26Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -362,6 +362,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "7e4668bc1298"
+    },
+    {
+      "id": "f81c88ce332d",
+      "title": "Trump nominates ex-New Mexico lawmaker to oversee public lands",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/trump-public-lands-nominee",
+      "published_at": "Wed, 05 Nov 2025 23:30:36 GMT",
+      "bullets": [
+        "• The nominee for the Bureau of Land Management (BLM) must be confirmed by the Senate",
+        "• The agency manages a quarter-billion acres – about 10% of land in the US",
+        "• It’s also responsible for 700m acres of underground minerals, including major reserves of oil, natural gas and coal "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.793
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The nominee for the Bureau of Land Management (BLM) must be confirmed by the Senate",
+          "• The agency manages a quarter-billion acres – about 10% of land in the US"
+        ],
+        "hopeful_bullets": [
+          "• The nominee for the Bureau of Land Management (BLM) must be confirmed by the Senate",
+          "• The agency manages a quarter-billion acres – about 10% of land in the US"
+        ],
+        "stakes_bullets": [
+          "• The agency manages a quarter-billion acres – about 10% of land in the US"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "419ea1a945ff"
     },
     {
       "id": "a63cae467b9c",
@@ -829,6 +861,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "9ace5d82a895"
+    },
+    {
+      "id": "40a1b30ee22c",
+      "title": "Still a chance to return to 1.5C climate goal, researchers say",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/nov/05/still-a-chance-to-return-to-1-point-5c-climate-goal-researchers-say",
+      "published_at": "Wed, 05 Nov 2025 23:00:37 GMT",
+      "bullets": [
+        "• Climate Analytics group of researchers say their roadmap could ensure warming peaks at 1.7C before 2050",
+        "• They say that could be brought down to 1.5C by phasing out fossil fuels and using carbon removal technologies",
+        "• World leaders are meeting in Belém, a small city near the mouth of the Amazon in Brazil, on Thursday and Friday to discuss the climate crisis "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.879
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Climate Analytics group of researchers say their roadmap could ensure warming peaks at 1.7C before 2050",
+          "• They say that could be brought down to 1.5C by phasing out fossil fuels and using carbon removal technologies"
+        ],
+        "hopeful_bullets": [
+          "• Climate Analytics group of researchers say their roadmap could ensure warming peaks at 1.7C before 2050",
+          "• They say that could be brought down to 1.5C by phasing out fossil fuels and using carbon removal technologies"
+        ],
+        "stakes_bullets": [
+          "• Climate Analytics group of researchers say their roadmap could ensure warming peaks at 1.7C before 2050",
+          "• They say that could be brought down to 1.5C by phasing out fossil fuels and using carbon removal technologies",
+          "• World leaders are meeting in Belém, a small city near the mouth of the Amazon in Brazil, on Thursday and Friday to discuss the climate crisis "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "282bea8e2b7f"
     },
     {
       "id": "e93580fbb3a8",
@@ -1456,6 +1522,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "3a51be4ab366"
+    },
+    {
+      "id": "5ac5540cce74",
+      "title": "‘We’re leading the way’: Starmer defends plans for green economy before Cop30",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/nov/05/were-leading-the-way-starmer-defends-plans-for-green-economy-before-cop30",
+      "published_at": "Wed, 05 Nov 2025 20:00:34 GMT",
+      "bullets": [
+        "• Keir Starmer flew to Brazil to join other heads of government at a leaders’ summit in Belém before the UN Cop30 climate conference",
+        "• He said: ‘Britain isn’t waiting to act – we’re leading the way, as we promised’"
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Keir Starmer flew to Brazil to join other heads of government at a leaders’ summit in Belém before the UN Cop30 climate conference",
+          "• He said: ‘Britain isn’t waiting to act – we’re leading the way, as we promised’"
+        ],
+        "hopeful_bullets": [
+          "• Keir Starmer flew to Brazil to join other heads of government at a leaders’ summit in Belém before the UN Cop30 climate conference",
+          "• He said: ‘Britain isn’t waiting to act – we’re leading the way, as we promised’"
+        ],
+        "stakes_bullets": [
+          "• Keir Starmer flew to Brazil to join other heads of government at a leaders’ summit in Belém before the UN Cop30 climate conference",
+          "• He said: ‘Britain isn’t waiting to act – we’re leading the way, as we promised’"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8360da05b660"
     },
     {
       "id": "943eeb076e29",
@@ -3032,40 +3130,6 @@
       "cluster_id": "b348448e1313"
     },
     {
-      "id": "72b602cb0db8",
-      "title": "‘Green desert’: the farmers winning a battle with Brazil’s wood-pulp giant",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/global-development/2025/nov/05/brazil-green-desert-bahia-farmers-winning-battle-eucalyptus-wood-pulp-veracel-celulose",
-      "published_at": "Wed, 05 Nov 2025 14:00:27 GMT",
-      "bullets": [
-        "• Baixa Verde is a rare example of a local victory over a multinational in Brazil",
-        "• The rural settlement owes its existence to nearly two decades of legal battles over land rights",
-        "• The families now face an unprecedented security crisis marked by armed clashes, arson and death threats "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Baixa Verde is a rare example of a local victory over a multinational in Brazil",
-          "• The rural settlement owes its existence to nearly two decades of legal battles over land rights"
-        ],
-        "hopeful_bullets": [
-          "• Baixa Verde is a rare example of a local victory over a multinational in Brazil",
-          "• The rural settlement owes its existence to nearly two decades of legal battles over land rights"
-        ],
-        "stakes_bullets": [
-          "• Baixa Verde is a rare example of a local victory over a multinational in Brazil",
-          "• The rural settlement owes its existence to nearly two decades of legal battles over land rights",
-          "• The families now face an unprecedented security crisis marked by armed clashes, arson and death threats "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "7b38783e3d1c"
-    },
-    {
       "id": "1172734e74d7",
       "title": "How litter picking became a competitive sport",
       "outlet": "Positive News",
@@ -3096,39 +3160,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "a5c883d9638a"
-    },
-    {
-      "id": "67691ed34170",
-      "title": "Archaeologists discover how oldest American civilisation survived a climate catastrophe",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/science/2025/nov/05/archaeologists-discover-how-oldest-american-civilisation-survived-a-climate-catastrophe",
-      "published_at": "Wed, 05 Nov 2025 13:50:37 GMT",
-      "bullets": [
-        "• Archaeologists in Peru find new evidence showing how the ancient city of Caral survived a climate catastrophe without resorting to violence",
-        "• Drought forced the population to leave Caral, and resettle nearby, and left intriguing friezes depicting victims of a famine with messages for future generations",
-        "• Archaeologists say they took with them sophisticated decorative techniques of temple pyramids and sunken circular plazas "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Archaeologists in Peru find new evidence showing how the ancient city of Caral survived a climate catastrophe without resorting to violence",
-          "• Drought forced the population to leave Caral, and resettle nearby, and left intriguing friezes depicting victims of a famine with messages for future generations"
-        ],
-        "hopeful_bullets": [
-          "• Archaeologists in Peru find new evidence showing how the ancient city of Caral survived a climate catastrophe without resorting to violence"
-        ],
-        "stakes_bullets": [
-          "• Archaeologists in Peru find new evidence showing how the ancient city of Caral survived a climate catastrophe without resorting to violence",
-          "• Drought forced the population to leave Caral, and resettle nearby, and left intriguing friezes depicting victims of a famine with messages for future generations",
-          "• Archaeologists say they took with them sophisticated decorative techniques of temple pyramids and sunken circular plazas "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "ccf1cbdb59f7"
     },
     {
       "id": "cfda9a193c02",
@@ -3226,37 +3257,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "7b742ba53039"
-    },
-    {
-      "id": "ddd804698ec2",
-      "title": "Scientists thought Great Barrier Reef doomed if global temperatures rise 1.5C – but a new study finds hope",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/05/great-barrier-reef-coral-bleaching-decline-global-heating-recovery",
-      "published_at": "Wed, 05 Nov 2025 12:51:29 GMT",
-      "bullets": [
-        "• The Great Barrier Reef will undergo ‘rapid coral decline’ until 2050 but could recover if global heating is kept below 2C",
-        "• The finding contradicts a widely held view that the decline of the oceanic gem would become irreversible as global temperatures rise above 1.5C "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.971
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Great Barrier Reef will undergo ‘rapid coral decline’ until 2050 but could recover if global heating is kept below 2C",
-          "• The finding contradicts a widely held view that the decline of the oceanic gem would become irreversible as global temperatures rise above 1.5C "
-        ],
-        "hopeful_bullets": [
-          "• The Great Barrier Reef will undergo ‘rapid coral decline’ until 2050 but could recover if global heating is kept below 2C",
-          "• The finding contradicts a widely held view that the decline of the oceanic gem would become irreversible as global temperatures rise above 1.5C "
-        ],
-        "stakes_bullets": [
-          "• The Great Barrier Reef will undergo ‘rapid coral decline’ until 2050 but could recover if global heating is kept below 2C"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5f40d85be5b7"
     },
     {
       "id": "a09b55447bcc",
@@ -3360,6 +3360,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "c5a6b54b052f"
+    },
+    {
+      "id": "e3ac507236e8",
+      "title": "California man who survived 20 days in snowy wilderness says it was walk or die",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/california-man-survived-wilderness",
+      "published_at": "Wed, 05 Nov 2025 11:00:23 GMT",
+      "bullets": [
+        "• Ron Dailey went missing in the Sierra national forest in Fresno county after taking a solo hunting trip there on 13 October",
+        "• Dailey's pickup truck broke down while he was at an elevation of more than 10,000ft, stranding him there with what he estimated to be about two weeks’ worth of food and water "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ron Dailey went missing in the Sierra national forest in Fresno county after taking a solo hunting trip there on 13 October",
+          "• Dailey's pickup truck broke down while he was at an elevation of more than 10,000ft, stranding him there with what he estimated to be about two weeks’ worth of food and water "
+        ],
+        "hopeful_bullets": [
+          "• Ron Dailey went missing in the Sierra national forest in Fresno county after taking a solo hunting trip there on 13 October",
+          "• Dailey's pickup truck broke down while he was at an elevation of more than 10,000ft, stranding him there with what he estimated to be about two weeks’ worth of food and water "
+        ],
+        "stakes_bullets": [
+          "• Ron Dailey went missing in the Sierra national forest in Fresno county after taking a solo hunting trip there on 13 October",
+          "• Dailey's pickup truck broke down while he was at an elevation of more than 10,000ft, stranding him there with what he estimated to be about two weeks’ worth of food and water "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "389f86d3a153"
     },
     {
       "id": "3c4ba0c621e3",
@@ -3661,73 +3693,6 @@
       "cluster_id": "5ecb2e88cb27"
     },
     {
-      "id": "91821c353858",
-      "title": "Celebrity chefs urge Britons to ‘bang in some beans’ to boost legume consumption",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/05/celebrity-chefs-urge-britons-to-bang-in-some-beans-to-boost-legume-consumption",
-      "published_at": "Wed, 05 Nov 2025 07:00:21 GMT",
-      "bullets": [
-        "• Jamie Oliver and Hugh Fearnley-Whittingstall are among a group of celebrity chefs and supermarkets leading a new campaign to double UK bean consumption by 2028",
-        "• Supermarkets including Lidl, Sainsbury’s and M&S are supporting the Bang in Some Beans campaign",
-        "• Growing many types of bean fixes nitrogen into the soil, improving its health "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jamie Oliver and Hugh Fearnley-Whittingstall are among a group of celebrity chefs and supermarkets leading a new campaign to double UK bean consumption by 2028",
-          "• Supermarkets including Lidl, Sainsbury’s and M&S are supporting the Bang in Some Beans campaign"
-        ],
-        "hopeful_bullets": [
-          "• Growing many types of bean fixes nitrogen into the soil, improving its health "
-        ],
-        "stakes_bullets": [
-          "• Jamie Oliver and Hugh Fearnley-Whittingstall are among a group of celebrity chefs and supermarkets leading a new campaign to double UK bean consumption by 2028",
-          "• Supermarkets including Lidl, Sainsbury’s and M&S are supporting the Bang in Some Beans campaign"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "542626de05f9"
-    },
-    {
-      "id": "a32fa36d80de",
-      "title": "Just Stop Oil protesters convicted after being denied right to state climate facts",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2025/nov/05/just-stop-oil-protesters-convicted-after-being-denied-right-to-state-climate-facts",
-      "published_at": "Wed, 05 Nov 2025 07:00:20 GMT",
-      "bullets": [
-        "• Six Just Stop Oil activists were found guilty of public nuisance at Southwark crown court",
-        "• They were convicted of climbing gantries on the M25 in 2022 to demand an end to new fossil fuel projects",
-        "• Three other JSO activists acquitted for taking part in the same demonstration",
-        "• Judge allowed them to argue a defence of reasonable excuse and climate facts "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.934
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Six Just Stop Oil activists were found guilty of public nuisance at Southwark crown court",
-          "• They were convicted of climbing gantries on the M25 in 2022 to demand an end to new fossil fuel projects"
-        ],
-        "hopeful_bullets": [
-          "• Six Just Stop Oil activists were found guilty of public nuisance at Southwark crown court",
-          "• They were convicted of climbing gantries on the M25 in 2022 to demand an end to new fossil fuel projects"
-        ],
-        "stakes_bullets": [
-          "• Six Just Stop Oil activists were found guilty of public nuisance at Southwark crown court",
-          "• They were convicted of climbing gantries on the M25 in 2022 to demand an end to new fossil fuel projects",
-          "• Three other JSO activists acquitted for taking part in the same demonstration"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5d2b0824f508"
-    },
-    {
       "id": "058a4f07844b",
       "title": "Analyst Larry Sabato talks about Tuesday's election results and what they mean",
       "outlet": "NPR Topics: Politics",
@@ -3760,73 +3725,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "e050ca83cc30"
-    },
-    {
-      "id": "07252464d26b",
-      "title": "Low-income areas in England and Wales face worst air pollution, analysis finds",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/05/low-income-areas-england-wales-worst-air-pollution",
-      "published_at": "Wed, 05 Nov 2025 06:00:17 GMT",
-      "bullets": [
-        "• Air pollution in England and Wales has fallen by a third over the last decade",
-        "• But the poorest neighbourhoods are still exposed to the most extreme levels of toxins",
-        "• People of colour, those on low incomes and non-drivers are now disproportionately overrepresented in the 5% of neighbourhoods still exposed "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Air pollution in England and Wales has fallen by a third over the last decade",
-          "• But the poorest neighbourhoods are still exposed to the most extreme levels of toxins"
-        ],
-        "hopeful_bullets": [
-          "• Air pollution in England and Wales has fallen by a third over the last decade",
-          "• But the poorest neighbourhoods are still exposed to the most extreme levels of toxins"
-        ],
-        "stakes_bullets": [
-          "• Air pollution in England and Wales has fallen by a third over the last decade",
-          "• But the poorest neighbourhoods are still exposed to the most extreme levels of toxins",
-          "• People of colour, those on low incomes and non-drivers are now disproportionately overrepresented in the 5% of neighbourhoods still exposed "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "65d7d3899fca"
-    },
-    {
-      "id": "074ab9ce0e74",
-      "title": "Britain’s red-tailed bumblebees may have an unlikely saviour in solar farms",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/05/uk-red-tailed-bumblebees-farming-solar-farms",
-      "published_at": "Wed, 05 Nov 2025 06:00:17 GMT",
-      "bullets": [
-        "• Red-tailed bumblebee (Bombus lapidarius) is one of the most common of the UK’s 24 species",
-        "• Numbers of this species have been plummeting in numbers over the past 30 years",
-        "• Intensive farming has partly destroyed its habitat",
-        "• Solar farms that were simply turfed had little or no beneficial effect "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Red-tailed bumblebee (Bombus lapidarius) is one of the most common of the UK’s 24 species",
-          "• Numbers of this species have been plummeting in numbers over the past 30 years"
-        ],
-        "hopeful_bullets": [
-          "• Red-tailed bumblebee (Bombus lapidarius) is one of the most common of the UK’s 24 species",
-          "• Numbers of this species have been plummeting in numbers over the past 30 years"
-        ],
-        "stakes_bullets": [
-          "• Solar farms that were simply turfed had little or no beneficial effect "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "53d9eb80eec0"
     },
     {
       "id": "2f68a955b95b",
@@ -4197,69 +4095,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "7142e8ce3f20"
-    },
-    {
-      "id": "4e6d481de705",
-      "title": "Solar geoengineering in wrong hands could wreak climate havoc, scientists warn",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/05/solar-geoengineering-in-wrong-hands-could-wreak-climate-havoc-scientists-warn",
-      "published_at": "Wed, 05 Nov 2025 00:01:10 GMT",
-      "bullets": [
-        "• Solar geoengineering could increase the ferocity of North Atlantic hurricanes and cause drought in parts of Africa if deployed above only some parts of the planet by rogue actors",
-        "• If used globally and in a coordinated way for decades, there is strong evidence that it would lower the global temperature "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Solar geoengineering could increase the ferocity of North Atlantic hurricanes and cause drought in parts of Africa if deployed above only some parts of the planet by rogue actors",
-          "• If used globally and in a coordinated way for decades, there is strong evidence that it would lower the global temperature "
-        ],
-        "hopeful_bullets": [
-          "• If used globally and in a coordinated way for decades, there is strong evidence that it would lower the global temperature "
-        ],
-        "stakes_bullets": [
-          "• Solar geoengineering could increase the ferocity of North Atlantic hurricanes and cause drought in parts of Africa if deployed above only some parts of the planet by rogue actors"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "97e8b731790a"
-    },
-    {
-      "id": "326f30f8ee1e",
-      "title": "New set of forest towns to be built between Oxford and Cambridge",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/05/new-set-of-forest-towns-to-be-built-between-oxford-and-cambridge",
-      "published_at": "Wed, 05 Nov 2025 00:01:10 GMT",
-      "bullets": [
-        "• A new set of forest towns will be built in the area between Oxford and Cambridge, nestled in the middle of a new national forest",
-        "• The government has promised to plant millions of trees to boost England’s nature",
-        "• The chancellor, Rachel Reeves, has announced investment into the “Ox-Cam corridor” and hopes to link the cities to create ‘Europe’�s Silicon Valley”"
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A new set of forest towns will be built in the area between Oxford and Cambridge, nestled in the middle of a new national forest",
-          "• The government has promised to plant millions of trees to boost England’s nature"
-        ],
-        "hopeful_bullets": [
-          "• The government has promised to plant millions of trees to boost England’s nature",
-          "• The chancellor, Rachel Reeves, has announced investment into the “Ox-Cam corridor” and hopes to link the cities to create ‘Europe’�s Silicon Valley”"
-        ],
-        "stakes_bullets": [
-          "• A new set of forest towns will be built in the area between Oxford and Cambridge, nestled in the middle of a new national forest",
-          "• The government has promised to plant millions of trees to boost England’s nature"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "27aa54a699ef"
     },
     {
       "id": "5251f779439e",
@@ -7070,6 +6905,40 @@
       "cluster_id": "077fbd269b7a"
     },
     {
+      "id": "e1774ccd554c",
+      "title": "Hiking with the wildlife author who studies Yosemite’s high peaks: ‘These animals are equal to us’",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/02/beth-pratt-yosemite-author-wildlife",
+      "published_at": "Sun, 02 Nov 2025 15:00:05 GMT",
+      "bullets": [
+        "• Beth Pratt's new book, Yosemite Wildlife: The Wonder of Animal Life in California’s Sierra Nevada, is published by the Yosemite Conservancy",
+        "• Each chapter features stories, facts and intimate insights about a different animal",
+        "• The book is the first in more than a century to focus solely on the more than 150 species who call the park home "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Beth Pratt's new book, Yosemite Wildlife: The Wonder of Animal Life in California’s Sierra Nevada, is published by the Yosemite Conservancy",
+          "• Each chapter features stories, facts and intimate insights about a different animal"
+        ],
+        "hopeful_bullets": [
+          "• Beth Pratt's new book, Yosemite Wildlife: The Wonder of Animal Life in California’s Sierra Nevada, is published by the Yosemite Conservancy",
+          "• Each chapter features stories, facts and intimate insights about a different animal"
+        ],
+        "stakes_bullets": [
+          "• Beth Pratt's new book, Yosemite Wildlife: The Wonder of Animal Life in California’s Sierra Nevada, is published by the Yosemite Conservancy",
+          "• Each chapter features stories, facts and intimate insights about a different animal",
+          "• The book is the first in more than a century to focus solely on the more than 150 species who call the park home "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "f1c0641db8a4"
+    },
+    {
       "id": "1d706afe9df3",
       "title": "TVC15: Naboo Pilot (VC72)",
       "outlet": "Jedi Temple Archives",
@@ -7601,6 +7470,38 @@
       "cluster_id": "e9628ecfc68f"
     },
     {
+      "id": "e54b33ce2ddc",
+      "title": "The ground is swallowing homes in this Native village in Alaska. Residents have no choice but to move",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/03/alaska-nunapitchuk-climate-melting-permafrost",
+      "published_at": "Mon, 03 Nov 2025 17:00:04 GMT",
+      "bullets": [
+        "• Nunapitchuk is one of 144 villages in Alaska that will need to relocate because of climate damage caused by the melting of the permafrost",
+        "• Residents have decided to move the entire village to higher ground to cope with the climate change",
+        "• The phenomenon, along with rapid erosion from the coastline, has dangerously damaged key infrastructure "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nunapitchuk is one of 144 villages in Alaska that will need to relocate because of climate damage caused by the melting of the permafrost",
+          "• Residents have decided to move the entire village to higher ground to cope with the climate change"
+        ],
+        "hopeful_bullets": [
+          "• Nunapitchuk is one of 144 villages in Alaska that will need to relocate because of climate damage caused by the melting of the permafrost",
+          "• Residents have decided to move the entire village to higher ground to cope with the climate change"
+        ],
+        "stakes_bullets": [
+          "• Nunapitchuk is one of 144 villages in Alaska that will need to relocate because of climate damage caused by the melting of the permafrost"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "560e22a564de"
+    },
+    {
       "id": "b34dc5077a7b",
       "title": "Watch an Exclusive Clip from DOROTHEA",
       "outlet": "Daily Dead",
@@ -7693,6 +7594,37 @@
       },
       "read_minutes": 7,
       "cluster_id": "b5e7c3c2b179"
+    },
+    {
+      "id": "7cb3dfd728c9",
+      "title": "Only 3% of international climate aid going to transitioning communities: ‘This is absurd’",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/nov/03/international-climate-aid-just-transition",
+      "published_at": "Mon, 03 Nov 2025 15:00:38 GMT",
+      "bullets": [
+        "• Less than 3% of international aid to slash carbon emissions is supporting a ‘just transition’ for workers and communities away from polluting industries, says a new report",
+        "• The report warns that the world’s response to the climate crisis risks deepening inequality rather than addressing it "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Less than 3% of international aid to slash carbon emissions is supporting a ‘just transition’ for workers and communities away from polluting industries, says a new report",
+          "• The report warns that the world’s response to the climate crisis risks deepening inequality rather than addressing it "
+        ],
+        "hopeful_bullets": [
+          "• Less than 3% of international aid to slash carbon emissions is supporting a ‘just transition’ for workers and communities away from polluting industries, says a new report",
+          "• The report warns that the world’s response to the climate crisis risks deepening inequality rather than addressing it "
+        ],
+        "stakes_bullets": [
+          "• The report warns that the world’s response to the climate crisis risks deepening inequality rather than addressing it "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e0bac8cf643f"
     },
     {
       "id": "b75cf4b81357",
@@ -7923,6 +7855,72 @@
       },
       "read_minutes": 7,
       "cluster_id": "2f00a056f738"
+    },
+    {
+      "id": "4b15510ac5ff",
+      "title": "No high-level US representatives will go to UN climate talks, Trump officials say",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/oct/31/cop30-climate-us-officials",
+      "published_at": "Fri, 31 Oct 2025 17:24:26 GMT",
+      "bullets": [
+        "• The US has always sent delegations of various sizes to UN climate summits over the past three decades",
+        "• But the talks in Belém next month are set to be devoid of an official American presence to an extent never seen before",
+        "• Trump has called the climate crisis a “hoax” and a ‘con job”"
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The US has always sent delegations of various sizes to UN climate summits over the past three decades",
+          "• But the talks in Belém next month are set to be devoid of an official American presence to an extent never seen before"
+        ],
+        "hopeful_bullets": [
+          "• The US has always sent delegations of various sizes to UN climate summits over the past three decades",
+          "• But the talks in Belém next month are set to be devoid of an official American presence to an extent never seen before"
+        ],
+        "stakes_bullets": [
+          "• The US has always sent delegations of various sizes to UN climate summits over the past three decades",
+          "• But the talks in Belém next month are set to be devoid of an official American presence to an extent never seen before",
+          "• Trump has called the climate crisis a “hoax” and a ‘con job”"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e3ad74b8384c"
+    },
+    {
+      "id": "21c8f8a1821e",
+      "title": "I tried lab-grown chocolate. Could it be the future of Halloween?",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/wellness/2025/oct/31/lab-grown-chocolate-halloween",
+      "published_at": "Fri, 31 Oct 2025 16:00:09 GMT",
+      "bullets": [
+        "• California Cultured's chocolate is made with techniques previously used to synthesize other bioactive products like certain plant-derived pharmaceuticals",
+        "• Humans consume more than 7m metric tons of chocolate per year",
+        "• In the US, chocolate demand surges in October in advance of Halloween",
+        "• But the chocolate market has grown volatile in recent years "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• California Cultured's chocolate is made with techniques previously used to synthesize other bioactive products like certain plant-derived pharmaceuticals",
+          "• Humans consume more than 7m metric tons of chocolate per year"
+        ],
+        "hopeful_bullets": [
+          "• In the US, chocolate demand surges in October in advance of Halloween"
+        ],
+        "stakes_bullets": [
+          "• California Cultured's chocolate is made with techniques previously used to synthesize other bioactive products like certain plant-derived pharmaceuticals"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "15c70d6df915"
     },
     {
       "id": "d86e9bf4ff14",
@@ -9923,6 +9921,24 @@
       ]
     },
     {
+      "id": "8fd1b4f368b2",
+      "topic": "asia market pacific rise",
+      "keywords": [
+        "asia",
+        "market",
+        "pacific",
+        "rise",
+        "tracking",
+        "wall"
+      ],
+      "item_ids": [
+        "93f3d1777755"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "7ec82d2eb86f",
       "topic": "expectation lucid misse narrow",
       "keywords": [
@@ -9989,24 +10005,6 @@
       ],
       "item_ids": [
         "7e4eca073f88"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "8fd1b4f368b2",
-      "topic": "asia market pacific rise",
-      "keywords": [
-        "asia",
-        "market",
-        "pacific",
-        "rise",
-        "tracking",
-        "wall"
-      ],
-      "item_ids": [
-        "93f3d1777755"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -11140,6 +11138,168 @@
       ]
     },
     {
+      "id": "419ea1a945ff",
+      "topic": "lawmaker mexico nominate oversee",
+      "keywords": [
+        "lawmaker",
+        "mexico",
+        "nominate",
+        "oversee",
+        "public",
+        "trump"
+      ],
+      "item_ids": [
+        "f81c88ce332d"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "389f86d3a153",
+      "topic": "california days man snowy",
+      "keywords": [
+        "california",
+        "days",
+        "man",
+        "snowy",
+        "survived",
+        "wildernes"
+      ],
+      "item_ids": [
+        "e3ac507236e8"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "560e22a564de",
+      "topic": "alaska ground home native",
+      "keywords": [
+        "alaska",
+        "ground",
+        "home",
+        "native",
+        "swallowing",
+        "village"
+      ],
+      "item_ids": [
+        "e54b33ce2ddc"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "e0bac8cf643f",
+      "topic": "aid climate going international",
+      "keywords": [
+        "aid",
+        "climate",
+        "going",
+        "international",
+        "only",
+        "transitioning"
+      ],
+      "item_ids": [
+        "7cb3dfd728c9"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "f1c0641db8a4",
+      "topic": "author high hiking studie",
+      "keywords": [
+        "author",
+        "high",
+        "hiking",
+        "studie",
+        "wildlife",
+        "yosemite"
+      ],
+      "item_ids": [
+        "e1774ccd554c"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "e3ad74b8384c",
+      "topic": "climate high level representative",
+      "keywords": [
+        "climate",
+        "high",
+        "level",
+        "representative",
+        "talk",
+        "trump"
+      ],
+      "item_ids": [
+        "4b15510ac5ff"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "15c70d6df915",
+      "topic": "chocolate future grown halloween",
+      "keywords": [
+        "chocolate",
+        "future",
+        "grown",
+        "halloween",
+        "lab",
+        "tried"
+      ],
+      "item_ids": [
+        "21c8f8a1821e"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "282bea8e2b7f",
+      "topic": "chance climate goal researcher",
+      "keywords": [
+        "chance",
+        "climate",
+        "goal",
+        "researcher",
+        "return",
+        "still"
+      ],
+      "item_ids": [
+        "40a1b30ee22c"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "8360da05b660",
+      "topic": "defend green leading plan",
+      "keywords": [
+        "defend",
+        "green",
+        "leading",
+        "plan",
+        "starmer",
+        "way"
+      ],
+      "item_ids": [
+        "5ac5540cce74"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "6d42f9fe29fc",
       "topic": "amazon flagship fund opts",
       "keywords": [
@@ -11152,168 +11312,6 @@
       ],
       "item_ids": [
         "655cae40d8bd"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "5f40d85be5b7",
-      "topic": "barrier doomed great reef",
-      "keywords": [
-        "barrier",
-        "doomed",
-        "great",
-        "reef",
-        "scientist",
-        "thought"
-      ],
-      "item_ids": [
-        "ddd804698ec2"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "542626de05f9",
-      "topic": "bang briton celebrity chef",
-      "keywords": [
-        "bang",
-        "briton",
-        "celebrity",
-        "chef",
-        "some",
-        "urge"
-      ],
-      "item_ids": [
-        "91821c353858"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "97e8b731790a",
-      "topic": "climate geoengineering hand solar",
-      "keywords": [
-        "climate",
-        "geoengineering",
-        "hand",
-        "solar",
-        "wreak",
-        "wrong"
-      ],
-      "item_ids": [
-        "4e6d481de705"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "27aa54a699ef",
-      "topic": "between built forest oxford",
-      "keywords": [
-        "between",
-        "built",
-        "forest",
-        "oxford",
-        "set",
-        "town"
-      ],
-      "item_ids": [
-        "326f30f8ee1e"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "5d2b0824f508",
-      "topic": "being convicted just oil",
-      "keywords": [
-        "being",
-        "convicted",
-        "just",
-        "oil",
-        "protester",
-        "stop"
-      ],
-      "item_ids": [
-        "a32fa36d80de"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "65d7d3899fca",
-      "topic": "area england face income",
-      "keywords": [
-        "area",
-        "england",
-        "face",
-        "income",
-        "low",
-        "wale"
-      ],
-      "item_ids": [
-        "07252464d26b"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "7b38783e3d1c",
-      "topic": "battle brazil desert farmer",
-      "keywords": [
-        "battle",
-        "brazil",
-        "desert",
-        "farmer",
-        "green",
-        "winning"
-      ],
-      "item_ids": [
-        "72b602cb0db8"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "ccf1cbdb59f7",
-      "topic": "american archaeologist civilisation discover",
-      "keywords": [
-        "american",
-        "archaeologist",
-        "civilisation",
-        "discover",
-        "oldest",
-        "survived"
-      ],
-      "item_ids": [
-        "67691ed34170"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "53d9eb80eec0",
-      "topic": "britain bumblebee red saviour",
-      "keywords": [
-        "britain",
-        "bumblebee",
-        "red",
-        "saviour",
-        "tailed",
-        "unlikely"
-      ],
-      "item_ids": [
-        "074ab9ce0e74"
       ],
       "outlets": [
         "Environment | The Guardian"
