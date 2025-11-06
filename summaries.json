@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-06T00:16:58Z",
+  "generated_at": "2025-11-06T02:34:24Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -296,35 +296,72 @@
       "cluster_id": "4d68b7d6cb41"
     },
     {
-      "id": "af33d0612869",
-      "title": "Snap shares rocket 15% on strong forecast, $400 million Perplexity deal",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/05/snap-q3-earnings-report-2025.html",
-      "published_at": "Wed, 05 Nov 2025 23:48:27 GMT",
+      "id": "d0ef5c7505cc",
+      "title": "FAA Plan to Cut Flights Might Not Be an Utter Nightmare",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/faa-plan-to-cut-flights-might-not-be-an-utter-nightmare/",
+      "published_at": "Wed, 05 Nov 2025 23:58:02 +0000",
       "bullets": [
-        "• Snap shares climbed as much as 25% on Wednesday after its third-quarter earnings report",
-        "• The company also announced that it is partnering with the startup Perplexity AI, which \"will integrate its conversational search directly into Snapchat\" The feature is set to appear in Snapchat starting in early 2026, Snap said "
+        "• Federal workers have gone 35 days without a paycheck",
+        "• A 10 percent reduction in scheduled flights could lead to some 4,000 to 5,000 canceled flights per day",
+        "• It's unclear whether the flight cut will affect commercial airlines or cargo and private flights "
       ],
-      "category": "Business",
+      "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.806
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Snap shares climbed as much as 25% on Wednesday after its third-quarter earnings report",
-          "• The company also announced that it is partnering with the startup Perplexity AI, which \"will integrate its conversational search directly into Snapchat\" The feature is set to appear in Snapchat starting in early 2026, Snap said "
+          "• Federal workers have gone 35 days without a paycheck",
+          "• A 10 percent reduction in scheduled flights could lead to some 4,000 to 5,000 canceled flights per day"
         ],
         "hopeful_bullets": [
-          "• Snap shares climbed as much as 25% on Wednesday after its third-quarter earnings report",
-          "• The company also announced that it is partnering with the startup Perplexity AI, which \"will integrate its conversational search directly into Snapchat\" The feature is set to appear in Snapchat starting in early 2026, Snap said "
+          "• Federal workers have gone 35 days without a paycheck",
+          "• A 10 percent reduction in scheduled flights could lead to some 4,000 to 5,000 canceled flights per day"
         ],
         "stakes_bullets": [
-          "• The company also announced that it is partnering with the startup Perplexity AI, which \"will integrate its conversational search directly into Snapchat\" The feature is set to appear in Snapchat starting in early 2026, Snap said "
+          "• A 10 percent reduction in scheduled flights could lead to some 4,000 to 5,000 canceled flights per day",
+          "• It's unclear whether the flight cut will affect commercial airlines or cargo and private flights "
         ]
       },
-      "read_minutes": 5,
-      "cluster_id": "1448ba33858b"
+      "read_minutes": 3,
+      "cluster_id": "6436fec8fb00"
+    },
+    {
+      "id": "56b5acd92647",
+      "title": "Musk and Trump both went to Penn—now hacked by someone sympathetic to their cause",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/security/2025/11/musk-and-trump-both-went-to-penn-now-hacked-by-someone-sympathetic-to-their-cause/",
+      "published_at": "Wed, 05 Nov 2025 23:50:26 +0000",
+      "bullets": [
+        "• The University of Pennsylvania has been hacked by an unknown hacker",
+        "• The university is the alma mater of both Elon Musk and Donald Trump",
+        "• The school has become an obvious target of the Trump administration",
+        "• The hacker also appears to have grabbed a copy of the school’s donor database "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The University of Pennsylvania has been hacked by an unknown hacker",
+          "• The university is the alma mater of both Elon Musk and Donald Trump"
+        ],
+        "hopeful_bullets": [
+          "• The University of Pennsylvania has been hacked by an unknown hacker",
+          "• The university is the alma mater of both Elon Musk and Donald Trump"
+        ],
+        "stakes_bullets": [
+          "• The University of Pennsylvania has been hacked by an unknown hacker",
+          "• The university is the alma mater of both Elon Musk and Donald Trump",
+          "• The school has become an obvious target of the Trump administration"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7e4668bc1298"
     },
     {
       "id": "bcf4efe83dbb",
@@ -392,38 +429,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "60f6e361a0c3"
-    },
-    {
-      "id": "c72fa50433fb",
-      "title": "Trump disparages Zohran Mamdani’s victory after Democrats sweep key 2025 elections – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/nov/05/zohran-mamdani-new-york-nyc-donald-trump-mayor-election-california-new-jersey-virginia-latest-news-results",
-      "published_at": "Wed, 05 Nov 2025 23:32:04 GMT",
-      "bullets": [
-        "• Judge orders immigration facility in Chicago to provide sanitary conditions",
-        "• Judge says detainees were kept in ‘inhumane’ conditions and were forced to sleep on the floor or in plastic chairs",
-        "• Judge: “The decision facing all Americans could not be more clear’"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Judge orders immigration facility in Chicago to provide sanitary conditions",
-          "• Judge says detainees were kept in ‘inhumane’ conditions and were forced to sleep on the floor or in plastic chairs"
-        ],
-        "hopeful_bullets": [
-          "• Judge orders immigration facility in Chicago to provide sanitary conditions",
-          "• Judge says detainees were kept in ‘inhumane’ conditions and were forced to sleep on the floor or in plastic chairs"
-        ],
-        "stakes_bullets": [
-          "• Judge: “The decision facing all Americans could not be more clear’"
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "1de993c3aef4"
     },
     {
       "id": "f81c88ce332d",
@@ -527,37 +532,38 @@
       "cluster_id": "954ff8588bad"
     },
     {
-      "id": "49ff968f701f",
-      "title": "Official Sailor Moon Collab Apologizes After Disappointing Reveal",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/sailor-moon-cafe-apology/",
-      "published_at": "Wed, 05 Nov 2025 23:30:11 GMT",
+      "id": "532cc95eb019",
+      "title": "83-year-old man married 50 years nearly stumps doctors with surprise STI",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/health/2025/11/rare-form-of-syphilis-in-married-elderly-man-nearly-stumps-doctors/",
+      "published_at": "Wed, 05 Nov 2025 23:29:42 +0000",
       "bullets": [
-        "• Official Sailor Moon Cafe in Tokyo, Japan, only recently opened",
-        "• Some fans have complained about the quality of the food and service",
-        "• Organizers have issued an apology for the poor service quality",
-        "• The event will be hosted by the Sailor Moon Fan Club "
+        "• Syphilis can be a tricky disease to diagnose, especially when a patient may not be sharing the whole story",
+        "• An 83-year-old married man came in with a rare form of secondary syphilis",
+        "• He had been sexually inactive in recent years following treatment for cancer",
+        "• The case was published in the New England Journal of Medicine "
       ],
-      "category": "Comics",
+      "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.976
       },
       "moods": {
         "brief_bullets": [
-          "• Official Sailor Moon Cafe in Tokyo, Japan, only recently opened",
-          "• Some fans have complained about the quality of the food and service"
+          "• Syphilis can be a tricky disease to diagnose, especially when a patient may not be sharing the whole story",
+          "• An 83-year-old married man came in with a rare form of secondary syphilis"
         ],
         "hopeful_bullets": [
-          "• Official Sailor Moon Cafe in Tokyo, Japan, only recently opened",
-          "• Some fans have complained about the quality of the food and service"
+          "• He had been sexually inactive in recent years following treatment for cancer"
         ],
         "stakes_bullets": [
-          "• The event will be hosted by the Sailor Moon Fan Club "
+          "• Syphilis can be a tricky disease to diagnose, especially when a patient may not be sharing the whole story",
+          "• An 83-year-old married man came in with a rare form of secondary syphilis",
+          "• He had been sexually inactive in recent years following treatment for cancer"
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "cc9493f78437"
+      "read_minutes": 1,
+      "cluster_id": "9c3522656b61"
     },
     {
       "id": "6dd926c8ea0d",
@@ -627,41 +633,6 @@
       "cluster_id": "f870d294073e"
     },
     {
-      "id": "bace1dc59e51",
-      "title": "Harrison Ford Says Ridley Scott Got Blade Runner Wrong (& 43 Years Later, He Might Be Right)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/harrison-ford-ridley-scott-blade-runner-deckard-replicant-debate/",
-      "published_at": "Wed, 05 Nov 2025 23:20:11 GMT",
-      "bullets": [
-        "• Ridley Scott's sci-fi film, Blade Runner, is considered one of the best films ever told in the genre",
-        "• Harrison Ford and Ridley Scott have very different versions of the story",
-        "• The film's central premise is the question of who is and isn't a replicant",
-        "• In the movie's continuity, replicants are artificial human beings "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ridley Scott's sci-fi film, Blade Runner, is considered one of the best films ever told in the genre",
-          "• Harrison Ford and Ridley Scott have very different versions of the story"
-        ],
-        "hopeful_bullets": [
-          "• Ridley Scott's sci-fi film, Blade Runner, is considered one of the best films ever told in the genre",
-          "• Harrison Ford and Ridley Scott have very different versions of the story"
-        ],
-        "stakes_bullets": [
-          "• Ridley Scott's sci-fi film, Blade Runner, is considered one of the best films ever told in the genre",
-          "• Harrison Ford and Ridley Scott have very different versions of the story",
-          "• The film's central premise is the question of who is and isn't a replicant"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "cc90915789e5"
-    },
-    {
       "id": "ee939108bbbf",
       "title": "Netflix is Getting The Scariest True Crime Thriller Ever Made Very Soon",
       "outlet": "Dread Central",
@@ -692,37 +663,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "3649cafc5726"
-    },
-    {
-      "id": "8e64db1b3aeb",
-      "title": "It’s Official, New Dragon Ball Anime Will Be Better Than DBZ",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/dragon-ball-upcoming-2026-anime-better-than-dbz/",
-      "published_at": "Wed, 05 Nov 2025 23:15:11 GMT",
-      "bullets": [
-        "• A new Dragon Ball anime series is on the horizon, and it looks like Toei will be pulling out all the stops to make this the proverbial Super Saiyan God of shonen battle anime",
-        "• The announcement for the upcoming Genki Damatsuri event on January 25, 2026, to celebrate the 40th anniversary of the Dragon Ball Anime "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A new Dragon Ball anime series is on the horizon, and it looks like Toei will be pulling out all the stops to make this the proverbial Super Saiyan God of shonen battle anime",
-          "• The announcement for the upcoming Genki Damatsuri event on January 25, 2026, to celebrate the 40th anniversary of the Dragon Ball Anime "
-        ],
-        "hopeful_bullets": [
-          "• A new Dragon Ball anime series is on the horizon, and it looks like Toei will be pulling out all the stops to make this the proverbial Super Saiyan God of shonen battle anime",
-          "• The announcement for the upcoming Genki Damatsuri event on January 25, 2026, to celebrate the 40th anniversary of the Dragon Ball Anime "
-        ],
-        "stakes_bullets": [
-          "• A new Dragon Ball anime series is on the horizon, and it looks like Toei will be pulling out all the stops to make this the proverbial Super Saiyan God of shonen battle anime"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "c1e55cf75572"
     },
     {
       "id": "44e43663ed89",
@@ -889,6 +829,41 @@
       "cluster_id": "1c7c308443e6"
     },
     {
+      "id": "379da5437371",
+      "title": "Controversial rapper Namewee held over influencer's death",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly9zp55v33o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 05 Nov 2025 23:01:23 GMT",
+      "bullets": [
+        "• Controversial Malaysian rapper Namewee remanded in custody in connection with death of Taiwanese influencer",
+        "• Iris Hsieh, 31, was found dead in a Kuala Lumpur hotel bathtub two weeks ago",
+        "• Police reclassified her death as murder after reclassifying it as murder",
+        "• He denies charges of illegal drug use and possession for which he was granted bail "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Controversial Malaysian rapper Namewee remanded in custody in connection with death of Taiwanese influencer",
+          "• Iris Hsieh, 31, was found dead in a Kuala Lumpur hotel bathtub two weeks ago"
+        ],
+        "hopeful_bullets": [
+          "• Controversial Malaysian rapper Namewee remanded in custody in connection with death of Taiwanese influencer",
+          "• Iris Hsieh, 31, was found dead in a Kuala Lumpur hotel bathtub two weeks ago"
+        ],
+        "stakes_bullets": [
+          "• Controversial Malaysian rapper Namewee remanded in custody in connection with death of Taiwanese influencer",
+          "• Iris Hsieh, 31, was found dead in a Kuala Lumpur hotel bathtub two weeks ago",
+          "• Police reclassified her death as murder after reclassifying it as murder"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "5774e67ad65f"
+    },
+    {
       "id": "0b2cebd03ae9",
       "title": "5 AI-developed malware families analyzed by Google fail to work and are easily detected",
       "outlet": "Ars Technica - All content",
@@ -956,105 +931,6 @@
       "cluster_id": "282bea8e2b7f"
     },
     {
-      "id": "07c2bd4f66fb",
-      "title": "Marvel Has Good News For PlayStation Fans",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/marvel-ps5-games-confirmed/",
-      "published_at": "Wed, 05 Nov 2025 22:55:11 GMT",
-      "bullets": [
-        "• Marvel Wants to keep working with Insomniac Games for years to come",
-        "• Marvel’s Spider-Man, its Miles Morales spin-off, and its sequel are among the best PlayStation console exclusives to date",
-        "• There have been leaks about future projects involving Marvel heroes planned through to 2030 "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Marvel Wants to keep working with Insomniac Games for years to come",
-          "• Marvel’s Spider-Man, its Miles Morales spin-off, and its sequel are among the best PlayStation console exclusives to date"
-        ],
-        "hopeful_bullets": [
-          "• Marvel Wants to keep working with Insomniac Games for years to come",
-          "• Marvel’s Spider-Man, its Miles Morales spin-off, and its sequel are among the best PlayStation console exclusives to date"
-        ],
-        "stakes_bullets": [
-          "• There have been leaks about future projects involving Marvel heroes planned through to 2030 "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "078819c941d8"
-    },
-    {
-      "id": "acc0d3c5793a",
-      "title": "Kentucky plane crash: death toll rises to 11 as investigators search for answers",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/05/ups-plane-crash-louisville-investigation",
-      "published_at": "Wed, 05 Nov 2025 22:49:33 GMT",
-      "bullets": [
-        "• At least 11 people have been killed and 15 injured in the crash at the Muhammad Ali international airport in Louisville, Kentucky",
-        "• NTSB investigators say the plane's left wing caught fire and an engine fell off shortly before it crashed",
-        "• The plane gained enough altitude to clear the fence at the end of the runway before crashing off airport property, investigators say "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least 11 people have been killed and 15 injured in the crash at the Muhammad Ali international airport in Louisville, Kentucky",
-          "• NTSB investigators say the plane's left wing caught fire and an engine fell off shortly before it crashed"
-        ],
-        "hopeful_bullets": [
-          "• NTSB investigators say the plane's left wing caught fire and an engine fell off shortly before it crashed"
-        ],
-        "stakes_bullets": [
-          "• NTSB investigators say the plane's left wing caught fire and an engine fell off shortly before it crashed",
-          "• The plane gained enough altitude to clear the fence at the end of the runway before crashing off airport property, investigators say "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "20c7d4d53916"
-    },
-    {
-      "id": "407fa51d648a",
-      "title": "Star Trek's New Series Pulled Off Something the Creators Say 'Never Happens,' And We're Blown Away",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/star-trek-new-series-sales-increase-kirk/",
-      "published_at": "Wed, 05 Nov 2025 22:48:40 GMT",
-      "bullets": [
-        "• IDW announced that Star Trek: The Last Starship #3 orders are up from issue #2",
-        "• The series is the Star Trek version of the Absolute and Ultimate Universe",
-        "• The first issue has sold out and gone to a second printing",
-        "• The writers took to social media to celebrate the news "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• IDW announced that Star Trek: The Last Starship #3 orders are up from issue #2",
-          "• The series is the Star Trek version of the Absolute and Ultimate Universe"
-        ],
-        "hopeful_bullets": [
-          "• IDW announced that Star Trek: The Last Starship #3 orders are up from issue #2",
-          "• The series is the Star Trek version of the Absolute and Ultimate Universe"
-        ],
-        "stakes_bullets": [
-          "• IDW announced that Star Trek: The Last Starship #3 orders are up from issue #2",
-          "• The series is the Star Trek version of the Absolute and Ultimate Universe",
-          "• The first issue has sold out and gone to a second printing"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7f56b6108e3f"
-    },
-    {
       "id": "6246cb41a026",
       "title": "Green Groups’ Election Takeaway: Focus on Trump Energy Agenda Costs",
       "outlet": "Inside Climate News",
@@ -1085,40 +961,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "2e8da7917be8"
-    },
-    {
-      "id": "76f912b41381",
-      "title": "Stranger Things' Darkest Death Was Nearly Twice as Horrifying",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/stranger-things-bob-original-death-worse/",
-      "published_at": "Wed, 05 Nov 2025 22:40:11 GMT",
-      "bullets": [
-        "• Fans have become deeply attached to several of the characters in the hit series",
-        "• The creators of the series have revealed that some of them have been killed in earlier episodes",
-        "• The series' creators said they were scolded for going too far with the death of Bob Newby "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Fans have become deeply attached to several of the characters in the hit series",
-          "• The creators of the series have revealed that some of them have been killed in earlier episodes"
-        ],
-        "hopeful_bullets": [
-          "• Fans have become deeply attached to several of the characters in the hit series",
-          "• The creators of the series have revealed that some of them have been killed in earlier episodes"
-        ],
-        "stakes_bullets": [
-          "• Fans have become deeply attached to several of the characters in the hit series",
-          "• The creators of the series have revealed that some of them have been killed in earlier episodes",
-          "• The series' creators said they were scolded for going too far with the death of Bob Newby "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "079fd3ef4b01"
     },
     {
       "id": "b336b9608cce",
@@ -1155,39 +997,6 @@
       "cluster_id": "bf4d859cbc3d"
     },
     {
-      "id": "ce484666d075",
-      "title": "US to cut airline traffic by 10% due to shutdown, Trump transport chief says",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/05/government-shutdown-duffy-airspace-closures",
-      "published_at": "Wed, 05 Nov 2025 22:35:44 GMT",
-      "bullets": [
-        "• Federal government to reduce airline traffic by 10% at 40 airports if shutdown does not end",
-        "• FAA administrator Bryan Bedford said that air traffic was currently operating safely, but that the FAA was concerned about widespread reports of fatigue from flight controllers",
-        "• The announcement did not specify which 40 airports would see the reduction in air traffic "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Federal government to reduce airline traffic by 10% at 40 airports if shutdown does not end",
-          "• FAA administrator Bryan Bedford said that air traffic was currently operating safely, but that the FAA was concerned about widespread reports of fatigue from flight controllers"
-        ],
-        "hopeful_bullets": [
-          "• Federal government to reduce airline traffic by 10% at 40 airports if shutdown does not end"
-        ],
-        "stakes_bullets": [
-          "• Federal government to reduce airline traffic by 10% at 40 airports if shutdown does not end",
-          "• FAA administrator Bryan Bedford said that air traffic was currently operating safely, but that the FAA was concerned about widespread reports of fatigue from flight controllers",
-          "• The announcement did not specify which 40 airports would see the reduction in air traffic "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "de7736cc584a"
-    },
-    {
       "id": "02bc70a01bf5",
       "title": "Where the vote for Mamdani was strongest in New York City",
       "outlet": "US news | The Guardian",
@@ -1217,42 +1026,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "7730faa8e2b7"
-    },
-    {
-      "id": "832427eec658",
-      "title": "Police report describes Republican Nancy Mace berating airport police and TSA agents",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/05/nancy-mace-police-report-south-carolina-airport",
-      "published_at": "Wed, 05 Nov 2025 22:31:36 GMT",
-      "bullets": [
-        "• Rep",
-        "• Nancy Mace, a Republican candidate for governor of South Carolina, berated airport police and TSA agents",
-        "• Mace said that this was no way to treat a “f---ing U.S",
-        "• representative’s",
-        "• She said she would sue the airport authority for defamation and false reporting "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Rep",
-          "• Nancy Mace, a Republican candidate for governor of South Carolina, berated airport police and TSA agents"
-        ],
-        "hopeful_bullets": [
-          "• Rep",
-          "• Nancy Mace, a Republican candidate for governor of South Carolina, berated airport police and TSA agents"
-        ],
-        "stakes_bullets": [
-          "• Rep",
-          "• Nancy Mace, a Republican candidate for governor of South Carolina, berated airport police and TSA agents",
-          "• Mace said that this was no way to treat a “f---ing U.S"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "153b68ff8226"
     },
     {
       "id": "f756bd350694",
@@ -1389,68 +1162,6 @@
       "cluster_id": "567b4fe08d92"
     },
     {
-      "id": "f5104a8689f5",
-      "title": "11 dead in crash after engine falls off cargo plane during takeoff in Kentucky",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce9dyyydjr0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 05 Nov 2025 22:03:16 GMT",
-      "bullets": [
-        "• 11 dead in crash after engine falls off cargo plane during takeoff in Kentucky",
-        "• Left engine fell from the wing during takeoff, causing a major fire that sent thick plumes of smoke into the air",
-        "• More than a dozen others were injured in the crash, from burns and shrapnel injuries to smoke inhalation "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 11 dead in crash after engine falls off cargo plane during takeoff in Kentucky",
-          "• Left engine fell from the wing during takeoff, causing a major fire that sent thick plumes of smoke into the air"
-        ],
-        "hopeful_bullets": [
-          "• Left engine fell from the wing during takeoff, causing a major fire that sent thick plumes of smoke into the air"
-        ],
-        "stakes_bullets": [
-          "• 11 dead in crash after engine falls off cargo plane during takeoff in Kentucky"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "13316d70c9bc"
-    },
-    {
-      "id": "41c8ba16047c",
-      "title": "Disturbing dash-cam footage shows LA police fatally striking skateboarder",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/05/la-police-skateboarder-dashcam-video",
-      "published_at": "Wed, 05 Nov 2025 21:52:18 GMT",
-      "bullets": [
-        "• Gerardo \"Jerry\" Estrada, 30, appeared to be heading in the direction of the officers and was hit head-on by the car and later pronounced dead at the scene",
-        "• The officers were responding to a call to help set up a perimeter while the department searched for a person with a felony warrant "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Gerardo \"Jerry\" Estrada, 30, appeared to be heading in the direction of the officers and was hit head-on by the car and later pronounced dead at the scene",
-          "• The officers were responding to a call to help set up a perimeter while the department searched for a person with a felony warrant "
-        ],
-        "hopeful_bullets": [
-          "• The officers were responding to a call to help set up a perimeter while the department searched for a person with a felony warrant "
-        ],
-        "stakes_bullets": [
-          "• Gerardo \"Jerry\" Estrada, 30, appeared to be heading in the direction of the officers and was hit head-on by the car and later pronounced dead at the scene",
-          "• The officers were responding to a call to help set up a perimeter while the department searched for a person with a felony warrant "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ee8351781769"
-    },
-    {
       "id": "c253caa7bcba",
       "title": "Billionaire Jeff Yass gives $100 million to University of Austin for free tuition",
       "outlet": "The Texas Tribune",
@@ -1483,41 +1194,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "c091b2e64649"
-    },
-    {
-      "id": "47fab97bd076",
-      "title": "UPS cargo plane crash near Louisville airport kills at least 11",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/04/ups-plane-louisville.html",
-      "published_at": "Wed, 05 Nov 2025 21:47:21 GMT",
-      "bullets": [
-        "• A UPS cargo plane crashed shortly after taking off from Louisville Muhammad Ali International Airport in Kentucky",
-        "• At least 11 people were killed, including a young child, Kentucky Gov",
-        "• Andy Beshear says",
-        "• He says he expects the fatality count could possibly reach 12 by the end of the day",
-        "• The NTSB sent a team to the crash site Wednesday to start investigating the incident "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A UPS cargo plane crashed shortly after taking off from Louisville Muhammad Ali International Airport in Kentucky",
-          "• At least 11 people were killed, including a young child, Kentucky Gov"
-        ],
-        "hopeful_bullets": [
-          "• A UPS cargo plane crashed shortly after taking off from Louisville Muhammad Ali International Airport in Kentucky",
-          "• At least 11 people were killed, including a young child, Kentucky Gov"
-        ],
-        "stakes_bullets": [
-          "• A UPS cargo plane crashed shortly after taking off from Louisville Muhammad Ali International Airport in Kentucky",
-          "• He says he expects the fatality count could possibly reach 12 by the end of the day"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ce15fcc610d6"
     },
     {
       "id": "04445ac19a1f",
@@ -1754,38 +1430,6 @@
       "cluster_id": "21a6650cd8ac"
     },
     {
-      "id": "fdf180c08a14",
-      "title": "Seven Italian climbers still missing in Nepal",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0mxkmzyx2eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 05 Nov 2025 20:46:51 GMT",
-      "bullets": [
-        "• Italy says seven of its citizens are missing in Nepal after trying to climb a Himalayan peak",
-        "• The Italian team was at the base camp of Dolma Khang peak, which has an elevation of 6,332m (20,774ft) Three other Italian climbers have been confirmed dead this week "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Italy says seven of its citizens are missing in Nepal after trying to climb a Himalayan peak",
-          "• The Italian team was at the base camp of Dolma Khang peak, which has an elevation of 6,332m (20,774ft) Three other Italian climbers have been confirmed dead this week "
-        ],
-        "hopeful_bullets": [
-          "• Italy says seven of its citizens are missing in Nepal after trying to climb a Himalayan peak",
-          "• The Italian team was at the base camp of Dolma Khang peak, which has an elevation of 6,332m (20,774ft) Three other Italian climbers have been confirmed dead this week "
-        ],
-        "stakes_bullets": [
-          "• Italy says seven of its citizens are missing in Nepal after trying to climb a Himalayan peak",
-          "• The Italian team was at the base camp of Dolma Khang peak, which has an elevation of 6,332m (20,774ft) Three other Italian climbers have been confirmed dead this week "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "0d40c0fce277"
-    },
-    {
       "id": "70f7eede165b",
       "title": "The AI Data Center Boom Is Warping the US Economy",
       "outlet": "WIRED",
@@ -1815,76 +1459,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "805d4e2119e8"
-    },
-    {
-      "id": "7684260867ff",
-      "title": "Trump voters for Mamdani and a new left coalition: the biggest surprises from New York’s election",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/05/new-york-election-trends-michael-lange-zohran-mamdani",
-      "published_at": "Wed, 05 Nov 2025 20:45:30 GMT",
-      "bullets": [
-        "• Michael Lange predicted that Zohran Mamdani would win the New York mayoral election",
-        "• He also predicted that Andrew Cuomo would win, but failed to predict Andrew Cuomo's strong performance",
-        "• Lange, a political analyst born and raised in New York City, has spent over a decade in progressive politics "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.898
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Michael Lange predicted that Zohran Mamdani would win the New York mayoral election",
-          "• He also predicted that Andrew Cuomo would win, but failed to predict Andrew Cuomo's strong performance"
-        ],
-        "hopeful_bullets": [
-          "• Michael Lange predicted that Zohran Mamdani would win the New York mayoral election",
-          "• He also predicted that Andrew Cuomo would win, but failed to predict Andrew Cuomo's strong performance",
-          "• Lange, a political analyst born and raised in New York City, has spent over a decade in progressive politics "
-        ],
-        "stakes_bullets": [
-          "• Michael Lange predicted that Zohran Mamdani would win the New York mayoral election",
-          "• He also predicted that Andrew Cuomo would win, but failed to predict Andrew Cuomo's strong performance",
-          "• Lange, a political analyst born and raised in New York City, has spent over a decade in progressive politics "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "d545878f0321"
-    },
-    {
-      "id": "5c855d0f7f49",
-      "title": "What does Prop 50’s passage mean for California, Gavin Newsom and the US?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/05/california-proposition-50-explainer",
-      "published_at": "Wed, 05 Nov 2025 20:43:20 GMT",
-      "bullets": [
-        "• Californians overwhelmingly backed Proposition 50, the crucial redistricting measure",
-        "• California will halt the work of its independent redistricting commission until after 2030",
-        "• Prop 50 will allow the legislature to redraw congressional districts to carve out five additional Democratic seats",
-        "• The new map is expected to oust longtime Republican officials, and have significant effects on the 2026 midterms "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Californians overwhelmingly backed Proposition 50, the crucial redistricting measure",
-          "• California will halt the work of its independent redistricting commission until after 2030"
-        ],
-        "hopeful_bullets": [
-          "• Californians overwhelmingly backed Proposition 50, the crucial redistricting measure",
-          "• California will halt the work of its independent redistricting commission until after 2030"
-        ],
-        "stakes_bullets": [
-          "• California will halt the work of its independent redistricting commission until after 2030",
-          "• Prop 50 will allow the legislature to redraw congressional districts to carve out five additional Democratic seats",
-          "• The new map is expected to oust longtime Republican officials, and have significant effects on the 2026 midterms "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "474cb1dbe11a"
     },
     {
       "id": "9a53633f5470",
@@ -2147,40 +1721,6 @@
       "cluster_id": "4b16ba34cf4a"
     },
     {
-      "id": "952c757fa52e",
-      "title": "Tesla sales in Germany have cratered from last year, data shows",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/05/tesla-musk-germany-sales-down.html",
-      "published_at": "Wed, 05 Nov 2025 19:30:26 GMT",
-      "bullets": [
-        "• Tesla sold 750 electric vehicles in Germany for October 2025, less than half of what it sold a year ago",
-        "• In October last year, Tesla sold 1,607 EVs in Germany",
-        "• Elon Musk's incendiary political rhetoric and endorsement of AfD have weighed on left-leaning consumers' interest in the Tesla brand "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tesla sold 750 electric vehicles in Germany for October 2025, less than half of what it sold a year ago",
-          "• In October last year, Tesla sold 1,607 EVs in Germany"
-        ],
-        "hopeful_bullets": [
-          "• Tesla sold 750 electric vehicles in Germany for October 2025, less than half of what it sold a year ago",
-          "• In October last year, Tesla sold 1,607 EVs in Germany"
-        ],
-        "stakes_bullets": [
-          "• Tesla sold 750 electric vehicles in Germany for October 2025, less than half of what it sold a year ago",
-          "• In October last year, Tesla sold 1,607 EVs in Germany",
-          "• Elon Musk's incendiary political rhetoric and endorsement of AfD have weighed on left-leaning consumers' interest in the Tesla brand "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "dcd48ac52139"
-    },
-    {
       "id": "14b552e2ca66",
       "title": "‘KPop Demon Hunters 2’ Is Official at Netflix With 2029 Release Likely",
       "outlet": "Bloody Disgusting!",
@@ -2377,6 +1917,38 @@
       "cluster_id": "face475f66a7"
     },
     {
+      "id": "64c683661a00",
+      "title": "FAA will reduce air traffic by 10% at many airports to maintain safety",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/05/nx-s1-5600082/faa-airport-traffic-reductions-shutdown",
+      "published_at": "Wed, 05 Nov 2025 18:56:39 -0500",
+      "bullets": [
+        "• FAA plans to reduce air traffic in 40 \"high-volume markets\" beginning on Friday",
+        "• The move is intended to keep the nation's air traffic safe during the government shutdown",
+        "• Even before the cuts, more than 3,000 certified controllers were short "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.84
+      },
+      "moods": {
+        "brief_bullets": [
+          "• FAA plans to reduce air traffic in 40 \"high-volume markets\" beginning on Friday",
+          "• The move is intended to keep the nation's air traffic safe during the government shutdown"
+        ],
+        "hopeful_bullets": [
+          "• FAA plans to reduce air traffic in 40 \"high-volume markets\" beginning on Friday"
+        ],
+        "stakes_bullets": [
+          "• FAA plans to reduce air traffic in 40 \"high-volume markets\" beginning on Friday",
+          "• Even before the cuts, more than 3,000 certified controllers were short "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "495e6b5bcfba"
+    },
+    {
       "id": "1afe5477e8f0",
       "title": "’90s Serial Killer Film ‘The Ugly’ Heads to Blu-ray in February",
       "outlet": "Bloody Disgusting!",
@@ -2442,36 +2014,39 @@
       "cluster_id": "b33fd5957681"
     },
     {
-      "id": "ac6ab84ba943",
-      "title": "Zohran Mamdani announces all-female transition team as he prepares for New York mayoralty",
+      "id": "678a1ca92a66",
+      "title": "Republicans file lawsuit challenging California’s redistricting measure",
       "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/05/zohran-mamdani-transition-team",
-      "published_at": "Wed, 05 Nov 2025 18:25:03 GMT",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/california-redistricting-measure-republican-lawsuit",
+      "published_at": "Wed, 05 Nov 2025 18:27:51 GMT",
       "bullets": [
-        "• Zohran Mamdani announces all-female transition team for New York City mayor-elect",
-        "• New York Mayor-elect calls it his most ambitious policy platform in a generation",
-        "• Team includes former federal trade commission chair Lina Khan, former deputy mayor for health and human services Melanie Hartzog "
+        "• Republicans in California filed a federal lawsuit challenging a redistricting measure that could help flip up to five congressional seats for Democrats",
+        "• The measure, Proposition 50, was approved by voters on Tuesday evening",
+        "• The plan temporarily gives the power to draw congressional districts to the California legislature",
+        "• It will help Democrats pick up five seats in the US House of Representatives "
       ],
       "category": "US",
       "sentiment": {
         "label": "positive",
-        "score": 0.999
+        "score": 0.983
       },
       "moods": {
         "brief_bullets": [
-          "• Zohran Mamdani announces all-female transition team for New York City mayor-elect",
-          "• New York Mayor-elect calls it his most ambitious policy platform in a generation"
+          "• Republicans in California filed a federal lawsuit challenging a redistricting measure that could help flip up to five congressional seats for Democrats",
+          "• The measure, Proposition 50, was approved by voters on Tuesday evening"
         ],
         "hopeful_bullets": [
-          "• Zohran Mamdani announces all-female transition team for New York City mayor-elect",
-          "• New York Mayor-elect calls it his most ambitious policy platform in a generation"
+          "• Republicans in California filed a federal lawsuit challenging a redistricting measure that could help flip up to five congressional seats for Democrats",
+          "• It will help Democrats pick up five seats in the US House of Representatives "
         ],
         "stakes_bullets": [
-          "• New York Mayor-elect calls it his most ambitious policy platform in a generation"
+          "• Republicans in California filed a federal lawsuit challenging a redistricting measure that could help flip up to five congressional seats for Democrats",
+          "• The plan temporarily gives the power to draw congressional districts to the California legislature",
+          "• It will help Democrats pick up five seats in the US House of Representatives "
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "0c1ee83878e0"
+      "read_minutes": 3,
+      "cluster_id": "cd2549f35a30"
     },
     {
       "id": "7abbe3f66219",
@@ -3099,41 +2674,6 @@
       "cluster_id": "e7e3be2cb5da"
     },
     {
-      "id": "de2a2bf6ed97",
-      "title": "Two critically injured after driver rams into people on French island",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c205z4963vyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 05 Nov 2025 16:17:41 GMT",
-      "bullets": [
-        "• Man, 35, deliberately drove into people and then set fire to the vehicle, authorities say",
-        "• He is now being held by police in Saint-Pierre-d'Oléron on suspicion of attempted murder",
-        "• Incident took place around 08:45 (07:45 GMT) and lasted 35 minutes",
-        "• Witnesses describe seeing a series of incidents in several places on island "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Man, 35, deliberately drove into people and then set fire to the vehicle, authorities say",
-          "• He is now being held by police in Saint-Pierre-d'Oléron on suspicion of attempted murder"
-        ],
-        "hopeful_bullets": [
-          "• Man, 35, deliberately drove into people and then set fire to the vehicle, authorities say",
-          "• He is now being held by police in Saint-Pierre-d'Oléron on suspicion of attempted murder"
-        ],
-        "stakes_bullets": [
-          "• Man, 35, deliberately drove into people and then set fire to the vehicle, authorities say",
-          "• He is now being held by police in Saint-Pierre-d'Oléron on suspicion of attempted murder",
-          "• Incident took place around 08:45 (07:45 GMT) and lasted 35 minutes"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "edda2ec76f59"
-    },
-    {
       "id": "a55274ad4e1d",
       "title": "Rosalía Says Comments About Bad Bunny and Singing in Spanish Were Taken ‘Out of Context’",
       "outlet": "Music News",
@@ -3365,38 +2905,6 @@
       "cluster_id": "2a875dac066b"
     },
     {
-      "id": "04eba0235fb0",
-      "title": "Tesla’s European and Chinese customers are staying away in droves",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/cars/2025/11/after-a-great-q3-tesla-sees-double-digit-declines-all-over-europe/",
-      "published_at": "Wed, 05 Nov 2025 15:40:58 +0000",
-      "bullets": [
-        "• Tesla sales fell by double-digit margins in Sweden, Denmark, Belgium, Finland, Austria, Switzerland, Germany, Norway, the Netherlands, the UK, Italy, and Spain",
-        "• Only France bucked the trend by bumping sales by 2 percent year on year "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tesla sales fell by double-digit margins in Sweden, Denmark, Belgium, Finland, Austria, Switzerland, Germany, Norway, the Netherlands, the UK, Italy, and Spain",
-          "• Only France bucked the trend by bumping sales by 2 percent year on year "
-        ],
-        "hopeful_bullets": [
-          "• Tesla sales fell by double-digit margins in Sweden, Denmark, Belgium, Finland, Austria, Switzerland, Germany, Norway, the Netherlands, the UK, Italy, and Spain",
-          "• Only France bucked the trend by bumping sales by 2 percent year on year "
-        ],
-        "stakes_bullets": [
-          "• Tesla sales fell by double-digit margins in Sweden, Denmark, Belgium, Finland, Austria, Switzerland, Germany, Norway, the Netherlands, the UK, Italy, and Spain",
-          "• Only France bucked the trend by bumping sales by 2 percent year on year "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "49633f1d4184"
-    },
-    {
       "id": "859620316214",
       "title": "The Best Travel Totes for Every Kind of Trip (2025)",
       "outlet": "WIRED",
@@ -3459,38 +2967,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "3bbc3da9ad07"
-    },
-    {
-      "id": "3d707bb4d361",
-      "title": "Amazon upheaval: With morale shaken, Jassy looks for next big play after mass layoffs",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/05/amazon-upheaval-andy-jassy-looks-for-next-big-play-after-mass-layoffs.html",
-      "published_at": "Wed, 05 Nov 2025 15:26:14 GMT",
-      "bullets": [
-        "• Amazon CEO: \"We're working hard to try to try and have fewer layers\" The company is looking to cut back on the cost of its operations",
-        "• The company has been in the news for months after a major overhaul of its leadership "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amazon CEO: \"We're working hard to try to try and have fewer layers\" The company is looking to cut back on the cost of its operations",
-          "• The company has been in the news for months after a major overhaul of its leadership "
-        ],
-        "hopeful_bullets": [
-          "• Amazon CEO: \"We're working hard to try to try and have fewer layers\" The company is looking to cut back on the cost of its operations",
-          "• The company has been in the news for months after a major overhaul of its leadership "
-        ],
-        "stakes_bullets": [
-          "• Amazon CEO: \"We're working hard to try to try and have fewer layers\" The company is looking to cut back on the cost of its operations",
-          "• The company has been in the news for months after a major overhaul of its leadership "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "2a6b76b1f050"
     },
     {
       "id": "4af3300d5567",
@@ -3624,38 +3100,6 @@
       "cluster_id": "69c21ea939d0"
     },
     {
-      "id": "c30668d2ee9b",
-      "title": "Why being too attractive can hurt fitness influencers",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/health/2025/11/why-being-too-attractive-can-hurt-fitness-influencers/",
-      "published_at": "Wed, 05 Nov 2025 14:42:10 +0000",
-      "bullets": [
-        "• In a digital world full of influencers, being too attractive can backfire, study authors say",
-        "• We call this the “beauty backfire effect,” and we put it to the test in a series of laboratory experiments",
-        "• People who saw an attractive fitfluencer reported having lower self-esteem afterward "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In a digital world full of influencers, being too attractive can backfire, study authors say",
-          "• We call this the “beauty backfire effect,” and we put it to the test in a series of laboratory experiments"
-        ],
-        "hopeful_bullets": [
-          "• In a digital world full of influencers, being too attractive can backfire, study authors say",
-          "• We call this the “beauty backfire effect,” and we put it to the test in a series of laboratory experiments"
-        ],
-        "stakes_bullets": [
-          "• We call this the “beauty backfire effect,” and we put it to the test in a series of laboratory experiments"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "4b52575595d7"
-    },
-    {
       "id": "bdc66686d8a3",
       "title": "Ariana Grande Isn’t Heading Back to Broadway Yet, But Teases Mystery Stage Production Plans",
       "outlet": "Music News",
@@ -3751,38 +3195,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "a5c883d9638a"
-    },
-    {
-      "id": "4aea5c38f36d",
-      "title": "The Best Budget TVs (2025): TCL, Hisense, LG and More",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-cheap-tvs/",
-      "published_at": "Wed, 05 Nov 2025 14:00:00 +0000",
-      "bullets": [
-        "• The Best Cheap TVs Right Now are the best cheap TVs we've tested",
-        "• WIRED spent hundreds of hours testing dozens of screens of all levels to ensure that only TVs with solid performance and great daily usability made the cut",
-        "• Whether you need a primary 4K HDR display for your TV room or an extra screen for the bedroom or den, this list has what you need "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.748
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Best Cheap TVs Right Now are the best cheap TVs we've tested",
-          "• WIRED spent hundreds of hours testing dozens of screens of all levels to ensure that only TVs with solid performance and great daily usability made the cut"
-        ],
-        "hopeful_bullets": [
-          "• The Best Cheap TVs Right Now are the best cheap TVs we've tested",
-          "• WIRED spent hundreds of hours testing dozens of screens of all levels to ensure that only TVs with solid performance and great daily usability made the cut"
-        ],
-        "stakes_bullets": [
-          "• WIRED spent hundreds of hours testing dozens of screens of all levels to ensure that only TVs with solid performance and great daily usability made the cut"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "790450cbfb7b"
     },
     {
       "id": "cfda9a193c02",
@@ -3948,41 +3360,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "30674f49331d"
-    },
-    {
-      "id": "34dd0120a630",
-      "title": "More than 85 dead as typhoon wreaks havoc in the Philippines",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgmx4yjkzj4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 05 Nov 2025 11:54:50 GMT",
-      "bullets": [
-        "• At least 85 people have been killed as a result of the typhoon in the Philippines",
-        "• More than 400,000 people are believed to have been affected by the storm",
-        "• The typhoon is expected to continue over the next few days",
-        "• It is forecast to move into the South China Sea on Wednesday "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.747
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least 85 people have been killed as a result of the typhoon in the Philippines",
-          "• More than 400,000 people are believed to have been affected by the storm"
-        ],
-        "hopeful_bullets": [
-          "• At least 85 people have been killed as a result of the typhoon in the Philippines",
-          "• More than 400,000 people are believed to have been affected by the storm"
-        ],
-        "stakes_bullets": [
-          "• At least 85 people have been killed as a result of the typhoon in the Philippines",
-          "• More than 400,000 people are believed to have been affected by the storm",
-          "• The typhoon is expected to continue over the next few days"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d1c4a47b2ab5"
     },
     {
       "id": "ae8ffdb6b770",
@@ -4385,40 +3762,6 @@
       "cluster_id": "e050ca83cc30"
     },
     {
-      "id": "93289e60ff11",
-      "title": "Spanberger, Virginia's first woman governor, says she'll defy Trump's 'bad policies'",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/05/nx-s1-5598547/virginia-governor-abigail-spanberger-push-back-on-trump",
-      "published_at": "Wed, 05 Nov 2025 06:32:06 -0500",
-      "bullets": [
-        "• Democrat Abigail Spanberger will be the next governor of Virginia",
-        "• Spanberger defeated her Republican opponent, Lt",
-        "• Gov",
-        "• Winsome Earle-Sears",
-        "• She promised to advocate for federal workers and federal contractors in the state, who have been negatively impacted by the Trump administration's cutbacks "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.968
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Democrat Abigail Spanberger will be the next governor of Virginia",
-          "• Spanberger defeated her Republican opponent, Lt"
-        ],
-        "hopeful_bullets": [
-          "• Winsome Earle-Sears"
-        ],
-        "stakes_bullets": [
-          "• Democrat Abigail Spanberger will be the next governor of Virginia",
-          "• She promised to advocate for federal workers and federal contractors in the state, who have been negatively impacted by the Trump administration's cutbacks "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "c3dad31fafae"
-    },
-    {
       "id": "2f68a955b95b",
       "title": "FEMA promised funds to tsunami-proof an Oregon hospital. That money is MIA",
       "outlet": "NPR Topics: Science",
@@ -4690,39 +4033,6 @@
       "cluster_id": "a732933b5766"
     },
     {
-      "id": "b86c7ae890ba",
-      "title": "Texans set to approve $3 billion dementia research fund",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17203391/texas-election-dementia-fund-dprit",
-      "published_at": "Wed, 05 Nov 2025 02:52:40 +0000",
-      "bullets": [
-        "• The Dementia Prevention and Rehabilitation Institute of Texas is to be funded with $3 billion in surplus state revenue",
-        "• After this first year, the fund will see up to $300 million appropriated each year",
-        "• The fund will be set up to help fight dementia, Alzheimer's and other brain disorders "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Dementia Prevention and Rehabilitation Institute of Texas is to be funded with $3 billion in surplus state revenue",
-          "• After this first year, the fund will see up to $300 million appropriated each year"
-        ],
-        "hopeful_bullets": [
-          "• The fund will be set up to help fight dementia, Alzheimer's and other brain disorders "
-        ],
-        "stakes_bullets": [
-          "• The Dementia Prevention and Rehabilitation Institute of Texas is to be funded with $3 billion in surplus state revenue",
-          "• After this first year, the fund will see up to $300 million appropriated each year",
-          "• The fund will be set up to help fight dementia, Alzheimer's and other brain disorders "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a8747229b1a4"
-    },
-    {
       "id": "8693b5f5772a",
       "title": "Jamaica PM says hurricane Melissa caused damage equivalent to nearly one-third of GDP",
       "outlet": "World news | The Guardian",
@@ -4952,38 +4262,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "5498413bc8a0"
-    },
-    {
-      "id": "becca1c2ee52",
-      "title": "Found Footage Horror ‘Project Butterfly: Flatwoods’ Coming Halloween Night 2025!",
-      "outlet": "Wicked Horror",
-      "url": "https://wickedhorror.com/horror-news/found-footage-horror-project-butterfly-flatwoods-coming-halloween-night-2025/",
-      "published_at": "Wed, 01 Oct 2025 15:00:00 +0000",
-      "bullets": [
-        "• Project Butterfly: Flatwoods is a found footage horror film set during the lunar eclipse of 2004, in Flatwoods, West Virginia",
-        "• The film follows three students who are filming a school project centered around an investigation that eventually leads them to a government bunker connected to cryptid experimentation",
-        "• The further the students dig, the more they uncover the terrifying truths of this bunker "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Project Butterfly: Flatwoods is a found footage horror film set during the lunar eclipse of 2004, in Flatwoods, West Virginia",
-          "• The film follows three students who are filming a school project centered around an investigation that eventually leads them to a government bunker connected to cryptid experimentation"
-        ],
-        "hopeful_bullets": [
-          "• Project Butterfly: Flatwoods is a found footage horror film set during the lunar eclipse of 2004, in Flatwoods, West Virginia",
-          "• The film follows three students who are filming a school project centered around an investigation that eventually leads them to a government bunker connected to cryptid experimentation"
-        ],
-        "stakes_bullets": [
-          "• The film follows three students who are filming a school project centered around an investigation that eventually leads them to a government bunker connected to cryptid experimentation"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "28b2f4a1bab7"
     },
     {
       "id": "604f29467dbc",
@@ -5903,40 +5181,6 @@
       "cluster_id": "25f6a2400c52"
     },
     {
-      "id": "c4d0aba3ff43",
-      "title": "‘Forever Chemicals’ Represent New Environmental Threat for Florida’s Fragile Everglades",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/04112025/miccosukee-tribe-florida-everglades-forever-chemicals/",
-      "published_at": "Tue, 04 Nov 2025 09:55:00 +0000",
-      "bullets": [
-        "• It is the first time PFAS have been measured on the Everglades reservation of the Miccosukee Tribe",
-        "• PFAS are manufactured chemicals that have been used in consumer products since the 1940s",
-        "• The chemicals can be found in items such as non-stick cookware, waterproof fabrics and long-lasting cosmetics "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.938
-      },
-      "moods": {
-        "brief_bullets": [
-          "• It is the first time PFAS have been measured on the Everglades reservation of the Miccosukee Tribe",
-          "• PFAS are manufactured chemicals that have been used in consumer products since the 1940s"
-        ],
-        "hopeful_bullets": [
-          "• It is the first time PFAS have been measured on the Everglades reservation of the Miccosukee Tribe",
-          "• PFAS are manufactured chemicals that have been used in consumer products since the 1940s"
-        ],
-        "stakes_bullets": [
-          "• It is the first time PFAS have been measured on the Everglades reservation of the Miccosukee Tribe",
-          "• PFAS are manufactured chemicals that have been used in consumer products since the 1940s",
-          "• The chemicals can be found in items such as non-stick cookware, waterproof fabrics and long-lasting cosmetics "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "290c73691a57"
-    },
-    {
       "id": "b6b0f6dce4c1",
       "title": "Birds, not wind, brought life to Iceland’s youngest island",
       "outlet": "All Top News -- ScienceDaily",
@@ -6532,6 +5776,765 @@
       },
       "read_minutes": 8,
       "cluster_id": "1a8aa91301b8"
+    },
+    {
+      "id": "035386ae61ab",
+      "title": "10 Anime From the Last 5 Years to Recommend to Your Normie Friends",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-2020s-anime-recommend-to-normal-friends/",
+      "published_at": "Thu, 06 Nov 2025 02:25:11 GMT",
+      "bullets": [
+        "• Anime is no longer a niche hobby like it once was, and even those who used to find it embarrassing to like anime are gradually realizing its limitless artistic potential and value",
+        "• The medium’s decades-long history has an overwhelming number of titles more experienced fans consider must-watches",
+        "• Spy x Family has an immediately intriguing premise that anyone would find compelling "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.894
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Anime is no longer a niche hobby like it once was, and even those who used to find it embarrassing to like anime are gradually realizing its limitless artistic potential and value",
+          "• The medium’s decades-long history has an overwhelming number of titles more experienced fans consider must-watches"
+        ],
+        "hopeful_bullets": [
+          "• Anime is no longer a niche hobby like it once was, and even those who used to find it embarrassing to like anime are gradually realizing its limitless artistic potential and value",
+          "• The medium’s decades-long history has an overwhelming number of titles more experienced fans consider must-watches"
+        ],
+        "stakes_bullets": [
+          "• Anime is no longer a niche hobby like it once was, and even those who used to find it embarrassing to like anime are gradually realizing its limitless artistic potential and value",
+          "• The medium’s decades-long history has an overwhelming number of titles more experienced fans consider must-watches",
+          "• Spy x Family has an immediately intriguing premise that anyone would find compelling "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "f3beaed821ed"
+    },
+    {
+      "id": "d1fd1a49b9e3",
+      "title": "One of Captain America's Most Famous Lines Was Completely Reimagined for the MCU",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/captain-america-best-line-reimagined-for-mcu/",
+      "published_at": "Thu, 06 Nov 2025 02:25:11 GMT",
+      "bullets": [
+        "• The “No, you move” monologue from Captain America is one of the most important Captain America quotes in the Marvel universe",
+        "• In Captain America: Civil War, when Steve Rogers attends Peggy Carter’s funeral, Sharon delivers a powerful speech that inspires Steve to choose the right side of the fight",
+        "• In the comics, Captain America himself delivers these emotional words "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The “No, you move” monologue from Captain America is one of the most important Captain America quotes in the Marvel universe",
+          "• In Captain America: Civil War, when Steve Rogers attends Peggy Carter’s funeral, Sharon delivers a powerful speech that inspires Steve to choose the right side of the fight"
+        ],
+        "hopeful_bullets": [
+          "• The “No, you move” monologue from Captain America is one of the most important Captain America quotes in the Marvel universe",
+          "• In Captain America: Civil War, when Steve Rogers attends Peggy Carter’s funeral, Sharon delivers a powerful speech that inspires Steve to choose the right side of the fight"
+        ],
+        "stakes_bullets": [
+          "• The “No, you move” monologue from Captain America is one of the most important Captain America quotes in the Marvel universe",
+          "• In Captain America: Civil War, when Steve Rogers attends Peggy Carter’s funeral, Sharon delivers a powerful speech that inspires Steve to choose the right side of the fight",
+          "• In the comics, Captain America himself delivers these emotional words "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "21ef669a8de0"
+    },
+    {
+      "id": "848a395fda78",
+      "title": "Pluribus Turns a Classic Sci-Fi Trope Into a Nightmare",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/apple-tv-pluribus-dystopia-uptopia-sci-fi-trope/",
+      "published_at": "Thu, 06 Nov 2025 02:00:11 GMT",
+      "bullets": [
+        "• Vince Gilligan's new series Pluribus looks like a warm, luminous antidote to the moral corrosion of Breaking Bad and Better Call Saul",
+        "• But beneath its pastel palette and infectious optimism is a dark story where happiness becomes the monster "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Vince Gilligan's new series Pluribus looks like a warm, luminous antidote to the moral corrosion of Breaking Bad and Better Call Saul",
+          "• But beneath its pastel palette and infectious optimism is a dark story where happiness becomes the monster "
+        ],
+        "hopeful_bullets": [
+          "• Vince Gilligan's new series Pluribus looks like a warm, luminous antidote to the moral corrosion of Breaking Bad and Better Call Saul",
+          "• But beneath its pastel palette and infectious optimism is a dark story where happiness becomes the monster "
+        ],
+        "stakes_bullets": [
+          "• Vince Gilligan's new series Pluribus looks like a warm, luminous antidote to the moral corrosion of Breaking Bad and Better Call Saul",
+          "• But beneath its pastel palette and infectious optimism is a dark story where happiness becomes the monster "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "3f822745e430"
+    },
+    {
+      "id": "f788700640cf",
+      "title": "Chinese autonomous driving firm Pony.ai sees shares drop 12% in Hong Kong debut",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/06/china-ponyai-weride-ipo-shares-market-debut.html",
+      "published_at": "Thu, 06 Nov 2025 01:59:15 GMT",
+      "bullets": [
+        "• China's Pony.ai and WeRide announce initial public offerings in Hong Kong",
+        "• The autonomous driving companies have raised $860 million and $2.39 billion",
+        "• The companies are aiming to keep pace with larger competitors such as Baidu's Apollo Go and Alphabet's Waymo "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China's Pony.ai and WeRide announce initial public offerings in Hong Kong",
+          "• The autonomous driving companies have raised $860 million and $2.39 billion"
+        ],
+        "hopeful_bullets": [
+          "• China's Pony.ai and WeRide announce initial public offerings in Hong Kong",
+          "• The autonomous driving companies have raised $860 million and $2.39 billion"
+        ],
+        "stakes_bullets": [
+          "• The autonomous driving companies have raised $860 million and $2.39 billion"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "1db6a0c9ab09"
+    },
+    {
+      "id": "03c15691b17a",
+      "title": "US to cut flights at 40 airports if shutdown doesn't end, transportation secretary warns",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2kp8dex14xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 06 Nov 2025 01:58:43 GMT",
+      "bullets": [
+        "• US to cut flights at 40 airports if shutdown doesn't end, transportation secretary warns",
+        "• The decision was made because air traffic controllers have been reporting fatigue",
+        "• The names of the affected airports will be released on Thursday, officials said",
+        "• The cancellations could affect between 3,500 and 4,000 flights per day "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US to cut flights at 40 airports if shutdown doesn't end, transportation secretary warns",
+          "• The decision was made because air traffic controllers have been reporting fatigue"
+        ],
+        "hopeful_bullets": [
+          "• US to cut flights at 40 airports if shutdown doesn't end, transportation secretary warns",
+          "• The decision was made because air traffic controllers have been reporting fatigue"
+        ],
+        "stakes_bullets": [
+          "• US to cut flights at 40 airports if shutdown doesn't end, transportation secretary warns",
+          "• The decision was made because air traffic controllers have been reporting fatigue",
+          "• The names of the affected airports will be released on Thursday, officials said",
+          "• The cancellations could affect between 3,500 and 4,000 flights per day "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "7244dc0c74a2"
+    },
+    {
+      "id": "93f3d1777755",
+      "title": "Asia-Pacific markets rise, tracking Wall Street gains as AI stocks rebound",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/06/asia-pacific-markets-ponyai-debut-hong-kong-weride-ai-stocks.html",
+      "published_at": "Thu, 06 Nov 2025 01:49:51 GMT",
+      "bullets": [
+        "• Japan's benchmark Nikkei 225 index was up 1.45%, while the Topix index climbed 1.11%",
+        "• Shares of SoftBank recouped losses to gain 1.5%",
+        "• Artificial intelligence-related companies were also trading higher, with Advantest, which supplies testing equipment to Nvidia, rising 3.73% "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.625
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Japan's benchmark Nikkei 225 index was up 1.45%, while the Topix index climbed 1.11%",
+          "• Shares of SoftBank recouped losses to gain 1.5%"
+        ],
+        "hopeful_bullets": [
+          "• Japan's benchmark Nikkei 225 index was up 1.45%, while the Topix index climbed 1.11%",
+          "• Shares of SoftBank recouped losses to gain 1.5%"
+        ],
+        "stakes_bullets": [
+          "• Shares of SoftBank recouped losses to gain 1.5%"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "8fd1b4f368b2"
+    },
+    {
+      "id": "c72fa50433fb",
+      "title": "Federal judge orders immigration facility in Chicago to improve its conditions – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/05/zohran-mamdani-new-york-nyc-donald-trump-mayor-election-california-new-jersey-virginia-latest-news-results",
+      "published_at": "Thu, 06 Nov 2025 01:48:57 GMT",
+      "bullets": [
+        "• Federal judge orders immigration facility in Chicago to improve its conditions – live with live video",
+        "• Robert Gettleman issued a temporary restraining order requiring federal authorities to provide sanitary conditions at an Immigration and Customs Enforcement facility on Wednesday",
+        "• The facility is in Broadview, a suburb of Chicago, and has been the site of anti-ICE protests "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Federal judge orders immigration facility in Chicago to improve its conditions – live with live video",
+          "• Robert Gettleman issued a temporary restraining order requiring federal authorities to provide sanitary conditions at an Immigration and Customs Enforcement facility on Wednesday"
+        ],
+        "hopeful_bullets": [
+          "• Federal judge orders immigration facility in Chicago to improve its conditions – live with live video"
+        ],
+        "stakes_bullets": [
+          "• Federal judge orders immigration facility in Chicago to improve its conditions – live with live video",
+          "• Robert Gettleman issued a temporary restraining order requiring federal authorities to provide sanitary conditions at an Immigration and Customs Enforcement facility on Wednesday",
+          "• The facility is in Broadview, a suburb of Chicago, and has been the site of anti-ICE protests "
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "880e3071bf47"
+    },
+    {
+      "id": "f2bfddb842a8",
+      "title": "Trump’s gold sign outside Oval Office prompts backlash",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/trump-oval-office-sign",
+      "published_at": "Thu, 06 Nov 2025 01:46:04 GMT",
+      "bullets": [
+        "• A new sign has been spotted adorning the White House this week",
+        "• It is written in cursive gold script, affixed beside the Oval Office's door",
+        "• The government shutdown is jeopardizing the Supplemental Nutrition Assistance program",
+        "• A Pennsylvania congressman said the sign looked like 'shorse'"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A new sign has been spotted adorning the White House this week",
+          "• It is written in cursive gold script, affixed beside the Oval Office's door"
+        ],
+        "hopeful_bullets": [
+          "• A new sign has been spotted adorning the White House this week",
+          "• It is written in cursive gold script, affixed beside the Oval Office's door"
+        ],
+        "stakes_bullets": [
+          "• A new sign has been spotted adorning the White House this week",
+          "• It is written in cursive gold script, affixed beside the Oval Office's door",
+          "• The government shutdown is jeopardizing the Supplemental Nutrition Assistance program"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e5493e5f2459"
+    },
+    {
+      "id": "bf69a43615e3",
+      "title": "The Best Final Fantasy Game Almost Had a Perfect Ending",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-final-fantasy-game-perfect-ending-ruined/",
+      "published_at": "Thu, 06 Nov 2025 01:45:12 GMT",
+      "bullets": [
+        "• Final Fantasy VII's final hours are some of the most surreal in video game history",
+        "• The final confrontation with Sephiroth is one of the best boss fights of all time",
+        "• Final Fantasy series has had mixed results in the ending department",
+        "• Some games have incredible endings that satisfied the fans, like Final Fantasy VI",
+        "• Others were widely considered to be terrible, like Lightning Returns "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Final Fantasy VII's final hours are some of the most surreal in video game history",
+          "• The final confrontation with Sephiroth is one of the best boss fights of all time"
+        ],
+        "hopeful_bullets": [
+          "• Final Fantasy VII's final hours are some of the most surreal in video game history",
+          "• The final confrontation with Sephiroth is one of the best boss fights of all time"
+        ],
+        "stakes_bullets": [
+          "• Final Fantasy series has had mixed results in the ending department"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "546bdbf3e514"
+    },
+    {
+      "id": "913435abcd66",
+      "title": "A near upset in North Texas Senate race jolts frayed Democratic hopes ahead of 2026",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17204085/texas-senate-special-election-democrats-tarrant-county",
+      "published_at": "Thu, 06 Nov 2025 01:38:10 +0000",
+      "bullets": [
+        "• Democrat Taylor Rehmet came within 3,000 votes of winning the North Texas Senate seat",
+        "• He came out on top with 47.6% of votes over his opponents' 36%",
+        "• The winner will face off in a runoff election in January "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.913
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Democrat Taylor Rehmet came within 3,000 votes of winning the North Texas Senate seat",
+          "• He came out on top with 47.6% of votes over his opponents' 36%"
+        ],
+        "hopeful_bullets": [
+          "• Democrat Taylor Rehmet came within 3,000 votes of winning the North Texas Senate seat",
+          "• The winner will face off in a runoff election in January "
+        ],
+        "stakes_bullets": [
+          "• The winner will face off in a runoff election in January "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "9f4dedafaae0"
+    },
+    {
+      "id": "af33d0612869",
+      "title": "Snap shares rocket 15% on strong forecast, $400 million Perplexity deal",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/05/snap-q3-earnings-report-2025.html",
+      "published_at": "Thu, 06 Nov 2025 01:37:25 GMT",
+      "bullets": [
+        "• Snap shares climbed 15% on Wednesday after its third-quarter earnings report",
+        "• The company reported revenue and a $500 million stock repurchase program",
+        "• Snap also announced that it is partnering with the startup Perplexity AI, which \"will integrate its conversational search directly into Snapchat\" The feature will appear in Snapchat starting in early 2026 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.868
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Snap shares climbed 15% on Wednesday after its third-quarter earnings report",
+          "• The company reported revenue and a $500 million stock repurchase program"
+        ],
+        "hopeful_bullets": [
+          "• Snap shares climbed 15% on Wednesday after its third-quarter earnings report",
+          "• The company reported revenue and a $500 million stock repurchase program"
+        ],
+        "stakes_bullets": [
+          "• Snap also announced that it is partnering with the startup Perplexity AI, which \"will integrate its conversational search directly into Snapchat\" The feature will appear in Snapchat starting in early 2026 "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "1448ba33858b"
+    },
+    {
+      "id": "047ff07157d6",
+      "title": "Microsoft letting employees raise concerns about products after Middle East controversy",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/05/microsoft-offers-employees-trusted-technology-review-form.html",
+      "published_at": "Thu, 06 Nov 2025 01:27:18 GMT",
+      "bullets": [
+        "• Microsoft gives employees an option to request a \"Trusted Technology Review\" The move comes weeks after Microsoft stopped providing some services to an Israeli defense unit",
+        "• The Guardian said the Israeli Defense Forces' Unit 8200 had built a system in Microsoft's Azure cloud for tracking Palestinians' phone calls "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Microsoft gives employees an option to request a \"Trusted Technology Review\" The move comes weeks after Microsoft stopped providing some services to an Israeli defense unit",
+          "• The Guardian said the Israeli Defense Forces' Unit 8200 had built a system in Microsoft's Azure cloud for tracking Palestinians' phone calls "
+        ],
+        "hopeful_bullets": [
+          "• Microsoft gives employees an option to request a \"Trusted Technology Review\" The move comes weeks after Microsoft stopped providing some services to an Israeli defense unit",
+          "• The Guardian said the Israeli Defense Forces' Unit 8200 had built a system in Microsoft's Azure cloud for tracking Palestinians' phone calls "
+        ],
+        "stakes_bullets": [
+          "• Microsoft gives employees an option to request a \"Trusted Technology Review\" The move comes weeks after Microsoft stopped providing some services to an Israeli defense unit",
+          "• The Guardian said the Israeli Defense Forces' Unit 8200 had built a system in Microsoft's Azure cloud for tracking Palestinians' phone calls "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0296b5d576bc"
+    },
+    {
+      "id": "ce484666d075",
+      "title": "US to cut airline traffic by 10% due to shutdown, Trump transport chief says",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/government-shutdown-duffy-airspace-closures",
+      "published_at": "Thu, 06 Nov 2025 01:21:32 GMT",
+      "bullets": [
+        "• The federal government will reduce airline traffic by 10% at 40 “high volume markets” beginning on Friday if the government shutdown does not end by then",
+        "• The announcement did not specify which 40 airports would see the reduction",
+        "• The reduction will affect cargo, private and passenger traffic "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The federal government will reduce airline traffic by 10% at 40 “high volume markets” beginning on Friday if the government shutdown does not end by then",
+          "• The announcement did not specify which 40 airports would see the reduction"
+        ],
+        "hopeful_bullets": [
+          "• The federal government will reduce airline traffic by 10% at 40 “high volume markets” beginning on Friday if the government shutdown does not end by then"
+        ],
+        "stakes_bullets": [
+          "• The federal government will reduce airline traffic by 10% at 40 “high volume markets” beginning on Friday if the government shutdown does not end by then",
+          "• The reduction will affect cargo, private and passenger traffic "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "de7736cc584a"
+    },
+    {
+      "id": "0ea7dba6d9a3",
+      "title": "6 Magical Fantasy Franchises Better Than Harry Potter",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/fantasy-franchises-better-than-harry-potter-list/",
+      "published_at": "Thu, 06 Nov 2025 01:20:11 GMT",
+      "bullets": [
+        "• Some lesser-known works, like The Magicians, have been considered comparable to the Harry Potter franchise, but have largely been dismissed by die-hard fans",
+        "• New audiobooks are about to be released, featuring well-known voice actors, and a reboot TV series is currently in production "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Some lesser-known works, like The Magicians, have been considered comparable to the Harry Potter franchise, but have largely been dismissed by die-hard fans",
+          "• New audiobooks are about to be released, featuring well-known voice actors, and a reboot TV series is currently in production "
+        ],
+        "hopeful_bullets": [
+          "• Some lesser-known works, like The Magicians, have been considered comparable to the Harry Potter franchise, but have largely been dismissed by die-hard fans",
+          "• New audiobooks are about to be released, featuring well-known voice actors, and a reboot TV series is currently in production "
+        ],
+        "stakes_bullets": [
+          "• Some lesser-known works, like The Magicians, have been considered comparable to the Harry Potter franchise, but have largely been dismissed by die-hard fans",
+          "• New audiobooks are about to be released, featuring well-known voice actors, and a reboot TV series is currently in production "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "1b6371888fe5"
+    },
+    {
+      "id": "8c2aa353f9f7",
+      "title": "Third Michigan man arrested over alleged Halloween terror plot",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/michigan-halloween-terror-plot",
+      "published_at": "Thu, 06 Nov 2025 01:17:49 GMT",
+      "bullets": [
+        "• Nasser, 19, is accused of participating in the planning of a possible attack in Michigan",
+        "• Nasser and two others are charged with conspiracy to provide support for a terrorist organization",
+        "• Two minors, identified only as Person 1 and 2, were also involved in the discussions, court documents say "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nasser, 19, is accused of participating in the planning of a possible attack in Michigan",
+          "• Nasser and two others are charged with conspiracy to provide support for a terrorist organization"
+        ],
+        "hopeful_bullets": [
+          "• Nasser, 19, is accused of participating in the planning of a possible attack in Michigan",
+          "• Nasser and two others are charged with conspiracy to provide support for a terrorist organization"
+        ],
+        "stakes_bullets": [
+          "• Nasser, 19, is accused of participating in the planning of a possible attack in Michigan"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "11a861581d12"
+    },
+    {
+      "id": "f5104a8689f5",
+      "title": "12 dead in crash after engine falls off cargo plane during takeoff in Kentucky",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce9dyyydjr0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 06 Nov 2025 01:17:18 GMT",
+      "bullets": [
+        "• Left engine fell from the wing of the cargo plane during takeoff in Louisville, Kentucky",
+        "• Governor says death toll is expected to rise and likely includes at least one child",
+        "• More than a dozen people were injured in the crash, from burns and shrapnel injuries to smoke inhalation",
+        "• Officials say it is too early to say what caused the crash "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Left engine fell from the wing of the cargo plane during takeoff in Louisville, Kentucky",
+          "• Governor says death toll is expected to rise and likely includes at least one child"
+        ],
+        "hopeful_bullets": [
+          "• Left engine fell from the wing of the cargo plane during takeoff in Louisville, Kentucky"
+        ],
+        "stakes_bullets": [
+          "• Left engine fell from the wing of the cargo plane during takeoff in Louisville, Kentucky",
+          "• Governor says death toll is expected to rise and likely includes at least one child",
+          "• Officials say it is too early to say what caused the crash "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "13316d70c9bc"
+    },
+    {
+      "id": "beeaefeef116",
+      "title": "6 Game-Changing English Dubs That Saved The Anime Industry in America",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-anime-english-dubs-changed-industry/",
+      "published_at": "Thu, 06 Nov 2025 01:15:11 GMT",
+      "bullets": [
+        "• Before streaming made anime global, the medium was hanging by a thread in America",
+        "• Funimation dubbed Dragon Ball Z in the late ‘90s changed how anime sounded to American audiences",
+        "• The best English dubs reconstituted anime in English in the 1990s and 2000s "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Before streaming made anime global, the medium was hanging by a thread in America",
+          "• Funimation dubbed Dragon Ball Z in the late ‘90s changed how anime sounded to American audiences"
+        ],
+        "hopeful_bullets": [
+          "• Before streaming made anime global, the medium was hanging by a thread in America",
+          "• Funimation dubbed Dragon Ball Z in the late ‘90s changed how anime sounded to American audiences"
+        ],
+        "stakes_bullets": [
+          "• Before streaming made anime global, the medium was hanging by a thread in America",
+          "• Funimation dubbed Dragon Ball Z in the late ‘90s changed how anime sounded to American audiences",
+          "• The best English dubs reconstituted anime in English in the 1990s and 2000s "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "bcf3ab3510a2"
+    },
+    {
+      "id": "acc0d3c5793a",
+      "title": "Kentucky plane crash: death toll rises to 12 as officials investigate how engine detached",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/ups-plane-crash-louisville-investigation",
+      "published_at": "Thu, 06 Nov 2025 01:11:29 GMT",
+      "bullets": [
+        "• The death toll from the UPS cargo plane that exploded into a fireball in Louisville on Tuesday night has risen to 12",
+        "• At least 15 people were reported injured and “several individuals” were still unaccounted for, the city’s mayor said",
+        "• The plane gained enough altitude to clear the fence at the end of the runway before crashing, NTSB says "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The death toll from the UPS cargo plane that exploded into a fireball in Louisville on Tuesday night has risen to 12",
+          "• At least 15 people were reported injured and “several individuals” were still unaccounted for, the city’s mayor said"
+        ],
+        "hopeful_bullets": [
+          "• The death toll from the UPS cargo plane that exploded into a fireball in Louisville on Tuesday night has risen to 12",
+          "• At least 15 people were reported injured and “several individuals” were still unaccounted for, the city’s mayor said"
+        ],
+        "stakes_bullets": [
+          "• The death toll from the UPS cargo plane that exploded into a fireball in Louisville on Tuesday night has risen to 12",
+          "• The plane gained enough altitude to clear the fence at the end of the runway before crashing, NTSB says "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "20c7d4d53916"
+    },
+    {
+      "id": "6f248dfe8119",
+      "title": "Trump goes on posting frenzy a day after Democrats win key elections",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/trump-truth-social-posts",
+      "published_at": "Thu, 06 Nov 2025 01:07:37 GMT",
+      "bullets": [
+        "• Donald Trump posted 33 Truth Social posts in less than two hours on Wednesday",
+        "• The posts came a day after Democrats won in a series of elections across the United States in New York, California, Virginia, and New Jersey",
+        "• Trump made recommendations to his followers to buy books written by former FBI special agent Nicole Parker, Fox News political analyst Gianno Caldwell, Georgia congressman Barry Loudermilk, and his own former lawyer, Christina Bobb "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump posted 33 Truth Social posts in less than two hours on Wednesday",
+          "• The posts came a day after Democrats won in a series of elections across the United States in New York, California, Virginia, and New Jersey"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump posted 33 Truth Social posts in less than two hours on Wednesday",
+          "• The posts came a day after Democrats won in a series of elections across the United States in New York, California, Virginia, and New Jersey"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump posted 33 Truth Social posts in less than two hours on Wednesday",
+          "• The posts came a day after Democrats won in a series of elections across the United States in New York, California, Virginia, and New Jersey",
+          "• Trump made recommendations to his followers to buy books written by former FBI special agent Nicole Parker, Fox News political analyst Gianno Caldwell, Georgia congressman Barry Loudermilk, and his own former lawyer, Christina Bobb "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "73368f3fa931"
+    },
+    {
+      "id": "174adc947b0f",
+      "title": "John Brennan Dishes on the ‘Up All Night’ Revival",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-news/john-brennan-tells-all-on-the-up-all-night-revival/",
+      "published_at": "Thu, 06 Nov 2025 01:03:49 +0000",
+      "bullets": [
+        "• John Brennan grew up watching Up All Night, the '90s cult favorite cable TV staple recently revived as an all new Kings of Horror Youtube series",
+        "• The original show was anchored by Rhonda Shear and the late Gilbert Gottfried",
+        "• Brennan: “Just because we’re on Kings ofHorror doesn’t mean that we won” to do things like they used to do "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.834
+      },
+      "moods": {
+        "brief_bullets": [
+          "• John Brennan grew up watching Up All Night, the '90s cult favorite cable TV staple recently revived as an all new Kings of Horror Youtube series",
+          "• The original show was anchored by Rhonda Shear and the late Gilbert Gottfried"
+        ],
+        "hopeful_bullets": [
+          "• John Brennan grew up watching Up All Night, the '90s cult favorite cable TV staple recently revived as an all new Kings of Horror Youtube series",
+          "• The original show was anchored by Rhonda Shear and the late Gilbert Gottfried"
+        ],
+        "stakes_bullets": [
+          "• Brennan: “Just because we’re on Kings ofHorror doesn’t mean that we won” to do things like they used to do "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "61932cf045ef"
+    },
+    {
+      "id": "4eec569b546c",
+      "title": "New York Climate Advocates Celebrate Mamdani’s Victory, Prepare to Hold Him Accountable",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/05112025/new-york-climate-advocates-celebrate-zohran-mamdani-win/",
+      "published_at": "Thu, 06 Nov 2025 00:45:46 +0000",
+      "bullets": [
+        "• Zohran Mamdani won New York City’s mayoral contest by a decisive margin",
+        "• His campaign championed free buses, green schools and peaker plant closures",
+        "• For groups that have spent years fighting to link climate policy to New York's housing and affordability crises, the victory represents a structural shift "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Zohran Mamdani won New York City’s mayoral contest by a decisive margin",
+          "• His campaign championed free buses, green schools and peaker plant closures"
+        ],
+        "hopeful_bullets": [
+          "• Zohran Mamdani won New York City’s mayoral contest by a decisive margin",
+          "• His campaign championed free buses, green schools and peaker plant closures"
+        ],
+        "stakes_bullets": [
+          "• His campaign championed free buses, green schools and peaker plant closures",
+          "• For groups that have spent years fighting to link climate policy to New York's housing and affordability crises, the victory represents a structural shift "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "04356dd1f6e1"
+    },
+    {
+      "id": "d8fe81e9d139",
+      "title": "Conservative justices sharply question Trump tariffs in high-stakes hearing",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gp3nj5nj3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 06 Nov 2025 00:08:27 GMT",
+      "bullets": [
+        "• Conservative justices question President Trump's use of sweeping tariffs in high-stakes case",
+        "• The White House says the tariffs are necessary to fix America's trade imbalance",
+        "• The case is seen as the first major test of the president's push to expand presidential power "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.833
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Conservative justices question President Trump's use of sweeping tariffs in high-stakes case",
+          "• The White House says the tariffs are necessary to fix America's trade imbalance"
+        ],
+        "hopeful_bullets": [
+          "• Conservative justices question President Trump's use of sweeping tariffs in high-stakes case",
+          "• The White House says the tariffs are necessary to fix America's trade imbalance"
+        ],
+        "stakes_bullets": [
+          "• The case is seen as the first major test of the president's push to expand presidential power "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "2d7eadc9fa14"
+    },
+    {
+      "id": "1d8a6ecb622c",
+      "title": "ICE forcibly detains daycare worker amid scrutiny over excessive force use",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/chicago-ice-agents-detain-daycare-worker",
+      "published_at": "Thu, 06 Nov 2025 00:00:30 GMT",
+      "bullets": [
+        "• ICE agents forcibly detained a worker at the Rayito de Sol daycare center in the city’s North Side neighborhood after pursuing her into the facility on Wednesday morning",
+        "• Videos taken by bystanders show ICE agents dragging the woman out of the daycare before pinning her against a parked car as they attempted to handcuff her",
+        "• At the same time witnesses described the use of excessive force by federal officers during a court hearing "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ICE agents forcibly detained a worker at the Rayito de Sol daycare center in the city’s North Side neighborhood after pursuing her into the facility on Wednesday morning",
+          "• Videos taken by bystanders show ICE agents dragging the woman out of the daycare before pinning her against a parked car as they attempted to handcuff her"
+        ],
+        "hopeful_bullets": [
+          "• Videos taken by bystanders show ICE agents dragging the woman out of the daycare before pinning her against a parked car as they attempted to handcuff her"
+        ],
+        "stakes_bullets": [
+          "• ICE agents forcibly detained a worker at the Rayito de Sol daycare center in the city’s North Side neighborhood after pursuing her into the facility on Wednesday morning",
+          "• Videos taken by bystanders show ICE agents dragging the woman out of the daycare before pinning her against a parked car as they attempted to handcuff her",
+          "• At the same time witnesses described the use of excessive force by federal officers during a court hearing "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "4b88b97e21d4"
     },
     {
       "id": "fd8420c58686",
@@ -8211,6 +8214,106 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "21442d159222",
+      "title": "Election night at Kalshi HQ",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/column/815208/election-night-at-kalshi-hq",
+      "published_at": "2025-11-05T21:00:00-05:00",
+      "bullets": [
+        "• Kalshi is a fast-growing prediction market that is calling races faster than the media",
+        "• Founder Tarek Mansour says the company is doing a billion dollars in transaction volume a week",
+        "• The New York mayor’s race had long been priced as a landslide "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.684
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kalshi is a fast-growing prediction market that is calling races faster than the media",
+          "• Founder Tarek Mansour says the company is doing a billion dollars in transaction volume a week"
+        ],
+        "hopeful_bullets": [
+          "• Kalshi is a fast-growing prediction market that is calling races faster than the media"
+        ],
+        "stakes_bullets": [
+          "• Founder Tarek Mansour says the company is doing a billion dollars in transaction volume a week"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "12f5983efb36"
+    },
+    {
+      "id": "b749283eb606",
+      "title": "Rode’s all-in-one video production console is now smaller and cheaper",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/813545/rode-rodecaster-video-s-production-console-audio-switcher",
+      "published_at": "2025-11-05T20:00:00-05:00",
+      "bullets": [
+        "• Rode has announced a new version of the Rodecaster Video portable production console",
+        "• The new version is $499 and can switch, mix, and livestream audio and video for $499",
+        "• The original version cost $1,199 and was designed to be a limited but more affordable alternative to professional video switchers "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rode has announced a new version of the Rodecaster Video portable production console",
+          "• The new version is $499 and can switch, mix, and livestream audio and video for $499"
+        ],
+        "hopeful_bullets": [
+          "• Rode has announced a new version of the Rodecaster Video portable production console",
+          "• The new version is $499 and can switch, mix, and livestream audio and video for $499"
+        ],
+        "stakes_bullets": [
+          "• Rode has announced a new version of the Rodecaster Video portable production console",
+          "• The new version is $499 and can switch, mix, and livestream audio and video for $499",
+          "• The original version cost $1,199 and was designed to be a limited but more affordable alternative to professional video switchers "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "f1909f317e94"
+    },
+    {
+      "id": "681d39e16bdd",
+      "title": "Films from YouTube and Google Play are no longer available on Movies Anywhere",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/815082/movies-anywhere-ends-google-play-youtube-support",
+      "published_at": "2025-11-05T18:57:29-05:00",
+      "bullets": [
+        "• As of October 31st, movies from YouTube and Google Play are no longer available on Movies Anywhere",
+        "• The cross-platform streaming app doesn’t support Google purchases anymore",
+        "• There are no further details about the break-up",
+        "• Google did not respond to a request for comment "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• As of October 31st, movies from YouTube and Google Play are no longer available on Movies Anywhere",
+          "• The cross-platform streaming app doesn’t support Google purchases anymore"
+        ],
+        "hopeful_bullets": [
+          "• As of October 31st, movies from YouTube and Google Play are no longer available on Movies Anywhere",
+          "• The cross-platform streaming app doesn’t support Google purchases anymore"
+        ],
+        "stakes_bullets": [
+          "• As of October 31st, movies from YouTube and Google Play are no longer available on Movies Anywhere",
+          "• The cross-platform streaming app doesn’t support Google purchases anymore",
+          "• There are no further details about the break-up"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6639907474fc"
+    },
+    {
       "id": "89407a14088d",
       "title": "Here are the best Apple Watch deals available right now",
       "outlet": "The Verge",
@@ -8443,106 +8546,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "a68fd52f53c0"
-    },
-    {
-      "id": "6db60c5440c1",
-      "title": "The nostalgia and surprise of returning to Animal Crossing: New Horizons",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/games/814497/animal-crossing-new-horizons-acnh-2025-return",
-      "published_at": "2025-11-05T15:04:39-05:00",
-      "bullets": [
-        "• Animal Crossing: New Horizons is getting a Switch 2 upgrade and a free update for all players",
-        "• Nintendo surprised everybody with an announcement last week that the game is getting an update in January",
-        "• In preparation for the update, we checked in on our islands and see what we'll be coming back to in a few months "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Animal Crossing: New Horizons is getting a Switch 2 upgrade and a free update for all players",
-          "• Nintendo surprised everybody with an announcement last week that the game is getting an update in January"
-        ],
-        "hopeful_bullets": [
-          "• Animal Crossing: New Horizons is getting a Switch 2 upgrade and a free update for all players",
-          "• Nintendo surprised everybody with an announcement last week that the game is getting an update in January"
-        ],
-        "stakes_bullets": [
-          "• Animal Crossing: New Horizons is getting a Switch 2 upgrade and a free update for all players",
-          "• Nintendo surprised everybody with an announcement last week that the game is getting an update in January",
-          "• In preparation for the update, we checked in on our islands and see what we'll be coming back to in a few months "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "7b2ad29adaec"
-    },
-    {
-      "id": "80443169e308",
-      "title": "8BitDo’s latest wireless controllers can now shake-to-wake the Switch 2",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/814551/8bitdos-latest-wireless-controllers-can-now-shake-to-wake-the-switch-2",
-      "published_at": "2025-11-05T14:26:37-05:00",
-      "bullets": [
-        "• 8BitDo’s latest wireless controllers can now shake-to-wake the Switch 2 Pro",
-        "• The new firmware updates add the feature, which lets you turn on your console from across the room",
-        "• At around $69.99 each, these aren’t cheap "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.954
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 8BitDo’s latest wireless controllers can now shake-to-wake the Switch 2 Pro",
-          "• The new firmware updates add the feature, which lets you turn on your console from across the room"
-        ],
-        "hopeful_bullets": [
-          "• 8BitDo’s latest wireless controllers can now shake-to-wake the Switch 2 Pro",
-          "• The new firmware updates add the feature, which lets you turn on your console from across the room"
-        ],
-        "stakes_bullets": [
-          "• 8BitDo’s latest wireless controllers can now shake-to-wake the Switch 2 Pro",
-          "• The new firmware updates add the feature, which lets you turn on your console from across the room",
-          "• At around $69.99 each, these aren’t cheap "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "9f8f2cf835cd"
-    },
-    {
-      "id": "51066132a0c3",
-      "title": "Amazon&#8217;s grocery store dreams are reshaping Whole Foods",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/814454/amazon-whole-foods-fulfillment-concept-store",
-      "published_at": "2025-11-05T13:26:57-05:00",
-      "bullets": [
-        "• Amazon details a Whole Foods concept store in Plymouth Meeting, Pennsylvania, where shoppers can order grocery items from Amazon using QR codes scattered throughout the supermarket",
-        "• The store has a built-in “microfulfillment center” packed with products that you wouldn’t normally find inside Whole Foods "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.834
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amazon details a Whole Foods concept store in Plymouth Meeting, Pennsylvania, where shoppers can order grocery items from Amazon using QR codes scattered throughout the supermarket",
-          "• The store has a built-in “microfulfillment center” packed with products that you wouldn’t normally find inside Whole Foods "
-        ],
-        "hopeful_bullets": [
-          "• Amazon details a Whole Foods concept store in Plymouth Meeting, Pennsylvania, where shoppers can order grocery items from Amazon using QR codes scattered throughout the supermarket",
-          "• The store has a built-in “microfulfillment center” packed with products that you wouldn’t normally find inside Whole Foods "
-        ],
-        "stakes_bullets": [
-          "• Amazon details a Whole Foods concept store in Plymouth Meeting, Pennsylvania, where shoppers can order grocery items from Amazon using QR codes scattered throughout the supermarket",
-          "• The store has a built-in “microfulfillment center” packed with products that you wouldn’t normally find inside Whole Foods "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ae1a097ef0fe"
     },
     {
       "id": "c41ff758b36a",
@@ -8779,6 +8782,38 @@
       "cluster_id": "030bb76c9ac3"
     },
     {
+      "id": "4339b7faab18",
+      "title": "Theater counts: Springsteen stands alone as this weekend’s widest release",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260200830-Theater-counts-Springsteen-stands-alone-as-this-weekends-widest-release",
+      "published_at": null,
+      "bullets": [
+        "• Chainsaw Man—The Movie: Reze Arc slashed its way to the top of the weekend box office, carving out an impressive $18 million in its debut",
+        "• Back to the Future is revving up the DeLorean and blasting back onto the big screen for its 40th anniversary, hitting 2,290 theaters "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Chainsaw Man—The Movie: Reze Arc slashed its way to the top of the weekend box office, carving out an impressive $18 million in its debut",
+          "• Back to the Future is revving up the DeLorean and blasting back onto the big screen for its 40th anniversary, hitting 2,290 theaters "
+        ],
+        "hopeful_bullets": [
+          "• Chainsaw Man—The Movie: Reze Arc slashed its way to the top of the weekend box office, carving out an impressive $18 million in its debut",
+          "• Back to the Future is revving up the DeLorean and blasting back onto the big screen for its 40th anniversary, hitting 2,290 theaters "
+        ],
+        "stakes_bullets": [
+          "• Chainsaw Man—The Movie: Reze Arc slashed its way to the top of the weekend box office, carving out an impressive $18 million in its debut",
+          "• Back to the Future is revving up the DeLorean and blasting back onto the big screen for its 40th anniversary, hitting 2,290 theaters "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "3cb528d865c2"
+    },
+    {
       "id": "3ddb2105e393",
       "title": "Weekend projections: Chainsaw Man debuts with $17 million to keep box office earnings above water",
       "outlet": "The Numbers",
@@ -8998,6 +9033,42 @@
       ]
     },
     {
+      "id": "2d7eadc9fa14",
+      "topic": "conservative justice question sharply",
+      "keywords": [
+        "conservative",
+        "justice",
+        "question",
+        "sharply",
+        "tariff",
+        "trump"
+      ],
+      "item_ids": [
+        "d8fe81e9d139"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "7244dc0c74a2",
+      "topic": "airport cut doesn end",
+      "keywords": [
+        "airport",
+        "cut",
+        "doesn",
+        "end",
+        "flight",
+        "shutdown"
+      ],
+      "item_ids": [
+        "03c15691b17a"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "3d75a6e1ba53",
       "topic": "another coffin containing hama",
       "keywords": [
@@ -9010,6 +9081,60 @@
       ],
       "item_ids": [
         "44494f94e756"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "685d3ff6117c",
+      "topic": "contestant miss organiser out",
+      "keywords": [
+        "contestant",
+        "miss",
+        "organiser",
+        "out",
+        "universe",
+        "walk"
+      ],
+      "item_ids": [
+        "c83a5efae529"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "5774e67ad65f",
+      "topic": "controversial death held influencer",
+      "keywords": [
+        "controversial",
+        "death",
+        "held",
+        "influencer",
+        "namewee",
+        "rapper"
+      ],
+      "item_ids": [
+        "379da5437371"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "5046fd7f58d1",
+      "topic": "being charge groped mexico",
+      "keywords": [
+        "being",
+        "charge",
+        "groped",
+        "mexico",
+        "president",
+        "seek"
+      ],
+      "item_ids": [
+        "27d37292d0c6"
       ],
       "outlets": [
         "BBC News"
@@ -9064,95 +9189,6 @@
       ],
       "item_ids": [
         "f5104a8689f5"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "5046fd7f58d1",
-      "topic": "being charge groped mexico",
-      "keywords": [
-        "being",
-        "charge",
-        "groped",
-        "mexico",
-        "president",
-        "seek"
-      ],
-      "item_ids": [
-        "27d37292d0c6"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "edda2ec76f59",
-      "topic": "critically driver french injured",
-      "keywords": [
-        "critically",
-        "driver",
-        "french",
-        "injured",
-        "people",
-        "rams"
-      ],
-      "item_ids": [
-        "de2a2bf6ed97"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "0d40c0fce277",
-      "topic": "climber italian missing nepal",
-      "keywords": [
-        "climber",
-        "italian",
-        "missing",
-        "nepal",
-        "seven",
-        "still"
-      ],
-      "item_ids": [
-        "fdf180c08a14"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "685d3ff6117c",
-      "topic": "contestant miss organiser out",
-      "keywords": [
-        "contestant",
-        "miss",
-        "organiser",
-        "out",
-        "universe",
-        "walk"
-      ],
-      "item_ids": [
-        "c83a5efae529"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "d1c4a47b2ab5",
-      "topic": "dead havoc philippine typhoon",
-      "keywords": [
-        "dead",
-        "havoc",
-        "philippine",
-        "typhoon",
-        "wreak"
-      ],
-      "item_ids": [
-        "34dd0120a630"
       ],
       "outlets": [
         "BBC News"
@@ -9339,15 +9375,15 @@
       ]
     },
     {
-      "id": "1de993c3aef4",
-      "topic": "democrat disparage mamdani trump",
+      "id": "880e3071bf47",
+      "topic": "chicago facility federal immigration",
       "keywords": [
-        "democrat",
-        "disparage",
-        "mamdani",
-        "trump",
-        "victory",
-        "zohran"
+        "chicago",
+        "facility",
+        "federal",
+        "immigration",
+        "judge",
+        "order"
       ],
       "item_ids": [
         "c72fa50433fb"
@@ -9357,36 +9393,18 @@
       ]
     },
     {
-      "id": "419ea1a945ff",
-      "topic": "lawmaker mexico nominate oversee",
+      "id": "e5493e5f2459",
+      "topic": "gold office outside oval",
       "keywords": [
-        "lawmaker",
-        "mexico",
-        "nominate",
-        "oversee",
-        "public",
+        "gold",
+        "office",
+        "outside",
+        "oval",
+        "sign",
         "trump"
       ],
       "item_ids": [
-        "f81c88ce332d"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "20c7d4d53916",
-      "topic": "crash death kentucky plane",
-      "keywords": [
-        "crash",
-        "death",
-        "kentucky",
-        "plane",
-        "rise",
-        "toll"
-      ],
-      "item_ids": [
-        "acc0d3c5793a"
+        "f2bfddb842a8"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9411,6 +9429,96 @@
       ]
     },
     {
+      "id": "11a861581d12",
+      "topic": "alleged arrested halloween man",
+      "keywords": [
+        "alleged",
+        "arrested",
+        "halloween",
+        "man",
+        "michigan",
+        "third"
+      ],
+      "item_ids": [
+        "8c2aa353f9f7"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "20c7d4d53916",
+      "topic": "crash death kentucky plane",
+      "keywords": [
+        "crash",
+        "death",
+        "kentucky",
+        "plane",
+        "rise",
+        "toll"
+      ],
+      "item_ids": [
+        "acc0d3c5793a"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "73368f3fa931",
+      "topic": "day democrat frenzy goes",
+      "keywords": [
+        "day",
+        "democrat",
+        "frenzy",
+        "goes",
+        "posting",
+        "trump"
+      ],
+      "item_ids": [
+        "6f248dfe8119"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "4b88b97e21d4",
+      "topic": "daycare detain forcibly ice",
+      "keywords": [
+        "daycare",
+        "detain",
+        "forcibly",
+        "ice",
+        "scrutiny",
+        "worker"
+      ],
+      "item_ids": [
+        "1d8a6ecb622c"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "419ea1a945ff",
+      "topic": "lawmaker mexico nominate oversee",
+      "keywords": [
+        "lawmaker",
+        "mexico",
+        "nominate",
+        "oversee",
+        "public",
+        "trump"
+      ],
+      "item_ids": [
+        "f81c88ce332d"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "7730faa8e2b7",
       "topic": "city mamdani strongest vote",
       "keywords": [
@@ -9428,93 +9536,39 @@
       ]
     },
     {
-      "id": "153b68ff8226",
-      "topic": "describe mace nancy police",
+      "id": "cd2549f35a30",
+      "topic": "california challenging file lawsuit",
       "keywords": [
-        "describe",
-        "mace",
-        "nancy",
-        "police",
-        "report",
+        "california",
+        "challenging",
+        "file",
+        "lawsuit",
+        "redistricting",
         "republican"
       ],
       "item_ids": [
-        "832427eec658"
+        "678a1ca92a66"
       ],
       "outlets": [
         "US news | The Guardian"
       ]
     },
     {
-      "id": "ee8351781769",
-      "topic": "cam dash disturbing footage",
+      "id": "495e6b5bcfba",
+      "topic": "air airport faa many",
       "keywords": [
-        "cam",
-        "dash",
-        "disturbing",
-        "footage",
-        "police",
-        "show"
+        "air",
+        "airport",
+        "faa",
+        "many",
+        "reduce",
+        "traffic"
       ],
       "item_ids": [
-        "41c8ba16047c"
+        "64c683661a00"
       ],
       "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "d545878f0321",
-      "topic": "biggest coalition left mamdani",
-      "keywords": [
-        "biggest",
-        "coalition",
-        "left",
-        "mamdani",
-        "trump",
-        "voter"
-      ],
-      "item_ids": [
-        "7684260867ff"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "474cb1dbe11a",
-      "topic": "california does gavin mean",
-      "keywords": [
-        "california",
-        "does",
-        "gavin",
-        "mean",
-        "passage",
-        "prop"
-      ],
-      "item_ids": [
-        "5c855d0f7f49"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "0c1ee83878e0",
-      "topic": "all announce female mamdani",
-      "keywords": [
-        "all",
-        "announce",
-        "female",
-        "mamdani",
-        "transition",
-        "zohran"
-      ],
-      "item_ids": [
-        "ac6ab84ba943"
-      ],
-      "outlets": [
-        "US news | The Guardian"
+        "NPR Topics: News"
       ]
     },
     {
@@ -9680,24 +9734,6 @@
       ]
     },
     {
-      "id": "c3dad31fafae",
-      "topic": "first governor she spanberger",
-      "keywords": [
-        "first",
-        "governor",
-        "she",
-        "spanberger",
-        "virginia",
-        "woman"
-      ],
-      "item_ids": [
-        "93289e60ff11"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "1448ba33858b",
       "topic": "400 forecast rocket share",
       "keywords": [
@@ -9734,6 +9770,24 @@
       ]
     },
     {
+      "id": "1db6a0c9ab09",
+      "topic": "autonomou chinese driving firm",
+      "keywords": [
+        "autonomou",
+        "chinese",
+        "driving",
+        "firm",
+        "pony",
+        "sees"
+      ],
+      "item_ids": [
+        "f788700640cf"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "7ec82d2eb86f",
       "topic": "expectation lucid misse narrow",
       "keywords": [
@@ -9746,6 +9800,24 @@
       ],
       "item_ids": [
         "6dd926c8ea0d"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "0296b5d576bc",
+      "topic": "concern employee letting microsoft",
+      "keywords": [
+        "concern",
+        "employee",
+        "letting",
+        "microsoft",
+        "product",
+        "raise"
+      ],
+      "item_ids": [
+        "047ff07157d6"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9788,6 +9860,24 @@
       ]
     },
     {
+      "id": "8fd1b4f368b2",
+      "topic": "asia market pacific rise",
+      "keywords": [
+        "asia",
+        "market",
+        "pacific",
+        "rise",
+        "tracking",
+        "wall"
+      ],
+      "item_ids": [
+        "93f3d1777755"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "567b4fe08d92",
       "topic": "appear court justice skeptical",
       "keywords": [
@@ -9800,24 +9890,6 @@
       ],
       "item_ids": [
         "45d1046875f9"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "dcd48ac52139",
-      "topic": "cratered germany last sale",
-      "keywords": [
-        "cratered",
-        "germany",
-        "last",
-        "sale",
-        "tesla",
-        "year"
-      ],
-      "item_ids": [
-        "952c757fa52e"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9842,39 +9914,21 @@
       ]
     },
     {
-      "id": "2a6b76b1f050",
-      "topic": "amazon jassy look morale",
+      "id": "6436fec8fb00",
+      "topic": "cut faa flight might",
       "keywords": [
-        "amazon",
-        "jassy",
-        "look",
-        "morale",
-        "shaken",
-        "upheaval"
+        "cut",
+        "faa",
+        "flight",
+        "might",
+        "plan",
+        "utter"
       ],
       "item_ids": [
-        "3d707bb4d361"
+        "d0ef5c7505cc"
       ],
       "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "ce15fcc610d6",
-      "topic": "cargo crash louisville near",
-      "keywords": [
-        "cargo",
-        "crash",
-        "louisville",
-        "near",
-        "plane",
-        "ups"
-      ],
-      "item_ids": [
-        "47fab97bd076"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
       ]
     },
     {
@@ -10037,21 +10091,54 @@
       ]
     },
     {
-      "id": "790450cbfb7b",
-      "topic": "2025 best budget hisense",
+      "id": "12f5983efb36",
+      "topic": "election kalshi night",
       "keywords": [
-        "2025",
-        "best",
-        "budget",
-        "hisense",
-        "tcl",
-        "tvs"
+        "election",
+        "kalshi",
+        "night"
       ],
       "item_ids": [
-        "4aea5c38f36d"
+        "21442d159222"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
+      ]
+    },
+    {
+      "id": "f1909f317e94",
+      "topic": "all console now production",
+      "keywords": [
+        "all",
+        "console",
+        "now",
+        "production",
+        "rode",
+        "video"
+      ],
+      "item_ids": [
+        "b749283eb606"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "6639907474fc",
+      "topic": "available film google longer",
+      "keywords": [
+        "available",
+        "film",
+        "google",
+        "longer",
+        "play",
+        "youtube"
+      ],
+      "item_ids": [
+        "681d39e16bdd"
+      ],
+      "outlets": [
+        "The Verge"
       ]
     },
     {
@@ -10180,57 +10267,39 @@
       ]
     },
     {
-      "id": "7b2ad29adaec",
-      "topic": "animal crossing horizon nostalgia",
+      "id": "7e4668bc1298",
+      "topic": "both musk now penn",
       "keywords": [
-        "animal",
-        "crossing",
-        "horizon",
-        "nostalgia",
-        "returning",
-        "surprise"
-      ],
-      "item_ids": [
-        "6db60c5440c1"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "9f8f2cf835cd",
-      "topic": "8bitdo controller now shake",
-      "keywords": [
-        "8bitdo",
-        "controller",
+        "both",
+        "musk",
         "now",
-        "shake",
-        "wake",
-        "wireles"
+        "penn",
+        "trump",
+        "went"
       ],
       "item_ids": [
-        "80443169e308"
+        "56b5acd92647"
       ],
       "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
-      "id": "ae1a097ef0fe",
-      "topic": "8217 amazon dream grocery",
+      "id": "9c3522656b61",
+      "topic": "man married nearly old",
       "keywords": [
-        "8217",
-        "amazon",
-        "dream",
-        "grocery",
-        "reshaping",
-        "store"
+        "man",
+        "married",
+        "nearly",
+        "old",
+        "stump",
+        "year"
       ],
       "item_ids": [
-        "51066132a0c3"
+        "532cc95eb019"
       ],
       "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
@@ -10370,42 +10439,6 @@
       ],
       "item_ids": [
         "032e8b34f5f4"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "49633f1d4184",
-      "topic": "away chinese customer european",
-      "keywords": [
-        "away",
-        "chinese",
-        "customer",
-        "european",
-        "staying",
-        "tesla"
-      ],
-      "item_ids": [
-        "04eba0235fb0"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "4b52575595d7",
-      "topic": "attractive being fitnes hurt",
-      "keywords": [
-        "attractive",
-        "being",
-        "fitnes",
-        "hurt",
-        "influencer",
-        "too"
-      ],
-      "item_ids": [
-        "c30668d2ee9b"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -11081,6 +11114,24 @@
       ]
     },
     {
+      "id": "04356dd1f6e1",
+      "topic": "advocate celebrate climate mamdani",
+      "keywords": [
+        "advocate",
+        "celebrate",
+        "climate",
+        "mamdani",
+        "victory",
+        "york"
+      ],
+      "item_ids": [
+        "4eec569b546c"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "7e4b04a2718e",
       "topic": "control democrat government lock",
       "keywords": [
@@ -11240,24 +11291,6 @@
       ]
     },
     {
-      "id": "290c73691a57",
-      "topic": "chemical environmental florida forever",
-      "keywords": [
-        "chemical",
-        "environmental",
-        "florida",
-        "forever",
-        "represent",
-        "threat"
-      ],
-      "item_ids": [
-        "c4d0aba3ff43"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
       "id": "6fce325fa1e4",
       "topic": "2026 box busines number",
       "keywords": [
@@ -11306,6 +11339,24 @@
       ],
       "item_ids": [
         "b9628f22d671"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "3cb528d865c2",
+      "topic": "alone count springsteen stand",
+      "keywords": [
+        "alone",
+        "count",
+        "springsteen",
+        "stand",
+        "theater",
+        "weekend"
+      ],
+      "item_ids": [
+        "4339b7faab18"
       ],
       "outlets": [
         "The Numbers"
@@ -11958,6 +12009,24 @@
       ]
     },
     {
+      "id": "61932cf045ef",
+      "topic": "all brennan dishe john",
+      "keywords": [
+        "all",
+        "brennan",
+        "dishe",
+        "john",
+        "night",
+        "revival"
+      ],
+      "item_ids": [
+        "174adc947b0f"
+      ],
+      "outlets": [
+        "Wicked Horror"
+      ]
+    },
+    {
       "id": "e8ac82f303b1",
       "topic": "david exciting judge madnes",
       "keywords": [
@@ -12108,24 +12177,6 @@
       ],
       "item_ids": [
         "7d9fedc75080"
-      ],
-      "outlets": [
-        "Wicked Horror"
-      ]
-    },
-    {
-      "id": "28b2f4a1bab7",
-      "topic": "butterfly flatwood footage found",
-      "keywords": [
-        "butterfly",
-        "flatwood",
-        "footage",
-        "found",
-        "horror",
-        "project"
-      ],
-      "item_ids": [
-        "becca1c2ee52"
       ],
       "outlets": [
         "Wicked Horror"
@@ -12915,6 +12966,114 @@
       ]
     },
     {
+      "id": "f3beaed821ed",
+      "topic": "anime friend last normie",
+      "keywords": [
+        "anime",
+        "friend",
+        "last",
+        "normie",
+        "recommend",
+        "year"
+      ],
+      "item_ids": [
+        "035386ae61ab"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "21ef669a8de0",
+      "topic": "america captain completely famou",
+      "keywords": [
+        "america",
+        "captain",
+        "completely",
+        "famou",
+        "line",
+        "most"
+      ],
+      "item_ids": [
+        "d1fd1a49b9e3"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "3f822745e430",
+      "topic": "classic nightmare pluribu sci",
+      "keywords": [
+        "classic",
+        "nightmare",
+        "pluribu",
+        "sci",
+        "trope",
+        "turn"
+      ],
+      "item_ids": [
+        "848a395fda78"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "546bdbf3e514",
+      "topic": "almost best fantasy final",
+      "keywords": [
+        "almost",
+        "best",
+        "fantasy",
+        "final",
+        "game",
+        "perfect"
+      ],
+      "item_ids": [
+        "bf69a43615e3"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "1b6371888fe5",
+      "topic": "better fantasy franchise harry",
+      "keywords": [
+        "better",
+        "fantasy",
+        "franchise",
+        "harry",
+        "magical",
+        "potter"
+      ],
+      "item_ids": [
+        "0ea7dba6d9a3"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "bcf3ab3510a2",
+      "topic": "anime changing dubs english",
+      "keywords": [
+        "anime",
+        "changing",
+        "dubs",
+        "english",
+        "game",
+        "saved"
+      ],
+      "item_ids": [
+        "beeaefeef116"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "66c8a9d25638",
       "topic": "closest deadwood sequel thing",
       "keywords": [
@@ -12980,112 +13139,6 @@
       ],
       "item_ids": [
         "3544322d34df"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "cc9493f78437",
-      "topic": "apologize collab disappointing moon",
-      "keywords": [
-        "apologize",
-        "collab",
-        "disappointing",
-        "moon",
-        "official",
-        "sailor"
-      ],
-      "item_ids": [
-        "49ff968f701f"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "cc90915789e5",
-      "topic": "blade ford got harrison",
-      "keywords": [
-        "blade",
-        "ford",
-        "got",
-        "harrison",
-        "ridley",
-        "scott"
-      ],
-      "item_ids": [
-        "bace1dc59e51"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "c1e55cf75572",
-      "topic": "anime ball better dbz",
-      "keywords": [
-        "anime",
-        "ball",
-        "better",
-        "dbz",
-        "dragon",
-        "official"
-      ],
-      "item_ids": [
-        "8e64db1b3aeb"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "078819c941d8",
-      "topic": "fans good marvel playstation",
-      "keywords": [
-        "fans",
-        "good",
-        "marvel",
-        "playstation"
-      ],
-      "item_ids": [
-        "07c2bd4f66fb"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "7f56b6108e3f",
-      "topic": "off pulled serie something",
-      "keywords": [
-        "off",
-        "pulled",
-        "serie",
-        "something",
-        "star",
-        "trek"
-      ],
-      "item_ids": [
-        "407fa51d648a"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "079fd3ef4b01",
-      "topic": "darkest death nearly stranger",
-      "keywords": [
-        "darkest",
-        "death",
-        "nearly",
-        "stranger",
-        "thing",
-        "twice"
-      ],
-      "item_ids": [
-        "76f912b41381"
       ],
       "outlets": [
         "CBR"
@@ -13627,6 +13680,24 @@
       ]
     },
     {
+      "id": "9f4dedafaae0",
+      "topic": "near north race senate",
+      "keywords": [
+        "near",
+        "north",
+        "race",
+        "senate",
+        "texa",
+        "upset"
+      ],
+      "item_ids": [
+        "913435abcd66"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "aaf8c4f91cef",
       "topic": "bans campu enforce protest",
       "keywords": [
@@ -13782,24 +13853,6 @@
       ],
       "item_ids": [
         "906dbd256c55"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "a8747229b1a4",
-      "topic": "approve billion dementia research",
-      "keywords": [
-        "approve",
-        "billion",
-        "dementia",
-        "research",
-        "set",
-        "texan"
-      ],
-      "item_ids": [
-        "b86c7ae890ba"
       ],
       "outlets": [
         "The Texas Tribune"
