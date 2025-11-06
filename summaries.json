@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-06T13:27:15Z",
+  "generated_at": "2025-11-06T14:12:19Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -302,10 +302,8 @@
       "url": "https://arstechnica.com/security/2025/11/musk-and-trump-both-went-to-penn-now-hacked-by-someone-sympathetic-to-their-cause/",
       "published_at": "Wed, 05 Nov 2025 23:50:26 +0000",
       "bullets": [
-        "• The University of Pennsylvania has been hacked by an unknown hacker",
-        "• The university is the alma mater of both Elon Musk and Donald Trump",
-        "• The school has become an obvious target of the Trump administration",
-        "• The hacker also appears to have grabbed a copy of the school’s donor database "
+        "• The University of Pennsylvania is the alma mater of two of the planet’s most polarizing figures, Elon Musk and Donald Trump",
+        "• As the political power of both men rose over the last year, the US government began to pressure Penn, first by pulling its research funding and then by targeting the school for past actions related to a transgender swimmer "
       ],
       "category": "Technology",
       "sentiment": {
@@ -314,17 +312,15 @@
       },
       "moods": {
         "brief_bullets": [
-          "• The University of Pennsylvania has been hacked by an unknown hacker",
-          "• The university is the alma mater of both Elon Musk and Donald Trump"
+          "• The University of Pennsylvania is the alma mater of two of the planet’s most polarizing figures, Elon Musk and Donald Trump",
+          "• As the political power of both men rose over the last year, the US government began to pressure Penn, first by pulling its research funding and then by targeting the school for past actions related to a transgender swimmer "
         ],
         "hopeful_bullets": [
-          "• The University of Pennsylvania has been hacked by an unknown hacker",
-          "• The university is the alma mater of both Elon Musk and Donald Trump"
+          "• The University of Pennsylvania is the alma mater of two of the planet’s most polarizing figures, Elon Musk and Donald Trump",
+          "• As the political power of both men rose over the last year, the US government began to pressure Penn, first by pulling its research funding and then by targeting the school for past actions related to a transgender swimmer "
         ],
         "stakes_bullets": [
-          "• The University of Pennsylvania has been hacked by an unknown hacker",
-          "• The university is the alma mater of both Elon Musk and Donald Trump",
-          "• The school has become an obvious target of the Trump administration"
+          "• The University of Pennsylvania is the alma mater of two of the planet’s most polarizing figures, Elon Musk and Donald Trump"
         ]
       },
       "read_minutes": 1,
@@ -700,27 +696,27 @@
       "url": "https://arstechnica.com/security/2025/11/ai-generated-malware-poses-little-real-world-threat-contrary-to-hype/",
       "published_at": "Wed, 05 Nov 2025 23:00:46 +0000",
       "bullets": [
-        "• Google reveals five recent malware samples that were built using generative AI",
+        "• Google releases five recent malware samples that were built using generative AI",
         "• The end results of each one were far below par with professional malware development",
-        "• One of the samples was part of an academic study analyzing how effective the use of large language models can be “to autonomously plan, adapt, and execute the ransomware attack lifecycle "
+        "• One sample, PromptLock, was part of an academic study analyzing how effective the use of large language models can be “to autonomously plan, adapt, and execute the ransomware attack lifecycle "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Google reveals five recent malware samples that were built using generative AI",
+          "• Google releases five recent malware samples that were built using generative AI",
           "• The end results of each one were far below par with professional malware development"
         ],
         "hopeful_bullets": [
-          "• Google reveals five recent malware samples that were built using generative AI",
+          "• Google releases five recent malware samples that were built using generative AI",
           "• The end results of each one were far below par with professional malware development"
         ],
         "stakes_bullets": [
           "• The end results of each one were far below par with professional malware development",
-          "• One of the samples was part of an academic study analyzing how effective the use of large language models can be “to autonomously plan, adapt, and execute the ransomware attack lifecycle "
+          "• One sample, PromptLock, was part of an academic study analyzing how effective the use of large language models can be “to autonomously plan, adapt, and execute the ransomware attack lifecycle "
         ]
       },
       "read_minutes": 1,
@@ -791,6 +787,40 @@
       },
       "read_minutes": 4,
       "cluster_id": "2e8da7917be8"
+    },
+    {
+      "id": "b336b9608cce",
+      "title": "FAA to cut flights by 10% at 40 major airports due to government shutdown",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html",
+      "published_at": "Wed, 05 Nov 2025 22:38:57 GMT",
+      "bullets": [
+        "• Transportation Secretary Sean Duffy announced Wednesday that he will be reducing flight capacity by 10% at 40 major airports starting on Friday morning",
+        "• The reduction will affect roughly 3,500 to 4,000 flights daily",
+        "• The government shutdown entered its 36th full day on Wednesday, the longest in U.S",
+        "• history "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Transportation Secretary Sean Duffy announced Wednesday that he will be reducing flight capacity by 10% at 40 major airports starting on Friday morning",
+          "• The reduction will affect roughly 3,500 to 4,000 flights daily"
+        ],
+        "hopeful_bullets": [
+          "• Transportation Secretary Sean Duffy announced Wednesday that he will be reducing flight capacity by 10% at 40 major airports starting on Friday morning",
+          "• The reduction will affect roughly 3,500 to 4,000 flights daily"
+        ],
+        "stakes_bullets": [
+          "• Transportation Secretary Sean Duffy announced Wednesday that he will be reducing flight capacity by 10% at 40 major airports starting on Friday morning",
+          "• The reduction will affect roughly 3,500 to 4,000 flights daily"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "bf4d859cbc3d"
     },
     {
       "id": "f756bd350694",
@@ -1319,39 +1349,6 @@
       "cluster_id": "dd3a65de6e17"
     },
     {
-      "id": "1afe5477e8f0",
-      "title": "’90s Serial Killer Film ‘The Ugly’ Heads to Blu-ray in February",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/home-video/3913025/90s-serial-killer-film-the-ugly-heads-to-blu-ray-in-february/?utm_source=rss&utm_medium=rss&utm_campaign=90s-serial-killer-film-the-ugly-heads-to-blu-ray-in-february",
-      "published_at": "Wed, 05 Nov 2025 18:38:40 +0000",
-      "bullets": [
-        "• The Ugly will be released on Blu-ray on February 10 via Unearthed Films",
-        "• The uncut 1997 psychological horror film has been newly remastered in 4K from a 35mm interpositive",
-        "• Paolo Rotondo, Rebecca Hobbs, Jennifer Ward-Lealand, and Roy Ward star "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Ugly will be released on Blu-ray on February 10 via Unearthed Films",
-          "• The uncut 1997 psychological horror film has been newly remastered in 4K from a 35mm interpositive"
-        ],
-        "hopeful_bullets": [
-          "• The Ugly will be released on Blu-ray on February 10 via Unearthed Films",
-          "• The uncut 1997 psychological horror film has been newly remastered in 4K from a 35mm interpositive"
-        ],
-        "stakes_bullets": [
-          "• The Ugly will be released on Blu-ray on February 10 via Unearthed Films",
-          "• The uncut 1997 psychological horror film has been newly remastered in 4K from a 35mm interpositive"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "c87cd2f32070"
-    },
-    {
       "id": "b81753edb7f8",
       "title": "Drop Nineteens’ Paula Kelley Announces First Solo Album in 20 Years, Shares New Song: Listen",
       "outlet": "RSS: News",
@@ -1416,40 +1413,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "cc2d355424c1"
-    },
-    {
-      "id": "9f6f2898c165",
-      "title": "Trump nuclear power investment in Westinghouse could lead to IPO with U.S. government as shareholder",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/05/westinghouse-cameco-brookfield-trump-nuclear-ap1000.html",
-      "published_at": "Wed, 05 Nov 2025 18:14:57 GMT",
-      "bullets": [
-        "• The government could become an 8% shareholder in Westinghouse under the deal",
-        "• The Commerce Department signed a deal last week to spend $80 billion to build the company's nuclear plants across the U.S",
-        "• The government is not entitled to a stake in Cameco or Brookfield, an executive says "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The government could become an 8% shareholder in Westinghouse under the deal",
-          "• The Commerce Department signed a deal last week to spend $80 billion to build the company's nuclear plants across the U.S"
-        ],
-        "hopeful_bullets": [
-          "• The government could become an 8% shareholder in Westinghouse under the deal",
-          "• The Commerce Department signed a deal last week to spend $80 billion to build the company's nuclear plants across the U.S"
-        ],
-        "stakes_bullets": [
-          "• The government could become an 8% shareholder in Westinghouse under the deal",
-          "• The Commerce Department signed a deal last week to spend $80 billion to build the company's nuclear plants across the U.S",
-          "• The government is not entitled to a stake in Cameco or Brookfield, an executive says "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "fd29fdebc02b"
     },
     {
       "id": "613cbf29fc04",
@@ -1579,38 +1542,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "ff149d22f19b"
-    },
-    {
-      "id": "eeef3959a0c5",
-      "title": "Curry Barker’s ‘Obsession’ Sets Summer 2026 Theatrical Release",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3913022/curry-barkers-obsession-sets-summer-2026-theatrical-release/?utm_source=rss&utm_medium=rss&utm_campaign=curry-barkers-obsession-sets-summer-2026-theatrical-release",
-      "published_at": "Wed, 05 Nov 2025 17:40:31 +0000",
-      "bullets": [
-        "• Milk & Serial filmmaker Curry Barker’s latest terrifying feature is heading to the big screen in 2026",
-        "• Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, and Andy Richter star in the film written and directed by Barker "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Milk & Serial filmmaker Curry Barker’s latest terrifying feature is heading to the big screen in 2026",
-          "• Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, and Andy Richter star in the film written and directed by Barker "
-        ],
-        "hopeful_bullets": [
-          "• Milk & Serial filmmaker Curry Barker’s latest terrifying feature is heading to the big screen in 2026",
-          "• Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, and Andy Richter star in the film written and directed by Barker "
-        ],
-        "stakes_bullets": [
-          "• Milk & Serial filmmaker Curry Barker’s latest terrifying feature is heading to the big screen in 2026",
-          "• Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, and Andy Richter star in the film written and directed by Barker "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "b3ebcdaea7ec"
     },
     {
       "id": "1b1e54054183",
@@ -2768,6 +2699,39 @@
       "cluster_id": "cefd311a8e03"
     },
     {
+      "id": "3fc7b413ab65",
+      "title": "TVC15: Republic Trooper (The Old Republic) (VC113)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-04-tvc15-republic-trooper-the-old-republic-vc113/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-republic-trooper-the-old-republic-vc113",
+      "published_at": "Wed, 05 Nov 2025 02:23:28 +0000",
+      "bullets": [
+        "• The Republic Trooper (The Old Republic) was one of the surprise figures of 2012",
+        "• Hasbro didn’t attempt to create too many characters from The Old Republic video game",
+        "• The one area the figure lacked was its paint job",
+        "• A little more dirt would have made a monumental impact on the figure's aesthetics "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Republic Trooper (The Old Republic) was one of the surprise figures of 2012",
+          "• Hasbro didn’t attempt to create too many characters from The Old Republic video game"
+        ],
+        "hopeful_bullets": [
+          "• The Republic Trooper (The Old Republic) was one of the surprise figures of 2012",
+          "• Hasbro didn’t attempt to create too many characters from The Old Republic video game"
+        ],
+        "stakes_bullets": [
+          "• A little more dirt would have made a monumental impact on the figure's aesthetics "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "92252a960604"
+    },
+    {
       "id": "5251f779439e",
       "title": "UT System will push to enforce campus protest bans that judge temporarily blocked",
       "outlet": "The Texas Tribune",
@@ -3553,6 +3517,40 @@
       "cluster_id": "e8ac82f303b1"
     },
     {
+      "id": "c82055c14e56",
+      "title": "TVC15: Darth Maul (VC86)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-03-tvc15-darth-maul-vc86/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-darth-maul-vc86",
+      "published_at": "Tue, 04 Nov 2025 02:49:49 +0000",
+      "bullets": [
+        "• The highlight of the 2012 The Vintage Collection The Phantom Menace wave was Darth Maul",
+        "• Darth Maul was the first figure to disappear from store shelves",
+        "• By today’s standards, the figure is somewhat outdated, and Hasbro should re-imagine this character from the ground up "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The highlight of the 2012 The Vintage Collection The Phantom Menace wave was Darth Maul",
+          "• Darth Maul was the first figure to disappear from store shelves"
+        ],
+        "hopeful_bullets": [
+          "• The highlight of the 2012 The Vintage Collection The Phantom Menace wave was Darth Maul",
+          "• Darth Maul was the first figure to disappear from store shelves"
+        ],
+        "stakes_bullets": [
+          "• The highlight of the 2012 The Vintage Collection The Phantom Menace wave was Darth Maul",
+          "• Darth Maul was the first figure to disappear from store shelves",
+          "• By today’s standards, the figure is somewhat outdated, and Hasbro should re-imagine this character from the ground up "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "42395f97edb8"
+    },
+    {
       "id": "ad6c10951294",
       "title": "Why an interstellar comet has scientists excited",
       "outlet": "NPR Topics: Science",
@@ -3954,6 +3952,400 @@
       "cluster_id": "1a8aa91301b8"
     },
     {
+      "id": "d9f0c3640b2d",
+      "title": "Fredo Corleone's Godfather 2 Death Is the Coldest Moment in Movie History",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-godfather-2s-fredo-death-most-disturbing-scene/",
+      "published_at": "Thu, 06 Nov 2025 14:00:11 GMT",
+      "bullets": [
+        "• The Godfather Part II redefined how simplicity can appear expensive on screen when everything, from good writing to excellent performances, falls into place",
+        "• Fredo Corleone's death was the moment when the family's moral compass shatters completely because that act was a devastating paradox",
+        "• The scene is so important cinematically because it was filmed and portrayed as a beautiful disaster "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.797
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Godfather Part II redefined how simplicity can appear expensive on screen when everything, from good writing to excellent performances, falls into place",
+          "• Fredo Corleone's death was the moment when the family's moral compass shatters completely because that act was a devastating paradox"
+        ],
+        "hopeful_bullets": [
+          "• The Godfather Part II redefined how simplicity can appear expensive on screen when everything, from good writing to excellent performances, falls into place",
+          "• Fredo Corleone's death was the moment when the family's moral compass shatters completely because that act was a devastating paradox"
+        ],
+        "stakes_bullets": [
+          "• Fredo Corleone's death was the moment when the family's moral compass shatters completely because that act was a devastating paradox",
+          "• The scene is so important cinematically because it was filmed and portrayed as a beautiful disaster "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "554979dc1c90"
+    },
+    {
+      "id": "233361884be2",
+      "title": "Noomi Rapace & Millicent Simmonds to Star in Dystopian Thriller ‘No Man’s Land’",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3913179/noomi-rapace-millicent-simmonds-to-star-in-dystopian-thriller-no-mans-land/?utm_source=rss&utm_medium=rss&utm_campaign=noomi-rapace-millicent-simmonds-to-star-in-dystopian-thriller-no-mans-land",
+      "published_at": "Thu, 06 Nov 2025 13:54:49 +0000",
+      "bullets": [
+        "• Noomi Rapace and Millicent Simmonds to star in dystopian thriller No Man's Land",
+        "• Film is said to have elements of “The Handmaid’s Tale” and the ritualistic tension of Midsommar",
+        "• It is set to begin shooting in Spain in April 2026 "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Noomi Rapace and Millicent Simmonds to star in dystopian thriller No Man's Land",
+          "• Film is said to have elements of “The Handmaid’s Tale” and the ritualistic tension of Midsommar"
+        ],
+        "hopeful_bullets": [
+          "• Noomi Rapace and Millicent Simmonds to star in dystopian thriller No Man's Land",
+          "• Film is said to have elements of “The Handmaid’s Tale” and the ritualistic tension of Midsommar"
+        ],
+        "stakes_bullets": [
+          "• Noomi Rapace and Millicent Simmonds to star in dystopian thriller No Man's Land",
+          "• Film is said to have elements of “The Handmaid’s Tale” and the ritualistic tension of Midsommar",
+          "• It is set to begin shooting in Spain in April 2026 "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0231179d6b85"
+    },
+    {
+      "id": "e42bdde86c71",
+      "title": "CarMax stock falls about 10% as CEO steps down, releases new outlook",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/06/carmax-stock-kmx-ceo.html",
+      "published_at": "Thu, 06 Nov 2025 13:41:36 GMT",
+      "bullets": [
+        "• Shares of CarMax Inc",
+        "• fell about 10% during premarket trading Thursday",
+        "• The used car retailer announced a weak preliminary outlook for its current fiscal quarter",
+        "• CEO Bill Nash unexpectedly stepped down unexpectedly",
+        "• David McCreight, a retail clothing executive, will replace Nash on an interim basis "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Shares of CarMax Inc",
+          "• fell about 10% during premarket trading Thursday"
+        ],
+        "hopeful_bullets": [
+          "• Shares of CarMax Inc",
+          "• fell about 10% during premarket trading Thursday"
+        ],
+        "stakes_bullets": [
+          "• CEO Bill Nash unexpectedly stepped down unexpectedly",
+          "• David McCreight, a retail clothing executive, will replace Nash on an interim basis "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a999c6b411ff"
+    },
+    {
+      "id": "213df6fcbde1",
+      "title": "DraftKings takes over ESPN sports betting partnership from Penn Entertainment",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/06/disneys-espn-penn-entertainment-to-wind-down-espn-bet.html",
+      "published_at": "Thu, 06 Nov 2025 13:39:48 GMT",
+      "bullets": [
+        "• Disney's ESPN is terminating its deal with Penn Entertainment",
+        "• The company says it will sign a deal with DraftKings to be ESPN's official sportsbook provider",
+        "• DraftKings will power ESPN's mobile betting tab",
+        "• Both changes take effect in December",
+        "• ESPN had made clear in the past it would never take bets directly "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Disney's ESPN is terminating its deal with Penn Entertainment",
+          "• The company says it will sign a deal with DraftKings to be ESPN's official sportsbook provider"
+        ],
+        "hopeful_bullets": [
+          "• Disney's ESPN is terminating its deal with Penn Entertainment",
+          "• The company says it will sign a deal with DraftKings to be ESPN's official sportsbook provider"
+        ],
+        "stakes_bullets": [
+          "• The company says it will sign a deal with DraftKings to be ESPN's official sportsbook provider",
+          "• DraftKings will power ESPN's mobile betting tab",
+          "• Both changes take effect in December"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "dccffb75c37e"
+    },
+    {
+      "id": "6247b0e7c18f",
+      "title": "Peloton recalls 833,000 more bikes over seat post issue, two injuries reported",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/06/peloton-recalls-833000-more-bikes-over-seat-post-issue.html",
+      "published_at": "Thu, 06 Nov 2025 13:38:44 GMT",
+      "bullets": [
+        "• Recall affects 833,000 units, touching every original Bike+ the company sold",
+        "• The seat post broke and detached during use, leading to two injuries, the CPSC said",
+        "• The company is offering a free seat post that users can install at home",
+        "• In May 2023, Peloton recalled 2.2 million units, including 13 injuries "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Recall affects 833,000 units, touching every original Bike+ the company sold",
+          "• The seat post broke and detached during use, leading to two injuries, the CPSC said"
+        ],
+        "hopeful_bullets": [
+          "• Recall affects 833,000 units, touching every original Bike+ the company sold",
+          "• The seat post broke and detached during use, leading to two injuries, the CPSC said"
+        ],
+        "stakes_bullets": [
+          "• Recall affects 833,000 units, touching every original Bike+ the company sold",
+          "• The seat post broke and detached during use, leading to two injuries, the CPSC said"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4e16474f38da"
+    },
+    {
+      "id": "41de36665905",
+      "title": "Gremlins 3 In The Works With Original Creators Returning",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/gremlins-3-original-creators-returning/",
+      "published_at": "Thu, 06 Nov 2025 13:35:04 GMT",
+      "bullets": [
+        "• Warner Bros",
+        "• is reviving the Gremlins franchise after decades on the shelf",
+        "• Chris Columbus, who wrote the original 1984 film, is set to produce and direct the new movie",
+        "• Steven Spielberg will return as executive producer through his company Amblin Entertainment",
+        "• The original film introduced audiences to the adorable yet unpredictable Gizmo "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Warner Bros",
+          "• is reviving the Gremlins franchise after decades on the shelf"
+        ],
+        "hopeful_bullets": [
+          "• Warner Bros",
+          "• is reviving the Gremlins franchise after decades on the shelf"
+        ],
+        "stakes_bullets": [
+          "• Steven Spielberg will return as executive producer through his company Amblin Entertainment"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a792c3dfd56c"
+    },
+    {
+      "id": "e2f5f979be95",
+      "title": "Job cuts in October hit highest level for the month in 22 years, Challenger says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/06/job-cuts-in-october-hit-highest-level-for-the-month-in-22-years-challenger-says.html",
+      "published_at": "Thu, 06 Nov 2025 13:34:34 GMT",
+      "bullets": [
+        "• Job cuts for the month totaled 153,074, a 183% surge from September and 175% higher than the same month a year ago",
+        "• This has been the worst year for announced layoffs since 2009",
+        "• The report provides a glimpse into the labor market at a time when the government has suspended data gathering "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.97
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Job cuts for the month totaled 153,074, a 183% surge from September and 175% higher than the same month a year ago",
+          "• This has been the worst year for announced layoffs since 2009"
+        ],
+        "hopeful_bullets": [
+          "• Job cuts for the month totaled 153,074, a 183% surge from September and 175% higher than the same month a year ago"
+        ],
+        "stakes_bullets": [
+          "• Job cuts for the month totaled 153,074, a 183% surge from September and 175% higher than the same month a year ago"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c23ea4cfe8de"
+    },
+    {
+      "id": "b6f8b734ef05",
+      "title": "The Best Cheap Headphones We’ve Tried",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/gallery/best-headphones-under-100/",
+      "published_at": "Thu, 06 Nov 2025 13:30:00 +0000",
+      "bullets": [
+        "• The Best Cheap Headphones for $100 or Less are harder to find than you might think",
+        "• Soundpeats' sound is from a pair of dynamic and solid-state xMEMS drivers that combine to deliver truly astonishing sound",
+        "• Deep bass meets some of the best sound in the middle and treble registers at any price "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Best Cheap Headphones for $100 or Less are harder to find than you might think",
+          "• Soundpeats' sound is from a pair of dynamic and solid-state xMEMS drivers that combine to deliver truly astonishing sound"
+        ],
+        "hopeful_bullets": [
+          "• The Best Cheap Headphones for $100 or Less are harder to find than you might think",
+          "• Soundpeats' sound is from a pair of dynamic and solid-state xMEMS drivers that combine to deliver truly astonishing sound"
+        ],
+        "stakes_bullets": [
+          "• The Best Cheap Headphones for $100 or Less are harder to find than you might think",
+          "• Soundpeats' sound is from a pair of dynamic and solid-state xMEMS drivers that combine to deliver truly astonishing sound",
+          "• Deep bass meets some of the best sound in the middle and treble registers at any price "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "c6b8094af3aa"
+    },
+    {
+      "id": "31cd7ba09105",
+      "title": "Trump promised lower prices, but Republicans lost as voters sought affordability",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/06/republicans-election-losses-affordability-trump",
+      "published_at": "Thu, 06 Nov 2025 13:25:34 GMT",
+      "bullets": [
+        "• JD Vance posted a post-election message on X social media platform",
+        "• He said: “We inherited a disaster from Joe Biden and Rome wasn’t built in a day.” It might be seen as an ever-so-careful rebuke of his boss, Donald Trump "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• JD Vance posted a post-election message on X social media platform",
+          "• He said: “We inherited a disaster from Joe Biden and Rome wasn’t built in a day.” It might be seen as an ever-so-careful rebuke of his boss, Donald Trump "
+        ],
+        "hopeful_bullets": [
+          "• JD Vance posted a post-election message on X social media platform",
+          "• He said: “We inherited a disaster from Joe Biden and Rome wasn’t built in a day.” It might be seen as an ever-so-careful rebuke of his boss, Donald Trump "
+        ],
+        "stakes_bullets": [
+          "• JD Vance posted a post-election message on X social media platform",
+          "• He said: “We inherited a disaster from Joe Biden and Rome wasn’t built in a day.” It might be seen as an ever-so-careful rebuke of his boss, Donald Trump "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "c34df5eda054"
+    },
+    {
+      "id": "31f5f6b4bf84",
+      "title": "Steven Spielberg Producing New ‘Gremlins’ Movie for November 2027 Release!",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3913168/steven-spielberg-producing-new-gremlins-movie-for-november-2027-release/?utm_source=rss&utm_medium=rss&utm_campaign=steven-spielberg-producing-new-gremlins-movie-for-november-2027-release",
+      "published_at": "Thu, 06 Nov 2025 13:21:39 +0000",
+      "bullets": [
+        "• Warner Bros",
+        "• has announced the release date for Gremlins 3",
+        "• Original movie’s writer Chris Columbus will produce and direct",
+        "• Franchise centers on the adorable alien species known as the Mogwai, which comes armed with three very specific rules "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Warner Bros",
+          "• has announced the release date for Gremlins 3"
+        ],
+        "hopeful_bullets": [
+          "• Warner Bros",
+          "• has announced the release date for Gremlins 3"
+        ],
+        "stakes_bullets": [
+          "• Original movie’s writer Chris Columbus will produce and direct"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b3bf8c45083a"
+    },
+    {
+      "id": "1aecd71716e0",
+      "title": "Senate to vote on legislation to stop unauthorized war against Venezuela – US politics live",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/06/donald-trump-government-shutdown-venezuela-senate-vote-us-politics-live-news-updates",
+      "published_at": "Thu, 06 Nov 2025 13:13:21 GMT",
+      "bullets": [
+        "• Democratic National Committee chair says party 'is all gas, no brakes' and ‘this is not your grandfather’s Democratic party’ A federal judge in Chicago issued a temporary restraining order that requires an immigration facility to house illegal immigrants "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Democratic National Committee chair says party 'is all gas, no brakes' and ‘this is not your grandfather’s Democratic party’ A federal judge in Chicago issued a temporary restraining order that requires an immigration facility to house illegal immigrants "
+        ],
+        "hopeful_bullets": [
+          "• Democratic National Committee chair says party 'is all gas, no brakes' and ‘this is not your grandfather’s Democratic party’ A federal judge in Chicago issued a temporary restraining order that requires an immigration facility to house illegal immigrants "
+        ],
+        "stakes_bullets": [
+          "• Democratic National Committee chair says party 'is all gas, no brakes' and ‘this is not your grandfather’s Democratic party’ A federal judge in Chicago issued a temporary restraining order that requires an immigration facility to house illegal immigrants "
+        ]
+      },
+      "read_minutes": 13,
+      "cluster_id": "e07f24eaf89b"
+    },
+    {
+      "id": "b4a99487f9e5",
+      "title": "Misleading UK adverts for ’very low emission’ wood-burning stoves banned",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/nov/06/misleading-uk-adverts-for-very-low-emission-wood-burning-stoves-banned",
+      "published_at": "Thu, 06 Nov 2025 13:02:52 GMT",
+      "bullets": [
+        "• Claims were made on the website of the Stove Industry Association, which represents the makers and sellers of stoves in the UK",
+        "• Campaigners against air pollution said they were glad the ASA had debunked some “seriously misleading myths”"
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Claims were made on the website of the Stove Industry Association, which represents the makers and sellers of stoves in the UK",
+          "• Campaigners against air pollution said they were glad the ASA had debunked some “seriously misleading myths”"
+        ],
+        "hopeful_bullets": [
+          "• Campaigners against air pollution said they were glad the ASA had debunked some “seriously misleading myths”"
+        ],
+        "stakes_bullets": [
+          "• Campaigners against air pollution said they were glad the ASA had debunked some “seriously misleading myths”"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2ebe2f10cb96"
+    },
+    {
       "id": "f5919f672969",
       "title": "Horror Highlights: #HorrorMoviesForTheHolidays Challenge, OBSESSION, THE UPTURNED STONE",
       "outlet": "Daily Dead",
@@ -3984,14 +4376,14 @@
     {
       "id": "144e9e91ef08",
       "title": "Scientists criticize ‘straw man’ arguments in Bill Gates climate memo",
-      "outlet": "Environment | The Guardian",
+      "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/environment/2025/nov/06/bill-gates-climate-memo",
       "published_at": "Thu, 06 Nov 2025 13:00:02 GMT",
       "bullets": [
         "• A new memo on climate crisis from Bill Gates relies on “straw man’s arguments about the threat to humanity and “false dichotomies” between spending on climate or aid for the poor, some climate scientists say",
         "• Donald Trump hails the memo as a much-needed backpedaling on climate efforts "
       ],
-      "category": "Environment",
+      "category": "US",
       "sentiment": {
         "label": "negative",
         "score": 0.974
@@ -4013,72 +4405,36 @@
       "cluster_id": "97a5ce578cd5"
     },
     {
-      "id": "e42bdde86c71",
-      "title": "CarMax stock falls more than 10% as CEO steps down",
+      "id": "e912eeb7d095",
+      "title": "Google's rolling out its most powerful AI chip, taking aim at Nvidia with custom silicon",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/06/carmax-stock-kmx-ceo.html",
-      "published_at": "Thu, 06 Nov 2025 12:59:20 GMT",
+      "url": "https://www.cnbc.com/2025/11/06/google-unveils-ironwood-seventh-generation-tpu-competing-with-nvidia.html",
+      "published_at": "Thu, 06 Nov 2025 13:00:01 GMT",
       "bullets": [
-        "• Shares of CarMax Inc",
-        "• fell more than 10% during premarket trading Thursday",
-        "• The used car retailer announced the unexpected departure of CEO Bill Nash",
-        "• David McCreight, CEO of Lulu's Fashion Lounge Holdings, will serve as interim CEO",
-        "• CarMax has struggled this year, with its stock price down roughly 50% in 2025 "
+        "• Google is making its most powerful AI chip widely available",
+        "• The seventh generation of its Tensor Processing Unit, called Ironwood, will hit the market for public use in the coming weeks",
+        "• The chip, built in-house, is designed to handle everything from training of large models to powering chatbots "
       ],
       "category": "Business",
       "sentiment": {
-        "label": "negative",
-        "score": 1.0
+        "label": "positive",
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• Shares of CarMax Inc",
-          "• fell more than 10% during premarket trading Thursday"
+          "• Google is making its most powerful AI chip widely available",
+          "• The seventh generation of its Tensor Processing Unit, called Ironwood, will hit the market for public use in the coming weeks"
         ],
         "hopeful_bullets": [
-          "• Shares of CarMax Inc",
-          "• fell more than 10% during premarket trading Thursday"
+          "• Google is making its most powerful AI chip widely available",
+          "• The seventh generation of its Tensor Processing Unit, called Ironwood, will hit the market for public use in the coming weeks"
         ],
         "stakes_bullets": [
-          "• The used car retailer announced the unexpected departure of CEO Bill Nash",
-          "• David McCreight, CEO of Lulu's Fashion Lounge Holdings, will serve as interim CEO"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a999c6b411ff"
-    },
-    {
-      "id": "6247b0e7c18f",
-      "title": "Peloton recalls 833,000 more bikes over seat post issue, two injuries reported",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/06/peloton-recalls-833000-more-bikes-over-seat-post-issue.html",
-      "published_at": "Thu, 06 Nov 2025 12:57:53 GMT",
-      "bullets": [
-        "• Recall affects 833,000 units, touching every original Bike+ Peloton has ever sold",
-        "• The seat post broke and detached from the bike during use, leading to two injuries, the CPSC said",
-        "• The company is offering a free seat post that users can install at home "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Recall affects 833,000 units, touching every original Bike+ Peloton has ever sold",
-          "• The seat post broke and detached from the bike during use, leading to two injuries, the CPSC said"
-        ],
-        "hopeful_bullets": [
-          "• Recall affects 833,000 units, touching every original Bike+ Peloton has ever sold",
-          "• The seat post broke and detached from the bike during use, leading to two injuries, the CPSC said"
-        ],
-        "stakes_bullets": [
-          "• Recall affects 833,000 units, touching every original Bike+ Peloton has ever sold",
-          "• The seat post broke and detached from the bike during use, leading to two injuries, the CPSC said"
+          "• The seventh generation of its Tensor Processing Unit, called Ironwood, will hit the market for public use in the coming weeks"
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "4e16474f38da"
+      "cluster_id": "0f5dabace98c"
     },
     {
       "id": "294d25bd6f5d",
@@ -4181,37 +4537,6 @@
       "cluster_id": "32bc8a99820f"
     },
     {
-      "id": "97a9acd9cf27",
-      "title": "Family offices make fewer deals but still flock to AI startup mega-rounds",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/06/family-offices-deals-october-ai.html",
-      "published_at": "Thu, 06 Nov 2025 12:30:01 GMT",
-      "bullets": [
-        "• In October, family offices made 51 direct investments, down 63% on an annual basis",
-        "• Family offices are still backing massive fundraises for artificial intelligence companies",
-        "• Tyler and Cameron Winklevoss' namesake investment firm joined a $1.4 billion Series E round for Crusoe "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.704
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In October, family offices made 51 direct investments, down 63% on an annual basis",
-          "• Family offices are still backing massive fundraises for artificial intelligence companies"
-        ],
-        "hopeful_bullets": [
-          "• Tyler and Cameron Winklevoss' namesake investment firm joined a $1.4 billion Series E round for Crusoe "
-        ],
-        "stakes_bullets": [
-          "• Tyler and Cameron Winklevoss' namesake investment firm joined a $1.4 billion Series E round for Crusoe "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "887242c7aa0f"
-    },
-    {
       "id": "3f40a7728ca2",
       "title": "LG Studio Smart 3-Door French Door Refrigerator Review: Cool Customer",
       "outlet": "WIRED",
@@ -4244,65 +4569,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "507f2829b60c"
-    },
-    {
-      "id": "e2f5f979be95",
-      "title": "Job cuts in October hit highest level for the month in 22 years, Challenger says",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/06/job-cuts-in-october-hit-highest-level-for-the-month-in-22-years-challenger-says.html",
-      "published_at": "Thu, 06 Nov 2025 12:29:29 GMT",
-      "bullets": [
-        "• Job cuts for the month totaled 153,074, a 183% surge from September and 175% higher than the same month a year ago",
-        "• This has been the worst year for announced layoffs since 2009",
-        "• The report provides a glimpse into the labor market at a time when the government has suspended data gathering "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.97
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Job cuts for the month totaled 153,074, a 183% surge from September and 175% higher than the same month a year ago",
-          "• This has been the worst year for announced layoffs since 2009"
-        ],
-        "hopeful_bullets": [
-          "• Job cuts for the month totaled 153,074, a 183% surge from September and 175% higher than the same month a year ago"
-        ],
-        "stakes_bullets": [
-          "• Job cuts for the month totaled 153,074, a 183% surge from September and 175% higher than the same month a year ago"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c23ea4cfe8de"
-    },
-    {
-      "id": "1aecd71716e0",
-      "title": "Senate to vote on legislation to stop unauthorized war against Venezuela – US politics live",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/nov/06/donald-trump-government-shutdown-venezuela-senate-vote-us-politics-live-news-updates",
-      "published_at": "Thu, 06 Nov 2025 12:21:46 GMT",
-      "bullets": [
-        "• Democratic National Committee chair says party 'is all gas, no brakes' and ‘this is not your grandfather’s Democratic party’ A federal judge in Chicago issued a temporary restraining order that requires an immigration facility to house illegal immigrants "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Democratic National Committee chair says party 'is all gas, no brakes' and ‘this is not your grandfather’s Democratic party’ A federal judge in Chicago issued a temporary restraining order that requires an immigration facility to house illegal immigrants "
-        ],
-        "hopeful_bullets": [
-          "• Democratic National Committee chair says party 'is all gas, no brakes' and ‘this is not your grandfather’s Democratic party’ A federal judge in Chicago issued a temporary restraining order that requires an immigration facility to house illegal immigrants "
-        ],
-        "stakes_bullets": [
-          "• Democratic National Committee chair says party 'is all gas, no brakes' and ‘this is not your grandfather’s Democratic party’ A federal judge in Chicago issued a temporary restraining order that requires an immigration facility to house illegal immigrants "
-        ]
-      },
-      "read_minutes": 13,
-      "cluster_id": "e07f24eaf89b"
     },
     {
       "id": "53a327534367",
@@ -5189,36 +5455,36 @@
     },
     {
       "id": "03c15691b17a",
-      "title": "US to cut flights at 40 airports if shutdown doesn't end, transportation secretary warns",
+      "title": "US transportation secretary will cut flights from Friday due to shutdown",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c2kp8dex14xo?at_medium=RSS&at_campaign=rss",
       "published_at": "Thu, 06 Nov 2025 09:43:53 GMT",
       "bullets": [
-        "• US to cut flights at 40 airports if shutdown doesn't end, US Transportation Secretary warns",
-        "• Some 1.4 million federal workers, from air traffic controllers to park wardens, are working without pay",
-        "• The decision is expected to affect domestic flights only "
+        "• US transportation secretary will cut flights from Friday due to shutdown",
+        "• Air travel capacity will be cut by up to 10% at 40 major airports over coming days",
+        "• Some 1.4 million federal workers, from air traffic controllers to park wardens, are working without pay or on forced leave "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• US to cut flights at 40 airports if shutdown doesn't end, US Transportation Secretary warns",
-          "• Some 1.4 million federal workers, from air traffic controllers to park wardens, are working without pay"
+          "• US transportation secretary will cut flights from Friday due to shutdown",
+          "• Air travel capacity will be cut by up to 10% at 40 major airports over coming days"
         ],
         "hopeful_bullets": [
-          "• US to cut flights at 40 airports if shutdown doesn't end, US Transportation Secretary warns",
-          "• Some 1.4 million federal workers, from air traffic controllers to park wardens, are working without pay"
+          "• US transportation secretary will cut flights from Friday due to shutdown",
+          "• Air travel capacity will be cut by up to 10% at 40 major airports over coming days"
         ],
         "stakes_bullets": [
-          "• US to cut flights at 40 airports if shutdown doesn't end, US Transportation Secretary warns",
-          "• The decision is expected to affect domestic flights only "
+          "• US transportation secretary will cut flights from Friday due to shutdown",
+          "• Air travel capacity will be cut by up to 10% at 40 major airports over coming days"
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "7244dc0c74a2"
+      "cluster_id": "d7e247699e81"
     },
     {
       "id": "53f4ea73ac8f",
@@ -5251,68 +5517,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "195a2df6f4cb"
-    },
-    {
-      "id": "96327ef2090e",
-      "title": "Nvidia's Jensen Huang softens his ‘China will win the AI race’ remark to FT",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/06/jensen-huang-says-china-will-win-the-ai-race-before-clarifying-in-a-statement-nvidia-trump-xi.html",
-      "published_at": "Thu, 06 Nov 2025 09:04:56 GMT",
-      "bullets": [
-        "• Nvidia CEO Jensen Huang reportedly told the Financial Times that China will beat the U.S",
-        "• in artificial intelligence thanks to lower energy costs and looser regulations",
-        "• Huang has long stated that the US can stay ahead in the AI race if it keeps developers reliant on Nvidia's leading AI chips "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nvidia CEO Jensen Huang reportedly told the Financial Times that China will beat the U.S",
-          "• in artificial intelligence thanks to lower energy costs and looser regulations"
-        ],
-        "hopeful_bullets": [
-          "• Nvidia CEO Jensen Huang reportedly told the Financial Times that China will beat the U.S",
-          "• in artificial intelligence thanks to lower energy costs and looser regulations"
-        ],
-        "stakes_bullets": [
-          "• Nvidia CEO Jensen Huang reportedly told the Financial Times that China will beat the U.S",
-          "• in artificial intelligence thanks to lower energy costs and looser regulations",
-          "• Huang has long stated that the US can stay ahead in the AI race if it keeps developers reliant on Nvidia's leading AI chips "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "b1adb4501951"
-    },
-    {
-      "id": "94a299afda7c",
-      "title": "Trump’s supreme court strategy is to redefine ‘tariffs’. Will the justices buy it?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/06/trump-tariffs-supreme-court",
-      "published_at": "Thu, 06 Nov 2025 09:00:49 GMT",
-      "bullets": [
-        "• US solicitor general: 'These are regulatory tariffs, not revenue-raising tariffs' Solicitor general: \"The fact that they raise revenue is only incidental\" Lower courts ruled in August that the IEEPA did not grant “the power to tax” to the president "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US solicitor general: 'These are regulatory tariffs, not revenue-raising tariffs' Solicitor general: \"The fact that they raise revenue is only incidental\" Lower courts ruled in August that the IEEPA did not grant “the power to tax” to the president "
-        ],
-        "hopeful_bullets": [
-          "• US solicitor general: 'These are regulatory tariffs, not revenue-raising tariffs' Solicitor general: \"The fact that they raise revenue is only incidental\" Lower courts ruled in August that the IEEPA did not grant “the power to tax” to the president "
-        ],
-        "stakes_bullets": [
-          "• US solicitor general: 'These are regulatory tariffs, not revenue-raising tariffs' Solicitor general: \"The fact that they raise revenue is only incidental\" Lower courts ruled in August that the IEEPA did not grant “the power to tax” to the president "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "9e31f2020e10"
     },
     {
       "id": "926f00c9b876",
@@ -5479,72 +5683,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "45a69d77e44c"
-    },
-    {
-      "id": "72f5e442b1de",
-      "title": "Pollution from Ineos’s Antwerp plastic plant ‘could cause more deaths than jobs created’",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/business/2025/nov/06/pollution-ineos-antwerp-plastic-plant-deaths-jobs-created",
-      "published_at": "Thu, 06 Nov 2025 07:00:47 GMT",
-      "bullets": [
-        "• The plant, called Project One, is designed to turbocharge European plastic production",
-        "• The plant would transform ethane from fracked US shale gas into ethylene – the raw material used to make plastic – in a process called ‘cracking’ Lawyers say the plant would cause 410 deaths compared to the 300 jobs it will create "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The plant, called Project One, is designed to turbocharge European plastic production",
-          "• The plant would transform ethane from fracked US shale gas into ethylene – the raw material used to make plastic – in a process called ‘cracking’ Lawyers say the plant would cause 410 deaths compared to the 300 jobs it will create "
-        ],
-        "hopeful_bullets": [
-          "• The plant, called Project One, is designed to turbocharge European plastic production",
-          "• The plant would transform ethane from fracked US shale gas into ethylene – the raw material used to make plastic – in a process called ‘cracking’ Lawyers say the plant would cause 410 deaths compared to the 300 jobs it will create "
-        ],
-        "stakes_bullets": [
-          "• The plant, called Project One, is designed to turbocharge European plastic production",
-          "• The plant would transform ethane from fracked US shale gas into ethylene – the raw material used to make plastic – in a process called ‘cracking’ Lawyers say the plant would cause 410 deaths compared to the 300 jobs it will create "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "710cf1066424"
-    },
-    {
-      "id": "574146663a13",
-      "title": "20% Off Brooks Promo Code & Deals for November 2025",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/brooks-promo-code/",
-      "published_at": "Thu, 06 Nov 2025 06:30:00 +0000",
-      "bullets": [
-        "• WIRED writers and editors wear Brooks running shoes as their everyday trainers",
-        "• New customers get 20% off their first order after subscribing to emails",
-        "• You can apply the one-time Brooks coupon code for top-selling shoes, like the Caldera 7 and Adrenaline shoes "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• WIRED writers and editors wear Brooks running shoes as their everyday trainers",
-          "• New customers get 20% off their first order after subscribing to emails"
-        ],
-        "hopeful_bullets": [
-          "• WIRED writers and editors wear Brooks running shoes as their everyday trainers",
-          "• New customers get 20% off their first order after subscribing to emails"
-        ],
-        "stakes_bullets": [
-          "• WIRED writers and editors wear Brooks running shoes as their everyday trainers",
-          "• New customers get 20% off their first order after subscribing to emails",
-          "• You can apply the one-time Brooks coupon code for top-selling shoes, like the Caldera 7 and Adrenaline shoes "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "861ff9cd7352"
     },
     {
       "id": "f227a8d8d39f",
@@ -6178,70 +6316,37 @@
       "cluster_id": "3a86086ef2bf"
     },
     {
-      "id": "7283e2d946a2",
-      "title": "25 Best BL Anime For New Fans",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-bl-anime-recommendation-yaoi/",
-      "published_at": "Thu, 06 Nov 2025 03:30:11 GMT",
+      "id": "1178a839fdce",
+      "title": "TVC15: Luke Skywalker (Bespin Fatigues) (VC04)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-05-tvc15-luke-skywalker-bespin-fatigues-vc04/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-luke-skywalker-bespin-fatigues-vc04",
+      "published_at": "Thu, 06 Nov 2025 03:17:38 +0000",
       "bullets": [
-        "• Boys' Love — also known as \"BL\" or \"Yaoi\" — is a unique genre of anime that focuses on romantic relationships between two male characters",
-        "• With the normalization of LGBTQ+ representation in anime, the genre has become more popular than ever "
+        "• The Vintage Collection is celebrating the 15th Anniversary of the line",
+        "• Figures came with enhanced articulation and premium soft goods and accessories",
+        "• By today’s standards, this figure is somewhat outdated",
+        "• However, many overlook its imperfections because of the memories associated with it "
       ],
-      "category": "Comics",
+      "category": "Star Wars",
       "sentiment": {
-        "label": "positive",
-        "score": 1.0
+        "label": "negative",
+        "score": 0.98
       },
       "moods": {
         "brief_bullets": [
-          "• Boys' Love — also known as \"BL\" or \"Yaoi\" — is a unique genre of anime that focuses on romantic relationships between two male characters",
-          "• With the normalization of LGBTQ+ representation in anime, the genre has become more popular than ever "
+          "• The Vintage Collection is celebrating the 15th Anniversary of the line",
+          "• Figures came with enhanced articulation and premium soft goods and accessories"
         ],
         "hopeful_bullets": [
-          "• Boys' Love — also known as \"BL\" or \"Yaoi\" — is a unique genre of anime that focuses on romantic relationships between two male characters",
-          "• With the normalization of LGBTQ+ representation in anime, the genre has become more popular than ever "
+          "• The Vintage Collection is celebrating the 15th Anniversary of the line",
+          "• Figures came with enhanced articulation and premium soft goods and accessories"
         ],
         "stakes_bullets": [
-          "• Boys' Love — also known as \"BL\" or \"Yaoi\" — is a unique genre of anime that focuses on romantic relationships between two male characters",
-          "• With the normalization of LGBTQ+ representation in anime, the genre has become more popular than ever "
+          "• However, many overlook its imperfections because of the memories associated with it "
         ]
       },
-      "read_minutes": 8,
-      "cluster_id": "222ee7e57414"
-    },
-    {
-      "id": "92bde3cfbc63",
-      "title": "17 Years Before John Wick, John Cusack Quietly Made the Best Hitman Movie of All Time",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/john-cusack-grosse-pointe-blank-better-than-john-wick/",
-      "published_at": "Thu, 06 Nov 2025 03:20:11 GMT",
-      "bullets": [
-        "• John Cusack starred in one of the best films of his career in the '80s and '90s",
-        "• Grosse Point Blank is one of his best films, starring as a contract killer",
-        "• The film is about a man who goes on to become a serial killer "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• John Cusack starred in one of the best films of his career in the '80s and '90s",
-          "• Grosse Point Blank is one of his best films, starring as a contract killer"
-        ],
-        "hopeful_bullets": [
-          "• John Cusack starred in one of the best films of his career in the '80s and '90s",
-          "• Grosse Point Blank is one of his best films, starring as a contract killer"
-        ],
-        "stakes_bullets": [
-          "• John Cusack starred in one of the best films of his career in the '80s and '90s",
-          "• Grosse Point Blank is one of his best films, starring as a contract killer",
-          "• The film is about a man who goes on to become a serial killer "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "95ab066dd36f"
+      "read_minutes": 1,
+      "cluster_id": "56d8b404193a"
     },
     {
       "id": "a0e2919d35e6",
@@ -6305,41 +6410,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "40ed8044d1ca"
-    },
-    {
-      "id": "1e66cb7fbda8",
-      "title": "Armed US immigration agents drive off with toddler after arrest of father",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/05/los-angeles-immigration-agents-toddler",
-      "published_at": "Thu, 06 Nov 2025 01:53:51 GMT",
-      "bullets": [
-        "• Masked, heavily armed immigration agents arrested a US citizen in the parking lot of a Los Angeles Home Depot",
-        "• They then drove away with his one-year-old daughter in the backseat",
-        "• The child's grandmother said the incident had left the whole family shaken",
-        "• Five undocumented immigrants were also arrested "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Masked, heavily armed immigration agents arrested a US citizen in the parking lot of a Los Angeles Home Depot",
-          "• They then drove away with his one-year-old daughter in the backseat"
-        ],
-        "hopeful_bullets": [
-          "• Masked, heavily armed immigration agents arrested a US citizen in the parking lot of a Los Angeles Home Depot",
-          "• They then drove away with his one-year-old daughter in the backseat"
-        ],
-        "stakes_bullets": [
-          "• Masked, heavily armed immigration agents arrested a US citizen in the parking lot of a Los Angeles Home Depot",
-          "• They then drove away with his one-year-old daughter in the backseat",
-          "• The child's grandmother said the incident had left the whole family shaken"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "8cba726307a7"
     },
     {
       "id": "913435abcd66",
@@ -6706,6 +6776,40 @@
       },
       "read_minutes": 6,
       "cluster_id": "f1c0641db8a4"
+    },
+    {
+      "id": "1d706afe9df3",
+      "title": "TVC15: Naboo Pilot (VC72)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-01-tvc15-naboo-pilot-vc72/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-naboo-pilot-vc72",
+      "published_at": "Sun, 02 Nov 2025 01:02:35 +0000",
+      "bullets": [
+        "• Naboo Pilot from the final wave of the first run of The Vintage Collection is a case-and-point example of this",
+        "• With luxurious soft goods and a dynamic sculpt, the tooling was used for two action figures in the Hasbro Star Wars lineup",
+        "• Still, it may go unnoticed as one of Hasbro's finest products "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Naboo Pilot from the final wave of the first run of The Vintage Collection is a case-and-point example of this",
+          "• With luxurious soft goods and a dynamic sculpt, the tooling was used for two action figures in the Hasbro Star Wars lineup"
+        ],
+        "hopeful_bullets": [
+          "• Naboo Pilot from the final wave of the first run of The Vintage Collection is a case-and-point example of this",
+          "• With luxurious soft goods and a dynamic sculpt, the tooling was used for two action figures in the Hasbro Star Wars lineup"
+        ],
+        "stakes_bullets": [
+          "• Naboo Pilot from the final wave of the first run of The Vintage Collection is a case-and-point example of this",
+          "• With luxurious soft goods and a dynamic sculpt, the tooling was used for two action figures in the Hasbro Star Wars lineup",
+          "• Still, it may go unnoticed as one of Hasbro's finest products "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7ba217c3a2bf"
     },
     {
       "id": "61b5471e19bc",
@@ -7428,6 +7532,75 @@
       "cluster_id": "b364aec42212"
     },
     {
+      "id": "fe28caabb616",
+      "title": "TVC15: Luke Skywalker (Endor Capture) (VC23)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-02-tvc15-luke-skywalker-endor-capture-vc23/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-luke-skywalker-endor-capture-vc23",
+      "published_at": "Mon, 03 Nov 2025 00:31:35 +0000",
+      "bullets": [
+        "• We're celebrating the 15th Anniversary of The Vintage Collection",
+        "• Character: Luke Skywalker (Endor Capture)",
+        "• Number: VC23",
+        "• Wave: 3.75-inch Super-Articulated Battle Of Endor Death Star Duel Death Star II "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• We're celebrating the 15th Anniversary of The Vintage Collection",
+          "• Character: Luke Skywalker (Endor Capture)"
+        ],
+        "hopeful_bullets": [
+          "• We're celebrating the 15th Anniversary of The Vintage Collection",
+          "• Character: Luke Skywalker (Endor Capture)"
+        ],
+        "stakes_bullets": [
+          "• We're celebrating the 15th Anniversary of The Vintage Collection",
+          "• Character: Luke Skywalker (Endor Capture)",
+          "• Number: VC23"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "4cf687dfc09b"
+    },
+    {
+      "id": "620674352652",
+      "title": "TVC15: Darth Sidious (VC12)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-31-tvc15-darth-sidious-vc12/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-darth-sidious-vc12",
+      "published_at": "Fri, 31 Oct 2025 21:01:54 +0000",
+      "bullets": [
+        "• Hasbro designed a version of the character after his disfigurement and throwing Force lightning around",
+        "• The figure is scene-specific, but looks fantastic in the proper display",
+        "• We hope Hasbro produces the remaining MIA Palpatine versions that have not yet been released in a super-articulated format "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro designed a version of the character after his disfigurement and throwing Force lightning around",
+          "• The figure is scene-specific, but looks fantastic in the proper display"
+        ],
+        "hopeful_bullets": [
+          "• Hasbro designed a version of the character after his disfigurement and throwing Force lightning around",
+          "• We hope Hasbro produces the remaining MIA Palpatine versions that have not yet been released in a super-articulated format "
+        ],
+        "stakes_bullets": [
+          "• Hasbro designed a version of the character after his disfigurement and throwing Force lightning around",
+          "• The figure is scene-specific, but looks fantastic in the proper display",
+          "• We hope Hasbro produces the remaining MIA Palpatine versions that have not yet been released in a super-articulated format "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f30e66374116"
+    },
+    {
       "id": "e5b87756ad89",
       "title": "Interview: David Dastmalchian Discusses New Graphic Novel THROUGH, Upcoming Comic Book Series THE ACCESSORIES, and the Halloween Special He Watches Every Year",
       "outlet": "Daily Dead",
@@ -7555,7 +7728,7 @@
     },
     {
       "id": "cad4752103c8",
-      "title": "What went right this week: the good news that matters",
+      "title": "What went right this week: a ‘victory of a lifetime for renters’, plus more",
       "outlet": "Positive News",
       "url": "https://www.positive.news/society/good-news-stories-from-week-44-of-2025/",
       "published_at": "Fri, 31 Oct 2025 05:22:05 +0000",
@@ -7582,7 +7755,40 @@
         ]
       },
       "read_minutes": 7,
-      "cluster_id": "94a1fafc87d9"
+      "cluster_id": "689986c1b743"
+    },
+    {
+      "id": "e02aa8e9e5a6",
+      "title": "TVC15: Darth Malgus (VC96)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-10-30-tvc15-darth-malgus-vc96/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-darth-malgus-vc96",
+      "published_at": "Fri, 31 Oct 2025 02:00:20 +0000",
+      "bullets": [
+        "• Darth Malgus is a character with a huge following thanks to The Old Republic video game",
+        "• The figure has a dynamic sculpt and a gorgeous paint job",
+        "• Most collectors wish Hasbro had upped the articulation and tightened up the figure’s lower body articulation "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Darth Malgus is a character with a huge following thanks to The Old Republic video game",
+          "• The figure has a dynamic sculpt and a gorgeous paint job"
+        ],
+        "hopeful_bullets": [
+          "• Darth Malgus is a character with a huge following thanks to The Old Republic video game"
+        ],
+        "stakes_bullets": [
+          "• Darth Malgus is a character with a huge following thanks to The Old Republic video game",
+          "• The figure has a dynamic sculpt and a gorgeous paint job",
+          "• Most collectors wish Hasbro had upped the articulation and tightened up the figure’s lower body articulation "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "9a90eb182f25"
     },
     {
       "id": "4f0e94bed4e3",
@@ -7853,6 +8059,72 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "7a5a93c6854a",
+      "title": "Thousands of flights in danger of cancellation as FAA announces major cuts",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/815359/faa-flight-cuts-airport-government-shutdown",
+      "published_at": "2025-11-06T08:41:19-05:00",
+      "bullets": [
+        "• The agency announced 10 percent cuts across 40 airports in response to the government shutdown",
+        "• The cuts will affect “high volume” markets, including Atlanta, Dallas, New York City and Los Angeles",
+        "• The agency has not formally announced which airports will have their capacity cut "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The agency announced 10 percent cuts across 40 airports in response to the government shutdown",
+          "• The cuts will affect “high volume” markets, including Atlanta, Dallas, New York City and Los Angeles"
+        ],
+        "hopeful_bullets": [
+          "• The agency announced 10 percent cuts across 40 airports in response to the government shutdown",
+          "• The cuts will affect “high volume” markets, including Atlanta, Dallas, New York City and Los Angeles"
+        ],
+        "stakes_bullets": [
+          "• The agency announced 10 percent cuts across 40 airports in response to the government shutdown",
+          "• The cuts will affect “high volume” markets, including Atlanta, Dallas, New York City and Los Angeles",
+          "• The agency has not formally announced which airports will have their capacity cut "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "9270eb560363"
+    },
+    {
+      "id": "cc3a01f6e4f2",
+      "title": "Foursquare&#8217;s founder launches a new app that talks to you about your neighborhood",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates",
+      "published_at": "2025-11-06T08:15:35-05:00",
+      "bullets": [
+        "• BeeBot is a ‘social audio guide’ that feeds updates about people, places, and nearby events through your headphones",
+        "• It’s always on, activates automatically when you put your headphones in, and turns off when you take them out "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.918
+      },
+      "moods": {
+        "brief_bullets": [
+          "• BeeBot is a ‘social audio guide’ that feeds updates about people, places, and nearby events through your headphones",
+          "• It’s always on, activates automatically when you put your headphones in, and turns off when you take them out "
+        ],
+        "hopeful_bullets": [
+          "• BeeBot is a ‘social audio guide’ that feeds updates about people, places, and nearby events through your headphones",
+          "• It’s always on, activates automatically when you put your headphones in, and turns off when you take them out "
+        ],
+        "stakes_bullets": [
+          "• BeeBot is a ‘social audio guide’ that feeds updates about people, places, and nearby events through your headphones",
+          "• It’s always on, activates automatically when you put your headphones in, and turns off when you take them out "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7cbf93ea8291"
+    },
+    {
       "id": "1b5402299d3f",
       "title": "Huawei Mate 70 Air is a little thick for a thin phone",
       "outlet": "The Verge",
@@ -8111,72 +8383,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "e7c6081eabdc"
-    },
-    {
-      "id": "21442d159222",
-      "title": "Election night at Kalshi HQ",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/column/815208/election-night-at-kalshi-hq",
-      "published_at": "2025-11-05T21:00:00-05:00",
-      "bullets": [
-        "• Kalshi is a fast-growing prediction market that is calling races faster than the media",
-        "• Founder Tarek Mansour says the company is doing a billion dollars in transaction volume a week",
-        "• The New York mayor’s race had long been priced as a landslide "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.684
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Kalshi is a fast-growing prediction market that is calling races faster than the media",
-          "• Founder Tarek Mansour says the company is doing a billion dollars in transaction volume a week"
-        ],
-        "hopeful_bullets": [
-          "• Kalshi is a fast-growing prediction market that is calling races faster than the media"
-        ],
-        "stakes_bullets": [
-          "• Founder Tarek Mansour says the company is doing a billion dollars in transaction volume a week"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "12f5983efb36"
-    },
-    {
-      "id": "681d39e16bdd",
-      "title": "Films from YouTube and Google Play are no longer available on Movies Anywhere",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/815082/movies-anywhere-ends-google-play-youtube-support",
-      "published_at": "2025-11-05T18:57:29-05:00",
-      "bullets": [
-        "• As of October 31st, movies from YouTube and Google Play are no longer available on Movies Anywhere",
-        "• The cross-platform streaming app doesn’t support Google purchases anymore",
-        "• There are no further details about the break-up",
-        "• Google did not respond to a request for comment "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• As of October 31st, movies from YouTube and Google Play are no longer available on Movies Anywhere",
-          "• The cross-platform streaming app doesn’t support Google purchases anymore"
-        ],
-        "hopeful_bullets": [
-          "• As of October 31st, movies from YouTube and Google Play are no longer available on Movies Anywhere",
-          "• The cross-platform streaming app doesn’t support Google purchases anymore"
-        ],
-        "stakes_bullets": [
-          "• As of October 31st, movies from YouTube and Google Play are no longer available on Movies Anywhere",
-          "• The cross-platform streaming app doesn’t support Google purchases anymore",
-          "• There are no further details about the break-up"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "6639907474fc"
     },
     {
       "id": "c41ff758b36a",
@@ -8808,15 +9014,15 @@
       ]
     },
     {
-      "id": "7244dc0c74a2",
-      "topic": "airport cut doesn end",
+      "id": "d7e247699e81",
+      "topic": "cut due flight friday",
       "keywords": [
-        "airport",
         "cut",
-        "doesn",
-        "end",
+        "due",
         "flight",
-        "shutdown"
+        "friday",
+        "secretary",
+        "transportation"
       ],
       "item_ids": [
         "03c15691b17a"
@@ -9006,6 +9212,24 @@
       ]
     },
     {
+      "id": "c34df5eda054",
+      "topic": "lost lower price promised",
+      "keywords": [
+        "lost",
+        "lower",
+        "price",
+        "promised",
+        "republican",
+        "trump"
+      ],
+      "item_ids": [
+        "31cd7ba09105"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "b22834bfd342",
       "topic": "abortion election future mean",
       "keywords": [
@@ -9078,36 +9302,18 @@
       ]
     },
     {
-      "id": "9e31f2020e10",
-      "topic": "court redefine strategy supreme",
+      "id": "97a5ce578cd5",
+      "topic": "argument bill criticize man",
       "keywords": [
-        "court",
-        "redefine",
-        "strategy",
-        "supreme",
-        "tariff",
-        "trump"
+        "argument",
+        "bill",
+        "criticize",
+        "man",
+        "scientist",
+        "straw"
       ],
       "item_ids": [
-        "94a299afda7c"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "8cba726307a7",
-      "topic": "agent armed drive immigration",
-      "keywords": [
-        "agent",
-        "armed",
-        "drive",
-        "immigration",
-        "off",
-        "toddler"
-      ],
-      "item_ids": [
-        "1e66cb7fbda8"
+        "144e9e91ef08"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9347,6 +9553,42 @@
       ]
     },
     {
+      "id": "bf4d859cbc3d",
+      "topic": "airport cut due faa",
+      "keywords": [
+        "airport",
+        "cut",
+        "due",
+        "faa",
+        "flight",
+        "major"
+      ],
+      "item_ids": [
+        "b336b9608cce"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "0f5dabace98c",
+      "topic": "chip google most out",
+      "keywords": [
+        "chip",
+        "google",
+        "most",
+        "out",
+        "powerful",
+        "rolling"
+      ],
+      "item_ids": [
+        "e912eeb7d095"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "e67e492100d6",
       "topic": "elon expected musk prevail",
       "keywords": [
@@ -9365,72 +9607,18 @@
       ]
     },
     {
-      "id": "e8d0cc1305d1",
-      "topic": "eli late lilly stage",
+      "id": "dccffb75c37e",
+      "topic": "betting draftking espn partnership",
       "keywords": [
-        "eli",
-        "late",
-        "lilly",
-        "stage",
-        "start",
-        "trial"
+        "betting",
+        "draftking",
+        "espn",
+        "partnership",
+        "sport",
+        "take"
       ],
       "item_ids": [
-        "ab9dcb868204"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "b1adb4501951",
-      "topic": "china huang jensen nvidia",
-      "keywords": [
-        "china",
-        "huang",
-        "jensen",
-        "nvidia",
-        "soften",
-        "win"
-      ],
-      "item_ids": [
-        "96327ef2090e"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "887242c7aa0f",
-      "topic": "deal family fewer make",
-      "keywords": [
-        "deal",
-        "family",
-        "fewer",
-        "make",
-        "office",
-        "still"
-      ],
-      "item_ids": [
-        "97a9acd9cf27"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "fd29fdebc02b",
-      "topic": "investment lead nuclear power",
-      "keywords": [
-        "investment",
-        "lead",
-        "nuclear",
-        "power",
-        "trump",
-        "westinghouse"
-      ],
-      "item_ids": [
-        "9f6f2898c165"
+        "213df6fcbde1"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9470,6 +9658,40 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "e8d0cc1305d1",
+      "topic": "eli late lilly stage",
+      "keywords": [
+        "eli",
+        "late",
+        "lilly",
+        "stage",
+        "start",
+        "trial"
+      ],
+      "item_ids": [
+        "ab9dcb868204"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "c6b8094af3aa",
+      "topic": "best cheap headphone tried",
+      "keywords": [
+        "best",
+        "cheap",
+        "headphone",
+        "tried"
+      ],
+      "item_ids": [
+        "b6f8b734ef05"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -9633,21 +9855,39 @@
       ]
     },
     {
-      "id": "861ff9cd7352",
-      "topic": "brook code deal november",
+      "id": "9270eb560363",
+      "topic": "announce cancellation danger faa",
       "keywords": [
-        "brook",
-        "code",
-        "deal",
-        "november",
-        "off",
-        "promo"
+        "announce",
+        "cancellation",
+        "danger",
+        "faa",
+        "flight",
+        "thousand"
       ],
       "item_ids": [
-        "574146663a13"
+        "7a5a93c6854a"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
+      ]
+    },
+    {
+      "id": "7cbf93ea8291",
+      "topic": "8217 app founder foursquare",
+      "keywords": [
+        "8217",
+        "app",
+        "founder",
+        "foursquare",
+        "launche",
+        "talk"
+      ],
+      "item_ids": [
+        "cc3a01f6e4f2"
+      ],
+      "outlets": [
+        "The Verge"
       ]
     },
     {
@@ -9789,39 +10029,6 @@
       ],
       "item_ids": [
         "d75275d50183"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "12f5983efb36",
-      "topic": "election kalshi night",
-      "keywords": [
-        "election",
-        "kalshi",
-        "night"
-      ],
-      "item_ids": [
-        "21442d159222"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "6639907474fc",
-      "topic": "available film google longer",
-      "keywords": [
-        "available",
-        "film",
-        "google",
-        "longer",
-        "play",
-        "youtube"
-      ],
-      "item_ids": [
-        "681d39e16bdd"
       ],
       "outlets": [
         "The Verge"
@@ -10531,24 +10738,6 @@
       ]
     },
     {
-      "id": "97a5ce578cd5",
-      "topic": "argument bill criticize man",
-      "keywords": [
-        "argument",
-        "bill",
-        "criticize",
-        "man",
-        "scientist",
-        "straw"
-      ],
-      "item_ids": [
-        "144e9e91ef08"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
       "id": "419ea1a945ff",
       "topic": "lawmaker mexico nominate oversee",
       "keywords": [
@@ -10657,6 +10846,24 @@
       ]
     },
     {
+      "id": "2ebe2f10cb96",
+      "topic": "advert emission low misleading",
+      "keywords": [
+        "advert",
+        "emission",
+        "low",
+        "misleading",
+        "very",
+        "wood"
+      ],
+      "item_ids": [
+        "b4a99487f9e5"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "77705cd6b20c",
       "topic": "carbon cheap coalmine flooded",
       "keywords": [
@@ -10669,24 +10876,6 @@
       ],
       "item_ids": [
         "8902185d1d96"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "710cf1066424",
-      "topic": "antwerp cause ineo plant",
-      "keywords": [
-        "antwerp",
-        "cause",
-        "ineo",
-        "plant",
-        "plastic",
-        "pollution"
-      ],
-      "item_ids": [
-        "72f5e442b1de"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11053,6 +11242,42 @@
       ]
     },
     {
+      "id": "0231179d6b85",
+      "topic": "dystopian millicent noomi rapace",
+      "keywords": [
+        "dystopian",
+        "millicent",
+        "noomi",
+        "rapace",
+        "simmond",
+        "star"
+      ],
+      "item_ids": [
+        "233361884be2"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "b3bf8c45083a",
+      "topic": "gremlin movie november producing",
+      "keywords": [
+        "gremlin",
+        "movie",
+        "november",
+        "producing",
+        "spielberg",
+        "steven"
+      ],
+      "item_ids": [
+        "31f5f6b4bf84"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "32bc8a99820f",
       "topic": "adventure available fmv game",
       "keywords": [
@@ -11191,42 +11416,6 @@
       ],
       "item_ids": [
         "c62a58a63217"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "c87cd2f32070",
-      "topic": "90s film head killer",
-      "keywords": [
-        "90s",
-        "film",
-        "head",
-        "killer",
-        "serial",
-        "ugly"
-      ],
-      "item_ids": [
-        "1afe5477e8f0"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "b3ebcdaea7ec",
-      "topic": "2026 barker curry obsession",
-      "keywords": [
-        "2026",
-        "barker",
-        "curry",
-        "obsession",
-        "sets",
-        "summer"
-      ],
-      "item_ids": [
-        "eeef3959a0c5"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -11924,6 +12113,123 @@
       ]
     },
     {
+      "id": "56d8b404193a",
+      "topic": "bespin fatigue luke skywalker",
+      "keywords": [
+        "bespin",
+        "fatigue",
+        "luke",
+        "skywalker",
+        "tvc15",
+        "vc04"
+      ],
+      "item_ids": [
+        "1178a839fdce"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "92252a960604",
+      "topic": "old republic trooper tvc15",
+      "keywords": [
+        "old",
+        "republic",
+        "trooper",
+        "tvc15",
+        "vc113"
+      ],
+      "item_ids": [
+        "3fc7b413ab65"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "42395f97edb8",
+      "topic": "darth maul tvc15 vc86",
+      "keywords": [
+        "darth",
+        "maul",
+        "tvc15",
+        "vc86"
+      ],
+      "item_ids": [
+        "c82055c14e56"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "4cf687dfc09b",
+      "topic": "capture endor luke skywalker",
+      "keywords": [
+        "capture",
+        "endor",
+        "luke",
+        "skywalker",
+        "tvc15",
+        "vc23"
+      ],
+      "item_ids": [
+        "fe28caabb616"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "7ba217c3a2bf",
+      "topic": "naboo pilot tvc15 vc72",
+      "keywords": [
+        "naboo",
+        "pilot",
+        "tvc15",
+        "vc72"
+      ],
+      "item_ids": [
+        "1d706afe9df3"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "f30e66374116",
+      "topic": "darth sidiou tvc15 vc12",
+      "keywords": [
+        "darth",
+        "sidiou",
+        "tvc15",
+        "vc12"
+      ],
+      "item_ids": [
+        "620674352652"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "9a90eb182f25",
+      "topic": "darth malgu tvc15 vc96",
+      "keywords": [
+        "darth",
+        "malgu",
+        "tvc15",
+        "vc96"
+      ],
+      "item_ids": [
+        "e02aa8e9e5a6"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
       "id": "4d68b7d6cb41",
       "topic": "eclipse favorite revealed rotj",
       "keywords": [
@@ -12323,12 +12629,13 @@
       ]
     },
     {
-      "id": "94a1fafc87d9",
-      "topic": "good matter right week",
+      "id": "689986c1b743",
+      "topic": "lifetime renter right victory",
       "keywords": [
-        "good",
-        "matter",
+        "lifetime",
+        "renter",
         "right",
+        "victory",
         "week",
         "went"
       ],
@@ -12425,6 +12732,41 @@
       ],
       "outlets": [
         "Positive News"
+      ]
+    },
+    {
+      "id": "554979dc1c90",
+      "topic": "coldest corleone death fredo",
+      "keywords": [
+        "coldest",
+        "corleone",
+        "death",
+        "fredo",
+        "godfather",
+        "moment"
+      ],
+      "item_ids": [
+        "d9f0c3640b2d"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "a792c3dfd56c",
+      "topic": "creator gremlin original returning",
+      "keywords": [
+        "creator",
+        "gremlin",
+        "original",
+        "returning",
+        "work"
+      ],
+      "item_ids": [
+        "41de36665905"
+      ],
+      "outlets": [
+        "CBR"
       ]
     },
     {
@@ -12564,39 +12906,6 @@
       ],
       "item_ids": [
         "d311307b33dd"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "222ee7e57414",
-      "topic": "anime best fans",
-      "keywords": [
-        "anime",
-        "best",
-        "fans"
-      ],
-      "item_ids": [
-        "7283e2d946a2"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "95ab066dd36f",
-      "topic": "before cusack john quietly",
-      "keywords": [
-        "before",
-        "cusack",
-        "john",
-        "quietly",
-        "wick",
-        "year"
-      ],
-      "item_ids": [
-        "92bde3cfbc63"
       ],
       "outlets": [
         "CBR"
