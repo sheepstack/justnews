@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-06T09:09:10Z",
+  "generated_at": "2025-11-06T10:00:55Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -366,7 +366,7 @@
     {
       "id": "f81c88ce332d",
       "title": "Trump nominates ex-New Mexico lawmaker to oversee public lands",
-      "outlet": "Environment | The Guardian",
+      "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/nov/05/trump-public-lands-nominee",
       "published_at": "Wed, 05 Nov 2025 23:30:36 GMT",
       "bullets": [
@@ -374,7 +374,7 @@
         "• The agency manages a quarter-billion acres – about 10% of land in the US",
         "• It’s also responsible for 700m acres of underground minerals, including major reserves of oil, natural gas and coal "
       ],
-      "category": "Environment",
+      "category": "US",
       "sentiment": {
         "label": "positive",
         "score": 0.793
@@ -997,37 +997,6 @@
       "cluster_id": "bf4d859cbc3d"
     },
     {
-      "id": "02bc70a01bf5",
-      "title": "Where the vote for Mamdani was strongest in New York City",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/05/mamdani-vote-new-york-city",
-      "published_at": "Wed, 05 Nov 2025 22:35:22 GMT",
-      "bullets": [
-        "• Zohran Mamdani won the New York mayoral race on Tuesday following a historic campaign",
-        "• The 34-year-old democratic socialist ran New York’s most ambitious mayoral campaign in years",
-        "• By early Wednesday, with over 90% of ballots counted, he held 50.4% of the vote, giving him a lead of nearly nine points over Cuomo "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Zohran Mamdani won the New York mayoral race on Tuesday following a historic campaign",
-          "• The 34-year-old democratic socialist ran New York’s most ambitious mayoral campaign in years"
-        ],
-        "hopeful_bullets": [
-          "• Zohran Mamdani won the New York mayoral race on Tuesday following a historic campaign"
-        ],
-        "stakes_bullets": [
-          "• By early Wednesday, with over 90% of ballots counted, he held 50.4% of the vote, giving him a lead of nearly nine points over Cuomo "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7730faa8e2b7"
-    },
-    {
       "id": "f756bd350694",
       "title": "Stephen King Calls the Horror Movie on HBO Max Getting Oscar Buzz “Very Scary”",
       "outlet": "Dread Central",
@@ -1125,41 +1094,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "58219955f119"
-    },
-    {
-      "id": "45d1046875f9",
-      "title": "Supreme Court justices appear skeptical that Trump tariffs are legal",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/05/supreme-court-trump-trade-tarrifs-vos.html",
-      "published_at": "Wed, 05 Nov 2025 22:11:57 GMT",
-      "bullets": [
-        "• Conservative and liberal justices sharply question Solicitor General D",
-        "• John Sauer",
-        "• Critics say the tariffs infringes on the power of Congress to tax foreign commerce",
-        "• Sotomayor: \"You say tariffs are not taxes, but that's exactly what they are\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.905
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Conservative and liberal justices sharply question Solicitor General D",
-          "• John Sauer"
-        ],
-        "hopeful_bullets": [
-          "• Conservative and liberal justices sharply question Solicitor General D",
-          "• John Sauer"
-        ],
-        "stakes_bullets": [
-          "• Conservative and liberal justices sharply question Solicitor General D",
-          "• John Sauer",
-          "• Critics say the tariffs infringes on the power of Congress to tax foreign commerce"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "567b4fe08d92"
     },
     {
       "id": "c253caa7bcba",
@@ -5247,6 +5181,167 @@
       "cluster_id": "1a8aa91301b8"
     },
     {
+      "id": "f788700640cf",
+      "title": "Chinese autonomous driving firm Pony.ai sees shares drop 12% in Hong Kong debut",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/06/china-ponyai-weride-ipo-shares-market-debut.html",
+      "published_at": "Thu, 06 Nov 2025 09:23:19 GMT",
+      "bullets": [
+        "• China's Pony.ai and WeRide raise $860 million and $2.39 billion in initial public offerings in Hong Kong",
+        "• The companies are already listed in the U.S",
+        "• and China",
+        "• They are striving to keep pace with larger competitors such as Baidu's Apollo Go and Alphabet's Waymo "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China's Pony.ai and WeRide raise $860 million and $2.39 billion in initial public offerings in Hong Kong",
+          "• The companies are already listed in the U.S"
+        ],
+        "hopeful_bullets": [
+          "• China's Pony.ai and WeRide raise $860 million and $2.39 billion in initial public offerings in Hong Kong",
+          "• The companies are already listed in the U.S"
+        ],
+        "stakes_bullets": [
+          "• China's Pony.ai and WeRide raise $860 million and $2.39 billion in initial public offerings in Hong Kong"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "1db6a0c9ab09"
+    },
+    {
+      "id": "96327ef2090e",
+      "title": "Nvidia's Jensen Huang softens his ‘China will win the AI race’ remark to FT",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/06/jensen-huang-says-china-will-win-the-ai-race-before-clarifying-in-a-statement-nvidia-trump-xi.html",
+      "published_at": "Thu, 06 Nov 2025 09:04:56 GMT",
+      "bullets": [
+        "• Nvidia CEO Jensen Huang reportedly told the Financial Times that China will beat the U.S",
+        "• in artificial intelligence thanks to lower energy costs and looser regulations",
+        "• Huang has long stated that the US can stay ahead in the AI race if it keeps developers reliant on Nvidia's leading AI chips "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nvidia CEO Jensen Huang reportedly told the Financial Times that China will beat the U.S",
+          "• in artificial intelligence thanks to lower energy costs and looser regulations"
+        ],
+        "hopeful_bullets": [
+          "• Nvidia CEO Jensen Huang reportedly told the Financial Times that China will beat the U.S",
+          "• in artificial intelligence thanks to lower energy costs and looser regulations"
+        ],
+        "stakes_bullets": [
+          "• Nvidia CEO Jensen Huang reportedly told the Financial Times that China will beat the U.S",
+          "• in artificial intelligence thanks to lower energy costs and looser regulations",
+          "• Huang has long stated that the US can stay ahead in the AI race if it keeps developers reliant on Nvidia's leading AI chips "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b1adb4501951"
+    },
+    {
+      "id": "94a299afda7c",
+      "title": "Trump’s supreme court strategy is to redefine ‘tariffs’. Will the justices buy it?",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/06/trump-tariffs-supreme-court",
+      "published_at": "Thu, 06 Nov 2025 09:00:49 GMT",
+      "bullets": [
+        "• US solicitor general: 'These are regulatory tariffs, not revenue-raising tariffs' Solicitor general: \"The fact that they raise revenue is only incidental\" Lower courts ruled in August that the IEEPA did not grant “the power to tax” to the president "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US solicitor general: 'These are regulatory tariffs, not revenue-raising tariffs' Solicitor general: \"The fact that they raise revenue is only incidental\" Lower courts ruled in August that the IEEPA did not grant “the power to tax” to the president "
+        ],
+        "hopeful_bullets": [
+          "• US solicitor general: 'These are regulatory tariffs, not revenue-raising tariffs' Solicitor general: \"The fact that they raise revenue is only incidental\" Lower courts ruled in August that the IEEPA did not grant “the power to tax” to the president "
+        ],
+        "stakes_bullets": [
+          "• US solicitor general: 'These are regulatory tariffs, not revenue-raising tariffs' Solicitor general: \"The fact that they raise revenue is only incidental\" Lower courts ruled in August that the IEEPA did not grant “the power to tax” to the president "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9e31f2020e10"
+    },
+    {
+      "id": "53c6c8d51826",
+      "title": "South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c93djnedql3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 06 Nov 2025 08:57:58 GMT",
+      "bullets": [
+        "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
+        "• The men are between the ages of 20 and 39 years and are trapped in Ukraine's war-torn Donbas region",
+        "• South Africa has an unemployment rate of more than 30%, and is even higher among young people "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
+          "• The men are between the ages of 20 and 39 years and are trapped in Ukraine's war-torn Donbas region"
+        ],
+        "hopeful_bullets": [
+          "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
+          "• The men are between the ages of 20 and 39 years and are trapped in Ukraine's war-torn Donbas region"
+        ],
+        "stakes_bullets": [
+          "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
+          "• The men are between the ages of 20 and 39 years and are trapped in Ukraine's war-torn Donbas region",
+          "• South Africa has an unemployment rate of more than 30%, and is even higher among young people "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3ca7cb40eb40"
+    },
+    {
+      "id": "93f3d1777755",
+      "title": "Asia-Pacific markets rise, tracking Wall Street gains, as AI-linked stocks rebound",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/06/asia-pacific-markets-ponyai-debut-hong-kong-weride-ai-stocks.html",
+      "published_at": "Thu, 06 Nov 2025 08:47:37 GMT",
+      "bullets": [
+        "• Japan's benchmark Nikkei 225 index rose 1.34% to close at 50,883.68, Japan's Topix index climbed 1.38% to end at 3,313.45",
+        "• China's Hang Seng index jumped 2.12% to 26,485.9, while the mainland's CSI 300 jumped 1.43% to 4,693.4 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.918
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Japan's benchmark Nikkei 225 index rose 1.34% to close at 50,883.68, Japan's Topix index climbed 1.38% to end at 3,313.45",
+          "• China's Hang Seng index jumped 2.12% to 26,485.9, while the mainland's CSI 300 jumped 1.43% to 4,693.4 "
+        ],
+        "hopeful_bullets": [
+          "• Japan's benchmark Nikkei 225 index rose 1.34% to close at 50,883.68, Japan's Topix index climbed 1.38% to end at 3,313.45",
+          "• China's Hang Seng index jumped 2.12% to 26,485.9, while the mainland's CSI 300 jumped 1.43% to 4,693.4 "
+        ],
+        "stakes_bullets": [
+          "• Japan's benchmark Nikkei 225 index rose 1.34% to close at 50,883.68, Japan's Topix index climbed 1.38% to end at 3,313.45",
+          "• China's Hang Seng index jumped 2.12% to 26,485.9, while the mainland's CSI 300 jumped 1.43% to 4,693.4 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "8fd1b4f368b2"
+    },
+    {
       "id": "926f00c9b876",
       "title": "Ice Spice Talks a Big Game on New Single ‘Pretty Privilege’",
       "outlet": "Music News",
@@ -5281,72 +5376,36 @@
       "cluster_id": "4e2d2643546c"
     },
     {
-      "id": "53c6c8d51826",
-      "title": "South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c93djnedql3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 06 Nov 2025 08:13:53 GMT",
-      "bullets": [
-        "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
-        "• 17 citizens trapped in Ukraine's war-torn Donbas region",
-        "• South Africans lured to join mercenary forces under the pretext of lucrative contracts, government says",
-        "• Working as a mercenary is illegal in South Africa unless the government authorises it "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
-          "• 17 citizens trapped in Ukraine's war-torn Donbas region"
-        ],
-        "hopeful_bullets": [
-          "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
-          "• 17 citizens trapped in Ukraine's war-torn Donbas region"
-        ],
-        "stakes_bullets": [
-          "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
-          "• 17 citizens trapped in Ukraine's war-torn Donbas region",
-          "• South Africans lured to join mercenary forces under the pretext of lucrative contracts, government says"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3ca7cb40eb40"
-    },
-    {
-      "id": "f788700640cf",
-      "title": "Chinese autonomous driving firm Pony.ai sees shares drop 12% in Hong Kong debut",
+      "id": "971571e424bb",
+      "title": "Shipping giant Maersk raises outlook, CEO says global trade proving more resilient than feared",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/06/china-ponyai-weride-ipo-shares-market-debut.html",
-      "published_at": "Thu, 06 Nov 2025 08:08:30 GMT",
+      "url": "https://www.cnbc.com/2025/11/06/maersk-raises-profit-outlook-ceo-says-global-trade-defying-fears.html",
+      "published_at": "Thu, 06 Nov 2025 08:39:38 GMT",
       "bullets": [
-        "• China's Pony.ai and WeRide raise $860 million and $2.39 billion in initial public offerings in Hong Kong",
-        "• The companies are already listed in the U.S",
-        "• and China",
-        "• They are striving to keep pace with larger competitors such as Baidu's Apollo Go and Alphabet's Waymo "
+        "• Danish shipping giant Maersk posted stronger-than-expected third-quarter operating profit",
+        "• The company raised its full-year operating profit forecast to between $9 billion and $9.5 billion",
+        "• Shares of the company fell more than 6% on Thursday morning "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.975
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• China's Pony.ai and WeRide raise $860 million and $2.39 billion in initial public offerings in Hong Kong",
-          "• The companies are already listed in the U.S"
+          "• Danish shipping giant Maersk posted stronger-than-expected third-quarter operating profit",
+          "• The company raised its full-year operating profit forecast to between $9 billion and $9.5 billion"
         ],
         "hopeful_bullets": [
-          "• China's Pony.ai and WeRide raise $860 million and $2.39 billion in initial public offerings in Hong Kong",
-          "• The companies are already listed in the U.S"
+          "• Danish shipping giant Maersk posted stronger-than-expected third-quarter operating profit"
         ],
         "stakes_bullets": [
-          "• China's Pony.ai and WeRide raise $860 million and $2.39 billion in initial public offerings in Hong Kong"
+          "• Danish shipping giant Maersk posted stronger-than-expected third-quarter operating profit",
+          "• The company raised its full-year operating profit forecast to between $9 billion and $9.5 billion"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "1db6a0c9ab09"
+      "read_minutes": 2,
+      "cluster_id": "d2b43bb091bc"
     },
     {
       "id": "49aa22bba8da",
@@ -5381,40 +5440,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "0b256084e1a5"
-    },
-    {
-      "id": "93f3d1777755",
-      "title": "Asia-Pacific markets rise, tracking Wall Street gains, as AI-linked stocks rebound",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/06/asia-pacific-markets-ponyai-debut-hong-kong-weride-ai-stocks.html",
-      "published_at": "Thu, 06 Nov 2025 07:31:06 GMT",
-      "bullets": [
-        "• Japan's benchmark Nikkei 225 index rose 1.34% to close at 50,883.68, while the Topix index climbed 1.38% to end at 3,313.45",
-        "• Shares of Nvidia-supplier SK Hynix closed 2.42% higher",
-        "• Chinese autonomous vehicle firms WeRide and Pony.ai fell over 12% in their market debut in Hong Kong "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 1.34% to close at 50,883.68, while the Topix index climbed 1.38% to end at 3,313.45",
-          "• Shares of Nvidia-supplier SK Hynix closed 2.42% higher"
-        ],
-        "hopeful_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 1.34% to close at 50,883.68, while the Topix index climbed 1.38% to end at 3,313.45",
-          "• Shares of Nvidia-supplier SK Hynix closed 2.42% higher"
-        ],
-        "stakes_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 1.34% to close at 50,883.68, while the Topix index climbed 1.38% to end at 3,313.45",
-          "• Shares of Nvidia-supplier SK Hynix closed 2.42% higher",
-          "• Chinese autonomous vehicle firms WeRide and Pony.ai fell over 12% in their market debut in Hong Kong "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8fd1b4f368b2"
     },
     {
       "id": "1c04affec9e3",
@@ -6475,38 +6500,6 @@
       "cluster_id": "b96ed2a9f782"
     },
     {
-      "id": "047ff07157d6",
-      "title": "Microsoft letting employees raise concerns about products after Middle East controversy",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/05/microsoft-offers-employees-trusted-technology-review-form.html",
-      "published_at": "Thu, 06 Nov 2025 01:27:18 GMT",
-      "bullets": [
-        "• Microsoft gives employees an option to request a \"Trusted Technology Review\" The move comes weeks after Microsoft stopped providing some services to an Israeli defense unit",
-        "• The Guardian said the Israeli Defense Forces' Unit 8200 had built a system in Microsoft's Azure cloud for tracking Palestinians' phone calls "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Microsoft gives employees an option to request a \"Trusted Technology Review\" The move comes weeks after Microsoft stopped providing some services to an Israeli defense unit",
-          "• The Guardian said the Israeli Defense Forces' Unit 8200 had built a system in Microsoft's Azure cloud for tracking Palestinians' phone calls "
-        ],
-        "hopeful_bullets": [
-          "• Microsoft gives employees an option to request a \"Trusted Technology Review\" The move comes weeks after Microsoft stopped providing some services to an Israeli defense unit",
-          "• The Guardian said the Israeli Defense Forces' Unit 8200 had built a system in Microsoft's Azure cloud for tracking Palestinians' phone calls "
-        ],
-        "stakes_bullets": [
-          "• Microsoft gives employees an option to request a \"Trusted Technology Review\" The move comes weeks after Microsoft stopped providing some services to an Israeli defense unit",
-          "• The Guardian said the Israeli Defense Forces' Unit 8200 had built a system in Microsoft's Azure cloud for tracking Palestinians' phone calls "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0296b5d576bc"
-    },
-    {
       "id": "8c2aa353f9f7",
       "title": "Third Michigan man arrested over alleged Halloween terror plot",
       "outlet": "US news | The Guardian",
@@ -6646,7 +6639,7 @@
       "url": "https://www.theguardian.com/us-news/2025/nov/05/trump-truth-social-posts",
       "published_at": "Thu, 06 Nov 2025 01:07:37 GMT",
       "bullets": [
-        "• Donald Trump posted 33 Truth Social posts in less than two hours on Wednesday",
+        "• Donald Trump posted 33 Truth Social posts in less than three hours on Wednesday",
         "• The posts came a day after Democrats won in a series of elections across the United States in New York, California, Virginia, and New Jersey",
         "• Trump made recommendations to his followers to buy books written by former FBI special agent Nicole Parker, Fox News political analyst Gianno Caldwell, Georgia congressman Barry Loudermilk, and his own former lawyer, Christina Bobb "
       ],
@@ -6657,15 +6650,15 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Donald Trump posted 33 Truth Social posts in less than two hours on Wednesday",
+          "• Donald Trump posted 33 Truth Social posts in less than three hours on Wednesday",
           "• The posts came a day after Democrats won in a series of elections across the United States in New York, California, Virginia, and New Jersey"
         ],
         "hopeful_bullets": [
-          "• Donald Trump posted 33 Truth Social posts in less than two hours on Wednesday",
+          "• Donald Trump posted 33 Truth Social posts in less than three hours on Wednesday",
           "• The posts came a day after Democrats won in a series of elections across the United States in New York, California, Virginia, and New Jersey"
         ],
         "stakes_bullets": [
-          "• Donald Trump posted 33 Truth Social posts in less than two hours on Wednesday",
+          "• Donald Trump posted 33 Truth Social posts in less than three hours on Wednesday",
           "• The posts came a day after Democrats won in a series of elections across the United States in New York, California, Virginia, and New Jersey",
           "• Trump made recommendations to his followers to buy books written by former FBI special agent Nicole Parker, Fox News political analyst Gianno Caldwell, Georgia congressman Barry Loudermilk, and his own former lawyer, Christina Bobb "
         ]
@@ -6769,39 +6762,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "65ef432c179f"
-    },
-    {
-      "id": "1d8a6ecb622c",
-      "title": "ICE forcibly detains daycare worker amid scrutiny over excessive force use",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/05/chicago-ice-agents-detain-daycare-worker",
-      "published_at": "Thu, 06 Nov 2025 00:00:30 GMT",
-      "bullets": [
-        "• ICE agents forcibly detained a worker at the Rayito de Sol daycare center in the city’s North Side neighborhood after pursuing her into the facility on Wednesday morning",
-        "• Videos taken by bystanders show ICE agents dragging the woman out of the daycare before pinning her against a parked car as they attempted to handcuff her",
-        "• At the same time witnesses described the use of excessive force by federal officers during a court hearing "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• ICE agents forcibly detained a worker at the Rayito de Sol daycare center in the city’s North Side neighborhood after pursuing her into the facility on Wednesday morning",
-          "• Videos taken by bystanders show ICE agents dragging the woman out of the daycare before pinning her against a parked car as they attempted to handcuff her"
-        ],
-        "hopeful_bullets": [
-          "• Videos taken by bystanders show ICE agents dragging the woman out of the daycare before pinning her against a parked car as they attempted to handcuff her"
-        ],
-        "stakes_bullets": [
-          "• ICE agents forcibly detained a worker at the Rayito de Sol daycare center in the city’s North Side neighborhood after pursuing her into the facility on Wednesday morning",
-          "• Videos taken by bystanders show ICE agents dragging the woman out of the daycare before pinning her against a parked car as they attempted to handcuff her",
-          "• At the same time witnesses described the use of excessive force by federal officers during a court hearing "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "4b88b97e21d4"
     },
     {
       "id": "74a7d9f535a1",
@@ -9576,6 +9536,24 @@
       ]
     },
     {
+      "id": "9e31f2020e10",
+      "topic": "court redefine strategy supreme",
+      "keywords": [
+        "court",
+        "redefine",
+        "strategy",
+        "supreme",
+        "tariff",
+        "trump"
+      ],
+      "item_ids": [
+        "94a299afda7c"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "de7736cc584a",
       "topic": "airline cut due shutdown",
       "keywords": [
@@ -9720,35 +9698,18 @@
       ]
     },
     {
-      "id": "4b88b97e21d4",
-      "topic": "daycare detain forcibly ice",
+      "id": "419ea1a945ff",
+      "topic": "lawmaker mexico nominate oversee",
       "keywords": [
-        "daycare",
-        "detain",
-        "forcibly",
-        "ice",
-        "scrutiny",
-        "worker"
+        "lawmaker",
+        "mexico",
+        "nominate",
+        "oversee",
+        "public",
+        "trump"
       ],
       "item_ids": [
-        "1d8a6ecb622c"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "7730faa8e2b7",
-      "topic": "city mamdani strongest vote",
-      "keywords": [
-        "city",
-        "mamdani",
-        "strongest",
-        "vote",
-        "york"
-      ],
-      "item_ids": [
-        "02bc70a01bf5"
+        "f81c88ce332d"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9971,6 +9932,42 @@
       ]
     },
     {
+      "id": "d2b43bb091bc",
+      "topic": "ceo giant maersk outlook",
+      "keywords": [
+        "ceo",
+        "giant",
+        "maersk",
+        "outlook",
+        "raise",
+        "shipping"
+      ],
+      "item_ids": [
+        "971571e424bb"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "b1adb4501951",
+      "topic": "china huang jensen nvidia",
+      "keywords": [
+        "china",
+        "huang",
+        "jensen",
+        "nvidia",
+        "soften",
+        "win"
+      ],
+      "item_ids": [
+        "96327ef2090e"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "1db6a0c9ab09",
       "topic": "autonomou chinese driving firm",
       "keywords": [
@@ -10037,42 +10034,6 @@
       ],
       "item_ids": [
         "6dd926c8ea0d"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "567b4fe08d92",
-      "topic": "appear court justice skeptical",
-      "keywords": [
-        "appear",
-        "court",
-        "justice",
-        "skeptical",
-        "supreme",
-        "trump"
-      ],
-      "item_ids": [
-        "45d1046875f9"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "0296b5d576bc",
-      "topic": "concern employee letting microsoft",
-      "keywords": [
-        "concern",
-        "employee",
-        "letting",
-        "microsoft",
-        "product",
-        "raise"
-      ],
-      "item_ids": [
-        "047ff07157d6"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -11223,24 +11184,6 @@
       ],
       "outlets": [
         "CNN.com - RSS Channel - Politics"
-      ]
-    },
-    {
-      "id": "419ea1a945ff",
-      "topic": "lawmaker mexico nominate oversee",
-      "keywords": [
-        "lawmaker",
-        "mexico",
-        "nominate",
-        "oversee",
-        "public",
-        "trump"
-      ],
-      "item_ids": [
-        "f81c88ce332d"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
       ]
     },
     {
