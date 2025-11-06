@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-06T10:18:54Z",
+  "generated_at": "2025-11-06T10:53:55Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -366,7 +366,7 @@
     {
       "id": "f81c88ce332d",
       "title": "Trump nominates ex-New Mexico lawmaker to oversee public lands",
-      "outlet": "US news | The Guardian",
+      "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/nov/05/trump-public-lands-nominee",
       "published_at": "Wed, 05 Nov 2025 23:30:36 GMT",
       "bullets": [
@@ -374,7 +374,7 @@
         "• The agency manages a quarter-billion acres – about 10% of land in the US",
         "• It’s also responsible for 700m acres of underground minerals, including major reserves of oil, natural gas and coal "
       ],
-      "category": "US",
+      "category": "Environment",
       "sentiment": {
         "label": "positive",
         "score": 0.793
@@ -464,39 +464,6 @@
       "cluster_id": "9c3522656b61"
     },
     {
-      "id": "6dd926c8ea0d",
-      "title": "Lucid misses Wall Street expectations, narrows production guidance",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/05/lucid-lcid-earnings-q3-2025.html",
-      "published_at": "Wed, 05 Nov 2025 23:27:40 GMT",
-      "bullets": [
-        "• Lucid Group missed Wall Street's expectations for a second consecutive quarter",
-        "• The all-electric vehicle maker continues to address problems with the launch of its new flagship Gravity SUV",
-        "• The company also cut the high end of its annual production guidance to around 18,000 vehicles "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Lucid Group missed Wall Street's expectations for a second consecutive quarter",
-          "• The all-electric vehicle maker continues to address problems with the launch of its new flagship Gravity SUV"
-        ],
-        "hopeful_bullets": [
-          "• Lucid Group missed Wall Street's expectations for a second consecutive quarter",
-          "• The all-electric vehicle maker continues to address problems with the launch of its new flagship Gravity SUV"
-        ],
-        "stakes_bullets": [
-          "• Lucid Group missed Wall Street's expectations for a second consecutive quarter",
-          "• The company also cut the high end of its annual production guidance to around 18,000 vehicles "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "7ec82d2eb86f"
-    },
-    {
       "id": "5a89659c020c",
       "title": "Forgotten Wes Craven-Produced Chiller with “Unique premise” Now on Paramount+",
       "outlet": "Dread Central",
@@ -562,41 +529,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "1ddea8d0b3f2"
-    },
-    {
-      "id": "be988451cda2",
-      "title": "How Jim Cramer navigates a market selloff",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/05/jim-cramer-market-selloff.html",
-      "published_at": "Wed, 05 Nov 2025 23:21:12 GMT",
-      "bullets": [
-        "• CNBC's Jim Cramer offered advice on how to deal with declines",
-        "• He said widespread losses can be used as a buying opportunity",
-        "• Cramer named two companies he thinks would be good to buy on weakness: Shopify and McDonald's",
-        "• The major indexes fell on Tuesday, led largely by an 8% decline in Palantir "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• CNBC's Jim Cramer offered advice on how to deal with declines",
-          "• He said widespread losses can be used as a buying opportunity"
-        ],
-        "hopeful_bullets": [
-          "• CNBC's Jim Cramer offered advice on how to deal with declines",
-          "• He said widespread losses can be used as a buying opportunity"
-        ],
-        "stakes_bullets": [
-          "• CNBC's Jim Cramer offered advice on how to deal with declines",
-          "• He said widespread losses can be used as a buying opportunity",
-          "• Cramer named two companies he thinks would be good to buy on weakness: Shopify and McDonald's"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c0fd0a238ee0"
     },
     {
       "id": "ee939108bbbf",
@@ -732,6 +664,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "abd943be1e5a"
+    },
+    {
+      "id": "b4cbe732bfd7",
+      "title": "Doordash stock sinks 9% as company misses earnings, says it expects further spending",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/05/doordash-stock-dash-q3-2025-earnings.html",
+      "published_at": "Wed, 05 Nov 2025 23:12:12 GMT",
+      "bullets": [
+        "• DoorDash reported third-quarter earnings that missed analyst expectations",
+        "• The food delivery platform's revenue increased 27% from a year earlier",
+        "• The company expects to spend \"several hundred million dollars\" on new initiatives and development in 2026",
+        "• The stock sank 9% following the report "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• DoorDash reported third-quarter earnings that missed analyst expectations",
+          "• The food delivery platform's revenue increased 27% from a year earlier"
+        ],
+        "hopeful_bullets": [
+          "• The stock sank 9% following the report "
+        ],
+        "stakes_bullets": [
+          "• The food delivery platform's revenue increased 27% from a year earlier"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "817d407d02c8"
     },
     {
       "id": "5d870e40dc96",
@@ -1163,6 +1127,73 @@
       "cluster_id": "02590504b1a7"
     },
     {
+      "id": "7e4eca073f88",
+      "title": "E.l.f. Beauty stock plunges 29% on weak guidance, tariff impact",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/05/elf-beauty-elf-earnings-q2-2026.html",
+      "published_at": "Wed, 05 Nov 2025 21:33:05 GMT",
+      "bullets": [
+        "• E.l.f",
+        "• Beauty acquired Hailey Bieber's Rhode cosmetics line in a $1 billion deal earlier this year",
+        "• Rhode is expected to increase its annual sales by $200 million this fiscal year and by $300 million on an annual run rate basis",
+        "• But the company's full-year guidance still fell below expectations "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• E.l.f",
+          "• Beauty acquired Hailey Bieber's Rhode cosmetics line in a $1 billion deal earlier this year"
+        ],
+        "hopeful_bullets": [
+          "• E.l.f",
+          "• Beauty acquired Hailey Bieber's Rhode cosmetics line in a $1 billion deal earlier this year"
+        ],
+        "stakes_bullets": [
+          "• Beauty acquired Hailey Bieber's Rhode cosmetics line in a $1 billion deal earlier this year",
+          "• Rhode is expected to increase its annual sales by $200 million this fiscal year and by $300 million on an annual run rate basis"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "38bf5595d39f"
+    },
+    {
+      "id": "66984f5c70ff",
+      "title": "Qualcomm reports earnings, revenue beat and issues strong forecast",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/05/qualcomm-qcom-q4-2025-earnings-report.html",
+      "published_at": "Wed, 05 Nov 2025 21:22:12 GMT",
+      "bullets": [
+        "• Qualcomm reported fiscal fourth-quarter results on Wednesday that beat analyst estimates",
+        "• Revenue rose 10% from $10.24 billion a year earlier",
+        "• The company has long been a dominant provider of mobile phone chips, including the central processor and modem for high-end devices made by Samsung and modems for Apple iPhones "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.729
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Qualcomm reported fiscal fourth-quarter results on Wednesday that beat analyst estimates",
+          "• Revenue rose 10% from $10.24 billion a year earlier"
+        ],
+        "hopeful_bullets": [
+          "• Qualcomm reported fiscal fourth-quarter results on Wednesday that beat analyst estimates",
+          "• Revenue rose 10% from $10.24 billion a year earlier"
+        ],
+        "stakes_bullets": [
+          "• Qualcomm reported fiscal fourth-quarter results on Wednesday that beat analyst estimates",
+          "• Revenue rose 10% from $10.24 billion a year earlier"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c4a177a48592"
+    },
+    {
       "id": "d17c7e42f30b",
       "title": "‘Tokyo Gore Police’ Soundtrack Pressed on Vinyl for Record Store Day Black Friday",
       "outlet": "Bloody Disgusting!",
@@ -1393,71 +1424,6 @@
       "cluster_id": "d5304871901f"
     },
     {
-      "id": "5d56a2b15dde",
-      "title": "Trump bashes Mamdani after Democrats sweep key elections",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/05/trump-elections-democrats-republicans-filibuster.html",
-      "published_at": "Wed, 05 Nov 2025 20:03:34 GMT",
-      "bullets": [
-        "• President Donald Trump attacked New York City Mayor-Elect Zohran Mamdani in a speech in Miami on Wednesday",
-        "• The Democratic nominee on Tuesday night trounced his main opponent, former New York Gov",
-        "• Andrew Cuomo, who had been endorsed by Trump",
-        "• Trump has previously threatened to cut funding to New York if its voters elected the Democrat "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump attacked New York City Mayor-Elect Zohran Mamdani in a speech in Miami on Wednesday",
-          "• The Democratic nominee on Tuesday night trounced his main opponent, former New York Gov"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump attacked New York City Mayor-Elect Zohran Mamdani in a speech in Miami on Wednesday",
-          "• The Democratic nominee on Tuesday night trounced his main opponent, former New York Gov"
-        ],
-        "stakes_bullets": [
-          "• Trump has previously threatened to cut funding to New York if its voters elected the Democrat "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "3a51be4ab366"
-    },
-    {
-      "id": "5ac5540cce74",
-      "title": "‘We’re leading the way’: Starmer defends plans for green economy before Cop30",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/05/were-leading-the-way-starmer-defends-plans-for-green-economy-before-cop30",
-      "published_at": "Wed, 05 Nov 2025 20:00:34 GMT",
-      "bullets": [
-        "• Keir Starmer flew to Brazil to join other heads of government at a leaders’ summit in Belém before the UN Cop30 climate conference",
-        "• He said: ‘Britain isn’t waiting to act – we’re leading the way, as we promised’"
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Keir Starmer flew to Brazil to join other heads of government at a leaders’ summit in Belém before the UN Cop30 climate conference",
-          "• He said: ‘Britain isn’t waiting to act – we’re leading the way, as we promised’"
-        ],
-        "hopeful_bullets": [
-          "• Keir Starmer flew to Brazil to join other heads of government at a leaders’ summit in Belém before the UN Cop30 climate conference",
-          "• He said: ‘Britain isn’t waiting to act – we’re leading the way, as we promised’"
-        ],
-        "stakes_bullets": [
-          "• Keir Starmer flew to Brazil to join other heads of government at a leaders’ summit in Belém before the UN Cop30 climate conference",
-          "• He said: ‘Britain isn’t waiting to act – we’re leading the way, as we promised’"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "8360da05b660"
-    },
-    {
       "id": "943eeb076e29",
       "title": "New quantum hardware puts the mechanics in quantum mechanics",
       "outlet": "Ars Technica - All content",
@@ -1622,6 +1588,39 @@
       "cluster_id": "b5570ec249fe"
     },
     {
+      "id": "ee73bf5c33a7",
+      "title": "Starbucks union authorizes open-ended strike as busy holiday season begins",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/05/starbucks-union-authorizes-open-ended-strike-as-holiday-season-begins.html",
+      "published_at": "Wed, 05 Nov 2025 19:21:52 GMT",
+      "bullets": [
+        "• Starbucks Workers United has authorized an open-ended strike that could begin on Red Cup Day, one of the coffee chain's biggest sales days of the year",
+        "• The union is preparing to strike in more than 25 cities if it doesn't reach a collective bargaining agreement with Starbucks by Nov",
+        "• 13",
+        "• The two parties have not been in active negotiations to reach a contract after talks between them fell apart last year "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Starbucks Workers United has authorized an open-ended strike that could begin on Red Cup Day, one of the coffee chain's biggest sales days of the year",
+          "• The union is preparing to strike in more than 25 cities if it doesn't reach a collective bargaining agreement with Starbucks by Nov"
+        ],
+        "hopeful_bullets": [
+          "• Starbucks Workers United has authorized an open-ended strike that could begin on Red Cup Day, one of the coffee chain's biggest sales days of the year",
+          "• The union is preparing to strike in more than 25 cities if it doesn't reach a collective bargaining agreement with Starbucks by Nov"
+        ],
+        "stakes_bullets": [
+          "• Starbucks Workers United has authorized an open-ended strike that could begin on Red Cup Day, one of the coffee chain's biggest sales days of the year"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "8fea9d088875"
+    },
+    {
       "id": "c62a58a63217",
       "title": "Supernatural Thriller ‘Banquet’ Adds ’28 Years Later’ Star Alfie Williams and More to Cast",
       "outlet": "Bloody Disgusting!",
@@ -1752,38 +1751,6 @@
       "cluster_id": "face475f66a7"
     },
     {
-      "id": "64c683661a00",
-      "title": "FAA will reduce air traffic by 10% at many airports to maintain safety",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/05/nx-s1-5600082/faa-airport-traffic-reductions-shutdown",
-      "published_at": "Wed, 05 Nov 2025 18:56:39 -0500",
-      "bullets": [
-        "• FAA plans to reduce air traffic in 40 \"high-volume markets\" beginning on Friday",
-        "• The move is intended to keep the nation's air traffic safe during the government shutdown",
-        "• Even before the cuts, more than 3,000 certified controllers were short "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.84
-      },
-      "moods": {
-        "brief_bullets": [
-          "• FAA plans to reduce air traffic in 40 \"high-volume markets\" beginning on Friday",
-          "• The move is intended to keep the nation's air traffic safe during the government shutdown"
-        ],
-        "hopeful_bullets": [
-          "• FAA plans to reduce air traffic in 40 \"high-volume markets\" beginning on Friday"
-        ],
-        "stakes_bullets": [
-          "• FAA plans to reduce air traffic in 40 \"high-volume markets\" beginning on Friday",
-          "• Even before the cuts, more than 3,000 certified controllers were short "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "495e6b5bcfba"
-    },
-    {
       "id": "1afe5477e8f0",
       "title": "’90s Serial Killer Film ‘The Ugly’ Heads to Blu-ray in February",
       "outlet": "Bloody Disgusting!",
@@ -1855,28 +1822,27 @@
       "url": "https://www.bbc.com/news/articles/c0rp4lrdv8ko?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 05 Nov 2025 18:24:16 GMT",
       "bullets": [
-        "• The BBC is in the Gaza Strip for the first time since the Gaza war",
-        "• The area was one of the first areas Israeli ground troops entered in the early weeks of the conflict",
-        "• Israel does not allow news organisations to report independently from the area "
+        "• The BBC is in the Gaza Strip for the first time since the start of the war",
+        "• The area has been destroyed by Israeli forces in the past two years",
+        "• The BBC was given no access to the area by the Israeli military",
+        "• Israel says the destruction is not a result of the conflict but it is aimed at terrorists "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.986
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• The BBC is in the Gaza Strip for the first time since the Gaza war",
-          "• The area was one of the first areas Israeli ground troops entered in the early weeks of the conflict"
+          "• The BBC is in the Gaza Strip for the first time since the start of the war",
+          "• The area has been destroyed by Israeli forces in the past two years"
         ],
         "hopeful_bullets": [
-          "• The BBC is in the Gaza Strip for the first time since the Gaza war",
-          "• The area was one of the first areas Israeli ground troops entered in the early weeks of the conflict"
+          "• The BBC is in the Gaza Strip for the first time since the start of the war",
+          "• The area has been destroyed by Israeli forces in the past two years"
         ],
         "stakes_bullets": [
-          "• The BBC is in the Gaza Strip for the first time since the Gaza war",
-          "• The area was one of the first areas Israeli ground troops entered in the early weeks of the conflict",
-          "• Israel does not allow news organisations to report independently from the area "
+          "• Israel says the destruction is not a result of the conflict but it is aimed at terrorists "
         ]
       },
       "read_minutes": 4,
@@ -1915,6 +1881,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "b34c80af3149"
+    },
+    {
+      "id": "613cbf29fc04",
+      "title": "Rising household debt balances point to worsening 'K-shaped' economic divide",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/05/consumer-debt-rises-amid-worsening-k-shaped-economic-divide.html",
+      "published_at": "Wed, 05 Nov 2025 18:12:20 GMT",
+      "bullets": [
+        "• Credit card balances rose by $24 billion in the third quarter to $1.23 trillion, a new report from the Federal Reserve Bank of New York says",
+        "• The average credit card balance per consumer now stands at $6,523, up 2.2% year over year",
+        "• About 60% of credit card users have revolving debt, the New York Fed says "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Credit card balances rose by $24 billion in the third quarter to $1.23 trillion, a new report from the Federal Reserve Bank of New York says",
+          "• The average credit card balance per consumer now stands at $6,523, up 2.2% year over year"
+        ],
+        "hopeful_bullets": [
+          "• Credit card balances rose by $24 billion in the third quarter to $1.23 trillion, a new report from the Federal Reserve Bank of New York says",
+          "• The average credit card balance per consumer now stands at $6,523, up 2.2% year over year"
+        ],
+        "stakes_bullets": [
+          "• Credit card balances rose by $24 billion in the third quarter to $1.23 trillion, a new report from the Federal Reserve Bank of New York says"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "964f34d2bf73"
     },
     {
       "id": "324d93d03c01",
@@ -2312,69 +2310,6 @@
       "cluster_id": "56508e01d6bd"
     },
     {
-      "id": "03a2026381b4",
-      "title": "Mamdani supporters see an opening for more hopeful politics in his win",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/05/nx-s1-5578014/mamdani-supporters-see-an-opening-for-more-hopeful-politics-in-his-win",
-      "published_at": "Wed, 05 Nov 2025 16:43:24 -0500",
-      "bullets": [
-        "• Zohran Mamdani supporters see an opening for more hopeful politics in his win",
-        "• Many say they believe he can make the city more affordable and fair",
-        "• But they also hope his progressive policy ideas will shape American politics beyond New York City "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Zohran Mamdani supporters see an opening for more hopeful politics in his win",
-          "• Many say they believe he can make the city more affordable and fair"
-        ],
-        "hopeful_bullets": [
-          "• Zohran Mamdani supporters see an opening for more hopeful politics in his win",
-          "• But they also hope his progressive policy ideas will shape American politics beyond New York City "
-        ],
-        "stakes_bullets": [
-          "• But they also hope his progressive policy ideas will shape American politics beyond New York City "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "3ee39328c9a3"
-    },
-    {
-      "id": "d3e9a2bbcea1",
-      "title": "Democrats Did Much Better Than Expected",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/democrats-did-way-better-than-expected-yesterday/",
-      "published_at": "Wed, 05 Nov 2025 16:38:14 +0000",
-      "bullets": [
-        "• Steve Kornacki is a staple of Election Day coverage for NBC News",
-        "• He's taking on an expanded role at NBC News following parent company Comcast’s decision to spin off its cable TV properties, including a soon-to-be rebranded MSNBC",
-        "• He says the breadth and depth of Democratic victories suggest a political environment that's radically changed "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Steve Kornacki is a staple of Election Day coverage for NBC News",
-          "• He's taking on an expanded role at NBC News following parent company Comcast’s decision to spin off its cable TV properties, including a soon-to-be rebranded MSNBC"
-        ],
-        "hopeful_bullets": [
-          "• He's taking on an expanded role at NBC News following parent company Comcast’s decision to spin off its cable TV properties, including a soon-to-be rebranded MSNBC"
-        ],
-        "stakes_bullets": [
-          "• He's taking on an expanded role at NBC News following parent company Comcast’s decision to spin off its cable TV properties, including a soon-to-be rebranded MSNBC"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "6265440a3f15"
-    },
-    {
       "id": "c62fe64bc33d",
       "title": "If you want to satiate AI’s hunger for power, Google suggests going to space",
       "outlet": "Ars Technica - All content",
@@ -2473,38 +2408,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "e7e3be2cb5da"
-    },
-    {
-      "id": "776d1bbb2a73",
-      "title": "What can Democrats learn from their victories in off-year elections across the U.S.?",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/05/nx-s1-5591320/what-can-democrats-learn-from-their-victories-in-off-year-elections-across-the-u-s",
-      "published_at": "Wed, 05 Nov 2025 16:20:05 -0500",
-      "bullets": [
-        "• What can Democrats learn from their victories in off-year elections across the U.S.? Democrats won in a variety of races across the country by combining an anti-Trump message with a positive message on improving affordability",
-        "• Democrats also won key governors' races in Virginia and New Jersey "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• What can Democrats learn from their victories in off-year elections across the U.S.? Democrats won in a variety of races across the country by combining an anti-Trump message with a positive message on improving affordability",
-          "• Democrats also won key governors' races in Virginia and New Jersey "
-        ],
-        "hopeful_bullets": [
-          "• What can Democrats learn from their victories in off-year elections across the U.S.? Democrats won in a variety of races across the country by combining an anti-Trump message with a positive message on improving affordability",
-          "• Democrats also won key governors' races in Virginia and New Jersey "
-        ],
-        "stakes_bullets": [
-          "• What can Democrats learn from their victories in off-year elections across the U.S.? Democrats won in a variety of races across the country by combining an anti-Trump message with a positive message on improving affordability",
-          "• Democrats also won key governors' races in Virginia and New Jersey "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "39ba7bed431e"
     },
     {
       "id": "a55274ad4e1d",
@@ -2668,41 +2571,6 @@
       "cluster_id": "e171960c577f"
     },
     {
-      "id": "3fcad0241d4a",
-      "title": "Rubio, Hegseth brief lawmakers on boat strikes as frustration grows on Capitol Hill",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/05/g-s1-96661/rubio-hegseth-venezuela-congress",
-      "published_at": "Wed, 05 Nov 2025 15:48:15 -0500",
-      "bullets": [
-        "• Rubio, Hegseth brief lawmakers on boat strikes as frustration grows on Capitol Hill",
-        "• At least 66 have been killed in 16 strikes in the Caribbean and the Pacific Ocean",
-        "• Legal analysts have broadly described the strikes as illegal under both U.S",
-        "• and international law "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Rubio, Hegseth brief lawmakers on boat strikes as frustration grows on Capitol Hill",
-          "• At least 66 have been killed in 16 strikes in the Caribbean and the Pacific Ocean"
-        ],
-        "hopeful_bullets": [
-          "• Rubio, Hegseth brief lawmakers on boat strikes as frustration grows on Capitol Hill",
-          "• At least 66 have been killed in 16 strikes in the Caribbean and the Pacific Ocean"
-        ],
-        "stakes_bullets": [
-          "• Rubio, Hegseth brief lawmakers on boat strikes as frustration grows on Capitol Hill",
-          "• At least 66 have been killed in 16 strikes in the Caribbean and the Pacific Ocean",
-          "• Legal analysts have broadly described the strikes as illegal under both U.S"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "12298358fc65"
-    },
-    {
       "id": "032e8b34f5f4",
       "title": "How to declutter, quiet down, and take the AI out of Windows 11 25H2",
       "outlet": "Ars Technica - All content",
@@ -2736,39 +2604,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "2a875dac066b"
-    },
-    {
-      "id": "e23d447640f2",
-      "title": "NYC's next mayor is a democratic socialist. What does that mean?",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/05/nx-s1-5599928/democratic-socialism-explained-zohran-mamdani-bernie-sanders",
-      "published_at": "Wed, 05 Nov 2025 15:29:51 -0500",
-      "bullets": [
-        "• Zohran Mamdani won with a progressive platform focused on making the city more affordable",
-        "• He quoted prominent late-19th and early-20th century socialist Eugene Debs in his victory speech Tuesday night",
-        "• He is a longtime member of the Democratic Socialists of America (DSA)"
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Zohran Mamdani won with a progressive platform focused on making the city more affordable",
-          "• He quoted prominent late-19th and early-20th century socialist Eugene Debs in his victory speech Tuesday night"
-        ],
-        "hopeful_bullets": [
-          "• Zohran Mamdani won with a progressive platform focused on making the city more affordable"
-        ],
-        "stakes_bullets": [
-          "• Zohran Mamdani won with a progressive platform focused on making the city more affordable",
-          "• He quoted prominent late-19th and early-20th century socialist Eugene Debs in his victory speech Tuesday night",
-          "• He is a longtime member of the Democratic Socialists of America (DSA)"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "3bbc3da9ad07"
     },
     {
       "id": "4af3300d5567",
@@ -2832,41 +2667,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "2498327c3272"
-    },
-    {
-      "id": "a65007e7b2ed",
-      "title": "A declaration of famine is rare. It's now happened twice in 2025, this time in Sudan",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/goats-and-soda/2025/11/05/g-s1-96608/famine-sudan-gaza",
-      "published_at": "Wed, 05 Nov 2025 14:46:41 -0500",
-      "bullets": [
-        "• A declaration of famine is rare",
-        "• It's now happened twice in 2025, this time in Sudan",
-        "• The IPC has confirmed catastrophic famine conditions in Somalia in 2011 and South Sudan in 2017 and 2020",
-        "• The system the world relies on to track food emergencies began in the 1980s "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.85
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A declaration of famine is rare",
-          "• It's now happened twice in 2025, this time in Sudan"
-        ],
-        "hopeful_bullets": [
-          "• A declaration of famine is rare",
-          "• It's now happened twice in 2025, this time in Sudan"
-        ],
-        "stakes_bullets": [
-          "• A declaration of famine is rare",
-          "• It's now happened twice in 2025, this time in Sudan",
-          "• The IPC has confirmed catastrophic famine conditions in Somalia in 2011 and South Sudan in 2017 and 2020"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "69c21ea939d0"
     },
     {
       "id": "bdc66686d8a3",
@@ -2934,39 +2734,6 @@
       "cluster_id": "a5c883d9638a"
     },
     {
-      "id": "cfda9a193c02",
-      "title": "Judge orders White House to use American Sign Language interpreters at briefings",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/05/nx-s1-5599118/white-house-asl-deaf-american-sign-language-judge-order",
-      "published_at": "Wed, 05 Nov 2025 13:22:56 -0500",
-      "bullets": [
-        "• Judge orders White House to use American Sign Language interpreters at briefings",
-        "• The National Association of the Deaf (NAD) and two deaf men filed the lawsuit against Trump and Leavitt in May",
-        "• The suit alleges the White House's failure to provide ASL violates Section 504 of the Rehabilitation Act of 1973 "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Judge orders White House to use American Sign Language interpreters at briefings",
-          "• The National Association of the Deaf (NAD) and two deaf men filed the lawsuit against Trump and Leavitt in May"
-        ],
-        "hopeful_bullets": [
-          "• The National Association of the Deaf (NAD) and two deaf men filed the lawsuit against Trump and Leavitt in May"
-        ],
-        "stakes_bullets": [
-          "• Judge orders White House to use American Sign Language interpreters at briefings",
-          "• The National Association of the Deaf (NAD) and two deaf men filed the lawsuit against Trump and Leavitt in May",
-          "• The suit alleges the White House's failure to provide ASL violates Section 504 of the Rehabilitation Act of 1973 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "59977a0b43bf"
-    },
-    {
       "id": "9ef72af25487",
       "title": "Geese Cover New Radicals’ “You Get What You Give”: Watch",
       "outlet": "RSS: News",
@@ -3031,40 +2798,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "0845fbd8deee"
-    },
-    {
-      "id": "23a049918409",
-      "title": "Democrats' 2025 election wins go beyond big races to places like Georgia, Pennsylvania",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/05/nx-s1-5599185/2025-election-results-georgia-pennsylvania-democrats-win",
-      "published_at": "Wed, 05 Nov 2025 11:55:20 -0500",
-      "bullets": [
-        "• Democrats flipped two seats on Georgia's Public Service Commission by wide margins",
-        "• It's the first time Democrats have won a nonfederal statewide office in the state since 2006",
-        "• Pennsylvania voters chose to retain three state Supreme Court judges that were first elected as Democrats "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Democrats flipped two seats on Georgia's Public Service Commission by wide margins",
-          "• It's the first time Democrats have won a nonfederal statewide office in the state since 2006"
-        ],
-        "hopeful_bullets": [
-          "• Democrats flipped two seats on Georgia's Public Service Commission by wide margins",
-          "• It's the first time Democrats have won a nonfederal statewide office in the state since 2006"
-        ],
-        "stakes_bullets": [
-          "• Democrats flipped two seats on Georgia's Public Service Commission by wide margins",
-          "• It's the first time Democrats have won a nonfederal statewide office in the state since 2006",
-          "• Pennsylvania voters chose to retain three state Supreme Court judges that were first elected as Democrats "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "30674f49331d"
     },
     {
       "id": "ae8ffdb6b770",
@@ -3430,38 +3163,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "d197d3a38652"
-    },
-    {
-      "id": "18df29cbdbc5",
-      "title": "Dark matter may be lighting up the heart of the Milky Way",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251104094152.htm",
-      "published_at": "Wed, 05 Nov 2025 04:14:06 EST",
-      "bullets": [
-        "• Researchers using new simulations suggest that the Milky Way’s past collisions may have reshaped its dark matter core",
-        "• This distorted structure could naturally explain the puzzling gamma-ray glow long thought to come from pulsars",
-        "• The findings revive dark matter as a major suspect in one of astronomy's biggest mysteries and set the stage for crucial future observations "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers using new simulations suggest that the Milky Way’s past collisions may have reshaped its dark matter core",
-          "• This distorted structure could naturally explain the puzzling gamma-ray glow long thought to come from pulsars"
-        ],
-        "hopeful_bullets": [
-          "• Researchers using new simulations suggest that the Milky Way’s past collisions may have reshaped its dark matter core",
-          "• This distorted structure could naturally explain the puzzling gamma-ray glow long thought to come from pulsars"
-        ],
-        "stakes_bullets": [
-          "• This distorted structure could naturally explain the puzzling gamma-ray glow long thought to come from pulsars"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "fbe1399656e4"
     },
     {
       "id": "f5a05e6068ad",
@@ -4088,40 +3789,6 @@
       "cluster_id": "3041f5367d34"
     },
     {
-      "id": "ce5b7abc6848",
-      "title": "Cockroaches are secretly poisoning indoor air",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251104094154.htm",
-      "published_at": "Tue, 04 Nov 2025 23:39:46 EST",
-      "bullets": [
-        "• North Carolina State University researchers found that larger infestations meant higher toxin levels, especially from female roaches",
-        "• When extermination eliminated cockroach numbers, both allergen and endotoxin levels dropped sharply",
-        "• Endotoxins are fragments of bacterial cell walls that are released when bacteria die "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• North Carolina State University researchers found that larger infestations meant higher toxin levels, especially from female roaches",
-          "• When extermination eliminated cockroach numbers, both allergen and endotoxin levels dropped sharply"
-        ],
-        "hopeful_bullets": [
-          "• North Carolina State University researchers found that larger infestations meant higher toxin levels, especially from female roaches",
-          "• When extermination eliminated cockroach numbers, both allergen and endotoxin levels dropped sharply"
-        ],
-        "stakes_bullets": [
-          "• North Carolina State University researchers found that larger infestations meant higher toxin levels, especially from female roaches",
-          "• When extermination eliminated cockroach numbers, both allergen and endotoxin levels dropped sharply",
-          "• Endotoxins are fragments of bacterial cell walls that are released when bacteria die "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "fa2136ad99c8"
-    },
-    {
       "id": "2bb61ac29cfc",
       "title": "Amid National Wolf Debate, California Kills Four of the Predators After ‘Unprecedented’ Livestock Attacks",
       "outlet": "Inside Climate News",
@@ -4187,38 +3854,6 @@
       "cluster_id": "f291d5cb34de"
     },
     {
-      "id": "e3f568c85760",
-      "title": "New UN Report Warns of Lagging Climate Action",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/04112025/un-report-warns-of-lagging-climate-action/",
-      "published_at": "Tue, 04 Nov 2025 18:48:44 +0000",
-      "bullets": [
-        "• A new emissions gap report suggests that a decade of global climate policy under the Paris Agreement has reduced the projected maximum global warming for this century to less than 3 degrees Celsius for the first time",
-        "• The ambitious Paris Agreement “helped steer countries’ policies and public expectations,” an international climate policy think tank says "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A new emissions gap report suggests that a decade of global climate policy under the Paris Agreement has reduced the projected maximum global warming for this century to less than 3 degrees Celsius for the first time",
-          "• The ambitious Paris Agreement “helped steer countries’ policies and public expectations,” an international climate policy think tank says "
-        ],
-        "hopeful_bullets": [
-          "• A new emissions gap report suggests that a decade of global climate policy under the Paris Agreement has reduced the projected maximum global warming for this century to less than 3 degrees Celsius for the first time",
-          "• The ambitious Paris Agreement “helped steer countries’ policies and public expectations,” an international climate policy think tank says "
-        ],
-        "stakes_bullets": [
-          "• A new emissions gap report suggests that a decade of global climate policy under the Paris Agreement has reduced the projected maximum global warming for this century to less than 3 degrees Celsius for the first time",
-          "• The ambitious Paris Agreement “helped steer countries’ policies and public expectations,” an international climate policy think tank says "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "2a73642a3add"
-    },
-    {
       "id": "8bdbd1c048ef",
       "title": "Sudan civil war spiralling out of control, UN secretary general says",
       "outlet": "World news | The Guardian",
@@ -4251,38 +3886,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "1f1daac68340"
-    },
-    {
-      "id": "10a962906634",
-      "title": "Brazil to seek independent inquiry into deadly police raid that killed 121 people",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/nov/04/brazil-investigation-rio-police-raid",
-      "published_at": "Tue, 04 Nov 2025 18:31:49 GMT",
-      "bullets": [
-        "• Luiz Inácio Lula da Silva says government will seek independent investigation",
-        "• Four officers and at least 117 others were killed when police launched major assault on two of Rio’s largest clusters of favelas",
-        "• Scores of mutilated bodies were dumped at entrance to one of the working-class areas where operation took place "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Luiz Inácio Lula da Silva says government will seek independent investigation",
-          "• Four officers and at least 117 others were killed when police launched major assault on two of Rio’s largest clusters of favelas"
-        ],
-        "hopeful_bullets": [
-          "• Luiz Inácio Lula da Silva says government will seek independent investigation",
-          "• Four officers and at least 117 others were killed when police launched major assault on two of Rio’s largest clusters of favelas"
-        ],
-        "stakes_bullets": [
-          "• Luiz Inácio Lula da Silva says government will seek independent investigation"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4bfe2a28918e"
     },
     {
       "id": "938297cc8f54",
@@ -4545,70 +4148,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "585917f1e8a5"
-    },
-    {
-      "id": "0ced5f68786d",
-      "title": "Federal Courts Divided, So Far, on Trump’s Environmental Retreat",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/04112025/trumps-environmental-record-federal-courts/",
-      "published_at": "Tue, 04 Nov 2025 10:05:00 +0000",
-      "bullets": [
-        "• Federal courts appear to be split on environmental policy in second term of president's second term",
-        "• Six of the 14 cases have been overturned by the U.S",
-        "• Circuit Courts of Appeal",
-        "• The Supreme Court has yet to rule on other cases in the same way "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Federal courts appear to be split on environmental policy in second term of president's second term",
-          "• Six of the 14 cases have been overturned by the U.S"
-        ],
-        "hopeful_bullets": [
-          "• Federal courts appear to be split on environmental policy in second term of president's second term",
-          "• Six of the 14 cases have been overturned by the U.S"
-        ],
-        "stakes_bullets": [
-          "• Federal courts appear to be split on environmental policy in second term of president's second term"
-        ]
-      },
-      "read_minutes": 15,
-      "cluster_id": "3bceb97a6e35"
-    },
-    {
-      "id": "34bef137db85",
-      "title": "Trump 2.0 Environmental Case Scorecard",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/04112025/trump-environmental-case-scorecard/",
-      "published_at": "Tue, 04 Nov 2025 10:00:00 +0000",
-      "bullets": [
-        "• Inside Climate News tracks progress of federal court cases on Trump climate and environmental policy",
-        "• Trump appointees hold 28 percent of federal judgeships, including three of the nine seats on the Supreme Court",
-        "• The outcomes tracked include rulings on preliminary legal issues, such as whether to put temporary holds on Trump administration actions "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.944
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Inside Climate News tracks progress of federal court cases on Trump climate and environmental policy",
-          "• Trump appointees hold 28 percent of federal judgeships, including three of the nine seats on the Supreme Court"
-        ],
-        "hopeful_bullets": [
-          "• Inside Climate News tracks progress of federal court cases on Trump climate and environmental policy"
-        ],
-        "stakes_bullets": [
-          "• Inside Climate News tracks progress of federal court cases on Trump climate and environmental policy"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "25f6a2400c52"
     },
     {
       "id": "5b4647234754",
@@ -5145,6 +4684,237 @@
       "cluster_id": "1a8aa91301b8"
     },
     {
+      "id": "53c6c8d51826",
+      "title": "South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c93djnedql3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 06 Nov 2025 10:14:00 GMT",
+      "bullets": [
+        "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
+        "• The men are between the ages of 20 and 39 years and are trapped in Ukraine's war-torn Donbas region",
+        "• South Africa has an unemployment rate of more than 30%, and is even higher among young people "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
+          "• The men are between the ages of 20 and 39 years and are trapped in Ukraine's war-torn Donbas region"
+        ],
+        "hopeful_bullets": [
+          "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
+          "• The men are between the ages of 20 and 39 years and are trapped in Ukraine's war-torn Donbas region"
+        ],
+        "stakes_bullets": [
+          "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
+          "• The men are between the ages of 20 and 39 years and are trapped in Ukraine's war-torn Donbas region",
+          "• South Africa has an unemployment rate of more than 30%, and is even higher among young people "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3ca7cb40eb40"
+    },
+    {
+      "id": "e2d78661cd12",
+      "title": "10 Best Travel Pillows for Planes and Hotels (2025), Travel Tested",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/gallery/best-travel-pillows/",
+      "published_at": "Thu, 06 Nov 2025 10:02:00 +0000",
+      "bullets": [
+        "• The Best Travel Pillows Tested in the Skies are from Trtl and Honeydew",
+        "• The best travel pillow is one of those things that you don't really know you need until you wish you had it",
+        "• Be sure to check out our other travel-related buying guides, including the Best Luggage and Best Toiletry Bags "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Best Travel Pillows Tested in the Skies are from Trtl and Honeydew",
+          "• The best travel pillow is one of those things that you don't really know you need until you wish you had it"
+        ],
+        "hopeful_bullets": [
+          "• The Best Travel Pillows Tested in the Skies are from Trtl and Honeydew",
+          "• The best travel pillow is one of those things that you don't really know you need until you wish you had it"
+        ],
+        "stakes_bullets": [
+          "• The Best Travel Pillows Tested in the Skies are from Trtl and Honeydew",
+          "• The best travel pillow is one of those things that you don't really know you need until you wish you had it",
+          "• Be sure to check out our other travel-related buying guides, including the Best Luggage and Best Toiletry Bags "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "c76d0c8df9da"
+    },
+    {
+      "id": "51e2c96cf506",
+      "title": "‘New reality’: Hurricane Melissa strength multiplied by climate crisis, study says",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/nov/06/hurricane-melissa-storm-strength-climate-crisis",
+      "published_at": "Thu, 06 Nov 2025 10:00:07 GMT",
+      "bullets": [
+        "• Hurricane Melissa caused widespread devastation when it hit Jamaica as a category five hurricane on October 28, with winds up to 185mph",
+        "• The storm wiped out homes, businesses, crops and livelihoods, costing damages estimated to be equivalent to around a third of the island nation’s GDP "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hurricane Melissa caused widespread devastation when it hit Jamaica as a category five hurricane on October 28, with winds up to 185mph",
+          "• The storm wiped out homes, businesses, crops and livelihoods, costing damages estimated to be equivalent to around a third of the island nation’s GDP "
+        ],
+        "hopeful_bullets": [
+          "• Hurricane Melissa caused widespread devastation when it hit Jamaica as a category five hurricane on October 28, with winds up to 185mph"
+        ],
+        "stakes_bullets": [
+          "• Hurricane Melissa caused widespread devastation when it hit Jamaica as a category five hurricane on October 28, with winds up to 185mph"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "02dee18dd6a6"
+    },
+    {
+      "id": "8b0504a77871",
+      "title": "Ugandans view Mamdani’s NYC win as a ‘beacon of hope’ amid democratic struggle",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/06/ugandans-react-zohran-mamdani-victory",
+      "published_at": "Thu, 06 Nov 2025 10:00:06 GMT",
+      "bullets": [
+        "• Ugandan born Zohran Mamdani elected mayor of New York City",
+        "• He is the first Muslim to become mayor of the city in more than a century",
+        "• He was born in Uganda 34 years ago to a family of Indian origin",
+        "• He has lived in the US since he was seven years old "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ugandan born Zohran Mamdani elected mayor of New York City",
+          "• He is the first Muslim to become mayor of the city in more than a century"
+        ],
+        "hopeful_bullets": [
+          "• Ugandan born Zohran Mamdani elected mayor of New York City",
+          "• He is the first Muslim to become mayor of the city in more than a century"
+        ],
+        "stakes_bullets": [
+          "• Ugandan born Zohran Mamdani elected mayor of New York City",
+          "• He is the first Muslim to become mayor of the city in more than a century",
+          "• He was born in Uganda 34 years ago to a family of Indian origin"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2e7c5aa42a39"
+    },
+    {
+      "id": "9c2698331ef8",
+      "title": "Another Dry Spell Hits New England, Raising Alarm About Flash Droughts",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/06112025/new-england-drought-risk/",
+      "published_at": "Thu, 06 Nov 2025 10:00:00 +0000",
+      "bullets": [
+        "• As of October 21, nearly 70 percent of New England is experiencing drought conditions",
+        "• The region has seen an unprecedented run of dry spells for an area considered water-rich",
+        "• As temperatures rise and weather patterns grow more erratic, scientists say one of the most significant shifts for New England may be the rise of flash droughts "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.982
+      },
+      "moods": {
+        "brief_bullets": [
+          "• As of October 21, nearly 70 percent of New England is experiencing drought conditions",
+          "• The region has seen an unprecedented run of dry spells for an area considered water-rich"
+        ],
+        "hopeful_bullets": [
+          "• As of October 21, nearly 70 percent of New England is experiencing drought conditions",
+          "• The region has seen an unprecedented run of dry spells for an area considered water-rich"
+        ],
+        "stakes_bullets": [
+          "• As of October 21, nearly 70 percent of New England is experiencing drought conditions",
+          "• The region has seen an unprecedented run of dry spells for an area considered water-rich",
+          "• As temperatures rise and weather patterns grow more erratic, scientists say one of the most significant shifts for New England may be the rise of flash droughts "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "f4f88d0aefb1"
+    },
+    {
+      "id": "867abfd3085c",
+      "title": "Trucks Move the Country’s Goods Through This County. As Even More Loom, People Are Pushing Back.",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/06112025/illinois-will-county-intermodal-transport-hub-truck-pollution/",
+      "published_at": "Thu, 06 Nov 2025 09:55:00 +0000",
+      "bullets": [
+        "• NorthPoint Development is building a warehouse project on 4,000 acres not far from the existing 6,400-acre CenterPoint Intermodal Center in Will County, Illinois",
+        "• An analysis for the developer estimated that it would bring 1,300 new truck trips daily",
+        "• The brew of air pollutants from that level of truck traffic includes carcinogens "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NorthPoint Development is building a warehouse project on 4,000 acres not far from the existing 6,400-acre CenterPoint Intermodal Center in Will County, Illinois",
+          "• An analysis for the developer estimated that it would bring 1,300 new truck trips daily"
+        ],
+        "hopeful_bullets": [
+          "• NorthPoint Development is building a warehouse project on 4,000 acres not far from the existing 6,400-acre CenterPoint Intermodal Center in Will County, Illinois",
+          "• An analysis for the developer estimated that it would bring 1,300 new truck trips daily"
+        ],
+        "stakes_bullets": [
+          "• NorthPoint Development is building a warehouse project on 4,000 acres not far from the existing 6,400-acre CenterPoint Intermodal Center in Will County, Illinois"
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "6bf53a9a94fa"
+    },
+    {
+      "id": "caab75ce6964",
+      "title": "Hurricane and Tropical Storm Remnants Impact the Midwest, Too",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/06112025/midwest-hurricane-tropical-storm-impacts/",
+      "published_at": "Thu, 06 Nov 2025 09:50:00 +0000",
+      "bullets": [
+        "• Remnants of dozens of hurricanes and tropical storms have swept through the Midwest",
+        "• They can have a big effect on the Mississippi River watershed with the rain they bring",
+        "• Since 1863, the central track of 33 of those systems have moved through the region "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Remnants of dozens of hurricanes and tropical storms have swept through the Midwest",
+          "• They can have a big effect on the Mississippi River watershed with the rain they bring"
+        ],
+        "hopeful_bullets": [
+          "• Remnants of dozens of hurricanes and tropical storms have swept through the Midwest",
+          "• They can have a big effect on the Mississippi River watershed with the rain they bring"
+        ],
+        "stakes_bullets": [
+          "• They can have a big effect on the Mississippi River watershed with the rain they bring"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "5a2b8795dea8"
+    },
+    {
       "id": "03c15691b17a",
       "title": "US to cut flights at 40 airports if shutdown doesn't end, transportation secretary warns",
       "outlet": "BBC News",
@@ -5176,39 +4946,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "7244dc0c74a2"
-    },
-    {
-      "id": "f788700640cf",
-      "title": "Chinese autonomous driving firm Pony.ai sees shares drop 12% in Hong Kong debut",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/06/china-ponyai-weride-ipo-shares-market-debut.html",
-      "published_at": "Thu, 06 Nov 2025 09:23:19 GMT",
-      "bullets": [
-        "• China's Pony.ai and WeRide raise $860 million and $2.39 billion in initial public offerings in Hong Kong",
-        "• The companies are already listed in the U.S",
-        "• and China",
-        "• They are striving to keep pace with larger competitors such as Baidu's Apollo Go and Alphabet's Waymo "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China's Pony.ai and WeRide raise $860 million and $2.39 billion in initial public offerings in Hong Kong",
-          "• The companies are already listed in the U.S"
-        ],
-        "hopeful_bullets": [
-          "• China's Pony.ai and WeRide raise $860 million and $2.39 billion in initial public offerings in Hong Kong",
-          "• The companies are already listed in the U.S"
-        ],
-        "stakes_bullets": [
-          "• China's Pony.ai and WeRide raise $860 million and $2.39 billion in initial public offerings in Hong Kong"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "1db6a0c9ab09"
     },
     {
       "id": "96327ef2090e",
@@ -5271,72 +5008,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "9e31f2020e10"
-    },
-    {
-      "id": "53c6c8d51826",
-      "title": "South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c93djnedql3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 06 Nov 2025 08:57:58 GMT",
-      "bullets": [
-        "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
-        "• The men are between the ages of 20 and 39 years and are trapped in Ukraine's war-torn Donbas region",
-        "• South Africa has an unemployment rate of more than 30%, and is even higher among young people "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
-          "• The men are between the ages of 20 and 39 years and are trapped in Ukraine's war-torn Donbas region"
-        ],
-        "hopeful_bullets": [
-          "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
-          "• The men are between the ages of 20 and 39 years and are trapped in Ukraine's war-torn Donbas region"
-        ],
-        "stakes_bullets": [
-          "• South Africans trapped in Donbas after joining Russia-Ukraine war, Ramaphosa says",
-          "• The men are between the ages of 20 and 39 years and are trapped in Ukraine's war-torn Donbas region",
-          "• South Africa has an unemployment rate of more than 30%, and is even higher among young people "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3ca7cb40eb40"
-    },
-    {
-      "id": "93f3d1777755",
-      "title": "Asia-Pacific markets rise, tracking Wall Street gains, as AI-linked stocks rebound",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/06/asia-pacific-markets-ponyai-debut-hong-kong-weride-ai-stocks.html",
-      "published_at": "Thu, 06 Nov 2025 08:47:37 GMT",
-      "bullets": [
-        "• Japan's benchmark Nikkei 225 index rose 1.34% to close at 50,883.68, Japan's Topix index climbed 1.38% to end at 3,313.45",
-        "• China's Hang Seng index jumped 2.12% to 26,485.9, while the mainland's CSI 300 jumped 1.43% to 4,693.4 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.918
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 1.34% to close at 50,883.68, Japan's Topix index climbed 1.38% to end at 3,313.45",
-          "• China's Hang Seng index jumped 2.12% to 26,485.9, while the mainland's CSI 300 jumped 1.43% to 4,693.4 "
-        ],
-        "hopeful_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 1.34% to close at 50,883.68, Japan's Topix index climbed 1.38% to end at 3,313.45",
-          "• China's Hang Seng index jumped 2.12% to 26,485.9, while the mainland's CSI 300 jumped 1.43% to 4,693.4 "
-        ],
-        "stakes_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 1.34% to close at 50,883.68, Japan's Topix index climbed 1.38% to end at 3,313.45",
-          "• China's Hang Seng index jumped 2.12% to 26,485.9, while the mainland's CSI 300 jumped 1.43% to 4,693.4 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8fd1b4f368b2"
     },
     {
       "id": "926f00c9b876",
@@ -5472,7 +5143,7 @@
     },
     {
       "id": "72f5e442b1de",
-      "title": "Pollution from Ineos’s Antwerp plastic plant ‘will cause more deaths than jobs created’",
+      "title": "Pollution from Ineos’s Antwerp plastic plant ‘could cause more deaths than jobs created’",
       "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/business/2025/nov/06/pollution-ineos-antwerp-plastic-plant-deaths-jobs-created",
       "published_at": "Thu, 06 Nov 2025 07:00:47 GMT",
@@ -5483,7 +5154,7 @@
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
@@ -5501,40 +5172,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "710cf1066424"
-    },
-    {
-      "id": "3c404569d3d2",
-      "title": "Bank of England rate cut a close call ahead of the Autumn Budget",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/06/bank-of-england-rate-cut-a-close-call-ahead-of-the-autumn-budget.html",
-      "published_at": "Thu, 06 Nov 2025 06:49:50 GMT",
-      "bullets": [
-        "• The Bank of England is set to make its last interest rate decision before the Autumn Budget later this month",
-        "• Economists say the central bank is more likely to hold rates steady, but it's not a given",
-        "• There is a general consensus that rate-setters could trim rates as soon as December, and will cut again "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Bank of England is set to make its last interest rate decision before the Autumn Budget later this month",
-          "• Economists say the central bank is more likely to hold rates steady, but it's not a given"
-        ],
-        "hopeful_bullets": [
-          "• The Bank of England is set to make its last interest rate decision before the Autumn Budget later this month",
-          "• Economists say the central bank is more likely to hold rates steady, but it's not a given"
-        ],
-        "stakes_bullets": [
-          "• The Bank of England is set to make its last interest rate decision before the Autumn Budget later this month",
-          "• Economists say the central bank is more likely to hold rates steady, but it's not a given",
-          "• There is a general consensus that rate-setters could trim rates as soon as December, and will cut again "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "8649a0424e69"
     },
     {
       "id": "574146663a13",
@@ -5635,6 +5272,332 @@
       },
       "read_minutes": 2,
       "cluster_id": "c715a220163c"
+    },
+    {
+      "id": "a52807572e44",
+      "title": "The Universe may have already started slowing down",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251106003209.htm",
+      "published_at": "Thu, 06 Nov 2025 05:08:07 EST",
+      "bullets": [
+        "• Evidence suggests the universe’s expansion has started to slow, not speed up",
+        "• The findings imply dark energy is weakening, marking a possible revolution in cosmology",
+        "• The results could reshape scientists' understanding of dark energy, help resolve the long-standing \"Hubble tension\""
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Evidence suggests the universe’s expansion has started to slow, not speed up",
+          "• The findings imply dark energy is weakening, marking a possible revolution in cosmology"
+        ],
+        "hopeful_bullets": [
+          "• The results could reshape scientists' understanding of dark energy, help resolve the long-standing \"Hubble tension\""
+        ],
+        "stakes_bullets": [
+          "• The results could reshape scientists' understanding of dark energy, help resolve the long-standing \"Hubble tension\""
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "7c6a65c45e56"
+    },
+    {
+      "id": "6f23d424c7a9",
+      "title": "The shutdown leaves telehealth for Medicare patients in limbo",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/11/06/nx-s1-5599542/medicare-telehealth-government-shutdown-2025",
+      "published_at": "Thu, 06 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• \"When I have a good idea, I want to talk to you, I don't want to make it easy for you to get a good thing about it\" \"I'm not sure what I'm doing, but I'm going to talk about it,\" says the author of a new book, \"I want to know what I do\""
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.822
+      },
+      "moods": {
+        "brief_bullets": [
+          "• \"When I have a good idea, I want to talk to you, I don't want to make it easy for you to get a good thing about it\" \"I'm not sure what I'm doing, but I'm going to talk about it,\" says the author of a new book, \"I want to know what I do\""
+        ],
+        "hopeful_bullets": [
+          "• \"When I have a good idea, I want to talk to you, I don't want to make it easy for you to get a good thing about it\" \"I'm not sure what I'm doing, but I'm going to talk about it,\" says the author of a new book, \"I want to know what I do\""
+        ],
+        "stakes_bullets": [
+          "• \"When I have a good idea, I want to talk to you, I don't want to make it easy for you to get a good thing about it\" \"I'm not sure what I'm doing, but I'm going to talk about it,\" says the author of a new book, \"I want to know what I do\""
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "83da33ce7111"
+    },
+    {
+      "id": "a3e10436437f",
+      "title": "How would the government shutdown affect Thanksgiving travel? Here's what to know",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/06/nx-s1-5599582/government-shutdown-airport-thanksgiving-travel",
+      "published_at": "Thu, 06 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• Transportation Secretary Sean Duffy said airline traffic will be reduced by 10% across 40 locations starting Friday",
+        "• Delays related to staffing issues have popped up at airports nationwide in recent weeks",
+        "• Experts expect more delays and cancellations, along with longer TSA lines, if shutdown does not end before Thanksgiving "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Transportation Secretary Sean Duffy said airline traffic will be reduced by 10% across 40 locations starting Friday",
+          "• Delays related to staffing issues have popped up at airports nationwide in recent weeks"
+        ],
+        "hopeful_bullets": [
+          "• Transportation Secretary Sean Duffy said airline traffic will be reduced by 10% across 40 locations starting Friday"
+        ],
+        "stakes_bullets": [
+          "• Transportation Secretary Sean Duffy said airline traffic will be reduced by 10% across 40 locations starting Friday"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "79eeb1a4bef5"
+    },
+    {
+      "id": "2e9e920f0693",
+      "title": "The federal government is still shut down. Here's what that means across the country",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/06/g-s1-96673/shutdown-government",
+      "published_at": "Thu, 06 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• The federal government is still shut down, in what is now the longest shutdown in U.S",
+        "• history",
+        "• Many federal workers have missed paychecks, including air traffic controllers",
+        "• The fate of federal food and nutrition benefits like SNAP, or SNAP, has been uncertain since Saturday "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The federal government is still shut down, in what is now the longest shutdown in U.S",
+          "• history"
+        ],
+        "hopeful_bullets": [
+          "• The federal government is still shut down, in what is now the longest shutdown in U.S",
+          "• history"
+        ],
+        "stakes_bullets": [
+          "• The federal government is still shut down, in what is now the longest shutdown in U.S",
+          "• history",
+          "• Many federal workers have missed paychecks, including air traffic controllers"
+        ]
+      },
+      "read_minutes": 25,
+      "cluster_id": "d3224963b48d"
+    },
+    {
+      "id": "602ebcd6c58e",
+      "title": "Is your electric bill going up? AI is partly to blame",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai",
+      "published_at": "Thu, 06 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• Electricity prices have jumped 40% since February 2020, according to the Bureau of Labor Statistics",
+        "• That's a bigger jump than the 26% increase in the overall cost of living",
+        "• Demand for electricity has increased in recent years, partly because of new data centers "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Electricity prices have jumped 40% since February 2020, according to the Bureau of Labor Statistics",
+          "• That's a bigger jump than the 26% increase in the overall cost of living"
+        ],
+        "hopeful_bullets": [
+          "• Electricity prices have jumped 40% since February 2020, according to the Bureau of Labor Statistics",
+          "• That's a bigger jump than the 26% increase in the overall cost of living"
+        ],
+        "stakes_bullets": [
+          "• That's a bigger jump than the 26% increase in the overall cost of living",
+          "• Demand for electricity has increased in recent years, partly because of new data centers "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "8216dff025d1"
+    },
+    {
+      "id": "43f1bc3fbfb5",
+      "title": "ICE is sending a chill through the construction industry",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/06/nx-s1-5575539/ice-immigration-construction-latino-workers",
+      "published_at": "Thu, 06 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• ICE checkpoints have swept up Latino workers on their way to and from work in D.C",
+        "• Rurick Palomino, a U.S",
+        "• citizen, built his construction firm from scratch after earning an engineering degree and learning the trade firsthand",
+        "• \"There's plenty of work — a lot of mega-projects coming — but I'm afraid to take more,\" he says "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ICE checkpoints have swept up Latino workers on their way to and from work in D.C",
+          "• Rurick Palomino, a U.S"
+        ],
+        "hopeful_bullets": [
+          "• ICE checkpoints have swept up Latino workers on their way to and from work in D.C",
+          "• Rurick Palomino, a U.S"
+        ],
+        "stakes_bullets": [
+          "• ICE checkpoints have swept up Latino workers on their way to and from work in D.C",
+          "• Rurick Palomino, a U.S",
+          "• citizen, built his construction firm from scratch after earning an engineering degree and learning the trade firsthand"
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "9ba974a77bda"
+    },
+    {
+      "id": "347d10b4d2b2",
+      "title": "The government shutdown is delaying an assistance program families use to heat homes",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/06/nx-s1-5598497/government-shutdown-delays-heat-homes-electric-bills-pennsylvania",
+      "published_at": "Thu, 06 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• Low-Income Home Energy Assistance Program is a program that helps families pay their bills",
+        "• The government shutdown has delayed federal funding for the program",
+        "• Pennsylvania has delayed the start of its program by a month",
+        "• Some states are using money left over from last season to give emergency assistance "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Low-Income Home Energy Assistance Program is a program that helps families pay their bills",
+          "• The government shutdown has delayed federal funding for the program"
+        ],
+        "hopeful_bullets": [
+          "• Low-Income Home Energy Assistance Program is a program that helps families pay their bills"
+        ],
+        "stakes_bullets": [
+          "• Low-Income Home Energy Assistance Program is a program that helps families pay their bills"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "dcca73d8e56e"
+    },
+    {
+      "id": "294b2f25177f",
+      "title": "The DOJ has been firing judges with immigrant defense backgrounds",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/06/g-s1-96437/trump-immigration-judges-fired",
+      "published_at": "Thu, 06 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• The DOJ has been firing judges with immigrant defense backgrounds",
+        "• Kyra Lilien paused the hearing of an immigrant seeking asylum to read an email",
+        "• Tania Nemer was escorted out of the Cleveland immigration court in February",
+        "• Anam Petit was hired as an immigration judge in Virginia's Annandale Immigration Court in September "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The DOJ has been firing judges with immigrant defense backgrounds",
+          "• Kyra Lilien paused the hearing of an immigrant seeking asylum to read an email"
+        ],
+        "hopeful_bullets": [
+          "• The DOJ has been firing judges with immigrant defense backgrounds",
+          "• Kyra Lilien paused the hearing of an immigrant seeking asylum to read an email"
+        ],
+        "stakes_bullets": [
+          "• The DOJ has been firing judges with immigrant defense backgrounds",
+          "• Kyra Lilien paused the hearing of an immigrant seeking asylum to read an email",
+          "• Tania Nemer was escorted out of the Cleveland immigration court in February"
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "573b9f5a56dd"
+    },
+    {
+      "id": "49f542c2615b",
+      "title": "Trump says election puts shutdown pressure on Republicans but wants to end filibuster",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/06/nx-s1-5600150/shutdown-politics-election-filibuster-trump",
+      "published_at": "Thu, 06 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• President Trump says election puts shutdown pressure on Republicans but wants to end filibuster",
+        "• Democrats won in races up and down the ballot and across the country with a message focused on affordability and opposing Trump administration policies",
+        "• The president has consistently framed the shutdown as something Democrats have caused and only Democrats can solve it "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Trump says election puts shutdown pressure on Republicans but wants to end filibuster",
+          "• Democrats won in races up and down the ballot and across the country with a message focused on affordability and opposing Trump administration policies"
+        ],
+        "hopeful_bullets": [
+          "• President Trump says election puts shutdown pressure on Republicans but wants to end filibuster",
+          "• Democrats won in races up and down the ballot and across the country with a message focused on affordability and opposing Trump administration policies"
+        ],
+        "stakes_bullets": [
+          "• The president has consistently framed the shutdown as something Democrats have caused and only Democrats can solve it "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "1ca2fac81b88"
+    },
+    {
+      "id": "d5b00ea5ceef",
+      "title": "Trump plan for smaller SNAP benefits this month may leave millions with none at all",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/06/nx-s1-5600097/snap-partial-payments-trump-administration",
+      "published_at": "Thu, 06 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• Trump plan for smaller SNAP benefits this month may leave millions with none at all",
+        "• Center for Budget and Policy Priorities analyzed partial SNAP benefits payment plan sent to states",
+        "• Some 1-to-2 person households will get just $12, and as many as 1.2 million households will receive $0 "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump plan for smaller SNAP benefits this month may leave millions with none at all",
+          "• Center for Budget and Policy Priorities analyzed partial SNAP benefits payment plan sent to states"
+        ],
+        "hopeful_bullets": [
+          "• Trump plan for smaller SNAP benefits this month may leave millions with none at all",
+          "• Center for Budget and Policy Priorities analyzed partial SNAP benefits payment plan sent to states"
+        ],
+        "stakes_bullets": [
+          "• Trump plan for smaller SNAP benefits this month may leave millions with none at all",
+          "• Center for Budget and Policy Priorities analyzed partial SNAP benefits payment plan sent to states",
+          "• Some 1-to-2 person households will get just $12, and as many as 1.2 million households will receive $0 "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "89efe2a50050"
     },
     {
       "id": "1b1103f796fd",
@@ -5769,6 +5732,41 @@
       "cluster_id": "b4bd8dacadf9"
     },
     {
+      "id": "39b4ec739560",
+      "title": "Astronomers discover dying stars eating their planets",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251106003158.htm",
+      "published_at": "Thu, 06 Nov 2025 04:34:01 EST",
+      "bullets": [
+        "• Astronomers use NASA's TESS telescope to study nearly half a million stars",
+        "• They found far fewer close-orbiting planets around older, expanded stars",
+        "• This pattern suggests many of these planets have already been destroyed",
+        "• For our Sun, this dramatic phase is expected to occur in roughly five billion years "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Astronomers use NASA's TESS telescope to study nearly half a million stars",
+          "• They found far fewer close-orbiting planets around older, expanded stars"
+        ],
+        "hopeful_bullets": [
+          "• Astronomers use NASA's TESS telescope to study nearly half a million stars",
+          "• They found far fewer close-orbiting planets around older, expanded stars"
+        ],
+        "stakes_bullets": [
+          "• They found far fewer close-orbiting planets around older, expanded stars",
+          "• This pattern suggests many of these planets have already been destroyed",
+          "• For our Sun, this dramatic phase is expected to occur in roughly five billion years "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "09eca0b867bf"
+    },
+    {
       "id": "d0d851d07da8",
       "title": "The All-Time Greatest Toonami Anime From The 90s & 2000s, Ranked",
       "outlet": "CBR",
@@ -5869,6 +5867,41 @@
       },
       "read_minutes": 2,
       "cluster_id": "7f844bfc31a1"
+    },
+    {
+      "id": "8d6db89429b3",
+      "title": "Robinhood doubles revenue as it beats third-quarter earnings expectations",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/05/robinhood-hood-q3-2025-earnings.html",
+      "published_at": "Thu, 06 Nov 2025 03:48:12 GMT",
+      "bullets": [
+        "• Robinhood is one of the biggest large-cap U.S",
+        "• tech stocks this year",
+        "• The company beat Wall Street expectations for the third quarter",
+        "• Revenue doubled year-over-year, net income climbed to $556 million, or 61 cents per share "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Robinhood is one of the biggest large-cap U.S",
+          "• tech stocks this year"
+        ],
+        "hopeful_bullets": [
+          "• Robinhood is one of the biggest large-cap U.S",
+          "• tech stocks this year"
+        ],
+        "stakes_bullets": [
+          "• Robinhood is one of the biggest large-cap U.S",
+          "• tech stocks this year",
+          "• The company beat Wall Street expectations for the third quarter"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "698320935d9c"
     },
     {
       "id": "d311307b33dd",
@@ -6333,38 +6366,6 @@
       "cluster_id": "e5493e5f2459"
     },
     {
-      "id": "b1f11f45544a",
-      "title": "What to know about the deadly UPS plane crash in Louisville, Kentucky",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/06/g-s1-96748/deadly-ups-plane-crash-kentucky",
-      "published_at": "Thu, 06 Nov 2025 01:42:41 -0500",
-      "bullets": [
-        "• Investigators will closely examine the aircraft's maintenance records and data recorder after finding that one of its engines fell off during takeoff",
-        "• The plane crashed and burst into flames on Tuesday in Louisville, killing at least 12 people and injuring nearly 20 others",
-        "• The disaster also shut down the largest UPS package distribution hub and disrupted some flights in and out of the airport "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Investigators will closely examine the aircraft's maintenance records and data recorder after finding that one of its engines fell off during takeoff",
-          "• The plane crashed and burst into flames on Tuesday in Louisville, killing at least 12 people and injuring nearly 20 others"
-        ],
-        "hopeful_bullets": [
-          "• Investigators will closely examine the aircraft's maintenance records and data recorder after finding that one of its engines fell off during takeoff"
-        ],
-        "stakes_bullets": [
-          "• Investigators will closely examine the aircraft's maintenance records and data recorder after finding that one of its engines fell off during takeoff",
-          "• The plane crashed and burst into flames on Tuesday in Louisville, killing at least 12 people and injuring nearly 20 others"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "3243daa20314"
-    },
-    {
       "id": "913435abcd66",
       "title": "A near upset in North Texas Senate race jolts frayed Democratic hopes ahead of 2026",
       "outlet": "The Texas Tribune",
@@ -6429,40 +6430,6 @@
       "cluster_id": "1448ba33858b"
     },
     {
-      "id": "e2de74bc95e1",
-      "title": "Japan deploys the military to counter a surge in bear attacks",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/06/nx-s1-5600582/japan-bear-attacks",
-      "published_at": "Thu, 06 Nov 2025 01:28:34 -0500",
-      "bullets": [
-        "• Japan deploys the military to counter a surge in bear attacks that have terrorized residents in a mountainous region",
-        "• Reports of sometimes deadly encounters with brown bears and Asiatic black bears are being reported almost daily",
-        "• They have been seen near schools, train stations, supermarkets and at a hot springs resort",
-        "• The government estimates the overall bear population at more than 54,000 "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.811
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan deploys the military to counter a surge in bear attacks that have terrorized residents in a mountainous region",
-          "• Reports of sometimes deadly encounters with brown bears and Asiatic black bears are being reported almost daily"
-        ],
-        "hopeful_bullets": [
-          "• Japan deploys the military to counter a surge in bear attacks that have terrorized residents in a mountainous region"
-        ],
-        "stakes_bullets": [
-          "• Japan deploys the military to counter a surge in bear attacks that have terrorized residents in a mountainous region",
-          "• Reports of sometimes deadly encounters with brown bears and Asiatic black bears are being reported almost daily",
-          "• They have been seen near schools, train stations, supermarkets and at a hot springs resort"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b96ed2a9f782"
-    },
-    {
       "id": "8c2aa353f9f7",
       "title": "Third Michigan man arrested over alleged Halloween terror plot",
       "outlet": "US news | The Guardian",
@@ -6497,7 +6464,7 @@
     {
       "id": "aabf4484205e",
       "title": "Judge in Comey case scolds prosecutors as he orders them to produce records from probe",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/11/06/nx-s1-5600580/judge-comey-probe-evidence",
       "published_at": "Thu, 06 Nov 2025 01:12:38 -0500",
       "bullets": [
@@ -6505,7 +6472,7 @@
         "• He has pleaded not guilty, and his lawyers have argued that it's a vindictive prosecution brought at the direction of the Republican president",
         "• A federal judge orders prosecutors to produce grand jury materials and other evidence "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.995
@@ -6560,74 +6527,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "20c7d4d53916"
-    },
-    {
-      "id": "78efd263834f",
-      "title": "After battering the Philippines, deadly Typhoon Kalmaegi moves toward Vietnam",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/06/g-s1-96736/deadly-typhoon-kalmaegi",
-      "published_at": "Thu, 06 Nov 2025 01:09:35 -0500",
-      "bullets": [
-        "• Philippine President Ferdinand Marcos Jr",
-        "• declares a state of emergency after Typhoon Kalmaegi leaves 114 dead",
-        "• The typhoon's onslaught affected nearly 2 million people and displaced more than 560,000 villagers",
-        "• High tides are expected on the Saigon River, while parts of the city could see up to 100 millimeters of rain "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.835
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Philippine President Ferdinand Marcos Jr",
-          "• declares a state of emergency after Typhoon Kalmaegi leaves 114 dead"
-        ],
-        "hopeful_bullets": [
-          "• Philippine President Ferdinand Marcos Jr",
-          "• declares a state of emergency after Typhoon Kalmaegi leaves 114 dead"
-        ],
-        "stakes_bullets": [
-          "• The typhoon's onslaught affected nearly 2 million people and displaced more than 560,000 villagers",
-          "• High tides are expected on the Saigon River, while parts of the city could see up to 100 millimeters of rain "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "89d47c4d9a56"
-    },
-    {
-      "id": "6f248dfe8119",
-      "title": "Trump goes on posting frenzy a day after Democrats win key elections",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/05/trump-truth-social-posts",
-      "published_at": "Thu, 06 Nov 2025 01:07:37 GMT",
-      "bullets": [
-        "• Donald Trump posted 33 Truth Social posts in less than three hours on Wednesday",
-        "• The posts came a day after Democrats won in a series of elections across the United States in New York, California, Virginia, and New Jersey",
-        "• Trump made recommendations to his followers to buy books written by former FBI special agent Nicole Parker, Fox News political analyst Gianno Caldwell, Georgia congressman Barry Loudermilk, and his own former lawyer, Christina Bobb "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump posted 33 Truth Social posts in less than three hours on Wednesday",
-          "• The posts came a day after Democrats won in a series of elections across the United States in New York, California, Virginia, and New Jersey"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump posted 33 Truth Social posts in less than three hours on Wednesday",
-          "• The posts came a day after Democrats won in a series of elections across the United States in New York, California, Virginia, and New Jersey"
-        ],
-        "stakes_bullets": [
-          "• Donald Trump posted 33 Truth Social posts in less than three hours on Wednesday",
-          "• The posts came a day after Democrats won in a series of elections across the United States in New York, California, Virginia, and New Jersey",
-          "• Trump made recommendations to his followers to buy books written by former FBI special agent Nicole Parker, Fox News political analyst Gianno Caldwell, Georgia congressman Barry Loudermilk, and his own former lawyer, Christina Bobb "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "73368f3fa931"
     },
     {
       "id": "174adc947b0f",
@@ -6725,6 +6624,39 @@
       },
       "read_minutes": 4,
       "cluster_id": "65ef432c179f"
+    },
+    {
+      "id": "1d8a6ecb622c",
+      "title": "ICE forcibly detains daycare worker amid scrutiny over excessive force use",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/chicago-ice-agents-detain-daycare-worker",
+      "published_at": "Thu, 06 Nov 2025 00:00:30 GMT",
+      "bullets": [
+        "• ICE agents forcibly detained a worker at the Rayito de Sol daycare center in the city’s North Side neighborhood after pursuing her into the facility on Wednesday morning",
+        "• Videos taken by bystanders show ICE agents dragging the woman out of the daycare before pinning her against a parked car as they attempted to handcuff her",
+        "• At the same time witnesses described the use of excessive force by federal officers during a court hearing "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ICE agents forcibly detained a worker at the Rayito de Sol daycare center in the city’s North Side neighborhood after pursuing her into the facility on Wednesday morning",
+          "• Videos taken by bystanders show ICE agents dragging the woman out of the daycare before pinning her against a parked car as they attempted to handcuff her"
+        ],
+        "hopeful_bullets": [
+          "• Videos taken by bystanders show ICE agents dragging the woman out of the daycare before pinning her against a parked car as they attempted to handcuff her"
+        ],
+        "stakes_bullets": [
+          "• ICE agents forcibly detained a worker at the Rayito de Sol daycare center in the city’s North Side neighborhood after pursuing her into the facility on Wednesday morning",
+          "• Videos taken by bystanders show ICE agents dragging the woman out of the daycare before pinning her against a parked car as they attempted to handcuff her",
+          "• At the same time witnesses described the use of excessive force by federal officers during a court hearing "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "4b88b97e21d4"
     },
     {
       "id": "74a7d9f535a1",
@@ -7558,37 +7490,6 @@
       "cluster_id": "fbcced96e063"
     },
     {
-      "id": "9ec8a8ef63e7",
-      "title": "At least 36,000 Sudanese have fled since fall of El Fasher to RSF, says UN agency",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/nov/03/sudanese-refugees-el-fasher-rsf-tawila-un",
-      "published_at": "Mon, 03 Nov 2025 16:36:56 GMT",
-      "bullets": [
-        "• More than 36,000 people have fled Sudan’s Kordofan region since Saturday amid a surge in fighting",
-        "• The area has become the latest battleground in the two-year civil war between the armed forces (SAF) and paramilitary group Rapid Support Forces "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.518
-      },
-      "moods": {
-        "brief_bullets": [
-          "• More than 36,000 people have fled Sudan’s Kordofan region since Saturday amid a surge in fighting",
-          "• The area has become the latest battleground in the two-year civil war between the armed forces (SAF) and paramilitary group Rapid Support Forces "
-        ],
-        "hopeful_bullets": [
-          "• More than 36,000 people have fled Sudan’s Kordofan region since Saturday amid a surge in fighting"
-        ],
-        "stakes_bullets": [
-          "• More than 36,000 people have fled Sudan’s Kordofan region since Saturday amid a surge in fighting",
-          "• The area has become the latest battleground in the two-year civil war between the armed forces (SAF) and paramilitary group Rapid Support Forces "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "3efdb3e8d37f"
-    },
-    {
       "id": "4d75a373e968",
       "title": "Horror Highlights: NIGHTMARE GIRL: NIGHTSHADE ANTHOLOGY BOOK 5, BLACK PHONE 2, BLOODY DISGUSTING",
       "outlet": "Daily Dead",
@@ -8340,6 +8241,72 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "0665824025d1",
+      "title": "Tinder’s AI can find better matches by scanning your camera roll",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test",
+      "published_at": "2025-11-06T05:03:50-05:00",
+      "bullets": [
+        "• Match has added an AI feature that can help users find matches by scanning photos",
+        "• The feature is already available in Australia and New Zealand",
+        "• It's designed to combat “swipe fatigue’s” problem, which has been in decline for more than two years "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Match has added an AI feature that can help users find matches by scanning photos",
+          "• The feature is already available in Australia and New Zealand"
+        ],
+        "hopeful_bullets": [
+          "• Match has added an AI feature that can help users find matches by scanning photos"
+        ],
+        "stakes_bullets": [
+          "• Match has added an AI feature that can help users find matches by scanning photos",
+          "• The feature is already available in Australia and New Zealand",
+          "• It's designed to combat “swipe fatigue’s” problem, which has been in decline for more than two years "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "bd857a7b2d31"
+    },
+    {
+      "id": "85da3362cc43",
+      "title": "How deep-sea mining could threaten a vital ocean food source",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/814694/deep-sea-mining-waste-battery-metals-research-trump",
+      "published_at": "2025-11-06T05:00:00-05:00",
+      "bullets": [
+        "• The race to mine battery minerals from the ocean floor would create a new stream of waste that could rob sea life of a critical food source",
+        "• That could have far-reaching effects across the ocean, potentially reaching larger fish like tuna that people depend on for food and livelihoods",
+        "• The first company to apply for an international mining permit from the Trump administration actually funded this study "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The race to mine battery minerals from the ocean floor would create a new stream of waste that could rob sea life of a critical food source",
+          "• That could have far-reaching effects across the ocean, potentially reaching larger fish like tuna that people depend on for food and livelihoods"
+        ],
+        "hopeful_bullets": [
+          "• The race to mine battery minerals from the ocean floor would create a new stream of waste that could rob sea life of a critical food source",
+          "• That could have far-reaching effects across the ocean, potentially reaching larger fish like tuna that people depend on for food and livelihoods"
+        ],
+        "stakes_bullets": [
+          "• The race to mine battery minerals from the ocean floor would create a new stream of waste that could rob sea life of a critical food source",
+          "• That could have far-reaching effects across the ocean, potentially reaching larger fish like tuna that people depend on for food and livelihoods"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "4fd94526a0c4"
+    },
+    {
       "id": "d75275d50183",
       "title": "Canon adds a 32-megapixel sensor and 7K video to the new EOS R6 Mark III",
       "outlet": "The Verge",
@@ -8604,74 +8571,6 @@
       "cluster_id": "8cda497e14b8"
     },
     {
-      "id": "068dc4c4299d",
-      "title": "The keyboard of choice for modular synth nerds gets a proper sequel after 10 years",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/814658/the-keyboard-of-choice-for-modular-synth-nerds-gets-a-proper-sequel-after-10-years",
-      "published_at": "2025-11-05T15:28:17-05:00",
-      "bullets": [
-        "• The Arturia KeyStep is the keyboard of choice for modular synth nerds",
-        "• The KeyStep mk2 is tiny, feature-packed, and surprisingly affordable",
-        "• The core of what makes the KeyStep beloved remains unchanged: 32 solid minikeys with aftertouch, a small footprint, decent connectivity options "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Arturia KeyStep is the keyboard of choice for modular synth nerds",
-          "• The KeyStep mk2 is tiny, feature-packed, and surprisingly affordable"
-        ],
-        "hopeful_bullets": [
-          "• The Arturia KeyStep is the keyboard of choice for modular synth nerds",
-          "• The KeyStep mk2 is tiny, feature-packed, and surprisingly affordable"
-        ],
-        "stakes_bullets": [
-          "• The Arturia KeyStep is the keyboard of choice for modular synth nerds",
-          "• The KeyStep mk2 is tiny, feature-packed, and surprisingly affordable",
-          "• The core of what makes the KeyStep beloved remains unchanged: 32 solid minikeys with aftertouch, a small footprint, decent connectivity options "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ba50338be526"
-    },
-    {
-      "id": "a4249948412c",
-      "title": "Baseball broke containment during the World Series",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/report/814483/world-series-dodgers-blue-jays-fandom-social-media",
-      "published_at": "2025-11-05T15:26:53-05:00",
-      "bullets": [
-        "• Around 26 million people in the US watched the game on Saturday, making it the most-watched World Series game since 2017",
-        "• Around 45 percent of the Canadian population tuned in for at least part of the game",
-        "• Viewership peaked at 31.5 million between 11:30PM and 11:45PM ET "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.951
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Around 26 million people in the US watched the game on Saturday, making it the most-watched World Series game since 2017",
-          "• Around 45 percent of the Canadian population tuned in for at least part of the game"
-        ],
-        "hopeful_bullets": [
-          "• Around 26 million people in the US watched the game on Saturday, making it the most-watched World Series game since 2017",
-          "• Around 45 percent of the Canadian population tuned in for at least part of the game"
-        ],
-        "stakes_bullets": [
-          "• Around 26 million people in the US watched the game on Saturday, making it the most-watched World Series game since 2017",
-          "• Around 45 percent of the Canadian population tuned in for at least part of the game",
-          "• Viewership peaked at 31.5 million between 11:30PM and 11:45PM ET "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "0525cdd1a535"
-    },
-    {
       "id": "c41ff758b36a",
       "title": "CNN Political Briefing",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -8806,73 +8705,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "8a1f3b14891e"
-    },
-    {
-      "id": "3f34aedec4e5",
-      "title": "The Numbers Business Report: 2026 Q3 Box Office Prediction",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260230830-Numbers-Business-Report-2026-Q3-Box-Office-Prediction-The",
-      "published_at": null,
-      "bullets": [
-        "• The Numbers Business Report: 2026 Q3 Box Office Prediction",
-        "• July’s releases dominate the third quarter at the box office, led by major franchise continuations and the highly anticipated Christopher Nolan film, The Odyssey",
-        "• Other notable franchise releases include the live-action Moana, a sixth Insidious movie, Clayface joining the DC Universe, a reboot of the Resident Evil franchise "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.754
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Numbers Business Report: 2026 Q3 Box Office Prediction",
-          "• July’s releases dominate the third quarter at the box office, led by major franchise continuations and the highly anticipated Christopher Nolan film, The Odyssey"
-        ],
-        "hopeful_bullets": [
-          "• The Numbers Business Report: 2026 Q3 Box Office Prediction",
-          "• July’s releases dominate the third quarter at the box office, led by major franchise continuations and the highly anticipated Christopher Nolan film, The Odyssey"
-        ],
-        "stakes_bullets": [
-          "• The Numbers Business Report: 2026 Q3 Box Office Prediction",
-          "• July’s releases dominate the third quarter at the box office, led by major franchise continuations and the highly anticipated Christopher Nolan film, The Odyssey",
-          "• Other notable franchise releases include the live-action Moana, a sixth Insidious movie, Clayface joining the DC Universe, a reboot of the Resident Evil franchise "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6fce325fa1e4"
-    },
-    {
-      "id": "6b6ad74c1b8c",
-      "title": "Weekend projections: Paramount claims top spot for Regretting You on exceptionally quiet weekend",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260220830-Weekend-projections-Paramount-claims-top-spot-for-Regretting-You-on-exceptionally-quiet-weekend",
-      "published_at": null,
-      "bullets": [
-        "• The combined box office of all movies reporting so far stands at less than $50 million",
-        "• The one bright spot is arguably a surprise win for Regretting You, which is holding quite well in its second weekend",
-        "• Paramount is expecting another good day today, with $3.1 million, compared to Universal’s prediction of $2.09 million "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The combined box office of all movies reporting so far stands at less than $50 million",
-          "• The one bright spot is arguably a surprise win for Regretting You, which is holding quite well in its second weekend"
-        ],
-        "hopeful_bullets": [
-          "• The one bright spot is arguably a surprise win for Regretting You, which is holding quite well in its second weekend"
-        ],
-        "stakes_bullets": [
-          "• The combined box office of all movies reporting so far stands at less than $50 million",
-          "• The one bright spot is arguably a surprise win for Regretting You, which is holding quite well in its second weekend",
-          "• Paramount is expecting another good day today, with $3.1 million, compared to Universal’s prediction of $2.09 million "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1a711d06924f"
     },
     {
       "id": "b9628f22d671",
@@ -9319,6 +9151,24 @@
       ]
     },
     {
+      "id": "2e7c5aa42a39",
+      "topic": "beacon mamdani nyc ugandan",
+      "keywords": [
+        "beacon",
+        "mamdani",
+        "nyc",
+        "ugandan",
+        "view",
+        "win"
+      ],
+      "item_ids": [
+        "8b0504a77871"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "28b72371f017",
       "topic": "accused against crime general",
       "keywords": [
@@ -9391,18 +9241,18 @@
       ]
     },
     {
-      "id": "3efdb3e8d37f",
-      "topic": "000 fall fled least",
+      "id": "02dee18dd6a6",
+      "topic": "climate hurricane melissa multiplied",
       "keywords": [
-        "000",
-        "fall",
-        "fled",
-        "least",
-        "since",
-        "sudanese"
+        "climate",
+        "hurricane",
+        "melissa",
+        "multiplied",
+        "reality",
+        "strength"
       ],
       "item_ids": [
-        "9ec8a8ef63e7"
+        "51e2c96cf506"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -9475,24 +9325,6 @@
       ],
       "item_ids": [
         "09e45b61cd9c"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "4bfe2a28918e",
-      "topic": "brazil deadly independent inquiry",
-      "keywords": [
-        "brazil",
-        "deadly",
-        "independent",
-        "inquiry",
-        "police",
-        "seek"
-      ],
-      "item_ids": [
-        "10a962906634"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -9643,39 +9475,182 @@
       ]
     },
     {
-      "id": "73368f3fa931",
-      "topic": "day democrat frenzy goes",
+      "id": "4b88b97e21d4",
+      "topic": "daycare detain forcibly ice",
       "keywords": [
-        "day",
-        "democrat",
-        "frenzy",
-        "goes",
-        "posting",
-        "trump"
+        "daycare",
+        "detain",
+        "forcibly",
+        "ice",
+        "scrutiny",
+        "worker"
       ],
       "item_ids": [
-        "6f248dfe8119"
+        "1d8a6ecb622c"
       ],
       "outlets": [
         "US news | The Guardian"
       ]
     },
     {
-      "id": "419ea1a945ff",
-      "topic": "lawmaker mexico nominate oversee",
+      "id": "83da33ce7111",
+      "topic": "leave limbo medicare patient",
       "keywords": [
-        "lawmaker",
-        "mexico",
-        "nominate",
-        "oversee",
-        "public",
+        "leave",
+        "limbo",
+        "medicare",
+        "patient",
+        "shutdown",
+        "telehealth"
+      ],
+      "item_ids": [
+        "6f23d424c7a9"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "79eeb1a4bef5",
+      "topic": "affect government here shutdown",
+      "keywords": [
+        "affect",
+        "government",
+        "here",
+        "shutdown",
+        "thanksgiving",
+        "travel"
+      ],
+      "item_ids": [
+        "a3e10436437f"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "d3224963b48d",
+      "topic": "down federal government here",
+      "keywords": [
+        "down",
+        "federal",
+        "government",
+        "here",
+        "shut",
+        "still"
+      ],
+      "item_ids": [
+        "2e9e920f0693"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "8216dff025d1",
+      "topic": "bill blame electric going",
+      "keywords": [
+        "bill",
+        "blame",
+        "electric",
+        "going",
+        "partly"
+      ],
+      "item_ids": [
+        "602ebcd6c58e"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "9ba974a77bda",
+      "topic": "chill construction ice industry",
+      "keywords": [
+        "chill",
+        "construction",
+        "ice",
+        "industry",
+        "sending",
+        "through"
+      ],
+      "item_ids": [
+        "43f1bc3fbfb5"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "dcca73d8e56e",
+      "topic": "assistance delaying familie government",
+      "keywords": [
+        "assistance",
+        "delaying",
+        "familie",
+        "government",
+        "program",
+        "shutdown"
+      ],
+      "item_ids": [
+        "347d10b4d2b2"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "573b9f5a56dd",
+      "topic": "background defense doj firing",
+      "keywords": [
+        "background",
+        "defense",
+        "doj",
+        "firing",
+        "immigrant",
+        "judge"
+      ],
+      "item_ids": [
+        "294b2f25177f"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "1ca2fac81b88",
+      "topic": "election pressure puts republican",
+      "keywords": [
+        "election",
+        "pressure",
+        "puts",
+        "republican",
+        "shutdown",
         "trump"
       ],
       "item_ids": [
-        "f81c88ce332d"
+        "49f542c2615b"
       ],
       "outlets": [
-        "US news | The Guardian"
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "89efe2a50050",
+      "topic": "benefit month plan smaller",
+      "keywords": [
+        "benefit",
+        "month",
+        "plan",
+        "smaller",
+        "snap",
+        "trump"
+      ],
+      "item_ids": [
+        "d5b00ea5ceef"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9697,180 +9672,18 @@
       ]
     },
     {
-      "id": "3243daa20314",
-      "topic": "crash deadly know louisville",
+      "id": "d2b43bb091bc",
+      "topic": "ceo giant maersk outlook",
       "keywords": [
-        "crash",
-        "deadly",
-        "know",
-        "louisville",
-        "plane",
-        "ups"
+        "ceo",
+        "giant",
+        "maersk",
+        "outlook",
+        "raise",
+        "shipping"
       ],
       "item_ids": [
-        "b1f11f45544a"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "b96ed2a9f782",
-      "topic": "bear counter deploy japan",
-      "keywords": [
-        "bear",
-        "counter",
-        "deploy",
-        "japan",
-        "military",
-        "surge"
-      ],
-      "item_ids": [
-        "e2de74bc95e1"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "bd36f05b1f99",
-      "topic": "case comey judge order",
-      "keywords": [
-        "case",
-        "comey",
-        "judge",
-        "order",
-        "prosecutor",
-        "scold"
-      ],
-      "item_ids": [
-        "aabf4484205e"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "89d47c4d9a56",
-      "topic": "battering deadly kalmaegi move",
-      "keywords": [
-        "battering",
-        "deadly",
-        "kalmaegi",
-        "move",
-        "philippine",
-        "typhoon"
-      ],
-      "item_ids": [
-        "78efd263834f"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "495e6b5bcfba",
-      "topic": "air airport faa many",
-      "keywords": [
-        "air",
-        "airport",
-        "faa",
-        "many",
-        "reduce",
-        "traffic"
-      ],
-      "item_ids": [
-        "64c683661a00"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "12298358fc65",
-      "topic": "boat brief hegseth lawmaker",
-      "keywords": [
-        "boat",
-        "brief",
-        "hegseth",
-        "lawmaker",
-        "rubio",
-        "strike"
-      ],
-      "item_ids": [
-        "3fcad0241d4a"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "3bbc3da9ad07",
-      "topic": "democratic does mayor next",
-      "keywords": [
-        "democratic",
-        "does",
-        "mayor",
-        "next",
-        "nyc",
-        "socialist"
-      ],
-      "item_ids": [
-        "e23d447640f2"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "69c21ea939d0",
-      "topic": "declaration famine happened now",
-      "keywords": [
-        "declaration",
-        "famine",
-        "happened",
-        "now",
-        "rare",
-        "twice"
-      ],
-      "item_ids": [
-        "a65007e7b2ed"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "59977a0b43bf",
-      "topic": "american house judge order",
-      "keywords": [
-        "american",
-        "house",
-        "judge",
-        "order",
-        "use",
-        "white"
-      ],
-      "item_ids": [
-        "cfda9a193c02"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "1448ba33858b",
-      "topic": "400 forecast rocket share",
-      "keywords": [
-        "400",
-        "forecast",
-        "rocket",
-        "share",
-        "snap",
-        "strong"
-      ],
-      "item_ids": [
-        "af33d0612869"
+        "971571e424bb"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9895,24 +9708,6 @@
       ]
     },
     {
-      "id": "d2b43bb091bc",
-      "topic": "ceo giant maersk outlook",
-      "keywords": [
-        "ceo",
-        "giant",
-        "maersk",
-        "outlook",
-        "raise",
-        "shipping"
-      ],
-      "item_ids": [
-        "971571e424bb"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "b1adb4501951",
       "topic": "china huang jensen nvidia",
       "keywords": [
@@ -9931,110 +9726,147 @@
       ]
     },
     {
-      "id": "1db6a0c9ab09",
-      "topic": "autonomou chinese driving firm",
+      "id": "38bf5595d39f",
+      "topic": "beauty guidance plunge stock",
       "keywords": [
-        "autonomou",
-        "chinese",
-        "driving",
-        "firm",
-        "pony",
-        "sees"
+        "beauty",
+        "guidance",
+        "plunge",
+        "stock",
+        "tariff",
+        "weak"
       ],
       "item_ids": [
-        "f788700640cf"
+        "7e4eca073f88"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "8649a0424e69",
-      "topic": "bank call close cut",
+      "id": "817d407d02c8",
+      "topic": "company doordash earning misse",
       "keywords": [
-        "bank",
-        "call",
-        "close",
-        "cut",
-        "england",
-        "rate"
-      ],
-      "item_ids": [
-        "3c404569d3d2"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "8fd1b4f368b2",
-      "topic": "asia market pacific rise",
-      "keywords": [
-        "asia",
-        "market",
-        "pacific",
-        "rise",
-        "tracking",
-        "wall"
-      ],
-      "item_ids": [
-        "93f3d1777755"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "7ec82d2eb86f",
-      "topic": "expectation lucid misse narrow",
-      "keywords": [
-        "expectation",
-        "lucid",
+        "company",
+        "doordash",
+        "earning",
         "misse",
-        "narrow",
-        "street",
-        "wall"
+        "sink",
+        "stock"
       ],
       "item_ids": [
-        "6dd926c8ea0d"
+        "b4cbe732bfd7"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "3a51be4ab366",
-      "topic": "bashe democrat key mamdani",
+      "id": "1448ba33858b",
+      "topic": "400 forecast rocket share",
       "keywords": [
-        "bashe",
-        "democrat",
-        "key",
-        "mamdani",
-        "sweep",
-        "trump"
+        "400",
+        "forecast",
+        "rocket",
+        "share",
+        "snap",
+        "strong"
       ],
       "item_ids": [
-        "5d56a2b15dde"
+        "af33d0612869"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "c0fd0a238ee0",
-      "topic": "cramer jim market navigate",
+      "id": "698320935d9c",
+      "topic": "beat double quarter revenue",
       "keywords": [
-        "cramer",
-        "jim",
-        "market",
-        "navigate",
-        "selloff"
+        "beat",
+        "double",
+        "quarter",
+        "revenue",
+        "robinhood",
+        "third"
       ],
       "item_ids": [
-        "be988451cda2"
+        "8d6db89429b3"
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "c4a177a48592",
+      "topic": "beat earning issue qualcomm",
+      "keywords": [
+        "beat",
+        "earning",
+        "issue",
+        "qualcomm",
+        "report",
+        "revenue"
+      ],
+      "item_ids": [
+        "66984f5c70ff"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "8fea9d088875",
+      "topic": "authorize ended open starbuck",
+      "keywords": [
+        "authorize",
+        "ended",
+        "open",
+        "starbuck",
+        "strike",
+        "union"
+      ],
+      "item_ids": [
+        "ee73bf5c33a7"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "964f34d2bf73",
+      "topic": "balance debt household point",
+      "keywords": [
+        "balance",
+        "debt",
+        "household",
+        "point",
+        "rising",
+        "worsening"
+      ],
+      "item_ids": [
+        "613cbf29fc04"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "c76d0c8df9da",
+      "topic": "2025 best hotel pillow",
+      "keywords": [
+        "2025",
+        "best",
+        "hotel",
+        "pillow",
+        "plane",
+        "travel"
+      ],
+      "item_ids": [
+        "e2d78661cd12"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10182,20 +10014,39 @@
       ]
     },
     {
-      "id": "6265440a3f15",
-      "topic": "better democrat did expected",
+      "id": "bd857a7b2d31",
+      "topic": "better camera find matche",
       "keywords": [
         "better",
-        "democrat",
-        "did",
-        "expected",
-        "much"
+        "camera",
+        "find",
+        "matche",
+        "scanning",
+        "tinder"
       ],
       "item_ids": [
-        "d3e9a2bbcea1"
+        "0665824025d1"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
+      ]
+    },
+    {
+      "id": "4fd94526a0c4",
+      "topic": "deep mining ocean sea",
+      "keywords": [
+        "deep",
+        "mining",
+        "ocean",
+        "sea",
+        "threaten",
+        "vital"
+      ],
+      "item_ids": [
+        "85da3362cc43"
+      ],
+      "outlets": [
+        "The Verge"
       ]
     },
     {
@@ -10333,42 +10184,6 @@
       ],
       "item_ids": [
         "8410015ee151"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "ba50338be526",
-      "topic": "choice gets keyboard modular",
-      "keywords": [
-        "choice",
-        "gets",
-        "keyboard",
-        "modular",
-        "nerd",
-        "synth"
-      ],
-      "item_ids": [
-        "068dc4c4299d"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "0525cdd1a535",
-      "topic": "baseball broke containment during",
-      "keywords": [
-        "baseball",
-        "broke",
-        "containment",
-        "during",
-        "serie",
-        "world"
-      ],
-      "item_ids": [
-        "a4249948412c"
       ],
       "outlets": [
         "The Verge"
@@ -10553,6 +10368,41 @@
       ]
     },
     {
+      "id": "7c6a65c45e56",
+      "topic": "already down slowing started",
+      "keywords": [
+        "already",
+        "down",
+        "slowing",
+        "started",
+        "universe"
+      ],
+      "item_ids": [
+        "a52807572e44"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "09eca0b867bf",
+      "topic": "astronomer discover dying eating",
+      "keywords": [
+        "astronomer",
+        "discover",
+        "dying",
+        "eating",
+        "planet",
+        "star"
+      ],
+      "item_ids": [
+        "39b4ec739560"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "65ef432c179f",
       "topic": "brain find fuel hidden",
       "keywords": [
@@ -10691,41 +10541,6 @@
       ],
       "item_ids": [
         "85d1a20eb03b"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "fa2136ad99c8",
-      "topic": "air cockroache indoor poisoning",
-      "keywords": [
-        "air",
-        "cockroache",
-        "indoor",
-        "poisoning",
-        "secretly"
-      ],
-      "item_ids": [
-        "ce5b7abc6848"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "fbe1399656e4",
-      "topic": "dark heart lighting matter",
-      "keywords": [
-        "dark",
-        "heart",
-        "lighting",
-        "matter",
-        "milky",
-        "way"
-      ],
-      "item_ids": [
-        "18df29cbdbc5"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10908,6 +10723,24 @@
       ]
     },
     {
+      "id": "bd36f05b1f99",
+      "topic": "case comey judge order",
+      "keywords": [
+        "case",
+        "comey",
+        "judge",
+        "order",
+        "prosecutor",
+        "scold"
+      ],
+      "item_ids": [
+        "aabf4484205e"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "31ad7387c868",
       "topic": "congressman end gerrymandering good",
       "keywords": [
@@ -10920,60 +10753,6 @@
       ],
       "item_ids": [
         "b68032bee770"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "3ee39328c9a3",
-      "topic": "hopeful mamdani opening politic",
-      "keywords": [
-        "hopeful",
-        "mamdani",
-        "opening",
-        "politic",
-        "see",
-        "supporter"
-      ],
-      "item_ids": [
-        "03a2026381b4"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "39ba7bed431e",
-      "topic": "democrat election learn off",
-      "keywords": [
-        "democrat",
-        "election",
-        "learn",
-        "off",
-        "victorie",
-        "year"
-      ],
-      "item_ids": [
-        "776d1bbb2a73"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "30674f49331d",
-      "topic": "2025 beyond big democrat",
-      "keywords": [
-        "2025",
-        "beyond",
-        "big",
-        "democrat",
-        "election",
-        "wins"
-      ],
-      "item_ids": [
-        "23a049918409"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11132,6 +10911,24 @@
       ]
     },
     {
+      "id": "419ea1a945ff",
+      "topic": "lawmaker mexico nominate oversee",
+      "keywords": [
+        "lawmaker",
+        "mexico",
+        "nominate",
+        "oversee",
+        "public",
+        "trump"
+      ],
+      "item_ids": [
+        "f81c88ce332d"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "389f86d3a153",
       "topic": "california days man snowy",
       "keywords": [
@@ -11276,21 +11073,57 @@
       ]
     },
     {
-      "id": "8360da05b660",
-      "topic": "defend green leading plan",
+      "id": "f4f88d0aefb1",
+      "topic": "another dry england hits",
       "keywords": [
-        "defend",
-        "green",
-        "leading",
-        "plan",
-        "starmer",
-        "way"
+        "another",
+        "dry",
+        "england",
+        "hits",
+        "raising",
+        "spell"
       ],
       "item_ids": [
-        "5ac5540cce74"
+        "9c2698331ef8"
       ],
       "outlets": [
-        "Environment | The Guardian"
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "6bf53a9a94fa",
+      "topic": "country county good move",
+      "keywords": [
+        "country",
+        "county",
+        "good",
+        "move",
+        "through",
+        "truck"
+      ],
+      "item_ids": [
+        "867abfd3085c"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "5a2b8795dea8",
+      "topic": "hurricane impact midwest remnant",
+      "keywords": [
+        "hurricane",
+        "impact",
+        "midwest",
+        "remnant",
+        "storm",
+        "tropical"
+      ],
+      "item_ids": [
+        "caab75ce6964"
+      ],
+      "outlets": [
+        "Inside Climate News"
       ]
     },
     {
@@ -11417,93 +11250,6 @@
       ],
       "outlets": [
         "Inside Climate News"
-      ]
-    },
-    {
-      "id": "2a73642a3add",
-      "topic": "action climate lagging report",
-      "keywords": [
-        "action",
-        "climate",
-        "lagging",
-        "report",
-        "warn"
-      ],
-      "item_ids": [
-        "e3f568c85760"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "3bceb97a6e35",
-      "topic": "court divided environmental far",
-      "keywords": [
-        "court",
-        "divided",
-        "environmental",
-        "far",
-        "federal",
-        "trump"
-      ],
-      "item_ids": [
-        "0ced5f68786d"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "25f6a2400c52",
-      "topic": "case environmental scorecard trump",
-      "keywords": [
-        "case",
-        "environmental",
-        "scorecard",
-        "trump"
-      ],
-      "item_ids": [
-        "34bef137db85"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "6fce325fa1e4",
-      "topic": "2026 box busines number",
-      "keywords": [
-        "2026",
-        "box",
-        "busines",
-        "number",
-        "office",
-        "report"
-      ],
-      "item_ids": [
-        "3f34aedec4e5"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "1a711d06924f",
-      "topic": "claim paramount projection spot",
-      "keywords": [
-        "claim",
-        "paramount",
-        "projection",
-        "spot",
-        "top",
-        "weekend"
-      ],
-      "item_ids": [
-        "6b6ad74c1b8c"
-      ],
-      "outlets": [
-        "The Numbers"
       ]
     },
     {
