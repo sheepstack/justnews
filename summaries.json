@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-07T11:54:25Z",
+  "generated_at": "2025-11-07T12:13:53Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2149,6 +2149,39 @@
       "cluster_id": "91f710464b52"
     },
     {
+      "id": "a52b0c441dcf",
+      "title": "Sam Altman says OpenAI will top $20 billion in annualized revenue this year, hundreds of billions by 2030",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/06/sam-altman-says-openai-will-top-20-billion-annual-revenue-this-year.html",
+      "published_at": "Thu, 06 Nov 2025 20:15:47 GMT",
+      "bullets": [
+        "• OpenAI CEO Sam Altman says artificial intelligence startup is on track to generate more than $20 billion in annualized revenue run rate this year",
+        "• The company plans to grow to hundreds of billions in sales by 2030",
+        "• Altman: \"Massive infrastructure projects take quite awhile to build, so we have to start now\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.827
+      },
+      "moods": {
+        "brief_bullets": [
+          "• OpenAI CEO Sam Altman says artificial intelligence startup is on track to generate more than $20 billion in annualized revenue run rate this year",
+          "• The company plans to grow to hundreds of billions in sales by 2030"
+        ],
+        "hopeful_bullets": [
+          "• OpenAI CEO Sam Altman says artificial intelligence startup is on track to generate more than $20 billion in annualized revenue run rate this year",
+          "• The company plans to grow to hundreds of billions in sales by 2030"
+        ],
+        "stakes_bullets": [
+          "• OpenAI CEO Sam Altman says artificial intelligence startup is on track to generate more than $20 billion in annualized revenue run rate this year",
+          "• The company plans to grow to hundreds of billions in sales by 2030"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "651809404806"
+    },
+    {
       "id": "e21e5163b755",
       "title": "BLOOD STAR  – Official Trailer & Release Announcement",
       "outlet": "HorrorFix",
@@ -3096,6 +3129,39 @@
       },
       "read_minutes": 29,
       "cluster_id": "5c731e43960b"
+    },
+    {
+      "id": "7577e817168e",
+      "title": "Meta reportedly projected 10% of 2024 sales came from scam, fraud ads",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/06/meta-reportedly-projected-10percent-of-2024-sales-came-from-scam-fraud-ads.html",
+      "published_at": "Thu, 06 Nov 2025 18:46:51 GMT",
+      "bullets": [
+        "• Reuters: Meta projected 10% of its 2024 sales in 2024 came from ads for scams and banned goods",
+        "• Internal documents show the company's attempts to measure the prevalence of fraudulent advertising on its apps like Facebook and Instagram",
+        "• Last week, Meta said that third-quarter sales rose 26% year-over-year to $51.24 billion "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Reuters: Meta projected 10% of its 2024 sales in 2024 came from ads for scams and banned goods",
+          "• Internal documents show the company's attempts to measure the prevalence of fraudulent advertising on its apps like Facebook and Instagram"
+        ],
+        "hopeful_bullets": [
+          "• Reuters: Meta projected 10% of its 2024 sales in 2024 came from ads for scams and banned goods",
+          "• Internal documents show the company's attempts to measure the prevalence of fraudulent advertising on its apps like Facebook and Instagram"
+        ],
+        "stakes_bullets": [
+          "• Reuters: Meta projected 10% of its 2024 sales in 2024 came from ads for scams and banned goods",
+          "• Last week, Meta said that third-quarter sales rose 26% year-over-year to $51.24 billion "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "9c41c261d43b"
     },
     {
       "id": "070c54fe7222",
@@ -5767,11 +5833,110 @@
       "cluster_id": "2daa60016122"
     },
     {
+      "id": "4c26c42e397d",
+      "title": "Pluribus Earns a Perfect 100% Score on Rotten Tomatoes, Hailed As Sci-Fi Masterpiece",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/pluribus-rotten-tomatoes-score-is-it-good/",
+      "published_at": "Fri, 07 Nov 2025 11:52:34 GMT",
+      "bullets": [
+        "• Vince Gilligan's long-awaited sci-fi series, Pluribus, has debuted to universal acclaim",
+        "• It scored a perfect 100% on Rotten Tomatoes from its first 27 critic reviews",
+        "• The series follows author Carol Sturka, who seems to be the only person immune to an unexplained virus "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Vince Gilligan's long-awaited sci-fi series, Pluribus, has debuted to universal acclaim",
+          "• It scored a perfect 100% on Rotten Tomatoes from its first 27 critic reviews"
+        ],
+        "hopeful_bullets": [
+          "• Vince Gilligan's long-awaited sci-fi series, Pluribus, has debuted to universal acclaim",
+          "• It scored a perfect 100% on Rotten Tomatoes from its first 27 critic reviews"
+        ],
+        "stakes_bullets": [
+          "• Vince Gilligan's long-awaited sci-fi series, Pluribus, has debuted to universal acclaim",
+          "• It scored a perfect 100% on Rotten Tomatoes from its first 27 critic reviews",
+          "• The series follows author Carol Sturka, who seems to be the only person immune to an unexplained virus "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "8974d093af21"
+    },
+    {
+      "id": "454a9591d850",
+      "title": "Google, Microsoft, and Meta Have Stopped Publishing Workforce Diversity Data",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/google-microsoft-and-meta-have-stopped-publishing-workforce-diversity-data/",
+      "published_at": "Fri, 07 Nov 2025 11:30:00 +0000",
+      "bullets": [
+        "• Google helped pioneer the release of annual diversity, equity, and inclusion reports",
+        "• Microsoft and Meta also will not be publishing diversity reports and data this year",
+        "• The broad loss in transparency could obscure the impact of President Donald Trump's anti-DEI policies on the tech workforce "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Google helped pioneer the release of annual diversity, equity, and inclusion reports",
+          "• Microsoft and Meta also will not be publishing diversity reports and data this year"
+        ],
+        "hopeful_bullets": [
+          "• Google helped pioneer the release of annual diversity, equity, and inclusion reports"
+        ],
+        "stakes_bullets": [
+          "• Microsoft and Meta also will not be publishing diversity reports and data this year",
+          "• The broad loss in transparency could obscure the impact of President Donald Trump's anti-DEI policies on the tech workforce "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "428c5e5225d0"
+    },
+    {
+      "id": "4c8111e7db5b",
+      "title": "Best Base Layer (2025): Ibex, Smartwool, and More",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/gallery/best-base-layers/",
+      "published_at": "Fri, 07 Nov 2025 11:30:00 +0000",
+      "bullets": [
+        "• The Best Base Layers for Every Adventure include merino wool, synthetic nylon blends, silk and silk",
+        "• The base layer has to do double duty, insulating you but also allowing heat and moisture to pass through it and out",
+        "• There are a lot of base layers out there, including some that are great but not quite great enough to make our top picks "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Best Base Layers for Every Adventure include merino wool, synthetic nylon blends, silk and silk",
+          "• The base layer has to do double duty, insulating you but also allowing heat and moisture to pass through it and out"
+        ],
+        "hopeful_bullets": [
+          "• The base layer has to do double duty, insulating you but also allowing heat and moisture to pass through it and out"
+        ],
+        "stakes_bullets": [
+          "• The Best Base Layers for Every Adventure include merino wool, synthetic nylon blends, silk and silk",
+          "• The base layer has to do double duty, insulating you but also allowing heat and moisture to pass through it and out",
+          "• There are a lot of base layers out there, including some that are great but not quite great enough to make our top picks "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "39f3e9667647"
+    },
+    {
       "id": "703cf1c76be4",
       "title": "Flight cancellations take effect amid government shutdown – US politics live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/nov/07/donald-trump-government-shutdown-air-traffic-flights-snap-viktor-orban-hungary-ukraine-us-politics-live-news-updates",
-      "published_at": "Fri, 07 Nov 2025 11:04:49 GMT",
+      "published_at": "Fri, 07 Nov 2025 11:15:48 GMT",
       "bullets": [
         "• US airlines cancel flights after aviation agency directive to cut air traffic",
         "• FAA said air traffic must be reduced by 4% from this morning",
@@ -5797,8 +5962,74 @@
           "• Experts predict hundreds if not thousands of flights could be canceled "
         ]
       },
-      "read_minutes": 8,
+      "read_minutes": 9,
       "cluster_id": "3b5e3521179c"
+    },
+    {
+      "id": "db1e9cd0ed30",
+      "title": "Passengers face global disruption as flights cut amid US government shutdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/nov/07/passengers-face-global-disruption-as-flights-cut-amid-us-government-shutdown",
+      "published_at": "Fri, 07 Nov 2025 11:13:37 GMT",
+      "bullets": [
+        "• Airports in the United States have been affected by the government shutdown",
+        "• The government has ordered a reduction in air traffic at airports across the country",
+        "• The move is the longest in the history of the country's long-running air traffic control system "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Airports in the United States have been affected by the government shutdown",
+          "• The government has ordered a reduction in air traffic at airports across the country"
+        ],
+        "hopeful_bullets": [
+          "• Airports in the United States have been affected by the government shutdown",
+          "• The government has ordered a reduction in air traffic at airports across the country"
+        ],
+        "stakes_bullets": [
+          "• Airports in the United States have been affected by the government shutdown"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9e264f164792"
+    },
+    {
+      "id": "1ed492652fe2",
+      "title": "Kenya demands safety for its citizens after Tanzania's post-poll crackdown",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgz2vzlyzpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 07 Nov 2025 11:03:40 GMT",
+      "bullets": [
+        "• Kenya demands safety for its citizens after Tanzania's post-poll crackdown",
+        "• Foreign Affairs Minister Musalia Mudavadi said rights of some Kenyans had been violated",
+        "• President Samia Suluhu Hassan won the poll with 98% of the vote "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.937
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kenya demands safety for its citizens after Tanzania's post-poll crackdown",
+          "• Foreign Affairs Minister Musalia Mudavadi said rights of some Kenyans had been violated"
+        ],
+        "hopeful_bullets": [
+          "• Kenya demands safety for its citizens after Tanzania's post-poll crackdown",
+          "• Foreign Affairs Minister Musalia Mudavadi said rights of some Kenyans had been violated"
+        ],
+        "stakes_bullets": [
+          "• Kenya demands safety for its citizens after Tanzania's post-poll crackdown",
+          "• Foreign Affairs Minister Musalia Mudavadi said rights of some Kenyans had been violated",
+          "• President Samia Suluhu Hassan won the poll with 98% of the vote "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "4ac8befd6e5c"
     },
     {
       "id": "0b03daeb77bc",
@@ -6035,6 +6266,38 @@
       "cluster_id": "3088ae2e815b"
     },
     {
+      "id": "24dd6b607bf4",
+      "title": "Fifty-four people injured in mosque blast at Jakarta high school",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clykgdg3l42o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 07 Nov 2025 10:46:27 GMT",
+      "bullets": [
+        "• Fifty-four people injured in mosque blast at Jakarta high school complex in Indonesia's capital, Jakarta",
+        "• Three people suffered serious injuries and 17 others came away with minor injuries, local media reports",
+        "• Police are investigating the cause of the explosion at the site in Kelapa Gading "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fifty-four people injured in mosque blast at Jakarta high school complex in Indonesia's capital, Jakarta",
+          "• Three people suffered serious injuries and 17 others came away with minor injuries, local media reports"
+        ],
+        "hopeful_bullets": [
+          "• Fifty-four people injured in mosque blast at Jakarta high school complex in Indonesia's capital, Jakarta",
+          "• Three people suffered serious injuries and 17 others came away with minor injuries, local media reports"
+        ],
+        "stakes_bullets": [
+          "• Police are investigating the cause of the explosion at the site in Kelapa Gading "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "af97eacea748"
+    },
+    {
       "id": "f343eade3ac8",
       "title": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
       "outlet": "BBC News",
@@ -6200,40 +6463,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "ff719772345e"
-    },
-    {
-      "id": "cc83d0432289",
-      "title": "SoftBank Group logs almost $50 billion in weekly losses as investors sour on AI plays",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/07/softbank-shares-ai-linked-stocks-asia-valuation-concerns.html",
-      "published_at": "Fri, 07 Nov 2025 08:09:37 GMT",
-      "bullets": [
-        "• SoftBank Group's shares close 6.87% lower on Friday, recouping some losses from earlier in the session",
-        "• This comes after SoftBank plunged 10% on Wednesday to clock its worst day since April",
-        "• It saw almost $50 billion in market cap wiped out this week and its worst week since March 2020 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• SoftBank Group's shares close 6.87% lower on Friday, recouping some losses from earlier in the session",
-          "• This comes after SoftBank plunged 10% on Wednesday to clock its worst day since April"
-        ],
-        "hopeful_bullets": [
-          "• SoftBank Group's shares close 6.87% lower on Friday, recouping some losses from earlier in the session",
-          "• This comes after SoftBank plunged 10% on Wednesday to clock its worst day since April"
-        ],
-        "stakes_bullets": [
-          "• SoftBank Group's shares close 6.87% lower on Friday, recouping some losses from earlier in the session",
-          "• This comes after SoftBank plunged 10% on Wednesday to clock its worst day since April",
-          "• It saw almost $50 billion in market cap wiped out this week and its worst week since March 2020 "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "9d44ae8f3377"
     },
     {
       "id": "9999d6c361f2",
@@ -6643,38 +6872,6 @@
       "cluster_id": "3a4d62609963"
     },
     {
-      "id": "c161cabf163e",
-      "title": "Govee Discount Codes and Deals: 30% Off",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/govee-discount-code/",
-      "published_at": "Fri, 07 Nov 2025 06:40:00 +0000",
-      "bullets": [
-        "• Govee has become one of our favorite brands for smart lighting because of their versatile and affordable range",
-        "• When you register your email, you’ll get a $5 coupon on your first order, just apply the code at checkout",
-        "• The company has tons of different Christmas lights for whatever your holiday vibe is "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Govee has become one of our favorite brands for smart lighting because of their versatile and affordable range",
-          "• When you register your email, you’ll get a $5 coupon on your first order, just apply the code at checkout"
-        ],
-        "hopeful_bullets": [
-          "• Govee has become one of our favorite brands for smart lighting because of their versatile and affordable range",
-          "• When you register your email, you’ll get a $5 coupon on your first order, just apply the code at checkout"
-        ],
-        "stakes_bullets": [
-          "• Govee has become one of our favorite brands for smart lighting because of their versatile and affordable range"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "300def5b4272"
-    },
-    {
       "id": "712b23870699",
       "title": "‘It: Welcome to Derry’ – Stream Weekly Recaps With The Losers’ Club: A Stephen King Podcast",
       "outlet": "Bloody Disgusting!",
@@ -6704,40 +6901,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "570ee6a1505f"
-    },
-    {
-      "id": "8344717b0751",
-      "title": "60% HP Discount Codes & Coupons November 2025",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/hp-coupon-code/",
-      "published_at": "Fri, 07 Nov 2025 06:30:00 +0000",
-      "bullets": [
-        "• $20 off your first order with our HP Promo Code at HP.com",
-        "• The HP Omen Transcend 32 is a 4K 240Hz gaming monitor",
-        "• It can hit a peak brightness of over 1,000 nits in HDR, bringing scenes in games to life in vivid detail",
-        "• We have HP coupon codes to help you save on all this tech "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• $20 off your first order with our HP Promo Code at HP.com",
-          "• The HP Omen Transcend 32 is a 4K 240Hz gaming monitor"
-        ],
-        "hopeful_bullets": [
-          "• We have HP coupon codes to help you save on all this tech "
-        ],
-        "stakes_bullets": [
-          "• $20 off your first order with our HP Promo Code at HP.com",
-          "• The HP Omen Transcend 32 is a 4K 240Hz gaming monitor",
-          "• It can hit a peak brightness of over 1,000 nits in HDR, bringing scenes in games to life in vivid detail"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d350a0480008"
     },
     {
       "id": "1f3b6b952140",
@@ -6967,38 +7130,6 @@
       "cluster_id": "66052de056ac"
     },
     {
-      "id": "5fc41a014f07",
-      "title": "What's happening with furniture prices? A tale of $399 couches and tariffs",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/07/nx-s1-5566671/furniture-price-trump-tariffs",
-      "published_at": "Fri, 07 Nov 2025 05:01:00 -0500",
-      "bullets": [
-        "• Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping",
-        "• The price of bedroom furniture rose 11% since February 2020, according to the Bureau of Labor Statistics",
-        "• Big cost spikes came during the pandemic, when shoppers raced to buy desks for home offices and patio sets "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping",
-          "• The price of bedroom furniture rose 11% since February 2020, according to the Bureau of Labor Statistics"
-        ],
-        "hopeful_bullets": [
-          "• Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping",
-          "• The price of bedroom furniture rose 11% since February 2020, according to the Bureau of Labor Statistics"
-        ],
-        "stakes_bullets": [
-          "• Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "48182bd8a25c"
-    },
-    {
       "id": "ae690e6c9414",
       "title": "Support for Israel among U.S. conservatives is starting to crack. Here's why",
       "outlet": "NPR Topics: News",
@@ -7032,6 +7163,73 @@
       },
       "read_minutes": 6,
       "cluster_id": "0d8dcc7ce314"
+    },
+    {
+      "id": "5fc41a014f07",
+      "title": "What's happening with furniture prices? A tale of $399 couches and tariffs",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/07/nx-s1-5566671/furniture-price-trump-tariffs",
+      "published_at": "Fri, 07 Nov 2025 05:01:00 -0500",
+      "bullets": [
+        "• Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping",
+        "• The price of bedroom furniture rose 11% since February 2020, according to the Bureau of Labor Statistics",
+        "• Big cost spikes came during the pandemic, when shoppers raced to buy desks for home offices and patio sets "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping",
+          "• The price of bedroom furniture rose 11% since February 2020, according to the Bureau of Labor Statistics"
+        ],
+        "hopeful_bullets": [
+          "• Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping",
+          "• The price of bedroom furniture rose 11% since February 2020, according to the Bureau of Labor Statistics"
+        ],
+        "stakes_bullets": [
+          "• Cost of Living: The Price We Pay is examining what's driving price increases and how people are coping"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "48182bd8a25c"
+    },
+    {
+      "id": "4cae93a2c3e7",
+      "title": "An NPR reporter's journey into Gaza, for the first time since the war began",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/07/nx-s1-5600831/gaza-israel-journalists",
+      "published_at": "Fri, 07 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• An NPR reporter in Gaza for the first time since the war is over",
+        "• The city was once known as one of the most densely populated in the world",
+        "• Now it is a wasteland of destruction",
+        "• The Israeli military has withdrawn from Gaza as part of a ceasefire deal "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.798
+      },
+      "moods": {
+        "brief_bullets": [
+          "• An NPR reporter in Gaza for the first time since the war is over",
+          "• The city was once known as one of the most densely populated in the world"
+        ],
+        "hopeful_bullets": [
+          "• An NPR reporter in Gaza for the first time since the war is over",
+          "• The city was once known as one of the most densely populated in the world"
+        ],
+        "stakes_bullets": [
+          "• An NPR reporter in Gaza for the first time since the war is over",
+          "• The city was once known as one of the most densely populated in the world",
+          "• Now it is a wasteland of destruction"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2b6162847708"
     },
     {
       "id": "1e9742e9af07",
@@ -7101,41 +7299,6 @@
       "cluster_id": "c5e9cdea758c"
     },
     {
-      "id": "4cae93a2c3e7",
-      "title": "An NPR reporter's journey into Gaza, for the first time since the war began",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/07/nx-s1-5600831/gaza-israel-journalists",
-      "published_at": "Fri, 07 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• An NPR reporter in Gaza for the first time since the war is over",
-        "• The city was once known as one of the most densely populated in the world",
-        "• Now it is a wasteland of destruction",
-        "• The Israeli military has withdrawn from Gaza as part of a ceasefire deal "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.798
-      },
-      "moods": {
-        "brief_bullets": [
-          "• An NPR reporter in Gaza for the first time since the war is over",
-          "• The city was once known as one of the most densely populated in the world"
-        ],
-        "hopeful_bullets": [
-          "• An NPR reporter in Gaza for the first time since the war is over",
-          "• The city was once known as one of the most densely populated in the world"
-        ],
-        "stakes_bullets": [
-          "• An NPR reporter in Gaza for the first time since the war is over",
-          "• The city was once known as one of the most densely populated in the world",
-          "• Now it is a wasteland of destruction"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2b6162847708"
-    },
-    {
       "id": "fdfce56d020f",
       "title": "Is the job market getting worse? As the shutdown continues, this is what we know",
       "outlet": "NPR Topics: News",
@@ -7144,7 +7307,7 @@
       "bullets": [
         "• The government shutdown has delayed a closely-watched report on the labor market for the second month in a row",
         "• Without that official jobs tally, the available signals are mixed",
-        "• A big payroll processing company reported an uptick in October hiring, but a consulting firm that tracks pink slips noted a big surge in layoff notices "
+        "• A big payroll processing company reported an uptick in October hiring, but a consulting firm that tracks pink slips noted a big surge in layoffs "
       ],
       "category": "General",
       "sentiment": {
@@ -7157,12 +7320,12 @@
           "• Without that official jobs tally, the available signals are mixed"
         ],
         "hopeful_bullets": [
-          "• A big payroll processing company reported an uptick in October hiring, but a consulting firm that tracks pink slips noted a big surge in layoff notices "
+          "• A big payroll processing company reported an uptick in October hiring, but a consulting firm that tracks pink slips noted a big surge in layoffs "
         ],
         "stakes_bullets": [
           "• The government shutdown has delayed a closely-watched report on the labor market for the second month in a row",
           "• Without that official jobs tally, the available signals are mixed",
-          "• A big payroll processing company reported an uptick in October hiring, but a consulting firm that tracks pink slips noted a big surge in layoff notices "
+          "• A big payroll processing company reported an uptick in October hiring, but a consulting firm that tracks pink slips noted a big surge in layoffs "
         ]
       },
       "read_minutes": 3,
@@ -7373,40 +7536,6 @@
       "cluster_id": "6d5f9600c38c"
     },
     {
-      "id": "532dffdf0863",
-      "title": "British grandmother flies home after 12 years on Indonesian death row",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd043m905e1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 07 Nov 2025 03:57:46 GMT",
-      "bullets": [
-        "• Lindsay Sandiford, 69, was sentenced to death on the island of Bali in 2013",
-        "• She was found with nearly 5kg of cocaine worth £1.6m ($2.1m) when she arrived on a flight from Thailand in 2012",
-        "• She and another British national Shahab Shahabadi were both said to be suffering health problems while in prison "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Lindsay Sandiford, 69, was sentenced to death on the island of Bali in 2013",
-          "• She was found with nearly 5kg of cocaine worth £1.6m ($2.1m) when she arrived on a flight from Thailand in 2012"
-        ],
-        "hopeful_bullets": [
-          "• Lindsay Sandiford, 69, was sentenced to death on the island of Bali in 2013",
-          "• She was found with nearly 5kg of cocaine worth £1.6m ($2.1m) when she arrived on a flight from Thailand in 2012"
-        ],
-        "stakes_bullets": [
-          "• Lindsay Sandiford, 69, was sentenced to death on the island of Bali in 2013",
-          "• She was found with nearly 5kg of cocaine worth £1.6m ($2.1m) when she arrived on a flight from Thailand in 2012",
-          "• She and another British national Shahab Shahabadi were both said to be suffering health problems while in prison "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "e11a26ea2648"
-    },
-    {
       "id": "b93d6508cbd7",
       "title": "TVC15: Grand Moff Tarkin (VC98)",
       "outlet": "Jedi Temple Archives",
@@ -7439,39 +7568,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "b9a58828de78"
-    },
-    {
-      "id": "8f13e5921640",
-      "title": "Airbnb shares rise on revenue beat, stronger-than-expected forecast",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/06/airbnb-abnb-q3-results-2025.html",
-      "published_at": "Fri, 07 Nov 2025 03:36:03 GMT",
-      "bullets": [
-        "• Shares of Airbnb rose as much as 5% in extended trading on Thursday",
-        "• The company reported third-quarter revenue of $4.10 billion, up 10% from $3.73 billion last year",
-        "• Net income of $1.374 billion, or $2.21 per share, was slightly higher than expected "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.928
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Shares of Airbnb rose as much as 5% in extended trading on Thursday",
-          "• The company reported third-quarter revenue of $4.10 billion, up 10% from $3.73 billion last year"
-        ],
-        "hopeful_bullets": [
-          "• Shares of Airbnb rose as much as 5% in extended trading on Thursday",
-          "• The company reported third-quarter revenue of $4.10 billion, up 10% from $3.73 billion last year"
-        ],
-        "stakes_bullets": [
-          "• The company reported third-quarter revenue of $4.10 billion, up 10% from $3.73 billion last year",
-          "• Net income of $1.374 billion, or $2.21 per share, was slightly higher than expected "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "369d2ba808a7"
     },
     {
       "id": "613966abf7c1",
@@ -7572,40 +7668,6 @@
       "cluster_id": "45b33d7c18e7"
     },
     {
-      "id": "7f092ab9db29",
-      "title": "10 Best Slow Paced Anime That Get Better Every Episode",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-anime-slow-burn-story/",
-      "published_at": "Fri, 07 Nov 2025 03:14:32 GMT",
-      "bullets": [
-        "• An unforgettable anime story can be told in very few episodes, as proven by countless mini-series that don’t waste viewers’ time",
-        "• Despite being anime’s most well-regarded psychological thriller, Monster takes it slow instead of rushing into intrigues and mysteries",
-        "• The strife between Johan Liebert and Kenzo Tenma is a slow-burn that gradually introduces the puzzle pieces of this great cat-and-mouse game "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• An unforgettable anime story can be told in very few episodes, as proven by countless mini-series that don’t waste viewers’ time",
-          "• Despite being anime’s most well-regarded psychological thriller, Monster takes it slow instead of rushing into intrigues and mysteries"
-        ],
-        "hopeful_bullets": [
-          "• An unforgettable anime story can be told in very few episodes, as proven by countless mini-series that don’t waste viewers’ time",
-          "• Despite being anime’s most well-regarded psychological thriller, Monster takes it slow instead of rushing into intrigues and mysteries"
-        ],
-        "stakes_bullets": [
-          "• An unforgettable anime story can be told in very few episodes, as proven by countless mini-series that don’t waste viewers’ time",
-          "• Despite being anime’s most well-regarded psychological thriller, Monster takes it slow instead of rushing into intrigues and mysteries",
-          "• The strife between Johan Liebert and Kenzo Tenma is a slow-burn that gradually introduces the puzzle pieces of this great cat-and-mouse game "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "505143322897"
-    },
-    {
       "id": "1aecd71716e0",
       "title": "Trump administration ‘failed to consider the harms’ in not supporting Snap, judge says in ruling that demands funds by Friday –as it happened",
       "outlet": "World news | The Guardian",
@@ -7634,38 +7696,6 @@
       },
       "read_minutes": 17,
       "cluster_id": "28f3189f7dfd"
-    },
-    {
-      "id": "519163d8fd0a",
-      "title": "Peru Congress declares Mexican president 'persona non grata'",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly9x8vv9v9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 07 Nov 2025 02:39:07 GMT",
-      "bullets": [
-        "• Peru Congress declares Mexican president 'persona non grata' - or unwelcome in the country",
-        "• Decision comes after Mexico granted asylum to Betssy Chávez, a former Peruvian prime minister facing charges for a 2022 coup attempt",
-        "• She denies allegations that she played a role in ousted Peruvian President Pedro Castillo's plan to dissolve congress "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.954
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Peru Congress declares Mexican president 'persona non grata' - or unwelcome in the country",
-          "• Decision comes after Mexico granted asylum to Betssy Chávez, a former Peruvian prime minister facing charges for a 2022 coup attempt"
-        ],
-        "hopeful_bullets": [
-          "• Peru Congress declares Mexican president 'persona non grata' - or unwelcome in the country",
-          "• Decision comes after Mexico granted asylum to Betssy Chávez, a former Peruvian prime minister facing charges for a 2022 coup attempt"
-        ],
-        "stakes_bullets": [
-          "• She denies allegations that she played a role in ousted Peruvian President Pedro Castillo's plan to dissolve congress "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1439d72a16b1"
     },
     {
       "id": "afe57850c915",
@@ -7838,28 +7868,28 @@
       "url": "https://www.theguardian.com/world/2025/nov/06/us-40-airports-traffic-reduced",
       "published_at": "Fri, 07 Nov 2025 01:09:48 GMT",
       "bullets": [
-        "• Air traffic to be reduced by 4% by Friday at 40 major US airports",
-        "• Airports including New York, Los Angeles and Chicago among those affected",
+        "• United, Southwest and Delta airlines began cancelling flights for Friday in compliance with the Federal Aviation Administration’s directive that will see reductions in flights at 40 major airports from Friday",
         "• The cuts could represent as many as 1,800 flights and upwards of 268,000 seats combined",
-        "• United, Southwest and Delta airlines have already begun cutting flights "
+        "• Experts predict hundreds of thousands of flights could be canceled "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• Air traffic to be reduced by 4% by Friday at 40 major US airports",
-          "• Airports including New York, Los Angeles and Chicago among those affected"
+          "• United, Southwest and Delta airlines began cancelling flights for Friday in compliance with the Federal Aviation Administration’s directive that will see reductions in flights at 40 major airports from Friday",
+          "• The cuts could represent as many as 1,800 flights and upwards of 268,000 seats combined"
         ],
         "hopeful_bullets": [
-          "• Air traffic to be reduced by 4% by Friday at 40 major US airports"
+          "• United, Southwest and Delta airlines began cancelling flights for Friday in compliance with the Federal Aviation Administration’s directive that will see reductions in flights at 40 major airports from Friday",
+          "• The cuts could represent as many as 1,800 flights and upwards of 268,000 seats combined"
         ],
         "stakes_bullets": [
-          "• Airports including New York, Los Angeles and Chicago among those affected",
+          "• United, Southwest and Delta airlines began cancelling flights for Friday in compliance with the Federal Aviation Administration’s directive that will see reductions in flights at 40 major airports from Friday",
           "• The cuts could represent as many as 1,800 flights and upwards of 268,000 seats combined",
-          "• United, Southwest and Delta airlines have already begun cutting flights "
+          "• Experts predict hundreds of thousands of flights could be canceled "
         ]
       },
       "read_minutes": 5,
@@ -7933,38 +7963,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "69f34988194d"
-    },
-    {
-      "id": "5a83b7c84934",
-      "title": "Kazakhstan to join Abraham Accords with Israel in symbolic boost to Trump initiative",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/07/nx-s1-5601583/kazakhstan-abraham-accords-israel",
-      "published_at": "Fri, 07 Nov 2025 01:01:43 -0500",
-      "bullets": [
-        "• Kazakhstan to join Abraham Accords with Israel in symbolic boost to Trump initiative",
-        "• Move is largely symbolic as Kazakhstan has had diplomatic relations with Israel since 1992",
-        "• Move was first confirmed to The Associated Press by three U.S",
-        "• officials who insisted on anonymity to detail plans "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Kazakhstan to join Abraham Accords with Israel in symbolic boost to Trump initiative",
-          "• Move is largely symbolic as Kazakhstan has had diplomatic relations with Israel since 1992"
-        ],
-        "hopeful_bullets": [
-          "• Kazakhstan to join Abraham Accords with Israel in symbolic boost to Trump initiative"
-        ],
-        "stakes_bullets": [
-          "• officials who insisted on anonymity to detail plans "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c10429bf0f86"
     },
     {
       "id": "696c719e674f",
@@ -8999,6 +8997,24 @@
       ]
     },
     {
+      "id": "af97eacea748",
+      "topic": "blast fifty four injured",
+      "keywords": [
+        "blast",
+        "fifty",
+        "four",
+        "injured",
+        "mosque",
+        "people"
+      ],
+      "item_ids": [
+        "24dd6b607bf4"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "cdb40daf31df",
       "topic": "barrel cambodia killing least",
       "keywords": [
@@ -9088,6 +9104,24 @@
       ]
     },
     {
+      "id": "4ac8befd6e5c",
+      "topic": "citizen demand kenya post",
+      "keywords": [
+        "citizen",
+        "demand",
+        "kenya",
+        "post",
+        "safety",
+        "tanzania"
+      ],
+      "item_ids": [
+        "1ed492652fe2"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "567d24387fbe",
       "topic": "apologise canada cap dodger",
       "keywords": [
@@ -9100,42 +9134,6 @@
       ],
       "item_ids": [
         "173865d48619"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "e11a26ea2648",
-      "topic": "british flie grandmother home",
-      "keywords": [
-        "british",
-        "flie",
-        "grandmother",
-        "home",
-        "indonesian",
-        "year"
-      ],
-      "item_ids": [
-        "532dffdf0863"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "1439d72a16b1",
-      "topic": "congres declare mexican persona",
-      "keywords": [
-        "congres",
-        "declare",
-        "mexican",
-        "persona",
-        "peru",
-        "president"
-      ],
-      "item_ids": [
-        "519163d8fd0a"
       ],
       "outlets": [
         "BBC News"
@@ -9430,6 +9428,42 @@
       ]
     },
     {
+      "id": "9e264f164792",
+      "topic": "cut disruption face flight",
+      "keywords": [
+        "cut",
+        "disruption",
+        "face",
+        "flight",
+        "global",
+        "passenger"
+      ],
+      "item_ids": [
+        "db1e9cd0ed30"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "0d8dcc7ce314",
+      "topic": "among conservative crack israel",
+      "keywords": [
+        "among",
+        "conservative",
+        "crack",
+        "israel",
+        "starting",
+        "support"
+      ],
+      "item_ids": [
+        "ae690e6c9414"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "48182bd8a25c",
       "topic": "399 couche furniture happening",
       "keywords": [
@@ -9448,18 +9482,18 @@
       ]
     },
     {
-      "id": "0d8dcc7ce314",
-      "topic": "among conservative crack israel",
+      "id": "2b6162847708",
+      "topic": "first gaza journey npr",
       "keywords": [
-        "among",
-        "conservative",
-        "crack",
-        "israel",
-        "starting",
-        "support"
+        "first",
+        "gaza",
+        "journey",
+        "npr",
+        "reporter",
+        "time"
       ],
       "item_ids": [
-        "ae690e6c9414"
+        "4cae93a2c3e7"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9496,24 +9530,6 @@
       ],
       "item_ids": [
         "6914d3c88463"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "2b6162847708",
-      "topic": "first gaza journey npr",
-      "keywords": [
-        "first",
-        "gaza",
-        "journey",
-        "npr",
-        "reporter",
-        "time"
-      ],
-      "item_ids": [
-        "4cae93a2c3e7"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9574,24 +9590,6 @@
       ]
     },
     {
-      "id": "c10429bf0f86",
-      "topic": "abraham accord israel join",
-      "keywords": [
-        "abraham",
-        "accord",
-        "israel",
-        "join",
-        "kazakhstan",
-        "symbolic"
-      ],
-      "item_ids": [
-        "5a83b7c84934"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "8261ee92ef98",
       "topic": "approve elon musk pay",
       "keywords": [
@@ -9634,18 +9632,36 @@
       ]
     },
     {
-      "id": "369d2ba808a7",
-      "topic": "airbnb beat revenue rise",
+      "id": "9062ecd7d3b5",
+      "topic": "all consider ending ford",
       "keywords": [
-        "airbnb",
-        "beat",
-        "revenue",
-        "rise",
-        "share",
-        "stronger"
+        "all",
+        "consider",
+        "ending",
+        "ford",
+        "production",
+        "reportedly"
       ],
       "item_ids": [
-        "8f13e5921640"
+        "d5d87ef8faf6"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "651809404806",
+      "topic": "altman annualized billion openai",
+      "keywords": [
+        "altman",
+        "annualized",
+        "billion",
+        "openai",
+        "sam",
+        "top"
+      ],
+      "item_ids": [
+        "a52b0c441dcf"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9670,24 +9686,6 @@
       ]
     },
     {
-      "id": "9062ecd7d3b5",
-      "topic": "all consider ending ford",
-      "keywords": [
-        "all",
-        "consider",
-        "ending",
-        "ford",
-        "production",
-        "reportedly"
-      ],
-      "item_ids": [
-        "d5d87ef8faf6"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "86cdc8ee8c48",
       "topic": "affordability boss focu mcdonald",
       "keywords": [
@@ -9706,24 +9704,6 @@
       ]
     },
     {
-      "id": "9d44ae8f3377",
-      "topic": "almost billion group logs",
-      "keywords": [
-        "almost",
-        "billion",
-        "group",
-        "logs",
-        "softbank",
-        "weekly"
-      ],
-      "item_ids": [
-        "cc83d0432289"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "d96c6f93ace0",
       "topic": "aren ceo draftking luring",
       "keywords": [
@@ -9736,6 +9716,24 @@
       ],
       "item_ids": [
         "011ae8aafd61"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "9c41c261d43b",
+      "topic": "2024 came meta projected",
+      "keywords": [
+        "2024",
+        "came",
+        "meta",
+        "projected",
+        "reportedly",
+        "sale"
+      ],
+      "item_ids": [
+        "7577e817168e"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9775,6 +9773,42 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "428c5e5225d0",
+      "topic": "google meta microsoft publishing",
+      "keywords": [
+        "google",
+        "meta",
+        "microsoft",
+        "publishing",
+        "stopped",
+        "workforce"
+      ],
+      "item_ids": [
+        "454a9591d850"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "39f3e9667647",
+      "topic": "2025 base best ibex",
+      "keywords": [
+        "2025",
+        "base",
+        "best",
+        "ibex",
+        "layer",
+        "smartwool"
+      ],
+      "item_ids": [
+        "4c8111e7db5b"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -9911,40 +9945,6 @@
       ],
       "item_ids": [
         "9622b726c584"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "300def5b4272",
-      "topic": "code deal discount govee",
-      "keywords": [
-        "code",
-        "deal",
-        "discount",
-        "govee",
-        "off"
-      ],
-      "item_ids": [
-        "c161cabf163e"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "d350a0480008",
-      "topic": "2025 code coupon discount",
-      "keywords": [
-        "2025",
-        "code",
-        "coupon",
-        "discount",
-        "november"
-      ],
-      "item_ids": [
-        "8344717b0751"
       ],
       "outlets": [
         "WIRED"
@@ -12841,6 +12841,24 @@
       ]
     },
     {
+      "id": "8974d093af21",
+      "topic": "100 earn perfect pluribu",
+      "keywords": [
+        "100",
+        "earn",
+        "perfect",
+        "pluribu",
+        "rotten",
+        "score"
+      ],
+      "item_ids": [
+        "4c26c42e397d"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "5e75fc665b32",
       "topic": "change frankenstein monster netflix",
       "keywords": [
@@ -12997,24 +13015,6 @@
       ],
       "item_ids": [
         "da8d11f46059"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "505143322897",
-      "topic": "anime best better get",
-      "keywords": [
-        "anime",
-        "best",
-        "better",
-        "get",
-        "paced",
-        "slow"
-      ],
-      "item_ids": [
-        "7f092ab9db29"
       ],
       "outlets": [
         "CBR"
