@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-07T07:12:09Z",
+  "generated_at": "2025-11-07T07:58:02Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -369,6 +369,40 @@
       },
       "read_minutes": 3,
       "cluster_id": "c091b2e64649"
+    },
+    {
+      "id": "952c757fa52e",
+      "title": "Tesla sales in Germany have cratered from last year, data shows",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/05/tesla-musk-germany-sales-down.html",
+      "published_at": "Wed, 05 Nov 2025 19:30:26 GMT",
+      "bullets": [
+        "• Tesla sold 750 electric vehicles in Germany for October 2025, less than half of what it sold a year ago",
+        "• In October last year, Tesla sold 1,607 EVs in Germany",
+        "• Elon Musk's incendiary political rhetoric and endorsement of AfD have weighed on left-leaning consumers' interest in the Tesla brand "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tesla sold 750 electric vehicles in Germany for October 2025, less than half of what it sold a year ago",
+          "• In October last year, Tesla sold 1,607 EVs in Germany"
+        ],
+        "hopeful_bullets": [
+          "• Tesla sold 750 electric vehicles in Germany for October 2025, less than half of what it sold a year ago",
+          "• In October last year, Tesla sold 1,607 EVs in Germany"
+        ],
+        "stakes_bullets": [
+          "• Tesla sold 750 electric vehicles in Germany for October 2025, less than half of what it sold a year ago",
+          "• In October last year, Tesla sold 1,607 EVs in Germany",
+          "• Elon Musk's incendiary political rhetoric and endorsement of AfD have weighed on left-leaning consumers' interest in the Tesla brand "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "dcd48ac52139"
     },
     {
       "id": "b81753edb7f8",
@@ -1823,39 +1857,6 @@
       "cluster_id": "cb29b63cfae7"
     },
     {
-      "id": "c1f75798d798",
-      "title": "Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/tesla-shareholders-approve-musk-1-trillion-dollar-pay-package/",
-      "published_at": "Thu, 06 Nov 2025 22:31:59 +0000",
-      "bullets": [
-        "• More than 75 percent of Tesla shareholders approve Elon Musk's $1 trillion pay package",
-        "• The full compensation plan will go into effect by 2035",
-        "• Musk will also get control of some 25 percent of the business, up from the 12 percent he controls currently "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• More than 75 percent of Tesla shareholders approve Elon Musk's $1 trillion pay package",
-          "• The full compensation plan will go into effect by 2035"
-        ],
-        "hopeful_bullets": [
-          "• More than 75 percent of Tesla shareholders approve Elon Musk's $1 trillion pay package",
-          "• The full compensation plan will go into effect by 2035"
-        ],
-        "stakes_bullets": [
-          "• The full compensation plan will go into effect by 2035",
-          "• Musk will also get control of some 25 percent of the business, up from the 12 percent he controls currently "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b32baf0d81bf"
-    },
-    {
       "id": "a013711ffef3",
       "title": "Mini llama proteins show promise for Alzheimer’s treatment",
       "outlet": "All Top News -- ScienceDaily",
@@ -1983,7 +1984,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "b32baf0d81bf"
+      "cluster_id": "8261ee92ef98"
     },
     {
       "id": "0b5513557751",
@@ -2446,40 +2447,6 @@
       "cluster_id": "26aae13bef81"
     },
     {
-      "id": "333f9d15ead3",
-      "title": "The 65 Best Movies on Disney+ Right Now (November 2025)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/best-movies-disney-plus/",
-      "published_at": "Thu, 06 Nov 2025 20:00:00 +0000",
-      "bullets": [
-        "• Disney+ has a seemingly endless selection of Marvel movies and plenty of Star Wars and Pixar fare",
-        "• There's so much stuff that it’s hard to know where to begin",
-        "• The Fantastic Four: First Steps is the third attempt to bring the superhero quartet to the big screen "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Disney+ has a seemingly endless selection of Marvel movies and plenty of Star Wars and Pixar fare",
-          "• There's so much stuff that it’s hard to know where to begin"
-        ],
-        "hopeful_bullets": [
-          "• Disney+ has a seemingly endless selection of Marvel movies and plenty of Star Wars and Pixar fare",
-          "• There's so much stuff that it’s hard to know where to begin"
-        ],
-        "stakes_bullets": [
-          "• Disney+ has a seemingly endless selection of Marvel movies and plenty of Star Wars and Pixar fare",
-          "• There's so much stuff that it’s hard to know where to begin",
-          "• The Fantastic Four: First Steps is the third attempt to bring the superhero quartet to the big screen "
-        ]
-      },
-      "read_minutes": 32,
-      "cluster_id": "328ebc0d088b"
-    },
-    {
       "id": "b8cad1b7f3d2",
       "title": "This Lovecraftian Chiller Is a “Must-watch for fans of raunchy 80s horror,” Now It’s Streaming on Hulu",
       "outlet": "Dread Central",
@@ -2939,38 +2906,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "3afeab4e2278"
-    },
-    {
-      "id": "c1dd5e2e216d",
-      "title": "The 15-Inch MacBook Air Is $200 Off",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/macbook-air-15-deal-1125/",
-      "published_at": "Thu, 06 Nov 2025 19:23:33 +0000",
-      "bullets": [
-        "• The 15-inch MacBook Air with the M4 CPU is currently marked down by $200 on Amazon in a variety of configurations and colors",
-        "• It's a great fit for work or play, and only serious power users will need to consider upgrading to the MacBook Pro",
-        "• The updated M4 chip “is 22 percent faster .”"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The 15-inch MacBook Air with the M4 CPU is currently marked down by $200 on Amazon in a variety of configurations and colors",
-          "• It's a great fit for work or play, and only serious power users will need to consider upgrading to the MacBook Pro"
-        ],
-        "hopeful_bullets": [
-          "• The 15-inch MacBook Air with the M4 CPU is currently marked down by $200 on Amazon in a variety of configurations and colors",
-          "• It's a great fit for work or play, and only serious power users will need to consider upgrading to the MacBook Pro"
-        ],
-        "stakes_bullets": [
-          "• It's a great fit for work or play, and only serious power users will need to consider upgrading to the MacBook Pro"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "fb13fa29df42"
     },
     {
       "id": "a2e50baaa2d6",
@@ -3600,41 +3535,6 @@
       "cluster_id": "82dcd7df4fc2"
     },
     {
-      "id": "b84b7808ca3f",
-      "title": "Lego’s 3,600-Piece Star Trek Enterprise Is the Holiday Gift to Buy This Year",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/lego-uss-enterprise-2025/",
-      "published_at": "Thu, 06 Nov 2025 18:06:01 +0000",
-      "bullets": [
-        "• Lego unveiled Star Trek: U.S",
-        "• Enterprise NCC-1701-D set",
-        "• The detailed replica of the ship comprises 3,600 pieces and includes nine minifigures",
-        "• All the important folks are here: Picard, Riker, Worf, Data, Geordi La Forge, Deanna Troi, Beverly and Wesley "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Lego unveiled Star Trek: U.S",
-          "• Enterprise NCC-1701-D set"
-        ],
-        "hopeful_bullets": [
-          "• Lego unveiled Star Trek: U.S",
-          "• Enterprise NCC-1701-D set"
-        ],
-        "stakes_bullets": [
-          "• Lego unveiled Star Trek: U.S",
-          "• Enterprise NCC-1701-D set",
-          "• The detailed replica of the ship comprises 3,600 pieces and includes nine minifigures"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "0247820e372e"
-    },
-    {
       "id": "d3d14c29caae",
       "title": "De La Soul Announce New Album Cabin in the Sky, Share New Song “The Package”: Listen",
       "outlet": "RSS: News",
@@ -3737,37 +3637,6 @@
       "cluster_id": "e3bf900ed370"
     },
     {
-      "id": "0908ff830ac2",
-      "title": "Matthew McConaughey, Ryan Reynolds-backed password manager tops $400 million in ARR on AI tail winds",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/06/ryan-reynolds-backed-1password-tops-400-million-in-arr.html",
-      "published_at": "Thu, 06 Nov 2025 17:52:49 GMT",
-      "bullets": [
-        "• 1Password, backed by Ryan Reynolds, Matthew McConaughey and Scarlett Johansson, has topped $400 million in annual recurring revenue",
-        "• CEO David Faugno says he expects the company to surpass a billion dollars in ARR over the next \"several years\" The company says it secures more than 1.3 billion human and machine credentials "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 1Password, backed by Ryan Reynolds, Matthew McConaughey and Scarlett Johansson, has topped $400 million in annual recurring revenue",
-          "• CEO David Faugno says he expects the company to surpass a billion dollars in ARR over the next \"several years\" The company says it secures more than 1.3 billion human and machine credentials "
-        ],
-        "hopeful_bullets": [
-          "• 1Password, backed by Ryan Reynolds, Matthew McConaughey and Scarlett Johansson, has topped $400 million in annual recurring revenue",
-          "• CEO David Faugno says he expects the company to surpass a billion dollars in ARR over the next \"several years\" The company says it secures more than 1.3 billion human and machine credentials "
-        ],
-        "stakes_bullets": [
-          "• CEO David Faugno says he expects the company to surpass a billion dollars in ARR over the next \"several years\" The company says it secures more than 1.3 billion human and machine credentials "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3a456c6153f1"
-    },
-    {
       "id": "473c0775ece1",
       "title": "Lego boldly goes into the Star Trek universe with $400, 3,600-piece Enterprise-D",
       "outlet": "Ars Technica - All content",
@@ -3861,38 +3730,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "edd70ecdf7bc"
-    },
-    {
-      "id": "d9c0ab8209e9",
-      "title": "Best Adaptogen Drinks and Functional Drinks of 2025: Get Clear",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-adaptogen-drinks/",
-      "published_at": "Thu, 06 Nov 2025 17:04:27 +0000",
-      "bullets": [
-        "• The best adaptogen drinks promise to offer focus and clarity and maybe even a warm wash of well-being",
-        "• Functional sodas might be chockablock with mushroom adaptogens such as reishi and cordyceps",
-        "• WIRED tested the effects of some of the most popular functional drinks on the market "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The best adaptogen drinks promise to offer focus and clarity and maybe even a warm wash of well-being",
-          "• Functional sodas might be chockablock with mushroom adaptogens such as reishi and cordyceps"
-        ],
-        "hopeful_bullets": [
-          "• The best adaptogen drinks promise to offer focus and clarity and maybe even a warm wash of well-being",
-          "• Functional sodas might be chockablock with mushroom adaptogens such as reishi and cordyceps"
-        ],
-        "stakes_bullets": [
-          "• WIRED tested the effects of some of the most popular functional drinks on the market "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "f95a4e4383bf"
     },
     {
       "id": "6aae6cdf6075",
@@ -4193,38 +4030,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "d39fcda84689"
-    },
-    {
-      "id": "fd1788842553",
-      "title": "25 WIRED-Approved Gifts for Frequent Travelers (2025)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-travel-gifts/",
-      "published_at": "Thu, 06 Nov 2025 15:30:00 +0000",
-      "bullets": [
-        "• The perfect gift can enhance any experience, whether it's a three-day business retreat or a two-week adventure across Europe",
-        "• July's latest suitcase has CaseSafe, built-in technology that is a Bluetooth tracker that works with both Android Find Hub and iOS Find My.com "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The perfect gift can enhance any experience, whether it's a three-day business retreat or a two-week adventure across Europe",
-          "• July's latest suitcase has CaseSafe, built-in technology that is a Bluetooth tracker that works with both Android Find Hub and iOS Find My.com "
-        ],
-        "hopeful_bullets": [
-          "• The perfect gift can enhance any experience, whether it's a three-day business retreat or a two-week adventure across Europe",
-          "• July's latest suitcase has CaseSafe, built-in technology that is a Bluetooth tracker that works with both Android Find Hub and iOS Find My.com "
-        ],
-        "stakes_bullets": [
-          "• The perfect gift can enhance any experience, whether it's a three-day business retreat or a two-week adventure across Europe",
-          "• July's latest suitcase has CaseSafe, built-in technology that is a Bluetooth tracker that works with both Android Find Hub and iOS Find My.com "
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "9ee2b74b8f64"
     },
     {
       "id": "b8b4407d7eef",
@@ -6459,6 +6264,39 @@
       "cluster_id": "4cf687dfc09b"
     },
     {
+      "id": "76a4ea7b19c2",
+      "title": "Musk teases Tesla Roadster demo by year-end. He's been hyping a new one since 2017",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/10/31/musk-teases-tesla-roadster-demo-this-year-been-hyping-it-since-2017.html",
+      "published_at": "Fri, 31 Oct 2025 23:53:25 GMT",
+      "bullets": [
+        "• Tesla CEO Elon Musk says a next-generation Roadster is on the way",
+        "• He declined to share updated technical or design details on the vehicle",
+        "• Musk said the car \"has a shot at being the most memorable product unveil ever\" Tesla is aiming to show off the updated Roadster \"hopefully before the end of the year\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tesla CEO Elon Musk says a next-generation Roadster is on the way",
+          "• He declined to share updated technical or design details on the vehicle"
+        ],
+        "hopeful_bullets": [
+          "• Musk said the car \"has a shot at being the most memorable product unveil ever\" Tesla is aiming to show off the updated Roadster \"hopefully before the end of the year\""
+        ],
+        "stakes_bullets": [
+          "• Tesla CEO Elon Musk says a next-generation Roadster is on the way",
+          "• He declined to share updated technical or design details on the vehicle",
+          "• Musk said the car \"has a shot at being the most memorable product unveil ever\" Tesla is aiming to show off the updated Roadster \"hopefully before the end of the year\""
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2c8178cd48ea"
+    },
+    {
       "id": "620674352652",
       "title": "TVC15: Darth Sidious (VC12)",
       "outlet": "Jedi Temple Archives",
@@ -6793,6 +6631,74 @@
       "cluster_id": "2daa60016122"
     },
     {
+      "id": "8442734340c0",
+      "title": "Walmart Promo Codes and Coupons: $10 Off",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+      "published_at": "Fri, 07 Nov 2025 07:10:00 +0000",
+      "bullets": [
+        "• Save $10 off your next purchase with our Walmart coupon code, TRIPLE10",
+        "• Walmart has thousands of flash deals that change weekly, with up to 65% off tech, appliances, end-of-season and holiday items",
+        "• You can also enjoy great benefits with Walmart+"
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Save $10 off your next purchase with our Walmart coupon code, TRIPLE10",
+          "• Walmart has thousands of flash deals that change weekly, with up to 65% off tech, appliances, end-of-season and holiday items"
+        ],
+        "hopeful_bullets": [
+          "• Save $10 off your next purchase with our Walmart coupon code, TRIPLE10",
+          "• Walmart has thousands of flash deals that change weekly, with up to 65% off tech, appliances, end-of-season and holiday items"
+        ],
+        "stakes_bullets": [
+          "• Save $10 off your next purchase with our Walmart coupon code, TRIPLE10",
+          "• Walmart has thousands of flash deals that change weekly, with up to 65% off tech, appliances, end-of-season and holiday items",
+          "• You can also enjoy great benefits with Walmart+"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7a1bf2cf5eca"
+    },
+    {
+      "id": "da2928c8427a",
+      "title": "Factor Promo Code: Up to $130 Off Meal Prep",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/factor-promo-code/",
+      "published_at": "Fri, 07 Nov 2025 07:10:00 +0000",
+      "bullets": [
+        "• Factor's meals tend to be a little mushy, but they’re still tasty and very filling",
+        "• With expansive menus and an emphasis on tracking macros and nutrition, you can simply pick out your meals and get them delivered",
+        "• The offer is only valid for new subscribers "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Factor's meals tend to be a little mushy, but they’re still tasty and very filling",
+          "• With expansive menus and an emphasis on tracking macros and nutrition, you can simply pick out your meals and get them delivered"
+        ],
+        "hopeful_bullets": [
+          "• Factor's meals tend to be a little mushy, but they’re still tasty and very filling",
+          "• With expansive menus and an emphasis on tracking macros and nutrition, you can simply pick out your meals and get them delivered"
+        ],
+        "stakes_bullets": [
+          "• Factor's meals tend to be a little mushy, but they’re still tasty and very filling",
+          "• With expansive menus and an emphasis on tracking macros and nutrition, you can simply pick out your meals and get them delivered",
+          "• The offer is only valid for new subscribers "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "460714ac2a3c"
+    },
+    {
       "id": "0b85820c469a",
       "title": "Community spirit",
       "outlet": "Positive News",
@@ -6826,6 +6732,137 @@
       },
       "read_minutes": 9,
       "cluster_id": "587afd46c0dd"
+    },
+    {
+      "id": "b3ecbdd5ff22",
+      "title": "Meta Quest Promo Codes: $50 Off | November 2025",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/meta-quest-promo-code/",
+      "published_at": "Fri, 07 Nov 2025 07:00:00 +0000",
+      "bullets": [
+        "• Meta Quest headsets have become the de facto choice for casual and even some enthusiast VR adventurers",
+        "• The more budget-friendly of the two is the Meta Quest 3S",
+        "• It’s currently marked down by up to $50, taking the price as low as $250 "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Meta Quest headsets have become the de facto choice for casual and even some enthusiast VR adventurers",
+          "• The more budget-friendly of the two is the Meta Quest 3S"
+        ],
+        "hopeful_bullets": [
+          "• Meta Quest headsets have become the de facto choice for casual and even some enthusiast VR adventurers",
+          "• The more budget-friendly of the two is the Meta Quest 3S"
+        ],
+        "stakes_bullets": [
+          "• Meta Quest headsets have become the de facto choice for casual and even some enthusiast VR adventurers",
+          "• The more budget-friendly of the two is the Meta Quest 3S",
+          "• It’s currently marked down by up to $50, taking the price as low as $250 "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "bd11c54da900"
+    },
+    {
+      "id": "e908a5b08ea4",
+      "title": "Home Chef Promo Code: 50% Off",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/home-chef-promo-code/",
+      "published_at": "Fri, 07 Nov 2025 07:00:00 +0000",
+      "bullets": [
+        "• Get 18 free meals, free shipping on the first box, and a free dessert item for life with this Home Chef promo code",
+        "• The discount is applied as a 50% discount each week for the first four weeks",
+        "• Every dish has a difficulty rating and recipes have helpful notes for things like reserving portions of an ingredient or keeping a fond-encrusted pan "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Get 18 free meals, free shipping on the first box, and a free dessert item for life with this Home Chef promo code",
+          "• The discount is applied as a 50% discount each week for the first four weeks"
+        ],
+        "hopeful_bullets": [
+          "• Every dish has a difficulty rating and recipes have helpful notes for things like reserving portions of an ingredient or keeping a fond-encrusted pan "
+        ],
+        "stakes_bullets": [
+          "• Get 18 free meals, free shipping on the first box, and a free dessert item for life with this Home Chef promo code",
+          "• The discount is applied as a 50% discount each week for the first four weeks",
+          "• Every dish has a difficulty rating and recipes have helpful notes for things like reserving portions of an ingredient or keeping a fond-encrusted pan "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2b46c0924331"
+    },
+    {
+      "id": "9622b726c584",
+      "title": "Western Digital Promo Code: 10% Off",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/western-digital-promo-code/",
+      "published_at": "Fri, 07 Nov 2025 06:45:00 +0000",
+      "bullets": [
+        "• Western Digital is one of the world's largest computer hard disk drive manufacturers",
+        "• Western Digital makes all the essentials for home office and business digital storage",
+        "• The company hasn’t officially announced what products are available yet for Black Friday sales, on the website they have a banner urging people to sign up to get the latest Black Friday deals "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Western Digital is one of the world's largest computer hard disk drive manufacturers",
+          "• Western Digital makes all the essentials for home office and business digital storage"
+        ],
+        "hopeful_bullets": [
+          "• Western Digital is one of the world's largest computer hard disk drive manufacturers",
+          "• Western Digital makes all the essentials for home office and business digital storage"
+        ],
+        "stakes_bullets": [
+          "• The company hasn’t officially announced what products are available yet for Black Friday sales, on the website they have a banner urging people to sign up to get the latest Black Friday deals "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3a4d62609963"
+    },
+    {
+      "id": "c161cabf163e",
+      "title": "Govee Discount Codes and Deals: 30% Off",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/govee-discount-code/",
+      "published_at": "Fri, 07 Nov 2025 06:40:00 +0000",
+      "bullets": [
+        "• Govee has become one of our favorite brands for smart lighting because of their versatile and affordable range",
+        "• When you register your email, you’ll get a $5 coupon on your first order, just apply the code at checkout",
+        "• The company has tons of different Christmas lights for whatever your holiday vibe is "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Govee has become one of our favorite brands for smart lighting because of their versatile and affordable range",
+          "• When you register your email, you’ll get a $5 coupon on your first order, just apply the code at checkout"
+        ],
+        "hopeful_bullets": [
+          "• Govee has become one of our favorite brands for smart lighting because of their versatile and affordable range",
+          "• When you register your email, you’ll get a $5 coupon on your first order, just apply the code at checkout"
+        ],
+        "stakes_bullets": [
+          "• Govee has become one of our favorite brands for smart lighting because of their versatile and affordable range"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "300def5b4272"
     },
     {
       "id": "712b23870699",
@@ -7253,39 +7290,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "420a666d0cd1"
-    },
-    {
-      "id": "ee4446a159e4",
-      "title": "China's exports unexpectedly contract in October as shipments to U.S. drop 25%",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/07/chinas-exports-october-trade-data.html",
-      "published_at": "Fri, 07 Nov 2025 04:44:29 GMT",
-      "bullets": [
-        "• China's exports in October declined for the first time in nearly two years due to a high base effect",
-        "• Exports decline was unexpected as economists had anticipated a 3% growth",
-        "• Imports rose 1% last month, missing the estimates for 3.2% growth, as a prolonged housing market downturn and weak job market conditions continued to weigh on consumer demand "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China's exports in October declined for the first time in nearly two years due to a high base effect",
-          "• Exports decline was unexpected as economists had anticipated a 3% growth"
-        ],
-        "hopeful_bullets": [
-          "• Exports decline was unexpected as economists had anticipated a 3% growth",
-          "• Imports rose 1% last month, missing the estimates for 3.2% growth, as a prolonged housing market downturn and weak job market conditions continued to weigh on consumer demand "
-        ],
-        "stakes_bullets": [
-          "• China's exports in October declined for the first time in nearly two years due to a high base effect",
-          "• Exports decline was unexpected as economists had anticipated a 3% growth"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "e69302bd7cc4"
     },
     {
       "id": "feb18ee76508",
@@ -7923,25 +7927,25 @@
       "published_at": "Fri, 07 Nov 2025 01:58:36 GMT",
       "bullets": [
         "• Prince Harry apologises to Canada for wearing LA Dodgers cap during World Series game",
-        "• Prince joked that he was \"under duress\" after being invited to the game by the Dodgers' owner",
-        "• He plans to wear a Blue Jays hat from now on and rooted for Toronto team "
+        "• Prince joked that he was \"under duress\" after being invited to game by Dodgers' owner",
+        "• He plans to wear a Blue Jays hat from now on and rooted for Toronto team in subsequent games "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.99
+        "score": 0.989
       },
       "moods": {
         "brief_bullets": [
           "• Prince Harry apologises to Canada for wearing LA Dodgers cap during World Series game",
-          "• Prince joked that he was \"under duress\" after being invited to the game by the Dodgers' owner"
+          "• Prince joked that he was \"under duress\" after being invited to game by Dodgers' owner"
         ],
         "hopeful_bullets": [
           "• Prince Harry apologises to Canada for wearing LA Dodgers cap during World Series game",
-          "• Prince joked that he was \"under duress\" after being invited to the game by the Dodgers' owner"
+          "• Prince joked that he was \"under duress\" after being invited to game by Dodgers' owner"
         ],
         "stakes_bullets": [
-          "• He plans to wear a Blue Jays hat from now on and rooted for Toronto team "
+          "• He plans to wear a Blue Jays hat from now on and rooted for Toronto team in subsequent games "
         ]
       },
       "read_minutes": 2,
@@ -8116,7 +8120,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "b32baf0d81bf"
+      "cluster_id": "8261ee92ef98"
     },
     {
       "id": "825c22984650",
@@ -8609,7 +8613,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "b32baf0d81bf"
+      "cluster_id": "8261ee92ef98"
     },
     {
       "id": "904589c155cd",
@@ -9878,7 +9882,7 @@
       ]
     },
     {
-      "id": "b32baf0d81bf",
+      "id": "8261ee92ef98",
       "topic": "approve elon musk pay",
       "keywords": [
         "approve",
@@ -9892,15 +9896,31 @@
       ],
       "item_ids": [
         "b70ae7f72320",
-        "c1f75798d798",
         "c421841c0627",
         "c643938b9037"
       ],
       "outlets": [
         "Ars Technica - All content",
         "The Verge",
-        "US Top News and Analysis",
-        "WIRED"
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "e4da3cb10708",
+      "topic": "asia bank ceo largest",
+      "keywords": [
+        "asia",
+        "bank",
+        "ceo",
+        "largest",
+        "southeast",
+        "warn"
+      ],
+      "item_ids": [
+        "6bcba71aed1e"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
       ]
     },
     {
@@ -9976,36 +9996,18 @@
       ]
     },
     {
-      "id": "e4da3cb10708",
-      "topic": "asia bank ceo largest",
+      "id": "2c8178cd48ea",
+      "topic": "demo musk roadster tease",
       "keywords": [
-        "asia",
-        "bank",
-        "ceo",
-        "largest",
-        "southeast",
-        "warn"
+        "demo",
+        "musk",
+        "roadster",
+        "tease",
+        "tesla",
+        "year"
       ],
       "item_ids": [
-        "6bcba71aed1e"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "e69302bd7cc4",
-      "topic": "china contract export october",
-      "keywords": [
-        "china",
-        "contract",
-        "export",
-        "october",
-        "shipment",
-        "unexpectedly"
-      ],
-      "item_ids": [
-        "ee4446a159e4"
+        "76a4ea7b19c2"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10030,24 +10032,6 @@
       ]
     },
     {
-      "id": "3a456c6153f1",
-      "topic": "backed matthew mcconaughey password",
-      "keywords": [
-        "backed",
-        "matthew",
-        "mcconaughey",
-        "password",
-        "reynold",
-        "ryan"
-      ],
-      "item_ids": [
-        "0908ff830ac2"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "9d9e0b6050bc",
       "topic": "fear government market ongoing",
       "keywords": [
@@ -10063,6 +10047,128 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "dcd48ac52139",
+      "topic": "cratered germany last sale",
+      "keywords": [
+        "cratered",
+        "germany",
+        "last",
+        "sale",
+        "tesla",
+        "year"
+      ],
+      "item_ids": [
+        "952c757fa52e"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "7a1bf2cf5eca",
+      "topic": "code coupon off promo",
+      "keywords": [
+        "code",
+        "coupon",
+        "off",
+        "promo",
+        "walmart"
+      ],
+      "item_ids": [
+        "8442734340c0"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "460714ac2a3c",
+      "topic": "130 code factor meal",
+      "keywords": [
+        "130",
+        "code",
+        "factor",
+        "meal",
+        "off",
+        "promo"
+      ],
+      "item_ids": [
+        "da2928c8427a"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "bd11c54da900",
+      "topic": "code meta november off",
+      "keywords": [
+        "code",
+        "meta",
+        "november",
+        "off",
+        "promo",
+        "quest"
+      ],
+      "item_ids": [
+        "b3ecbdd5ff22"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "2b46c0924331",
+      "topic": "chef code home off",
+      "keywords": [
+        "chef",
+        "code",
+        "home",
+        "off",
+        "promo"
+      ],
+      "item_ids": [
+        "e908a5b08ea4"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "3a4d62609963",
+      "topic": "code digital off promo",
+      "keywords": [
+        "code",
+        "digital",
+        "off",
+        "promo",
+        "western"
+      ],
+      "item_ids": [
+        "9622b726c584"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "300def5b4272",
+      "topic": "code deal discount govee",
+      "keywords": [
+        "code",
+        "deal",
+        "discount",
+        "govee",
+        "off"
+      ],
+      "item_ids": [
+        "c161cabf163e"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10114,95 +10220,6 @@
       ],
       "item_ids": [
         "50649eaefe6a"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "328ebc0d088b",
-      "topic": "best disney movie november",
-      "keywords": [
-        "best",
-        "disney",
-        "movie",
-        "november",
-        "now",
-        "right"
-      ],
-      "item_ids": [
-        "333f9d15ead3"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "fb13fa29df42",
-      "topic": "200 air inch macbook",
-      "keywords": [
-        "200",
-        "air",
-        "inch",
-        "macbook",
-        "off"
-      ],
-      "item_ids": [
-        "c1dd5e2e216d"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "0247820e372e",
-      "topic": "600 enterprise lego piece",
-      "keywords": [
-        "600",
-        "enterprise",
-        "lego",
-        "piece",
-        "star",
-        "trek"
-      ],
-      "item_ids": [
-        "b84b7808ca3f"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "f95a4e4383bf",
-      "topic": "2025 adaptogen best drink",
-      "keywords": [
-        "2025",
-        "adaptogen",
-        "best",
-        "drink",
-        "functional",
-        "get"
-      ],
-      "item_ids": [
-        "d9c0ab8209e9"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "9ee2b74b8f64",
-      "topic": "2025 approved frequent gift",
-      "keywords": [
-        "2025",
-        "approved",
-        "frequent",
-        "gift",
-        "traveler",
-        "wired"
-      ],
-      "item_ids": [
-        "fd1788842553"
       ],
       "outlets": [
         "WIRED"
