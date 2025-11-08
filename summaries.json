@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-08T09:58:27Z",
+  "generated_at": "2025-11-08T10:14:10Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2448,6 +2448,37 @@
       "cluster_id": "2e116862dfd5"
     },
     {
+      "id": "3be78833a755",
+      "title": "Kenyan activists missing in Uganda found safe after five weeks",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn8v9vkkjm0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 08 Nov 2025 09:28:26 GMT",
+      "bullets": [
+        "• Kenyan activists missing in Uganda found safe after five weeks",
+        "• Bob Njagi and Nicholas Oyoo were forced into a car by masked uniformed men",
+        "• Ugandan opposition leader Bobi Wine accused the government of targeting the two Kenyans for associating with him "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kenyan activists missing in Uganda found safe after five weeks",
+          "• Bob Njagi and Nicholas Oyoo were forced into a car by masked uniformed men"
+        ],
+        "hopeful_bullets": [
+          "• Ugandan opposition leader Bobi Wine accused the government of targeting the two Kenyans for associating with him "
+        ],
+        "stakes_bullets": [
+          "• Ugandan opposition leader Bobi Wine accused the government of targeting the two Kenyans for associating with him "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "f712c1790acf"
+    },
+    {
       "id": "d667a7501078",
       "title": "Israel says body of Lior Rudaeff has been returned from Gaza",
       "outlet": "BBC News",
@@ -3801,40 +3832,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "403525bba69b"
-    },
-    {
-      "id": "34792680d047",
-      "title": "'They went and never came back': Honouring Kenya's forgotten World War soldiers",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly2e89eqnvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 08 Nov 2025 00:04:21 GMT",
-      "bullets": [
-        "• Mutuku Ing'ati signed up as a private with the East African Scouts, a regiment in the British army that fought in World War Two",
-        "• He was killed in action on 13 June 1943 in Nairobi",
-        "• Like thousands of Kenyans who fought in the UK, he died without his family "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mutuku Ing'ati signed up as a private with the East African Scouts, a regiment in the British army that fought in World War Two",
-          "• He was killed in action on 13 June 1943 in Nairobi"
-        ],
-        "hopeful_bullets": [
-          "• Mutuku Ing'ati signed up as a private with the East African Scouts, a regiment in the British army that fought in World War Two",
-          "• He was killed in action on 13 June 1943 in Nairobi"
-        ],
-        "stakes_bullets": [
-          "• Mutuku Ing'ati signed up as a private with the East African Scouts, a regiment in the British army that fought in World War Two",
-          "• He was killed in action on 13 June 1943 in Nairobi",
-          "• Like thousands of Kenyans who fought in the UK, he died without his family "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "3fb0ffdc5cd0"
     },
     {
       "id": "2dcc657c9245",
@@ -9438,18 +9435,18 @@
       ]
     },
     {
-      "id": "3fb0ffdc5cd0",
-      "topic": "back came honouring kenya",
+      "id": "f712c1790acf",
+      "topic": "activist found kenyan missing",
       "keywords": [
-        "back",
-        "came",
-        "honouring",
-        "kenya",
-        "never",
-        "went"
+        "activist",
+        "found",
+        "kenyan",
+        "missing",
+        "safe",
+        "uganda"
       ],
       "item_ids": [
-        "34792680d047"
+        "3be78833a755"
       ],
       "outlets": [
         "BBC News"
