@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-08T07:57:18Z",
+  "generated_at": "2025-11-08T08:06:20Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -8997,6 +8997,41 @@
       "cluster_id": "ff62cca1472c"
     },
     {
+      "id": "bc740098b767",
+      "title": "Theater counts: Predator: Badlands lands in 3,725 theaters in opening weekend rollout",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260240830-Theater-counts-Predator-Badlands-lands-in-3-725-theaters-in-opening-weekend-rollout",
+      "published_at": null,
+      "bullets": [
+        "• New film, \"Predator: Badlands,\" debuts in 3,725 theaters this weekend",
+        "• The film is set to be the first time it has been released since 1987",
+        "• It's directed by the same director who directed the original version of the film",
+        "• The movie is based on the story of a young girl who was born in the early 1900s "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New film, \"Predator: Badlands,\" debuts in 3,725 theaters this weekend",
+          "• The film is set to be the first time it has been released since 1987"
+        ],
+        "hopeful_bullets": [
+          "• New film, \"Predator: Badlands,\" debuts in 3,725 theaters this weekend",
+          "• The film is set to be the first time it has been released since 1987"
+        ],
+        "stakes_bullets": [
+          "• New film, \"Predator: Badlands,\" debuts in 3,725 theaters this weekend",
+          "• The film is set to be the first time it has been released since 1987",
+          "• It's directed by the same director who directed the original version of the film"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "cd7dc6d5bfc4"
+    },
+    {
       "id": "3f34aedec4e5",
       "title": "The Numbers Business Report: 2026 Q3 Box Office Prediction",
       "outlet": "The Numbers",
@@ -11684,6 +11719,24 @@
       ],
       "item_ids": [
         "78564afcfa15"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "cd7dc6d5bfc4",
+      "topic": "725 badland count land",
+      "keywords": [
+        "725",
+        "badland",
+        "count",
+        "land",
+        "predator",
+        "theater"
+      ],
+      "item_ids": [
+        "bc740098b767"
       ],
       "outlets": [
         "The Numbers"
