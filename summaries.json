@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-08T22:57:19Z",
+  "generated_at": "2025-11-08T23:07:11Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2314,6 +2314,39 @@
       "cluster_id": "6342548deb5e"
     },
     {
+      "id": "59867e78229b",
+      "title": "FAA-mandated flight cancellations to worsen next week if shutdown continues",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/08/government-shutdown-flight-cancelations-faa.html",
+      "published_at": "Sat, 08 Nov 2025 22:41:54 GMT",
+      "bullets": [
+        "• More than 5,000 U.S",
+        "• flights were delayed on Saturday due to air traffic controller shortages",
+        "• The government shutdown is now the longest in history",
+        "• Airlines will have to cut hundreds more flights next week if Congress can't come to a solution to the shutdown "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• More than 5,000 U.S",
+          "• flights were delayed on Saturday due to air traffic controller shortages"
+        ],
+        "hopeful_bullets": [
+          "• More than 5,000 U.S",
+          "• flights were delayed on Saturday due to air traffic controller shortages"
+        ],
+        "stakes_bullets": [
+          "• Airlines will have to cut hundreds more flights next week if Congress can't come to a solution to the shutdown "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "36265ecb457b"
+    },
+    {
       "id": "bae9dde10bad",
       "title": "“You woke us up”: California Gov. Gavin Newsom, energized by Prop 50 redistricting win, thanks Texas",
       "outlet": "The Texas Tribune",
@@ -2414,6 +2447,39 @@
       },
       "read_minutes": 6,
       "cluster_id": "4ad2edbc3dc5"
+    },
+    {
+      "id": "ae03f8e03cfc",
+      "title": "More than 1,000 flights cancelled as US air traffic cuts enter second day",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj410k00yw8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 08 Nov 2025 22:07:58 GMT",
+      "bullets": [
+        "• More than 1,000 flights cancelled as US air traffic cuts enter second day",
+        "• Nearly 4,000 delayed flights down from over 7,000 on Friday",
+        "• Newark Liberty International Airport was experiencing some of the longest wait times",
+        "• Air traffic controllers are working without pay as the shutdown continues "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• More than 1,000 flights cancelled as US air traffic cuts enter second day",
+          "• Nearly 4,000 delayed flights down from over 7,000 on Friday"
+        ],
+        "hopeful_bullets": [
+          "• More than 1,000 flights cancelled as US air traffic cuts enter second day",
+          "• Nearly 4,000 delayed flights down from over 7,000 on Friday"
+        ],
+        "stakes_bullets": [
+          "• More than 1,000 flights cancelled as US air traffic cuts enter second day"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "56fb2fad208d"
     },
     {
       "id": "7be516c3d824",
@@ -2613,6 +2679,37 @@
       },
       "read_minutes": 2,
       "cluster_id": "5aa14f96e6b5"
+    },
+    {
+      "id": "f39c6fbb78b8",
+      "title": "Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/space/2025/11/blue-origin-will-move-heaven-and-earth-to-help-nasa-reach-the-moon-faster-ceo-says/",
+      "published_at": "Sat, 08 Nov 2025 21:27:42 +0000",
+      "bullets": [
+        "• Blue Origin CEO Dave Limp says his company is ready to help NASA land humans on the Moon",
+        "• The company's second launch of the New Glenn rocket is scheduled for 2:45 pm ET (19:45 UTC) at Cape Canaveral Space Force Station in Florida "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.663
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Blue Origin CEO Dave Limp says his company is ready to help NASA land humans on the Moon",
+          "• The company's second launch of the New Glenn rocket is scheduled for 2:45 pm ET (19:45 UTC) at Cape Canaveral Space Force Station in Florida "
+        ],
+        "hopeful_bullets": [
+          "• Blue Origin CEO Dave Limp says his company is ready to help NASA land humans on the Moon"
+        ],
+        "stakes_bullets": [
+          "• Blue Origin CEO Dave Limp says his company is ready to help NASA land humans on the Moon",
+          "• The company's second launch of the New Glenn rocket is scheduled for 2:45 pm ET (19:45 UTC) at Cape Canaveral Space Force Station in Florida "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0127563d4d0c"
     },
     {
       "id": "6c1e73b672ea",
@@ -2915,40 +3012,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "9eb0d20ab054"
-    },
-    {
-      "id": "59867e78229b",
-      "title": "FAA-mandated flight cancellations to worsen next week if shutdown continues",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/08/government-shutdown-flight-cancelations-faa.html",
-      "published_at": "Sat, 08 Nov 2025 20:01:54 GMT",
-      "bullets": [
-        "• More than 3,700 U.S",
-        "• flights were delayed Saturday morning due to air traffic controller shortages",
-        "• Airlines will have to cut hundreds more flights next week if Congress can't come to a solution to the government shutdown",
-        "• FAA officials ordered airlines to cut flights at 40 airports on Friday, blaming \"strain on the system\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• More than 3,700 U.S",
-          "• flights were delayed Saturday morning due to air traffic controller shortages"
-        ],
-        "hopeful_bullets": [
-          "• More than 3,700 U.S",
-          "• flights were delayed Saturday morning due to air traffic controller shortages"
-        ],
-        "stakes_bullets": [
-          "• Airlines will have to cut hundreds more flights next week if Congress can't come to a solution to the government shutdown",
-          "• FAA officials ordered airlines to cut flights at 40 airports on Friday, blaming \"strain on the system\""
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "36265ecb457b"
     },
     {
       "id": "a050a9b1a1e7",
@@ -3287,37 +3350,6 @@
       "cluster_id": "cf3054e77ee7"
     },
     {
-      "id": "daa0e82bb039",
-      "title": "Democrats just won back Latinos who voted for Trump. Will they be convinced to stick around?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/08/latino-vote-midterms-democrats-trump",
-      "published_at": "Sat, 08 Nov 2025 15:00:06 GMT",
-      "bullets": [
-        "• Latino voters delivered sweeping support to Democratic candidates across multiple states in Tuesday’s off-year elections",
-        "• The rapid reversal represents one of the most volatile electoral swings in recent memory",
-        "• It threatens to upend Republican redistricting strategies that banked on sustained support from Latinos "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.957
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Latino voters delivered sweeping support to Democratic candidates across multiple states in Tuesday’s off-year elections",
-          "• The rapid reversal represents one of the most volatile electoral swings in recent memory"
-        ],
-        "hopeful_bullets": [
-          "• The rapid reversal represents one of the most volatile electoral swings in recent memory"
-        ],
-        "stakes_bullets": [
-          "• It threatens to upend Republican redistricting strategies that banked on sustained support from Latinos "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "26f7948b92aa"
-    },
-    {
       "id": "f9c17fa44697",
       "title": "Near Ohio air force base, food pantries and businesses grapple with effects of shutdown",
       "outlet": "US news | The Guardian",
@@ -3348,6 +3380,37 @@
       },
       "read_minutes": 5,
       "cluster_id": "8ef072bb4970"
+    },
+    {
+      "id": "daa0e82bb039",
+      "title": "Democrats just won back Latinos who voted for Trump. Will they be convinced to stick around?",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/08/latino-vote-midterms-democrats-trump",
+      "published_at": "Sat, 08 Nov 2025 15:00:06 GMT",
+      "bullets": [
+        "• Latino voters delivered sweeping support to Democratic candidates across multiple states in Tuesday’s off-year elections",
+        "• The rapid reversal represents one of the most volatile electoral swings in recent memory",
+        "• It threatens to upend Republican redistricting strategies that banked on sustained support from Latinos "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.957
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Latino voters delivered sweeping support to Democratic candidates across multiple states in Tuesday’s off-year elections",
+          "• The rapid reversal represents one of the most volatile electoral swings in recent memory"
+        ],
+        "hopeful_bullets": [
+          "• The rapid reversal represents one of the most volatile electoral swings in recent memory"
+        ],
+        "stakes_bullets": [
+          "• It threatens to upend Republican redistricting strategies that banked on sustained support from Latinos "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "26f7948b92aa"
     },
     {
       "id": "80071d22f6c5",
@@ -3715,26 +3778,28 @@
       "url": "https://www.theguardian.com/us-news/2025/nov/08/maha-food-safety-laws-us",
       "published_at": "Sat, 08 Nov 2025 13:00:04 GMT",
       "bullets": [
-        "• Make America Healthy Again (AFIT) aims to improve the quality of food in the United States",
-        "• The bill was passed by a bipartisan group of lawmakers this week",
-        "• It is the first time the federal government has passed a bill to change the rules of the law "
+        "• Make America Healthy Again (AFIT) is a non-profit organization dedicated to health care",
+        "• The group wants to improve the quality of food in the U.S",
+        "• of its products",
+        "• It wants to raise awareness of the dangers of food poisoning in the United States "
       ],
       "category": "US",
       "sentiment": {
         "label": "positive",
-        "score": 0.969
+        "score": 0.986
       },
       "moods": {
         "brief_bullets": [
-          "• Make America Healthy Again (AFIT) aims to improve the quality of food in the United States",
-          "• The bill was passed by a bipartisan group of lawmakers this week"
+          "• Make America Healthy Again (AFIT) is a non-profit organization dedicated to health care",
+          "• The group wants to improve the quality of food in the U.S"
         ],
         "hopeful_bullets": [
-          "• Make America Healthy Again (AFIT) aims to improve the quality of food in the United States"
+          "• The group wants to improve the quality of food in the U.S"
         ],
         "stakes_bullets": [
-          "• The bill was passed by a bipartisan group of lawmakers this week",
-          "• It is the first time the federal government has passed a bill to change the rules of the law "
+          "• Make America Healthy Again (AFIT) is a non-profit organization dedicated to health care",
+          "• The group wants to improve the quality of food in the U.S",
+          "• of its products"
         ]
       },
       "read_minutes": 5,
@@ -7888,41 +7953,6 @@
       "cluster_id": "63a9a46a4309"
     },
     {
-      "id": "cf6c57c88e8b",
-      "title": "Ford says “no exact date” to restart F-150 Lightning production",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/cars/2025/11/ford-says-no-exact-date-to-restart-f-150-lightning-production/",
-      "published_at": "Fri, 07 Nov 2025 15:23:03 +0000",
-      "bullets": [
-        "• Ford's F-150 Lightning is the best-selling electric pickup truck in the U.S",
-        "• It's smoother, faster, and more efficient than the ones that run on gas, diesel, or hybrid power",
-        "• Ford was the first of the domestic automakers to bring a full-size pickup EV to market",
-        "• But like General Motors, it has found that pickup truck customers have not flocked to elect electric trucks "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ford's F-150 Lightning is the best-selling electric pickup truck in the U.S",
-          "• It's smoother, faster, and more efficient than the ones that run on gas, diesel, or hybrid power"
-        ],
-        "hopeful_bullets": [
-          "• Ford's F-150 Lightning is the best-selling electric pickup truck in the U.S",
-          "• It's smoother, faster, and more efficient than the ones that run on gas, diesel, or hybrid power"
-        ],
-        "stakes_bullets": [
-          "• Ford's F-150 Lightning is the best-selling electric pickup truck in the U.S",
-          "• It's smoother, faster, and more efficient than the ones that run on gas, diesel, or hybrid power",
-          "• Ford was the first of the domestic automakers to bring a full-size pickup EV to market"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "b3e003817cd1"
-    },
-    {
       "id": "bcf9523b5c09",
       "title": "The Shadows Have Sharp Teeth in Exclusive Preview of Ravi Teixeira’s New Graphic Novel HEAVEN, WEST VIRGINIA",
       "outlet": "Daily Dead",
@@ -7953,40 +7983,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "39328f6bffb1"
-    },
-    {
-      "id": "c465d3750c7f",
-      "title": "Released Israeli hostage says he was sexually assaulted in Gaza captivity",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgkz0yzde80o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 07 Nov 2025 14:18:27 GMT",
-      "bullets": [
-        "• Released Israeli man says he was sexually assaulted by members of Palestinian Islamic Jihad",
-        "• The 21-year-old said he was stripped naked and tied up by the group",
-        "• He was among the last 20 people released under a ceasefire deal between Israel and Hamas "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Released Israeli man says he was sexually assaulted by members of Palestinian Islamic Jihad",
-          "• The 21-year-old said he was stripped naked and tied up by the group"
-        ],
-        "hopeful_bullets": [
-          "• Released Israeli man says he was sexually assaulted by members of Palestinian Islamic Jihad",
-          "• The 21-year-old said he was stripped naked and tied up by the group"
-        ],
-        "stakes_bullets": [
-          "• Released Israeli man says he was sexually assaulted by members of Palestinian Islamic Jihad",
-          "• The 21-year-old said he was stripped naked and tied up by the group",
-          "• He was among the last 20 people released under a ceasefire deal between Israel and Hamas "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "3c9a0ead5f8e"
     },
     {
       "id": "a36c290cc533",
@@ -9057,6 +9053,167 @@
       "cluster_id": "ff62cca1472c"
     },
     {
+      "id": "6b6ad74c1b8c",
+      "title": "Weekend projections: Paramount claims top spot for Regretting You on exceptionally quiet weekend",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260220830-Weekend-projections-Paramount-claims-top-spot-for-Regretting-You-on-exceptionally-quiet-weekend",
+      "published_at": null,
+      "bullets": [
+        "• The combined box office of all movies reporting so far stands at less than $50 million",
+        "• The one bright spot is arguably a surprise win for Regretting You, which is holding quite well in its second weekend",
+        "• Paramount is expecting another good day today, with $3.1 million, compared to Universal’s prediction of $2.09 million "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The combined box office of all movies reporting so far stands at less than $50 million",
+          "• The one bright spot is arguably a surprise win for Regretting You, which is holding quite well in its second weekend"
+        ],
+        "hopeful_bullets": [
+          "• The one bright spot is arguably a surprise win for Regretting You, which is holding quite well in its second weekend"
+        ],
+        "stakes_bullets": [
+          "• The combined box office of all movies reporting so far stands at less than $50 million",
+          "• The one bright spot is arguably a surprise win for Regretting You, which is holding quite well in its second weekend",
+          "• Paramount is expecting another good day today, with $3.1 million, compared to Universal’s prediction of $2.09 million "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "1a711d06924f"
+    },
+    {
+      "id": "b9628f22d671",
+      "title": "Weekend predictions: Black Phone eyeing box office win on incredibly slow weekend",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260210830-Weekend-predictions-Black-Phone-eyeing-box-office-win-on-incredibly-slow-weekend",
+      "published_at": null,
+      "bullets": [
+        "• Horror movie Black Phone 2 looks like the favorite to win the weekend, with less than $10 million",
+        "• Bugonia is expanding wide, after debuting with a promising $709,848 last weekend from 17 theaters",
+        "• Back to the Future re-release is the one movie with a shot at topping the chart "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.831
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Horror movie Black Phone 2 looks like the favorite to win the weekend, with less than $10 million",
+          "• Bugonia is expanding wide, after debuting with a promising $709,848 last weekend from 17 theaters"
+        ],
+        "hopeful_bullets": [
+          "• Horror movie Black Phone 2 looks like the favorite to win the weekend, with less than $10 million"
+        ],
+        "stakes_bullets": [
+          "• Bugonia is expanding wide, after debuting with a promising $709,848 last weekend from 17 theaters"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "030bb76c9ac3"
+    },
+    {
+      "id": "4339b7faab18",
+      "title": "Theater counts: Springsteen stands alone as this weekend’s widest release",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260200830-Theater-counts-Springsteen-stands-alone-as-this-weekends-widest-release",
+      "published_at": null,
+      "bullets": [
+        "• Chainsaw Man—The Movie: Reze Arc slashed its way to the top of the weekend box office, carving out an impressive $18 million in its debut",
+        "• Back to the Future is revving up the DeLorean and blasting back onto the big screen for its 40th anniversary, hitting 2,290 theaters "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Chainsaw Man—The Movie: Reze Arc slashed its way to the top of the weekend box office, carving out an impressive $18 million in its debut",
+          "• Back to the Future is revving up the DeLorean and blasting back onto the big screen for its 40th anniversary, hitting 2,290 theaters "
+        ],
+        "hopeful_bullets": [
+          "• Chainsaw Man—The Movie: Reze Arc slashed its way to the top of the weekend box office, carving out an impressive $18 million in its debut",
+          "• Back to the Future is revving up the DeLorean and blasting back onto the big screen for its 40th anniversary, hitting 2,290 theaters "
+        ],
+        "stakes_bullets": [
+          "• Chainsaw Man—The Movie: Reze Arc slashed its way to the top of the weekend box office, carving out an impressive $18 million in its debut",
+          "• Back to the Future is revving up the DeLorean and blasting back onto the big screen for its 40th anniversary, hitting 2,290 theaters "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "3cb528d865c2"
+    },
+    {
+      "id": "3ddb2105e393",
+      "title": "Weekend projections: Chainsaw Man debuts with $17 million to keep box office earnings above water",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260190830-Weekend-projections-Chainsaw-Man-debuts-with-17-million-to-keep-box-office-earnings-above-water",
+      "published_at": null,
+      "bullets": [
+        "• Chainsaw Man—The Movie: Reze Arc will take an easy win at the box office this weekend",
+        "• Sony projects a $17.25-million debut",
+        "• That will take it well past Black Phone 2’s $13 million in its second weekend "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Chainsaw Man—The Movie: Reze Arc will take an easy win at the box office this weekend",
+          "• Sony projects a $17.25-million debut"
+        ],
+        "hopeful_bullets": [
+          "• Chainsaw Man—The Movie: Reze Arc will take an easy win at the box office this weekend"
+        ],
+        "stakes_bullets": [
+          "• Chainsaw Man—The Movie: Reze Arc will take an easy win at the box office this weekend",
+          "• That will take it well past Black Phone 2’s $13 million in its second weekend "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d3165e076d3e"
+    },
+    {
+      "id": "eea20e34a3e6",
+      "title": "Weekend predictions: Chainsaw Man set to continue Anime takeover of movie theaters",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260180830-Weekend-predictions-Chainsaw-Man-set-to-continue-Anime-takeover-of-movie-theaters",
+      "published_at": null,
+      "bullets": [
+        "• Our model predicts a comfortable win for Chainsaw Man—The Movie: Reze Arc",
+        "• Regretting You and Springsteen: Deliver Me From Nowhere are set to do battle with Black Phone 2 for second place",
+        "• The big caveat is that we don’t have preview numbers for this one, which adds a lot of uncertainty "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.899
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Our model predicts a comfortable win for Chainsaw Man—The Movie: Reze Arc",
+          "• Regretting You and Springsteen: Deliver Me From Nowhere are set to do battle with Black Phone 2 for second place"
+        ],
+        "hopeful_bullets": [
+          "• Our model predicts a comfortable win for Chainsaw Man—The Movie: Reze Arc"
+        ],
+        "stakes_bullets": [
+          "• Our model predicts a comfortable win for Chainsaw Man—The Movie: Reze Arc",
+          "• Regretting You and Springsteen: Deliver Me From Nowhere are set to do battle with Black Phone 2 for second place",
+          "• The big caveat is that we don’t have preview numbers for this one, which adds a lot of uncertainty "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "95a28759065c"
+    },
+    {
       "id": "61c4345f84be",
       "title": "Theater counts: Springsteen and Black Phone 2 share weekend widest release honors",
       "outlet": "The Numbers",
@@ -9157,6 +9314,24 @@
       ],
       "item_ids": [
         "76d9f75c5407"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "56fb2fad208d",
+      "topic": "000 air cancelled cuts",
+      "keywords": [
+        "000",
+        "air",
+        "cancelled",
+        "cuts",
+        "flight",
+        "traffic"
+      ],
+      "item_ids": [
+        "ae03f8e03cfc"
       ],
       "outlets": [
         "BBC News"
@@ -9288,24 +9463,6 @@
       "outlets": [
         "BBC News",
         "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "3c9a0ead5f8e",
-      "topic": "assaulted gaza hostage israeli",
-      "keywords": [
-        "assaulted",
-        "gaza",
-        "hostage",
-        "israeli",
-        "released",
-        "sexually"
-      ],
-      "item_ids": [
-        "c465d3750c7f"
-      ],
-      "outlets": [
-        "BBC News"
       ]
     },
     {
@@ -9579,24 +9736,6 @@
       ]
     },
     {
-      "id": "26f7948b92aa",
-      "topic": "back democrat just latino",
-      "keywords": [
-        "back",
-        "democrat",
-        "just",
-        "latino",
-        "voted",
-        "won"
-      ],
-      "item_ids": [
-        "daa0e82bb039"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "8ef072bb4970",
       "topic": "air base food force",
       "keywords": [
@@ -9609,6 +9748,24 @@
       ],
       "item_ids": [
         "f9c17fa44697"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "26f7948b92aa",
+      "topic": "back democrat just latino",
+      "keywords": [
+        "back",
+        "democrat",
+        "just",
+        "latino",
+        "voted",
+        "won"
+      ],
+      "item_ids": [
+        "daa0e82bb039"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -10346,6 +10503,24 @@
       ]
     },
     {
+      "id": "0127563d4d0c",
+      "topic": "blue earth heaven help",
+      "keywords": [
+        "blue",
+        "earth",
+        "heaven",
+        "help",
+        "move",
+        "origin"
+      ],
+      "item_ids": [
+        "f39c6fbb78b8"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
       "id": "c2b914eceb78",
       "topic": "dna double helped jame",
       "keywords": [
@@ -10501,24 +10676,6 @@
       ],
       "item_ids": [
         "0af88e711107"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "b3e003817cd1",
-      "topic": "150 date exact ford",
-      "keywords": [
-        "150",
-        "date",
-        "exact",
-        "ford",
-        "lightning",
-        "restart"
-      ],
-      "item_ids": [
-        "cf6c57c88e8b"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -11548,6 +11705,96 @@
       ],
       "item_ids": [
         "78564afcfa15"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "1a711d06924f",
+      "topic": "claim paramount projection spot",
+      "keywords": [
+        "claim",
+        "paramount",
+        "projection",
+        "spot",
+        "top",
+        "weekend"
+      ],
+      "item_ids": [
+        "6b6ad74c1b8c"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "030bb76c9ac3",
+      "topic": "black box eyeing phone",
+      "keywords": [
+        "black",
+        "box",
+        "eyeing",
+        "phone",
+        "prediction",
+        "weekend"
+      ],
+      "item_ids": [
+        "b9628f22d671"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "3cb528d865c2",
+      "topic": "alone count springsteen stand",
+      "keywords": [
+        "alone",
+        "count",
+        "springsteen",
+        "stand",
+        "theater",
+        "weekend"
+      ],
+      "item_ids": [
+        "4339b7faab18"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "d3165e076d3e",
+      "topic": "chainsaw debut man million",
+      "keywords": [
+        "chainsaw",
+        "debut",
+        "man",
+        "million",
+        "projection",
+        "weekend"
+      ],
+      "item_ids": [
+        "3ddb2105e393"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "95a28759065c",
+      "topic": "chainsaw continue man prediction",
+      "keywords": [
+        "chainsaw",
+        "continue",
+        "man",
+        "prediction",
+        "set",
+        "weekend"
+      ],
+      "item_ids": [
+        "eea20e34a3e6"
       ],
       "outlets": [
         "The Numbers"
