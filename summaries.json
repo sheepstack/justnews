@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-08T13:52:27Z",
+  "generated_at": "2025-11-08T14:15:54Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2282,6 +2282,74 @@
       "cluster_id": "2e116862dfd5"
     },
     {
+      "id": "d276c729252d",
+      "title": "Ghostbusters is Coming to AMC for the 'Best Christmas Ever'",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/ghostbusters-amc-best-christmas-ever/",
+      "published_at": "Sat, 08 Nov 2025 14:00:12 GMT",
+      "bullets": [
+        "• Caddyshack, Groundhog Day and Ghostbusters will air on November 29",
+        "• The 1984 movie and its 1989 sequel, Ghostbusters II, will also be featured",
+        "• The only Christmas movie in the bunch is Scrooged, which will air at 9:30 p.m"
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Caddyshack, Groundhog Day and Ghostbusters will air on November 29",
+          "• The 1984 movie and its 1989 sequel, Ghostbusters II, will also be featured"
+        ],
+        "hopeful_bullets": [
+          "• Caddyshack, Groundhog Day and Ghostbusters will air on November 29",
+          "• The 1984 movie and its 1989 sequel, Ghostbusters II, will also be featured"
+        ],
+        "stakes_bullets": [
+          "• Caddyshack, Groundhog Day and Ghostbusters will air on November 29",
+          "• The 1984 movie and its 1989 sequel, Ghostbusters II, will also be featured",
+          "• The only Christmas movie in the bunch is Scrooged, which will air at 9:30 p.m"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3c0f0e750abf"
+    },
+    {
+      "id": "f441d701e1bf",
+      "title": "Alien: Romulus Is the Closest Any Modern Sci-Fi Horror Has Come to the 1979 Masterpiece",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/alien-romulus-best-modern-sci-fi-horror-since-alien/",
+      "published_at": "Sat, 08 Nov 2025 14:00:12 GMT",
+      "bullets": [
+        "• Alien: Romulus is the best movie in the franchise since the '80s",
+        "• It is the sequel to Ridley Scott's 1979 classic, Alien, and Aliens",
+        "• The sequel is the closest of any of the movies to be an equal to the original "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Alien: Romulus is the best movie in the franchise since the '80s",
+          "• It is the sequel to Ridley Scott's 1979 classic, Alien, and Aliens"
+        ],
+        "hopeful_bullets": [
+          "• Alien: Romulus is the best movie in the franchise since the '80s",
+          "• It is the sequel to Ridley Scott's 1979 classic, Alien, and Aliens"
+        ],
+        "stakes_bullets": [
+          "• Alien: Romulus is the best movie in the franchise since the '80s",
+          "• It is the sequel to Ridley Scott's 1979 classic, Alien, and Aliens",
+          "• The sequel is the closest of any of the movies to be an equal to the original "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "865f6ebe7c6e"
+    },
+    {
       "id": "74ada132a8af",
       "title": "Star Trek: Red Shirts #4 - A Heartbreaking Tale of Sacrifice and Camaraderie",
       "outlet": "CBR",
@@ -2311,6 +2379,70 @@
       },
       "read_minutes": 4,
       "cluster_id": "326396f1ca49"
+    },
+    {
+      "id": "44624ed603f9",
+      "title": "Warren Buffett's cash fortress Berkshire closes gap with S&P 500 as AI worries depress Wall Street",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/08/warren-buffetts-cash-fortress-berkshire-closes-gap-with-sp-500-as-ai-worries-depress-wall-street.html",
+      "published_at": "Sat, 08 Nov 2025 13:33:38 GMT",
+      "bullets": [
+        "• Berkshire Hathaway's B shares and A shares moved 4.5% higher this week",
+        "• The Nasdaq's 3% drop was its worst weekly decline since April",
+        "• Operating profits for Berkshire's wholly owned companies were up 34% to almost $13.5 billion in the third quarter "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Berkshire Hathaway's B shares and A shares moved 4.5% higher this week",
+          "• The Nasdaq's 3% drop was its worst weekly decline since April"
+        ],
+        "hopeful_bullets": [
+          "• Berkshire Hathaway's B shares and A shares moved 4.5% higher this week",
+          "• The Nasdaq's 3% drop was its worst weekly decline since April"
+        ],
+        "stakes_bullets": [
+          "• Operating profits for Berkshire's wholly owned companies were up 34% to almost $13.5 billion in the third quarter "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "64d740c96c38"
+    },
+    {
+      "id": "6d37720b84fd",
+      "title": "Consumers on edge as ACA 'subsidy cliff' looms: 'Quite frankly, it's terrifying'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/08/aca-subsidy-cliff-government-shutdown.html",
+      "published_at": "Sat, 08 Nov 2025 13:30:01 GMT",
+      "bullets": [
+        "• The cost of the Affordable Care Act is set to rise from $1,200 to $3,200 a year",
+        "• That figure is about $43,000 a year, and that's a third or more of the cost of living in the U.S",
+        "• It's unclear how much of that will go up "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The cost of the Affordable Care Act is set to rise from $1,200 to $3,200 a year",
+          "• That figure is about $43,000 a year, and that's a third or more of the cost of living in the U.S"
+        ],
+        "hopeful_bullets": [
+          "• The cost of the Affordable Care Act is set to rise from $1,200 to $3,200 a year",
+          "• That figure is about $43,000 a year, and that's a third or more of the cost of living in the U.S"
+        ],
+        "stakes_bullets": [
+          "• It's unclear how much of that will go up "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "786e7307a3c4"
     },
     {
       "id": "017b612f0ac1",
@@ -2476,38 +2608,6 @@
       "cluster_id": "71c10acac77b"
     },
     {
-      "id": "486142c12db7",
-      "title": "Millionaires value their personal trainers and therapists more than their wealth advisors",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/08/millionaires-personal-trainers-wealth-advisors-professional-services-survey.html",
-      "published_at": "Sat, 08 Nov 2025 13:00:01 GMT",
-      "bullets": [
-        "• Only a third of millionaires use a wealth advisor for their financial planning",
-        "• 1 in 5 plan to fire their advisor due to high costs and poor service",
-        "• Millionaires are highly satisfied with their personal trainers, therapists and other professionals who help with their overall wellness and family care "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.943
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Only a third of millionaires use a wealth advisor for their financial planning",
-          "• 1 in 5 plan to fire their advisor due to high costs and poor service"
-        ],
-        "hopeful_bullets": [
-          "• Millionaires are highly satisfied with their personal trainers, therapists and other professionals who help with their overall wellness and family care "
-        ],
-        "stakes_bullets": [
-          "• Only a third of millionaires use a wealth advisor for their financial planning",
-          "• 1 in 5 plan to fire their advisor due to high costs and poor service"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "1af1a81afec3"
-    },
-    {
       "id": "e34bed39cf01",
       "title": "Carl Icahn returns to a familiar sector — auto repair — as he builds a 15% stake in Monro",
       "outlet": "US Top News and Analysis",
@@ -2540,38 +2640,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "bb24774456bf"
-    },
-    {
-      "id": "44624ed603f9",
-      "title": "Warren Buffett Watch: Cash fortress Berkshire closes gap with S&P 500 as AI worries depress Wall Street",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/08/warren-buffetts-cash-fortress-berkshire-closes-gap-with-sp-500-as-ai-worries-depress-wall-street.html",
-      "published_at": "Sat, 08 Nov 2025 12:43:25 GMT",
-      "bullets": [
-        "• Berkshire Hathaway's B shares and A shares moved 4.5% higher this week",
-        "• The Nasdaq's 3% drop was its worst weekly decline since April",
-        "• Operating profits for Berkshire's wholly owned companies were up 34% to almost $13.5 billion in the third quarter "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Berkshire Hathaway's B shares and A shares moved 4.5% higher this week",
-          "• The Nasdaq's 3% drop was its worst weekly decline since April"
-        ],
-        "hopeful_bullets": [
-          "• Berkshire Hathaway's B shares and A shares moved 4.5% higher this week",
-          "• The Nasdaq's 3% drop was its worst weekly decline since April"
-        ],
-        "stakes_bullets": [
-          "• Operating profits for Berkshire's wholly owned companies were up 34% to almost $13.5 billion in the third quarter "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "a3d739a2621f"
     },
     {
       "id": "eb01fb95fa61",
@@ -4059,75 +4127,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "5039c565004f"
-    },
-    {
-      "id": "3dce53284616",
-      "title": "10 Worst Things to Happen to Spider-Man Comics",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/worst-things-to-happen-to-spider-man-comics/",
-      "published_at": "Sat, 08 Nov 2025 04:15:12 GMT",
-      "bullets": [
-        "• Spider-Man has been a staple of Marvel Comics for the last sixty-three years",
-        "• Since his debut, the web-slinging superhero has starred in thousands of comic book issues",
-        "• The infamous Clone Saga is less a storyline than an era",
-        "• It stretches on for far too long and becomes incredibly convoluted "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Spider-Man has been a staple of Marvel Comics for the last sixty-three years",
-          "• Since his debut, the web-slinging superhero has starred in thousands of comic book issues"
-        ],
-        "hopeful_bullets": [
-          "• Spider-Man has been a staple of Marvel Comics for the last sixty-three years",
-          "• Since his debut, the web-slinging superhero has starred in thousands of comic book issues"
-        ],
-        "stakes_bullets": [
-          "• Spider-Man has been a staple of Marvel Comics for the last sixty-three years",
-          "• Since his debut, the web-slinging superhero has starred in thousands of comic book issues",
-          "• The infamous Clone Saga is less a storyline than an era"
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "972d85233e8d"
-    },
-    {
-      "id": "63fd18760eae",
-      "title": "10 Open-World Games That Are (Almost) as Good As Red Dead Redemption 2",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/greatest-open-world-games-like-rdr-2/",
-      "published_at": "Sat, 08 Nov 2025 04:15:12 GMT",
-      "bullets": [
-        "• Red Dead Redemption 2 is the gold standard for open-world games",
-        "• It had one of the most successful launches in gaming history and currently stands as the fourth best-selling game of all time",
-        "• These titles aren't quite as good as RDR2, but they come pretty close "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Red Dead Redemption 2 is the gold standard for open-world games",
-          "• It had one of the most successful launches in gaming history and currently stands as the fourth best-selling game of all time"
-        ],
-        "hopeful_bullets": [
-          "• Red Dead Redemption 2 is the gold standard for open-world games",
-          "• It had one of the most successful launches in gaming history and currently stands as the fourth best-selling game of all time"
-        ],
-        "stakes_bullets": [
-          "• Red Dead Redemption 2 is the gold standard for open-world games",
-          "• It had one of the most successful launches in gaming history and currently stands as the fourth best-selling game of all time",
-          "• These titles aren't quite as good as RDR2, but they come pretty close "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "bf82f63467cb"
     },
     {
       "id": "1fd5b9cdf706",
@@ -9995,15 +9994,15 @@
       ]
     },
     {
-      "id": "a3d739a2621f",
-      "topic": "berkshire buffett cash fortres",
+      "id": "64d740c96c38",
+      "topic": "berkshire buffett cash close",
       "keywords": [
         "berkshire",
         "buffett",
         "cash",
+        "close",
         "fortres",
-        "warren",
-        "watch"
+        "warren"
       ],
       "item_ids": [
         "44624ed603f9"
@@ -10043,6 +10042,24 @@
       ],
       "item_ids": [
         "975fe916f7b4"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "786e7307a3c4",
+      "topic": "aca cliff consumer edge",
+      "keywords": [
+        "aca",
+        "cliff",
+        "consumer",
+        "edge",
+        "loom",
+        "subsidy"
+      ],
+      "item_ids": [
+        "6d37720b84fd"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10133,24 +10150,6 @@
       ],
       "item_ids": [
         "c396036f0778"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "1af1a81afec3",
-      "topic": "millionaire personal therapist trainer",
-      "keywords": [
-        "millionaire",
-        "personal",
-        "therapist",
-        "trainer",
-        "value",
-        "wealth"
-      ],
-      "item_ids": [
-        "486142c12db7"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -13341,6 +13340,42 @@
       ]
     },
     {
+      "id": "3c0f0e750abf",
+      "topic": "amc best christma coming",
+      "keywords": [
+        "amc",
+        "best",
+        "christma",
+        "coming",
+        "ever",
+        "ghostbuster"
+      ],
+      "item_ids": [
+        "d276c729252d"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "865f6ebe7c6e",
+      "topic": "alien any closest modern",
+      "keywords": [
+        "alien",
+        "any",
+        "closest",
+        "modern",
+        "romulu",
+        "sci"
+      ],
+      "item_ids": [
+        "f441d701e1bf"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "326396f1ca49",
       "topic": "heartbreaking red shirt star",
       "keywords": [
@@ -13476,42 +13511,6 @@
       ],
       "item_ids": [
         "665c3ab2b1b9"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "972d85233e8d",
-      "topic": "comic happen man spider",
-      "keywords": [
-        "comic",
-        "happen",
-        "man",
-        "spider",
-        "thing",
-        "worst"
-      ],
-      "item_ids": [
-        "3dce53284616"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "bf82f63467cb",
-      "topic": "almost game good open",
-      "keywords": [
-        "almost",
-        "game",
-        "good",
-        "open",
-        "red",
-        "world"
-      ],
-      "item_ids": [
-        "63fd18760eae"
       ],
       "outlets": [
         "CBR"
