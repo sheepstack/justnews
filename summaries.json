@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-08T04:52:23Z",
+  "generated_at": "2025-11-08T05:19:23Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2480,6 +2480,41 @@
       "cluster_id": "2e116862dfd5"
     },
     {
+      "id": "8cf3268a16dd",
+      "title": "Netflix Has Exciting News for One Piece Anime Fans",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/netflix-one-piece-anime-remaster/",
+      "published_at": "Sat, 08 Nov 2025 04:59:11 GMT",
+      "bullets": [
+        "• Three batches of HD remastered One Piece episodes will arrive on Netflix on Nov",
+        "• 15",
+        "• The streaming giant is set to add three new batches of episodes of the One Piece anime series in the coming months",
+        "• The \"East Blue\" saga serves as the opening story for One Piece",
+        "• There is still no word on when a WIT Studio remake is expected to debut "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.97
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Three batches of HD remastered One Piece episodes will arrive on Netflix on Nov",
+          "• 15"
+        ],
+        "hopeful_bullets": [
+          "• Three batches of HD remastered One Piece episodes will arrive on Netflix on Nov",
+          "• 15"
+        ],
+        "stakes_bullets": [
+          "• Three batches of HD remastered One Piece episodes will arrive on Netflix on Nov",
+          "• There is still no word on when a WIT Studio remake is expected to debut "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ed6041b3346d"
+    },
+    {
       "id": "492802345f31",
       "title": "10 Best Anime Backstories of All Time, Officially Ranked",
       "outlet": "CBR",
@@ -2812,40 +2847,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "70bf5c2bd805"
-    },
-    {
-      "id": "c0bf249e6284",
-      "title": "Marvel's 10 Best Sci-Fi Stories of All Time, Ranked",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-marvel-sci-fi-stories-of-all-time-ranked/",
-      "published_at": "Sat, 08 Nov 2025 03:50:12 GMT",
-      "bullets": [
-        "• The Rise and Fall of the Shi'ar Empire is one of the best sci-fi books Marvel has produced",
-        "• Ed Brubaker's severely underrated story is brutal, exciting, and, most importantly, deeply Sci-fi",
-        "• The X-Men are one of their more space-based teams in Marvel Comics' history "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Rise and Fall of the Shi'ar Empire is one of the best sci-fi books Marvel has produced",
-          "• Ed Brubaker's severely underrated story is brutal, exciting, and, most importantly, deeply Sci-fi"
-        ],
-        "hopeful_bullets": [
-          "• The Rise and Fall of the Shi'ar Empire is one of the best sci-fi books Marvel has produced",
-          "• Ed Brubaker's severely underrated story is brutal, exciting, and, most importantly, deeply Sci-fi"
-        ],
-        "stakes_bullets": [
-          "• The Rise and Fall of the Shi'ar Empire is one of the best sci-fi books Marvel has produced",
-          "• Ed Brubaker's severely underrated story is brutal, exciting, and, most importantly, deeply Sci-fi",
-          "• The X-Men are one of their more space-based teams in Marvel Comics' history "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "f2149e4268aa"
     },
     {
       "id": "68d74c81b0ce",
@@ -7229,15 +7230,15 @@
     },
     {
       "id": "24dd6b607bf4",
-      "title": "More than 50 people injured in mosque blast at Jakarta high school",
+      "title": "More than 50 people injured in blast at mosque in Jakarta school complex",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/clykgdg3l42o?at_medium=RSS&at_campaign=rss",
       "published_at": "Fri, 07 Nov 2025 15:26:41 GMT",
       "bullets": [
-        "• More than 50 people injured in mosque blast at Jakarta high school",
+        "• More than 50 people injured in blast at mosque in Jakarta school complex",
         "• Authorities identify 17-year-old student as the suspected perpetrator",
         "• The victims sustained a range of injuries, including severe burns, police say",
-        "• Pupils say the suspect was a \"loner\" who often made drawings depicting violence "
+        "• Pupils say the suspect was a 'loner' who often made drawings depicting violence "
       ],
       "category": "World",
       "sentiment": {
@@ -7246,20 +7247,20 @@
       },
       "moods": {
         "brief_bullets": [
-          "• More than 50 people injured in mosque blast at Jakarta high school",
+          "• More than 50 people injured in blast at mosque in Jakarta school complex",
           "• Authorities identify 17-year-old student as the suspected perpetrator"
         ],
         "hopeful_bullets": [
-          "• Pupils say the suspect was a \"loner\" who often made drawings depicting violence "
+          "• Pupils say the suspect was a 'loner' who often made drawings depicting violence "
         ],
         "stakes_bullets": [
-          "• More than 50 people injured in mosque blast at Jakarta high school",
+          "• More than 50 people injured in blast at mosque in Jakarta school complex",
           "• Authorities identify 17-year-old student as the suspected perpetrator",
           "• The victims sustained a range of injuries, including severe burns, police say"
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "02a998a6af4b"
+      "cluster_id": "7c44a95010f4"
     },
     {
       "id": "cf6c57c88e8b",
@@ -9420,15 +9421,15 @@
       ]
     },
     {
-      "id": "02a998a6af4b",
-      "topic": "blast high injured jakarta",
+      "id": "7c44a95010f4",
+      "topic": "blast injured jakarta mosque",
       "keywords": [
         "blast",
-        "high",
         "injured",
         "jakarta",
         "mosque",
-        "people"
+        "people",
+        "school"
       ],
       "item_ids": [
         "24dd6b607bf4"
@@ -13391,6 +13392,23 @@
       ]
     },
     {
+      "id": "ed6041b3346d",
+      "topic": "anime exciting fans netflix",
+      "keywords": [
+        "anime",
+        "exciting",
+        "fans",
+        "netflix",
+        "piece"
+      ],
+      "item_ids": [
+        "8cf3268a16dd"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "e7c24f417b09",
       "topic": "all anime backstorie best",
       "keywords": [
@@ -13544,24 +13562,6 @@
       ],
       "item_ids": [
         "7206564da95d"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "f2149e4268aa",
-      "topic": "all best marvel sci",
-      "keywords": [
-        "all",
-        "best",
-        "marvel",
-        "sci",
-        "storie",
-        "time"
-      ],
-      "item_ids": [
-        "c0bf249e6284"
       ],
       "outlets": [
         "CBR"
