@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-08T10:57:44Z",
+  "generated_at": "2025-11-08T11:15:54Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2314,6 +2314,40 @@
       },
       "read_minutes": 40,
       "cluster_id": "2e116862dfd5"
+    },
+    {
+      "id": "a29e493fa1f4",
+      "title": "Fire at Turkey perfume warehouse kills six",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0kprpy26k6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 08 Nov 2025 10:28:43 GMT",
+      "bullets": [
+        "• Fire at Turkey perfume warehouse in north-western Turkey has killed six people",
+        "• The blaze broke out at 09:05 local time on Saturday in Dilovasi, Kocaeli Province's governorship said",
+        "• The origins of the fire in the Mimar Sinon neighbourhood were still unclear "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fire at Turkey perfume warehouse in north-western Turkey has killed six people",
+          "• The blaze broke out at 09:05 local time on Saturday in Dilovasi, Kocaeli Province's governorship said"
+        ],
+        "hopeful_bullets": [
+          "• Fire at Turkey perfume warehouse in north-western Turkey has killed six people",
+          "• The blaze broke out at 09:05 local time on Saturday in Dilovasi, Kocaeli Province's governorship said"
+        ],
+        "stakes_bullets": [
+          "• Fire at Turkey perfume warehouse in north-western Turkey has killed six people",
+          "• The blaze broke out at 09:05 local time on Saturday in Dilovasi, Kocaeli Province's governorship said",
+          "• The origins of the fire in the Mimar Sinon neighbourhood were still unclear "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "208d214057d6"
     },
     {
       "id": "6cb0b064a59c",
@@ -7487,40 +7521,6 @@
       "cluster_id": "a44e09e3d7f7"
     },
     {
-      "id": "24dd6b607bf4",
-      "title": "More than 50 people injured in blast at mosque in Jakarta school complex",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clykgdg3l42o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 07 Nov 2025 15:26:41 GMT",
-      "bullets": [
-        "• More than 50 people injured in blast at mosque in Jakarta school complex",
-        "• Authorities identify 17-year-old student as the suspected perpetrator",
-        "• The victims sustained a range of injuries, including severe burns, police say",
-        "• Pupils say the suspect was a 'loner' who often made drawings depicting violence "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• More than 50 people injured in blast at mosque in Jakarta school complex",
-          "• Authorities identify 17-year-old student as the suspected perpetrator"
-        ],
-        "hopeful_bullets": [
-          "• Pupils say the suspect was a 'loner' who often made drawings depicting violence "
-        ],
-        "stakes_bullets": [
-          "• More than 50 people injured in blast at mosque in Jakarta school complex",
-          "• Authorities identify 17-year-old student as the suspected perpetrator",
-          "• The victims sustained a range of injuries, including severe burns, police say"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7c44a95010f4"
-    },
-    {
       "id": "cf6c57c88e8b",
       "title": "Ford says “no exact date” to restart F-150 Lightning production",
       "outlet": "Ars Technica - All content",
@@ -9483,18 +9483,18 @@
       ]
     },
     {
-      "id": "7c44a95010f4",
-      "topic": "blast injured jakarta mosque",
+      "id": "208d214057d6",
+      "topic": "fire kill perfume six",
       "keywords": [
-        "blast",
-        "injured",
-        "jakarta",
-        "mosque",
-        "people",
-        "school"
+        "fire",
+        "kill",
+        "perfume",
+        "six",
+        "turkey",
+        "warehouse"
       ],
       "item_ids": [
-        "24dd6b607bf4"
+        "a29e493fa1f4"
       ],
       "outlets": [
         "BBC News"
