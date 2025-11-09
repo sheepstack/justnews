@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-09T14:56:01Z",
+  "generated_at": "2025-11-09T15:15:14Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -1979,8 +1979,39 @@
       "cluster_id": "85c2f547443d"
     },
     {
+      "id": "801a46f4188b",
+      "title": "Star Trek: Deep Space Nine Quietly Invented Prestige Serialized TV",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/star-trek-perfected-seralized-tv-before-the-wire/",
+      "published_at": "Sun, 09 Nov 2025 15:00:12 GMT",
+      "bullets": [
+        "• Star Trek: Deep Space Nine was a controversial series for its many departures from what fans expected in the universe Gene Roddenberry created",
+        "• The show ended up being very prescient, both for its allegorical storytelling and the way it told those stories on TV "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.945
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Star Trek: Deep Space Nine was a controversial series for its many departures from what fans expected in the universe Gene Roddenberry created",
+          "• The show ended up being very prescient, both for its allegorical storytelling and the way it told those stories on TV "
+        ],
+        "hopeful_bullets": [
+          "• Star Trek: Deep Space Nine was a controversial series for its many departures from what fans expected in the universe Gene Roddenberry created",
+          "• The show ended up being very prescient, both for its allegorical storytelling and the way it told those stories on TV "
+        ],
+        "stakes_bullets": [
+          "• Star Trek: Deep Space Nine was a controversial series for its many departures from what fans expected in the universe Gene Roddenberry created"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "e65b5de12cd9"
+    },
+    {
       "id": "515a56f6d0f7",
-      "title": "Jeremy Renner Threatens Legal Action Amid Recent Allegations from Disney Filmmaker",
+      "title": "Jeremy Renner Threatens Legal Action Amid Allegations from Disney Filmmaker",
       "outlet": "CBR",
       "url": "https://www.cbr.com/jeremy-renner-response-legal-accusations/",
       "published_at": "Sun, 09 Nov 2025 14:37:07 GMT",
@@ -2007,8 +2038,75 @@
           "• The letter also warns Zhou if she doesn't stop spreading \"salacious lies,\" she will face legal action "
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "672747467104"
+      "read_minutes": 3,
+      "cluster_id": "658a96748141"
+    },
+    {
+      "id": "59867e78229b",
+      "title": "Air traffic staffing shortages disrupt thousands of flights while FAA-mandated cancellations to worsen this week if shutdown continues",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/08/government-shutdown-flight-cancelations-faa.html",
+      "published_at": "Sun, 09 Nov 2025 14:34:09 GMT",
+      "bullets": [
+        "• Nearly 7,000 U.S",
+        "• flights were delayed and more than 2,000 were canceled on Saturday",
+        "• Air traffic controllers, along with airport security screeners, are required to work without their regular paychecks",
+        "• Some controllers have taken second jobs to make ends meet, union officials say "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nearly 7,000 U.S",
+          "• flights were delayed and more than 2,000 were canceled on Saturday"
+        ],
+        "hopeful_bullets": [
+          "• Nearly 7,000 U.S",
+          "• flights were delayed and more than 2,000 were canceled on Saturday"
+        ],
+        "stakes_bullets": [
+          "• Air traffic controllers, along with airport security screeners, are required to work without their regular paychecks"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "02246e6d5f6f"
+    },
+    {
+      "id": "6748e9ebc869",
+      "title": "North Carolina police officer fatally shot in hospital emergency room incident",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/09/north-carolina-hospital-shooting",
+      "published_at": "Sun, 09 Nov 2025 14:31:34 GMT",
+      "bullets": [
+        "• A “person of interest’s interest” in the shooting is in custody, police say",
+        "• The WakeMed police department patrols six facilities in the WakeMed Healthplex, including the Garner hospital",
+        "• The shooting happened around 9am Saturday at WakeMed Garner Healthplex in North Carolina "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.964
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A “person of interest’s interest” in the shooting is in custody, police say",
+          "• The WakeMed police department patrols six facilities in the WakeMed Healthplex, including the Garner hospital"
+        ],
+        "hopeful_bullets": [
+          "• A “person of interest’s interest” in the shooting is in custody, police say",
+          "• The WakeMed police department patrols six facilities in the WakeMed Healthplex, including the Garner hospital"
+        ],
+        "stakes_bullets": [
+          "• A “person of interest’s interest” in the shooting is in custody, police say",
+          "• The WakeMed police department patrols six facilities in the WakeMed Healthplex, including the Garner hospital",
+          "• The shooting happened around 9am Saturday at WakeMed Garner Healthplex in North Carolina "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "58994575ceb5"
     },
     {
       "id": "0de016fd9192",
@@ -2536,40 +2634,6 @@
       "cluster_id": "36a6dce9cd3f"
     },
     {
-      "id": "59867e78229b",
-      "title": "Air traffic staffing shortages disrupt thousands of flights while FAA-mandated cancellations to worsen next week if shutdown continues",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/08/government-shutdown-flight-cancelations-faa.html",
-      "published_at": "Sun, 09 Nov 2025 12:05:14 GMT",
-      "bullets": [
-        "• Nearly 7,000 U.S",
-        "• flights were delayed and more than 2,000 were canceled Saturday",
-        "• Air traffic controllers, along with airport security screeners, are required to work without their regular paychecks",
-        "• They will miss their second full paycheck on Monday, according to their union "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nearly 7,000 U.S",
-          "• flights were delayed and more than 2,000 were canceled Saturday"
-        ],
-        "hopeful_bullets": [
-          "• Nearly 7,000 U.S",
-          "• flights were delayed and more than 2,000 were canceled Saturday"
-        ],
-        "stakes_bullets": [
-          "• Air traffic controllers, along with airport security screeners, are required to work without their regular paychecks",
-          "• They will miss their second full paycheck on Monday, according to their union "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "02246e6d5f6f"
-    },
-    {
       "id": "9baa228e520f",
       "title": "China consumer prices return to growth in October, producer price slump extends to three years",
       "outlet": "US Top News and Analysis",
@@ -3001,6 +3065,40 @@
       "cluster_id": "5c676094e73a"
     },
     {
+      "id": "eeb8909ab694",
+      "title": "Israel receives remains of hostage that Hamas says is IDF soldier killed in 2014",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/09/nx-s1-5603375/hamas-returns-idf-soldier-hadar-goldin-killed-2014",
+      "published_at": "Sun, 09 Nov 2025 09:27:54 -0500",
+      "bullets": [
+        "• Hamas says it found the body of Hadar Goldin in a tunnel in Gaza on Saturday",
+        "• Goldin was killed on Aug",
+        "• 1, 2014, two hours after a ceasefire took effect ending that year's war between Israel and Hamas",
+        "• If the body is identified as Goldin's, there will be four bodies of hostages remaining in Gaza "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hamas says it found the body of Hadar Goldin in a tunnel in Gaza on Saturday",
+          "• Goldin was killed on Aug"
+        ],
+        "hopeful_bullets": [
+          "• Hamas says it found the body of Hadar Goldin in a tunnel in Gaza on Saturday",
+          "• Goldin was killed on Aug"
+        ],
+        "stakes_bullets": [
+          "• 1, 2014, two hours after a ceasefire took effect ending that year's war between Israel and Hamas",
+          "• If the body is identified as Goldin's, there will be four bodies of hostages remaining in Gaza "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "abfb8aec5e50"
+    },
+    {
       "id": "ae03f8e03cfc",
       "title": "More than 1,400 flights cancelled as US air traffic cuts enter second day",
       "outlet": "BBC News",
@@ -3398,39 +3496,6 @@
       "cluster_id": "f5a70cc61f52"
     },
     {
-      "id": "e7abe8b79664",
-      "title": "Mary Shelley’s Frankenstein Review: Robert De Niro's Forgotten Take on the Classic Monster Is Pure '90s Fever Dream (But Oddly Fascinating)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/mary-shelley-frankenstein-1994-review/",
-      "published_at": "Sun, 09 Nov 2025 04:56:47 GMT",
-      "bullets": [
-        "• 1994's Mary Shelley’s Frankenstein is one of the boldest and strangest films of its time",
-        "• The film arrived during a surge of literary revivals and in Branagh's career",
-        "• Branagh was emerging as Hollywood's chosen inheritor of Shakespeare stories "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 1994's Mary Shelley’s Frankenstein is one of the boldest and strangest films of its time",
-          "• The film arrived during a surge of literary revivals and in Branagh's career"
-        ],
-        "hopeful_bullets": [
-          "• The film arrived during a surge of literary revivals and in Branagh's career"
-        ],
-        "stakes_bullets": [
-          "• 1994's Mary Shelley’s Frankenstein is one of the boldest and strangest films of its time",
-          "• The film arrived during a surge of literary revivals and in Branagh's career",
-          "• Branagh was emerging as Hollywood's chosen inheritor of Shakespeare stories "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "6dddffc92844"
-    },
-    {
       "id": "51629e286dcc",
       "title": "Outkast Ushered Into Rock & Roll Hall of Fame by Donald Glover and a Stage Full of Dungeon Family",
       "outlet": "Music News",
@@ -3786,39 +3851,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "b1932ee4ab0b"
-    },
-    {
-      "id": "6297778dd2d6",
-      "title": "Nearly 1,500 flights canceled on second day of cuts tied to government shutdown",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/08/flight-cancellations-government-shutdown",
-      "published_at": "Sun, 09 Nov 2025 02:56:13 GMT",
-      "bullets": [
-        "• US airlines canceled 1,460 flights on Saturday, the second day of the FAA's order to reduce air traffic because of the government shutdown",
-        "• So far, the slowdown at many of the nation’s busiest airports hasn’t caused widespread disruptions",
-        "• Analysts warn that the upheaval will intensify and be felt far beyond air travel if the cancellations pick up "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US airlines canceled 1,460 flights on Saturday, the second day of the FAA's order to reduce air traffic because of the government shutdown",
-          "• So far, the slowdown at many of the nation’s busiest airports hasn’t caused widespread disruptions"
-        ],
-        "hopeful_bullets": [
-          "• US airlines canceled 1,460 flights on Saturday, the second day of the FAA's order to reduce air traffic because of the government shutdown"
-        ],
-        "stakes_bullets": [
-          "• US airlines canceled 1,460 flights on Saturday, the second day of the FAA's order to reduce air traffic because of the government shutdown",
-          "• So far, the slowdown at many of the nation’s busiest airports hasn’t caused widespread disruptions",
-          "• Analysts warn that the upheaval will intensify and be felt far beyond air travel if the cancellations pick up "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "46fc9a334e1c"
     },
     {
       "id": "e7f3d02bd58e",
@@ -5210,41 +5242,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "86cd5e2c5b28"
-    },
-    {
-      "id": "b1930301f9c1",
-      "title": "Doctor in Sudan wins $1 million prize for his extraordinary courage: 'It is my duty'",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/goats-and-soda/2025/11/08/g-s1-96950/sudan-doctor-aurora-prize",
-      "published_at": "Sat, 08 Nov 2025 08:58:40 -0500",
-      "bullets": [
-        "• Dr",
-        "• Jamal Eltaeb of Sudan wins $1 million Aurora Prize for Awakening Humanity",
-        "• \"Everywhere you look, there is pain that words cannot capture,\" he says",
-        "• Sudan's civil war broke out in 2023, with a paramilitary group battling government forces",
-        "• Over 150,000 have been killed and more than 12 million people displaced "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dr",
-          "• Jamal Eltaeb of Sudan wins $1 million Aurora Prize for Awakening Humanity"
-        ],
-        "hopeful_bullets": [
-          "• Jamal Eltaeb of Sudan wins $1 million Aurora Prize for Awakening Humanity"
-        ],
-        "stakes_bullets": [
-          "• Dr",
-          "• Jamal Eltaeb of Sudan wins $1 million Aurora Prize for Awakening Humanity",
-          "• \"Everywhere you look, there is pain that words cannot capture,\" he says"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "cd541de91a47"
     },
     {
       "id": "691508874cb6",
@@ -9374,6 +9371,24 @@
       ]
     },
     {
+      "id": "58994575ceb5",
+      "topic": "carolina fatally north officer",
+      "keywords": [
+        "carolina",
+        "fatally",
+        "north",
+        "officer",
+        "police",
+        "shot"
+      ],
+      "item_ids": [
+        "6748e9ebc869"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "7f73803eece0",
       "topic": "algorithm care eric lose",
       "keywords": [
@@ -9518,24 +9533,6 @@
       ]
     },
     {
-      "id": "46fc9a334e1c",
-      "topic": "500 canceled day flight",
-      "keywords": [
-        "500",
-        "canceled",
-        "day",
-        "flight",
-        "nearly",
-        "second"
-      ],
-      "item_ids": [
-        "6297778dd2d6"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "c140ac41ee3a",
       "topic": "authorized dhs engineles head",
       "keywords": [
@@ -9551,6 +9548,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "abfb8aec5e50",
+      "topic": "hama hostage idf israel",
+      "keywords": [
+        "hama",
+        "hostage",
+        "idf",
+        "israel",
+        "receive",
+        "remain"
+      ],
+      "item_ids": [
+        "eeb8909ab694"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9710,24 +9725,6 @@
       ],
       "item_ids": [
         "6543d5af0c79"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "cd541de91a47",
-      "topic": "doctor extraordinary million prize",
-      "keywords": [
-        "doctor",
-        "extraordinary",
-        "million",
-        "prize",
-        "sudan",
-        "wins"
-      ],
-      "item_ids": [
-        "b1930301f9c1"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -12957,13 +12954,31 @@
       ]
     },
     {
-      "id": "672747467104",
-      "topic": "action jeremy legal recent",
+      "id": "e65b5de12cd9",
+      "topic": "deep nine quietly space",
+      "keywords": [
+        "deep",
+        "nine",
+        "quietly",
+        "space",
+        "star",
+        "trek"
+      ],
+      "item_ids": [
+        "801a46f4188b"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "658a96748141",
+      "topic": "action allegation jeremy legal",
       "keywords": [
         "action",
+        "allegation",
         "jeremy",
         "legal",
-        "recent",
         "renner",
         "threaten"
       ],
@@ -13112,24 +13127,6 @@
       ],
       "item_ids": [
         "ce161f34d8b4"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "6dddffc92844",
-      "topic": "frankenstein mary niro review",
-      "keywords": [
-        "frankenstein",
-        "mary",
-        "niro",
-        "review",
-        "robert",
-        "shelley"
-      ],
-      "item_ids": [
-        "e7abe8b79664"
       ],
       "outlets": [
         "CBR"
