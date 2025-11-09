@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-08T23:55:43Z",
+  "generated_at": "2025-11-09T00:14:38Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2112,6 +2112,41 @@
       "cluster_id": "85c2f547443d"
     },
     {
+      "id": "dce98fedec48",
+      "title": "Netflix's Lockwood & Co. Is 1 of the Best Book Adaptations Ever Made",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/netflix-lockwood-and-co-best-book-adaptation-ever/",
+      "published_at": "Sun, 09 Nov 2025 00:05:12 GMT",
+      "bullets": [
+        "• Netflix's Lockwood & Co",
+        "• takes place in an alternate London, where an epidemic of ghosts has swept over the world",
+        "• Only the young have the talent to see, hear, and fight these visitors from across the veil",
+        "• The British series is a fantastic adaptation, staying true to its source material "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Netflix's Lockwood & Co",
+          "• takes place in an alternate London, where an epidemic of ghosts has swept over the world"
+        ],
+        "hopeful_bullets": [
+          "• Netflix's Lockwood & Co",
+          "• takes place in an alternate London, where an epidemic of ghosts has swept over the world"
+        ],
+        "stakes_bullets": [
+          "• Netflix's Lockwood & Co",
+          "• takes place in an alternate London, where an epidemic of ghosts has swept over the world",
+          "• Only the young have the talent to see, hear, and fight these visitors from across the veil"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "a3e27bc8c018"
+    },
+    {
       "id": "c1fa9628700b",
       "title": "Boba Fett’s Comeback W/ Scott Ryfun – SWR #474",
       "outlet": "The Star Wars Report Podcast",
@@ -2782,38 +2817,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "cba93a76f597"
-    },
-    {
-      "id": "28cf43977c43",
-      "title": "Hatsune Miku's New 2025 Win Marks Another Major Vocaloid Milestone",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/hatsune-miku-joysound-win-2025/",
-      "published_at": "Sat, 08 Nov 2025 21:30:12 GMT",
-      "bullets": [
-        "• Hatsune Miku: Colorful Stage! The Movie: A Miku Who Can't Sing, came in first place in the anime and game section",
-        "• In doing so, it beat competition from the highest-grossing anime film of all time, Demon Slayer: Infinity Castle, which landed in fourth place "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hatsune Miku: Colorful Stage! The Movie: A Miku Who Can't Sing, came in first place in the anime and game section",
-          "• In doing so, it beat competition from the highest-grossing anime film of all time, Demon Slayer: Infinity Castle, which landed in fourth place "
-        ],
-        "hopeful_bullets": [
-          "• Hatsune Miku: Colorful Stage! The Movie: A Miku Who Can't Sing, came in first place in the anime and game section",
-          "• In doing so, it beat competition from the highest-grossing anime film of all time, Demon Slayer: Infinity Castle, which landed in fourth place "
-        ],
-        "stakes_bullets": [
-          "• Hatsune Miku: Colorful Stage! The Movie: A Miku Who Can't Sing, came in first place in the anime and game section",
-          "• In doing so, it beat competition from the highest-grossing anime film of all time, Demon Slayer: Infinity Castle, which landed in fourth place "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "5aa14f96e6b5"
     },
     {
       "id": "f39c6fbb78b8",
@@ -8615,7 +8618,7 @@
           "• A small cheap MacBook powered by a mobile phone chip sounds a lot like a particular early aughts laptop trend "
         ]
       },
-      "read_minutes": 4,
+      "read_minutes": 3,
       "cluster_id": "8ae3ca075fc4"
     },
     {
@@ -13454,6 +13457,24 @@
       ]
     },
     {
+      "id": "a3e27bc8c018",
+      "topic": "adaptation best book ever",
+      "keywords": [
+        "adaptation",
+        "best",
+        "book",
+        "ever",
+        "lockwood",
+        "netflix"
+      ],
+      "item_ids": [
+        "dce98fedec48"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "35768e35e3ef",
       "topic": "creepiest david fincher movie",
       "keywords": [
@@ -13609,24 +13630,6 @@
       ],
       "item_ids": [
         "9a8936499c07"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "5aa14f96e6b5",
-      "topic": "2025 another hatsune mark",
-      "keywords": [
-        "2025",
-        "another",
-        "hatsune",
-        "mark",
-        "miku",
-        "win"
-      ],
-      "item_ids": [
-        "28cf43977c43"
       ],
       "outlets": [
         "CBR"
