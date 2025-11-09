@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-09T10:58:05Z",
+  "generated_at": "2025-11-09T11:06:37Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2078,6 +2078,39 @@
       "cluster_id": "85c2f547443d"
     },
     {
+      "id": "5bd5bccbf5b0",
+      "title": "UK military to help protect Belgium after drone incursions",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3dn2ep584ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 09 Nov 2025 10:36:59 GMT",
+      "bullets": [
+        "• UK military personnel and equipment are being sent to Belgium to help it bolster its defences",
+        "• UK head of the military said it was \"plausible\" drones were ordered by Russia",
+        "• Belgium's main airport Zavantem was forced to close after drones were spotted nearby "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• UK military personnel and equipment are being sent to Belgium to help it bolster its defences",
+          "• UK head of the military said it was \"plausible\" drones were ordered by Russia"
+        ],
+        "hopeful_bullets": [
+          "• UK military personnel and equipment are being sent to Belgium to help it bolster its defences"
+        ],
+        "stakes_bullets": [
+          "• UK military personnel and equipment are being sent to Belgium to help it bolster its defences",
+          "• UK head of the military said it was \"plausible\" drones were ordered by Russia",
+          "• Belgium's main airport Zavantem was forced to close after drones were spotted nearby "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "104d69ea7fe2"
+    },
+    {
       "id": "59867e78229b",
       "title": "Air traffic staffing shortages disrupt thousands of flights while FAA-mandated cancellations to worsen next week if shutdown continues",
       "outlet": "US Top News and Analysis",
@@ -2110,39 +2143,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "02246e6d5f6f"
-    },
-    {
-      "id": "5bd5bccbf5b0",
-      "title": "UK military to help protect Belgium after drone incursions",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3dn2ep584ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 09 Nov 2025 10:11:42 GMT",
-      "bullets": [
-        "• UK military personnel and equipment are being sent to Belgium to help it bolster its defences",
-        "• UK head of the military said it was \"plausible\" drones were ordered by Russia",
-        "• Belgium's main airport Zavantem was forced to close after drones were spotted nearby "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• UK military personnel and equipment are being sent to Belgium to help it bolster its defences",
-          "• UK head of the military said it was \"plausible\" drones were ordered by Russia"
-        ],
-        "hopeful_bullets": [
-          "• UK military personnel and equipment are being sent to Belgium to help it bolster its defences"
-        ],
-        "stakes_bullets": [
-          "• UK military personnel and equipment are being sent to Belgium to help it bolster its defences",
-          "• UK head of the military said it was \"plausible\" drones were ordered by Russia",
-          "• Belgium's main airport Zavantem was forced to close after drones were spotted nearby "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "104d69ea7fe2"
     },
     {
       "id": "5ba04c37f9e5",
@@ -5046,6 +5046,37 @@
       "cluster_id": "2f3aae8ceed5"
     },
     {
+      "id": "6cb0b064a59c",
+      "title": "Is Burying the Trees Killed by Wildfires a Climate Solution?",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/08112025/wildfire-destroyed-trees-biomass-burial-carbon-credits/",
+      "published_at": "Sat, 08 Nov 2025 10:05:00 +0000",
+      "bullets": [
+        "• The 2021 PF Fire killed more than 50,000 trees on the Gentry ranch in Hardin, Montana",
+        "• Rebecca Gentry reached out to Mast Reforestation for help planting trees, not burying them",
+        "• A 22-foot pit dug into a hillside on her property in June 2025 was up and running "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The 2021 PF Fire killed more than 50,000 trees on the Gentry ranch in Hardin, Montana",
+          "• Rebecca Gentry reached out to Mast Reforestation for help planting trees, not burying them"
+        ],
+        "hopeful_bullets": [
+          "• Rebecca Gentry reached out to Mast Reforestation for help planting trees, not burying them"
+        ],
+        "stakes_bullets": [
+          "• Rebecca Gentry reached out to Mast Reforestation for help planting trees, not burying them"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "aba6594fdb1b"
+    },
+    {
       "id": "e69a67947e2f",
       "title": "Why Are We All Still Carrying Around Car Keys?",
       "outlet": "WIRED",
@@ -5177,6 +5208,39 @@
       },
       "read_minutes": 3,
       "cluster_id": "022606ef1754"
+    },
+    {
+      "id": "10ee73c342a7",
+      "title": "A Data Center Could Be Coming to an Upstate New York Town, and Residents Are Speaking Out",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/08112025/lansing-new-york-data-center-development/",
+      "published_at": "Sat, 08 Nov 2025 09:55:00 +0000",
+      "bullets": [
+        "• Residents in New York's Finger Lakes region want to block construction of a data center",
+        "• The center would be able to generate up to 400 megawatts of power",
+        "• Residents are concerned that the center will raise electricity costs and drain water resources",
+        "• The town board is scheduled to vote this month on a proposed moratorium on construction "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Residents in New York's Finger Lakes region want to block construction of a data center",
+          "• The center would be able to generate up to 400 megawatts of power"
+        ],
+        "hopeful_bullets": [
+          "• Residents in New York's Finger Lakes region want to block construction of a data center",
+          "• The center would be able to generate up to 400 megawatts of power"
+        ],
+        "stakes_bullets": [
+          "• Residents are concerned that the center will raise electricity costs and drain water resources"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "4bbf98866d36"
     },
     {
       "id": "76d3e695d86f",
@@ -6364,6 +6428,39 @@
       },
       "read_minutes": 4,
       "cluster_id": "3f76f2ec8b28"
+    },
+    {
+      "id": "73a289092075",
+      "title": "Trump Names More Priority Minerals for U.S. Mining Revival",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/07112025/trump-administration-adds-priority-minerals/",
+      "published_at": "Fri, 07 Nov 2025 22:20:03 +0000",
+      "bullets": [
+        "• The list of critical minerals now includes 60 elements and compounds, up from 35 in 2018",
+        "• The minerals are designated as essential for advanced manufacturing but primarily sourced from foreign markets",
+        "• Inclusion on the list brings U.S",
+        "• government funding priorities and expands companies’ eligibility for incentive programs "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The list of critical minerals now includes 60 elements and compounds, up from 35 in 2018",
+          "• The minerals are designated as essential for advanced manufacturing but primarily sourced from foreign markets"
+        ],
+        "hopeful_bullets": [
+          "• The list of critical minerals now includes 60 elements and compounds, up from 35 in 2018",
+          "• The minerals are designated as essential for advanced manufacturing but primarily sourced from foreign markets"
+        ],
+        "stakes_bullets": [
+          "• government funding priorities and expands companies’ eligibility for incentive programs "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "412a36eabbb6"
     },
     {
       "id": "0a50df26858e",
@@ -11575,6 +11672,24 @@
       ]
     },
     {
+      "id": "aba6594fdb1b",
+      "topic": "burying climate killed solution",
+      "keywords": [
+        "burying",
+        "climate",
+        "killed",
+        "solution",
+        "tree",
+        "wildfire"
+      ],
+      "item_ids": [
+        "6cb0b064a59c"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "8cfd664615c3",
       "topic": "climate despite group headwind",
       "keywords": [
@@ -11587,6 +11702,24 @@
       ],
       "item_ids": [
         "12de2d771c84"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "4bbf98866d36",
+      "topic": "center coming data town",
+      "keywords": [
+        "center",
+        "coming",
+        "data",
+        "town",
+        "upstate",
+        "york"
+      ],
+      "item_ids": [
+        "10ee73c342a7"
       ],
       "outlets": [
         "Inside Climate News"
@@ -11623,6 +11756,24 @@
       ],
       "item_ids": [
         "23d35fadbf10"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "412a36eabbb6",
+      "topic": "mineral mining name priority",
+      "keywords": [
+        "mineral",
+        "mining",
+        "name",
+        "priority",
+        "revival",
+        "trump"
+      ],
+      "item_ids": [
+        "73a289092075"
       ],
       "outlets": [
         "Inside Climate News"
