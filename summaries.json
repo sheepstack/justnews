@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-10T23:05:25Z",
+  "generated_at": "2025-11-10T23:11:13Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2039,37 +2039,6 @@
       "cluster_id": "976649073a7f"
     },
     {
-      "id": "af5736645d8b",
-      "title": "Israel receives body of soldier killed in 2014 in Gaza",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2kp3yjy8q7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 09 Nov 2025 19:41:15 GMT",
-      "bullets": [
-        "• Israel receives body of Lt Hadar Goldin, a soldier killed in Gaza in 2014",
-        "• Lt Goldin's father: \"Victory means bringing home the hostages and bringing home our soldiers to Israel\" Israeli military says he was formally identified and will now be buried "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.829
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Israel receives body of Lt Hadar Goldin, a soldier killed in Gaza in 2014",
-          "• Lt Goldin's father: \"Victory means bringing home the hostages and bringing home our soldiers to Israel\" Israeli military says he was formally identified and will now be buried "
-        ],
-        "hopeful_bullets": [
-          "• Israel receives body of Lt Hadar Goldin, a soldier killed in Gaza in 2014",
-          "• Lt Goldin's father: \"Victory means bringing home the hostages and bringing home our soldiers to Israel\" Israeli military says he was formally identified and will now be buried "
-        ],
-        "stakes_bullets": [
-          "• Lt Goldin's father: \"Victory means bringing home the hostages and bringing home our soldiers to Israel\" Israeli military says he was formally identified and will now be buried "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "588369529d0b"
-    },
-    {
       "id": "11f941a3e53d",
       "title": "Here’s how orbital dynamics wizardry helped save NASA’s next Mars mission",
       "outlet": "Ars Technica - All content",
@@ -3119,6 +3088,70 @@
       "cluster_id": "b235c16fb40e"
     },
     {
+      "id": "ff71727493ee",
+      "title": "Marvel Confirms the Return of an Iconic Creator, But There's a Catch",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/marvel-return-iconic-creator/",
+      "published_at": "Mon, 10 Nov 2025 22:59:47 GMT",
+      "bullets": [
+        "• Brian Michael Bendis will return to Marvel in January 2026",
+        "• Bendis and his longtime Ultimate Spider-Man collaborator, Mark Bagley, will be doing a special backup story in December's Avengers #34",
+        "• Marvel had previously mentioned in the solicitation for Avengers #800, \"A SURPRISE CAN’T-MISS BLOCKBUSTER RETURN CREATIVE TEAM FROM AVENGERS’ PAST!\""
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Brian Michael Bendis will return to Marvel in January 2026",
+          "• Bendis and his longtime Ultimate Spider-Man collaborator, Mark Bagley, will be doing a special backup story in December's Avengers #34"
+        ],
+        "hopeful_bullets": [
+          "• Brian Michael Bendis will return to Marvel in January 2026",
+          "• Bendis and his longtime Ultimate Spider-Man collaborator, Mark Bagley, will be doing a special backup story in December's Avengers #34"
+        ],
+        "stakes_bullets": [
+          "• Brian Michael Bendis will return to Marvel in January 2026",
+          "• Bendis and his longtime Ultimate Spider-Man collaborator, Mark Bagley, will be doing a special backup story in December's Avengers #34"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b3fac934c363"
+    },
+    {
+      "id": "bffd61c3675c",
+      "title": "CoreWeave's revenue more than doubles as AI buildout expansion accelerates",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/10/coreweave-crwv-q3-earnings-report-2025.html",
+      "published_at": "Mon, 10 Nov 2025 22:48:15 GMT",
+      "bullets": [
+        "• CoreWeave, a provider of infrastructure for artificial intelligence companies, reported better-than-expected third-quarter revenue",
+        "• Shares slipped as much as 7% in extended trading Monday",
+        "• CoreWeaves' growth is tied directly to the AI boom, as the company rents out Nvidia graphics processing units "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• CoreWeave, a provider of infrastructure for artificial intelligence companies, reported better-than-expected third-quarter revenue",
+          "• Shares slipped as much as 7% in extended trading Monday"
+        ],
+        "hopeful_bullets": [
+          "• CoreWeaves' growth is tied directly to the AI boom, as the company rents out Nvidia graphics processing units "
+        ],
+        "stakes_bullets": [
+          "• CoreWeave, a provider of infrastructure for artificial intelligence companies, reported better-than-expected third-quarter revenue"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "02bed6f9b28b"
+    },
+    {
       "id": "e77aa88fb2d6",
       "title": "Dallas businessman sues over stalled plans to export East Texas water",
       "outlet": "The Texas Tribune",
@@ -3152,6 +3185,39 @@
       },
       "read_minutes": 2,
       "cluster_id": "1bccc6f571c4"
+    },
+    {
+      "id": "e397bdfe123b",
+      "title": "Paramount Skydance expects another $1B in merger savings as David Ellison resets spending",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/10/paramount-skydance-psky-earnings-merger-savings.html",
+      "published_at": "Mon, 10 Nov 2025 22:45:28 GMT",
+      "bullets": [
+        "• Paramount Skydance says it expects $1 billion more in merger savings than previously forecast",
+        "• CEO David Ellison outlines his priorities in letter to shareholders",
+        "• Paramount also announced a new round of layoffs, affecting roughly 1,600 employees, tied to divestitures of assets in Argentina and Chile "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Paramount Skydance says it expects $1 billion more in merger savings than previously forecast",
+          "• CEO David Ellison outlines his priorities in letter to shareholders"
+        ],
+        "hopeful_bullets": [
+          "• Paramount Skydance says it expects $1 billion more in merger savings than previously forecast",
+          "• CEO David Ellison outlines his priorities in letter to shareholders"
+        ],
+        "stakes_bullets": [
+          "• Paramount Skydance says it expects $1 billion more in merger savings than previously forecast",
+          "• Paramount also announced a new round of layoffs, affecting roughly 1,600 employees, tied to divestitures of assets in Argentina and Chile "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "aa5c4979ae2d"
     },
     {
       "id": "5aaf5a2491f0",
@@ -3188,37 +3254,68 @@
       "cluster_id": "5511a2f7e075"
     },
     {
-      "id": "bffd61c3675c",
-      "title": "CoreWeave's revenue more than doubles as AI buildout expansion accelerates",
+      "id": "8f59a031e921",
+      "title": "Trump backs Senate deal that would end government shutdown",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/10/coreweave-crwv-q3-earnings-report-2025.html",
-      "published_at": "Mon, 10 Nov 2025 22:32:09 GMT",
+      "url": "https://www.cnbc.com/2025/11/10/trump-government-shutdown-senate-deal.html",
+      "published_at": "Mon, 10 Nov 2025 22:36:55 GMT",
       "bullets": [
-        "• CoreWeave, a provider of infrastructure for artificial intelligence companies, reported better-than-expected third-quarter revenue",
-        "• Shares slipped as much as 7% in extended trading on Monday",
-        "• The company's backlog now stands at $55.6 billion, with 2.9 gigawatts in contracted power "
+        "• President Donald Trump says he approves of a deal in the Senate that would end the government shutdown",
+        "• Trump said he would \"abide by the deal\" in the Oval Office, \"based on everything I'm hearing\" Any bill to fund the government and end the shutdown would have to be signed by Trump to take effect "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.893
       },
       "moods": {
         "brief_bullets": [
-          "• CoreWeave, a provider of infrastructure for artificial intelligence companies, reported better-than-expected third-quarter revenue",
-          "• Shares slipped as much as 7% in extended trading on Monday"
+          "• President Donald Trump says he approves of a deal in the Senate that would end the government shutdown",
+          "• Trump said he would \"abide by the deal\" in the Oval Office, \"based on everything I'm hearing\" Any bill to fund the government and end the shutdown would have to be signed by Trump to take effect "
         ],
         "hopeful_bullets": [
-          "• CoreWeave, a provider of infrastructure for artificial intelligence companies, reported better-than-expected third-quarter revenue",
-          "• Shares slipped as much as 7% in extended trading on Monday"
+          "• President Donald Trump says he approves of a deal in the Senate that would end the government shutdown",
+          "• Trump said he would \"abide by the deal\" in the Oval Office, \"based on everything I'm hearing\" Any bill to fund the government and end the shutdown would have to be signed by Trump to take effect "
         ],
         "stakes_bullets": [
-          "• CoreWeave, a provider of infrastructure for artificial intelligence companies, reported better-than-expected third-quarter revenue",
-          "• The company's backlog now stands at $55.6 billion, with 2.9 gigawatts in contracted power "
+          "• Trump said he would \"abide by the deal\" in the Oval Office, \"based on everything I'm hearing\" Any bill to fund the government and end the shutdown would have to be signed by Trump to take effect "
         ]
       },
-      "read_minutes": 1,
-      "cluster_id": "02bed6f9b28b"
+      "read_minutes": 2,
+      "cluster_id": "d013e9fefa73"
+    },
+    {
+      "id": "d040538b3932",
+      "title": "American farmers push to boost soybean sales in China as Trump's trade war rumbles on",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/10/trump-trade-war-american-farmers-china-soybeans.html",
+      "published_at": "Mon, 10 Nov 2025 22:35:39 GMT",
+      "bullets": [
+        "• China lifted retaliatory tariffs on some agricultural products, but it has maintained a 13% tariff on U.S",
+        "• soybeans",
+        "• White House said China will buy 12 million metric tons of soybeans by the end of this year and 25 million for each of the next three years",
+        "• The country has yet to confirm the White House's numbers "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China lifted retaliatory tariffs on some agricultural products, but it has maintained a 13% tariff on U.S",
+          "• soybeans"
+        ],
+        "hopeful_bullets": [
+          "• China lifted retaliatory tariffs on some agricultural products, but it has maintained a 13% tariff on U.S",
+          "• soybeans"
+        ],
+        "stakes_bullets": [
+          "• White House said China will buy 12 million metric tons of soybeans by the end of this year and 25 million for each of the next three years"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "24af21eb1c97"
     },
     {
       "id": "1e020231a7e1",
@@ -3253,6 +3350,39 @@
       "cluster_id": "37d57d4fd7d2"
     },
     {
+      "id": "06efc6e2b16d",
+      "title": "Gaddafi's youngest son released after 10 years in Lebanese detention",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czxnq6d71y9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 10 Nov 2025 22:25:19 GMT",
+      "bullets": [
+        "• Gaddafi's youngest son released after 10 years in Lebanese detention without trial",
+        "• He was accused of concealing information about the fate of a Lebanese Shia cleric who disappeared in Libya in 1978",
+        "• His lawyer said: \"It's the end of a nightmare for him that lasted 10 years\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Gaddafi's youngest son released after 10 years in Lebanese detention without trial",
+          "• He was accused of concealing information about the fate of a Lebanese Shia cleric who disappeared in Libya in 1978"
+        ],
+        "hopeful_bullets": [
+          "• Gaddafi's youngest son released after 10 years in Lebanese detention without trial",
+          "• He was accused of concealing information about the fate of a Lebanese Shia cleric who disappeared in Libya in 1978"
+        ],
+        "stakes_bullets": [
+          "• Gaddafi's youngest son released after 10 years in Lebanese detention without trial",
+          "• He was accused of concealing information about the fate of a Lebanese Shia cleric who disappeared in Libya in 1978"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "69804205e8be"
+    },
+    {
       "id": "f0a8d312badd",
       "title": "Dragon Ball Super’s Final Saga is Destined to Fail Without Akira Toriyama",
       "outlet": "CBR",
@@ -3285,39 +3415,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "1f9665884240"
-    },
-    {
-      "id": "e397bdfe123b",
-      "title": "Paramount Skydance expects another $1B in merger savings as David Ellison resets spending",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/10/paramount-skydance-psky-earnings-merger-savings.html",
-      "published_at": "Mon, 10 Nov 2025 22:17:18 GMT",
-      "bullets": [
-        "• Paramount Skydance says it expects $1 billion more in merger savings than previously forecast",
-        "• CEO David Ellison outlines his priorities in letter to shareholders",
-        "• Paramount also announced a new round of layoffs, affecting roughly 1,600 employees, tied to divestitures of assets in Argentina and Chile "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Paramount Skydance says it expects $1 billion more in merger savings than previously forecast",
-          "• CEO David Ellison outlines his priorities in letter to shareholders"
-        ],
-        "hopeful_bullets": [
-          "• Paramount Skydance says it expects $1 billion more in merger savings than previously forecast",
-          "• CEO David Ellison outlines his priorities in letter to shareholders"
-        ],
-        "stakes_bullets": [
-          "• Paramount Skydance says it expects $1 billion more in merger savings than previously forecast",
-          "• Paramount also announced a new round of layoffs, affecting roughly 1,600 employees, tied to divestitures of assets in Argentina and Chile "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "aa5c4979ae2d"
     },
     {
       "id": "71d874b5759c",
@@ -3412,39 +3509,6 @@
       "cluster_id": "8eed32b0cc7b"
     },
     {
-      "id": "d040538b3932",
-      "title": "American farmers push to boost soybean sales in China as Trump's trade war rumbles on",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/10/trump-trade-war-american-farmers-china-soybeans.html",
-      "published_at": "Mon, 10 Nov 2025 22:01:59 GMT",
-      "bullets": [
-        "• China lifted retaliatory tariffs on some agricultural products, but it has maintained a 13% tariff on U.S",
-        "• soybeans",
-        "• White House said China will buy 12 million metric tons of soybeans by the end of this year and 25 million for each of the next three years",
-        "• The country has yet to confirm the White House's numbers "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China lifted retaliatory tariffs on some agricultural products, but it has maintained a 13% tariff on U.S",
-          "• soybeans"
-        ],
-        "hopeful_bullets": [
-          "• China lifted retaliatory tariffs on some agricultural products, but it has maintained a 13% tariff on U.S",
-          "• soybeans"
-        ],
-        "stakes_bullets": [
-          "• White House said China will buy 12 million metric tons of soybeans by the end of this year and 25 million for each of the next three years"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "24af21eb1c97"
-    },
-    {
       "id": "7a0d61f23514",
       "title": "The Sci-Fi Masterpiece Ethan Hawke Accidentally Made After Rejecting a $817M Blockbuster",
       "outlet": "CBR",
@@ -3476,37 +3540,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "0ee1d48cec76"
-    },
-    {
-      "id": "8f59a031e921",
-      "title": "Trump backs Senate deal that would end government shutdown",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/10/trump-government-shutdown-senate-deal.html",
-      "published_at": "Mon, 10 Nov 2025 21:58:00 GMT",
-      "bullets": [
-        "• President Donald Trump says he approves of a deal in the Senate that would end the government shutdown",
-        "• Trump said he would \"abide by the deal\" in the Oval Office, \"based on everything I'm hearing\" Any bill to fund the government and end the shutdown would have to be signed by Trump to take effect "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.893
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump says he approves of a deal in the Senate that would end the government shutdown",
-          "• Trump said he would \"abide by the deal\" in the Oval Office, \"based on everything I'm hearing\" Any bill to fund the government and end the shutdown would have to be signed by Trump to take effect "
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump says he approves of a deal in the Senate that would end the government shutdown",
-          "• Trump said he would \"abide by the deal\" in the Oval Office, \"based on everything I'm hearing\" Any bill to fund the government and end the shutdown would have to be signed by Trump to take effect "
-        ],
-        "stakes_bullets": [
-          "• Trump said he would \"abide by the deal\" in the Oval Office, \"based on everything I'm hearing\" Any bill to fund the government and end the shutdown would have to be signed by Trump to take effect "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d013e9fefa73"
     },
     {
       "id": "981514a4aae9",
@@ -3542,6 +3575,39 @@
       },
       "read_minutes": 2,
       "cluster_id": "69788f2ee6da"
+    },
+    {
+      "id": "41d4f7497d9d",
+      "title": "Syria to join US-led coalition to defeat IS group after Trump meeting",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgvz6316zwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 10 Nov 2025 21:44:44 GMT",
+      "bullets": [
+        "• President Donald Trump meets Syrian President Ahmed al-Sharaa at the White House",
+        "• It is the first such visit from a Syrian leader in the country's history",
+        "• Relations between Syria and the U.S",
+        "• have been suspended since 2012, although Trump has moved to restore them "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump meets Syrian President Ahmed al-Sharaa at the White House",
+          "• It is the first such visit from a Syrian leader in the country's history"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump meets Syrian President Ahmed al-Sharaa at the White House",
+          "• It is the first such visit from a Syrian leader in the country's history"
+        ],
+        "stakes_bullets": [
+          "• It is the first such visit from a Syrian leader in the country's history"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "5d6619a4e616"
     },
     {
       "id": "85e843c517cf",
@@ -4042,40 +4108,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "0e3927233c87"
-    },
-    {
-      "id": "8fbda62039f2",
-      "title": "Scott Snyder Reveals All About DC K.O. Fight Month, Crazy Tag Teams, And The Absolute Universe's Future (Exclusive)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/scott-snyder-reveals-all-about-dc-ko-absolute-universe-exclusive/",
-      "published_at": "Mon, 10 Nov 2025 20:25:32 GMT",
-      "bullets": [
-        "• DC Comics is gearing up an all-out battle to prevent Darkseid from taking over basically all of reality",
-        "• Scott Snyder is writing the main DC K.O",
-        "• storyline, with multiple tie-ins stemming from other authors and artists",
-        "• November stories will build to December’s introduction of DC",
-        "• All Fight Month "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• DC Comics is gearing up an all-out battle to prevent Darkseid from taking over basically all of reality",
-          "• Scott Snyder is writing the main DC K.O"
-        ],
-        "hopeful_bullets": [
-          "• DC Comics is gearing up an all-out battle to prevent Darkseid from taking over basically all of reality",
-          "• Scott Snyder is writing the main DC K.O"
-        ],
-        "stakes_bullets": [
-          "• November stories will build to December’s introduction of DC"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "da115e4e5f5e"
     },
     {
       "id": "e29a53affba8",
@@ -5323,6 +5355,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "6edd0a252b40"
+    },
+    {
+      "id": "09ddc7669416",
+      "title": "What's next for both parties as vote to end shutdown draws near?",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/11/10/nx-s1-5604424/whats-next-for-both-parties-as-vote-to-end-shutdown-draws-near",
+      "published_at": "Mon, 10 Nov 2025 17:13:34 -0500",
+      "bullets": [
+        "• What's next for both parties as vote to end shutdown draws near? November 10, 20255:13 PM ET Heard on All Things Considered",
+        "• NPR's Ailsa Chang talks with Republican strategist Mike Ricci about the deal to end the shutdown "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.854
+      },
+      "moods": {
+        "brief_bullets": [
+          "• What's next for both parties as vote to end shutdown draws near? November 10, 20255:13 PM ET Heard on All Things Considered",
+          "• NPR's Ailsa Chang talks with Republican strategist Mike Ricci about the deal to end the shutdown "
+        ],
+        "hopeful_bullets": [
+          "• What's next for both parties as vote to end shutdown draws near? November 10, 20255:13 PM ET Heard on All Things Considered",
+          "• NPR's Ailsa Chang talks with Republican strategist Mike Ricci about the deal to end the shutdown "
+        ],
+        "stakes_bullets": [
+          "• What's next for both parties as vote to end shutdown draws near? November 10, 20255:13 PM ET Heard on All Things Considered",
+          "• NPR's Ailsa Chang talks with Republican strategist Mike Ricci about the deal to end the shutdown "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "85df73b98a6f"
     },
     {
       "id": "ba6a5f35b590",
@@ -6986,39 +7050,6 @@
       "cluster_id": "f1b357f515f3"
     },
     {
-      "id": "e1c4fc59912c",
-      "title": "Iran faces unprecedented drought as water crisis hits Tehran",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy4p2yzmem0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 10 Nov 2025 08:23:49 GMT",
-      "bullets": [
-        "• Iran faces unprecedented drought with no rainfall expected over the next 10 days",
-        "• Officials warn that even if there is not enough rainfall, water may be rationed",
-        "• The country's main water supply has been hit hard by the drought",
-        "• Iran's president has called the situation a 'joke' and urged people to conserve water "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Iran faces unprecedented drought with no rainfall expected over the next 10 days",
-          "• Officials warn that even if there is not enough rainfall, water may be rationed"
-        ],
-        "hopeful_bullets": [
-          "• Iran faces unprecedented drought with no rainfall expected over the next 10 days",
-          "• Officials warn that even if there is not enough rainfall, water may be rationed"
-        ],
-        "stakes_bullets": [
-          "• Iran faces unprecedented drought with no rainfall expected over the next 10 days"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6a1a60d70cfa"
-    },
-    {
       "id": "91867b05acc6",
       "title": "Senators reach deal to reopen the government. And, countries gather for climate talks",
       "outlet": "NPR Topics: News",
@@ -8376,6 +8407,39 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "e37853460bcc",
+      "title": "Siri Shortcuts now works with Samsung SmartThings routines",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support",
+      "published_at": "2025-11-10T17:49:43-05:00",
+      "bullets": [
+        "• Samsung's latest SmartThings update adds support for Siri Shortcuts",
+        "• You can now use Siri to control your SmartThings smart home with your iPhone or HomePod",
+        "• Samsung is also enhancing its SmartThings app for Apple devices",
+        "• On the Apple Watch, you can see a full list of your devices, send commands, and carry out routines "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Samsung's latest SmartThings update adds support for Siri Shortcuts",
+          "• You can now use Siri to control your SmartThings smart home with your iPhone or HomePod"
+        ],
+        "hopeful_bullets": [
+          "• Samsung's latest SmartThings update adds support for Siri Shortcuts",
+          "• You can now use Siri to control your SmartThings smart home with your iPhone or HomePod"
+        ],
+        "stakes_bullets": [
+          "• Samsung's latest SmartThings update adds support for Siri Shortcuts"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "19813f094f44"
+    },
+    {
       "id": "43ad11eb0046",
       "title": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
       "outlet": "The Verge",
@@ -8417,26 +8481,27 @@
       "published_at": "2025-11-10T17:09:14-05:00",
       "bullets": [
         "• Paramount Plus is getting a price hike in early 2026",
-        "• The company announced the price hike as part of its earnings report on Monday",
-        "• It hasn't said how much it will soon cost",
-        "• The price hike comes just months after Paramount completed its deal to merge with Skydance "
+        "• The ad-supported Essential plan will go from $7.99 to $8.99 per month",
+        "• The Premium plan will increase to $13.99",
+        "• The price change comes just months after Paramount completed its deal to merge with Skydance "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.978
+        "score": 0.975
       },
       "moods": {
         "brief_bullets": [
           "• Paramount Plus is getting a price hike in early 2026",
-          "• The company announced the price hike as part of its earnings report on Monday"
+          "• The ad-supported Essential plan will go from $7.99 to $8.99 per month"
         ],
         "hopeful_bullets": [
           "• Paramount Plus is getting a price hike in early 2026",
-          "• The company announced the price hike as part of its earnings report on Monday"
+          "• The ad-supported Essential plan will go from $7.99 to $8.99 per month"
         ],
         "stakes_bullets": [
-          "• It hasn't said how much it will soon cost"
+          "• The ad-supported Essential plan will go from $7.99 to $8.99 per month",
+          "• The Premium plan will increase to $13.99"
         ]
       },
       "read_minutes": 1,
@@ -8669,37 +8734,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "99575288f5f8"
-    },
-    {
-      "id": "28abac7595b1",
-      "title": "Netflix might make its own video podcasts",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/817675/netflix-exclusive-original-podcasts-rumor",
-      "published_at": "2025-11-10T12:53:05-05:00",
-      "bullets": [
-        "• A new report from Bloomberg suggests Netflix is preparing to create original video podcasts exclusive to its streaming service",
-        "• The streaming giant has reportedly contacted talent to create the new shows and plans to update the layout of its mobile app to help users find the video podcasts",
-        "• Netflix is looking to license the shows for just one year, with some deals worth less than $10 million "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A new report from Bloomberg suggests Netflix is preparing to create original video podcasts exclusive to its streaming service",
-          "• The streaming giant has reportedly contacted talent to create the new shows and plans to update the layout of its mobile app to help users find the video podcasts"
-        ],
-        "hopeful_bullets": [
-          "• The streaming giant has reportedly contacted talent to create the new shows and plans to update the layout of its mobile app to help users find the video podcasts"
-        ],
-        "stakes_bullets": [
-          "• The streaming giant has reportedly contacted talent to create the new shows and plans to update the layout of its mobile app to help users find the video podcasts"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a4c4ab8aacba"
     },
     {
       "id": "c41ff758b36a",
@@ -9203,6 +9237,24 @@
       ]
     },
     {
+      "id": "5d6619a4e616",
+      "topic": "coalition defeat group join",
+      "keywords": [
+        "coalition",
+        "defeat",
+        "group",
+        "join",
+        "led",
+        "syria"
+      ],
+      "item_ids": [
+        "41d4f7497d9d"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "6edd0a252b40",
       "topic": "former french president prison",
       "keywords": [
@@ -9233,6 +9285,24 @@
       ],
       "item_ids": [
         "cf6b56aa6369"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "69804205e8be",
+      "topic": "gaddafi lebanese released son",
+      "keywords": [
+        "gaddafi",
+        "lebanese",
+        "released",
+        "son",
+        "year",
+        "youngest"
+      ],
+      "item_ids": [
+        "06efc6e2b16d"
       ],
       "outlets": [
         "BBC News"
@@ -9305,42 +9375,6 @@
       ],
       "item_ids": [
         "5a248287329a"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "6a1a60d70cfa",
-      "topic": "crisi drought face iran",
-      "keywords": [
-        "crisi",
-        "drought",
-        "face",
-        "iran",
-        "unprecedented",
-        "water"
-      ],
-      "item_ids": [
-        "e1c4fc59912c"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "588369529d0b",
-      "topic": "2014 body israel killed",
-      "keywords": [
-        "2014",
-        "body",
-        "israel",
-        "killed",
-        "receive",
-        "soldier"
-      ],
-      "item_ids": [
-        "af5736645d8b"
       ],
       "outlets": [
         "BBC News"
@@ -10235,6 +10269,24 @@
       ]
     },
     {
+      "id": "19813f094f44",
+      "topic": "now samsung shortcut siri",
+      "keywords": [
+        "now",
+        "samsung",
+        "shortcut",
+        "siri",
+        "smartthing",
+        "work"
+      ],
+      "item_ids": [
+        "e37853460bcc"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "75c093267110",
       "topic": "best black deal early",
       "keywords": [
@@ -10387,24 +10439,6 @@
       ],
       "item_ids": [
         "7790532de4f2"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "a4c4ab8aacba",
-      "topic": "make might netflix own",
-      "keywords": [
-        "make",
-        "might",
-        "netflix",
-        "own",
-        "podcast",
-        "video"
-      ],
-      "item_ids": [
-        "28abac7595b1"
       ],
       "outlets": [
         "The Verge"
@@ -10929,6 +10963,24 @@
       ],
       "outlets": [
         "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "85df73b98a6f",
+      "topic": "both end next partie",
+      "keywords": [
+        "both",
+        "end",
+        "next",
+        "partie",
+        "shutdown",
+        "vote"
+      ],
+      "item_ids": [
+        "09ddc7669416"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
       ]
     },
     {
@@ -13204,6 +13256,24 @@
       ]
     },
     {
+      "id": "b3fac934c363",
+      "topic": "confirm creator iconic marvel",
+      "keywords": [
+        "confirm",
+        "creator",
+        "iconic",
+        "marvel",
+        "return",
+        "there"
+      ],
+      "item_ids": [
+        "ff71727493ee"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "5511a2f7e075",
       "topic": "gibb impotrant isn most",
       "keywords": [
@@ -13357,24 +13427,6 @@
       ],
       "item_ids": [
         "ff853244bf80"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "da115e4e5f5e",
-      "topic": "all fight month reveal",
-      "keywords": [
-        "all",
-        "fight",
-        "month",
-        "reveal",
-        "scott",
-        "snyder"
-      ],
-      "item_ids": [
-        "8fbda62039f2"
       ],
       "outlets": [
         "CBR"
