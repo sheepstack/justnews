@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-10T12:14:33Z",
+  "generated_at": "2025-11-10T13:28:36Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -174,6 +174,38 @@
       "cluster_id": "4d68b7d6cb41"
     },
     {
+      "id": "f81c88ce332d",
+      "title": "Trump nominates ex-New Mexico lawmaker to oversee public lands",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/trump-public-lands-nominee",
+      "published_at": "Wed, 05 Nov 2025 23:30:36 GMT",
+      "bullets": [
+        "• The nominee for the Bureau of Land Management (BLM) must be confirmed by the Senate",
+        "• The agency manages a quarter-billion acres – about 10% of land in the US",
+        "• It’s also responsible for 700m acres of underground minerals, including major reserves of oil, natural gas and coal "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.793
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The nominee for the Bureau of Land Management (BLM) must be confirmed by the Senate",
+          "• The agency manages a quarter-billion acres – about 10% of land in the US"
+        ],
+        "hopeful_bullets": [
+          "• The nominee for the Bureau of Land Management (BLM) must be confirmed by the Senate",
+          "• The agency manages a quarter-billion acres – about 10% of land in the US"
+        ],
+        "stakes_bullets": [
+          "• The agency manages a quarter-billion acres – about 10% of land in the US"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "419ea1a945ff"
+    },
+    {
       "id": "20ff9cf61bb2",
       "title": "Review: PREDATOR: BADLANDS is a Winning Franchise Recalibration",
       "outlet": "Daily Dead",
@@ -331,6 +363,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "0845fbd8deee"
+    },
+    {
+      "id": "e3ac507236e8",
+      "title": "California man who survived 20 days in snowy wilderness says it was walk or die",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/california-man-survived-wilderness",
+      "published_at": "Wed, 05 Nov 2025 11:00:23 GMT",
+      "bullets": [
+        "• Ron Dailey went missing in the Sierra national forest in Fresno county after taking a solo hunting trip there on 13 October",
+        "• Dailey's pickup truck broke down while he was at an elevation of more than 10,000ft, stranding him there with what he estimated to be about two weeks’ worth of food and water "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ron Dailey went missing in the Sierra national forest in Fresno county after taking a solo hunting trip there on 13 October",
+          "• Dailey's pickup truck broke down while he was at an elevation of more than 10,000ft, stranding him there with what he estimated to be about two weeks’ worth of food and water "
+        ],
+        "hopeful_bullets": [
+          "• Ron Dailey went missing in the Sierra national forest in Fresno county after taking a solo hunting trip there on 13 October",
+          "• Dailey's pickup truck broke down while he was at an elevation of more than 10,000ft, stranding him there with what he estimated to be about two weeks’ worth of food and water "
+        ],
+        "stakes_bullets": [
+          "• Ron Dailey went missing in the Sierra national forest in Fresno county after taking a solo hunting trip there on 13 October",
+          "• Dailey's pickup truck broke down while he was at an elevation of more than 10,000ft, stranding him there with what he estimated to be about two weeks’ worth of food and water "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "389f86d3a153"
     },
     {
       "id": "2f68a955b95b",
@@ -1557,40 +1621,6 @@
       "cluster_id": "5c731e43960b"
     },
     {
-      "id": "66c4a933214b",
-      "title": "Sudanese militia group accused of war crimes agrees to a ceasefire",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/nov/06/sudanese-militia-group-accused-of-war-crimes-agrees-to-a-ceasefire",
-      "published_at": "Thu, 06 Nov 2025 18:38:21 GMT",
-      "bullets": [
-        "• The Rapid Support Forces (RSF) has agreed to a three-month ceasefire",
-        "• It is accused of killing thousands of civilians in an ethnically-motivated massacre",
-        "• The agreement is thought to have been put forward by the US, Egypt, the UAE and Saudi Arabia "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Rapid Support Forces (RSF) has agreed to a three-month ceasefire",
-          "• It is accused of killing thousands of civilians in an ethnically-motivated massacre"
-        ],
-        "hopeful_bullets": [
-          "• The Rapid Support Forces (RSF) has agreed to a three-month ceasefire",
-          "• It is accused of killing thousands of civilians in an ethnically-motivated massacre"
-        ],
-        "stakes_bullets": [
-          "• The Rapid Support Forces (RSF) has agreed to a three-month ceasefire",
-          "• It is accused of killing thousands of civilians in an ethnically-motivated massacre",
-          "• The agreement is thought to have been put forward by the US, Egypt, the UAE and Saudi Arabia "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ad3664842f15"
-    },
-    {
       "id": "f5919f672969",
       "title": "Horror Highlights: #HorrorMoviesForTheHolidays Challenge, OBSESSION, THE UPTURNED STONE",
       "outlet": "Daily Dead",
@@ -1680,6 +1710,37 @@
       },
       "read_minutes": 2,
       "cluster_id": "062e5dfb5e07"
+    },
+    {
+      "id": "144e9e91ef08",
+      "title": "Scientists criticize ‘straw man’ arguments in Bill Gates climate memo",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/nov/06/bill-gates-climate-memo",
+      "published_at": "Thu, 06 Nov 2025 13:00:02 GMT",
+      "bullets": [
+        "• A new memo on climate crisis from Bill Gates relies on “straw man’s arguments about the threat to humanity and “false dichotomies” between spending on climate or aid for the poor, some climate scientists say",
+        "• But funding for emissions reduction need not come at the expense of aid to eradicate hunger or poverty, one scientist says "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.944
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A new memo on climate crisis from Bill Gates relies on “straw man’s arguments about the threat to humanity and “false dichotomies” between spending on climate or aid for the poor, some climate scientists say",
+          "• But funding for emissions reduction need not come at the expense of aid to eradicate hunger or poverty, one scientist says "
+        ],
+        "hopeful_bullets": [
+          "• A new memo on climate crisis from Bill Gates relies on “straw man’s arguments about the threat to humanity and “false dichotomies” between spending on climate or aid for the poor, some climate scientists say",
+          "• But funding for emissions reduction need not come at the expense of aid to eradicate hunger or poverty, one scientist says "
+        ],
+        "stakes_bullets": [
+          "• A new memo on climate crisis from Bill Gates relies on “straw man’s arguments about the threat to humanity and “false dichotomies” between spending on climate or aid for the poor, some climate scientists say"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "97a5ce578cd5"
     },
     {
       "id": "1c04affec9e3",
@@ -2147,38 +2208,6 @@
       "cluster_id": "282bdb885494"
     },
     {
-      "id": "77dcca1c624c",
-      "title": "Trump shares false claim Obama earned $40m in ‘royalties’ from Obamacare",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/09/trump-obama-obamacare-royalties-claim",
-      "published_at": "Sun, 09 Nov 2025 22:09:27 GMT",
-      "bullets": [
-        "• Donald Trump promoted the false claim that Barack Obama has earned $40m in “royalties linked to Obamacare” in a post to his 11 million followers on Sunday",
-        "• The fictional claim that the former US president receives royalty payments for the use of his name to refer to the Affordable Care Act, which he signed into law in 2010, has been repeatedly debunked since at least 2017 "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump promoted the false claim that Barack Obama has earned $40m in “royalties linked to Obamacare” in a post to his 11 million followers on Sunday",
-          "• The fictional claim that the former US president receives royalty payments for the use of his name to refer to the Affordable Care Act, which he signed into law in 2010, has been repeatedly debunked since at least 2017 "
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump promoted the false claim that Barack Obama has earned $40m in “royalties linked to Obamacare” in a post to his 11 million followers on Sunday",
-          "• The fictional claim that the former US president receives royalty payments for the use of his name to refer to the Affordable Care Act, which he signed into law in 2010, has been repeatedly debunked since at least 2017 "
-        ],
-        "stakes_bullets": [
-          "• Donald Trump promoted the false claim that Barack Obama has earned $40m in “royalties linked to Obamacare” in a post to his 11 million followers on Sunday",
-          "• The fictional claim that the former US president receives royalty payments for the use of his name to refer to the Affordable Care Act, which he signed into law in 2010, has been repeatedly debunked since at least 2017 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "4cb60a917e95"
-    },
-    {
       "id": "f29930b13ba9",
       "title": "Watch Soundgarden Perform at the Rock & Roll Hall of Fame 2025 Induction Ceremony",
       "outlet": "RSS: News",
@@ -2243,38 +2272,6 @@
       "cluster_id": "188ceebe0648"
     },
     {
-      "id": "a050a9b1a1e7",
-      "title": "Philippines hit by 'intense' typhoon as nearly a million evacuate",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 09 Nov 2025 20:44:39 GMT",
-      "bullets": [
-        "• Typhoon Fung-wong has made landfall in the Philippines",
-        "• The eye of the storm hit Aurora province in Luzon at 21:10 local time (13:10 GMT) By 02:00, the storm weakened to a typhoon and was over La Union in western Luzon "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.64
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Typhoon Fung-wong has made landfall in the Philippines",
-          "• The eye of the storm hit Aurora province in Luzon at 21:10 local time (13:10 GMT) By 02:00, the storm weakened to a typhoon and was over La Union in western Luzon "
-        ],
-        "hopeful_bullets": [
-          "• Typhoon Fung-wong has made landfall in the Philippines",
-          "• The eye of the storm hit Aurora province in Luzon at 21:10 local time (13:10 GMT) By 02:00, the storm weakened to a typhoon and was over La Union in western Luzon "
-        ],
-        "stakes_bullets": [
-          "• Typhoon Fung-wong has made landfall in the Philippines",
-          "• The eye of the storm hit Aurora province in Luzon at 21:10 local time (13:10 GMT) By 02:00, the storm weakened to a typhoon and was over La Union in western Luzon "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "33d86c0c4284"
-    },
-    {
       "id": "7517c3f773e6",
       "title": "Cyndi Lauper Inducted by Chappell Roan, Performs Hits at Rock Hall 2025 Ceremony: Watch",
       "outlet": "RSS: News",
@@ -2307,39 +2304,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "976649073a7f"
-    },
-    {
-      "id": "1500c882b61c",
-      "title": "Trump weighs giving Americans $2,000 from tariff revenues in bid for support",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/09/trump-tariffs-refund",
-      "published_at": "Sun, 09 Nov 2025 19:50:15 GMT",
-      "bullets": [
-        "• Donald Trump has proposed a $2,000 rebate to all Americans",
-        "• The money would be used to pay down the $38.12tn national debt",
-        "• The bill would be funded by tariffs collected by the US government",
-        "• The president has called for the rebate to be paid back to the public "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.979
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump has proposed a $2,000 rebate to all Americans",
-          "• The money would be used to pay down the $38.12tn national debt"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump has proposed a $2,000 rebate to all Americans",
-          "• The money would be used to pay down the $38.12tn national debt"
-        ],
-        "stakes_bullets": [
-          "• The bill would be funded by tariffs collected by the US government"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6243ee9b67f9"
     },
     {
       "id": "6b11e222d35b",
@@ -2440,40 +2404,6 @@
       "cluster_id": "a25c1789c5a4"
     },
     {
-      "id": "c816374cf999",
-      "title": "Protesters storm Nigeria's new art museum",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3642764y7xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 09 Nov 2025 19:15:47 GMT",
-      "bullets": [
-        "• Protesters storm Nigeria's new multi-million dollar art museum",
-        "• Protesters storm the Museum of West African Art (Mowaa) in Benin City",
-        "• Museum in part conceived as a home for the Benin Bronzes looted from there by British soldiers in the 19th Century "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.967
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Protesters storm Nigeria's new multi-million dollar art museum",
-          "• Protesters storm the Museum of West African Art (Mowaa) in Benin City"
-        ],
-        "hopeful_bullets": [
-          "• Protesters storm Nigeria's new multi-million dollar art museum",
-          "• Protesters storm the Museum of West African Art (Mowaa) in Benin City"
-        ],
-        "stakes_bullets": [
-          "• Protesters storm Nigeria's new multi-million dollar art museum",
-          "• Protesters storm the Museum of West African Art (Mowaa) in Benin City",
-          "• Museum in part conceived as a home for the Benin Bronzes looted from there by British soldiers in the 19th Century "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1bf93d2fb78b"
-    },
-    {
       "id": "83d1e8706411",
       "title": "The White Stripes Inducted Into Rock Hall 2025: Watch Olivia Rodrigo, Feist, and More Perform Their Hits",
       "outlet": "RSS: News",
@@ -2572,106 +2502,6 @@
       "cluster_id": "a1010f0cc3f5"
     },
     {
-      "id": "a6af10dc1e7d",
-      "title": "Eight winter clothing essentials Scandinavians swear by – from heated socks to ‘allværsjakke’",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/thefilter-us/2025/nov/09/winter-clothing-essentials-cold-weather-protection-scandinavian",
-      "published_at": "Sun, 09 Nov 2025 18:15:38 GMT",
-      "bullets": [
-        "• The long Scandinavian winter, which typically stretches from November until late March, demands layers of clothing and plenty of protection against the cold",
-        "• While temperatures can plummet to -30C (-22F) farther north in Sweden and Norway, winters farther south in Sweden, Norway and Denmark tend to be milder and wet "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.843
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The long Scandinavian winter, which typically stretches from November until late March, demands layers of clothing and plenty of protection against the cold",
-          "• While temperatures can plummet to -30C (-22F) farther north in Sweden and Norway, winters farther south in Sweden, Norway and Denmark tend to be milder and wet "
-        ],
-        "hopeful_bullets": [
-          "• The long Scandinavian winter, which typically stretches from November until late March, demands layers of clothing and plenty of protection against the cold",
-          "• While temperatures can plummet to -30C (-22F) farther north in Sweden and Norway, winters farther south in Sweden, Norway and Denmark tend to be milder and wet "
-        ],
-        "stakes_bullets": [
-          "• The long Scandinavian winter, which typically stretches from November until late March, demands layers of clothing and plenty of protection against the cold",
-          "• While temperatures can plummet to -30C (-22F) farther north in Sweden and Norway, winters farther south in Sweden, Norway and Denmark tend to be milder and wet "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "0ab1af72ecfb"
-    },
-    {
-      "id": "412fc371210a",
-      "title": "Ghislaine Maxwell reportedly ‘much happier’ after prison transfer by Trump officials",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/09/ghislaine-maxwell-trump-admin-prison-transfer",
-      "published_at": "Sun, 09 Nov 2025 18:07:18 GMT",
-      "bullets": [
-        "• Ghislaine Maxwell, 63, is serving a 20-year prison sentence for sex-trafficking crimes",
-        "• She was moved from a low-security prison in Tallahassee, Florida, to a minimum-security federal prison in Texas in August",
-        "• The move prompted questions as well as outrage from victims of Epstein, who died by suicide in 2019",
-        "• Now, NBC News has obtained and revealed several emails that Maxwell sent to friends and relatives after her transfer that expressed delight at her new surroundings "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.957
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ghislaine Maxwell, 63, is serving a 20-year prison sentence for sex-trafficking crimes",
-          "• She was moved from a low-security prison in Tallahassee, Florida, to a minimum-security federal prison in Texas in August"
-        ],
-        "hopeful_bullets": [
-          "• Ghislaine Maxwell, 63, is serving a 20-year prison sentence for sex-trafficking crimes",
-          "• She was moved from a low-security prison in Tallahassee, Florida, to a minimum-security federal prison in Texas in August"
-        ],
-        "stakes_bullets": [
-          "• Ghislaine Maxwell, 63, is serving a 20-year prison sentence for sex-trafficking crimes",
-          "• She was moved from a low-security prison in Tallahassee, Florida, to a minimum-security federal prison in Texas in August",
-          "• The move prompted questions as well as outrage from victims of Epstein, who died by suicide in 2019"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "9128e6ea4934"
-    },
-    {
-      "id": "8043d9205ec6",
-      "title": "Three dead and 15 injured in Tenerife tidal surge",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpd2pzxe59go?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 09 Nov 2025 17:40:04 GMT",
-      "bullets": [
-        "• Three dead and 15 injured in Tenerife tidal surge after powerful waves battered popular Spanish holiday island",
-        "• A woman died after being pulled into the ocean near the Puerto de la Cruz resort and a man died at Santa Cruz",
-        "• Emergency services have told the public to stay away from coastal paths and avoid taking pictures and videos of the rough seas "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Three dead and 15 injured in Tenerife tidal surge after powerful waves battered popular Spanish holiday island",
-          "• A woman died after being pulled into the ocean near the Puerto de la Cruz resort and a man died at Santa Cruz"
-        ],
-        "hopeful_bullets": [
-          "• Three dead and 15 injured in Tenerife tidal surge after powerful waves battered popular Spanish holiday island"
-        ],
-        "stakes_bullets": [
-          "• Three dead and 15 injured in Tenerife tidal surge after powerful waves battered popular Spanish holiday island",
-          "• A woman died after being pulled into the ocean near the Puerto de la Cruz resort and a man died at Santa Cruz",
-          "• Emergency services have told the public to stay away from coastal paths and avoid taking pictures and videos of the rough seas "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "84d96c7d0421"
-    },
-    {
       "id": "702bf133e26c",
       "title": "Some UPS and FedEx planes are grounded. What does that mean for holiday shipping?",
       "outlet": "NPR Topics: News",
@@ -2702,41 +2532,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "be25e5357c0e"
-    },
-    {
-      "id": "2d35f8959444",
-      "title": "They flew to New York to help Mamdani – now they want to bring the hope to LA",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/09/new-york-zohran-mamdani-los-angeles",
-      "published_at": "Sun, 09 Nov 2025 17:00:37 GMT",
-      "bullets": [
-        "• Young activists in New York and Los Angeles canvass for mayor-elect Mamdani",
-        "• They want to bring their experiences back to the U.S",
-        "• They say they are inspired by the success of the campaign",
-        "• The DSA-LA chapter has endorsed five candidates for mayor "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Young activists in New York and Los Angeles canvass for mayor-elect Mamdani",
-          "• They want to bring their experiences back to the U.S"
-        ],
-        "hopeful_bullets": [
-          "• Young activists in New York and Los Angeles canvass for mayor-elect Mamdani",
-          "• They want to bring their experiences back to the U.S"
-        ],
-        "stakes_bullets": [
-          "• Young activists in New York and Los Angeles canvass for mayor-elect Mamdani",
-          "• They want to bring their experiences back to the U.S",
-          "• They say they are inspired by the success of the campaign"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "26e0bd0409c8"
     },
     {
       "id": "11f941a3e53d",
@@ -2873,39 +2668,37 @@
       "cluster_id": "652a20ac5774"
     },
     {
-      "id": "3130d58d0386",
-      "title": "Paul Tagliabue, NFL commissioner for 17 years, dies at 84",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/09/nx-s1-5603612/paul-tagliabue-nfl-commissioner-dies",
-      "published_at": "Sun, 09 Nov 2025 14:17:04 -0500",
+      "id": "e525e4caedcd",
+      "title": "New U.S. nuclear power boom begins with old, still-unsolved problem: What to do with radioactive waste",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/09/nuclear-power-energy-radioactive-waste-storage-disposal.html",
+      "published_at": "Sun, 09 Nov 2025 14:00:01 GMT",
       "bullets": [
-        "• Paul Tagliabue died Sunday from heart failure at 84 years old",
-        "• He was commissioner after Pete Rozelle from 1989 to 2006",
-        "• Current Commissioner Roger Goodell succeeded him",
-        "• He oversaw a myriad of new stadiums and negotiated television contracts",
-        "• Tagliabeue was criticized for not taking stronger action on concussions "
+        "• In May, President Trump issued executive orders aimed at quadrupling the current nuclear output over the next 25 years",
+        "• The U.S",
+        "• signed a deal with Westinghouse owners Cameco and Brookfield Asset Management to spend $80 billion to build nuclear plants "
       ],
-      "category": "General",
+      "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.979
       },
       "moods": {
         "brief_bullets": [
-          "• Paul Tagliabue died Sunday from heart failure at 84 years old",
-          "• He was commissioner after Pete Rozelle from 1989 to 2006"
+          "• In May, President Trump issued executive orders aimed at quadrupling the current nuclear output over the next 25 years",
+          "• The U.S"
         ],
         "hopeful_bullets": [
-          "• Tagliabeue was criticized for not taking stronger action on concussions "
+          "• In May, President Trump issued executive orders aimed at quadrupling the current nuclear output over the next 25 years",
+          "• The U.S"
         ],
         "stakes_bullets": [
-          "• Paul Tagliabue died Sunday from heart failure at 84 years old",
-          "• He was commissioner after Pete Rozelle from 1989 to 2006",
-          "• Current Commissioner Roger Goodell succeeded him"
+          "• In May, President Trump issued executive orders aimed at quadrupling the current nuclear output over the next 25 years",
+          "• signed a deal with Westinghouse owners Cameco and Brookfield Asset Management to spend $80 billion to build nuclear plants "
         ]
       },
-      "read_minutes": 5,
-      "cluster_id": "73483af7ffeb"
+      "read_minutes": 9,
+      "cluster_id": "e50c711ce1bc"
     },
     {
       "id": "6a6738ee63b6",
@@ -2940,40 +2733,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "ac4e5ece92b6"
-    },
-    {
-      "id": "9f201026ff84",
-      "title": "BBC director resigns after criticism of the broadcaster's editing of a Trump speech",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/09/nx-s1-5603609/bbc-director-resigns-after-criticism-of-the-broadcasters-editing-of-a-trump-speech",
-      "published_at": "Sun, 09 Nov 2025 13:41:57 -0500",
-      "bullets": [
-        "• BBC director-General Tim Davie and news CEO Deborah Turness resign after criticism of the way the organization edited a speech by U.S",
-        "• President Donald Trump",
-        "• The BBC has been criticized for editing a speech Trump made on Jan",
-        "• 6, 2021, before protesters attacked the Capitol in Washington",
-        "• The way the speech was edited was misleading and cut out a section where Trump said that he wanted supporters to demonstrate peacefully "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• BBC director-General Tim Davie and news CEO Deborah Turness resign after criticism of the way the organization edited a speech by U.S",
-          "• President Donald Trump"
-        ],
-        "hopeful_bullets": [
-          "• BBC director-General Tim Davie and news CEO Deborah Turness resign after criticism of the way the organization edited a speech by U.S",
-          "• President Donald Trump"
-        ],
-        "stakes_bullets": [
-          "• The way the speech was edited was misleading and cut out a section where Trump said that he wanted supporters to demonstrate peacefully "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "03ff29e3f984"
     },
     {
       "id": "5bd5bccbf5b0",
@@ -3069,41 +2828,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "7e46ea3da06a"
-    },
-    {
-      "id": "9be7898f38c8",
-      "title": "Trump admin order to 'immediately undo' full SNAP benefits leaves states scrambling",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/09/nx-s1-5603417/full-snap-benefits-trump-states-order",
-      "published_at": "Sun, 09 Nov 2025 12:27:05 -0500",
-      "bullets": [
-        "• Trump admin order to 'immediately undo' full SNAP benefits leaves states scrambling",
-        "• It's the latest in a hail of conflicting court orders and directives to states",
-        "• Last week, a federal judge in Rhode Island ordered the government to immediately fully fund SNAP",
-        "• The Supreme Court on Friday granted a request to pause full payments while the appeals court considers the issue "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump admin order to 'immediately undo' full SNAP benefits leaves states scrambling",
-          "• It's the latest in a hail of conflicting court orders and directives to states"
-        ],
-        "hopeful_bullets": [
-          "• Trump admin order to 'immediately undo' full SNAP benefits leaves states scrambling",
-          "• It's the latest in a hail of conflicting court orders and directives to states"
-        ],
-        "stakes_bullets": [
-          "• Trump admin order to 'immediately undo' full SNAP benefits leaves states scrambling",
-          "• It's the latest in a hail of conflicting court orders and directives to states",
-          "• Last week, a federal judge in Rhode Island ordered the government to immediately fully fund SNAP"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "fa5eed20d47d"
     },
     {
       "id": "7d91d15393d6",
@@ -3265,101 +2989,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "96f562249bc4"
-    },
-    {
-      "id": "f4884c932f0c",
-      "title": "Nick Fuentes' comments on the Tucker Carlson show sparks backlash from conservatives",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/09/nx-s1-5599975/nick-fuentes-comments-on-the-tucker-carlson-show-sparks-backlash-from-conservatives",
-      "published_at": "Sun, 09 Nov 2025 08:09:21 -0500",
-      "bullets": [
-        "• Nick Fuentes' comments on the Tucker Carlson show sparks backlash from conservatives",
-        "• The far-right influencer has built an online following promoting many white nationalist and extremist ideas, including Holocaust denial",
-        "• He's also used violent and degrading rhetoric about women, NPR's Sarah McCammon reports "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.535
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nick Fuentes' comments on the Tucker Carlson show sparks backlash from conservatives",
-          "• The far-right influencer has built an online following promoting many white nationalist and extremist ideas, including Holocaust denial"
-        ],
-        "hopeful_bullets": [
-          "• The far-right influencer has built an online following promoting many white nationalist and extremist ideas, including Holocaust denial"
-        ],
-        "stakes_bullets": [
-          "• Nick Fuentes' comments on the Tucker Carlson show sparks backlash from conservatives",
-          "• The far-right influencer has built an online following promoting many white nationalist and extremist ideas, including Holocaust denial",
-          "• He's also used violent and degrading rhetoric about women, NPR's Sarah McCammon reports "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "9ea77a3706f0"
-    },
-    {
-      "id": "0e55a7e15f59",
-      "title": "Politics chat: Democrats win big in elections, record-breaking shutdown continues",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/09/nx-s1-5600005/politics-chat-democrats-win-big-in-elections-record-breaking-shutdown-continues",
-      "published_at": "Sun, 09 Nov 2025 08:09:17 -0500",
-      "bullets": [
-        "• It's the 40th day of the government shutdown and stressors are evident from food banks to airports",
-        "• NPR senior White House correspondent Tamara Keith joins Ayesha Rascoe for a chat about the shutdown",
-        "• She asks: Is any resolution in sight?"
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• It's the 40th day of the government shutdown and stressors are evident from food banks to airports",
-          "• NPR senior White House correspondent Tamara Keith joins Ayesha Rascoe for a chat about the shutdown"
-        ],
-        "hopeful_bullets": [
-          "• It's the 40th day of the government shutdown and stressors are evident from food banks to airports",
-          "• NPR senior White House correspondent Tamara Keith joins Ayesha Rascoe for a chat about the shutdown"
-        ],
-        "stakes_bullets": [
-          "• It's the 40th day of the government shutdown and stressors are evident from food banks to airports"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "a6c971669d4b"
-    },
-    {
-      "id": "13ca826f927c",
-      "title": "Developers met ministers dozens of times over planning bill while ecologists were shut out",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/politics/2025/nov/09/developers-met-ministers-dozens-of-times-over-planning-bill-while-ecologists-were-shut-out",
-      "published_at": "Sun, 09 Nov 2025 08:00:27 GMT",
-      "bullets": [
-        "• The scale of lobbying of ministers by developers on Labour’s landmark planning changes can be exposed as campaigners make last-ditch attempts to secure protections for nature",
-        "• The government has promised to rip up the rules to allow 1.5m homes to be built by the end of this parliament as part of its push for growth "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.957
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The scale of lobbying of ministers by developers on Labour’s landmark planning changes can be exposed as campaigners make last-ditch attempts to secure protections for nature",
-          "• The government has promised to rip up the rules to allow 1.5m homes to be built by the end of this parliament as part of its push for growth "
-        ],
-        "hopeful_bullets": [
-          "• The government has promised to rip up the rules to allow 1.5m homes to be built by the end of this parliament as part of its push for growth "
-        ],
-        "stakes_bullets": [
-          "• The scale of lobbying of ministers by developers on Labour’s landmark planning changes can be exposed as campaigners make last-ditch attempts to secure protections for nature"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "312926fabf39"
     },
     {
       "id": "cc989dbdd8f7",
@@ -4096,71 +3725,6 @@
       "cluster_id": "7171a193875b"
     },
     {
-      "id": "6d37720b84fd",
-      "title": "Consumers on edge as ACA 'subsidy cliff' looms: 'Quite frankly, it's terrifying'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/08/aca-subsidy-cliff-government-shutdown.html",
-      "published_at": "Sat, 08 Nov 2025 13:30:01 GMT",
-      "bullets": [
-        "• The cost of the Affordable Care Act is set to rise from $1,200 to $3,200 a year",
-        "• That figure is about $43,000 a year, and that's a third or more of the cost of living in the U.S",
-        "• It's unclear how much of that will go up "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The cost of the Affordable Care Act is set to rise from $1,200 to $3,200 a year",
-          "• That figure is about $43,000 a year, and that's a third or more of the cost of living in the U.S"
-        ],
-        "hopeful_bullets": [
-          "• The cost of the Affordable Care Act is set to rise from $1,200 to $3,200 a year",
-          "• That figure is about $43,000 a year, and that's a third or more of the cost of living in the U.S"
-        ],
-        "stakes_bullets": [
-          "• It's unclear how much of that will go up "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "786e7307a3c4"
-    },
-    {
-      "id": "f7fb025bb33c",
-      "title": "Judge says Education Dept. partisan out-of-office emails violated First Amendment",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling",
-      "published_at": "Sat, 08 Nov 2025 13:21:56 -0500",
-      "bullets": [
-        "• Judge says Education Dept",
-        "• partisan out-of-office emails violated First Amendment rights",
-        "• Lawsuit was brought by the American Federation of Government Employees (AFGE) Judge ordered department to restore personalized e-mail notices immediately",
-        "• He warned department would be required to remove partisan language from all employees' accounts "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Judge says Education Dept",
-          "• partisan out-of-office emails violated First Amendment rights"
-        ],
-        "hopeful_bullets": [
-          "• Judge says Education Dept",
-          "• partisan out-of-office emails violated First Amendment rights"
-        ],
-        "stakes_bullets": [
-          "• He warned department would be required to remove partisan language from all employees' accounts "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "107794e34d82"
-    },
-    {
       "id": "aae873005232",
       "title": "Guyana in turmoil after opposition leader arrested and faces US extradition",
       "outlet": "World news | The Guardian",
@@ -4351,42 +3915,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "86cd5e2c5b28"
-    },
-    {
-      "id": "691508874cb6",
-      "title": "Week in Politics: This week's elections; SCOTUS and Trump tariffs; shutdown update",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/08/nx-s1-5599522/week-in-politics-this-weeks-elections-scotus-and-trump-tariffs-shutdown-update",
-      "published_at": "Sat, 08 Nov 2025 07:44:09 -0500",
-      "bullets": [
-        "• The U.S",
-        "• government shutdown is entering its 39th day",
-        "• This week, Democrats won solid victories in the New Jersey and Virginia governors races",
-        "• NPR senior political contributor Ron Elving joins us from Milwaukee",
-        "• Elving: We have reached the first turning point in President Trump's second term "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The U.S",
-          "• government shutdown is entering its 39th day"
-        ],
-        "hopeful_bullets": [
-          "• The U.S",
-          "• government shutdown is entering its 39th day"
-        ],
-        "stakes_bullets": [
-          "• The U.S",
-          "• government shutdown is entering its 39th day",
-          "• This week, Democrats won solid victories in the New Jersey and Virginia governors races"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "c01437023d8e"
     },
     {
       "id": "f36dbae0691a",
@@ -4756,6 +4284,487 @@
       "cluster_id": "b235c16fb40e"
     },
     {
+      "id": "7ae139f35519",
+      "title": "As private tech market heats up, PitchBook makes startup data available via ChatGPT",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/10/pitchbook-introduces-ai-tool-navigaton-integrates-with-chatgpt.html",
+      "published_at": "Mon, 10 Nov 2025 13:00:01 GMT",
+      "bullets": [
+        "• PitchBook is rolling out an AI-powered tool that provides market insights based on user prompts",
+        "• PitchBook Navigator will become available to subscribers in late November",
+        "• The company is integrating with OpenAI, allowing users to access information directly through ChatPGT "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.533
+      },
+      "moods": {
+        "brief_bullets": [
+          "• PitchBook is rolling out an AI-powered tool that provides market insights based on user prompts",
+          "• PitchBook Navigator will become available to subscribers in late November"
+        ],
+        "hopeful_bullets": [
+          "• The company is integrating with OpenAI, allowing users to access information directly through ChatPGT "
+        ],
+        "stakes_bullets": [
+          "• PitchBook Navigator will become available to subscribers in late November"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "d561ce9bd749"
+    },
+    {
+      "id": "71c00ba168a5",
+      "title": "First Thing: Senate advances funding bill to end longest US government shutdown in history",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/10/first-thing-senate-advances-funding-bill-to-end-longest-us-government-shutdown-in-history",
+      "published_at": "Mon, 10 Nov 2025 12:47:39 GMT",
+      "bullets": [
+        "• The Senate has made significant progress towards ending the longest US government shutdown in history",
+        "• But the measure leaves out the healthcare subsidies that Democrats had demanded for weeks",
+        "• Israeli soldiers have described a free-for-all in Gaza and a breakdown in norms and legal constraints, according to testimony in a TV documentary "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Senate has made significant progress towards ending the longest US government shutdown in history",
+          "• But the measure leaves out the healthcare subsidies that Democrats had demanded for weeks"
+        ],
+        "hopeful_bullets": [
+          "• The Senate has made significant progress towards ending the longest US government shutdown in history"
+        ],
+        "stakes_bullets": [
+          "• The Senate has made significant progress towards ending the longest US government shutdown in history",
+          "• But the measure leaves out the healthcare subsidies that Democrats had demanded for weeks",
+          "• Israeli soldiers have described a free-for-all in Gaza and a breakdown in norms and legal constraints, according to testimony in a TV documentary "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "73d37f190819"
+    },
+    {
+      "id": "8be1b12b7601",
+      "title": "Snap workers say Trump administration is ‘using country’s poorest as pawns’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/10/snap-workers-trump-administration-funding",
+      "published_at": "Mon, 10 Nov 2025 12:46:28 GMT",
+      "bullets": [
+        "• Food benefits have been suspended for the first time in the history of the program",
+        "• Nearly 42 million Americans rely on SNAP, the largest anti-hunger program in the US",
+        "• Food banks across the country are scrambling to keep up with surges in demand "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Food benefits have been suspended for the first time in the history of the program",
+          "• Nearly 42 million Americans rely on SNAP, the largest anti-hunger program in the US"
+        ],
+        "hopeful_bullets": [
+          "• Food banks across the country are scrambling to keep up with surges in demand "
+        ],
+        "stakes_bullets": [
+          "• Food banks across the country are scrambling to keep up with surges in demand "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e5e720968e60"
+    },
+    {
+      "id": "71d874b5759c",
+      "title": "Trump pardons Giuliani and allies accused of trying to subvert 2020 election – latest updates",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/10/us-government-shutdown-record-donald-trump-syria-president-ahmed-al-sharaa-rudy-giuliani-pardon-politics-live-news-updates",
+      "published_at": "Mon, 10 Nov 2025 12:44:45 GMT",
+      "bullets": [
+        "• Trump pardons Giuliani and allies linked to efforts to overturn 2020 vote",
+        "• Dozens of allies accused of attempting to subvert the 2020 election won by Joe Biden",
+        "• None of those on the list were ever charged on a federal level, but this directive could prevent future administrations from prosecuting "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump pardons Giuliani and allies linked to efforts to overturn 2020 vote",
+          "• Dozens of allies accused of attempting to subvert the 2020 election won by Joe Biden"
+        ],
+        "hopeful_bullets": [
+          "• Trump pardons Giuliani and allies linked to efforts to overturn 2020 vote",
+          "• Dozens of allies accused of attempting to subvert the 2020 election won by Joe Biden"
+        ],
+        "stakes_bullets": [
+          "• None of those on the list were ever charged on a federal level, but this directive could prevent future administrations from prosecuting "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d58d9bacc1dc"
+    },
+    {
+      "id": "9e4169f2f3f1",
+      "title": "Dozens of inmates found hanged in Ecuador prison",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0kp220561go?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 10 Nov 2025 12:34:33 GMT",
+      "bullets": [
+        "• Dozens of inmates found dead in El Oro prison in southern Ecuador",
+        "• Clashes broke out between rival gangs in the early hours of Sunday morning",
+        "• The clashes were sparked by plans to move some of the inmates to a newly-built prison",
+        "• The prison was the site of another deadly incident in September when 13 inmates were killed "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dozens of inmates found dead in El Oro prison in southern Ecuador",
+          "• Clashes broke out between rival gangs in the early hours of Sunday morning"
+        ],
+        "hopeful_bullets": [
+          "• Dozens of inmates found dead in El Oro prison in southern Ecuador",
+          "• Clashes broke out between rival gangs in the early hours of Sunday morning"
+        ],
+        "stakes_bullets": [
+          "• The clashes were sparked by plans to move some of the inmates to a newly-built prison"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "5bfbe468fa7e"
+    },
+    {
+      "id": "67fb9fe321de",
+      "title": "Jailed climate activist facing deportation from UK fights ‘crazy double punishment’",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/nov/10/jailed-climate-activist-marcus-decker-deportation-uk-double-punishment",
+      "published_at": "Mon, 10 Nov 2025 12:33:31 GMT",
+      "bullets": [
+        "• Marcus Decker was jailed for two years and seven months for a protest in which he climbed the Queen Elizabeth Bridge over the Dartford Crossing and unveiled a Just Stop Oil banner in October 2022",
+        "• The German national was released from prison in February last year after serving 16 months",
+        "• He was sent a letter by the Home Office informing him of his automatic deportation "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Marcus Decker was jailed for two years and seven months for a protest in which he climbed the Queen Elizabeth Bridge over the Dartford Crossing and unveiled a Just Stop Oil banner in October 2022",
+          "• The German national was released from prison in February last year after serving 16 months"
+        ],
+        "hopeful_bullets": [
+          "• Marcus Decker was jailed for two years and seven months for a protest in which he climbed the Queen Elizabeth Bridge over the Dartford Crossing and unveiled a Just Stop Oil banner in October 2022",
+          "• The German national was released from prison in February last year after serving 16 months"
+        ],
+        "stakes_bullets": [
+          "• Marcus Decker was jailed for two years and seven months for a protest in which he climbed the Queen Elizabeth Bridge over the Dartford Crossing and unveiled a Just Stop Oil banner in October 2022"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e7ee1f0ab95b"
+    },
+    {
+      "id": "21d0ac6a5f51",
+      "title": "Cop30 live: crucial climate talks begin in Brazil as hosts insist summit must lead to ‘implementation’",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/environment/live/2025/nov/10/cop30-climate-talks-brazil-belem-latest-news-updates",
+      "published_at": "Mon, 10 Nov 2025 12:33:01 GMT",
+      "bullets": [
+        "• Rich countries have lost enthusiasm for combating climate crisis, says André Corrêa do Lago",
+        "• Brazil insists this will be ‘the Cop of implementation’ in the Amazonian city of Belem",
+        "• ‘China is coming up with solutions that are for everyone, not just China’s, he says "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rich countries have lost enthusiasm for combating climate crisis, says André Corrêa do Lago",
+          "• Brazil insists this will be ‘the Cop of implementation’ in the Amazonian city of Belem"
+        ],
+        "hopeful_bullets": [
+          "• Rich countries have lost enthusiasm for combating climate crisis, says André Corrêa do Lago",
+          "• Brazil insists this will be ‘the Cop of implementation’ in the Amazonian city of Belem"
+        ],
+        "stakes_bullets": [
+          "• Brazil insists this will be ‘the Cop of implementation’ in the Amazonian city of Belem"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "bee9fe2f81f5"
+    },
+    {
+      "id": "0cb67b04a7f8",
+      "title": "Lovecraftian Sim ‘Static Dread: The Lighthouse’ Available Now on PlayStation, Xbox",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/video-games/3913966/lovecraftian-sim-static-dread-the-lighthouse-available-now-on-playstation-xbox/",
+      "published_at": "Mon, 10 Nov 2025 12:30:40 +0000",
+      "bullets": [
+        "• Static Dread: The Lighthouse casts you as a lone lighthouse keeper, who must maintain the beacon of an ancient lighthouse after calamity has befallen the world",
+        "• You’ll meet a variety of odd characters, many of whom whisper prayers to sea gods and perform rituals to raise the dead "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Static Dread: The Lighthouse casts you as a lone lighthouse keeper, who must maintain the beacon of an ancient lighthouse after calamity has befallen the world",
+          "• You’ll meet a variety of odd characters, many of whom whisper prayers to sea gods and perform rituals to raise the dead "
+        ],
+        "hopeful_bullets": [
+          "• Static Dread: The Lighthouse casts you as a lone lighthouse keeper, who must maintain the beacon of an ancient lighthouse after calamity has befallen the world",
+          "• You’ll meet a variety of odd characters, many of whom whisper prayers to sea gods and perform rituals to raise the dead "
+        ],
+        "stakes_bullets": [
+          "• Static Dread: The Lighthouse casts you as a lone lighthouse keeper, who must maintain the beacon of an ancient lighthouse after calamity has befallen the world",
+          "• You’ll meet a variety of odd characters, many of whom whisper prayers to sea gods and perform rituals to raise the dead "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "5e121a7f1a46"
+    },
+    {
+      "id": "51c1f03bfc05",
+      "title": "Protesters disrupt event at Nigerian museum embroiled in looted artefacts row",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/nov/10/protesters-disrupt-event-at-nigeria-museum-mowaa-embroiled-in-looted-artefacts-row",
+      "published_at": "Mon, 10 Nov 2025 12:22:37 GMT",
+      "bullets": [
+        "• Protesters disrupt preview event at Museum of West African Art in Benin City, Nigeria",
+        "• Video circulating on social media shows demonstrators chanting: ‘Oba ghato kpere ise’ (‘Long live the king’ in Bini language) Foreign and local visitors were ushered out of the museum by security personnel "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Protesters disrupt preview event at Museum of West African Art in Benin City, Nigeria",
+          "• Video circulating on social media shows demonstrators chanting: ‘Oba ghato kpere ise’ (‘Long live the king’ in Bini language) Foreign and local visitors were ushered out of the museum by security personnel "
+        ],
+        "hopeful_bullets": [
+          "• Protesters disrupt preview event at Museum of West African Art in Benin City, Nigeria",
+          "• Video circulating on social media shows demonstrators chanting: ‘Oba ghato kpere ise’ (‘Long live the king’ in Bini language) Foreign and local visitors were ushered out of the museum by security personnel "
+        ],
+        "stakes_bullets": [
+          "• Protesters disrupt preview event at Museum of West African Art in Benin City, Nigeria",
+          "• Video circulating on social media shows demonstrators chanting: ‘Oba ghato kpere ise’ (‘Long live the king’ in Bini language) Foreign and local visitors were ushered out of the museum by security personnel "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d5729d2a5fb4"
+    },
+    {
+      "id": "6d37720b84fd",
+      "title": "Consumers on edge as ACA 'subsidy cliff' looms: 'Quite frankly, it's terrifying'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/08/aca-subsidy-cliff-government-shutdown.html",
+      "published_at": "Mon, 10 Nov 2025 12:17:40 GMT",
+      "bullets": [
+        "• The cost of the Affordable Care Act is set to rise from $1,200 to $3,200 a year",
+        "• That figure is about $43,000 a year, and that's a third or more of the cost of living in the U.S",
+        "• It's unclear how much of that will go up "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The cost of the Affordable Care Act is set to rise from $1,200 to $3,200 a year",
+          "• That figure is about $43,000 a year, and that's a third or more of the cost of living in the U.S"
+        ],
+        "hopeful_bullets": [
+          "• The cost of the Affordable Care Act is set to rise from $1,200 to $3,200 a year",
+          "• That figure is about $43,000 a year, and that's a third or more of the cost of living in the U.S"
+        ],
+        "stakes_bullets": [
+          "• It's unclear how much of that will go up "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "786e7307a3c4"
+    },
+    {
+      "id": "724fc09d3865",
+      "title": "Daughter of ex-South African President Jacob Zuma denies terrorism charges",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj6nppg2kklo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 10 Nov 2025 12:10:20 GMT",
+      "bullets": [
+        "• Jacob Zuma-Suma's daughter is on trial for terrorism charges",
+        "• She is accused of inciting violence against her father during a week of violence in South Africa",
+        "• She has always denied the charges and said they were an attempt to settle the issue "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jacob Zuma-Suma's daughter is on trial for terrorism charges",
+          "• She is accused of inciting violence against her father during a week of violence in South Africa"
+        ],
+        "hopeful_bullets": [
+          "• She is accused of inciting violence against her father during a week of violence in South Africa"
+        ],
+        "stakes_bullets": [
+          "• Jacob Zuma-Suma's daughter is on trial for terrorism charges",
+          "• She is accused of inciting violence against her father during a week of violence in South Africa",
+          "• She has always denied the charges and said they were an attempt to settle the issue "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "1b60633e119f"
+    },
+    {
+      "id": "da5afa884379",
+      "title": "US Senate to debate deal to end longest shutdown after overnight breakthrough",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpd2p2eddnzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 10 Nov 2025 12:07:12 GMT",
+      "bullets": [
+        "• US Senate passes deal aimed at ending longest ever government shutdown",
+        "• Majority of Democrats join with Republicans in favour of deal to end 40-day shutdown",
+        "• Government services have been suspended since October 1",
+        "• Around 1.4 million federal employees are on unpaid leave or working without pay "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.94
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US Senate passes deal aimed at ending longest ever government shutdown",
+          "• Majority of Democrats join with Republicans in favour of deal to end 40-day shutdown"
+        ],
+        "hopeful_bullets": [
+          "• US Senate passes deal aimed at ending longest ever government shutdown",
+          "• Majority of Democrats join with Republicans in favour of deal to end 40-day shutdown"
+        ],
+        "stakes_bullets": [
+          "• US Senate passes deal aimed at ending longest ever government shutdown",
+          "• Majority of Democrats join with Republicans in favour of deal to end 40-day shutdown",
+          "• Government services have been suspended since October 1"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "c34e7a1e967e"
+    },
+    {
+      "id": "66aafbc2bfa0",
+      "title": "Medicaid head falsely claims $1bn is being spent on healthcare for ‘illegal immigrants’, say experts",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/10/medicaid-head-mispending-claims",
+      "published_at": "Mon, 10 Nov 2025 12:00:49 GMT",
+      "bullets": [
+        "• The Center for Medicare and Medicaid Services (CMS), Mehmet Oz, recently claimed that an audit revealed ‘more than $1bn of federal taxpayer dollars were being spent on funding Medicaid for illegal immigrants’ But experts say the audits were unrelated to immigration, and that rhetoric like this could make immigrant families afraid to seek necessary medical care "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Center for Medicare and Medicaid Services (CMS), Mehmet Oz, recently claimed that an audit revealed ‘more than $1bn of federal taxpayer dollars were being spent on funding Medicaid for illegal immigrants’ But experts say the audits were unrelated to immigration, and that rhetoric like this could make immigrant families afraid to seek necessary medical care "
+        ],
+        "hopeful_bullets": [
+          "• The Center for Medicare and Medicaid Services (CMS), Mehmet Oz, recently claimed that an audit revealed ‘more than $1bn of federal taxpayer dollars were being spent on funding Medicaid for illegal immigrants’ But experts say the audits were unrelated to immigration, and that rhetoric like this could make immigrant families afraid to seek necessary medical care "
+        ],
+        "stakes_bullets": [
+          "• The Center for Medicare and Medicaid Services (CMS), Mehmet Oz, recently claimed that an audit revealed ‘more than $1bn of federal taxpayer dollars were being spent on funding Medicaid for illegal immigrants’ But experts say the audits were unrelated to immigration, and that rhetoric like this could make immigrant families afraid to seek necessary medical care "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "05f924b78234"
+    },
+    {
+      "id": "09f3cced724a",
+      "title": "Resilience of Europe’s populist right carries warning for US Democrats",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/10/rightwing-czech-republic-poland-hungary-democrats",
+      "published_at": "Mon, 10 Nov 2025 12:00:48 GMT",
+      "bullets": [
+        "• In the afterglow of electoral triumph, hope springs renewed for Democrats confined to the impotence of political opposition",
+        "• But the experiences of other countries that have grappled with the rise of rightwing authoritarian or populist movements provide a cautionary antidote to such optimism "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In the afterglow of electoral triumph, hope springs renewed for Democrats confined to the impotence of political opposition",
+          "• But the experiences of other countries that have grappled with the rise of rightwing authoritarian or populist movements provide a cautionary antidote to such optimism "
+        ],
+        "hopeful_bullets": [
+          "• In the afterglow of electoral triumph, hope springs renewed for Democrats confined to the impotence of political opposition",
+          "• But the experiences of other countries that have grappled with the rise of rightwing authoritarian or populist movements provide a cautionary antidote to such optimism "
+        ],
+        "stakes_bullets": [
+          "• In the afterglow of electoral triumph, hope springs renewed for Democrats confined to the impotence of political opposition",
+          "• But the experiences of other countries that have grappled with the rise of rightwing authoritarian or populist movements provide a cautionary antidote to such optimism "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "3f733026d382"
+    },
+    {
+      "id": "45031f1f360e",
+      "title": "NASA is kind of a mess: Here are the top priorities for a new administrator",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/space/2025/11/nasa-is-kind-of-a-mess-here-are-the-top-priorities-for-a-new-administrator/",
+      "published_at": "Mon, 10 Nov 2025 12:00:24 +0000",
+      "bullets": [
+        "• Jared Isaacman has been rennominated to lead NASA",
+        "• There appears to be momentum behind getting him confirmed quickly as the space agency’s 15th administrator",
+        "• It is possible, although far from a lock, the Senate could finalize his nomination before the end of this year "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jared Isaacman has been rennominated to lead NASA",
+          "• There appears to be momentum behind getting him confirmed quickly as the space agency’s 15th administrator"
+        ],
+        "hopeful_bullets": [
+          "• Jared Isaacman has been rennominated to lead NASA",
+          "• There appears to be momentum behind getting him confirmed quickly as the space agency’s 15th administrator"
+        ],
+        "stakes_bullets": [
+          "• Jared Isaacman has been rennominated to lead NASA",
+          "• It is possible, although far from a lock, the Senate could finalize his nomination before the end of this year "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "75da7b23a9b8"
+    },
+    {
       "id": "6bdb90b7fc81",
       "title": "The Mysterious Math Behind the Brazilian Butt Lift",
       "outlet": "WIRED",
@@ -4787,35 +4796,36 @@
       "cluster_id": "4b7f039859cb"
     },
     {
-      "id": "8be1b12b7601",
-      "title": "Snap workers rebuke Trump administration over funding: ‘using our country’s poorest as pawns’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/10/snap-workers-trump-administration-funding",
-      "published_at": "Mon, 10 Nov 2025 11:00:49 GMT",
+      "id": "8dfcdd024073",
+      "title": "Southern Water apologises for catastrophic spill of plastic biobeads in Sussex",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/nov/10/southern-water-spill-plastic-biobeads-sussex-camber-sands",
+      "published_at": "Mon, 10 Nov 2025 11:06:56 GMT",
       "bullets": [
-        "• Food benefits have been suspended for the first time in the history of the program",
-        "• Nearly 42 million Americans rely on SNAP, the largest anti-hunger program in the US",
-        "• Food banks across the country are scrambling to keep up with surges in demand "
+        "• Plastic biobeads washed up on beaches including Camber Sands",
+        "• Spill was caused by a mechanical failure at Southern Water's Eastbourne sewage works",
+        "• The company said it is 'highly likely' that the beads came from its wastewater treatment works "
       ],
-      "category": "US",
+      "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Food benefits have been suspended for the first time in the history of the program",
-          "• Nearly 42 million Americans rely on SNAP, the largest anti-hunger program in the US"
+          "• Plastic biobeads washed up on beaches including Camber Sands",
+          "• Spill was caused by a mechanical failure at Southern Water's Eastbourne sewage works"
         ],
         "hopeful_bullets": [
-          "• Food banks across the country are scrambling to keep up with surges in demand "
+          "• Plastic biobeads washed up on beaches including Camber Sands",
+          "• Spill was caused by a mechanical failure at Southern Water's Eastbourne sewage works"
         ],
         "stakes_bullets": [
-          "• Food banks across the country are scrambling to keep up with surges in demand "
+          "• Spill was caused by a mechanical failure at Southern Water's Eastbourne sewage works"
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "09ecc10f5d1f"
+      "read_minutes": 3,
+      "cluster_id": "8f44dfbe17fd"
     },
     {
       "id": "ca93cacce86d",
@@ -4884,6 +4894,39 @@
       "cluster_id": "a855b7acd040"
     },
     {
+      "id": "e43b0caec3e7",
+      "title": "Malian TikToker killed by suspected jihadists after pro-army posts",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cnvep8ppyr6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 10 Nov 2025 10:52:38 GMT",
+      "bullets": [
+        "• Mariam Cissé, said to be in her 20s and with over 100,000 TikTok followers, posted videos about life in her hometown",
+        "• She often expressed support for the army in her videos",
+        "• Her death has shocked the nation, which has been battling a jihadist insurgency since 2012 "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.968
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mariam Cissé, said to be in her 20s and with over 100,000 TikTok followers, posted videos about life in her hometown",
+          "• She often expressed support for the army in her videos"
+        ],
+        "hopeful_bullets": [
+          "• Her death has shocked the nation, which has been battling a jihadist insurgency since 2012 "
+        ],
+        "stakes_bullets": [
+          "• Mariam Cissé, said to be in her 20s and with over 100,000 TikTok followers, posted videos about life in her hometown",
+          "• She often expressed support for the army in her videos",
+          "• Her death has shocked the nation, which has been battling a jihadist insurgency since 2012 "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fcb7741aba3e"
+    },
+    {
       "id": "ddf83cb82cc0",
       "title": "Lice Checks, Crafts, and Being Touched by Strangers: Inside a Role-Playing ASMR Spa",
       "outlet": "WIRED",
@@ -4914,39 +4957,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "838971fdacbd"
-    },
-    {
-      "id": "241306626465",
-      "title": "Government shutdown could be headed for end as Senate passes first stage of new deal",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/09/government-shutdown-senate-democrats.html",
-      "published_at": "Mon, 10 Nov 2025 10:16:40 GMT",
-      "bullets": [
-        "• The Senate passes the first stage of a deal to end the U.S",
-        "• government shutdown",
-        "• Eight Democratic senators break with party leadership to support the deal",
-        "• The deal would need to be approved by the House of Representatives and signed into law by President Trump "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Senate passes the first stage of a deal to end the U.S",
-          "• government shutdown"
-        ],
-        "hopeful_bullets": [
-          "• The Senate passes the first stage of a deal to end the U.S",
-          "• government shutdown"
-        ],
-        "stakes_bullets": [
-          "• Eight Democratic senators break with party leadership to support the deal"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "06da7dacab89"
     },
     {
       "id": "56e41a152af1",
@@ -5013,36 +5023,36 @@
       "cluster_id": "58a1a4fe2e57"
     },
     {
-      "id": "035db2515476",
-      "title": "‘I used to be a bit naughty’: Portsmouth defied funding cuts and saved its youth centres – here’s what happened",
+      "id": "08d0181984b9",
+      "title": "The temperature at Cop30: Trump’s absence better than a US wrecking ball",
       "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/10/young-people-poverty-uk-portsmouth-funding-youth-clubs-playgrounds-families-benefits",
-      "published_at": "Mon, 10 Nov 2025 10:00:03 GMT",
+      "url": "https://www.theguardian.com/environment/2025/nov/10/cop30-trump-climate-crisis-brazil",
+      "published_at": "Mon, 10 Nov 2025 10:00:04 GMT",
       "bullets": [
-        "• Portsmouth's Buckland adventure playground has survived despite ever-lengthening odds",
-        "• For many it is a ‘second home’, a space where they feel seen and safe",
-        "• But after more than a decade of cuts that have ravaged leisure provision for children and youth services across England and Wales, the playground and youth club have survived "
+        "• Under Donald Trump, the US has pulled back from climate action and openly agitated for greater global fossil fuel use and for other countries to tear down their own climate policies",
+        "• The White House said no high-level representatives would attend the Cop30 summit in Belém, Brazil, this week "
       ],
       "category": "Environment",
       "sentiment": {
-        "label": "positive",
-        "score": 0.99
+        "label": "negative",
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• Portsmouth's Buckland adventure playground has survived despite ever-lengthening odds",
-          "• For many it is a ‘second home’, a space where they feel seen and safe"
+          "• Under Donald Trump, the US has pulled back from climate action and openly agitated for greater global fossil fuel use and for other countries to tear down their own climate policies",
+          "• The White House said no high-level representatives would attend the Cop30 summit in Belém, Brazil, this week "
         ],
         "hopeful_bullets": [
-          "• Portsmouth's Buckland adventure playground has survived despite ever-lengthening odds",
-          "• For many it is a ‘second home’, a space where they feel seen and safe"
+          "• Under Donald Trump, the US has pulled back from climate action and openly agitated for greater global fossil fuel use and for other countries to tear down their own climate policies",
+          "• The White House said no high-level representatives would attend the Cop30 summit in Belém, Brazil, this week "
         ],
         "stakes_bullets": [
-          "• But after more than a decade of cuts that have ravaged leisure provision for children and youth services across England and Wales, the playground and youth club have survived "
+          "• Under Donald Trump, the US has pulled back from climate action and openly agitated for greater global fossil fuel use and for other countries to tear down their own climate policies",
+          "• The White House said no high-level representatives would attend the Cop30 summit in Belém, Brazil, this week "
         ]
       },
       "read_minutes": 6,
-      "cluster_id": "72f080eae4a7"
+      "cluster_id": "6014e9174667"
     },
     {
       "id": "34ed7080699d",
@@ -5077,6 +5087,40 @@
       },
       "read_minutes": 7,
       "cluster_id": "18b09a88831c"
+    },
+    {
+      "id": "89753700be9f",
+      "title": "A Disease-Carrying Mosquito Has Landed in the Rocky Mountains Where It Historically Couldn’t Survive",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/10112025/colorado-invasive-dengue-fever-mosquito/",
+      "published_at": "Mon, 10 Nov 2025 10:00:00 +0000",
+      "bullets": [
+        "• The Aedes aegypti is a mosquito species that can spread potentially deadly diseases",
+        "• It's popping up all over the Mountain West, where conditions have historically been far too harsh for it to survive",
+        "• The mosquito species is native to tropical and subtropical climates, but climate change pushes up temperatures and warps precipitation patterns "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Aedes aegypti is a mosquito species that can spread potentially deadly diseases",
+          "• It's popping up all over the Mountain West, where conditions have historically been far too harsh for it to survive"
+        ],
+        "hopeful_bullets": [
+          "• The Aedes aegypti is a mosquito species that can spread potentially deadly diseases",
+          "• It's popping up all over the Mountain West, where conditions have historically been far too harsh for it to survive"
+        ],
+        "stakes_bullets": [
+          "• The Aedes aegypti is a mosquito species that can spread potentially deadly diseases",
+          "• It's popping up all over the Mountain West, where conditions have historically been far too harsh for it to survive",
+          "• The mosquito species is native to tropical and subtropical climates, but climate change pushes up temperatures and warps precipitation patterns "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "526871211c80"
     },
     {
       "id": "6f64dc7dc68f",
@@ -5248,35 +5292,38 @@
       "cluster_id": "b82e6a7ac180"
     },
     {
-      "id": "6d2e85777562",
-      "title": "Weather tracker: Typhoon Fung-Wong becomes second in a week to hit the Philippines",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/10/weather-tracker-typhoon-fung-wong-philippines",
-      "published_at": "Mon, 10 Nov 2025 07:37:18 GMT",
+      "id": "91867b05acc6",
+      "title": "Senators reach deal to reopen the government. And, countries gather for climate talks",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/10/g-s1-97152/up-first-newsletter-government-shutdown-snap-benefits-cop30",
+      "published_at": "Mon, 10 Nov 2025 07:29:29 -0500",
       "bullets": [
-        "• Typhoon Fung-Wong, locally known as Uwan, made landfall on Sunday evening",
-        "• The weather system prompted warnings for heavy rainfall and life-threatening storm surges",
-        "• More than 200mm of rainfall is expected to have fallen on Luzon, the country’s most populous island "
+        "• Senators reach deal to reopen the government and end the longest shutdown in U.S",
+        "• history",
+        "• The agreement would fund the government through Jan",
+        "• 30",
+        "• The administration has two days to increase SNAP benefits from 65% to 100% after a federal appeals court refused to pause a lower court's orders to do so "
       ],
-      "category": "Environment",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.92
+        "score": 0.879
       },
       "moods": {
         "brief_bullets": [
-          "• Typhoon Fung-Wong, locally known as Uwan, made landfall on Sunday evening",
-          "• The weather system prompted warnings for heavy rainfall and life-threatening storm surges"
+          "• Senators reach deal to reopen the government and end the longest shutdown in U.S",
+          "• history"
         ],
         "hopeful_bullets": [
-          "• The weather system prompted warnings for heavy rainfall and life-threatening storm surges"
+          "• Senators reach deal to reopen the government and end the longest shutdown in U.S",
+          "• history"
         ],
         "stakes_bullets": [
-          "• More than 200mm of rainfall is expected to have fallen on Luzon, the country’s most populous island "
+          "• The administration has two days to increase SNAP benefits from 65% to 100% after a federal appeals court refused to pause a lower court's orders to do so "
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "38df931a66ed"
+      "read_minutes": 5,
+      "cluster_id": "4f1169fdabb8"
     },
     {
       "id": "ba63e24d9ee7",
@@ -5312,71 +5359,37 @@
       "cluster_id": "86b043bbb7d1"
     },
     {
-      "id": "b287c7c39d72",
-      "title": "‘The tigers are hungry’: endangered but deadly, the world’s largest big cat is sowing fear in Siberia’s villages",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/10/siberian-amur-tiger-endangered-russia-siberia-killings",
-      "published_at": "Mon, 10 Nov 2025 07:00:54 GMT",
+      "id": "55d94ef87bc2",
+      "title": "Trump grants pardons to Giuliani, Meadows, others linked to 2020 election efforts",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/10/nx-s1-5604174/trump-pardons-2020-election",
+      "published_at": "Mon, 10 Nov 2025 06:55:13 -0500",
       "bullets": [
-        "• The Amur tiger, also known as the Siberian tiger, was so rarely seen in Russia’s far east that it was considered a ghost of the forest",
-        "• Since 2020, Amur tigers have left the forest in unprecedented numbers – sparking fear among communities that live alongside them",
-        "• African swine fever, a disease that is almost always fatal to most pig species, has swept through the region "
+        "• President Trump pardoned 77 people accused of trying to overturn the 2020 presidential election",
+        "• Rudy Giuliani, Mark Meadows, Sidney Powell and others were among those listed",
+        "• Some faced state prosecutions, while others were never charged",
+        "• The pardons are largely symbolic as none of the names listed were ever charged with federal crimes "
       ],
-      "category": "Environment",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.711
+        "score": 0.911
       },
       "moods": {
         "brief_bullets": [
-          "• The Amur tiger, also known as the Siberian tiger, was so rarely seen in Russia’s far east that it was considered a ghost of the forest",
-          "• Since 2020, Amur tigers have left the forest in unprecedented numbers – sparking fear among communities that live alongside them"
+          "• President Trump pardoned 77 people accused of trying to overturn the 2020 presidential election",
+          "• Rudy Giuliani, Mark Meadows, Sidney Powell and others were among those listed"
         ],
         "hopeful_bullets": [
-          "• African swine fever, a disease that is almost always fatal to most pig species, has swept through the region "
+          "• President Trump pardoned 77 people accused of trying to overturn the 2020 presidential election",
+          "• Rudy Giuliani, Mark Meadows, Sidney Powell and others were among those listed"
         ],
         "stakes_bullets": [
-          "• The Amur tiger, also known as the Siberian tiger, was so rarely seen in Russia’s far east that it was considered a ghost of the forest",
-          "• Since 2020, Amur tigers have left the forest in unprecedented numbers – sparking fear among communities that live alongside them",
-          "• African swine fever, a disease that is almost always fatal to most pig species, has swept through the region "
+          "• Some faced state prosecutions, while others were never charged"
         ]
       },
-      "read_minutes": 4,
-      "cluster_id": "3086dbd225b6"
-    },
-    {
-      "id": "feceea51245b",
-      "title": "A new start after 60: I found my feet in midlife, became a park ranger at 85 – and retired happily at 100",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2025/nov/10/oldest-park-ranger-85-retired-civil-rights-betty-reid-soskin",
-      "published_at": "Mon, 10 Nov 2025 07:00:54 GMT",
-      "bullets": [
-        "• Betty Reid Soskin was 92 when she was the oldest full-time national park ranger in the US",
-        "• She had been furloughed along with 800,000 other federal employees during the government shutdown",
-        "• Her memoir, Sign My Name to Freedom, was published in 2018 and a documentary about her work, No Time to Waste, was released in 2020 "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Betty Reid Soskin was 92 when she was the oldest full-time national park ranger in the US",
-          "• She had been furloughed along with 800,000 other federal employees during the government shutdown"
-        ],
-        "hopeful_bullets": [
-          "• Betty Reid Soskin was 92 when she was the oldest full-time national park ranger in the US",
-          "• She had been furloughed along with 800,000 other federal employees during the government shutdown"
-        ],
-        "stakes_bullets": [
-          "• Betty Reid Soskin was 92 when she was the oldest full-time national park ranger in the US",
-          "• She had been furloughed along with 800,000 other federal employees during the government shutdown",
-          "• Her memoir, Sign My Name to Freedom, was published in 2018 and a documentary about her work, No Time to Waste, was released in 2020 "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "946be667c4a8"
+      "read_minutes": 2,
+      "cluster_id": "7cb9925a84e5"
     },
     {
       "id": "4fa9d72549ad",
@@ -5446,73 +5459,6 @@
       "cluster_id": "3cf6a5cac906"
     },
     {
-      "id": "da5afa884379",
-      "title": "US Senate passes deal aimed at ending longest ever government shutdown",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpd2p2eddnzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 10 Nov 2025 05:56:44 GMT",
-      "bullets": [
-        "• US Senate passes deal aimed at ending longest ever government shutdown",
-        "• Majority of Democrats joined with Republicans and voted in favour of the deal",
-        "• It is the first serious sign of progress after 40 days of deadlock",
-        "• Around 1.4 million federal employees are on unpaid leave or working without pay "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US Senate passes deal aimed at ending longest ever government shutdown",
-          "• Majority of Democrats joined with Republicans and voted in favour of the deal"
-        ],
-        "hopeful_bullets": [
-          "• It is the first serious sign of progress after 40 days of deadlock"
-        ],
-        "stakes_bullets": [
-          "• US Senate passes deal aimed at ending longest ever government shutdown",
-          "• Majority of Democrats joined with Republicans and voted in favour of the deal",
-          "• It is the first serious sign of progress after 40 days of deadlock"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "bed029bda478"
-    },
-    {
-      "id": "01f272a85d85",
-      "title": "Country diary: The muted beauty of moth-trapping in November | Susie White",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/10/country-diary-the-muted-beauty-of-moth-trapping-in-november",
-      "published_at": "Mon, 10 Nov 2025 05:30:52 GMT",
-      "bullets": [
-        "• Some moths can fly in the rain, thanks to the super-hydrophobicity of their wings",
-        "• The trap itself is a large black tub positioned beneath a bright bulb",
-        "• Moths attracted to its light are funnelled down to the textured hollows of egg boxes "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.97
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Some moths can fly in the rain, thanks to the super-hydrophobicity of their wings",
-          "• The trap itself is a large black tub positioned beneath a bright bulb"
-        ],
-        "hopeful_bullets": [
-          "• Some moths can fly in the rain, thanks to the super-hydrophobicity of their wings"
-        ],
-        "stakes_bullets": [
-          "• Some moths can fly in the rain, thanks to the super-hydrophobicity of their wings",
-          "• The trap itself is a large black tub positioned beneath a bright bulb",
-          "• Moths attracted to its light are funnelled down to the textured hollows of egg boxes "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "0625c55df20a"
-    },
-    {
       "id": "2331b8d2e2a5",
       "title": "Trump news at a glance: eight Democrats join Republicans to advance funding bill",
       "outlet": "US news | The Guardian",
@@ -5578,68 +5524,6 @@
       "cluster_id": "5e5f46e64192"
     },
     {
-      "id": "bb88c8dd2f24",
-      "title": "Rich countries have lost enthusiasm for tackling climate crisis, says Cop30 chief",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/10/rich-countries-have-lost-enthusiasm-for-tackling-climate-crisis-says-cop30-chief",
-      "published_at": "Mon, 10 Nov 2025 05:00:54 GMT",
-      "bullets": [
-        "• André Corrêa do Lago says more countries should follow China’s lead instead of complaining about being outcompeteted",
-        "• “China is coming up with solutions that are for everyone, not just China,” he said "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• André Corrêa do Lago says more countries should follow China’s lead instead of complaining about being outcompeteted",
-          "• “China is coming up with solutions that are for everyone, not just China,” he said "
-        ],
-        "hopeful_bullets": [
-          "• André Corrêa do Lago says more countries should follow China’s lead instead of complaining about being outcompeteted",
-          "• “China is coming up with solutions that are for everyone, not just China,” he said "
-        ],
-        "stakes_bullets": [
-          "• André Corrêa do Lago says more countries should follow China’s lead instead of complaining about being outcompeteted"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5cad1ffa37ee"
-    },
-    {
-      "id": "85e1c5547ccb",
-      "title": "Counting down to zero: the final warning from a climate diplomat – podcast",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2025/nov/10/counting-down-to-zero-the-final-warning-from-a-climate-diplomat-podcast",
-      "published_at": "Mon, 10 Nov 2025 05:00:52 GMT",
-      "bullets": [
-        "• Climate Diplomat: A Personal History of the Cop Conferences, published by Profile on 28 August",
-        "• Peter Betts wanted to pass on what he had learned over many years of negotiating at Cops – including how Paris 2015 was saved at the last bell "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Climate Diplomat: A Personal History of the Cop Conferences, published by Profile on 28 August",
-          "• Peter Betts wanted to pass on what he had learned over many years of negotiating at Cops – including how Paris 2015 was saved at the last bell "
-        ],
-        "hopeful_bullets": [
-          "• Peter Betts wanted to pass on what he had learned over many years of negotiating at Cops – including how Paris 2015 was saved at the last bell "
-        ],
-        "stakes_bullets": [
-          "• Climate Diplomat: A Personal History of the Cop Conferences, published by Profile on 28 August",
-          "• Peter Betts wanted to pass on what he had learned over many years of negotiating at Cops – including how Paris 2015 was saved at the last bell "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "f44f35a8e4cb"
-    },
-    {
       "id": "fd289fb94f19",
       "title": "Countries are gathering for climate negotiations. Here's where the U.S. stands",
       "outlet": "NPR Topics: News",
@@ -5670,6 +5554,39 @@
       },
       "read_minutes": 6,
       "cluster_id": "9f3b281e734b"
+    },
+    {
+      "id": "cef31aae3dbb",
+      "title": "People want to avoid ultra-processed foods. But experts struggle to define them",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/10/nx-s1-5602065/ultra-processed-food-diet-health",
+      "published_at": "Mon, 10 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• People want to avoid ultra-processed foods, but experts struggle to define them",
+        "• California last month became the first U.S",
+        "• state to ban certain ultra-processing foods from school lunches",
+        "• The Trump administration is working on its own definition of ultra-processored foods "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• People want to avoid ultra-processed foods, but experts struggle to define them",
+          "• California last month became the first U.S"
+        ],
+        "hopeful_bullets": [
+          "• People want to avoid ultra-processed foods, but experts struggle to define them",
+          "• California last month became the first U.S"
+        ],
+        "stakes_bullets": [
+          "• state to ban certain ultra-processing foods from school lunches"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "d78316217b8e"
     },
     {
       "id": "f689ad120e0d",
@@ -5706,37 +5623,38 @@
       "cluster_id": "5bbb91c788db"
     },
     {
-      "id": "cef31aae3dbb",
-      "title": "People want to avoid ultra-processed foods. But experts struggle to define them",
+      "id": "650c69424895",
+      "title": "In an encrypted group chat, National Guard members question Trump deployments",
       "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/10/nx-s1-5602065/ultra-processed-food-diet-health",
+      "url": "https://www.npr.org/2025/11/10/nx-s1-5601819/national-guard-signal-trump-deployments",
       "published_at": "Mon, 10 Nov 2025 05:00:00 -0500",
       "bullets": [
-        "• People want to avoid ultra-processed foods, but experts struggle to define them",
-        "• California last month became the first U.S",
-        "• state to ban certain ultra-processing foods from school lunches",
-        "• The Trump administration is working on its own definition of ultra-processored foods "
+        "• In an encrypted group chat, National Guard members question Trump deployments across the U.S",
+        "• They say they're alarmed at the turn the country is taking",
+        "• The administration started sending troops into several Democratic-led cities this summer, citing the need to crack down on violent crime and protect federal immigration facilities "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.975
+        "score": 0.984
       },
       "moods": {
         "brief_bullets": [
-          "• People want to avoid ultra-processed foods, but experts struggle to define them",
-          "• California last month became the first U.S"
+          "• In an encrypted group chat, National Guard members question Trump deployments across the U.S",
+          "• They say they're alarmed at the turn the country is taking"
         ],
         "hopeful_bullets": [
-          "• People want to avoid ultra-processed foods, but experts struggle to define them",
-          "• California last month became the first U.S"
+          "• In an encrypted group chat, National Guard members question Trump deployments across the U.S",
+          "• They say they're alarmed at the turn the country is taking"
         ],
         "stakes_bullets": [
-          "• state to ban certain ultra-processing foods from school lunches"
+          "• In an encrypted group chat, National Guard members question Trump deployments across the U.S",
+          "• They say they're alarmed at the turn the country is taking",
+          "• The administration started sending troops into several Democratic-led cities this summer, citing the need to crack down on violent crime and protect federal immigration facilities "
         ]
       },
       "read_minutes": 6,
-      "cluster_id": "d78316217b8e"
+      "cluster_id": "6c8614f998d3"
     },
     {
       "id": "99a979e1df31",
@@ -5871,74 +5789,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "a280a1dd9d1f"
-    },
-    {
-      "id": "6e644613c243",
-      "title": "Trump administration demands that states 'undo' full SNAP benefit payments",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/09/snap-trump-states-food-patrick-penn.html",
-      "published_at": "Mon, 10 Nov 2025 04:08:57 GMT",
-      "bullets": [
-        "• The U.S",
-        "• Department of Agriculture threatened to enact financial penalties on states that issued full monthly SNAP benefits for November if they don't \"undo\" those payments",
-        "• The late-night directive adds to the chaos surrounding the anti-hunger program that serves more than 42 million Americans "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The U.S",
-          "• Department of Agriculture threatened to enact financial penalties on states that issued full monthly SNAP benefits for November if they don't \"undo\" those payments"
-        ],
-        "hopeful_bullets": [
-          "• The U.S",
-          "• Department of Agriculture threatened to enact financial penalties on states that issued full monthly SNAP benefits for November if they don't \"undo\" those payments"
-        ],
-        "stakes_bullets": [
-          "• The U.S",
-          "• Department of Agriculture threatened to enact financial penalties on states that issued full monthly SNAP benefits for November if they don't \"undo\" those payments",
-          "• The late-night directive adds to the chaos surrounding the anti-hunger program that serves more than 42 million Americans "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ede4d0b2ad0f"
-    },
-    {
-      "id": "4db082b82099",
-      "title": "China suspends some critical mineral export curbs to the U.S. as trade truce takes hold",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/10/china-suspends-some-critical-mineral-export-curbs-to-the-us-as-trade-truce-takes-hold.html",
-      "published_at": "Mon, 10 Nov 2025 04:03:14 GMT",
-      "bullets": [
-        "• China suspends export controls on critical minerals used in military hardware, semiconductors",
-        "• Restrictions include limits on the export of certain rare earth elements, lithium battery materials, and processing technologies",
-        "• China also reversed curbs on exports of gallium, germanium, antimony and other so-called super-hard materials "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China suspends export controls on critical minerals used in military hardware, semiconductors",
-          "• Restrictions include limits on the export of certain rare earth elements, lithium battery materials, and processing technologies"
-        ],
-        "hopeful_bullets": [
-          "• China suspends export controls on critical minerals used in military hardware, semiconductors",
-          "• Restrictions include limits on the export of certain rare earth elements, lithium battery materials, and processing technologies"
-        ],
-        "stakes_bullets": [
-          "• China suspends export controls on critical minerals used in military hardware, semiconductors",
-          "• Restrictions include limits on the export of certain rare earth elements, lithium battery materials, and processing technologies",
-          "• China also reversed curbs on exports of gallium, germanium, antimony and other so-called super-hard materials "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "be2bd8e62eaf"
     },
     {
       "id": "491db8227fd2",
@@ -6337,6 +6187,40 @@
       "cluster_id": "bd02047666ee"
     },
     {
+      "id": "7566d92636da",
+      "title": "Here are 4 things that could go right for stocks — and what would hold them back",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/09/here-are-4-things-that-could-go-right-for-stocks-and-what-will-hold-them-back.html",
+      "published_at": "Mon, 10 Nov 2025 01:01:39 GMT",
+      "bullets": [
+        "• President Donald Trump announced sweeping new tariffs on imported goods on April 2",
+        "• The S & P 500 lost more than 10% in a couple of days and eventually bottomed out at 4,982 on April 8",
+        "• Now check the broad market index's close on Friday: 6,728"
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump announced sweeping new tariffs on imported goods on April 2",
+          "• The S & P 500 lost more than 10% in a couple of days and eventually bottomed out at 4,982 on April 8"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump announced sweeping new tariffs on imported goods on April 2",
+          "• The S & P 500 lost more than 10% in a couple of days and eventually bottomed out at 4,982 on April 8"
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump announced sweeping new tariffs on imported goods on April 2",
+          "• The S & P 500 lost more than 10% in a couple of days and eventually bottomed out at 4,982 on April 8",
+          "• Now check the broad market index's close on Friday: 6,728"
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "937b267f4cba"
+    },
+    {
       "id": "d2d8cc13d7fa",
       "title": "Gov. Greg Abbott launches reelection campaign for fourth term",
       "outlet": "The Texas Tribune",
@@ -6462,6 +6346,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "e9628ecfc68f"
+    },
+    {
+      "id": "e54b33ce2ddc",
+      "title": "The ground is swallowing homes in this Native village in Alaska. Residents have no choice but to move",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/03/alaska-nunapitchuk-climate-melting-permafrost",
+      "published_at": "Mon, 03 Nov 2025 17:00:04 GMT",
+      "bullets": [
+        "• Nunapitchuk is one of 144 villages in Alaska that will need to relocate because of climate damage caused by the melting of the permafrost",
+        "• Residents have decided to move the entire village to higher ground to cope with the climate change",
+        "• The phenomenon, along with rapid erosion from the coastline, has dangerously damaged key infrastructure "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nunapitchuk is one of 144 villages in Alaska that will need to relocate because of climate damage caused by the melting of the permafrost",
+          "• Residents have decided to move the entire village to higher ground to cope with the climate change"
+        ],
+        "hopeful_bullets": [
+          "• Nunapitchuk is one of 144 villages in Alaska that will need to relocate because of climate damage caused by the melting of the permafrost",
+          "• Residents have decided to move the entire village to higher ground to cope with the climate change"
+        ],
+        "stakes_bullets": [
+          "• Nunapitchuk is one of 144 villages in Alaska that will need to relocate because of climate damage caused by the melting of the permafrost"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "560e22a564de"
     },
     {
       "id": "b34dc5077a7b",
@@ -7486,37 +7402,6 @@
       "cluster_id": "06281961b51c"
     },
     {
-      "id": "fbf332e3091b",
-      "title": "States and Nonprofits Are Helping National Parks Run During the Shutdown. Could Their Efforts Backfire?",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/07112025/states-nonprofits-help-national-parks-run-during-government-shutdown/",
-      "published_at": "Fri, 07 Nov 2025 19:50:57 +0000",
-      "bullets": [
-        "• Former Glacier National Park official: National parks aren't designed to operate during shutdowns",
-        "• States and nonprofits have stepped in to help national parks operate during the record lapse in federal spending",
-        "• There are concerns the assistance could be used to justify additional staffing cuts at parks "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Former Glacier National Park official: National parks aren't designed to operate during shutdowns",
-          "• States and nonprofits have stepped in to help national parks operate during the record lapse in federal spending"
-        ],
-        "hopeful_bullets": [
-          "• States and nonprofits have stepped in to help national parks operate during the record lapse in federal spending"
-        ],
-        "stakes_bullets": [
-          "• There are concerns the assistance could be used to justify additional staffing cuts at parks "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "43baafba9f6c"
-    },
-    {
       "id": "6d68959dcc1b",
       "title": "‘Better Luck than Chuck’ Sneak Peek – First Look at the Horror Trivia Game Show You’ve Been Craving!",
       "outlet": "Bloody Disgusting!",
@@ -7780,39 +7665,6 @@
       "cluster_id": "7443ebd8529e"
     },
     {
-      "id": "b9aee26f3fc6",
-      "title": "Monster High Celebrates ‘The Shining’ 45th Anniversary with Grady Twins Skullector Re-Release",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/the-further/3913458/monster-high-celebrates-the-shining-45th-anniversary/",
-      "published_at": "Fri, 07 Nov 2025 18:24:57 +0000",
-      "bullets": [
-        "• The Grady Twins, previously released in 2020, are back on sale on November 13, 2025, at 9 am PT",
-        "• The dolls’ re-release arrives just ahead of The Shining’s return to theaters next month",
-        "• Each doll is 10 inches tall with 11 points of articulation "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.978
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Grady Twins, previously released in 2020, are back on sale on November 13, 2025, at 9 am PT",
-          "• The dolls’ re-release arrives just ahead of The Shining’s return to theaters next month"
-        ],
-        "hopeful_bullets": [
-          "• The Grady Twins, previously released in 2020, are back on sale on November 13, 2025, at 9 am PT"
-        ],
-        "stakes_bullets": [
-          "• The Grady Twins, previously released in 2020, are back on sale on November 13, 2025, at 9 am PT",
-          "• The dolls’ re-release arrives just ahead of The Shining’s return to theaters next month",
-          "• Each doll is 10 inches tall with 11 points of articulation "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "9897eb4923b3"
-    },
-    {
       "id": "414b96ffc8d9",
       "title": "Questions swirl after Trump’s GLP-1 pricing deal announcement",
       "outlet": "Ars Technica - All content",
@@ -7912,38 +7764,35 @@
       "cluster_id": "38ce6d9c6903"
     },
     {
-      "id": "acadc37f4709",
-      "title": "Oddest ChatGPT leaks yet: Cringey chat logs found in Google analytics tool",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/",
-      "published_at": "Fri, 07 Nov 2025 16:49:53 +0000",
+      "id": "1b1cb2b5c84e",
+      "title": "Residents of Alaska’s storm-battered Native towns consider moving to higher ground",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/07/native-alaskans-storm-damage-climate-crisis",
+      "published_at": "Fri, 07 Nov 2025 17:21:40 GMT",
       "bullets": [
-        "• ChatGPT conversations have been leaking into Google Search Console, a tool used to monitor search traffic",
-        "• Jason Packer, owner of analytics consulting firm Quantable, was among the first to flag the issue last month",
-        "• He and Slobodan Manić conducted testing that they believe may have surfaced “the first definitive proof that OpenAI directly scrapes Google Search with actual user prompts”"
+        "• Darrel John is one of seven residents of Kwigillingok, Alaska, who chose to stay",
+        "• He says he hopes repairs can keep the community together long enough to come up with a plan",
+        "• The state’s focus is on repairing the villages and supporting the more than 1,600 people who were displaced "
       ],
-      "category": "Technology",
+      "category": "Environment",
       "sentiment": {
-        "label": "negative",
-        "score": 0.999
+        "label": "positive",
+        "score": 0.978
       },
       "moods": {
         "brief_bullets": [
-          "• ChatGPT conversations have been leaking into Google Search Console, a tool used to monitor search traffic",
-          "• Jason Packer, owner of analytics consulting firm Quantable, was among the first to flag the issue last month"
+          "• Darrel John is one of seven residents of Kwigillingok, Alaska, who chose to stay",
+          "• He says he hopes repairs can keep the community together long enough to come up with a plan"
         ],
         "hopeful_bullets": [
-          "• ChatGPT conversations have been leaking into Google Search Console, a tool used to monitor search traffic",
-          "• Jason Packer, owner of analytics consulting firm Quantable, was among the first to flag the issue last month"
+          "• He says he hopes repairs can keep the community together long enough to come up with a plan"
         ],
         "stakes_bullets": [
-          "• ChatGPT conversations have been leaking into Google Search Console, a tool used to monitor search traffic",
-          "• Jason Packer, owner of analytics consulting firm Quantable, was among the first to flag the issue last month",
-          "• He and Slobodan Manić conducted testing that they believe may have surfaced “the first definitive proof that OpenAI directly scrapes Google Search with actual user prompts”"
+          "• He says he hopes repairs can keep the community together long enough to come up with a plan"
         ]
       },
-      "read_minutes": 1,
-      "cluster_id": "e188fc3a4ab1"
+      "read_minutes": 4,
+      "cluster_id": "3e8eb9637fd7"
     },
     {
       "id": "178810fd6ff9",
@@ -8043,41 +7892,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "fda5b0903b97"
-    },
-    {
-      "id": "94154217e953",
-      "title": "Democrats had big wins in elections this week. Where do the two parties go from here?",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/07/nx-s1-5600067/democrats-had-big-wins-in-elections-this-week-where-do-the-two-parties-go-from-here",
-      "published_at": "Fri, 07 Nov 2025 15:52:29 -0500",
-      "bullets": [
-        "• Democrats had big wins in elections this week",
-        "• Where do the two parties go from here? The elections were voters' chance to weigh in a year after President Trump's election",
-        "• Now both Republicans and Democrats are reflecting on where they are and what they need to do to win in the future",
-        "• NPR senior political editor and correspondent Domenico Montanaro and senior White House correspondent Tamara Keith are here to talk about it "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Democrats had big wins in elections this week",
-          "• Where do the two parties go from here? The elections were voters' chance to weigh in a year after President Trump's election"
-        ],
-        "hopeful_bullets": [
-          "• Democrats had big wins in elections this week",
-          "• Now both Republicans and Democrats are reflecting on where they are and what they need to do to win in the future"
-        ],
-        "stakes_bullets": [
-          "• Democrats had big wins in elections this week",
-          "• Where do the two parties go from here? The elections were voters' chance to weigh in a year after President Trump's election",
-          "• Now both Republicans and Democrats are reflecting on where they are and what they need to do to win in the future"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "9c7051a56428"
     },
     {
       "id": "bcf9523b5c09",
@@ -8246,40 +8060,6 @@
       "cluster_id": "3b02d11cd52b"
     },
     {
-      "id": "feb18ee76508",
-      "title": "US strikes another alleged drug boat bringing death toll from campaign in Latin America to 70",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/07/us-strikes-another-alleged-drug-boat-latin-america",
-      "published_at": "Fri, 07 Nov 2025 04:25:33 GMT",
-      "bullets": [
-        "• US strikes have destroyed at least 18 vessels and a semi-submersible so far, killing at least 70 people",
-        "• The US began carrying out such strikes in early September, taking aim at vessels in the Caribbean and eastern Pacific",
-        "• Washington has yet to make public any concrete evidence that its targets were smuggling narcotics or posed a threat to the United States "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US strikes have destroyed at least 18 vessels and a semi-submersible so far, killing at least 70 people",
-          "• The US began carrying out such strikes in early September, taking aim at vessels in the Caribbean and eastern Pacific"
-        ],
-        "hopeful_bullets": [
-          "• US strikes have destroyed at least 18 vessels and a semi-submersible so far, killing at least 70 people",
-          "• The US began carrying out such strikes in early September, taking aim at vessels in the Caribbean and eastern Pacific"
-        ],
-        "stakes_bullets": [
-          "• US strikes have destroyed at least 18 vessels and a semi-submersible so far, killing at least 70 people",
-          "• The US began carrying out such strikes in early September, taking aim at vessels in the Caribbean and eastern Pacific",
-          "• Washington has yet to make public any concrete evidence that its targets were smuggling narcotics or posed a threat to the United States "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f7620d2d08f9"
-    },
-    {
       "id": "b93d6508cbd7",
       "title": "TVC15: Grand Moff Tarkin (VC98)",
       "outlet": "Jedi Temple Archives",
@@ -8378,6 +8158,38 @@
       },
       "read_minutes": 40,
       "cluster_id": "76c61b84461a"
+    },
+    {
+      "id": "550b36daf4c2",
+      "title": "Blue Origin scrubs second New Glenn launch",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/817466/blue-origin-new-glenn-second-launch-scrubbed",
+      "published_at": "2025-11-10T07:16:52-05:00",
+      "bullets": [
+        "• Jeff Bezos-owned commercial space company Blue Origin scrubbed second launch of its New Glenn rocket on Sunday due to adverse weather conditions",
+        "• The launch window will be between 2:50PM and 4:17PM ET on Wednesday, November 12th",
+        "• This is a significant launch for the 320-foot-tall megarocket, tasked with sending NASA’s twin ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) probes into space "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.511
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jeff Bezos-owned commercial space company Blue Origin scrubbed second launch of its New Glenn rocket on Sunday due to adverse weather conditions",
+          "• The launch window will be between 2:50PM and 4:17PM ET on Wednesday, November 12th"
+        ],
+        "hopeful_bullets": [
+          "• The launch window will be between 2:50PM and 4:17PM ET on Wednesday, November 12th",
+          "• This is a significant launch for the 320-foot-tall megarocket, tasked with sending NASA’s twin ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) probes into space "
+        ],
+        "stakes_bullets": [
+          "• The launch window will be between 2:50PM and 4:17PM ET on Wednesday, November 12th"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f0bfe9b649ab"
     },
     {
       "id": "70c44b882c4b",
@@ -8674,38 +8486,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "7b21bdb8a629"
-    },
-    {
-      "id": "5487d9ae2c57",
-      "title": "The best earbuds we’ve tested for 2025",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/21309820/best-wireless-earbuds",
-      "published_at": "2025-11-08T12:00:00-05:00",
-      "bullets": [
-        "• The market has come a long way since the early era of true wireless earbuds when we had to deal with mediocre sound quality and unreliable performance",
-        "• With constant discounts and deals, now is as good a time as any to splurge on the pair you’ve been eyeing "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.967
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The market has come a long way since the early era of true wireless earbuds when we had to deal with mediocre sound quality and unreliable performance",
-          "• With constant discounts and deals, now is as good a time as any to splurge on the pair you’ve been eyeing "
-        ],
-        "hopeful_bullets": [
-          "• The market has come a long way since the early era of true wireless earbuds when we had to deal with mediocre sound quality and unreliable performance",
-          "• With constant discounts and deals, now is as good a time as any to splurge on the pair you’ve been eyeing "
-        ],
-        "stakes_bullets": [
-          "• The market has come a long way since the early era of true wireless earbuds when we had to deal with mediocre sound quality and unreliable performance",
-          "• With constant discounts and deals, now is as good a time as any to splurge on the pair you’ve been eyeing "
-        ]
-      },
-      "read_minutes": 17,
-      "cluster_id": "223a40ddf572"
     },
     {
       "id": "c41ff758b36a",
@@ -9173,15 +8953,15 @@
   ],
   "clusters": [
     {
-      "id": "bed029bda478",
-      "topic": "aimed deal ending longest",
+      "id": "c34e7a1e967e",
+      "topic": "deal debate end longest",
       "keywords": [
-        "aimed",
         "deal",
-        "ending",
+        "debate",
+        "end",
         "longest",
-        "passe",
-        "senate"
+        "senate",
+        "shutdown"
       ],
       "item_ids": [
         "da5afa884379"
@@ -9191,18 +8971,36 @@
       ]
     },
     {
-      "id": "33d86c0c4284",
-      "topic": "hit intense million nearly",
+      "id": "fcb7741aba3e",
+      "topic": "jihadist killed malian pro",
       "keywords": [
-        "hit",
-        "intense",
-        "million",
-        "nearly",
-        "philippine",
-        "typhoon"
+        "jihadist",
+        "killed",
+        "malian",
+        "pro",
+        "suspected",
+        "tiktoker"
       ],
       "item_ids": [
-        "a050a9b1a1e7"
+        "e43b0caec3e7"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "5bfbe468fa7e",
+      "topic": "dozen ecuador found hanged",
+      "keywords": [
+        "dozen",
+        "ecuador",
+        "found",
+        "hanged",
+        "inmate",
+        "prison"
+      ],
+      "item_ids": [
+        "9e4169f2f3f1"
       ],
       "outlets": [
         "BBC News"
@@ -9263,17 +9061,18 @@
       ]
     },
     {
-      "id": "84d96c7d0421",
-      "topic": "dead injured surge tenerife",
+      "id": "1b60633e119f",
+      "topic": "african daughter jacob president",
       "keywords": [
-        "dead",
-        "injured",
-        "surge",
-        "tenerife",
-        "tidal"
+        "african",
+        "daughter",
+        "jacob",
+        "president",
+        "south",
+        "zuma"
       ],
       "item_ids": [
-        "8043d9205ec6"
+        "724fc09d3865"
       ],
       "outlets": [
         "BBC News"
@@ -9316,20 +9115,21 @@
       ]
     },
     {
-      "id": "1bf93d2fb78b",
-      "topic": "art museum nigeria protester",
+      "id": "d5729d2a5fb4",
+      "topic": "disrupt embroiled event museum",
       "keywords": [
-        "art",
+        "disrupt",
+        "embroiled",
+        "event",
         "museum",
-        "nigeria",
-        "protester",
-        "storm"
+        "nigerian",
+        "protester"
       ],
       "item_ids": [
-        "c816374cf999"
+        "51c1f03bfc05"
       ],
       "outlets": [
-        "BBC News"
+        "World news | The Guardian"
       ]
     },
     {
@@ -9405,18 +9205,18 @@
       ]
     },
     {
-      "id": "ad3664842f15",
-      "topic": "accused crime group militia",
+      "id": "bee9fe2f81f5",
+      "topic": "begin climate cop30 crucial",
       "keywords": [
-        "accused",
-        "crime",
-        "group",
-        "militia",
-        "sudanese",
-        "war"
+        "begin",
+        "climate",
+        "cop30",
+        "crucial",
+        "live",
+        "talk"
       ],
       "item_ids": [
-        "66c4a933214b"
+        "21d0ac6a5f51"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -9495,36 +9295,90 @@
       ]
     },
     {
-      "id": "f7620d2d08f9",
-      "topic": "alleged another boat bringing",
+      "id": "73d37f190819",
+      "topic": "advance bill first funding",
       "keywords": [
-        "alleged",
-        "another",
-        "boat",
-        "bringing",
-        "drug",
-        "strike"
+        "advance",
+        "bill",
+        "first",
+        "funding",
+        "senate",
+        "thing"
       ],
       "item_ids": [
-        "feb18ee76508"
+        "71c00ba168a5"
       ],
       "outlets": [
-        "World news | The Guardian"
+        "US news | The Guardian"
       ]
     },
     {
-      "id": "09ecc10f5d1f",
-      "topic": "administration funding rebuke snap",
+      "id": "e5e720968e60",
+      "topic": "administration say snap trump",
       "keywords": [
         "administration",
-        "funding",
-        "rebuke",
+        "say",
         "snap",
         "trump",
+        "using",
         "worker"
       ],
       "item_ids": [
         "8be1b12b7601"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "d58d9bacc1dc",
+      "topic": "accused allie giuliani pardon",
+      "keywords": [
+        "accused",
+        "allie",
+        "giuliani",
+        "pardon",
+        "trump",
+        "trying"
+      ],
+      "item_ids": [
+        "71d874b5759c"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "05f924b78234",
+      "topic": "1bn being claim falsely",
+      "keywords": [
+        "1bn",
+        "being",
+        "claim",
+        "falsely",
+        "head",
+        "medicaid"
+      ],
+      "item_ids": [
+        "66aafbc2bfa0"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "3f733026d382",
+      "topic": "carrie europe populist resilience",
+      "keywords": [
+        "carrie",
+        "europe",
+        "populist",
+        "resilience",
+        "right",
+        "warning"
+      ],
+      "item_ids": [
+        "09f3cced724a"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9603,78 +9457,6 @@
       ]
     },
     {
-      "id": "4cb60a917e95",
-      "topic": "claim earned false obama",
-      "keywords": [
-        "claim",
-        "earned",
-        "false",
-        "obama",
-        "share",
-        "trump"
-      ],
-      "item_ids": [
-        "77dcca1c624c"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "6243ee9b67f9",
-      "topic": "000 american giving tariff",
-      "keywords": [
-        "000",
-        "american",
-        "giving",
-        "tariff",
-        "trump",
-        "weigh"
-      ],
-      "item_ids": [
-        "1500c882b61c"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "9128e6ea4934",
-      "topic": "ghislaine happier maxwell much",
-      "keywords": [
-        "ghislaine",
-        "happier",
-        "maxwell",
-        "much",
-        "prison",
-        "reportedly"
-      ],
-      "item_ids": [
-        "412fc371210a"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "26e0bd0409c8",
-      "topic": "flew help mamdani now",
-      "keywords": [
-        "flew",
-        "help",
-        "mamdani",
-        "now",
-        "want",
-        "york"
-      ],
-      "item_ids": [
-        "2d35f8959444"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "0f9fdf8f5565",
       "topic": "building demand global green",
       "keywords": [
@@ -9693,6 +9475,42 @@
       ]
     },
     {
+      "id": "4f1169fdabb8",
+      "topic": "countrie deal government reach",
+      "keywords": [
+        "countrie",
+        "deal",
+        "government",
+        "reach",
+        "reopen",
+        "senator"
+      ],
+      "item_ids": [
+        "91867b05acc6"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "7cb9925a84e5",
+      "topic": "giuliani grant meadow other",
+      "keywords": [
+        "giuliani",
+        "grant",
+        "meadow",
+        "other",
+        "pardon",
+        "trump"
+      ],
+      "item_ids": [
+        "55d94ef87bc2"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "9f3b281e734b",
       "topic": "climate countrie gathering here",
       "keywords": [
@@ -9705,6 +9523,24 @@
       ],
       "item_ids": [
         "fd289fb94f19"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "d78316217b8e",
+      "topic": "avoid food people processed",
+      "keywords": [
+        "avoid",
+        "food",
+        "people",
+        "processed",
+        "ultra",
+        "want"
+      ],
+      "item_ids": [
+        "cef31aae3dbb"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9729,18 +9565,18 @@
       ]
     },
     {
-      "id": "d78316217b8e",
-      "topic": "avoid food people processed",
+      "id": "6c8614f998d3",
+      "topic": "chat encrypted group guard",
       "keywords": [
-        "avoid",
-        "food",
-        "people",
-        "processed",
-        "ultra",
-        "want"
+        "chat",
+        "encrypted",
+        "group",
+        "guard",
+        "member",
+        "national"
       ],
       "item_ids": [
-        "cef31aae3dbb"
+        "650c69424895"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9819,78 +9655,6 @@
       ]
     },
     {
-      "id": "73483af7ffeb",
-      "topic": "commissioner dies nfl paul",
-      "keywords": [
-        "commissioner",
-        "dies",
-        "nfl",
-        "paul",
-        "tagliabue",
-        "year"
-      ],
-      "item_ids": [
-        "3130d58d0386"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "03ff29e3f984",
-      "topic": "bbc broadcaster criticism director",
-      "keywords": [
-        "bbc",
-        "broadcaster",
-        "criticism",
-        "director",
-        "editing",
-        "resign"
-      ],
-      "item_ids": [
-        "9f201026ff84"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "fa5eed20d47d",
-      "topic": "admin full immediately order",
-      "keywords": [
-        "admin",
-        "full",
-        "immediately",
-        "order",
-        "trump",
-        "undo"
-      ],
-      "item_ids": [
-        "9be7898f38c8"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "06da7dacab89",
-      "topic": "end government headed passe",
-      "keywords": [
-        "end",
-        "government",
-        "headed",
-        "passe",
-        "senate",
-        "shutdown"
-      ],
-      "item_ids": [
-        "241306626465"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "283b2dc023d1",
       "topic": "faa jets major most",
       "keywords": [
@@ -9927,6 +9691,24 @@
       ]
     },
     {
+      "id": "d561ce9bd749",
+      "topic": "heat make market pitchbook",
+      "keywords": [
+        "heat",
+        "make",
+        "market",
+        "pitchbook",
+        "private",
+        "tech"
+      ],
+      "item_ids": [
+        "7ae139f35519"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "188ceebe0648",
       "topic": "cleveland guardian indicted pitcher",
       "keywords": [
@@ -9939,60 +9721,6 @@
       ],
       "item_ids": [
         "0c6025309a0b"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "786e7307a3c4",
-      "topic": "aca cliff consumer edge",
-      "keywords": [
-        "aca",
-        "cliff",
-        "consumer",
-        "edge",
-        "loom",
-        "subsidy"
-      ],
-      "item_ids": [
-        "6d37720b84fd"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "be2bd8e62eaf",
-      "topic": "china critical export mineral",
-      "keywords": [
-        "china",
-        "critical",
-        "export",
-        "mineral",
-        "some",
-        "suspend"
-      ],
-      "item_ids": [
-        "4db082b82099"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "9eb0d20ab054",
-      "topic": "federal republican senate send",
-      "keywords": [
-        "federal",
-        "republican",
-        "senate",
-        "send",
-        "tell",
-        "trump"
-      ],
-      "item_ids": [
-        "cc9d0fcd8261"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10034,18 +9762,72 @@
       ]
     },
     {
-      "id": "ede4d0b2ad0f",
-      "topic": "administration demand full state",
+      "id": "786e7307a3c4",
+      "topic": "aca cliff consumer edge",
       "keywords": [
-        "administration",
-        "demand",
-        "full",
-        "state",
-        "trump",
-        "undo"
+        "aca",
+        "cliff",
+        "consumer",
+        "edge",
+        "loom",
+        "subsidy"
       ],
       "item_ids": [
-        "6e644613c243"
+        "6d37720b84fd"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "9eb0d20ab054",
+      "topic": "federal republican senate send",
+      "keywords": [
+        "federal",
+        "republican",
+        "senate",
+        "send",
+        "tell",
+        "trump"
+      ],
+      "item_ids": [
+        "cc9d0fcd8261"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "e50c711ce1bc",
+      "topic": "begin boom nuclear old",
+      "keywords": [
+        "begin",
+        "boom",
+        "nuclear",
+        "old",
+        "power",
+        "still"
+      ],
+      "item_ids": [
+        "e525e4caedcd"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "937b267f4cba",
+      "topic": "back here hold right",
+      "keywords": [
+        "back",
+        "here",
+        "hold",
+        "right",
+        "stock",
+        "thing"
+      ],
+      "item_ids": [
+        "7566d92636da"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10229,6 +10011,24 @@
       ]
     },
     {
+      "id": "f0bfe9b649ab",
+      "topic": "blue glenn launch origin",
+      "keywords": [
+        "blue",
+        "glenn",
+        "launch",
+        "origin",
+        "scrub",
+        "second"
+      ],
+      "item_ids": [
+        "550b36daf4c2"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "7eb390a0a375",
       "topic": "8217 cleveland guardian indicted",
       "keywords": [
@@ -10385,19 +10185,21 @@
       ]
     },
     {
-      "id": "223a40ddf572",
-      "topic": "2025 best earbud tested",
+      "id": "75da7b23a9b8",
+      "topic": "here kind mess nasa",
       "keywords": [
-        "2025",
-        "best",
-        "earbud",
-        "tested"
+        "here",
+        "kind",
+        "mess",
+        "nasa",
+        "prioritie",
+        "top"
       ],
       "item_ids": [
-        "5487d9ae2c57"
+        "45031f1f360e"
       ],
       "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
@@ -10556,24 +10358,6 @@
       ],
       "item_ids": [
         "414b96ffc8d9"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "e188fc3a4ab1",
-      "topic": "chat chatgpt cringey leak",
-      "keywords": [
-        "chat",
-        "chatgpt",
-        "cringey",
-        "leak",
-        "oddest",
-        "yet"
-      ],
-      "item_ids": [
-        "acadc37f4709"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -10919,96 +10703,6 @@
       ]
     },
     {
-      "id": "9ea77a3706f0",
-      "topic": "carlson comment fuente nick",
-      "keywords": [
-        "carlson",
-        "comment",
-        "fuente",
-        "nick",
-        "show",
-        "tucker"
-      ],
-      "item_ids": [
-        "f4884c932f0c"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "a6c971669d4b",
-      "topic": "big chat democrat election",
-      "keywords": [
-        "big",
-        "chat",
-        "democrat",
-        "election",
-        "politic",
-        "win"
-      ],
-      "item_ids": [
-        "0e55a7e15f59"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "107794e34d82",
-      "topic": "dept education judge office",
-      "keywords": [
-        "dept",
-        "education",
-        "judge",
-        "office",
-        "out",
-        "partisan"
-      ],
-      "item_ids": [
-        "f7fb025bb33c"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "c01437023d8e",
-      "topic": "election politic scotu tariff",
-      "keywords": [
-        "election",
-        "politic",
-        "scotu",
-        "tariff",
-        "trump",
-        "week"
-      ],
-      "item_ids": [
-        "691508874cb6"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "9c7051a56428",
-      "topic": "big democrat election partie",
-      "keywords": [
-        "big",
-        "democrat",
-        "election",
-        "partie",
-        "week",
-        "wins"
-      ],
-      "item_ids": [
-        "94154217e953"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
       "id": "ae82da00304d",
       "topic": "2024 decision democrat kyrsten",
       "keywords": [
@@ -11161,165 +10855,165 @@
       ]
     },
     {
-      "id": "5cad1ffa37ee",
-      "topic": "climate countrie enthusiasm lost",
+      "id": "6014e9174667",
+      "topic": "absence better cop30 temperature",
       "keywords": [
+        "absence",
+        "better",
+        "cop30",
+        "temperature",
+        "trump",
+        "wrecking"
+      ],
+      "item_ids": [
+        "08d0181984b9"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "3e8eb9637fd7",
+      "topic": "alaska battered native resident",
+      "keywords": [
+        "alaska",
+        "battered",
+        "native",
+        "resident",
+        "storm",
+        "town"
+      ],
+      "item_ids": [
+        "1b1cb2b5c84e"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "97a5ce578cd5",
+      "topic": "argument bill criticize man",
+      "keywords": [
+        "argument",
+        "bill",
+        "criticize",
+        "man",
+        "scientist",
+        "straw"
+      ],
+      "item_ids": [
+        "144e9e91ef08"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "419ea1a945ff",
+      "topic": "lawmaker mexico nominate oversee",
+      "keywords": [
+        "lawmaker",
+        "mexico",
+        "nominate",
+        "oversee",
+        "public",
+        "trump"
+      ],
+      "item_ids": [
+        "f81c88ce332d"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "389f86d3a153",
+      "topic": "california days man snowy",
+      "keywords": [
+        "california",
+        "days",
+        "man",
+        "snowy",
+        "survived",
+        "wildernes"
+      ],
+      "item_ids": [
+        "e3ac507236e8"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "560e22a564de",
+      "topic": "alaska ground home native",
+      "keywords": [
+        "alaska",
+        "ground",
+        "home",
+        "native",
+        "swallowing",
+        "village"
+      ],
+      "item_ids": [
+        "e54b33ce2ddc"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "e7ee1f0ab95b",
+      "topic": "activist climate deportation facing",
+      "keywords": [
+        "activist",
         "climate",
-        "countrie",
-        "enthusiasm",
-        "lost",
-        "rich",
-        "tackling"
+        "deportation",
+        "facing",
+        "fight",
+        "jailed"
       ],
       "item_ids": [
-        "bb88c8dd2f24"
+        "67fb9fe321de"
       ],
       "outlets": [
         "Environment | The Guardian"
       ]
     },
     {
-      "id": "72f080eae4a7",
-      "topic": "bit defied funding naughty",
+      "id": "8f44dfbe17fd",
+      "topic": "apologise catastrophic plastic southern",
       "keywords": [
-        "bit",
-        "defied",
-        "funding",
-        "naughty",
-        "portsmouth",
-        "used"
+        "apologise",
+        "catastrophic",
+        "plastic",
+        "southern",
+        "spill",
+        "water"
       ],
       "item_ids": [
-        "035db2515476"
+        "8dfcdd024073"
       ],
       "outlets": [
         "Environment | The Guardian"
       ]
     },
     {
-      "id": "38df931a66ed",
-      "topic": "become fung tracker typhoon",
+      "id": "526871211c80",
+      "topic": "carrying disease landed mosquito",
       "keywords": [
-        "become",
-        "fung",
-        "tracker",
-        "typhoon",
-        "weather",
-        "wong"
+        "carrying",
+        "disease",
+        "landed",
+        "mosquito",
+        "mountain",
+        "rocky"
       ],
       "item_ids": [
-        "6d2e85777562"
+        "89753700be9f"
       ],
       "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "3086dbd225b6",
-      "topic": "deadly endangered hungry largest",
-      "keywords": [
-        "deadly",
-        "endangered",
-        "hungry",
-        "largest",
-        "tiger",
-        "world"
-      ],
-      "item_ids": [
-        "b287c7c39d72"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "0625c55df20a",
-      "topic": "beauty country diary moth",
-      "keywords": [
-        "beauty",
-        "country",
-        "diary",
-        "moth",
-        "muted",
-        "trapping"
-      ],
-      "item_ids": [
-        "01f272a85d85"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "312926fabf39",
-      "topic": "developer dozen met minister",
-      "keywords": [
-        "developer",
-        "dozen",
-        "met",
-        "minister",
-        "planning",
-        "time"
-      ],
-      "item_ids": [
-        "13ca826f927c"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "946be667c4a8",
-      "topic": "became feet found midlife",
-      "keywords": [
-        "became",
-        "feet",
-        "found",
-        "midlife",
-        "park",
-        "start"
-      ],
-      "item_ids": [
-        "feceea51245b"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "f44f35a8e4cb",
-      "topic": "climate counting down final",
-      "keywords": [
-        "climate",
-        "counting",
-        "down",
-        "final",
-        "warning",
-        "zero"
-      ],
-      "item_ids": [
-        "85e1c5547ccb"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "0ab1af72ecfb",
-      "topic": "clothing eight essential scandinavian",
-      "keywords": [
-        "clothing",
-        "eight",
-        "essential",
-        "scandinavian",
-        "swear",
-        "winter"
-      ],
-      "item_ids": [
-        "a6af10dc1e7d"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
+        "Inside Climate News"
       ]
     },
     {
@@ -11475,24 +11169,6 @@
       ],
       "item_ids": [
         "73a289092075"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "43baafba9f6c",
-      "topic": "helping national nonprofit park",
-      "keywords": [
-        "helping",
-        "national",
-        "nonprofit",
-        "park",
-        "run",
-        "state"
-      ],
-      "item_ids": [
-        "fbf332e3091b"
       ],
       "outlets": [
         "Inside Climate News"
@@ -11679,6 +11355,24 @@
       ]
     },
     {
+      "id": "5e121a7f1a46",
+      "topic": "available dread lighthouse lovecraftian",
+      "keywords": [
+        "available",
+        "dread",
+        "lighthouse",
+        "lovecraftian",
+        "sim",
+        "static"
+      ],
+      "item_ids": [
+        "0cb67b04a7f8"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "3eb8ffd79ec2",
       "topic": "dead edition house limited",
       "keywords": [
@@ -11835,24 +11529,6 @@
       ],
       "item_ids": [
         "46e0e9829021"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "9897eb4923b3",
-      "topic": "45th anniversary celebrate high",
-      "keywords": [
-        "45th",
-        "anniversary",
-        "celebrate",
-        "high",
-        "monster",
-        "shining"
-      ],
-      "item_ids": [
-        "b9aee26f3fc6"
       ],
       "outlets": [
         "Bloody Disgusting!"
