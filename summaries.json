@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-10T07:15:27Z",
+  "generated_at": "2025-11-10T07:58:40Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -4036,6 +4036,38 @@
       "cluster_id": "dd8d417920ae"
     },
     {
+      "id": "c32405825a8b",
+      "title": "Global week ahead: AI wobble casts shadow over 'Davos for geeks'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html",
+      "published_at": "Sun, 09 Nov 2025 03:58:08 GMT",
+      "bullets": [
+        "• Lisbon hosts Web Summit, also known as the \"Davos for geeks,\" next week",
+        "• AI-fueled market rally faces increased scrutiny from investors, politicians and regulators",
+        "• Headline panels titled \"Smarter plays: How AI is changing the game,\" \"The age of AI,\" and the \"AI talent wars\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.93
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Lisbon hosts Web Summit, also known as the \"Davos for geeks,\" next week",
+          "• AI-fueled market rally faces increased scrutiny from investors, politicians and regulators"
+        ],
+        "hopeful_bullets": [
+          "• Lisbon hosts Web Summit, also known as the \"Davos for geeks,\" next week",
+          "• AI-fueled market rally faces increased scrutiny from investors, politicians and regulators"
+        ],
+        "stakes_bullets": [
+          "• AI-fueled market rally faces increased scrutiny from investors, politicians and regulators"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "395475bcabef"
+    },
+    {
       "id": "5a476e6ec157",
       "title": "9,000-year-old ice melt shows how fast Antarctica can fall apart",
       "outlet": "All Top News -- ScienceDaily",
@@ -5357,6 +5389,73 @@
       "cluster_id": "b235c16fb40e"
     },
     {
+      "id": "c2a7ce8772dd",
+      "title": "South Korea's Kospi jumps more than 3% to lead Asia recovery rally after AI-fueled rout",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/10/asia-markets-live-china-inflation-data.html",
+      "published_at": "Mon, 10 Nov 2025 07:09:45 GMT",
+      "bullets": [
+        "• South Korea's Kospi climbed 3.02% and ended at 4,073.24, led by banks and insurance stocks",
+        "• Japan's Nikkei 225 advanced 1.26% and Japan's Topix was up 0.56% to 3,317.42",
+        "• Minutes from the Bank of Japan's October meeting revealed that the BOJ seemed more inclined toward a near-term rate hike "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• South Korea's Kospi climbed 3.02% and ended at 4,073.24, led by banks and insurance stocks",
+          "• Japan's Nikkei 225 advanced 1.26% and Japan's Topix was up 0.56% to 3,317.42"
+        ],
+        "hopeful_bullets": [
+          "• South Korea's Kospi climbed 3.02% and ended at 4,073.24, led by banks and insurance stocks",
+          "• Japan's Nikkei 225 advanced 1.26% and Japan's Topix was up 0.56% to 3,317.42"
+        ],
+        "stakes_bullets": [
+          "• South Korea's Kospi climbed 3.02% and ended at 4,073.24, led by banks and insurance stocks",
+          "• Minutes from the Bank of Japan's October meeting revealed that the BOJ seemed more inclined toward a near-term rate hike "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b06e0d8a9e7f"
+    },
+    {
+      "id": "4fa9d72549ad",
+      "title": "SNAP benefits: Appeals court again rejects Trump admin bid to halt full payment order",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/10/snap-benefits-appeals-trump-food-stamps-supreme-court.html",
+      "published_at": "Mon, 10 Nov 2025 06:51:04 GMT",
+      "bullets": [
+        "• A federal appeals court blocks a federal government order to pay back full benefits to Americans",
+        "• The decision comes after a Supreme Court ruling on the issue",
+        "• The U.S",
+        "• House of Representatives voted to keep the order in place",
+        "• The Senate passed a bill that would keep the government from paying back the full benefits "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A federal appeals court blocks a federal government order to pay back full benefits to Americans",
+          "• The decision comes after a Supreme Court ruling on the issue"
+        ],
+        "hopeful_bullets": [
+          "• A federal appeals court blocks a federal government order to pay back full benefits to Americans",
+          "• The decision comes after a Supreme Court ruling on the issue"
+        ],
+        "stakes_bullets": [
+          "• The Senate passed a bill that would keep the government from paying back the full benefits "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "56a1fcc0961a"
+    },
+    {
       "id": "5e44fc6395f5",
       "title": "Monday briefing: What to expect from Cop30 as the crucial climate conference kicks off in Brazil",
       "outlet": "Environment | The Guardian",
@@ -5487,39 +5586,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "9a9551d62156"
-    },
-    {
-      "id": "c2a7ce8772dd",
-      "title": "South Korea's Kospi jumps more than 3% to lead Asia recovery rally after AI-fueled rout",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/10/asia-markets-live-china-inflation-data.html",
-      "published_at": "Mon, 10 Nov 2025 05:37:52 GMT",
-      "bullets": [
-        "• South Korea's Kospi climbed 3.48%, led by banks and insurance stocks",
-        "• Japan's Nikkei 225 advanced 1.31%, while the broad-based Topix was up 0.62%",
-        "• Minutes from the Bank of Japan's October meeting revealed that the BOJ seemed more inclined toward a near-term rate hike "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• South Korea's Kospi climbed 3.48%, led by banks and insurance stocks",
-          "• Japan's Nikkei 225 advanced 1.31%, while the broad-based Topix was up 0.62%"
-        ],
-        "hopeful_bullets": [
-          "• South Korea's Kospi climbed 3.48%, led by banks and insurance stocks",
-          "• Japan's Nikkei 225 advanced 1.31%, while the broad-based Topix was up 0.62%"
-        ],
-        "stakes_bullets": [
-          "• South Korea's Kospi climbed 3.48%, led by banks and insurance stocks",
-          "• Minutes from the Bank of Japan's October meeting revealed that the BOJ seemed more inclined toward a near-term rate hike "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "b06e0d8a9e7f"
     },
     {
       "id": "2331b8d2e2a5",
@@ -5659,30 +5725,28 @@
       "published_at": "Mon, 10 Nov 2025 04:57:26 GMT",
       "bullets": [
         "• Batman #3 is from writer Matt Fraction, artist Jorge Jiménez, colorist Tomeu Morey, and letterer Clayton Cowles",
-        "• It continues the storyline of the character in Batman: The Batman: Animated Series",
-        "• It appears that we might be on the way to a new sympathetic villain "
+        "• The book is on sale now from DC Comics, and it continues the run of Batman: Animated Series "
       ],
       "category": "Comics",
       "sentiment": {
         "label": "positive",
-        "score": 0.999
+        "score": 1.0
       },
       "moods": {
         "brief_bullets": [
           "• Batman #3 is from writer Matt Fraction, artist Jorge Jiménez, colorist Tomeu Morey, and letterer Clayton Cowles",
-          "• It continues the storyline of the character in Batman: The Batman: Animated Series"
+          "• The book is on sale now from DC Comics, and it continues the run of Batman: Animated Series "
         ],
         "hopeful_bullets": [
           "• Batman #3 is from writer Matt Fraction, artist Jorge Jiménez, colorist Tomeu Morey, and letterer Clayton Cowles",
-          "• It continues the storyline of the character in Batman: The Batman: Animated Series"
+          "• The book is on sale now from DC Comics, and it continues the run of Batman: Animated Series "
         ],
         "stakes_bullets": [
           "• Batman #3 is from writer Matt Fraction, artist Jorge Jiménez, colorist Tomeu Morey, and letterer Clayton Cowles",
-          "• It continues the storyline of the character in Batman: The Batman: Animated Series",
-          "• It appears that we might be on the way to a new sympathetic villain "
+          "• The book is on sale now from DC Comics, and it continues the run of Batman: Animated Series "
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 4,
       "cluster_id": "14c0bbcd46c2"
     },
     {
@@ -5785,40 +5849,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "a280a1dd9d1f"
-    },
-    {
-      "id": "6e644613c243",
-      "title": "Trump administration demands that states 'undo' full SNAP benefit payments",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/09/snap-trump-states-food-patrick-penn.html",
-      "published_at": "Mon, 10 Nov 2025 04:08:57 GMT",
-      "bullets": [
-        "• The U.S",
-        "• Department of Agriculture threatened to enact financial penalties on states that issued full monthly SNAP benefits for November if they don't \"undo\" those payments",
-        "• The late-night directive adds to the chaos surrounding the anti-hunger program that serves more than 42 million Americans "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The U.S",
-          "• Department of Agriculture threatened to enact financial penalties on states that issued full monthly SNAP benefits for November if they don't \"undo\" those payments"
-        ],
-        "hopeful_bullets": [
-          "• The U.S",
-          "• Department of Agriculture threatened to enact financial penalties on states that issued full monthly SNAP benefits for November if they don't \"undo\" those payments"
-        ],
-        "stakes_bullets": [
-          "• The U.S",
-          "• Department of Agriculture threatened to enact financial penalties on states that issued full monthly SNAP benefits for November if they don't \"undo\" those payments",
-          "• The late-night directive adds to the chaos surrounding the anti-hunger program that serves more than 42 million Americans "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ede4d0b2ad0f"
     },
     {
       "id": "4db082b82099",
@@ -6049,71 +6079,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "58cc93b09ec3"
-    },
-    {
-      "id": "d2f64c2c938b",
-      "title": "Welcome to Derry Is Finally Doing What the It Movies Butchered",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/welcome-to-derry-why-is-pennywise-in-derry/",
-      "published_at": "Mon, 10 Nov 2025 03:00:25 GMT",
-      "bullets": [
-        "• Welcome to Derry, the first episode of the new series, airs November 9",
-        "• The first episode is set in the middle of the 1980s",
-        "• There will be two more episodes in the series, one set set in 1930s and one in the 1930s "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.794
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Welcome to Derry, the first episode of the new series, airs November 9",
-          "• The first episode is set in the middle of the 1980s"
-        ],
-        "hopeful_bullets": [
-          "• Welcome to Derry, the first episode of the new series, airs November 9",
-          "• The first episode is set in the middle of the 1980s"
-        ],
-        "stakes_bullets": [
-          "• There will be two more episodes in the series, one set set in 1930s and one in the 1930s "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "87cc7314a92b"
-    },
-    {
-      "id": "02a5aab77e68",
-      "title": "Nexperia parent shares jump 6% as Beijing signals thaw in tensions with Netherlands",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/10/nexperia-parent-wingtech-shares-beijing-china-signals-thaw-in-tensions-with-netherlands-dutch-hague.html",
-      "published_at": "Mon, 10 Nov 2025 02:59:38 GMT",
-      "bullets": [
-        "• Shares of Wingtech Technology, parent company of chipmaker Nexperia, jump 6.4% on Monday",
-        "• Beijing agrees to further talks with Dutch delegation, easing concerns about global auto supply crunch",
-        "• Chinese Commerce Ministry says it has taken steps to allow exports of certain chips from Nexperia's China facility "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.843
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Shares of Wingtech Technology, parent company of chipmaker Nexperia, jump 6.4% on Monday",
-          "• Beijing agrees to further talks with Dutch delegation, easing concerns about global auto supply crunch"
-        ],
-        "hopeful_bullets": [
-          "• Shares of Wingtech Technology, parent company of chipmaker Nexperia, jump 6.4% on Monday"
-        ],
-        "stakes_bullets": [
-          "• Shares of Wingtech Technology, parent company of chipmaker Nexperia, jump 6.4% on Monday",
-          "• Beijing agrees to further talks with Dutch delegation, easing concerns about global auto supply crunch",
-          "• Chinese Commerce Ministry says it has taken steps to allow exports of certain chips from Nexperia's China facility "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "1b6f8164dc3e"
     },
     {
       "id": "31d2b7015701",
@@ -7226,38 +7191,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "d6e13d86d658"
-    },
-    {
-      "id": "1fa695e4225f",
-      "title": "Listen to Paramore’s Hayley Williams’ New Song “Showbiz”",
-      "outlet": "RSS: News",
-      "url": "https://pitchfork.com/news/listen-to-paramore-hayley-williams-new-song-showbiz",
-      "published_at": "Fri, 07 Nov 2025 20:34:15 +0000",
-      "bullets": [
-        "• Physical editions of Ego Death at a Bachelorette Party are out now",
-        "• Paramore singer Hayley Williams is nominated for four Grammy Awards",
-        "• The Paramore frontwoman is up for Best Alternative Music Album and Best Rock Performance",
-        "• She has 11 career nominations "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Physical editions of Ego Death at a Bachelorette Party are out now",
-          "• Paramore singer Hayley Williams is nominated for four Grammy Awards"
-        ],
-        "hopeful_bullets": [
-          "• Paramore singer Hayley Williams is nominated for four Grammy Awards"
-        ],
-        "stakes_bullets": [
-          "• Paramore singer Hayley Williams is nominated for four Grammy Awards"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "3a2fc041468a"
     },
     {
       "id": "bbac4e8e8253",
@@ -10020,6 +9953,24 @@
       ]
     },
     {
+      "id": "56a1fcc0961a",
+      "topic": "again appeal benefit court",
+      "keywords": [
+        "again",
+        "appeal",
+        "benefit",
+        "court",
+        "reject",
+        "snap"
+      ],
+      "item_ids": [
+        "4fa9d72549ad"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "188ceebe0648",
       "topic": "cleveland guardian indicted pitcher",
       "keywords": [
@@ -10056,24 +10007,6 @@
       ]
     },
     {
-      "id": "1b6f8164dc3e",
-      "topic": "beijing jump nexperia parent",
-      "keywords": [
-        "beijing",
-        "jump",
-        "nexperia",
-        "parent",
-        "share",
-        "signal"
-      ],
-      "item_ids": [
-        "02a5aab77e68"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "480ab6d31231",
       "topic": "brazil cop30 gets shaped",
       "keywords": [
@@ -10086,6 +10019,24 @@
       ],
       "item_ids": [
         "a98a9a78d33f"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "395475bcabef",
+      "topic": "ahead cast global shadow",
+      "keywords": [
+        "ahead",
+        "cast",
+        "global",
+        "shadow",
+        "week",
+        "wobble"
+      ],
+      "item_ids": [
+        "c32405825a8b"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10140,24 +10091,6 @@
       ],
       "item_ids": [
         "6ebd9c34d5b4"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "ede4d0b2ad0f",
-      "topic": "administration demand full state",
-      "keywords": [
-        "administration",
-        "demand",
-        "full",
-        "state",
-        "trump",
-        "undo"
-      ],
-      "item_ids": [
-        "6e644613c243"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -13535,24 +13468,6 @@
       ]
     },
     {
-      "id": "87cc7314a92b",
-      "topic": "butchered derry doing finally",
-      "keywords": [
-        "butchered",
-        "derry",
-        "doing",
-        "finally",
-        "movie",
-        "welcome"
-      ],
-      "item_ids": [
-        "d2f64c2c938b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
       "id": "de631f7845cb",
       "topic": "announcement avenger breakdown cast",
       "keywords": [
@@ -14013,24 +13928,6 @@
       ],
       "item_ids": [
         "0d32d3f45256"
-      ],
-      "outlets": [
-        "RSS: News"
-      ]
-    },
-    {
-      "id": "3a2fc041468a",
-      "topic": "hayley listen paramore showbiz",
-      "keywords": [
-        "hayley",
-        "listen",
-        "paramore",
-        "showbiz",
-        "song",
-        "william"
-      ],
-      "item_ids": [
-        "1fa695e4225f"
       ],
       "outlets": [
         "RSS: News"
