@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-11T06:00:10Z",
+  "generated_at": "2025-11-11T06:18:36Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -6940,6 +6940,40 @@
       },
       "read_minutes": 13,
       "cluster_id": "f0c0f0dcbe76"
+    },
+    {
+      "id": "b0ebb093f634",
+      "title": "Car-dominant Texas needs more public transit to meet mobility demands, TxDOT report says",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17206361/texas-public-transit-plan",
+      "published_at": "Mon, 10 Nov 2025 11:00:00 +0000",
+      "bullets": [
+        "• The state of Texas needs more ways to get around the city of Texas",
+        "• The state is struggling to find a way to meet the needs of the public",
+        "• It needs to be more affordable and accessible to those who want to stay in touch with their families "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The state of Texas needs more ways to get around the city of Texas",
+          "• The state is struggling to find a way to meet the needs of the public"
+        ],
+        "hopeful_bullets": [
+          "• The state of Texas needs more ways to get around the city of Texas",
+          "• The state is struggling to find a way to meet the needs of the public"
+        ],
+        "stakes_bullets": [
+          "• The state of Texas needs more ways to get around the city of Texas",
+          "• The state is struggling to find a way to meet the needs of the public",
+          "• It needs to be more affordable and accessible to those who want to stay in touch with their families "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "a855b7acd040"
     },
     {
       "id": "6a9ed14280a3",
@@ -14293,6 +14327,24 @@
       ],
       "item_ids": [
         "447184c7392a"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "a855b7acd040",
+      "topic": "car dominant need public",
+      "keywords": [
+        "car",
+        "dominant",
+        "need",
+        "public",
+        "texa",
+        "transit"
+      ],
+      "item_ids": [
+        "b0ebb093f634"
       ],
       "outlets": [
         "The Texas Tribune"
