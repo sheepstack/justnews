@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-12T06:02:22Z",
+  "generated_at": "2025-11-12T06:17:55Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -172,6 +172,40 @@
       },
       "read_minutes": 40,
       "cluster_id": "4d68b7d6cb41"
+    },
+    {
+      "id": "e96d0a80cd5b",
+      "title": "Asia markets mostly rise after Wall Street trades mixed; SoftBank falls as much as 10% after selling entire stake in Nvidia",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/asia-pacific-markets-nifty-50-nikkei-225-kospi.html",
+      "published_at": "Wed, 12 Nov 2025 05:37:14 GMT",
+      "bullets": [
+        "• SoftBank Group shares fell as much as 10% Wednesday after the company said it sold its entire stake in U.S",
+        "• chipmaker Nvidia for $5.83 billion",
+        "• The Japanese giant looks to capitalize on its \"all in\" bet on ChatGPT maker OpenAI",
+        "• Japan's benchmark Nikkei 225 fell 0.26%, while the Topix added 0.35% "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• SoftBank Group shares fell as much as 10% Wednesday after the company said it sold its entire stake in U.S",
+          "• chipmaker Nvidia for $5.83 billion"
+        ],
+        "hopeful_bullets": [
+          "• SoftBank Group shares fell as much as 10% Wednesday after the company said it sold its entire stake in U.S",
+          "• chipmaker Nvidia for $5.83 billion"
+        ],
+        "stakes_bullets": [
+          "• SoftBank Group shares fell as much as 10% Wednesday after the company said it sold its entire stake in U.S",
+          "• chipmaker Nvidia for $5.83 billion"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0cc3cc9feaa7"
     },
     {
       "id": "349b035fe6cd",
@@ -836,40 +870,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "cb2a0df62b92"
-    },
-    {
-      "id": "e96d0a80cd5b",
-      "title": "Asia markets mostly rise after Wall Street trades mixed; SoftBank falls as much as 10% after selling entire stake in Nvidia",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/asia-pacific-markets-nifty-50-nikkei-225-kospi.html",
-      "published_at": "Wed, 12 Nov 2025 01:37:14 GMT",
-      "bullets": [
-        "• SoftBank Group shares fell as much as 10% Wednesday after the company said it sold its entire stake in U.S",
-        "• chipmaker Nvidia for $5.83 billion",
-        "• Japanese giant looks to capitalize on its \"all in\" bet on ChatGPT maker OpenAI",
-        "• Japan's benchmark Nikkei 225 fell 0.26%, while the Topix added 0.35% "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• SoftBank Group shares fell as much as 10% Wednesday after the company said it sold its entire stake in U.S",
-          "• chipmaker Nvidia for $5.83 billion"
-        ],
-        "hopeful_bullets": [
-          "• SoftBank Group shares fell as much as 10% Wednesday after the company said it sold its entire stake in U.S",
-          "• chipmaker Nvidia for $5.83 billion"
-        ],
-        "stakes_bullets": [
-          "• SoftBank Group shares fell as much as 10% Wednesday after the company said it sold its entire stake in U.S",
-          "• chipmaker Nvidia for $5.83 billion"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0cc3cc9feaa7"
     },
     {
       "id": "6d6868ab0ce2",
