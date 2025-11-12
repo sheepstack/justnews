@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-12T12:17:04Z",
+  "generated_at": "2025-11-12T13:30:39Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -139,20 +139,54 @@
       "cluster_id": "4d68b7d6cb41"
     },
     {
+      "id": "509365a667df",
+      "title": "NCIS Season 23 Officially Confirms Its New Tony & Ziva Replacement",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/ncis-season-23-episode-5-vera-strickland-tony-ziva-reference/",
+      "published_at": "Wed, 12 Nov 2025 13:10:20 GMT",
+      "bullets": [
+        "• NCIS Season 23, Episode 5, “Then and Now,” aired November 11 on CBS",
+        "• The two-part episode features a case that spans over 30 years",
+        "• The first half features an appearance from Mark Harmon’s Gibbs as the franchise revisits one of his earliest cases "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NCIS Season 23, Episode 5, “Then and Now,” aired November 11 on CBS",
+          "• The two-part episode features a case that spans over 30 years"
+        ],
+        "hopeful_bullets": [
+          "• NCIS Season 23, Episode 5, “Then and Now,” aired November 11 on CBS",
+          "• The two-part episode features a case that spans over 30 years"
+        ],
+        "stakes_bullets": [
+          "• NCIS Season 23, Episode 5, “Then and Now,” aired November 11 on CBS",
+          "• The two-part episode features a case that spans over 30 years",
+          "• The first half features an appearance from Mark Harmon’s Gibbs as the franchise revisits one of his earliest cases "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "348c1d9193af"
+    },
+    {
       "id": "c6c88232ca05",
       "title": "Autonomous EV trucking company Einride going public in SPAC deal valuing it at $1.8 billion",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/11/12/autonomous-ev-trucker-einride-to-go-public-in-spac-at-1point8-billion-value.html",
-      "published_at": "Wed, 12 Nov 2025 11:42:09 GMT",
+      "published_at": "Wed, 12 Nov 2025 13:01:27 GMT",
       "bullets": [
         "• Autonomous EV freight trucking company Einride is planning to go public on the New York Stock Exchange",
         "• The Stockholm, Sweden-based company has over 25 customers across seven countries",
-        "• The deal is expected to raise $219 million in gross proceeds and hit the market during the first half of 2026 "
+        "• The deal is expected to raise $219 million in gross proceeds and $100 million in PIPE capital "
       ],
       "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.869
+        "label": "negative",
+        "score": 0.954
       },
       "moods": {
         "brief_bullets": [
@@ -165,45 +199,445 @@
         ],
         "stakes_bullets": [
           "• Autonomous EV freight trucking company Einride is planning to go public on the New York Stock Exchange",
-          "• The deal is expected to raise $219 million in gross proceeds and hit the market during the first half of 2026 "
+          "• The deal is expected to raise $219 million in gross proceeds and $100 million in PIPE capital "
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 4,
       "cluster_id": "ef848c63be13"
+    },
+    {
+      "id": "366c3e5fa219",
+      "title": "Why Americans are giving up on Sweetgreen",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/why-sweetgreen-sales-stock-are-falling.html",
+      "published_at": "Wed, 12 Nov 2025 13:00:01 GMT",
+      "bullets": [
+        "• Sweetgreen's share price has declined more than 80% this year",
+        "• The fast-casual salad chain reports millions in losses each quarter",
+        "• Same-store sales declined 9.5% in its third quarter",
+        "• Sweetgreen has been focusing on automation after it bought a Boston company that developed robotic kitchen technology "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sweetgreen's share price has declined more than 80% this year",
+          "• The fast-casual salad chain reports millions in losses each quarter"
+        ],
+        "hopeful_bullets": [
+          "• Sweetgreen's share price has declined more than 80% this year",
+          "• The fast-casual salad chain reports millions in losses each quarter"
+        ],
+        "stakes_bullets": [
+          "• Sweetgreen's share price has declined more than 80% this year",
+          "• The fast-casual salad chain reports millions in losses each quarter",
+          "• Same-store sales declined 9.5% in its third quarter"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "f67358d75718"
+    },
+    {
+      "id": "1d2323315c20",
+      "title": "Rival Sons’ Jay Buchanan Goes It Alone on Debut Solo Album ‘Weapons of Beauty’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/rival-sons-jay-buchanan-solo-album-weapons-of-beauty-1235463575/",
+      "published_at": "Wed, 12 Nov 2025 13:00:00 +0000",
+      "bullets": [
+        "• Rival Sons frontman Jay Buchanan returns to his own music with his debut solo album",
+        "• Titled Weapons of Beauty, the album arrives Feb",
+        "• 6",
+        "• The 10-song project finds Buchanan reuniting with producer Dave Cobb",
+        "• Buchanan recently stole the show at a BMI tribute to John Fogerty in Nashville "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.872
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rival Sons frontman Jay Buchanan returns to his own music with his debut solo album",
+          "• Titled Weapons of Beauty, the album arrives Feb"
+        ],
+        "hopeful_bullets": [
+          "• Rival Sons frontman Jay Buchanan returns to his own music with his debut solo album",
+          "• Titled Weapons of Beauty, the album arrives Feb"
+        ],
+        "stakes_bullets": [
+          "• Rival Sons frontman Jay Buchanan returns to his own music with his debut solo album",
+          "• Titled Weapons of Beauty, the album arrives Feb",
+          "• 6"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e12b08f0766a"
+    },
+    {
+      "id": "00dc5d176809",
+      "title": "Imperial #4 Ends a Cosmic Era and Starts a New One Based on Dark Conflicts",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/imperial-4-review-new-cosmic-era-dark-conflicts/",
+      "published_at": "Wed, 12 Nov 2025 12:46:56 GMT",
+      "bullets": [
+        "• Watchmen and V for Vendetta both ended with complicated conflicts",
+        "• In the original source, the choice being provided is between anarchy or fascism",
+        "• In Watchmen, the superheroes discover that one of their oldest friends just killed millions of people, but in the process of doing so, he might have saved the world from a nuclear holocaust "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Watchmen and V for Vendetta both ended with complicated conflicts",
+          "• In the original source, the choice being provided is between anarchy or fascism"
+        ],
+        "hopeful_bullets": [
+          "• In Watchmen, the superheroes discover that one of their oldest friends just killed millions of people, but in the process of doing so, he might have saved the world from a nuclear holocaust "
+        ],
+        "stakes_bullets": [
+          "• Watchmen and V for Vendetta both ended with complicated conflicts",
+          "• In the original source, the choice being provided is between anarchy or fascism",
+          "• In Watchmen, the superheroes discover that one of their oldest friends just killed millions of people, but in the process of doing so, he might have saved the world from a nuclear holocaust "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "047beaf7097f"
     },
     {
       "id": "311f80cf3d68",
       "title": "House set to vote on deal to end shutdown amid Democratic splits – US politics live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/nov/12/donald-trump-us-government-shutdown-house-democrats-republicans-latest-news-updates",
-      "published_at": "Wed, 12 Nov 2025 11:40:24 GMT",
+      "published_at": "Wed, 12 Nov 2025 12:45:35 GMT",
       "bullets": [
-        "• Trump to host business leaders at White House dinner tonight",
-        "• Meeting underscores effort to deepen ties with corporate leaders",
-        "• JPMorgan, the nation’s largest bank, has announced a decade-long, $1.5trn investment program aimed at industries central to US national security and economic resilience "
+        "• US House of Representatives expected to vote today to end the longest government shutdown in the nation's history",
+        "• It comes as anger flares among Democrats over the Senate compromise that drops an extension of key healthcare subsidies",
+        "• Progressive groups have accused Senate leaders of betrayal and even called for Chuck Schumer to step down "
       ],
       "category": "US",
       "sentiment": {
-        "label": "positive",
-        "score": 0.704
+        "label": "negative",
+        "score": 0.988
       },
       "moods": {
         "brief_bullets": [
-          "• Trump to host business leaders at White House dinner tonight",
-          "• Meeting underscores effort to deepen ties with corporate leaders"
+          "• US House of Representatives expected to vote today to end the longest government shutdown in the nation's history",
+          "• It comes as anger flares among Democrats over the Senate compromise that drops an extension of key healthcare subsidies"
         ],
         "hopeful_bullets": [
-          "• Trump to host business leaders at White House dinner tonight",
-          "• Meeting underscores effort to deepen ties with corporate leaders"
+          "• Progressive groups have accused Senate leaders of betrayal and even called for Chuck Schumer to step down "
         ],
         "stakes_bullets": [
-          "• Trump to host business leaders at White House dinner tonight",
-          "• Meeting underscores effort to deepen ties with corporate leaders",
-          "• JPMorgan, the nation’s largest bank, has announced a decade-long, $1.5trn investment program aimed at industries central to US national security and economic resilience "
+          "• US House of Representatives expected to vote today to end the longest government shutdown in the nation's history",
+          "• Progressive groups have accused Senate leaders of betrayal and even called for Chuck Schumer to step down "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "9b12f9d34465"
+    },
+    {
+      "id": "8acdd235e8e7",
+      "title": "Google sues cybercriminal group behind E-ZPass, USPS text phishing scams",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/google-e-zpass-usps-text-scam-phishing-suit.html",
+      "published_at": "Wed, 12 Nov 2025 12:44:01 GMT",
+      "bullets": [
+        "• The \"Smishing Triad\" uses a phishing-as-a-service kit called \"Lighthouse\" to create and deploy attacks using fraudulent texts",
+        "• The crime group has amassed over a million victims across 120 countries, Google said",
+        "• Google brought claims under the Racketeer Influenced and Corrupt Organizations (RICO) Act, Lanham Act, and the CFAA Act "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The \"Smishing Triad\" uses a phishing-as-a-service kit called \"Lighthouse\" to create and deploy attacks using fraudulent texts",
+          "• The crime group has amassed over a million victims across 120 countries, Google said"
+        ],
+        "hopeful_bullets": [
+          "• The \"Smishing Triad\" uses a phishing-as-a-service kit called \"Lighthouse\" to create and deploy attacks using fraudulent texts",
+          "• The crime group has amassed over a million victims across 120 countries, Google said"
+        ],
+        "stakes_bullets": [
+          "• The \"Smishing Triad\" uses a phishing-as-a-service kit called \"Lighthouse\" to create and deploy attacks using fraudulent texts",
+          "• The crime group has amassed over a million victims across 120 countries, Google said",
+          "• Google brought claims under the Racketeer Influenced and Corrupt Organizations (RICO) Act, Lanham Act, and the CFAA Act "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "6a43aab736a8"
+    },
+    {
+      "id": "e575875c9d8d",
+      "title": "Mortgage demand from homebuyers hits highest level since September, despite rising interest rates",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/mortgage-demand-from-homebuyers-hits-highest-level-since-september.html",
+      "published_at": "Wed, 12 Nov 2025 12:43:47 GMT",
+      "bullets": [
+        "• Mortgage Bankers Association: Mortgage applications to purchase a home rose 6% last week",
+        "• Volume was 31% higher than the same week one year ago",
+        "• Average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances, $806,500 or less, increased "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.749
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mortgage Bankers Association: Mortgage applications to purchase a home rose 6% last week",
+          "• Volume was 31% higher than the same week one year ago"
+        ],
+        "hopeful_bullets": [
+          "• Mortgage Bankers Association: Mortgage applications to purchase a home rose 6% last week",
+          "• Volume was 31% higher than the same week one year ago"
+        ],
+        "stakes_bullets": [
+          "• Mortgage Bankers Association: Mortgage applications to purchase a home rose 6% last week",
+          "• Average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances, $806,500 or less, increased "
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "9b12f9d34465"
+      "cluster_id": "d7d4313c4e54"
+    },
+    {
+      "id": "766cb22c2120",
+      "title": "Swiss sneaker company On raises guidance again, says it won't offer Black Friday deal",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/on-onon-earnings-q3-2025.html",
+      "published_at": "Wed, 12 Nov 2025 12:42:24 GMT",
+      "bullets": [
+        "• On raised its full-year guidance for the third quarter in a row",
+        "• The Swiss sportswear company posted another three months of double-digit growth",
+        "• The company is now expecting fiscal 2025 sales to reach 2.98 billion francs ($3.72 billion) On a constant currency basis, sales will grow 34% from the prior year "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• On raised its full-year guidance for the third quarter in a row",
+          "• The Swiss sportswear company posted another three months of double-digit growth"
+        ],
+        "hopeful_bullets": [
+          "• The Swiss sportswear company posted another three months of double-digit growth"
+        ],
+        "stakes_bullets": [
+          "• The company is now expecting fiscal 2025 sales to reach 2.98 billion francs ($3.72 billion) On a constant currency basis, sales will grow 34% from the prior year "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "729f5c238c72"
+    },
+    {
+      "id": "de892c1c6276",
+      "title": "Cop30 live: US looms over talks despite absence as protests at venue continue",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/environment/live/2025/nov/12/cop30-live-talks-us-protests-belem-brazil",
+      "published_at": "Wed, 12 Nov 2025 12:33:45 GMT",
+      "bullets": [
+        "• Day three of the COP30 climate talks begins in New York City",
+        "• First time the U.S",
+        "• has sat out of the talks completely",
+        "• Some 50,000 people are expected to take part in the weeklong talks",
+        "• US president Donald Trump has called the climate talks a 'climate hoax'"
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Day three of the COP30 climate talks begins in New York City",
+          "• First time the U.S"
+        ],
+        "hopeful_bullets": [
+          "• Day three of the COP30 climate talks begins in New York City",
+          "• First time the U.S"
+        ],
+        "stakes_bullets": [
+          "• Some 50,000 people are expected to take part in the weeklong talks"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "3067624230ff"
+    },
+    {
+      "id": "3783cec394db",
+      "title": "Is a Robot Vacuum Worth It?",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/is-a-robot-vacuum-worth-it/",
+      "published_at": "Wed, 12 Nov 2025 12:31:00 +0000",
+      "bullets": [
+        "• Robot vacuums are so much smarter now",
+        "• They can navigate through minefields of Lego bricks, stuffed animals, or piles of shoes",
+        "• As a working parent with two elementary-school-aged kids and a dog, I need all the help I can get "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.963
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Robot vacuums are so much smarter now",
+          "• They can navigate through minefields of Lego bricks, stuffed animals, or piles of shoes"
+        ],
+        "hopeful_bullets": [
+          "• As a working parent with two elementary-school-aged kids and a dog, I need all the help I can get "
+        ],
+        "stakes_bullets": [
+          "• Robot vacuums are so much smarter now",
+          "• They can navigate through minefields of Lego bricks, stuffed animals, or piles of shoes",
+          "• As a working parent with two elementary-school-aged kids and a dog, I need all the help I can get "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "35e10c5f21a9"
+    },
+    {
+      "id": "e1b8d887dc87",
+      "title": "AI stock boom leaves many behind, economist says: 'It really widens the wealth and income gap'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/ai-stock-boom-wealth-gap.html",
+      "published_at": "Wed, 12 Nov 2025 12:15:01 GMT",
+      "bullets": [
+        "• Stock wealth has largely accrued to the wealthiest U.S",
+        "• households",
+        "• The S&P 500 is up 16% over the past year, but total wealth from publicly traded stocks has risen by $8 trillion",
+        "• The top 20% wealthiest households own nearly 93% of all stock, an economics professor says "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.946
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Stock wealth has largely accrued to the wealthiest U.S",
+          "• households"
+        ],
+        "hopeful_bullets": [
+          "• Stock wealth has largely accrued to the wealthiest U.S",
+          "• households"
+        ],
+        "stakes_bullets": [
+          "• Stock wealth has largely accrued to the wealthiest U.S",
+          "• households",
+          "• The S&P 500 is up 16% over the past year, but total wealth from publicly traded stocks has risen by $8 trillion"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "05f19de792f3"
+    },
+    {
+      "id": "d08adcb02d90",
+      "title": "Brothers charged with South African rapper's murder after extradition",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm2edq4658ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 12 Nov 2025 12:02:16 GMT",
+      "bullets": [
+        "• Siyabonga and Malusi Ndimande have been charged with the murder of Kiernan Forbes",
+        "• Forbes, popularly known as \"AKA\", was killed outside a restaurant in Durban in 2023 along with his close friend, celebrity chef Tebello \"Tibz\" Motsoane",
+        "• The brothers were extradited from neighbouring Eswatini after a lengthy legal attempt to block their return "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Siyabonga and Malusi Ndimande have been charged with the murder of Kiernan Forbes",
+          "• Forbes, popularly known as \"AKA\", was killed outside a restaurant in Durban in 2023 along with his close friend, celebrity chef Tebello \"Tibz\" Motsoane"
+        ],
+        "hopeful_bullets": [
+          "• Siyabonga and Malusi Ndimande have been charged with the murder of Kiernan Forbes",
+          "• Forbes, popularly known as \"AKA\", was killed outside a restaurant in Durban in 2023 along with his close friend, celebrity chef Tebello \"Tibz\" Motsoane"
+        ],
+        "stakes_bullets": [
+          "• Forbes, popularly known as \"AKA\", was killed outside a restaurant in Durban in 2023 along with his close friend, celebrity chef Tebello \"Tibz\" Motsoane"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b5a8c83b1495"
+    },
+    {
+      "id": "21726ca26d51",
+      "title": "How to Talk to ChatGPT for Free Inside WhatsApp (While You Still Can)",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/talk-to-chatgpt-for-free-inside-whatsapp/",
+      "published_at": "Wed, 12 Nov 2025 12:00:00 +0000",
+      "bullets": [
+        "• ChatGPT is free of charge on the web, on Android and iOS, and in Apple's Siri and Microsoft's Copilot apps",
+        "• It's used by billions of people worldwide, and is available everywhere else",
+        "• OpenAI will be pulling free access to its chatbot within WhatsApp on January 15, 2026 "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.976
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ChatGPT is free of charge on the web, on Android and iOS, and in Apple's Siri and Microsoft's Copilot apps",
+          "• It's used by billions of people worldwide, and is available everywhere else"
+        ],
+        "hopeful_bullets": [
+          "• ChatGPT is free of charge on the web, on Android and iOS, and in Apple's Siri and Microsoft's Copilot apps",
+          "• It's used by billions of people worldwide, and is available everywhere else"
+        ],
+        "stakes_bullets": [
+          "• It's used by billions of people worldwide, and is available everywhere else",
+          "• OpenAI will be pulling free access to its chatbot within WhatsApp on January 15, 2026 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e8e8706eab33"
+    },
+    {
+      "id": "48f246af26b7",
+      "title": "State-sanctioned fuel smuggling cost Libya $20bn over three years – report",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/nov/12/state-sanctioned-fuel-smuggling-cost-libya-20bn-over-three-years-report",
+      "published_at": "Wed, 12 Nov 2025 11:41:26 GMT",
+      "bullets": [
+        "• A surge in state-sanctioned fuel smuggling between 2022 and 2024 cost Libya £15bn in lost revenue",
+        "• Some of the imported fuel has also been smuggled into Sudan, where it has prolonged that country’s civil war",
+        "• The Sentry report calls for a western-backed investigation into Libyan oil officials "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A surge in state-sanctioned fuel smuggling between 2022 and 2024 cost Libya £15bn in lost revenue",
+          "• Some of the imported fuel has also been smuggled into Sudan, where it has prolonged that country’s civil war"
+        ],
+        "hopeful_bullets": [
+          "• A surge in state-sanctioned fuel smuggling between 2022 and 2024 cost Libya £15bn in lost revenue"
+        ],
+        "stakes_bullets": [
+          "• A surge in state-sanctioned fuel smuggling between 2022 and 2024 cost Libya £15bn in lost revenue",
+          "• Some of the imported fuel has also been smuggled into Sudan, where it has prolonged that country’s civil war",
+          "• The Sentry report calls for a western-backed investigation into Libyan oil officials "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "386d02335598"
     },
     {
       "id": "7a8a1ebd1332",
@@ -237,6 +671,40 @@
       },
       "read_minutes": 4,
       "cluster_id": "74ba75edc4f2"
+    },
+    {
+      "id": "0f5774de77ff",
+      "title": "US House set for crunch vote on ending historic government shutdown",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr437q69422o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 12 Nov 2025 11:10:39 GMT",
+      "bullets": [
+        "• US House set for crunch vote on ending historic government shutdown on Wednesday",
+        "• Representatives are returning to Washington to decide whether to approve a Senate package that would fund federal agencies for two months",
+        "• Republican leadership expressed confidence the spending plan would clear the lower chamber",
+        "• President Donald Trump has indicated he will sign it into law "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.607
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US House set for crunch vote on ending historic government shutdown on Wednesday",
+          "• Representatives are returning to Washington to decide whether to approve a Senate package that would fund federal agencies for two months"
+        ],
+        "hopeful_bullets": [
+          "• US House set for crunch vote on ending historic government shutdown on Wednesday",
+          "• Representatives are returning to Washington to decide whether to approve a Senate package that would fund federal agencies for two months"
+        ],
+        "stakes_bullets": [
+          "• Republican leadership expressed confidence the spending plan would clear the lower chamber",
+          "• President Donald Trump has indicated he will sign it into law "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2d263cdeb43a"
     },
     {
       "id": "b115f9ab574d",
@@ -399,43 +867,6 @@
       "cluster_id": "cc528d0ea698"
     },
     {
-      "id": "95f0dd199cae",
-      "title": "SoftBank shares plunge as much as 10% after selling Nvidia stake",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/softbank-shares-plunge-as-much-as-10percent-after-selling-nvidia-stake.html",
-      "published_at": "Wed, 12 Nov 2025 10:48:01 GMT",
-      "bullets": [
-        "• SoftBank Group sells its entire stake in U.S",
-        "• chip giant Nvidia for $5.83 billion",
-        "• The money will be used to fund SoftBank's $22.5 billion investment in ChatGPT parent OpenAI",
-        "• SoftBank sold 32.1 million Nvidia shares in October",
-        "• The company also trimmed its T-Mobile position, raising $9.17 billion "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• SoftBank Group sells its entire stake in U.S",
-          "• chip giant Nvidia for $5.83 billion"
-        ],
-        "hopeful_bullets": [
-          "• SoftBank Group sells its entire stake in U.S",
-          "• chip giant Nvidia for $5.83 billion"
-        ],
-        "stakes_bullets": [
-          "• SoftBank Group sells its entire stake in U.S",
-          "• chip giant Nvidia for $5.83 billion",
-          "• The money will be used to fund SoftBank's $22.5 billion investment in ChatGPT parent OpenAI",
-          "• SoftBank sold 32.1 million Nvidia shares in October"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "cb2a0df62b92"
-    },
-    {
       "id": "d56a0b571cca",
       "title": "Two members of K-pop group NewJeans will return, record label says after legal battle",
       "outlet": "BBC News",
@@ -468,38 +899,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "f4af58c47bb5"
-    },
-    {
-      "id": "d08adcb02d90",
-      "title": "Brothers charged with South African rapper's murder after extradition",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm2edq4658ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 12 Nov 2025 10:13:19 GMT",
-      "bullets": [
-        "• Siyabonga and Malusi Ndimande were extradited from neighbouring Eswatini",
-        "• They were charged with the murder of Kiernan Forbes, popularly known as \"AKA\" Forbes was killed along with celebrity chef Tebello \"Tibz\" Motsoane "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Siyabonga and Malusi Ndimande were extradited from neighbouring Eswatini",
-          "• They were charged with the murder of Kiernan Forbes, popularly known as \"AKA\" Forbes was killed along with celebrity chef Tebello \"Tibz\" Motsoane "
-        ],
-        "hopeful_bullets": [
-          "• Siyabonga and Malusi Ndimande were extradited from neighbouring Eswatini",
-          "• They were charged with the murder of Kiernan Forbes, popularly known as \"AKA\" Forbes was killed along with celebrity chef Tebello \"Tibz\" Motsoane "
-        ],
-        "stakes_bullets": [
-          "• Siyabonga and Malusi Ndimande were extradited from neighbouring Eswatini",
-          "• They were charged with the murder of Kiernan Forbes, popularly known as \"AKA\" Forbes was killed along with celebrity chef Tebello \"Tibz\" Motsoane "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "b5a8c83b1495"
     },
     {
       "id": "f41c4ea1c46a",
@@ -635,71 +1034,6 @@
       "cluster_id": "7e47831966e2"
     },
     {
-      "id": "8acdd235e8e7",
-      "title": "Google sues cybercriminal group behind E-ZPass, USPS text phishing scams",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/google-e-zpass-usps-text-scam-phishing-suit.html",
-      "published_at": "Wed, 12 Nov 2025 10:00:02 GMT",
-      "bullets": [
-        "• The \"Smishing Triad\" uses a phishing-as-a-service kit called \"Lighthouse\" to create and deploy attacks using fraudulent texts",
-        "• The crime group has amassed over a million victims across 120 countries, Google said",
-        "• Google brought claims under the Racketeer Influenced and Corrupt Organizations (RICO) Act, Lanham Act, and the CFAA Act "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The \"Smishing Triad\" uses a phishing-as-a-service kit called \"Lighthouse\" to create and deploy attacks using fraudulent texts",
-          "• The crime group has amassed over a million victims across 120 countries, Google said"
-        ],
-        "hopeful_bullets": [
-          "• The \"Smishing Triad\" uses a phishing-as-a-service kit called \"Lighthouse\" to create and deploy attacks using fraudulent texts",
-          "• The crime group has amassed over a million victims across 120 countries, Google said"
-        ],
-        "stakes_bullets": [
-          "• The \"Smishing Triad\" uses a phishing-as-a-service kit called \"Lighthouse\" to create and deploy attacks using fraudulent texts",
-          "• The crime group has amassed over a million victims across 120 countries, Google said",
-          "• Google brought claims under the Racketeer Influenced and Corrupt Organizations (RICO) Act, Lanham Act, and the CFAA Act "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6a43aab736a8"
-    },
-    {
-      "id": "766cb22c2120",
-      "title": "Swiss sneaker company On raises guidance again, says it won't offer Black Friday deal",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/on-onon-earnings-q3-2025.html",
-      "published_at": "Wed, 12 Nov 2025 10:00:02 GMT",
-      "bullets": [
-        "• On raised its full-year guidance for the third quarter in a row",
-        "• The Swiss sportswear company posted another three months of double-digit growth",
-        "• The company is now expecting fiscal 2025 sales to reach 2.98 billion francs ($3.72 billion) On a constant currency basis, sales will grow 34% from the prior year "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• On raised its full-year guidance for the third quarter in a row",
-          "• The Swiss sportswear company posted another three months of double-digit growth"
-        ],
-        "hopeful_bullets": [
-          "• The Swiss sportswear company posted another three months of double-digit growth"
-        ],
-        "stakes_bullets": [
-          "• The company is now expecting fiscal 2025 sales to reach 2.98 billion francs ($3.72 billion) On a constant currency basis, sales will grow 34% from the prior year "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "729f5c238c72"
-    },
-    {
       "id": "786df54caa63",
       "title": "This Is the Platform Google Claims Is Behind a 'Staggering’ Scam Text Operation",
       "outlet": "WIRED",
@@ -769,40 +1103,6 @@
       "cluster_id": "5afce1bc3733"
     },
     {
-      "id": "1e400f1b2084",
-      "title": "'Godfathers of wind' raise alarm as Trump urges countries to abandon climate fight",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/godfathers-of-wind-raise-alarm-amid-trumps-attacks-on-renewables.html",
-      "published_at": "Wed, 12 Nov 2025 09:30:47 GMT",
-      "bullets": [
-        "• Henrik Stiesdal and Andrew Garrad are the \"Godfathers of wind\" for their contributions in advancing the design, manufacture and deployment of wind turbines",
-        "• They say Washington's anti-climate agenda is part of a broader energy transition challenge",
-        "• President Donald Trump has actively sought to disrupt the development of high-profile wind projects "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Henrik Stiesdal and Andrew Garrad are the \"Godfathers of wind\" for their contributions in advancing the design, manufacture and deployment of wind turbines",
-          "• They say Washington's anti-climate agenda is part of a broader energy transition challenge"
-        ],
-        "hopeful_bullets": [
-          "• Henrik Stiesdal and Andrew Garrad are the \"Godfathers of wind\" for their contributions in advancing the design, manufacture and deployment of wind turbines",
-          "• President Donald Trump has actively sought to disrupt the development of high-profile wind projects "
-        ],
-        "stakes_bullets": [
-          "• Henrik Stiesdal and Andrew Garrad are the \"Godfathers of wind\" for their contributions in advancing the design, manufacture and deployment of wind turbines",
-          "• They say Washington's anti-climate agenda is part of a broader energy transition challenge",
-          "• President Donald Trump has actively sought to disrupt the development of high-profile wind projects "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "74f7d0b0991a"
-    },
-    {
       "id": "05f04ddf30cf",
       "title": "Watch Hardy Showcase Anthemic Song ‘Bottomland’ on ‘Fallon’",
       "outlet": "Music News",
@@ -842,27 +1142,27 @@
       "published_at": "Wed, 12 Nov 2025 08:57:01 GMT",
       "bullets": [
         "• Trump says he has an 'obligation' to apologise for the way his speech was presented",
-        "• The president said he would go ahead with the controversial speech",
-        "• He said it was a 'beautiful speech' that had been changed by the BBC "
+        "• The president said the way it was presented was \"beautiful\" and that it had been changed",
+        "• He said he would apologise to the public if he did not accept the way the speech was delivered "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.887
+        "score": 0.976
       },
       "moods": {
         "brief_bullets": [
           "• Trump says he has an 'obligation' to apologise for the way his speech was presented",
-          "• The president said he would go ahead with the controversial speech"
+          "• The president said the way it was presented was \"beautiful\" and that it had been changed"
         ],
         "hopeful_bullets": [
           "• Trump says he has an 'obligation' to apologise for the way his speech was presented",
-          "• The president said he would go ahead with the controversial speech"
+          "• The president said the way it was presented was \"beautiful\" and that it had been changed"
         ],
         "stakes_bullets": [
           "• Trump says he has an 'obligation' to apologise for the way his speech was presented",
-          "• The president said he would go ahead with the controversial speech",
-          "• He said it was a 'beautiful speech' that had been changed by the BBC "
+          "• The president said the way it was presented was \"beautiful\" and that it had been changed",
+          "• He said he would apologise to the public if he did not accept the way the speech was delivered "
         ]
       },
       "read_minutes": 4,
@@ -1034,6 +1334,39 @@
       "cluster_id": "d1cb5d0ad4eb"
     },
     {
+      "id": "4fee55fd47e7",
+      "title": "Flight issues could linger after shutdown. And, Google's lawsuit targeting scammers",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/12/g-s1-97550/up-first-newsletter-house-shutdown-vote-air-traffic-control-uss-ford-google",
+      "published_at": "Wed, 12 Nov 2025 07:18:02 -0500",
+      "bullets": [
+        "• The Republican-led House of Representatives is expected to approve a funding bill today",
+        "• Some Democrats have called for Senate Minority Leader Chuck Schumer to be ousted from his leadership role",
+        "• Airlines have already canceled thousands of flights to comply with a Federal Aviation Administration order and now there are staffing shortages "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Republican-led House of Representatives is expected to approve a funding bill today",
+          "• Some Democrats have called for Senate Minority Leader Chuck Schumer to be ousted from his leadership role"
+        ],
+        "hopeful_bullets": [
+          "• The Republican-led House of Representatives is expected to approve a funding bill today",
+          "• Some Democrats have called for Senate Minority Leader Chuck Schumer to be ousted from his leadership role"
+        ],
+        "stakes_bullets": [
+          "• The Republican-led House of Representatives is expected to approve a funding bill today",
+          "• Some Democrats have called for Senate Minority Leader Chuck Schumer to be ousted from his leadership role"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "0071888a6881"
+    },
+    {
       "id": "b69a3f2e64ad",
       "title": "HBO Max Promo Code: 50% Off | November 2025",
       "outlet": "WIRED",
@@ -1166,38 +1499,6 @@
       "cluster_id": "42e70122e97c"
     },
     {
-      "id": "7950de4547a9",
-      "title": "Fossil fuel projects around the world threaten the health of 2bn people",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/12/fossil-fuel-projects-health-research",
-      "published_at": "Wed, 12 Nov 2025 07:00:18 GMT",
-      "bullets": [
-        "• A quarter of the world’s population lives within three miles (5km) of operational fossil fuel projects",
-        "• More than 18,300 oil, gas and coal sites are currently distributed across 170 countries worldwide",
-        "• Proximity to drilling wells, processing plants, pipelines and other fossil fuel facilities elevates the risk of cancer, respiratory conditions, heart disease, premature birth and death "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.858
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A quarter of the world’s population lives within three miles (5km) of operational fossil fuel projects",
-          "• More than 18,300 oil, gas and coal sites are currently distributed across 170 countries worldwide"
-        ],
-        "hopeful_bullets": [
-          "• A quarter of the world’s population lives within three miles (5km) of operational fossil fuel projects",
-          "• More than 18,300 oil, gas and coal sites are currently distributed across 170 countries worldwide"
-        ],
-        "stakes_bullets": [
-          "• Proximity to drilling wells, processing plants, pipelines and other fossil fuel facilities elevates the risk of cancer, respiratory conditions, heart disease, premature birth and death "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "2bba4c46722d"
-    },
-    {
       "id": "bc6a593668dd",
       "title": "Womanizer Coupons: Save 15% in November",
       "outlet": "WIRED",
@@ -1299,40 +1600,6 @@
       "cluster_id": "3f7e5bd67dcb"
     },
     {
-      "id": "78e303ea7123",
-      "title": "Schools go hybrid as Delhi's air quality worsens",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c751yyz44d2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 12 Nov 2025 06:38:31 GMT",
-      "bullets": [
-        "• Delhi's air quality has been declared 'severe' by the authorities",
-        "• High levels of fine particles in the air have been blamed for causing health problems",
-        "• Schools have been asked to run hybrid classes for primary students and non-essential construction work "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Delhi's air quality has been declared 'severe' by the authorities",
-          "• High levels of fine particles in the air have been blamed for causing health problems"
-        ],
-        "hopeful_bullets": [
-          "• Delhi's air quality has been declared 'severe' by the authorities",
-          "• High levels of fine particles in the air have been blamed for causing health problems"
-        ],
-        "stakes_bullets": [
-          "• Delhi's air quality has been declared 'severe' by the authorities",
-          "• High levels of fine particles in the air have been blamed for causing health problems",
-          "• Schools have been asked to run hybrid classes for primary students and non-essential construction work "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e2383c2dcfb6"
-    },
-    {
       "id": "340f4380b0ee",
       "title": "Bose Coupon Codes & Discounts: 10% Off",
       "outlet": "WIRED",
@@ -1368,40 +1635,6 @@
       "cluster_id": "71242dbc82a2"
     },
     {
-      "id": "2c21d37ae590",
-      "title": "Design Within Reach Promo Codes: 30% Off | November 2025",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/design-within-reach-promo-code/",
-      "published_at": "Wed, 12 Nov 2025 06:30:00 +0000",
-      "bullets": [
-        "• Design Within Reach carries some of the best and coolest home decor you can find",
-        "• Unlock online-exclusive discounts of up to 50%, free shipping, plus 20% off featured brands and 15% off office furniture bundles",
-        "• Save on hundreds of stylish items, including office chairs, coffee tables and bar stools "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Design Within Reach carries some of the best and coolest home decor you can find",
-          "• Unlock online-exclusive discounts of up to 50%, free shipping, plus 20% off featured brands and 15% off office furniture bundles"
-        ],
-        "hopeful_bullets": [
-          "• Design Within Reach carries some of the best and coolest home decor you can find",
-          "• Unlock online-exclusive discounts of up to 50%, free shipping, plus 20% off featured brands and 15% off office furniture bundles"
-        ],
-        "stakes_bullets": [
-          "• Design Within Reach carries some of the best and coolest home decor you can find",
-          "• Unlock online-exclusive discounts of up to 50%, free shipping, plus 20% off featured brands and 15% off office furniture bundles",
-          "• Save on hundreds of stylish items, including office chairs, coffee tables and bar stools "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "22479d2669d7"
-    },
-    {
       "id": "b3d231f98017",
       "title": "JFK's grandson Jack Schlossberg to run for Congress",
       "outlet": "BBC News",
@@ -1432,40 +1665,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "a379951ecf27"
-    },
-    {
-      "id": "b2de07ad3526",
-      "title": "Nomad Coupons: 80% Off",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/nomad-discount-code/",
-      "published_at": "Wed, 12 Nov 2025 06:10:00 +0000",
-      "bullets": [
-        "• Nomad is currently offering discounts on a variety of items, including iPhone cases, iPad cases, wireless chargers, and more",
-        "• Right now, you can get up to 80% off by using the links above",
-        "• You’ll find a lot of the accessories on sale in our Best iPhone 16 Cases guide "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.978
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nomad is currently offering discounts on a variety of items, including iPhone cases, iPad cases, wireless chargers, and more",
-          "• Right now, you can get up to 80% off by using the links above"
-        ],
-        "hopeful_bullets": [
-          "• Nomad is currently offering discounts on a variety of items, including iPhone cases, iPad cases, wireless chargers, and more",
-          "• Right now, you can get up to 80% off by using the links above"
-        ],
-        "stakes_bullets": [
-          "• Nomad is currently offering discounts on a variety of items, including iPhone cases, iPad cases, wireless chargers, and more",
-          "• Right now, you can get up to 80% off by using the links above",
-          "• You’ll find a lot of the accessories on sale in our Best iPhone 16 Cases guide "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "49618302fa9d"
     },
     {
       "id": "cf51a5e7b319",
@@ -1996,75 +2195,6 @@
       "cluster_id": "cda05b84ab73"
     },
     {
-      "id": "ffc86848d157",
-      "title": "Every Five Letter Wordle Word That Hasn't Been Used As of Nov. 12, 2025",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/unused-five-letter-wordle-word-today/",
-      "published_at": "Wed, 12 Nov 2025 04:15:12 GMT",
-      "bullets": [
-        "• Since the puzzle game debuted in 2021, there have been more than 1,600 Wordle answers",
-        "• From A to Z, these are all of the five-letter Wordle words that haven't been used as of Nov",
-        "• 11, 2025",
-        "• There's a new Wordle word every day, and the game never uses the same word twice "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Since the puzzle game debuted in 2021, there have been more than 1,600 Wordle answers",
-          "• From A to Z, these are all of the five-letter Wordle words that haven't been used as of Nov"
-        ],
-        "hopeful_bullets": [
-          "• Since the puzzle game debuted in 2021, there have been more than 1,600 Wordle answers",
-          "• From A to Z, these are all of the five-letter Wordle words that haven't been used as of Nov"
-        ],
-        "stakes_bullets": [
-          "• Since the puzzle game debuted in 2021, there have been more than 1,600 Wordle answers",
-          "• From A to Z, these are all of the five-letter Wordle words that haven't been used as of Nov",
-          "• 11, 2025"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "98267631ae3a"
-    },
-    {
-      "id": "11abd4df3bb2",
-      "title": "10 Sci-Fi Thrillers That Are Perfect From Start to Finish",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/sci-fi-thrillers-perfect-start-to-finish/",
-      "published_at": "Wed, 12 Nov 2025 04:00:12 GMT",
-      "bullets": [
-        "• The science fiction genre has amassed one of the best collections of movies in cinema",
-        "• At its best, it always incorporates elements of thriller and mystery",
-        "• From Gary Oldman's campy performance to a great love story at its core, the movie embraces the weird side of science fiction "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The science fiction genre has amassed one of the best collections of movies in cinema",
-          "• At its best, it always incorporates elements of thriller and mystery"
-        ],
-        "hopeful_bullets": [
-          "• The science fiction genre has amassed one of the best collections of movies in cinema",
-          "• At its best, it always incorporates elements of thriller and mystery"
-        ],
-        "stakes_bullets": [
-          "• The science fiction genre has amassed one of the best collections of movies in cinema",
-          "• At its best, it always incorporates elements of thriller and mystery",
-          "• From Gary Oldman's campy performance to a great love story at its core, the movie embraces the weird side of science fiction "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "9a4f6458ff41"
-    },
-    {
       "id": "a84d93e11977",
       "title": "Borderline ambiguity: How Google Maps removes disputed Western Sahara border for Morocco users",
       "outlet": "World news | The Guardian",
@@ -2095,6 +2225,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "0b6efd263e5d"
+    },
+    {
+      "id": "61fe9581fabe",
+      "title": "TVC15: Padmé Amidala (Peasant Disguise) (VC33)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-11-tvc15-padme-amidala-peasant-disguise-vc33/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-padme-amidala-peasant-disguise-vc33",
+      "published_at": "Wed, 12 Nov 2025 03:14:04 +0000",
+      "bullets": [
+        "• Padmé Amidala (Peasant Disguise) is known for her wardrobe changes",
+        "• The figure doesn’t come with a ton of articulation, but Hasbro worked in what they could into the figure’s tooling",
+        "• With a mix of molded parts and soft goods, collectors can rearrange this figure "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Padmé Amidala (Peasant Disguise) is known for her wardrobe changes",
+          "• The figure doesn’t come with a ton of articulation, but Hasbro worked in what they could into the figure’s tooling"
+        ],
+        "hopeful_bullets": [
+          "• Padmé Amidala (Peasant Disguise) is known for her wardrobe changes",
+          "• The figure doesn’t come with a ton of articulation, but Hasbro worked in what they could into the figure’s tooling"
+        ],
+        "stakes_bullets": [
+          "• The figure doesn’t come with a ton of articulation, but Hasbro worked in what they could into the figure’s tooling"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "244347f2c36d"
     },
     {
       "id": "9f5f4206d8e3",
@@ -2362,7 +2524,7 @@
     {
       "id": "621ab81fb2aa",
       "title": "Space forecasters say severe solar storms could hit Earth and trigger auroras",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/11/12/g-s1-97533/solar-storms-auroras",
       "published_at": "Wed, 12 Nov 2025 01:26:50 -0500",
       "bullets": [
@@ -2370,7 +2532,7 @@
         "• The sun is at the maximum phase of its 11-year activity cycle, making the light displays more common",
         "• The vibrant displays could be visible across much of the northern U.S., and as far south as Alabama and Northern California "
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "positive",
         "score": 0.996
@@ -2721,6 +2883,39 @@
       },
       "read_minutes": 2,
       "cluster_id": "7362ce81106a"
+    },
+    {
+      "id": "3fc7b413ab65",
+      "title": "TVC15: Republic Trooper (The Old Republic) (VC113)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-04-tvc15-republic-trooper-the-old-republic-vc113/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-republic-trooper-the-old-republic-vc113",
+      "published_at": "Wed, 05 Nov 2025 02:23:28 +0000",
+      "bullets": [
+        "• The Republic Trooper (The Old Republic) was one of the surprise figures of 2012",
+        "• Hasbro didn’t attempt to create too many characters from The Old Republic video game",
+        "• The one area the figure lacked was its paint job",
+        "• A little more dirt would have made a monumental impact on the figure's aesthetics "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Republic Trooper (The Old Republic) was one of the surprise figures of 2012",
+          "• Hasbro didn’t attempt to create too many characters from The Old Republic video game"
+        ],
+        "hopeful_bullets": [
+          "• The Republic Trooper (The Old Republic) was one of the surprise figures of 2012",
+          "• Hasbro didn’t attempt to create too many characters from The Old Republic video game"
+        ],
+        "stakes_bullets": [
+          "• A little more dirt would have made a monumental impact on the figure's aesthetics "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "92252a960604"
     },
     {
       "id": "8bc2e543862e",
@@ -3082,6 +3277,38 @@
       "cluster_id": "1e76b7fc9aab"
     },
     {
+      "id": "9dfc0970d66e",
+      "title": "Lawmakers just released a much-awaited crypto market structure bill. Here's what it means for digital assets and what comes next",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/11/five-takeaways-from-the-release-of-a-much-awaited-crypto-market-structure-bill.html",
+      "published_at": "Tue, 11 Nov 2025 23:10:08 GMT",
+      "bullets": [
+        "• The Senate Agriculture Committee released a draft of its portion of a much-awaited digital assets market structure bill",
+        "• The bipartisan discussion draft lays the groundwork for creating guardrails for the crypto industry in the U.S",
+        "• It also establishes guidelines for institutions that want to work with digital assets "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.887
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Senate Agriculture Committee released a draft of its portion of a much-awaited digital assets market structure bill",
+          "• The bipartisan discussion draft lays the groundwork for creating guardrails for the crypto industry in the U.S"
+        ],
+        "hopeful_bullets": [
+          "• The Senate Agriculture Committee released a draft of its portion of a much-awaited digital assets market structure bill",
+          "• The bipartisan discussion draft lays the groundwork for creating guardrails for the crypto industry in the U.S"
+        ],
+        "stakes_bullets": [
+          "• The Senate Agriculture Committee released a draft of its portion of a much-awaited digital assets market structure bill"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "342d28a1cd0c"
+    },
+    {
       "id": "c82ef124393a",
       "title": "ICE Ads Are All Over Your Favorite Streaming Services",
       "outlet": "Music News",
@@ -3308,37 +3535,6 @@
       "cluster_id": "aa20e6c58d62"
     },
     {
-      "id": "e07f7ace2f87",
-      "title": "CoreWeave CEO won't say if Core Scientific caused data center delays, both stocks plunge",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/11/coreweave-stock-core-scientific-delays.html",
-      "published_at": "Tue, 11 Nov 2025 21:39:20 GMT",
-      "bullets": [
-        "• CoreWeave CEO: \"There was a problem at one data center\" CEO Mike Intrator says delays at a third-party provider are related to Core Scientific",
-        "• Intrator did not directly confirm that Core Scientific is the company",
-        "• Core Scientific shareholders voted against the proposed $9 billion deal earlier this year "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• CoreWeave CEO: \"There was a problem at one data center\" CEO Mike Intrator says delays at a third-party provider are related to Core Scientific",
-          "• Intrator did not directly confirm that Core Scientific is the company"
-        ],
-        "hopeful_bullets": [
-          "• Core Scientific shareholders voted against the proposed $9 billion deal earlier this year "
-        ],
-        "stakes_bullets": [
-          "• Core Scientific shareholders voted against the proposed $9 billion deal earlier this year "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "5e1de0b5ae5f"
-    },
-    {
       "id": "b24568d6c8e8",
       "title": "‘Jimmy Kimmel Live!’ Bandleader Cleto Escobedo III Dead at 59",
       "outlet": "Music News",
@@ -3510,40 +3706,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "aebd171297b6"
-    },
-    {
-      "id": "19a8112ba043",
-      "title": "‘Pretty Little Liars’ Actress Sasha Pieterse to Star in Corporate Retreat Horror Comedy ‘Offsite’",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3914448/pretty-little-liars-actress-sasha-pieterse-to-star-in-corporate-retreat-horror-comedy-offsite/",
-      "published_at": "Tue, 11 Nov 2025 21:21:27 +0000",
-      "bullets": [
-        "• 'Pretty Little Liars' actress Sasha Pieterse to star in horror comedy Offsite",
-        "• Indie film follows employees of a dysfunctional tech startup whose corporate retreat at a remote mansion spirals into chaos after a co-worker's mysterious death",
-        "• The ensemble cast also includes Danny Jolles, Lucas Zelnick, Madison Humphrey, Kyle Gordon, Julian Sewell, Simon Jones, Jay Jurden, and Matthew Broussard "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 'Pretty Little Liars' actress Sasha Pieterse to star in horror comedy Offsite",
-          "• Indie film follows employees of a dysfunctional tech startup whose corporate retreat at a remote mansion spirals into chaos after a co-worker's mysterious death"
-        ],
-        "hopeful_bullets": [
-          "• 'Pretty Little Liars' actress Sasha Pieterse to star in horror comedy Offsite",
-          "• Indie film follows employees of a dysfunctional tech startup whose corporate retreat at a remote mansion spirals into chaos after a co-worker's mysterious death"
-        ],
-        "stakes_bullets": [
-          "• 'Pretty Little Liars' actress Sasha Pieterse to star in horror comedy Offsite",
-          "• Indie film follows employees of a dysfunctional tech startup whose corporate retreat at a remote mansion spirals into chaos after a co-worker's mysterious death",
-          "• The ensemble cast also includes Danny Jolles, Lucas Zelnick, Madison Humphrey, Kyle Gordon, Julian Sewell, Simon Jones, Jay Jurden, and Matthew Broussard "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "ad368960a5e5"
     },
     {
       "id": "050ee682f330",
@@ -3848,40 +4010,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "e3a207bde904"
-    },
-    {
-      "id": "1df44f31ae8f",
-      "title": "The shutdown put jobs and inflation data on hold. Here's when it could be back — and what it might say",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/11/when-the-government-data-will-start-rolling-out-with-the-shutdown-ending-and-what-it-is-likely-to-show.html",
-      "published_at": "Tue, 11 Nov 2025 20:03:50 GMT",
-      "bullets": [
-        "• The government shutdown has delayed nearly all releases for September and October",
-        "• The government is expected to re-open soon after Congress passes a stop-gap spending bill",
-        "• Other releases are expected to be released in the early next week",
-        "• The BLS is in charge of the payrolls, the CPI and the employment cost index "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The government shutdown has delayed nearly all releases for September and October",
-          "• The government is expected to re-open soon after Congress passes a stop-gap spending bill"
-        ],
-        "hopeful_bullets": [
-          "• The government shutdown has delayed nearly all releases for September and October",
-          "• The government is expected to re-open soon after Congress passes a stop-gap spending bill"
-        ],
-        "stakes_bullets": [
-          "• The government is expected to re-open soon after Congress passes a stop-gap spending bill",
-          "• Other releases are expected to be released in the early next week"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a56b17039e19"
     },
     {
       "id": "c1a0fc072a0b",
@@ -4214,40 +4342,6 @@
       "cluster_id": "e3ee357e7f5e"
     },
     {
-      "id": "13773305a869",
-      "title": "Democrats criticize the deal some in their party negotiated to end the shutdown",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/11/nx-s1-5605493/democrats-criticize-the-deal-some-in-their-party-negotiated-to-end-the-shutdown",
-      "published_at": "Tue, 11 Nov 2025 17:31:04 -0500",
-      "bullets": [
-        "• Democrats criticize the deal some in their party negotiated to end the shutdown",
-        "• Most Democrats are criticizing the deal for not delivering on their key demand, the renewal of expiring health care subsidies",
-        "• NPR congressional correspondent Deirdre Walsh joins us now from the Capitol "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Democrats criticize the deal some in their party negotiated to end the shutdown",
-          "• Most Democrats are criticizing the deal for not delivering on their key demand, the renewal of expiring health care subsidies"
-        ],
-        "hopeful_bullets": [
-          "• Democrats criticize the deal some in their party negotiated to end the shutdown",
-          "• Most Democrats are criticizing the deal for not delivering on their key demand, the renewal of expiring health care subsidies"
-        ],
-        "stakes_bullets": [
-          "• Democrats criticize the deal some in their party negotiated to end the shutdown",
-          "• Most Democrats are criticizing the deal for not delivering on their key demand, the renewal of expiring health care subsidies",
-          "• NPR congressional correspondent Deirdre Walsh joins us now from the Capitol "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "540d7a846bf6"
-    },
-    {
       "id": "2b653db89511",
       "title": "US states could lose $21 billion of broadband grants after Trump overhaul",
       "outlet": "Ars Technica - All content",
@@ -4381,69 +4475,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "f81032195ac9"
-    },
-    {
-      "id": "1ac4d77c2247",
-      "title": "Chicago, Journey, REO Speedwagon Singers Form Supergroup for One Night Only",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/chicago-journey-reo-speedwagon-singers-form-supergroup-1235463366/",
-      "published_at": "Tue, 11 Nov 2025 16:55:46 +0000",
-      "bullets": [
-        "• The show will take place at Bridgestone Arena in Nashville on November 23rd",
-        "• Singer Jason Scheff, Kevin Cronin of REO Speedwagon, Wally Palmar of the Romantics, Loverboy's Mike Reno, Journey’s Jason Derlatka, and former Kansas singer John Elefante will perform "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The show will take place at Bridgestone Arena in Nashville on November 23rd",
-          "• Singer Jason Scheff, Kevin Cronin of REO Speedwagon, Wally Palmar of the Romantics, Loverboy's Mike Reno, Journey’s Jason Derlatka, and former Kansas singer John Elefante will perform "
-        ],
-        "hopeful_bullets": [
-          "• The show will take place at Bridgestone Arena in Nashville on November 23rd",
-          "• Singer Jason Scheff, Kevin Cronin of REO Speedwagon, Wally Palmar of the Romantics, Loverboy's Mike Reno, Journey’s Jason Derlatka, and former Kansas singer John Elefante will perform "
-        ],
-        "stakes_bullets": [
-          "• The show will take place at Bridgestone Arena in Nashville on November 23rd",
-          "• Singer Jason Scheff, Kevin Cronin of REO Speedwagon, Wally Palmar of the Romantics, Loverboy's Mike Reno, Journey’s Jason Derlatka, and former Kansas singer John Elefante will perform "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "db4fea58a199"
-    },
-    {
-      "id": "c688212806cd",
-      "title": "Seven weeks after winning, Arizona Democrat may soon be sworn in to House seat",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/11/nx-s1-5605849/seven-weeks-after-winning-arizona-democrat-may-soon-be-sworn-in-to-house-seat",
-      "published_at": "Tue, 11 Nov 2025 16:30:16 -0500",
-      "bullets": [
-        "• Adelita Grijalva won a special election to replace her late father in Congress",
-        "• Seven weeks after winning, Arizona Democrat may soon be sworn in to House seat",
-        "• House Speaker Mike Johnson says one of the first orders of business once Congress is back will be swearing in "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Adelita Grijalva won a special election to replace her late father in Congress",
-          "• Seven weeks after winning, Arizona Democrat may soon be sworn in to House seat"
-        ],
-        "hopeful_bullets": [
-          "• Seven weeks after winning, Arizona Democrat may soon be sworn in to House seat"
-        ],
-        "stakes_bullets": [
-          "• House Speaker Mike Johnson says one of the first orders of business once Congress is back will be swearing in "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "aa34851b4600"
     },
     {
       "id": "692c6623a7e1",
@@ -4647,40 +4678,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "1464da128350"
-    },
-    {
-      "id": "fc9d4c7d9543",
-      "title": "This podcast says 'I've Had It' with Republicans – and Democrats who don't fight back",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/11/nx-s1-5596107/ive-had-it-podcast-democrats-mamdani",
-      "published_at": "Tue, 11 Nov 2025 15:17:47 -0500",
-      "bullets": [
-        "• This podcast says 'I've Had It' with Republicans – and Democrats who don't fight back",
-        "• Hosts Jennifer Welch and Angie \"Pumps\" Sullivan represent a vocal coalition of a liberal base who has, well, had it, with Democrats",
-        "• \"It feels like the 'Preservation Party,\" Welch said in an interview "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.546
-      },
-      "moods": {
-        "brief_bullets": [
-          "• This podcast says 'I've Had It' with Republicans – and Democrats who don't fight back",
-          "• Hosts Jennifer Welch and Angie \"Pumps\" Sullivan represent a vocal coalition of a liberal base who has, well, had it, with Democrats"
-        ],
-        "hopeful_bullets": [
-          "• This podcast says 'I've Had It' with Republicans – and Democrats who don't fight back",
-          "• Hosts Jennifer Welch and Angie \"Pumps\" Sullivan represent a vocal coalition of a liberal base who has, well, had it, with Democrats"
-        ],
-        "stakes_bullets": [
-          "• This podcast says 'I've Had It' with Republicans – and Democrats who don't fight back",
-          "• Hosts Jennifer Welch and Angie \"Pumps\" Sullivan represent a vocal coalition of a liberal base who has, well, had it, with Democrats",
-          "• \"It feels like the 'Preservation Party,\" Welch said in an interview "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "c87b98a30ec2"
     },
     {
       "id": "c3c8f2db0e12",
@@ -5184,37 +5181,38 @@
       "cluster_id": "f3636cf139a8"
     },
     {
-      "id": "3642335f7be5",
-      "title": "Canada no longer measles-free as outbreaks spread",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/nov/11/canada-loses-measles-free-elimination-status",
-      "published_at": "Tue, 11 Nov 2025 02:23:30 GMT",
+      "id": "a7c860b5ae63",
+      "title": "TVC15: Clone Trooper Lieutenant (VC109)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-10-tvc15-clone-trooper-lieutenant-vc109/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-clone-trooper-lieutenant-vc109",
+      "published_at": "Tue, 11 Nov 2025 01:46:09 +0000",
       "bullets": [
-        "• Canada has logged 5,138 measles cases this year and two deaths",
-        "• Measles elimination is a symbolic designation, but it represents a hard-won battle against the disease",
-        "• It is earned when a country shows it stopped continuous spread of the virus within local communities "
+        "• The Vintage Collection of six figures was a mixed bag for collectors",
+        "• Hasbro seems incompetent to release all four clone trooper officers utilizing the same tooling in a single collection",
+        "• To date, we still don’t have all four of the figures "
       ],
-      "category": "World",
+      "category": "Star Wars",
       "sentiment": {
-        "label": "positive",
-        "score": 0.979
+        "label": "negative",
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Canada has logged 5,138 measles cases this year and two deaths",
-          "• Measles elimination is a symbolic designation, but it represents a hard-won battle against the disease"
+          "• The Vintage Collection of six figures was a mixed bag for collectors",
+          "• Hasbro seems incompetent to release all four clone trooper officers utilizing the same tooling in a single collection"
         ],
         "hopeful_bullets": [
-          "• Measles elimination is a symbolic designation, but it represents a hard-won battle against the disease"
+          "• The Vintage Collection of six figures was a mixed bag for collectors",
+          "• Hasbro seems incompetent to release all four clone trooper officers utilizing the same tooling in a single collection"
         ],
         "stakes_bullets": [
-          "• Canada has logged 5,138 measles cases this year and two deaths",
-          "• Measles elimination is a symbolic designation, but it represents a hard-won battle against the disease",
-          "• It is earned when a country shows it stopped continuous spread of the virus within local communities "
+          "• The Vintage Collection of six figures was a mixed bag for collectors",
+          "• Hasbro seems incompetent to release all four clone trooper officers utilizing the same tooling in a single collection",
+          "• To date, we still don’t have all four of the figures "
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "b53cc92ab343"
+      "read_minutes": 1,
+      "cluster_id": "92a2f6498f7b"
     },
     {
       "id": "2cf654bdd2db",
@@ -5483,6 +5481,40 @@
       },
       "read_minutes": 12,
       "cluster_id": "e8ac82f303b1"
+    },
+    {
+      "id": "c82055c14e56",
+      "title": "TVC15: Darth Maul (VC86)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-03-tvc15-darth-maul-vc86/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-darth-maul-vc86",
+      "published_at": "Tue, 04 Nov 2025 02:49:49 +0000",
+      "bullets": [
+        "• The highlight of the 2012 The Vintage Collection The Phantom Menace wave was Darth Maul",
+        "• Darth Maul was the first figure to disappear from store shelves",
+        "• By today’s standards, the figure is somewhat outdated, and Hasbro should re-imagine this character from the ground up "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The highlight of the 2012 The Vintage Collection The Phantom Menace wave was Darth Maul",
+          "• Darth Maul was the first figure to disappear from store shelves"
+        ],
+        "hopeful_bullets": [
+          "• The highlight of the 2012 The Vintage Collection The Phantom Menace wave was Darth Maul",
+          "• Darth Maul was the first figure to disappear from store shelves"
+        ],
+        "stakes_bullets": [
+          "• The highlight of the 2012 The Vintage Collection The Phantom Menace wave was Darth Maul",
+          "• Darth Maul was the first figure to disappear from store shelves",
+          "• By today’s standards, the figure is somewhat outdated, and Hasbro should re-imagine this character from the ground up "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "42395f97edb8"
     },
     {
       "id": "a724f4b5c648",
@@ -6237,6 +6269,38 @@
       "cluster_id": "45a69d77e44c"
     },
     {
+      "id": "1178a839fdce",
+      "title": "TVC15: Luke Skywalker (Bespin Fatigues) (VC04)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-05-tvc15-luke-skywalker-bespin-fatigues-vc04/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-luke-skywalker-bespin-fatigues-vc04",
+      "published_at": "Thu, 06 Nov 2025 03:17:38 +0000",
+      "bullets": [
+        "• The Vintage Collection is celebrating the 15th Anniversary of the line",
+        "• Figures came with enhanced articulation and premium soft goods and accessories",
+        "• The first wave was The Empire Strikes Back, and collectors couldn't wait to see what Hasbro would do with the line next "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Vintage Collection is celebrating the 15th Anniversary of the line",
+          "• Figures came with enhanced articulation and premium soft goods and accessories"
+        ],
+        "hopeful_bullets": [
+          "• The Vintage Collection is celebrating the 15th Anniversary of the line",
+          "• Figures came with enhanced articulation and premium soft goods and accessories"
+        ],
+        "stakes_bullets": [
+          "• The first wave was The Empire Strikes Back, and collectors couldn't wait to see what Hasbro would do with the line next "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "56d8b404193a"
+    },
+    {
       "id": "174adc947b0f",
       "title": "John Brennan Dishes on the ‘Up All Night’ Revival",
       "outlet": "Wicked Horror",
@@ -6438,6 +6502,40 @@
       "cluster_id": "85c2f547443d"
     },
     {
+      "id": "4b78fbb505ee",
+      "title": "TVC15: Lumat (VC104)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-08-tvc15-lumat-vc104/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-lumat-vc104",
+      "published_at": "Sun, 09 Nov 2025 02:30:04 +0000",
+      "bullets": [
+        "• The Vintage Collection TVC15 VC104 is celebrating the 15th anniversary of the original Jenner lineup",
+        "• Lumat was the final figure they needed to produce to give us all eight characters from the Jenner lineup from the mid-1980s",
+        "• The figure borrowed existing tooling, but Hasbro made it look all-new again thanks to the gorgeous new portrait and paint job "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Vintage Collection TVC15 VC104 is celebrating the 15th anniversary of the original Jenner lineup",
+          "• Lumat was the final figure they needed to produce to give us all eight characters from the Jenner lineup from the mid-1980s"
+        ],
+        "hopeful_bullets": [
+          "• The Vintage Collection TVC15 VC104 is celebrating the 15th anniversary of the original Jenner lineup",
+          "• Lumat was the final figure they needed to produce to give us all eight characters from the Jenner lineup from the mid-1980s"
+        ],
+        "stakes_bullets": [
+          "• The Vintage Collection TVC15 VC104 is celebrating the 15th anniversary of the original Jenner lineup",
+          "• Lumat was the final figure they needed to produce to give us all eight characters from the Jenner lineup from the mid-1980s",
+          "• The figure borrowed existing tooling, but Hasbro made it look all-new again thanks to the gorgeous new portrait and paint job "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "9127ee1a5b96"
+    },
+    {
       "id": "c1fa9628700b",
       "title": "Boba Fett’s Comeback W/ Scott Ryfun – SWR #474",
       "outlet": "The Star Wars Report Podcast",
@@ -6572,6 +6670,39 @@
       },
       "read_minutes": 40,
       "cluster_id": "2e116862dfd5"
+    },
+    {
+      "id": "f36dbae0691a",
+      "title": "TVC15: Luke Skywalker (Hoth Outfit) (VC95)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-07-tvc15-luke-skywalker-hoth-outfit-vc95/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-luke-skywalker-hoth-outfit-vc95",
+      "published_at": "Sat, 08 Nov 2025 04:59:20 +0000",
+      "bullets": [
+        "• Hasbro was working on an all-new version of Luke Skywalker based on the character’s appearance from the opening of Episode 5",
+        "• The figure only looks good in one configuration, with the goggles and scarf down",
+        "• Hopefully a new version is imminent in the modern line to replace this now-obsolete version "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro was working on an all-new version of Luke Skywalker based on the character’s appearance from the opening of Episode 5",
+          "• The figure only looks good in one configuration, with the goggles and scarf down"
+        ],
+        "hopeful_bullets": [
+          "• Hopefully a new version is imminent in the modern line to replace this now-obsolete version "
+        ],
+        "stakes_bullets": [
+          "• Hasbro was working on an all-new version of Luke Skywalker based on the character’s appearance from the opening of Episode 5",
+          "• The figure only looks good in one configuration, with the goggles and scarf down",
+          "• Hopefully a new version is imminent in the modern line to replace this now-obsolete version "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "783d3bdd3ee4"
     },
     {
       "id": "1231af1e5df0",
@@ -6804,40 +6935,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "d124fa5cd990"
-    },
-    {
-      "id": "c59d6a6b1e45",
-      "title": "US has sent $7.5m to Equatorial Guinea to accept noncitizen deportees",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/10/deportations-equatorial-guinea-money",
-      "published_at": "Mon, 10 Nov 2025 23:18:05 GMT",
-      "bullets": [
-        "• The money is the first taken from a fund apportioned by Congress to address international refugee crises",
-        "• It has been repurposed under the Trump administration to hasten deportation of noncitizen deportees",
-        "• Equatorial Guinea's president, Teodoro Obiang Nguema Mbasogo, has been in power for 46 years "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The money is the first taken from a fund apportioned by Congress to address international refugee crises",
-          "• It has been repurposed under the Trump administration to hasten deportation of noncitizen deportees"
-        ],
-        "hopeful_bullets": [
-          "• The money is the first taken from a fund apportioned by Congress to address international refugee crises",
-          "• It has been repurposed under the Trump administration to hasten deportation of noncitizen deportees"
-        ],
-        "stakes_bullets": [
-          "• The money is the first taken from a fund apportioned by Congress to address international refugee crises",
-          "• It has been repurposed under the Trump administration to hasten deportation of noncitizen deportees",
-          "• Equatorial Guinea's president, Teodoro Obiang Nguema Mbasogo, has been in power for 46 years "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "881bedef3f1d"
     },
     {
       "id": "9a6f335cb526",
@@ -7261,6 +7358,41 @@
       },
       "read_minutes": 5,
       "cluster_id": "9f3b281e734b"
+    },
+    {
+      "id": "8b1cea2bb6c0",
+      "title": "TVC15: Aayla Secura (VC58)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-09-tvc15-aayla-secura-vc58/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-aayla-secura-vc58",
+      "published_at": "Mon, 10 Nov 2025 01:12:24 +0000",
+      "bullets": [
+        "• Character: Aayla Secura",
+        "• Number: VC58",
+        "• Wave: 13.75-inch Super-Articulated 327th Star Corps Battle Of Felucia Battle Of Geonosis",
+        "• Hasbro worked overtime to cull together a cast of characters from across the Star Wars universe "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.966
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Character: Aayla Secura",
+          "• Number: VC58"
+        ],
+        "hopeful_bullets": [
+          "• Character: Aayla Secura",
+          "• Number: VC58"
+        ],
+        "stakes_bullets": [
+          "• Character: Aayla Secura",
+          "• Number: VC58",
+          "• Wave: 13.75-inch Super-Articulated 327th Star Corps Battle Of Felucia Battle Of Geonosis"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "bd02047666ee"
     },
     {
       "id": "fdb0e8b2046d",
@@ -7690,6 +7822,38 @@
       "cluster_id": "3b02d11cd52b"
     },
     {
+      "id": "b93d6508cbd7",
+      "title": "TVC15: Grand Moff Tarkin (VC98)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-06-tvc15-grand-moff-tarkin-vc98/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-grand-moff-tarkin-vc98",
+      "published_at": "Fri, 07 Nov 2025 03:39:27 +0000",
+      "bullets": [
+        "• The Vintage Collection is celebrating the 15th Anniversary of the Star Wars series",
+        "• Grand Moff Tarkin is the figure that collectors wanted the most but were also incredibly disappointed by",
+        "• Sadly, the highlight here is the all-new mouse droid",
+        "• Hopefully, Hasbro will treat collectors right and get a perfected version of this action figure soon "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.729
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Vintage Collection is celebrating the 15th Anniversary of the Star Wars series",
+          "• Grand Moff Tarkin is the figure that collectors wanted the most but were also incredibly disappointed by"
+        ],
+        "hopeful_bullets": [
+          "• Hopefully, Hasbro will treat collectors right and get a perfected version of this action figure soon "
+        ],
+        "stakes_bullets": [
+          "• Hopefully, Hasbro will treat collectors right and get a perfected version of this action figure soon "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b9a58828de78"
+    },
+    {
       "id": "142cf1b6c83a",
       "title": "John Carpenter’s The Thing is About … Diabetes?",
       "outlet": "Wicked Horror",
@@ -7756,6 +7920,72 @@
       },
       "read_minutes": 40,
       "cluster_id": "76c61b84461a"
+    },
+    {
+      "id": "d22228d4f0c3",
+      "title": "Insta360’s new accessories turn its Ace Pro 2 into an instant camera",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/817622/insta360-ace-pro-2-action-camera-pocket-printer-xplorer-grip-pro-kit",
+      "published_at": "2025-11-12T08:00:00-05:00",
+      "bullets": [
+        "• Insta360’s new accessories turn its Ace Pro 2 into an instant camera",
+        "• A new grip adds a shutter button with zoom to the action camera, while the Pocket Printer creates 3-inch instant photos",
+        "• The new accessories launch today as part of four new bundles that include the camera itself "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.595
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Insta360’s new accessories turn its Ace Pro 2 into an instant camera",
+          "• A new grip adds a shutter button with zoom to the action camera, while the Pocket Printer creates 3-inch instant photos"
+        ],
+        "hopeful_bullets": [
+          "• Insta360’s new accessories turn its Ace Pro 2 into an instant camera",
+          "• A new grip adds a shutter button with zoom to the action camera, while the Pocket Printer creates 3-inch instant photos"
+        ],
+        "stakes_bullets": [
+          "• Insta360’s new accessories turn its Ace Pro 2 into an instant camera",
+          "• A new grip adds a shutter button with zoom to the action camera, while the Pocket Printer creates 3-inch instant photos",
+          "• The new accessories launch today as part of four new bundles that include the camera itself "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "61d1f217dd59"
+    },
+    {
+      "id": "98fb3d57be9f",
+      "title": "Samsung&#8217;s new 27-inch portable display has a three-hour battery life",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/818738/samsung-movingstyle-portable-display-tv-availability",
+      "published_at": "2025-11-12T07:44:52-05:00",
+      "bullets": [
+        "• The $1,199.99 Movingstyle is a 27-inch touchscreen display that can be pushed around on a rollable stand or carried like a briefcase",
+        "• The display resolution is 2560 x 1440p, with a 120Hz refresh rate and support for HDR10 Plus and Dolby Atmos audio "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The $1,199.99 Movingstyle is a 27-inch touchscreen display that can be pushed around on a rollable stand or carried like a briefcase",
+          "• The display resolution is 2560 x 1440p, with a 120Hz refresh rate and support for HDR10 Plus and Dolby Atmos audio "
+        ],
+        "hopeful_bullets": [
+          "• The $1,199.99 Movingstyle is a 27-inch touchscreen display that can be pushed around on a rollable stand or carried like a briefcase",
+          "• The display resolution is 2560 x 1440p, with a 120Hz refresh rate and support for HDR10 Plus and Dolby Atmos audio "
+        ],
+        "stakes_bullets": [
+          "• The $1,199.99 Movingstyle is a 27-inch touchscreen display that can be pushed around on a rollable stand or carried like a briefcase",
+          "• The display resolution is 2560 x 1440p, with a 120Hz refresh rate and support for HDR10 Plus and Dolby Atmos audio "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d4528c799523"
     },
     {
       "id": "cff34e8d6ec8",
@@ -8019,72 +8249,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "1bd3bedaf154"
-    },
-    {
-      "id": "9ea749cc6a9f",
-      "title": "ElevenLabs’ new AI marketplace lets brands use famous voices for ads",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio",
-      "published_at": "2025-11-11T12:00:00-05:00",
-      "bullets": [
-        "• AI audio startup ElevenLabs is launching an online marketplace that allows companies to license AI-replicated voices of famous figures for their content and advertisements",
-        "• Some notable options include Michael Caine, Liza Minelli, and… Mark Twain? The marketplace is only open to a curated list of “verified, iconic talent and IP owners”"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• AI audio startup ElevenLabs is launching an online marketplace that allows companies to license AI-replicated voices of famous figures for their content and advertisements",
-          "• Some notable options include Michael Caine, Liza Minelli, and… Mark Twain? The marketplace is only open to a curated list of “verified, iconic talent and IP owners”"
-        ],
-        "hopeful_bullets": [
-          "• AI audio startup ElevenLabs is launching an online marketplace that allows companies to license AI-replicated voices of famous figures for their content and advertisements",
-          "• Some notable options include Michael Caine, Liza Minelli, and… Mark Twain? The marketplace is only open to a curated list of “verified, iconic talent and IP owners”"
-        ],
-        "stakes_bullets": [
-          "• AI audio startup ElevenLabs is launching an online marketplace that allows companies to license AI-replicated voices of famous figures for their content and advertisements",
-          "• Some notable options include Michael Caine, Liza Minelli, and… Mark Twain? The marketplace is only open to a curated list of “verified, iconic talent and IP owners”"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "38eadd75a67a"
-    },
-    {
-      "id": "d171cff958d7",
-      "title": "The 30 best gift ideas for mom this holiday season",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/gadgets/802964/best-mom-gift-ideas",
-      "published_at": "2025-11-11T11:00:00-05:00",
-      "bullets": [
-        "• The right gift can make family or friend time more valuable, or it can greatly enrich time spent alone",
-        "• There are plenty of ideas below that can show the maternal figure in your life that you know them well",
-        "• Apple’s new AirPods Pro 3 can provide stellar sound for her favorite tracks (and heart rate tracking)"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The right gift can make family or friend time more valuable, or it can greatly enrich time spent alone",
-          "• There are plenty of ideas below that can show the maternal figure in your life that you know them well"
-        ],
-        "hopeful_bullets": [
-          "• The right gift can make family or friend time more valuable, or it can greatly enrich time spent alone",
-          "• There are plenty of ideas below that can show the maternal figure in your life that you know them well"
-        ],
-        "stakes_bullets": [
-          "• The right gift can make family or friend time more valuable, or it can greatly enrich time spent alone",
-          "• There are plenty of ideas below that can show the maternal figure in your life that you know them well",
-          "• Apple’s new AirPods Pro 3 can provide stellar sound for her favorite tracks (and heart rate tracking)"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "36c3fdb98166"
     },
     {
       "id": "c41ff758b36a",
@@ -8552,24 +8716,6 @@
   ],
   "clusters": [
     {
-      "id": "ea8fc4595b96",
-      "topic": "bbc edit obligation speech",
-      "keywords": [
-        "bbc",
-        "edit",
-        "obligation",
-        "speech",
-        "sue",
-        "trump"
-      ],
-      "item_ids": [
-        "e144b05c6336"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "9022af77f9fb",
       "topic": "fire israeli palestinian set",
       "keywords": [
@@ -8582,6 +8728,24 @@
       ],
       "item_ids": [
         "b115f9ab574d"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "ea8fc4595b96",
+      "topic": "bbc edit obligation speech",
+      "keywords": [
+        "bbc",
+        "edit",
+        "obligation",
+        "speech",
+        "sue",
+        "trump"
+      ],
+      "item_ids": [
+        "e144b05c6336"
       ],
       "outlets": [
         "BBC News"
@@ -8660,6 +8824,24 @@
       ]
     },
     {
+      "id": "2d263cdeb43a",
+      "topic": "crunch ending historic house",
+      "keywords": [
+        "crunch",
+        "ending",
+        "historic",
+        "house",
+        "set",
+        "vote"
+      ],
+      "item_ids": [
+        "0f5774de77ff"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "a379951ecf27",
       "topic": "congres grandson jack jfk",
       "keywords": [
@@ -8714,21 +8896,21 @@
       ]
     },
     {
-      "id": "e2383c2dcfb6",
-      "topic": "air delhi hybrid quality",
+      "id": "386d02335598",
+      "topic": "cost fuel libya sanctioned",
       "keywords": [
-        "air",
-        "delhi",
-        "hybrid",
-        "quality",
-        "school",
-        "worsen"
+        "cost",
+        "fuel",
+        "libya",
+        "sanctioned",
+        "smuggling",
+        "state"
       ],
       "item_ids": [
-        "78e303ea7123"
+        "48f246af26b7"
       ],
       "outlets": [
-        "BBC News"
+        "World news | The Guardian"
       ]
     },
     {
@@ -8804,18 +8986,18 @@
       ]
     },
     {
-      "id": "881bedef3f1d",
-      "topic": "accept deportee equatorial guinea",
+      "id": "3067624230ff",
+      "topic": "absence cop30 despite live",
       "keywords": [
-        "accept",
-        "deportee",
-        "equatorial",
-        "guinea",
-        "noncitizen",
-        "sent"
+        "absence",
+        "cop30",
+        "despite",
+        "live",
+        "loom",
+        "talk"
       ],
       "item_ids": [
-        "c59d6a6b1e45"
+        "de892c1c6276"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -8888,24 +9070,6 @@
       ],
       "item_ids": [
         "a5a509cf6ae0"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "b53cc92ab343",
-      "topic": "canada free longer measle",
-      "keywords": [
-        "canada",
-        "free",
-        "longer",
-        "measle",
-        "outbreak",
-        "spread"
-      ],
-      "item_ids": [
-        "3642335f7be5"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -9055,6 +9219,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "0071888a6881",
+      "topic": "flight google issue lawsuit",
+      "keywords": [
+        "flight",
+        "google",
+        "issue",
+        "lawsuit",
+        "linger",
+        "shutdown"
+      ],
+      "item_ids": [
+        "4fee55fd47e7"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9220,60 +9402,6 @@
       ]
     },
     {
-      "id": "cea41c041bb9",
-      "topic": "forecaster say severe solar",
-      "keywords": [
-        "forecaster",
-        "say",
-        "severe",
-        "solar",
-        "space",
-        "storm"
-      ],
-      "item_ids": [
-        "621ab81fb2aa"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "cb2a0df62b92",
-      "topic": "much nvidia plunge selling",
-      "keywords": [
-        "much",
-        "nvidia",
-        "plunge",
-        "selling",
-        "share",
-        "softbank"
-      ],
-      "item_ids": [
-        "95f0dd199cae"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "ef848c63be13",
-      "topic": "autonomou company einride going",
-      "keywords": [
-        "autonomou",
-        "company",
-        "einride",
-        "going",
-        "public",
-        "trucking"
-      ],
-      "item_ids": [
-        "c6c88232ca05"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "6a43aab736a8",
       "topic": "behind cybercriminal google group",
       "keywords": [
@@ -9292,6 +9420,24 @@
       ]
     },
     {
+      "id": "d7d4313c4e54",
+      "topic": "demand highest hits homebuyer",
+      "keywords": [
+        "demand",
+        "highest",
+        "hits",
+        "homebuyer",
+        "level",
+        "mortgage"
+      ],
+      "item_ids": [
+        "e575875c9d8d"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "729f5c238c72",
       "topic": "again company guidance raise",
       "keywords": [
@@ -9304,6 +9450,24 @@
       ],
       "item_ids": [
         "766cb22c2120"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "ef848c63be13",
+      "topic": "autonomou company einride going",
+      "keywords": [
+        "autonomou",
+        "company",
+        "einride",
+        "going",
+        "public",
+        "trucking"
+      ],
+      "item_ids": [
+        "c6c88232ca05"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9346,36 +9510,18 @@
       ]
     },
     {
-      "id": "a56b17039e19",
-      "topic": "data hold inflation jobs",
+      "id": "342d28a1cd0c",
+      "topic": "awaited crypto just lawmaker",
       "keywords": [
-        "data",
-        "hold",
-        "inflation",
-        "jobs",
-        "put",
-        "shutdown"
+        "awaited",
+        "crypto",
+        "just",
+        "lawmaker",
+        "much",
+        "released"
       ],
       "item_ids": [
-        "1df44f31ae8f"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "5e1de0b5ae5f",
-      "topic": "ceo core coreweave say",
-      "keywords": [
-        "ceo",
-        "core",
-        "coreweave",
-        "say",
-        "scientific",
-        "won"
-      ],
-      "item_ids": [
-        "e07f7ace2f87"
+        "9dfc0970d66e"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9400,21 +9546,69 @@
       ]
     },
     {
-      "id": "74f7d0b0991a",
-      "topic": "alarm godfather raise trump",
+      "id": "f67358d75718",
+      "topic": "american giving sweetgreen",
       "keywords": [
-        "alarm",
-        "godfather",
-        "raise",
-        "trump",
-        "urge",
-        "wind"
+        "american",
+        "giving",
+        "sweetgreen"
       ],
       "item_ids": [
-        "1e400f1b2084"
+        "366c3e5fa219"
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "05f19de792f3",
+      "topic": "behind boom economist leave",
+      "keywords": [
+        "behind",
+        "boom",
+        "economist",
+        "leave",
+        "many",
+        "stock"
+      ],
+      "item_ids": [
+        "e1b8d887dc87"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "35e10c5f21a9",
+      "topic": "robot vacuum worth",
+      "keywords": [
+        "robot",
+        "vacuum",
+        "worth"
+      ],
+      "item_ids": [
+        "3783cec394db"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "e8e8706eab33",
+      "topic": "chatgpt free inside talk",
+      "keywords": [
+        "chatgpt",
+        "free",
+        "inside",
+        "talk",
+        "whatsapp",
+        "while"
+      ],
+      "item_ids": [
+        "21726ca26d51"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -9557,36 +9751,39 @@
       ]
     },
     {
-      "id": "22479d2669d7",
-      "topic": "code design off promo",
+      "id": "61d1f217dd59",
+      "topic": "accessorie ace insta360 instant",
       "keywords": [
-        "code",
-        "design",
-        "off",
-        "promo",
-        "reach",
-        "within"
+        "accessorie",
+        "ace",
+        "insta360",
+        "instant",
+        "pro",
+        "turn"
       ],
       "item_ids": [
-        "2c21d37ae590"
+        "d22228d4f0c3"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
-      "id": "49618302fa9d",
-      "topic": "coupon nomad off",
+      "id": "d4528c799523",
+      "topic": "8217 display hour inch",
       "keywords": [
-        "coupon",
-        "nomad",
-        "off"
+        "8217",
+        "display",
+        "hour",
+        "inch",
+        "portable",
+        "samsung"
       ],
       "item_ids": [
-        "b2de07ad3526"
+        "98fb3d57be9f"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -9727,42 +9924,6 @@
       ],
       "item_ids": [
         "db7b4aa59a5d"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "38eadd75a67a",
-      "topic": "brand elevenlab famou lets",
-      "keywords": [
-        "brand",
-        "elevenlab",
-        "famou",
-        "lets",
-        "marketplace",
-        "use"
-      ],
-      "item_ids": [
-        "9ea749cc6a9f"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "36c3fdb98166",
-      "topic": "best gift holiday idea",
-      "keywords": [
-        "best",
-        "gift",
-        "holiday",
-        "idea",
-        "mom",
-        "season"
-      ],
-      "item_ids": [
-        "d171cff958d7"
       ],
       "outlets": [
         "The Verge"
@@ -10129,6 +10290,24 @@
       ]
     },
     {
+      "id": "cea41c041bb9",
+      "topic": "forecaster say severe solar",
+      "keywords": [
+        "forecaster",
+        "say",
+        "severe",
+        "solar",
+        "space",
+        "storm"
+      ],
+      "item_ids": [
+        "621ab81fb2aa"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
       "id": "7d3d5a244e05",
       "topic": "bird flu kids leave",
       "keywords": [
@@ -10267,60 +10446,6 @@
       ],
       "item_ids": [
         "d58a0a130df0"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "540d7a846bf6",
-      "topic": "criticize deal democrat negotiated",
-      "keywords": [
-        "criticize",
-        "deal",
-        "democrat",
-        "negotiated",
-        "party",
-        "some"
-      ],
-      "item_ids": [
-        "13773305a869"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "aa34851b4600",
-      "topic": "arizona democrat seven soon",
-      "keywords": [
-        "arizona",
-        "democrat",
-        "seven",
-        "soon",
-        "week",
-        "winning"
-      ],
-      "item_ids": [
-        "c688212806cd"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "c87b98a30ec2",
-      "topic": "back democrat don fight",
-      "keywords": [
-        "back",
-        "democrat",
-        "don",
-        "fight",
-        "podcast",
-        "republican"
-      ],
-      "item_ids": [
-        "fc9d4c7d9543"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -10635,24 +10760,6 @@
       ],
       "item_ids": [
         "c14bb3e8800b"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "2bba4c46722d",
-      "topic": "around fossil fuel project",
-      "keywords": [
-        "around",
-        "fossil",
-        "fuel",
-        "project",
-        "threaten",
-        "world"
-      ],
-      "item_ids": [
-        "7950de4547a9"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11016,24 +11123,6 @@
       ],
       "outlets": [
         "The Numbers"
-      ]
-    },
-    {
-      "id": "ad368960a5e5",
-      "topic": "actres liar little pieterse",
-      "keywords": [
-        "actres",
-        "liar",
-        "little",
-        "pieterse",
-        "pretty",
-        "sasha"
-      ],
-      "item_ids": [
-        "19a8112ba043"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
       ]
     },
     {
@@ -11730,6 +11819,158 @@
       ]
     },
     {
+      "id": "244347f2c36d",
+      "topic": "amidala disguise padm peasant",
+      "keywords": [
+        "amidala",
+        "disguise",
+        "padm",
+        "peasant",
+        "tvc15",
+        "vc33"
+      ],
+      "item_ids": [
+        "61fe9581fabe"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "92a2f6498f7b",
+      "topic": "clone lieutenant trooper tvc15",
+      "keywords": [
+        "clone",
+        "lieutenant",
+        "trooper",
+        "tvc15",
+        "vc109"
+      ],
+      "item_ids": [
+        "a7c860b5ae63"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "bd02047666ee",
+      "topic": "aayla secura tvc15 vc58",
+      "keywords": [
+        "aayla",
+        "secura",
+        "tvc15",
+        "vc58"
+      ],
+      "item_ids": [
+        "8b1cea2bb6c0"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "9127ee1a5b96",
+      "topic": "lumat tvc15 vc104",
+      "keywords": [
+        "lumat",
+        "tvc15",
+        "vc104"
+      ],
+      "item_ids": [
+        "4b78fbb505ee"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "783d3bdd3ee4",
+      "topic": "hoth luke outfit skywalker",
+      "keywords": [
+        "hoth",
+        "luke",
+        "outfit",
+        "skywalker",
+        "tvc15",
+        "vc95"
+      ],
+      "item_ids": [
+        "f36dbae0691a"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "b9a58828de78",
+      "topic": "grand moff tarkin tvc15",
+      "keywords": [
+        "grand",
+        "moff",
+        "tarkin",
+        "tvc15",
+        "vc98"
+      ],
+      "item_ids": [
+        "b93d6508cbd7"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "56d8b404193a",
+      "topic": "bespin fatigue luke skywalker",
+      "keywords": [
+        "bespin",
+        "fatigue",
+        "luke",
+        "skywalker",
+        "tvc15",
+        "vc04"
+      ],
+      "item_ids": [
+        "1178a839fdce"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "92252a960604",
+      "topic": "old republic trooper tvc15",
+      "keywords": [
+        "old",
+        "republic",
+        "trooper",
+        "tvc15",
+        "vc113"
+      ],
+      "item_ids": [
+        "3fc7b413ab65"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "42395f97edb8",
+      "topic": "darth maul tvc15 vc86",
+      "keywords": [
+        "darth",
+        "maul",
+        "tvc15",
+        "vc86"
+      ],
+      "item_ids": [
+        "c82055c14e56"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
       "id": "4d68b7d6cb41",
       "topic": "eclipse favorite revealed rotj",
       "keywords": [
@@ -12238,6 +12479,42 @@
       ]
     },
     {
+      "id": "348c1d9193af",
+      "topic": "confirm ncis officially season",
+      "keywords": [
+        "confirm",
+        "ncis",
+        "officially",
+        "season",
+        "tony",
+        "ziva"
+      ],
+      "item_ids": [
+        "509365a667df"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "047beaf7097f",
+      "topic": "based cosmic ends era",
+      "keywords": [
+        "based",
+        "cosmic",
+        "ends",
+        "era",
+        "imperial",
+        "start"
+      ],
+      "item_ids": [
+        "00dc5d176809"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "07047c517a33",
       "topic": "landman review season sheridan",
       "keywords": [
@@ -12375,41 +12652,6 @@
       ],
       "item_ids": [
         "35c75af323cc"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "98267631ae3a",
-      "topic": "every five hasn letter",
-      "keywords": [
-        "every",
-        "five",
-        "hasn",
-        "letter",
-        "word",
-        "wordle"
-      ],
-      "item_ids": [
-        "ffc86848d157"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "9a4f6458ff41",
-      "topic": "finish perfect sci start",
-      "keywords": [
-        "finish",
-        "perfect",
-        "sci",
-        "start",
-        "thriller"
-      ],
-      "item_ids": [
-        "11abd4df3bb2"
       ],
       "outlets": [
         "CBR"
@@ -12594,6 +12836,24 @@
       ]
     },
     {
+      "id": "e12b08f0766a",
+      "topic": "alone buchanan goes jay",
+      "keywords": [
+        "alone",
+        "buchanan",
+        "goes",
+        "jay",
+        "rival",
+        "sons"
+      ],
+      "item_ids": [
+        "1d2323315c20"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "556439d355a9",
       "topic": "anthemic bottomland hardy showcase",
       "keywords": [
@@ -12750,24 +13010,6 @@
       ],
       "item_ids": [
         "90edf23dbefd"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "db4fea58a199",
-      "topic": "chicago form journey reo",
-      "keywords": [
-        "chicago",
-        "form",
-        "journey",
-        "reo",
-        "singer",
-        "speedwagon"
-      ],
-      "item_ids": [
-        "1ac4d77c2247"
       ],
       "outlets": [
         "Music News"
