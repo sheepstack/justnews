@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-12T11:26:24Z",
+  "generated_at": "2025-11-12T11:58:20Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -139,6 +139,104 @@
       "cluster_id": "4d68b7d6cb41"
     },
     {
+      "id": "37056d672925",
+      "title": "India inflation cools more than expected in October, boosting hopes for further rate cuts",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/india-october-inflation-matches-rbi-outlook-easing-hopes-for-rate-cuts.html",
+      "published_at": "Wed, 12 Nov 2025 11:29:04 GMT",
+      "bullets": [
+        "• India's inflation rate fell to 0.25% in October, down from 1.54% in September",
+        "• The central bank kept its key policy rate unchanged at 5.6% for the fiscal year ending March 2026",
+        "• The decline in inflation is mainly attributed to decline in the GST (goods and services tax)"
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• India's inflation rate fell to 0.25% in October, down from 1.54% in September",
+          "• The central bank kept its key policy rate unchanged at 5.6% for the fiscal year ending March 2026"
+        ],
+        "hopeful_bullets": [
+          "• India's inflation rate fell to 0.25% in October, down from 1.54% in September",
+          "• The central bank kept its key policy rate unchanged at 5.6% for the fiscal year ending March 2026"
+        ],
+        "stakes_bullets": [
+          "• The central bank kept its key policy rate unchanged at 5.6% for the fiscal year ending March 2026"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "96db6d241329"
+    },
+    {
+      "id": "dd0bbd159e10",
+      "title": "Texas’s Eagle Pass voters turned to Trump. A year later, some have doubts",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/12/texas-eagle-pass-trump-deportations",
+      "published_at": "Wed, 12 Nov 2025 11:00:22 GMT",
+      "bullets": [
+        "• In 2024, Maverick county, Texas, voted for a Republican for the first time in a century",
+        "• The Hispanic-majority border county voted for Donald Trump",
+        "• But residents in Eagle Pass are increasingly uncomfortable with the tactics the administration has used in its immigration crackdown "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In 2024, Maverick county, Texas, voted for a Republican for the first time in a century",
+          "• The Hispanic-majority border county voted for Donald Trump"
+        ],
+        "hopeful_bullets": [
+          "• In 2024, Maverick county, Texas, voted for a Republican for the first time in a century",
+          "• The Hispanic-majority border county voted for Donald Trump"
+        ],
+        "stakes_bullets": [
+          "• In 2024, Maverick county, Texas, voted for a Republican for the first time in a century",
+          "• The Hispanic-majority border county voted for Donald Trump",
+          "• But residents in Eagle Pass are increasingly uncomfortable with the tactics the administration has used in its immigration crackdown "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "759a79654cc4"
+    },
+    {
+      "id": "046f72012a78",
+      "title": "All of My Employees Are AI Agents, and So Are My Executives",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/all-my-employees-are-ai-agents-so-are-my-executives/",
+      "published_at": "Wed, 12 Nov 2025 11:00:00 +0000",
+      "bullets": [
+        "• CTO and chief product officer of HurumoAI, a startup I cofounded last summer, called out of the blue with a product update",
+        "• He was himself an AI agent, one that I’d created, and so was Megan, Megan, and everyone else who worked at Hurumoai at the time "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• CTO and chief product officer of HurumoAI, a startup I cofounded last summer, called out of the blue with a product update",
+          "• He was himself an AI agent, one that I’d created, and so was Megan, Megan, and everyone else who worked at Hurumoai at the time "
+        ],
+        "hopeful_bullets": [
+          "• CTO and chief product officer of HurumoAI, a startup I cofounded last summer, called out of the blue with a product update",
+          "• He was himself an AI agent, one that I’d created, and so was Megan, Megan, and everyone else who worked at Hurumoai at the time "
+        ],
+        "stakes_bullets": [
+          "• CTO and chief product officer of HurumoAI, a startup I cofounded last summer, called out of the blue with a product update",
+          "• He was himself an AI agent, one that I’d created, and so was Megan, Megan, and everyone else who worked at Hurumoai at the time "
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "3775687ae390"
+    },
+    {
       "id": "40589b6167f2",
       "title": "Texas Head Start closures during government shutdown add to state’s child care woes",
       "outlet": "The Texas Tribune",
@@ -200,37 +298,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "cc528d0ea698"
-    },
-    {
-      "id": "37056d672925",
-      "title": "India inflation cools more than expected in October, boosting hopes for further rate cuts",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/india-october-inflation-matches-rbi-outlook-easing-hopes-for-rate-cuts.html",
-      "published_at": "Wed, 12 Nov 2025 10:52:31 GMT",
-      "bullets": [
-        "• Consumer inflation cooled to 0.25% in October, strengthening hopes of more policy easing by the Reserve Bank of India",
-        "• The central bank revised its inflation forecast to 2.6% from 3.1% for the fiscal year ending March 2026, but kept its key policy rate unchanged at 5.5% "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.771
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Consumer inflation cooled to 0.25% in October, strengthening hopes of more policy easing by the Reserve Bank of India",
-          "• The central bank revised its inflation forecast to 2.6% from 3.1% for the fiscal year ending March 2026, but kept its key policy rate unchanged at 5.5% "
-        ],
-        "hopeful_bullets": [
-          "• Consumer inflation cooled to 0.25% in October, strengthening hopes of more policy easing by the Reserve Bank of India"
-        ],
-        "stakes_bullets": [
-          "• Consumer inflation cooled to 0.25% in October, strengthening hopes of more policy easing by the Reserve Bank of India",
-          "• The central bank revised its inflation forecast to 2.6% from 3.1% for the fiscal year ending March 2026, but kept its key policy rate unchanged at 5.5% "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "96db6d241329"
     },
     {
       "id": "95f0dd199cae",
@@ -1498,6 +1565,73 @@
       "cluster_id": "311e1ef53a7c"
     },
     {
+      "id": "fcd2548c761e",
+      "title": "Adelita Grijalva is set to be sworn in, teeing up a potential vote on Epstein files",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/12/nx-s1-5606350/adelita-grijalva-swearing-in",
+      "published_at": "Wed, 12 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• Arizona Rep.-elect Adelita Grijalva is set to be sworn in on Wednesday",
+        "• House Speaker Mike Johnson is expected to administer the oath of office for the Arizona Democrat",
+        "• The move could set up a potential vote on the release of the Jeffrey Epstein files "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.516
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Arizona Rep.-elect Adelita Grijalva is set to be sworn in on Wednesday",
+          "• House Speaker Mike Johnson is expected to administer the oath of office for the Arizona Democrat"
+        ],
+        "hopeful_bullets": [
+          "• Arizona Rep.-elect Adelita Grijalva is set to be sworn in on Wednesday",
+          "• House Speaker Mike Johnson is expected to administer the oath of office for the Arizona Democrat"
+        ],
+        "stakes_bullets": [
+          "• House Speaker Mike Johnson is expected to administer the oath of office for the Arizona Democrat",
+          "• The move could set up a potential vote on the release of the Jeffrey Epstein files "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2f66e37b1280"
+    },
+    {
+      "id": "88da72e73854",
+      "title": "Here's how many strikes on alleged drug vessels the U.S. has announced",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/12/nx-s1-5604895/trump-venezuela-drug-boat-strikes",
+      "published_at": "Wed, 12 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• The U.S",
+        "• military has repeatedly struck boats in the Caribbean Sea and Pacific Ocean",
+        "• President Trump and Defense Secretary Pete Hegseth have vowed to target \"narco-terrorists\" NPR compiled a list of these boat attacks using posts on Truth Social and X by the administration "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The U.S",
+          "• military has repeatedly struck boats in the Caribbean Sea and Pacific Ocean"
+        ],
+        "hopeful_bullets": [
+          "• The U.S",
+          "• military has repeatedly struck boats in the Caribbean Sea and Pacific Ocean"
+        ],
+        "stakes_bullets": [
+          "• The U.S",
+          "• military has repeatedly struck boats in the Caribbean Sea and Pacific Ocean",
+          "• President Trump and Defense Secretary Pete Hegseth have vowed to target \"narco-terrorists\" NPR compiled a list of these boat attacks using posts on Truth Social and X by the administration "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4c4bad5abe24"
+    },
+    {
       "id": "2a17ef64c80b",
       "title": "Google launches a lawsuit targeting text message scammers",
       "outlet": "NPR Topics: News",
@@ -1564,38 +1698,6 @@
       "cluster_id": "c6263db5462f"
     },
     {
-      "id": "b828bec743e2",
-      "title": "'Where do you want to go?': Six words that helped her start again",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5604852/depression-unsung-hero",
-      "published_at": "Wed, 12 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• In 1978, when she was 21, Stacia was struggling with severe depression and attempted suicide",
-        "• A stranger's gentle acceptance gave her a way forward when she needed it most",
-        "• Stacia asked that NPR use only her middle name because she was sharing sensitive information about her mental health "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.853
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In 1978, when she was 21, Stacia was struggling with severe depression and attempted suicide",
-          "• A stranger's gentle acceptance gave her a way forward when she needed it most"
-        ],
-        "hopeful_bullets": [
-          "• In 1978, when she was 21, Stacia was struggling with severe depression and attempted suicide",
-          "• A stranger's gentle acceptance gave her a way forward when she needed it most"
-        ],
-        "stakes_bullets": [
-          "• Stacia asked that NPR use only her middle name because she was sharing sensitive information about her mental health "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "9eda5fd91e0e"
-    },
-    {
       "id": "d11a0e486db3",
       "title": "On day 43 of the shutdown, a vote in the House could bring the impasse to an end",
       "outlet": "NPR Topics: News",
@@ -1632,71 +1734,36 @@
       "cluster_id": "8b8e6df26daa"
     },
     {
-      "id": "88da72e73854",
-      "title": "Here's how many strikes on alleged drug vessels the U.S. has announced",
+      "id": "b828bec743e2",
+      "title": "'Where do you want to go?': Six words that helped her start again",
       "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5604895/trump-venezuela-drug-boat-strikes",
+      "url": "https://www.npr.org/2025/11/12/nx-s1-5604852/depression-unsung-hero",
       "published_at": "Wed, 12 Nov 2025 05:00:00 -0500",
       "bullets": [
-        "• The U.S",
-        "• military has repeatedly struck boats in the Caribbean Sea and Pacific Ocean",
-        "• President Trump and Defense Secretary Pete Hegseth have vowed to target \"narco-terrorists\" NPR compiled a list of these boat attacks using posts on Truth Social and X by the administration "
+        "• In 1978, when she was 21, Stacia was struggling with severe depression and attempted suicide",
+        "• A stranger's gentle acceptance gave her a way forward when she needed it most",
+        "• Stacia asked that NPR use only her middle name because she was sharing sensitive information about her mental health "
       ],
       "category": "General",
       "sentiment": {
-        "label": "negative",
-        "score": 0.996
+        "label": "positive",
+        "score": 0.853
       },
       "moods": {
         "brief_bullets": [
-          "• The U.S",
-          "• military has repeatedly struck boats in the Caribbean Sea and Pacific Ocean"
+          "• In 1978, when she was 21, Stacia was struggling with severe depression and attempted suicide",
+          "• A stranger's gentle acceptance gave her a way forward when she needed it most"
         ],
         "hopeful_bullets": [
-          "• The U.S",
-          "• military has repeatedly struck boats in the Caribbean Sea and Pacific Ocean"
+          "• In 1978, when she was 21, Stacia was struggling with severe depression and attempted suicide",
+          "• A stranger's gentle acceptance gave her a way forward when she needed it most"
         ],
         "stakes_bullets": [
-          "• The U.S",
-          "• military has repeatedly struck boats in the Caribbean Sea and Pacific Ocean",
-          "• President Trump and Defense Secretary Pete Hegseth have vowed to target \"narco-terrorists\" NPR compiled a list of these boat attacks using posts on Truth Social and X by the administration "
+          "• Stacia asked that NPR use only her middle name because she was sharing sensitive information about her mental health "
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "4c4bad5abe24"
-    },
-    {
-      "id": "fcd2548c761e",
-      "title": "Adelita Grijalva is set to be sworn in, teeing up a potential vote on Epstein files",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5606350/adelita-grijalva-swearing-in",
-      "published_at": "Wed, 12 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• Arizona Rep.-elect Adelita Grijalva is set to be sworn in on Wednesday",
-        "• House Speaker Mike Johnson is expected to administer the oath of office for the Arizona Democrat",
-        "• The move could set up a potential vote on the release of the Jeffrey Epstein files "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.516
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Arizona Rep.-elect Adelita Grijalva is set to be sworn in on Wednesday",
-          "• House Speaker Mike Johnson is expected to administer the oath of office for the Arizona Democrat"
-        ],
-        "hopeful_bullets": [
-          "• Arizona Rep.-elect Adelita Grijalva is set to be sworn in on Wednesday",
-          "• House Speaker Mike Johnson is expected to administer the oath of office for the Arizona Democrat"
-        ],
-        "stakes_bullets": [
-          "• House Speaker Mike Johnson is expected to administer the oath of office for the Arizona Democrat",
-          "• The move could set up a potential vote on the release of the Jeffrey Epstein files "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2f66e37b1280"
+      "read_minutes": 3,
+      "cluster_id": "9eda5fd91e0e"
     },
     {
       "id": "b97fb5197faf",
@@ -2884,39 +2951,6 @@
       "cluster_id": "cfbb41388719"
     },
     {
-      "id": "f3c214ef9b31",
-      "title": "One-third of museums lost government funding since Trump took office, survey says",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/11/museum-grants-contracts-trump",
-      "published_at": "Tue, 11 Nov 2025 23:58:27 GMT",
-      "bullets": [
-        "• One-third of US museums have lost government grants or contracts since Donald Trump took office, a new survey finds",
-        "• Two-thirds of the respondent museums reported that the lost funding has not been replaced by foundations, sponsors or donors",
-        "• A quarter of the museums that have lost federal funding have been forced to cancel or reduce programming for students, rural communities, individuals with disabilities, and the elderly "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• One-third of US museums have lost government grants or contracts since Donald Trump took office, a new survey finds",
-          "• Two-thirds of the respondent museums reported that the lost funding has not been replaced by foundations, sponsors or donors"
-        ],
-        "hopeful_bullets": [
-          "• A quarter of the museums that have lost federal funding have been forced to cancel or reduce programming for students, rural communities, individuals with disabilities, and the elderly "
-        ],
-        "stakes_bullets": [
-          "• One-third of US museums have lost government grants or contracts since Donald Trump took office, a new survey finds",
-          "• Two-thirds of the respondent museums reported that the lost funding has not been replaced by foundations, sponsors or donors",
-          "• A quarter of the museums that have lost federal funding have been forced to cancel or reduce programming for students, rural communities, individuals with disabilities, and the elderly "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "86726ebf7a3e"
-    },
-    {
       "id": "a02650e3b080",
       "title": "California governor calls Trump ‘an invasive species’ at Cop30 climate talks",
       "outlet": "US news | The Guardian",
@@ -3014,6 +3048,38 @@
       "cluster_id": "b9e8bd1b4abb"
     },
     {
+      "id": "9b3fda944fa4",
+      "title": "‘Alien: Earth’ Officially Renewed for a Second Season",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/tv/3914489/alien-earth-officially-renewed-for-a-second-season/",
+      "published_at": "Tue, 11 Nov 2025 23:37:59 +0000",
+      "bullets": [
+        "• ‘Alien: Earth’ has been renewed for a second season",
+        "• The first season of the series ended on a substantial cliffhanger earlier this year",
+        "• Production on Season 2 will begin in London in 2026, whereas the first season was shot in Thailand "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.896
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ‘Alien: Earth’ has been renewed for a second season",
+          "• The first season of the series ended on a substantial cliffhanger earlier this year"
+        ],
+        "hopeful_bullets": [
+          "• ‘Alien: Earth’ has been renewed for a second season",
+          "• The first season of the series ended on a substantial cliffhanger earlier this year"
+        ],
+        "stakes_bullets": [
+          "• Production on Season 2 will begin in London in 2026, whereas the first season was shot in Thailand "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "66b0314659f1"
+    },
+    {
       "id": "fc18819365cf",
       "title": "The Mac calculator’s original design came from letting Steve Jobs play with menus for ten minutes",
       "outlet": "Ars Technica - All content",
@@ -3046,70 +3112,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "1e76b7fc9aab"
-    },
-    {
-      "id": "70b7b488b305",
-      "title": "‘Fatal Frame II: Crimson Butterfly Remake’ Launches March 12 2026 [Trailer]",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/video-games/3914479/fatal-frame-ii-crimson-butterfly-remake-launches-march-12-2026-trailer/",
-      "published_at": "Tue, 11 Nov 2025 23:19:33 +0000",
-      "bullets": [
-        "• Koei Tecmo has announced that Fatal Frame II: Crimson Butterfly Remake will be released on March 12, 2026",
-        "• The game will be available on Nintendo Switch 2, PlayStation 5, Xbox Series, and PC via Steam",
-        "• The remake centers around twin sisters Mio and Mayu Amakura "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.89
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Koei Tecmo has announced that Fatal Frame II: Crimson Butterfly Remake will be released on March 12, 2026",
-          "• The game will be available on Nintendo Switch 2, PlayStation 5, Xbox Series, and PC via Steam"
-        ],
-        "hopeful_bullets": [
-          "• The remake centers around twin sisters Mio and Mayu Amakura "
-        ],
-        "stakes_bullets": [
-          "• Koei Tecmo has announced that Fatal Frame II: Crimson Butterfly Remake will be released on March 12, 2026",
-          "• The game will be available on Nintendo Switch 2, PlayStation 5, Xbox Series, and PC via Steam"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "16c7613280ff"
-    },
-    {
-      "id": "9dfc0970d66e",
-      "title": "Lawmakers just released a much-awaited crypto market structure bill. Here's what it means for digital assets and what comes next",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/11/five-takeaways-from-the-release-of-a-much-awaited-crypto-market-structure-bill.html",
-      "published_at": "Tue, 11 Nov 2025 23:10:08 GMT",
-      "bullets": [
-        "• The Senate Agriculture Committee released a draft of its portion of a much-awaited digital assets market structure bill",
-        "• The bipartisan discussion draft lays the groundwork for creating guardrails for the crypto industry in the U.S",
-        "• It also establishes guidelines for institutions that want to work with digital assets "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.887
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Senate Agriculture Committee released a draft of its portion of a much-awaited digital assets market structure bill",
-          "• The bipartisan discussion draft lays the groundwork for creating guardrails for the crypto industry in the U.S"
-        ],
-        "hopeful_bullets": [
-          "• The Senate Agriculture Committee released a draft of its portion of a much-awaited digital assets market structure bill",
-          "• The bipartisan discussion draft lays the groundwork for creating guardrails for the crypto industry in the U.S"
-        ],
-        "stakes_bullets": [
-          "• The Senate Agriculture Committee released a draft of its portion of a much-awaited digital assets market structure bill"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "342d28a1cd0c"
     },
     {
       "id": "c82ef124393a",
@@ -3211,40 +3213,6 @@
       "cluster_id": "5eedabf45541"
     },
     {
-      "id": "465cdaa0906d",
-      "title": "Four Screambox Movies to Stream This Week Including Dutch Splatterfest ‘Meat Kills’",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/screambox/3914455/screambox-fall-horror-season/",
-      "published_at": "Tue, 11 Nov 2025 22:07:58 +0000",
-      "bullets": [
-        "• Screambox has four great horror films to stream this week",
-        "• The gruesome Dutch horror film Meat Kills is the first to receive the 18+ rating",
-        "• Screambox readers get an exclusive Screambox introductory offer of three months for a total of $6.66 "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.955
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Screambox has four great horror films to stream this week",
-          "• The gruesome Dutch horror film Meat Kills is the first to receive the 18+ rating"
-        ],
-        "hopeful_bullets": [
-          "• Screambox has four great horror films to stream this week",
-          "• The gruesome Dutch horror film Meat Kills is the first to receive the 18+ rating"
-        ],
-        "stakes_bullets": [
-          "• Screambox has four great horror films to stream this week",
-          "• The gruesome Dutch horror film Meat Kills is the first to receive the 18+ rating",
-          "• Screambox readers get an exclusive Screambox introductory offer of three months for a total of $6.66 "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "5b3e4b15d0d3"
-    },
-    {
       "id": "e854abd3a664",
       "title": "The #1 Movie on Netflix Is a Haunting Guillermo del Toro Adaptation: “Spellbinding visuals and real emotion”",
       "outlet": "Dread Central",
@@ -3277,6 +3245,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "4e7e12a44f62"
+    },
+    {
+      "id": "8e518e146daf",
+      "title": "Airlines warn flight cancellations will continue even after shutdown ends",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/11/government-shutdown-flight-cancellation.html",
+      "published_at": "Tue, 11 Nov 2025 22:00:23 GMT",
+      "bullets": [
+        "• The Senate passed a bill that could end the government shutdown Monday night",
+        "• But the secretary of transportation says it won't be an immediate fix",
+        "• Air traffic controllers are required to work without their regular paychecks in the shutdown",
+        "• The Senate vote came as staffing shortages of air traffic controllers have worsened in recent days "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Senate passed a bill that could end the government shutdown Monday night",
+          "• But the secretary of transportation says it won't be an immediate fix"
+        ],
+        "hopeful_bullets": [
+          "• The Senate passed a bill that could end the government shutdown Monday night",
+          "• But the secretary of transportation says it won't be an immediate fix"
+        ],
+        "stakes_bullets": [
+          "• The Senate passed a bill that could end the government shutdown Monday night",
+          "• Air traffic controllers are required to work without their regular paychecks in the shutdown"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "8de6fc293075"
     },
     {
       "id": "372c6be8f6ea",
@@ -3542,40 +3544,6 @@
       "cluster_id": "aebd171297b6"
     },
     {
-      "id": "19a8112ba043",
-      "title": "‘Pretty Little Liars’ Actress Sasha Pieterse to Star in Corporate Retreat Horror Comedy ‘Offsite’",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3914448/pretty-little-liars-actress-sasha-pieterse-to-star-in-corporate-retreat-horror-comedy-offsite/",
-      "published_at": "Tue, 11 Nov 2025 21:21:27 +0000",
-      "bullets": [
-        "• 'Pretty Little Liars' actress Sasha Pieterse to star in horror comedy Offsite",
-        "• Indie film follows employees of a dysfunctional tech startup whose corporate retreat at a remote mansion spirals into chaos after a co-worker's mysterious death",
-        "• The ensemble cast also includes Danny Jolles, Lucas Zelnick, Madison Humphrey, Kyle Gordon, Julian Sewell, Simon Jones, Jay Jurden, and Matthew Broussard "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 'Pretty Little Liars' actress Sasha Pieterse to star in horror comedy Offsite",
-          "• Indie film follows employees of a dysfunctional tech startup whose corporate retreat at a remote mansion spirals into chaos after a co-worker's mysterious death"
-        ],
-        "hopeful_bullets": [
-          "• 'Pretty Little Liars' actress Sasha Pieterse to star in horror comedy Offsite",
-          "• Indie film follows employees of a dysfunctional tech startup whose corporate retreat at a remote mansion spirals into chaos after a co-worker's mysterious death"
-        ],
-        "stakes_bullets": [
-          "• 'Pretty Little Liars' actress Sasha Pieterse to star in horror comedy Offsite",
-          "• Indie film follows employees of a dysfunctional tech startup whose corporate retreat at a remote mansion spirals into chaos after a co-worker's mysterious death",
-          "• The ensemble cast also includes Danny Jolles, Lucas Zelnick, Madison Humphrey, Kyle Gordon, Julian Sewell, Simon Jones, Jay Jurden, and Matthew Broussard "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "ad368960a5e5"
-    },
-    {
       "id": "050ee682f330",
       "title": "Ryanair tries forcing app downloads by eliminating paper boarding passes",
       "outlet": "Ars Technica - All content",
@@ -3709,40 +3677,6 @@
       "cluster_id": "dcddd25d8741"
     },
     {
-      "id": "a703f501c136",
-      "title": "Tyler Posey to Direct & Star in Serial Killer Horror Comedy ‘Sober House’",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3914436/tyler-posey-to-direct-star-in-serial-killer-horror-comedy-sober-house/",
-      "published_at": "Tue, 11 Nov 2025 20:58:00 +0000",
-      "bullets": [
-        "• Tyler Posey is set to make his feature directorial debut on 'Sober House' The horror-thriller is a comedy with comedic elements",
-        "• The story follows three addicts who join a sober house to get clean",
-        "• The program’s most committed attendee is a recovering serial killer "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tyler Posey is set to make his feature directorial debut on 'Sober House' The horror-thriller is a comedy with comedic elements",
-          "• The story follows three addicts who join a sober house to get clean"
-        ],
-        "hopeful_bullets": [
-          "• Tyler Posey is set to make his feature directorial debut on 'Sober House' The horror-thriller is a comedy with comedic elements",
-          "• The story follows three addicts who join a sober house to get clean"
-        ],
-        "stakes_bullets": [
-          "• Tyler Posey is set to make his feature directorial debut on 'Sober House' The horror-thriller is a comedy with comedic elements",
-          "• The story follows three addicts who join a sober house to get clean",
-          "• The program’s most committed attendee is a recovering serial killer "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "886cda6bb683"
-    },
-    {
       "id": "0259eb1f5124",
       "title": "The Best Horror Remake Ever Made Just Hit the Criterion Channel: “Might be my favorite adaptation”",
       "outlet": "Dread Central",
@@ -3809,41 +3743,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "52a3fabcc67b"
-    },
-    {
-      "id": "0ab22036be05",
-      "title": "The Nike x Hyperice Hyperboot Is $200 Off",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/nike-hyperboots-deal-1125/",
-      "published_at": "Tue, 11 Nov 2025 20:42:48 +0000",
-      "bullets": [
-        "• The Nike x Hyperice Hyperboot is on sale for $699 through December 1",
-        "• The discount is part of Hyperice's Black Friday sale",
-        "• The boots are IP54 rated, meaning they're dust- and splash-resistant, but not waterproof",
-        "• The Hyperboots pack the same air compression tech as the Normatecs "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Nike x Hyperice Hyperboot is on sale for $699 through December 1",
-          "• The discount is part of Hyperice's Black Friday sale"
-        ],
-        "hopeful_bullets": [
-          "• The Nike x Hyperice Hyperboot is on sale for $699 through December 1",
-          "• The discount is part of Hyperice's Black Friday sale"
-        ],
-        "stakes_bullets": [
-          "• The Nike x Hyperice Hyperboot is on sale for $699 through December 1",
-          "• The discount is part of Hyperice's Black Friday sale",
-          "• The boots are IP54 rated, meaning they're dust- and splash-resistant, but not waterproof"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "21a8c7b6a877"
     },
     {
       "id": "d1dd91fea391",
@@ -3948,40 +3847,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "80a69efc7686"
-    },
-    {
-      "id": "a6b3d5080158",
-      "title": "‘The Decedent’ – ‘Onyx the Fortuitous’ Director Unleashes Found Footage Horror on Tubi",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/home-video/3914402/the-decedent-onyx-the-fortuitous-director-unleashes-found-footage-horror-on-tubi/",
-      "published_at": "Tue, 11 Nov 2025 20:08:55 +0000",
-      "bullets": [
-        "• Horror horror horror movie The Decedent is streaming for free on Tubi",
-        "• The film follows a young mortician who finds herself confronted with the supernatural as she works on the deceased body of a serial killer",
-        "• The 83-minute movie plays like The Autopsy of Jane Doe meets Paranormal Activity with a dash of Jason Goes to Hell "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Horror horror horror movie The Decedent is streaming for free on Tubi",
-          "• The film follows a young mortician who finds herself confronted with the supernatural as she works on the deceased body of a serial killer"
-        ],
-        "hopeful_bullets": [
-          "• Horror horror horror movie The Decedent is streaming for free on Tubi",
-          "• The film follows a young mortician who finds herself confronted with the supernatural as she works on the deceased body of a serial killer"
-        ],
-        "stakes_bullets": [
-          "• Horror horror horror movie The Decedent is streaming for free on Tubi",
-          "• The film follows a young mortician who finds herself confronted with the supernatural as she works on the deceased body of a serial killer",
-          "• The 83-minute movie plays like The Autopsy of Jane Doe meets Paranormal Activity with a dash of Jason Goes to Hell "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "33988315af68"
     },
     {
       "id": "b0a8d1bdee01",
@@ -4149,38 +4014,6 @@
       "cluster_id": "2c62471a0d8f"
     },
     {
-      "id": "b496edad91e0",
-      "title": "‘Partially Devoured’ – Book from Daniel Kraus Digs Deep into the Guts of Romero’s ‘Night of the Living Dead’",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/books/3914389/partially-devoured-new-book-from-daniel-kraus-digs-deep-into-the-guts-of-romeros-night-of-the-living-dead/",
-      "published_at": "Tue, 11 Nov 2025 19:35:00 +0000",
-      "bullets": [
-        "• Partially Devoured: How Night of the Living Dead is published on March 10, 2026",
-        "• The book explores the impact of the film's influence on the lives of people living in New York City",
-        "• It is the first time the film has been shown to be shown on a television screen "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Partially Devoured: How Night of the Living Dead is published on March 10, 2026",
-          "• The book explores the impact of the film's influence on the lives of people living in New York City"
-        ],
-        "hopeful_bullets": [
-          "• Partially Devoured: How Night of the Living Dead is published on March 10, 2026",
-          "• The book explores the impact of the film's influence on the lives of people living in New York City"
-        ],
-        "stakes_bullets": [
-          "• The book explores the impact of the film's influence on the lives of people living in New York City"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "ca3d5e882898"
-    },
-    {
       "id": "932cf461b8b0",
       "title": "Hayley Williams Adds More Shows to First-Ever Solo Tour",
       "outlet": "Music News",
@@ -4247,38 +4080,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "8cf4a025f734"
-    },
-    {
-      "id": "775dca9188b1",
-      "title": "‘Dorothy: The Haunting of Oz’ Images Reveal Horror Take on ‘The Wizard of Oz’ from Gen Z Filmmaker [Exclusive]",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/exclusives/3914376/dorothy-the-haunting-of-oz-images-reveal-horror-take-on-the-wizard-of-oz-from-gen-z-filmmaker-exclusive/",
-      "published_at": "Tue, 11 Nov 2025 19:16:04 +0000",
-      "bullets": [
-        "• The Wizard of Oz gets a contemporary horror makeover in Dorothy: The Haunting of Oz",
-        "• Set on Halloween night in Marin County, California, the film follows a group of college basketball players who are mercilessly preyed on by terrifying manifestations of Dorothy, the Wicked Witch of the West, the Tin Man, the Scarecrow and serial killer clowns "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Wizard of Oz gets a contemporary horror makeover in Dorothy: The Haunting of Oz",
-          "• Set on Halloween night in Marin County, California, the film follows a group of college basketball players who are mercilessly preyed on by terrifying manifestations of Dorothy, the Wicked Witch of the West, the Tin Man, the Scarecrow and serial killer clowns "
-        ],
-        "hopeful_bullets": [
-          "• The Wizard of Oz gets a contemporary horror makeover in Dorothy: The Haunting of Oz",
-          "• Set on Halloween night in Marin County, California, the film follows a group of college basketball players who are mercilessly preyed on by terrifying manifestations of Dorothy, the Wicked Witch of the West, the Tin Man, the Scarecrow and serial killer clowns "
-        ],
-        "stakes_bullets": [
-          "• The Wizard of Oz gets a contemporary horror makeover in Dorothy: The Haunting of Oz",
-          "• Set on Halloween night in Marin County, California, the film follows a group of college basketball players who are mercilessly preyed on by terrifying manifestations of Dorothy, the Wicked Witch of the West, the Tin Man, the Scarecrow and serial killer clowns "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "24d71049a686"
     },
     {
       "id": "d1b86f678fc0",
@@ -4375,37 +4176,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "e304de001d09"
-    },
-    {
-      "id": "3773314e35f7",
-      "title": "‘The Mother, The Menacer, and Me’ Trailer – Lorraine Bracco & Leah Remini Star in Bloody Comedy",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3914356/the-mother-the-menacer-and-me-trailer-lorraine-bracco-leah-remini-star-in-bloody-comedy/",
-      "published_at": "Tue, 11 Nov 2025 18:33:41 +0000",
-      "bullets": [
-        "• ‘The Mother, The Menacer, and Me’ will be released on Digital December 11",
-        "• The film is directed by John Defterios, who also stars in ‘Queen of the South’ and ‘Sopranos’"
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.89
-      },
-      "moods": {
-        "brief_bullets": [
-          "• ‘The Mother, The Menacer, and Me’ will be released on Digital December 11",
-          "• The film is directed by John Defterios, who also stars in ‘Queen of the South’ and ‘Sopranos’"
-        ],
-        "hopeful_bullets": [
-          "• ‘The Mother, The Menacer, and Me’ will be released on Digital December 11",
-          "• The film is directed by John Defterios, who also stars in ‘Queen of the South’ and ‘Sopranos’"
-        ],
-        "stakes_bullets": [
-          "• ‘The Mother, The Menacer, and Me’ will be released on Digital December 11"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "51c458533e08"
     },
     {
       "id": "591bbf60aaaa",
@@ -9440,6 +9210,24 @@
       ]
     },
     {
+      "id": "759a79654cc4",
+      "topic": "eagle pass texa trump",
+      "keywords": [
+        "eagle",
+        "pass",
+        "texa",
+        "trump",
+        "turned",
+        "voter"
+      ],
+      "item_ids": [
+        "dd0bbd159e10"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "be72d2129ed6",
       "topic": "actor allison mack nxivm",
       "keywords": [
@@ -9550,24 +9338,6 @@
       ]
     },
     {
-      "id": "86726ebf7a3e",
-      "topic": "funding government lost museum",
-      "keywords": [
-        "funding",
-        "government",
-        "lost",
-        "museum",
-        "since",
-        "third"
-      ],
-      "item_ids": [
-        "f3c214ef9b31"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "0fcbd27e3057",
       "topic": "california call governor invasive",
       "keywords": [
@@ -9640,6 +9410,42 @@
       ]
     },
     {
+      "id": "2f66e37b1280",
+      "topic": "adelita grijalva potential set",
+      "keywords": [
+        "adelita",
+        "grijalva",
+        "potential",
+        "set",
+        "sworn",
+        "teeing"
+      ],
+      "item_ids": [
+        "fcd2548c761e"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "4c4bad5abe24",
+      "topic": "alleged drug here many",
+      "keywords": [
+        "alleged",
+        "drug",
+        "here",
+        "many",
+        "strike",
+        "vessel"
+      ],
+      "item_ids": [
+        "88da72e73854"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "655a3ee4c67b",
       "topic": "google launche lawsuit message",
       "keywords": [
@@ -9676,24 +9482,6 @@
       ]
     },
     {
-      "id": "9eda5fd91e0e",
-      "topic": "again helped six start",
-      "keywords": [
-        "again",
-        "helped",
-        "six",
-        "start",
-        "want",
-        "word"
-      ],
-      "item_ids": [
-        "b828bec743e2"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "8b8e6df26daa",
       "topic": "bring day house impasse",
       "keywords": [
@@ -9712,36 +9500,18 @@
       ]
     },
     {
-      "id": "4c4bad5abe24",
-      "topic": "alleged drug here many",
+      "id": "9eda5fd91e0e",
+      "topic": "again helped six start",
       "keywords": [
-        "alleged",
-        "drug",
-        "here",
-        "many",
-        "strike",
-        "vessel"
+        "again",
+        "helped",
+        "six",
+        "start",
+        "want",
+        "word"
       ],
       "item_ids": [
-        "88da72e73854"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "2f66e37b1280",
-      "topic": "adelita grijalva potential set",
-      "keywords": [
-        "adelita",
-        "grijalva",
-        "potential",
-        "set",
-        "sworn",
-        "teeing"
-      ],
-      "item_ids": [
-        "fcd2548c761e"
+        "b828bec743e2"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9820,24 +9590,6 @@
       ]
     },
     {
-      "id": "96db6d241329",
-      "topic": "boosting cool expected india",
-      "keywords": [
-        "boosting",
-        "cool",
-        "expected",
-        "india",
-        "inflation",
-        "october"
-      ],
-      "item_ids": [
-        "37056d672925"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "74c90eb620df",
       "topic": "allie backer dozen here",
       "keywords": [
@@ -9850,24 +9602,6 @@
       ],
       "item_ids": [
         "4f9bdb1b84a9"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "a56b17039e19",
-      "topic": "data hold inflation jobs",
-      "keywords": [
-        "data",
-        "hold",
-        "inflation",
-        "jobs",
-        "put",
-        "shutdown"
-      ],
-      "item_ids": [
-        "1df44f31ae8f"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9892,6 +9626,42 @@
       ]
     },
     {
+      "id": "a56b17039e19",
+      "topic": "data hold inflation jobs",
+      "keywords": [
+        "data",
+        "hold",
+        "inflation",
+        "jobs",
+        "put",
+        "shutdown"
+      ],
+      "item_ids": [
+        "1df44f31ae8f"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "96db6d241329",
+      "topic": "boosting cool expected india",
+      "keywords": [
+        "boosting",
+        "cool",
+        "expected",
+        "india",
+        "inflation",
+        "october"
+      ],
+      "item_ids": [
+        "37056d672925"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "5e1de0b5ae5f",
       "topic": "ceo core coreweave say",
       "keywords": [
@@ -9910,18 +9680,18 @@
       ]
     },
     {
-      "id": "342d28a1cd0c",
-      "topic": "awaited crypto just lawmaker",
+      "id": "8de6fc293075",
+      "topic": "airline cancellation continue even",
       "keywords": [
-        "awaited",
-        "crypto",
-        "just",
-        "lawmaker",
-        "much",
-        "released"
+        "airline",
+        "cancellation",
+        "continue",
+        "even",
+        "flight",
+        "warn"
       ],
       "item_ids": [
-        "9dfc0970d66e"
+        "8e518e146daf"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9943,6 +9713,22 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "3775687ae390",
+      "topic": "agent all employee executive",
+      "keywords": [
+        "agent",
+        "all",
+        "employee",
+        "executive"
+      ],
+      "item_ids": [
+        "046f72012a78"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10096,23 +9882,6 @@
       ],
       "item_ids": [
         "53d04c214507"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "21a8c7b6a877",
-      "topic": "200 hyperboot hyperice nike",
-      "keywords": [
-        "200",
-        "hyperboot",
-        "hyperice",
-        "nike",
-        "off"
-      ],
-      "item_ids": [
-        "0ab22036be05"
       ],
       "outlets": [
         "WIRED"
@@ -11530,72 +11299,18 @@
       ]
     },
     {
-      "id": "16c7613280ff",
-      "topic": "butterfly crimson fatal frame",
+      "id": "66b0314659f1",
+      "topic": "alien earth officially renewed",
       "keywords": [
-        "butterfly",
-        "crimson",
-        "fatal",
-        "frame",
-        "launche",
-        "remake"
+        "alien",
+        "earth",
+        "officially",
+        "renewed",
+        "season",
+        "second"
       ],
       "item_ids": [
-        "70b7b488b305"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "5b3e4b15d0d3",
-      "topic": "four including movie screambox",
-      "keywords": [
-        "four",
-        "including",
-        "movie",
-        "screambox",
-        "stream",
-        "week"
-      ],
-      "item_ids": [
-        "465cdaa0906d"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "ad368960a5e5",
-      "topic": "actres liar little pieterse",
-      "keywords": [
-        "actres",
-        "liar",
-        "little",
-        "pieterse",
-        "pretty",
-        "sasha"
-      ],
-      "item_ids": [
-        "19a8112ba043"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "886cda6bb683",
-      "topic": "direct killer posey serial",
-      "keywords": [
-        "direct",
-        "killer",
-        "posey",
-        "serial",
-        "star",
-        "tyler"
-      ],
-      "item_ids": [
-        "a703f501c136"
+        "9b3fda944fa4"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -11614,78 +11329,6 @@
       ],
       "item_ids": [
         "59562376e386"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "33988315af68",
-      "topic": "decedent director fortuitou found",
-      "keywords": [
-        "decedent",
-        "director",
-        "fortuitou",
-        "found",
-        "onyx",
-        "unleashe"
-      ],
-      "item_ids": [
-        "a6b3d5080158"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "ca3d5e882898",
-      "topic": "book daniel devoured digs",
-      "keywords": [
-        "book",
-        "daniel",
-        "devoured",
-        "digs",
-        "krau",
-        "partially"
-      ],
-      "item_ids": [
-        "b496edad91e0"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "24d71049a686",
-      "topic": "dorothy haunting horror image",
-      "keywords": [
-        "dorothy",
-        "haunting",
-        "horror",
-        "image",
-        "reveal",
-        "take"
-      ],
-      "item_ids": [
-        "775dca9188b1"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "51c458533e08",
-      "topic": "bracco leah lorraine menacer",
-      "keywords": [
-        "bracco",
-        "leah",
-        "lorraine",
-        "menacer",
-        "mother",
-        "trailer"
-      ],
-      "item_ids": [
-        "3773314e35f7"
       ],
       "outlets": [
         "Bloody Disgusting!"
