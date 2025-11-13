@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-13T11:23:25Z",
+  "generated_at": "2025-11-13T11:49:55Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -139,6 +139,39 @@
       "cluster_id": "4d68b7d6cb41"
     },
     {
+      "id": "57cc18deb500",
+      "title": "US House begins voting on bill that could end longest ever government shutdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/12/house-vote-shutdown-bill",
+      "published_at": "Wed, 12 Nov 2025 23:45:21 GMT",
+      "bullets": [
+        "• House returns to Washington to vote after more than 50-day absence from Washington",
+        "• The bill would end the longest government shutdown in US history",
+        "• Democrats are furious that the Senate-brokered compromise does not extend healthcare subsidies",
+        "• The measure's passage would be welcome news for the White House, which is looking to end shutdown "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.956
+      },
+      "moods": {
+        "brief_bullets": [
+          "• House returns to Washington to vote after more than 50-day absence from Washington",
+          "• The bill would end the longest government shutdown in US history"
+        ],
+        "hopeful_bullets": [
+          "• House returns to Washington to vote after more than 50-day absence from Washington",
+          "• The bill would end the longest government shutdown in US history"
+        ],
+        "stakes_bullets": [
+          "• The bill would end the longest government shutdown in US history"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "fd546abb27ef"
+    },
+    {
       "id": "e8d9a33297b4",
       "title": "Scary New Charli xcx Song ‘House’ Goes Viral on TikTok With Killer Horror Movie Edits [Video]",
       "outlet": "Dread Central",
@@ -235,38 +268,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "fcd8dc4cd576"
-    },
-    {
-      "id": "2b7a0b8e5539",
-      "title": "Elon Musk’s Grok AI briefly says Trump won 2020 presidential election",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/12/elon-musk-grok-ai-trump-2020-presidential-election",
-      "published_at": "Wed, 12 Nov 2025 23:22:47 GMT",
-      "bullets": [
-        "• Elon Musk’s Grok chatbot generated false claims this week that Donald Trump won the 2020 presidential election",
-        "• The AI chatbot was created by Musk's xAI artificial intelligence company and automatically responds to users on X (formerly Twitter) When prompted, Grok generated responses such as “I believe Donald Trump” in response to user questions about the vote "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Elon Musk’s Grok chatbot generated false claims this week that Donald Trump won the 2020 presidential election",
-          "• The AI chatbot was created by Musk's xAI artificial intelligence company and automatically responds to users on X (formerly Twitter) When prompted, Grok generated responses such as “I believe Donald Trump” in response to user questions about the vote "
-        ],
-        "hopeful_bullets": [
-          "• Elon Musk’s Grok chatbot generated false claims this week that Donald Trump won the 2020 presidential election",
-          "• The AI chatbot was created by Musk's xAI artificial intelligence company and automatically responds to users on X (formerly Twitter) When prompted, Grok generated responses such as “I believe Donald Trump” in response to user questions about the vote "
-        ],
-        "stakes_bullets": [
-          "• Elon Musk’s Grok chatbot generated false claims this week that Donald Trump won the 2020 presidential election",
-          "• The AI chatbot was created by Musk's xAI artificial intelligence company and automatically responds to users on X (formerly Twitter) When prompted, Grok generated responses such as “I believe Donald Trump” in response to user questions about the vote "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4df62687b7a0"
     },
     {
       "id": "5e54ca124b36",
@@ -1467,6 +1468,38 @@
       "cluster_id": "e8c5a056aca6"
     },
     {
+      "id": "ce017cbd110f",
+      "title": "Skims valued at $5 billion after new funding round as it accelerates store expansion",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/skims-5-billion-valuation-funding-round.html",
+      "published_at": "Wed, 12 Nov 2025 20:06:38 GMT",
+      "bullets": [
+        "• Kim Kardashian's Skims brand has raised $225 million in new funding",
+        "• Goldman Sachs Alternatives, BDT & MSD Partners' affiliated funds also joined the round",
+        "• Skims plans to use the new capital to accelerate brick-and-mortar and international expansion "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.974
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kim Kardashian's Skims brand has raised $225 million in new funding",
+          "• Goldman Sachs Alternatives, BDT & MSD Partners' affiliated funds also joined the round"
+        ],
+        "hopeful_bullets": [
+          "• Kim Kardashian's Skims brand has raised $225 million in new funding",
+          "• Goldman Sachs Alternatives, BDT & MSD Partners' affiliated funds also joined the round"
+        ],
+        "stakes_bullets": [
+          "• Skims plans to use the new capital to accelerate brick-and-mortar and international expansion "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b5eb7ccafeec"
+    },
+    {
       "id": "48a62a790431",
       "title": "U.S. bishops officially ban gender-affirming care at Catholic hospitals",
       "outlet": "NPR Topics: News",
@@ -1804,40 +1837,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "87585ccfe048"
-    },
-    {
-      "id": "405ae9a62446",
-      "title": "Anthropic’s Claude Takes Control of a Robot Dog",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/anthropic-claude-takes-control-robot-dog/",
-      "published_at": "Wed, 12 Nov 2025 19:00:00 +0000",
-      "bullets": [
-        "• Anthropic researchers found that large language models were able to take control of a robot dog",
-        "• The findings show the agentic coding abilities of modern AI models",
-        "• Anthropic was founded in 2021 by former OpenAI staffers who believed that AI might become problematic "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.895
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Anthropic researchers found that large language models were able to take control of a robot dog",
-          "• The findings show the agentic coding abilities of modern AI models"
-        ],
-        "hopeful_bullets": [
-          "• Anthropic researchers found that large language models were able to take control of a robot dog",
-          "• The findings show the agentic coding abilities of modern AI models"
-        ],
-        "stakes_bullets": [
-          "• Anthropic researchers found that large language models were able to take control of a robot dog",
-          "• The findings show the agentic coding abilities of modern AI models",
-          "• Anthropic was founded in 2021 by former OpenAI staffers who believed that AI might become problematic "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "b7e88d9c9295"
     },
     {
       "id": "c8da30649eab",
@@ -2498,40 +2497,6 @@
       "cluster_id": "02a41970ddd2"
     },
     {
-      "id": "4fc237b9ceb4",
-      "title": "Anthropic to spend $50 billion on U.S. AI infrastructure, starting with Texas, New York data centers",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/anthropic-ai-data-centers-texas-new-york.html",
-      "published_at": "Wed, 12 Nov 2025 17:44:34 GMT",
-      "bullets": [
-        "• Anthropic will spend $50 billion on a U.S",
-        "• artificial intelligence infrastructure build-out",
-        "• The facilities will be designed to support the company's rapid enterprise growth",
-        "• The project is expected to create 800 permanent jobs and more than 2,000 construction roles "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Anthropic will spend $50 billion on a U.S",
-          "• artificial intelligence infrastructure build-out"
-        ],
-        "hopeful_bullets": [
-          "• The facilities will be designed to support the company's rapid enterprise growth"
-        ],
-        "stakes_bullets": [
-          "• Anthropic will spend $50 billion on a U.S",
-          "• The facilities will be designed to support the company's rapid enterprise growth",
-          "• The project is expected to create 800 permanent jobs and more than 2,000 construction roles "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "9bfef7e26dc7"
-    },
-    {
       "id": "5446884e1c5a",
       "title": "House Oversight Committee member talks about emails that appear to tie Epstein to Trump",
       "outlet": "NPR Topics: Politics",
@@ -2564,70 +2529,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "f872c1551bba"
-    },
-    {
-      "id": "56b863ebd755",
-      "title": "The AI Boom Is Fueling a Need for Speed in Chip Networking",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/ai-boom-networking-technology-photonics/",
-      "published_at": "Wed, 12 Nov 2025 17:00:00 +0000",
-      "bullets": [
-        "• Chip makers are ramping up innovation around the technology that connects chips to other chips",
-        "• In the AI boom, some companies are seeking new networking approaches that help them speed up data centers",
-        "• Photonics, or photonics, is having a coming-of-age moment "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Chip makers are ramping up innovation around the technology that connects chips to other chips",
-          "• In the AI boom, some companies are seeking new networking approaches that help them speed up data centers"
-        ],
-        "hopeful_bullets": [
-          "• In the AI boom, some companies are seeking new networking approaches that help them speed up data centers"
-        ],
-        "stakes_bullets": [
-          "• Chip makers are ramping up innovation around the technology that connects chips to other chips",
-          "• In the AI boom, some companies are seeking new networking approaches that help them speed up data centers",
-          "• Photonics, or photonics, is having a coming-of-age moment "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "13cf399a9829"
-    },
-    {
-      "id": "58df39abdccb",
-      "title": "New malaria drug could be a life-saver as the standard drug shows signs of weakness",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/goats-and-soda/2025/11/12/g-s1-97487/malaria-drug-new",
-      "published_at": "Wed, 12 Nov 2025 16:59:52 -0500",
-      "bullets": [
-        "• New malaria drug could be a life-saver as the standard drug shows signs of weakness",
-        "• At the turn of the millennium, a new class of drugs derived from ancient Chinese herbal medicine revolutionized malaria care",
-        "• Artemisinins have saved millions of lives since then and are now the foundation of malaria treatment worldwide "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.824
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New malaria drug could be a life-saver as the standard drug shows signs of weakness",
-          "• At the turn of the millennium, a new class of drugs derived from ancient Chinese herbal medicine revolutionized malaria care"
-        ],
-        "hopeful_bullets": [
-          "• Artemisinins have saved millions of lives since then and are now the foundation of malaria treatment worldwide "
-        ],
-        "stakes_bullets": [
-          "• New malaria drug could be a life-saver as the standard drug shows signs of weakness"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5d4654af8018"
     },
     {
       "id": "cb60b69c6af7",
@@ -4706,6 +4607,200 @@
       "cluster_id": "888b1e315600"
     },
     {
+      "id": "4ad215851963",
+      "title": "US government reopens after shutdown with House to vote on Epstein files next week – politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/13/donald-trump-jeffrey-epstein-files-us-government-shutdown-latest-news-updates",
+      "published_at": "Thu, 13 Nov 2025 11:12:23 GMT",
+      "bullets": [
+        "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week",
+        "• Johnson made the announcement just hours after swearing in Arizona Democrat Adelita Grijalva, who took her oath of office seven weeks after she won a late September special election "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.884
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week",
+          "• Johnson made the announcement just hours after swearing in Arizona Democrat Adelita Grijalva, who took her oath of office seven weeks after she won a late September special election "
+        ],
+        "hopeful_bullets": [
+          "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week",
+          "• Johnson made the announcement just hours after swearing in Arizona Democrat Adelita Grijalva, who took her oath of office seven weeks after she won a late September special election "
+        ],
+        "stakes_bullets": [
+          "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week"
+        ]
+      },
+      "read_minutes": 12,
+      "cluster_id": "2f064a8782e8"
+    },
+    {
+      "id": "196e65929b92",
+      "title": "PC gaming giant Valve unveils new  console to rival Xbox and PlayStation",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd679n9lnx5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 13 Nov 2025 11:04:12 GMT",
+      "bullets": [
+        "• PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
+        "• The Steam Machine is a home console designed to allow gamers to play PC games on their TV",
+        "• It is a spiritual sequel to the 2014 device of the same name, which failed to break into the market "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
+          "• The Steam Machine is a home console designed to allow gamers to play PC games on their TV"
+        ],
+        "hopeful_bullets": [
+          "• PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
+          "• The Steam Machine is a home console designed to allow gamers to play PC games on their TV"
+        ],
+        "stakes_bullets": [
+          "• PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
+          "• The Steam Machine is a home console designed to allow gamers to play PC games on their TV",
+          "• It is a spiritual sequel to the 2014 device of the same name, which failed to break into the market "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "cedd033dc983"
+    },
+    {
+      "id": "3f99e04a95f9",
+      "title": "Jackrabbit MG Doble Review: Powerful, But Not Bike Path Legal",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/review/jackrabbit-mg-doble/",
+      "published_at": "Thu, 13 Nov 2025 11:02:00 +0000",
+      "bullets": [
+        "• About the size of a Schwinn Stingray, it looks like a toy on steroids",
+        "• The 52-pound MG Doble has a capacity to haul up to 325 pounds",
+        "• It has a 749-watt motor; two easy-to-charge batteries that live on the outside of the down tube with a combined total of 720-Wh "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• About the size of a Schwinn Stingray, it looks like a toy on steroids",
+          "• The 52-pound MG Doble has a capacity to haul up to 325 pounds"
+        ],
+        "hopeful_bullets": [
+          "• About the size of a Schwinn Stingray, it looks like a toy on steroids"
+        ],
+        "stakes_bullets": [
+          "• About the size of a Schwinn Stingray, it looks like a toy on steroids",
+          "• The 52-pound MG Doble has a capacity to haul up to 325 pounds",
+          "• It has a 749-watt motor; two easy-to-charge batteries that live on the outside of the down tube with a combined total of 720-Wh "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "58bf14678a9c"
+    },
+    {
+      "id": "acd035916399",
+      "title": "Over 200 Kenyans fighting for Russia in Ukraine - minister",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cddrj3mzgz2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 13 Nov 2025 11:01:48 GMT",
+      "bullets": [
+        "• Over 200 Kenyans are fighting for Russia in its war against Ukraine, minister says",
+        "• About 1,400 citizens from across Africa are fighting alongside Russian forces in Ukraine",
+        "• Some of those who have been forced to assemble drones without proper training or protective gear "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.894
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Over 200 Kenyans are fighting for Russia in its war against Ukraine, minister says",
+          "• About 1,400 citizens from across Africa are fighting alongside Russian forces in Ukraine"
+        ],
+        "hopeful_bullets": [
+          "• Over 200 Kenyans are fighting for Russia in its war against Ukraine, minister says"
+        ],
+        "stakes_bullets": [
+          "• Over 200 Kenyans are fighting for Russia in its war against Ukraine, minister says",
+          "• About 1,400 citizens from across Africa are fighting alongside Russian forces in Ukraine",
+          "• Some of those who have been forced to assemble drones without proper training or protective gear "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3acbe4f0eda5"
+    },
+    {
+      "id": "31baa464fa8a",
+      "title": "‘MigraWatch’ trainings to ‘Whistlemania’ events: Chicagoans fight back against ICE raids",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/13/chicago-fight-ice-raids",
+      "published_at": "Thu, 13 Nov 2025 11:00:41 GMT",
+      "bullets": [
+        "• ICE and Customs and Border Protection agents have been raiding almost every part of Chicago in the Trump administration’s wide-ranging “operation midway blitz” The National Center for Immigrant Justice and Illinois Coalition on Immigrant and Refugee Rights estimated that about 1,300 people have been illegally detained",
+        "• Chicagoans are organizing to protect life in a city defined by the many waves of immigration "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.961
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ICE and Customs and Border Protection agents have been raiding almost every part of Chicago in the Trump administration’s wide-ranging “operation midway blitz” The National Center for Immigrant Justice and Illinois Coalition on Immigrant and Refugee Rights estimated that about 1,300 people have been illegally detained",
+          "• Chicagoans are organizing to protect life in a city defined by the many waves of immigration "
+        ],
+        "hopeful_bullets": [
+          "• ICE and Customs and Border Protection agents have been raiding almost every part of Chicago in the Trump administration’s wide-ranging “operation midway blitz” The National Center for Immigrant Justice and Illinois Coalition on Immigrant and Refugee Rights estimated that about 1,300 people have been illegally detained",
+          "• Chicagoans are organizing to protect life in a city defined by the many waves of immigration "
+        ],
+        "stakes_bullets": [
+          "• ICE and Customs and Border Protection agents have been raiding almost every part of Chicago in the Trump administration’s wide-ranging “operation midway blitz” The National Center for Immigrant Justice and Illinois Coalition on Immigrant and Refugee Rights estimated that about 1,300 people have been illegally detained",
+          "• Chicagoans are organizing to protect life in a city defined by the many waves of immigration "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "454198575365"
+    },
+    {
+      "id": "7ca5ac9ef937",
+      "title": "OpenAI’s Open-Weight Models Are Coming to the US Military",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/open-ai-artificial-intelligence-open-weight-model/",
+      "published_at": "Thu, 13 Nov 2025 11:00:00 +0000",
+      "bullets": [
+        "• OpenAI's return to the open-source market could lead to better performing systems for militaries, health care companies, and others",
+        "• The ChatGPT maker’s new open-weight models can run locally, meaning users have the freedom to install them on their own devices without needing a cloud connection "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.651
+      },
+      "moods": {
+        "brief_bullets": [
+          "• OpenAI's return to the open-source market could lead to better performing systems for militaries, health care companies, and others",
+          "• The ChatGPT maker’s new open-weight models can run locally, meaning users have the freedom to install them on their own devices without needing a cloud connection "
+        ],
+        "hopeful_bullets": [
+          "• OpenAI's return to the open-source market could lead to better performing systems for militaries, health care companies, and others",
+          "• The ChatGPT maker’s new open-weight models can run locally, meaning users have the freedom to install them on their own devices without needing a cloud connection "
+        ],
+        "stakes_bullets": [
+          "• OpenAI's return to the open-source market could lead to better performing systems for militaries, health care companies, and others"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "d45cd2d6381b"
+    },
+    {
       "id": "e743bf54230b",
       "title": "How building a new hospital cost this rural Texas town a place to deliver babies",
       "outlet": "The Texas Tribune",
@@ -4737,71 +4832,6 @@
       },
       "read_minutes": 15,
       "cluster_id": "b5fcf41f89de"
-    },
-    {
-      "id": "4ad215851963",
-      "title": "US government reopens after shutdown with House to vote on Epstein files next week – politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/nov/13/donald-trump-jeffrey-epstein-files-us-government-shutdown-latest-news-updates",
-      "published_at": "Thu, 13 Nov 2025 10:39:18 GMT",
-      "bullets": [
-        "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week",
-        "• Johnson made the announcement just hours after swearing in Arizona Democrat Adelita Grijalva, who took her oath of office seven weeks after she won a late September special election "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.884
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week",
-          "• Johnson made the announcement just hours after swearing in Arizona Democrat Adelita Grijalva, who took her oath of office seven weeks after she won a late September special election "
-        ],
-        "hopeful_bullets": [
-          "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week",
-          "• Johnson made the announcement just hours after swearing in Arizona Democrat Adelita Grijalva, who took her oath of office seven weeks after she won a late September special election "
-        ],
-        "stakes_bullets": [
-          "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week"
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "2f064a8782e8"
-    },
-    {
-      "id": "196e65929b92",
-      "title": "PC gaming giant Valve unveils new  console to rival Xbox and PlayStation",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd679n9lnx5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 13 Nov 2025 10:08:06 GMT",
-      "bullets": [
-        "• PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
-        "• The Steam Machine is a home console designed to allow gamers to play PC games on their TV",
-        "• It is a spiritual sequel to the 2014 device of the same name, which failed to break into the market "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
-          "• The Steam Machine is a home console designed to allow gamers to play PC games on their TV"
-        ],
-        "hopeful_bullets": [
-          "• PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
-          "• The Steam Machine is a home console designed to allow gamers to play PC games on their TV"
-        ],
-        "stakes_bullets": [
-          "• PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
-          "• The Steam Machine is a home console designed to allow gamers to play PC games on their TV",
-          "• It is a spiritual sequel to the 2014 device of the same name, which failed to break into the market "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "cedd033dc983"
     },
     {
       "id": "fa9d574f24a8",
@@ -5063,40 +5093,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "994fcceb4d46"
-    },
-    {
-      "id": "def296bfa9c3",
-      "title": "South Sudan leader sacks powerful Vice-President Bol Mel",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceq0e7q7vl8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 13 Nov 2025 08:14:07 GMT",
-      "bullets": [
-        "• Benjamin Bol Mel, 47, was appointed vice-president in February, replacing James Wani Igga",
-        "• He was promoted to the full rank of a general in the National Security Service",
-        "• The US Treasury described Bol Mel as Kiir's \"principal financial advisor\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Benjamin Bol Mel, 47, was appointed vice-president in February, replacing James Wani Igga",
-          "• He was promoted to the full rank of a general in the National Security Service"
-        ],
-        "hopeful_bullets": [
-          "• Benjamin Bol Mel, 47, was appointed vice-president in February, replacing James Wani Igga",
-          "• He was promoted to the full rank of a general in the National Security Service"
-        ],
-        "stakes_bullets": [
-          "• Benjamin Bol Mel, 47, was appointed vice-president in February, replacing James Wani Igga",
-          "• He was promoted to the full rank of a general in the National Security Service",
-          "• The US Treasury described Bol Mel as Kiir's \"principal financial advisor\""
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d31ebf580f36"
     },
     {
       "id": "86b0ca75d0bb",
@@ -5366,6 +5362,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "73ee2827e9c2"
+    },
+    {
+      "id": "63e0833bd524",
+      "title": "'We need to get out of here': Trump's immigration crackdown is quietly reshaping where immigrants live in America",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/13/nx-s1-5592335/we-need-to-get-out-of-here-trumps-immigration-crackdown-is-quietly-reshaping-where-immigrants-live-in-america",
+      "published_at": "Thu, 13 Nov 2025 06:00:00 -0500",
+      "bullets": [
+        "• Under the Trump administration's crackdown on undocumented immigrants, many are deciding to hide in place, while others are self-deporting",
+        "• But anecdotal evidence that people are relocating, from cities with aggressive immigration enforcement to places with fewer raids, where they feel safer "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.943
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Under the Trump administration's crackdown on undocumented immigrants, many are deciding to hide in place, while others are self-deporting",
+          "• But anecdotal evidence that people are relocating, from cities with aggressive immigration enforcement to places with fewer raids, where they feel safer "
+        ],
+        "hopeful_bullets": [
+          "• Under the Trump administration's crackdown on undocumented immigrants, many are deciding to hide in place, while others are self-deporting",
+          "• But anecdotal evidence that people are relocating, from cities with aggressive immigration enforcement to places with fewer raids, where they feel safer "
+        ],
+        "stakes_bullets": [
+          "• Under the Trump administration's crackdown on undocumented immigrants, many are deciding to hide in place, while others are self-deporting",
+          "• But anecdotal evidence that people are relocating, from cities with aggressive immigration enforcement to places with fewer raids, where they feel safer "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "17246cac5b60"
     },
     {
       "id": "cd11cfa9a0dd",
@@ -6633,40 +6661,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "60d2ceb0e1fe"
-    },
-    {
-      "id": "60f1fb7c82ce",
-      "title": "Arizona’s Adelita Grijalva sworn in after seven weeks in move that triggers Epstein vote",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/12/adelita-grijalva-arizona-swearing-in",
-      "published_at": "Thu, 13 Nov 2025 00:18:04 GMT",
-      "bullets": [
-        "• Adelita Grijalva was sworn in by Mike Johnson, the US House speaker, on Wednesday",
-        "• The House was already out of session when she won a late September special election to succeed her father, the longtime representative",
-        "• Johnson kept the House in recess as a tactic to pressure Senate Democrats to compromise with Republicans on government funding "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Adelita Grijalva was sworn in by Mike Johnson, the US House speaker, on Wednesday",
-          "• The House was already out of session when she won a late September special election to succeed her father, the longtime representative"
-        ],
-        "hopeful_bullets": [
-          "• Adelita Grijalva was sworn in by Mike Johnson, the US House speaker, on Wednesday",
-          "• The House was already out of session when she won a late September special election to succeed her father, the longtime representative"
-        ],
-        "stakes_bullets": [
-          "• Adelita Grijalva was sworn in by Mike Johnson, the US House speaker, on Wednesday",
-          "• The House was already out of session when she won a late September special election to succeed her father, the longtime representative",
-          "• Johnson kept the House in recess as a tactic to pressure Senate Democrats to compromise with Republicans on government funding "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8bdfd29b8d8e"
     },
     {
       "id": "fe447758d910",
@@ -9282,6 +9276,24 @@
       ]
     },
     {
+      "id": "3acbe4f0eda5",
+      "topic": "200 fighting kenyan minister",
+      "keywords": [
+        "200",
+        "fighting",
+        "kenyan",
+        "minister",
+        "russia",
+        "ukraine"
+      ],
+      "item_ids": [
+        "acd035916399"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "60dae47c1459",
       "topic": "action call cut international",
       "keywords": [
@@ -9300,24 +9312,6 @@
       ]
     },
     {
-      "id": "72dfe02c3b1d",
-      "topic": "brand hits kardashian kim",
-      "keywords": [
-        "brand",
-        "hits",
-        "kardashian",
-        "kim",
-        "shapewear",
-        "skim"
-      ],
-      "item_ids": [
-        "7474f1199b1f"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "cedd033dc983",
       "topic": "console gaming giant rival",
       "keywords": [
@@ -9330,6 +9324,24 @@
       ],
       "item_ids": [
         "196e65929b92"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "72dfe02c3b1d",
+      "topic": "brand hits kardashian kim",
+      "keywords": [
+        "brand",
+        "hits",
+        "kardashian",
+        "kim",
+        "shapewear",
+        "skim"
+      ],
+      "item_ids": [
+        "7474f1199b1f"
       ],
       "outlets": [
         "BBC News"
@@ -9366,24 +9378,6 @@
       ],
       "item_ids": [
         "1b839402c9ac"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "d31ebf580f36",
-      "topic": "leader powerful sack south",
-      "keywords": [
-        "leader",
-        "powerful",
-        "sack",
-        "south",
-        "sudan",
-        "vice"
-      ],
-      "item_ids": [
-        "def296bfa9c3"
       ],
       "outlets": [
         "BBC News"
@@ -9588,6 +9582,24 @@
       ]
     },
     {
+      "id": "454198575365",
+      "topic": "chicagoan event fight migrawatch",
+      "keywords": [
+        "chicagoan",
+        "event",
+        "fight",
+        "migrawatch",
+        "training",
+        "whistlemania"
+      ],
+      "item_ids": [
+        "31baa464fa8a"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "281d1ec725da",
       "topic": "email epstein kept newly",
       "keywords": [
@@ -9714,39 +9726,39 @@
       ]
     },
     {
-      "id": "8bdfd29b8d8e",
-      "topic": "adelita arizona grijalva seven",
+      "id": "fd546abb27ef",
+      "topic": "begin bill end house",
       "keywords": [
-        "adelita",
-        "arizona",
-        "grijalva",
-        "seven",
-        "sworn",
-        "week"
+        "begin",
+        "bill",
+        "end",
+        "house",
+        "longest",
+        "voting"
       ],
       "item_ids": [
-        "60f1fb7c82ce"
+        "57cc18deb500"
       ],
       "outlets": [
         "US news | The Guardian"
       ]
     },
     {
-      "id": "4df62687b7a0",
-      "topic": "briefly elon grok musk",
+      "id": "17246cac5b60",
+      "topic": "get here immigration need",
       "keywords": [
-        "briefly",
-        "elon",
-        "grok",
-        "musk",
-        "trump",
-        "won"
+        "get",
+        "here",
+        "immigration",
+        "need",
+        "out",
+        "trump"
       ],
       "item_ids": [
-        "2b7a0b8e5539"
+        "63e0833bd524"
       ],
       "outlets": [
-        "US news | The Guardian"
+        "NPR Topics: News"
       ]
     },
     {
@@ -9911,24 +9923,6 @@
       ]
     },
     {
-      "id": "5d4654af8018",
-      "topic": "drug life malaria saver",
-      "keywords": [
-        "drug",
-        "life",
-        "malaria",
-        "saver",
-        "show",
-        "standard"
-      ],
-      "item_ids": [
-        "58df39abdccb"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "7e160ffad258",
       "topic": "bill ends funding government",
       "keywords": [
@@ -9941,6 +9935,24 @@
       ],
       "item_ids": [
         "7b696a90f2af"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "91b44a869f26",
+      "topic": "before disney earning expect",
+      "keywords": [
+        "before",
+        "disney",
+        "earning",
+        "expect",
+        "here",
+        "report"
+      ],
+      "item_ids": [
+        "3f5e21eca97a"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9983,18 +9995,18 @@
       ]
     },
     {
-      "id": "91b44a869f26",
-      "topic": "before disney earning expect",
+      "id": "83863f0305e3",
+      "topic": "backlash electricity fuel political",
       "keywords": [
-        "before",
-        "disney",
-        "earning",
-        "expect",
-        "here",
-        "report"
+        "backlash",
+        "electricity",
+        "fuel",
+        "political",
+        "price",
+        "skyrocketing"
       ],
       "item_ids": [
-        "3f5e21eca97a"
+        "2645dc33f445"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10019,24 +10031,6 @@
       ]
     },
     {
-      "id": "83863f0305e3",
-      "topic": "backlash electricity fuel political",
-      "keywords": [
-        "backlash",
-        "electricity",
-        "fuel",
-        "political",
-        "price",
-        "skyrocketing"
-      ],
-      "item_ids": [
-        "2645dc33f445"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "c69c2fb3100f",
       "topic": "ceo explain fanduel flutter",
       "keywords": [
@@ -10049,24 +10043,6 @@
       ],
       "item_ids": [
         "5c8ad107094e"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "9bfef7e26dc7",
-      "topic": "anthropic billion infrastructure spend",
-      "keywords": [
-        "anthropic",
-        "billion",
-        "infrastructure",
-        "spend",
-        "starting",
-        "texa"
-      ],
-      "item_ids": [
-        "4fc237b9ceb4"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10091,6 +10067,24 @@
       ]
     },
     {
+      "id": "b5eb7ccafeec",
+      "topic": "accelerate billion funding round",
+      "keywords": [
+        "accelerate",
+        "billion",
+        "funding",
+        "round",
+        "skim",
+        "valued"
+      ],
+      "item_ids": [
+        "ce017cbd110f"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "60d2ceb0e1fe",
       "topic": "announce epstein file house",
       "keywords": [
@@ -10106,6 +10100,42 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "58bf14678a9c",
+      "topic": "bike doble jackrabbit path",
+      "keywords": [
+        "bike",
+        "doble",
+        "jackrabbit",
+        "path",
+        "powerful",
+        "review"
+      ],
+      "item_ids": [
+        "3f99e04a95f9"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "d45cd2d6381b",
+      "topic": "coming military model open",
+      "keywords": [
+        "coming",
+        "military",
+        "model",
+        "open",
+        "openai",
+        "weight"
+      ],
+      "item_ids": [
+        "7ca5ac9ef937"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10245,42 +10275,6 @@
       ],
       "item_ids": [
         "84776440d7c1"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "b7e88d9c9295",
-      "topic": "anthropic claude control dog",
-      "keywords": [
-        "anthropic",
-        "claude",
-        "control",
-        "dog",
-        "robot",
-        "take"
-      ],
-      "item_ids": [
-        "405ae9a62446"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "13cf399a9829",
-      "topic": "boom chip fueling need",
-      "keywords": [
-        "boom",
-        "chip",
-        "fueling",
-        "need",
-        "networking",
-        "speed"
-      ],
-      "item_ids": [
-        "56b863ebd755"
       ],
       "outlets": [
         "WIRED"
