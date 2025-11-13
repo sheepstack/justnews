@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-13T02:36:54Z",
+  "generated_at": "2025-11-13T04:00:44Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -539,7 +539,7 @@
     },
     {
       "id": "4ef3f09fe0ca",
-      "title": "Ex-top aide to Gavin Newsom indicted in scheme to steal money from ex-US health secretary",
+      "title": "Ex-top aide to Newsom indicted over scheme to steal money from ex-US health secretary",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/nov/12/gavin-newsom-aide-indicted-xavier-becerra",
       "published_at": "Wed, 12 Nov 2025 22:18:45 GMT",
@@ -569,7 +569,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "89412bf89255"
+      "cluster_id": "db81f9774384"
     },
     {
       "id": "5e6cff8288d4",
@@ -972,38 +972,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "a8dfe1b7afce"
-    },
-    {
-      "id": "95de2cb577b6",
-      "title": "Judge orders release of hundreds arrested during Chicago immigration raids",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/12/trump-chicago-immigration-raids-arrests",
-      "published_at": "Wed, 12 Nov 2025 21:42:41 GMT",
-      "bullets": [
-        "• The order comes after Donald Trump’s “Midway Blitz” launched a series of aggressive immigration raids across the city",
-        "• The order will mean the release of 13 people who have been detained by federal officials",
-        "• More than 600 additional individuals may be released in a week on bond or monitoring "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The order comes after Donald Trump’s “Midway Blitz” launched a series of aggressive immigration raids across the city",
-          "• The order will mean the release of 13 people who have been detained by federal officials"
-        ],
-        "hopeful_bullets": [
-          "• The order comes after Donald Trump’s “Midway Blitz” launched a series of aggressive immigration raids across the city",
-          "• The order will mean the release of 13 people who have been detained by federal officials"
-        ],
-        "stakes_bullets": [
-          "• The order will mean the release of 13 people who have been detained by federal officials"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "12f984f6ca24"
     },
     {
       "id": "9b04331c8b9b",
@@ -1608,28 +1576,27 @@
       "url": "https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end",
       "published_at": "Wed, 12 Nov 2025 20:22:34 -0500",
       "bullets": [
-        "• House votes to end the longest ever government shutdown in history",
-        "• President Trump is expected to sign the bill on Thursday night",
-        "• The bill includes a measure to reverse layoffs the Trump administration imposed during the shutdown, and provides backpay for federal employees",
-        "• But the central issue underlying the entire shutdown is not addressed "
+        "• House votes to end the longest ever government shutdown 43 days after the shutdown began",
+        "• Six Democrats joined their Republican colleagues to get the bill over the finish line",
+        "• President Trump is expected to sign the bill on Wednesday night, paving the way for many federal workers to return to work on Thursday "
       ],
       "category": "General",
       "sentiment": {
-        "label": "negative",
-        "score": 0.991
+        "label": "positive",
+        "score": 0.857
       },
       "moods": {
         "brief_bullets": [
-          "• House votes to end the longest ever government shutdown in history",
-          "• President Trump is expected to sign the bill on Thursday night"
+          "• House votes to end the longest ever government shutdown 43 days after the shutdown began",
+          "• Six Democrats joined their Republican colleagues to get the bill over the finish line"
         ],
         "hopeful_bullets": [
-          "• House votes to end the longest ever government shutdown in history",
-          "• President Trump is expected to sign the bill on Thursday night"
+          "• House votes to end the longest ever government shutdown 43 days after the shutdown began",
+          "• Six Democrats joined their Republican colleagues to get the bill over the finish line"
         ],
         "stakes_bullets": [
-          "• President Trump is expected to sign the bill on Thursday night",
-          "• The bill includes a measure to reverse layoffs the Trump administration imposed during the shutdown, and provides backpay for federal employees"
+          "• Six Democrats joined their Republican colleagues to get the bill over the finish line",
+          "• President Trump is expected to sign the bill on Wednesday night, paving the way for many federal workers to return to work on Thursday "
         ]
       },
       "read_minutes": 4,
@@ -2048,39 +2015,6 @@
       "cluster_id": "03d57bca7e8c"
     },
     {
-      "id": "569df9410cdc",
-      "title": "This November is COPD Awareness Month: Take Action in Texas to Improve Health, Policy, and Lives",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17208090/november-is-copd-awareness-month",
-      "published_at": "Wed, 12 Nov 2025 19:40:00 +0000",
-      "bullets": [
-        "• The age-adjusted adult COPD prevalence in Texas is 5.6 percent, representing roughly 1.3 million Texans living with the disease",
-        "• The state spends over $2.35 billion annually on medical costs associated with COPD",
-        "• COPD is now the sixth leading cause of death in the United States, claiming more than 130,000 lives each year "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.749
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The age-adjusted adult COPD prevalence in Texas is 5.6 percent, representing roughly 1.3 million Texans living with the disease",
-          "• The state spends over $2.35 billion annually on medical costs associated with COPD"
-        ],
-        "hopeful_bullets": [
-          "• The age-adjusted adult COPD prevalence in Texas is 5.6 percent, representing roughly 1.3 million Texans living with the disease",
-          "• The state spends over $2.35 billion annually on medical costs associated with COPD"
-        ],
-        "stakes_bullets": [
-          "• The state spends over $2.35 billion annually on medical costs associated with COPD",
-          "• COPD is now the sixth leading cause of death in the United States, claiming more than 130,000 lives each year "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8d5eeba7b326"
-    },
-    {
       "id": "22bc4b5d5aac",
       "title": "Audi goes full minimalism for its first-ever Formula 1 livery",
       "outlet": "Ars Technica - All content",
@@ -2309,39 +2243,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "004c798c23ae"
-    },
-    {
-      "id": "64c3496af2b3",
-      "title": "Texas lawmakers will hold first hearing Thursday to review college campus speech after Charlie Kirk killing",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17208079/texas-college-free-speech-committee-charlie-kirk",
-      "published_at": "Wed, 12 Nov 2025 18:45:21 +0000",
-      "bullets": [
-        "• The Senate and House Select Committee on Civil Discourse and Freedom of Speech in Higher Education will convene jointly Thursday at 9:30 a.m",
-        "• in Austin",
-        "• They plan to hear testimony on “encouragement of civil discourse and freedom of speech on, and protection from undue administrative censorship by, the state’s college campuses "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.956
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Senate and House Select Committee on Civil Discourse and Freedom of Speech in Higher Education will convene jointly Thursday at 9:30 a.m",
-          "• in Austin"
-        ],
-        "hopeful_bullets": [
-          "• The Senate and House Select Committee on Civil Discourse and Freedom of Speech in Higher Education will convene jointly Thursday at 9:30 a.m",
-          "• in Austin"
-        ],
-        "stakes_bullets": [
-          "• The Senate and House Select Committee on Civil Discourse and Freedom of Speech in Higher Education will convene jointly Thursday at 9:30 a.m",
-          "• They plan to hear testimony on “encouragement of civil discourse and freedom of speech on, and protection from undue administrative censorship by, the state’s college campuses "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "74c666a99dee"
     },
     {
       "id": "8301c2fb79be",
@@ -2906,36 +2807,38 @@
       "cluster_id": "657324dc7ad3"
     },
     {
-      "id": "380fd0db7d66",
-      "title": "Hello, It’s Me Onscreen: Adele to Make Acting Debut in Tom Ford-Directed Film",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/adele-acting-debut-cry-to-heaven-film-tom-ford-anne-rice-1235463827/",
-      "published_at": "Wed, 12 Nov 2025 17:31:21 +0000",
+      "id": "5446884e1c5a",
+      "title": "House Oversight Committee member talks about emails that appear to tie Epstein to Trump",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/11/12/nx-s1-5605857/house-oversight-committee-member-talks-about-emails-that-appear-to-tie-epstein-to-trump",
+      "published_at": "Wed, 12 Nov 2025 17:17:35 -0500",
       "bullets": [
-        "• Adele to star in Tom Ford-directed film adaptation of Anne Rice's novel",
-        "• Film is set to start filming in London in January and is scheduled for release in late 2026",
-        "• No word yet on which role Adele will play in the movie "
+        "• House Oversight Committee member talks about emails that appear to tie Epstein to Trump",
+        "• In one email, Epstein writes that Trump, quote, \"spent hours at my house\" with one of Epstein's victims",
+        "• In another, a writer advises Epstein that he can use his history with Trump as \"valuable PR and political currency\""
       ],
-      "category": "Music",
+      "category": "Politics",
       "sentiment": {
-        "label": "positive",
-        "score": 0.917
+        "label": "negative",
+        "score": 0.977
       },
       "moods": {
         "brief_bullets": [
-          "• Adele to star in Tom Ford-directed film adaptation of Anne Rice's novel",
-          "• Film is set to start filming in London in January and is scheduled for release in late 2026"
+          "• House Oversight Committee member talks about emails that appear to tie Epstein to Trump",
+          "• In one email, Epstein writes that Trump, quote, \"spent hours at my house\" with one of Epstein's victims"
         ],
         "hopeful_bullets": [
-          "• Adele to star in Tom Ford-directed film adaptation of Anne Rice's novel",
-          "• Film is set to start filming in London in January and is scheduled for release in late 2026"
+          "• House Oversight Committee member talks about emails that appear to tie Epstein to Trump",
+          "• In one email, Epstein writes that Trump, quote, \"spent hours at my house\" with one of Epstein's victims"
         ],
         "stakes_bullets": [
-          "• No word yet on which role Adele will play in the movie "
+          "• House Oversight Committee member talks about emails that appear to tie Epstein to Trump",
+          "• In one email, Epstein writes that Trump, quote, \"spent hours at my house\" with one of Epstein's victims",
+          "• In another, a writer advises Epstein that he can use his history with Trump as \"valuable PR and political currency\""
         ]
       },
-      "read_minutes": 1,
-      "cluster_id": "105e4273afc9"
+      "read_minutes": 6,
+      "cluster_id": "f872c1551bba"
     },
     {
       "id": "56b863ebd755",
@@ -3033,6 +2936,75 @@
       "cluster_id": "8207e6c7560a"
     },
     {
+      "id": "cb60b69c6af7",
+      "title": "PBS documentary looks at 25 years of the challenges of surviving in space on the ISS",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/12/nx-s1-5560997/pbs-documentary-looks-at-25-years-of-the-challenges-of-surviving-in-space-on-the-iss",
+      "published_at": "Wed, 12 Nov 2025 16:44:15 -0500",
+      "bullets": [
+        "• This year is the 25th anniversary of humans inhabiting the International Space Station",
+        "• A new PBS documentary tells the story of what it took to build the station and some of the dangerous experiences astronauts had to endure on board",
+        "• The space station is set to be decommissioned in 2030 "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• This year is the 25th anniversary of humans inhabiting the International Space Station",
+          "• A new PBS documentary tells the story of what it took to build the station and some of the dangerous experiences astronauts had to endure on board"
+        ],
+        "hopeful_bullets": [
+          "• This year is the 25th anniversary of humans inhabiting the International Space Station",
+          "• A new PBS documentary tells the story of what it took to build the station and some of the dangerous experiences astronauts had to endure on board"
+        ],
+        "stakes_bullets": [
+          "• This year is the 25th anniversary of humans inhabiting the International Space Station",
+          "• A new PBS documentary tells the story of what it took to build the station and some of the dangerous experiences astronauts had to endure on board",
+          "• The space station is set to be decommissioned in 2030 "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "02343b886c80"
+    },
+    {
+      "id": "d804a300ac02",
+      "title": "House votes to end the longest shutdown in history",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/11/12/nx-s1-5607044/house-votes-to-end-the-longest-shutdown-in-history",
+      "published_at": "Wed, 12 Nov 2025 16:41:52 -0500",
+      "bullets": [
+        "• House votes to end the longest government shutdown in history",
+        "• President Trump is expected to sign the bill on Wednesday night, paving the way for many federal workers to return to work",
+        "• The bill funds most federal agencies through the end of January",
+        "• It does not include anything to deal with the central issue that caused the shutdown "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• House votes to end the longest government shutdown in history",
+          "• President Trump is expected to sign the bill on Wednesday night, paving the way for many federal workers to return to work"
+        ],
+        "hopeful_bullets": [
+          "• House votes to end the longest government shutdown in history",
+          "• President Trump is expected to sign the bill on Wednesday night, paving the way for many federal workers to return to work"
+        ],
+        "stakes_bullets": [
+          "• President Trump is expected to sign the bill on Wednesday night, paving the way for many federal workers to return to work",
+          "• The bill funds most federal agencies through the end of January",
+          "• It does not include anything to deal with the central issue that caused the shutdown "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "205eaf72ee3f"
+    },
+    {
       "id": "9d4b14786798",
       "title": "Cleto Escobedo III, Jimmy Kimmel Live! Bandleader, Dies at 59",
       "outlet": "RSS: News",
@@ -3064,38 +3036,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "77334e933c9c"
-    },
-    {
-      "id": "0e86bb1f49b0",
-      "title": "Tarrant County GOP Chair Bo French announces run for Texas Railroad Commission",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17207997/bo-french-texas-railroad-commission-republican-primary-2026",
-      "published_at": "Wed, 12 Nov 2025 16:31:02 +0000",
-      "bullets": [
-        "• Bo French is running for a seat on the Texas Railroad Commission, the regulatory state agency that oversees Texas' oil and gas industry",
-        "• French, an entrepreneur and political activist, has aligned himself with the rightmost faction of the party during his two-year stint chairing the Tarrant County GOP "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.978
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Bo French is running for a seat on the Texas Railroad Commission, the regulatory state agency that oversees Texas' oil and gas industry",
-          "• French, an entrepreneur and political activist, has aligned himself with the rightmost faction of the party during his two-year stint chairing the Tarrant County GOP "
-        ],
-        "hopeful_bullets": [
-          "• Bo French is running for a seat on the Texas Railroad Commission, the regulatory state agency that oversees Texas' oil and gas industry",
-          "• French, an entrepreneur and political activist, has aligned himself with the rightmost faction of the party during his two-year stint chairing the Tarrant County GOP "
-        ],
-        "stakes_bullets": [
-          "• Bo French is running for a seat on the Texas Railroad Commission, the regulatory state agency that oversees Texas' oil and gas industry",
-          "• French, an entrepreneur and political activist, has aligned himself with the rightmost faction of the party during his two-year stint chairing the Tarrant County GOP "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1e3169a7ae3b"
     },
     {
       "id": "01dc4f93ac5f",
@@ -3690,69 +3630,6 @@
       "cluster_id": "9022af77f9fb"
     },
     {
-      "id": "40589b6167f2",
-      "title": "Texas Head Start closures during government shutdown add to state’s child care woes",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17207741/texas-head-start-government-shutdown",
-      "published_at": "Wed, 12 Nov 2025 11:00:00 +0000",
-      "bullets": [
-        "• An estimated 1,900 Texas children enrolled in a Head Start program that has either closed or will close if the government does not reopen soon",
-        "• Head Start is a federally funded program that provides free child care for infants to children from low-income families or who live with disabilities "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• An estimated 1,900 Texas children enrolled in a Head Start program that has either closed or will close if the government does not reopen soon",
-          "• Head Start is a federally funded program that provides free child care for infants to children from low-income families or who live with disabilities "
-        ],
-        "hopeful_bullets": [
-          "• An estimated 1,900 Texas children enrolled in a Head Start program that has either closed or will close if the government does not reopen soon",
-          "• Head Start is a federally funded program that provides free child care for infants to children from low-income families or who live with disabilities "
-        ],
-        "stakes_bullets": [
-          "• An estimated 1,900 Texas children enrolled in a Head Start program that has either closed or will close if the government does not reopen soon"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "22b410a36994"
-    },
-    {
-      "id": "f91f8b7c3bf2",
-      "title": "Older Texans among those facing the largest price hikes for Affordable Care Act insurance",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17207742/texas-aca-health-insurance-obamacare-older-texans",
-      "published_at": "Wed, 12 Nov 2025 11:00:00 +0000",
-      "bullets": [
-        "• Theresa Hebert, 55, is worried about the Affordable Care Act price hikes",
-        "• Starting next year, her monthly premium will rise 87% to $1,091",
-        "• Texas residents over the age of 45 are among those statewide who are seeing the highest rise in their premiums "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.853
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Theresa Hebert, 55, is worried about the Affordable Care Act price hikes",
-          "• Starting next year, her monthly premium will rise 87% to $1,091"
-        ],
-        "hopeful_bullets": [
-          "• Theresa Hebert, 55, is worried about the Affordable Care Act price hikes",
-          "• Starting next year, her monthly premium will rise 87% to $1,091"
-        ],
-        "stakes_bullets": [
-          "• Starting next year, her monthly premium will rise 87% to $1,091"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "cc528d0ea698"
-    },
-    {
       "id": "7a8caf5e37aa",
       "title": "Scientists just found a material that beats diamond at its own game",
       "outlet": "All Top News -- ScienceDaily",
@@ -4261,38 +4138,6 @@
       "cluster_id": "0b6efd263e5d"
     },
     {
-      "id": "61fe9581fabe",
-      "title": "TVC15: Padmé Amidala (Peasant Disguise) (VC33)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-11-tvc15-padme-amidala-peasant-disguise-vc33/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-padme-amidala-peasant-disguise-vc33",
-      "published_at": "Wed, 12 Nov 2025 03:14:04 +0000",
-      "bullets": [
-        "• Padmé Amidala (Peasant Disguise) is known for her wardrobe changes",
-        "• The figure doesn't come with a ton of articulation, but Hasbro worked in what they could into the figure’s tooling",
-        "• With a mix of molded parts and soft goods, collectors can rearrange this figure into a multitude of configurations "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Padmé Amidala (Peasant Disguise) is known for her wardrobe changes",
-          "• The figure doesn't come with a ton of articulation, but Hasbro worked in what they could into the figure’s tooling"
-        ],
-        "hopeful_bullets": [
-          "• Padmé Amidala (Peasant Disguise) is known for her wardrobe changes",
-          "• The figure doesn't come with a ton of articulation, but Hasbro worked in what they could into the figure’s tooling"
-        ],
-        "stakes_bullets": [
-          "• The figure doesn't come with a ton of articulation, but Hasbro worked in what they could into the figure’s tooling"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "244347f2c36d"
-    },
-    {
       "id": "dfad9673b578",
       "title": "Earth is slowly peeling its continents from below, fueling ocean volcanoes",
       "outlet": "All Top News -- ScienceDaily",
@@ -4356,70 +4201,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "68d7a2b42967"
-    },
-    {
-      "id": "2a5a75cc63c4",
-      "title": "President Donald Trump endorses Gov. Greg Abbott for reelection",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17207562/texas-governor-2026-elections-greg-abbott-donald-trump-endorsement",
-      "published_at": "Wed, 12 Nov 2025 01:54:00 +0000",
-      "bullets": [
-        "• President Trump endorsed Texas governor for reelection on Tuesday",
-        "• The president said he would work together to “build a stronger, safer, more prosperous Texas and America’s America” The president also endorsed a new congressional redistricting map that will add five additional GOP-leaning seats "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Trump endorsed Texas governor for reelection on Tuesday",
-          "• The president said he would work together to “build a stronger, safer, more prosperous Texas and America’s America” The president also endorsed a new congressional redistricting map that will add five additional GOP-leaning seats "
-        ],
-        "hopeful_bullets": [
-          "• The president said he would work together to “build a stronger, safer, more prosperous Texas and America’s America” The president also endorsed a new congressional redistricting map that will add five additional GOP-leaning seats "
-        ],
-        "stakes_bullets": [
-          "• The president said he would work together to “build a stronger, safer, more prosperous Texas and America’s America” The president also endorsed a new congressional redistricting map that will add five additional GOP-leaning seats "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "2a809b38293f"
-    },
-    {
-      "id": "6d6868ab0ce2",
-      "title": "Former U.S. Rep. Chris Bell joins Texas Democrats seeking to unseat Gov. Greg Abbott",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17207576/texas-governor-2026-race-chris-bell",
-      "published_at": "Wed, 12 Nov 2025 01:35:59 +0000",
-      "bullets": [
-        "• Former U.S",
-        "• Rep",
-        "• Chris Bell is the latest Democratic candidate to join the 2026 race for Texas governor",
-        "• Bell lost his bid for the state’s highest office two decades ago",
-        "• Bell slammed the school voucher program Abbott championed, saying it was driven by “multi-billion dollar contributors”"
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Former U.S",
-          "• Rep"
-        ],
-        "hopeful_bullets": [
-          "• Former U.S",
-          "• Rep"
-        ],
-        "stakes_bullets": [
-          "• Bell slammed the school voucher program Abbott championed, saying it was driven by “multi-billion dollar contributors”"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d1b010836e55"
     },
     {
       "id": "621ab81fb2aa",
@@ -4621,39 +4402,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "cc844cba1650"
-    },
-    {
-      "id": "3fc7b413ab65",
-      "title": "TVC15: Republic Trooper (The Old Republic) (VC113)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-04-tvc15-republic-trooper-the-old-republic-vc113/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-republic-trooper-the-old-republic-vc113",
-      "published_at": "Wed, 05 Nov 2025 02:23:28 +0000",
-      "bullets": [
-        "• The Republic Trooper (The Old Republic) was one of the surprise figures of 2012",
-        "• Hasbro didn’t attempt to create too many characters from The Old Republic video game",
-        "• The one area the figure lacked was its paint job",
-        "• A little more dirt would have made a monumental impact on the figure's aesthetics "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Republic Trooper (The Old Republic) was one of the surprise figures of 2012",
-          "• Hasbro didn’t attempt to create too many characters from The Old Republic video game"
-        ],
-        "hopeful_bullets": [
-          "• The Republic Trooper (The Old Republic) was one of the surprise figures of 2012",
-          "• Hasbro didn’t attempt to create too many characters from The Old Republic video game"
-        ],
-        "stakes_bullets": [
-          "• A little more dirt would have made a monumental impact on the figure's aesthetics "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "92252a960604"
     },
     {
       "id": "8bc2e543862e",
@@ -5045,39 +4793,6 @@
       "cluster_id": "add6f8883d4e"
     },
     {
-      "id": "b0a8d1bdee01",
-      "title": "TribCast: Kate Rogers on her ousting from the Alamo Trust",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17207435/tribcast-alamo-rogers-patrick-no-spaces-short",
-      "published_at": "Tue, 11 Nov 2025 20:06:12 +0000",
-      "bullets": [
-        "• Kate Rogers, the former president of the Alamo Trust, steps down amid political pressure from Republican state leaders",
-        "• She was in the midst of overseeing a politically fraught overhaul of the historic site",
-        "• Rogers: \"I could see how we can't have someone running this project who sounds ungrateful or critical of the largest donor\""
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Kate Rogers, the former president of the Alamo Trust, steps down amid political pressure from Republican state leaders",
-          "• She was in the midst of overseeing a politically fraught overhaul of the historic site"
-        ],
-        "hopeful_bullets": [
-          "• Kate Rogers, the former president of the Alamo Trust, steps down amid political pressure from Republican state leaders",
-          "• She was in the midst of overseeing a politically fraught overhaul of the historic site"
-        ],
-        "stakes_bullets": [
-          "• Kate Rogers, the former president of the Alamo Trust, steps down amid political pressure from Republican state leaders",
-          "• Rogers: \"I could see how we can't have someone running this project who sounds ungrateful or critical of the largest donor\""
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e3a207bde904"
-    },
-    {
       "id": "d1b86f678fc0",
       "title": "Dry Cleaning Share Video for New Song “Cruise Ship Designer”: Watch",
       "outlet": "RSS: News",
@@ -5378,40 +5093,6 @@
       "cluster_id": "dd272017dbb7"
     },
     {
-      "id": "a7c860b5ae63",
-      "title": "TVC15: Clone Trooper Lieutenant (VC109)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-10-tvc15-clone-trooper-lieutenant-vc109/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-clone-trooper-lieutenant-vc109",
-      "published_at": "Tue, 11 Nov 2025 01:46:09 +0000",
-      "bullets": [
-        "• The Vintage Collection of six figures was a mixed bag for collectors",
-        "• Hasbro seems incompetent to release all four clone trooper officers utilizing the same tooling in a single collection",
-        "• To date, we still don’t have all four of the figures "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Vintage Collection of six figures was a mixed bag for collectors",
-          "• Hasbro seems incompetent to release all four clone trooper officers utilizing the same tooling in a single collection"
-        ],
-        "hopeful_bullets": [
-          "• The Vintage Collection of six figures was a mixed bag for collectors",
-          "• Hasbro seems incompetent to release all four clone trooper officers utilizing the same tooling in a single collection"
-        ],
-        "stakes_bullets": [
-          "• The Vintage Collection of six figures was a mixed bag for collectors",
-          "• Hasbro seems incompetent to release all four clone trooper officers utilizing the same tooling in a single collection",
-          "• To date, we still don’t have all four of the figures "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "92a2f6498f7b"
-    },
-    {
       "id": "2cf654bdd2db",
       "title": "AI revives lost 3,000-year-old Babylonian hymn",
       "outlet": "All Top News -- ScienceDaily",
@@ -5543,40 +5224,6 @@
       },
       "read_minutes": 12,
       "cluster_id": "e8ac82f303b1"
-    },
-    {
-      "id": "c82055c14e56",
-      "title": "TVC15: Darth Maul (VC86)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-03-tvc15-darth-maul-vc86/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-darth-maul-vc86",
-      "published_at": "Tue, 04 Nov 2025 02:49:49 +0000",
-      "bullets": [
-        "• The highlight of the 2012 The Vintage Collection The Phantom Menace wave was Darth Maul",
-        "• Darth Maul was the first figure to disappear from store shelves",
-        "• By today’s standards, the figure is somewhat outdated, and Hasbro should re-imagine this character from the ground up "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The highlight of the 2012 The Vintage Collection The Phantom Menace wave was Darth Maul",
-          "• Darth Maul was the first figure to disappear from store shelves"
-        ],
-        "hopeful_bullets": [
-          "• The highlight of the 2012 The Vintage Collection The Phantom Menace wave was Darth Maul",
-          "• Darth Maul was the first figure to disappear from store shelves"
-        ],
-        "stakes_bullets": [
-          "• The highlight of the 2012 The Vintage Collection The Phantom Menace wave was Darth Maul",
-          "• Darth Maul was the first figure to disappear from store shelves",
-          "• By today’s standards, the figure is somewhat outdated, and Hasbro should re-imagine this character from the ground up "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "42395f97edb8"
     },
     {
       "id": "a724f4b5c648",
@@ -5778,6 +5425,338 @@
       "cluster_id": "888b1e315600"
     },
     {
+      "id": "997161422ce8",
+      "title": "New Dragon Ball Anime Will Be All About Vegeta",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/new-dragon-ball-anime-vegeta-protagonist/",
+      "published_at": "Thu, 13 Nov 2025 03:45:12 GMT",
+      "bullets": [
+        "• A new Dragon Ball anime is coming, and it might not be what fans are used to",
+        "• This time, there’s more likelihood than ever that the main character will be the standout star of the show",
+        "• That might seem like a major paradigm shift, but it's actually not as big a change as it sounds",
+        "• It seems increasingly obvious that the Saiyan Prince will reign supreme no matter what "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A new Dragon Ball anime is coming, and it might not be what fans are used to",
+          "• This time, there’s more likelihood than ever that the main character will be the standout star of the show"
+        ],
+        "hopeful_bullets": [
+          "• A new Dragon Ball anime is coming, and it might not be what fans are used to",
+          "• This time, there’s more likelihood than ever that the main character will be the standout star of the show"
+        ],
+        "stakes_bullets": [
+          "• This time, there’s more likelihood than ever that the main character will be the standout star of the show",
+          "• It seems increasingly obvious that the Saiyan Prince will reign supreme no matter what "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "30f4216d691b"
+    },
+    {
+      "id": "7b696a90f2af",
+      "title": "Trump signs funding bill, ends government shutdown",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/government-shutdown-house-vote-trump.html",
+      "published_at": "Thu, 13 Nov 2025 03:40:11 GMT",
+      "bullets": [
+        "• The bill was passed by the House of Representatives earlier Wednesday night in a 222-209 vote",
+        "• \"The Democrats tried to extort our country,\" Trump says before signing the bill",
+        "• \"Republicans never wanted a shutdown,\" he says",
+        "• The shutdown began on Oct",
+        "• 1; government operations have remained shuttered since then "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The bill was passed by the House of Representatives earlier Wednesday night in a 222-209 vote",
+          "• \"The Democrats tried to extort our country,\" Trump says before signing the bill"
+        ],
+        "hopeful_bullets": [
+          "• The bill was passed by the House of Representatives earlier Wednesday night in a 222-209 vote",
+          "• \"The Democrats tried to extort our country,\" Trump says before signing the bill"
+        ],
+        "stakes_bullets": [
+          "• The bill was passed by the House of Representatives earlier Wednesday night in a 222-209 vote",
+          "• \"The Democrats tried to extort our country,\" Trump says before signing the bill"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "7e160ffad258"
+    },
+    {
+      "id": "a63e533d4152",
+      "title": "Avengers: Doomsday Could Be Borrowing a Crucial Idea From a Scrapped MCU Project",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/avengers-doomsday-possibly-borrowing-scrapped-kang-dynasty-plans/",
+      "published_at": "Thu, 13 Nov 2025 03:35:12 GMT",
+      "bullets": [
+        "• Avengers: Doomsday will be the biggest cinematic event of the Marvel Cinematic Universe",
+        "• Fans have been speculating about the upcoming film for months",
+        "• The latest theory ties back to the original comics and Marvel Studios' original plans for Phase 6 of the MCU "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.901
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Avengers: Doomsday will be the biggest cinematic event of the Marvel Cinematic Universe",
+          "• Fans have been speculating about the upcoming film for months"
+        ],
+        "hopeful_bullets": [
+          "• Avengers: Doomsday will be the biggest cinematic event of the Marvel Cinematic Universe",
+          "• Fans have been speculating about the upcoming film for months"
+        ],
+        "stakes_bullets": [
+          "• Avengers: Doomsday will be the biggest cinematic event of the Marvel Cinematic Universe",
+          "• The latest theory ties back to the original comics and Marvel Studios' original plans for Phase 6 of the MCU "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "449d140a897b"
+    },
+    {
+      "id": "311f80cf3d68",
+      "title": "House passes bill to reopen government as new Epstein revelations roil US politics – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/12/donald-trump-us-government-shutdown-house-democrats-republicans-latest-news-updates",
+      "published_at": "Thu, 13 Nov 2025 03:27:52 GMT",
+      "bullets": [
+        "• House passes bill to fund government through the end of January",
+        "• Six Democrats vote for the measure and two Republicans vote against it",
+        "• Trump calls on the public to punish Democrats in the 2026 midterms",
+        "• The bill is the longest government shutdown in US history "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• House passes bill to fund government through the end of January",
+          "• Six Democrats vote for the measure and two Republicans vote against it"
+        ],
+        "hopeful_bullets": [
+          "• Six Democrats vote for the measure and two Republicans vote against it"
+        ],
+        "stakes_bullets": [
+          "• House passes bill to fund government through the end of January",
+          "• The bill is the longest government shutdown in US history "
+        ]
+      },
+      "read_minutes": 17,
+      "cluster_id": "95b651aa8417"
+    },
+    {
+      "id": "cd17639efea0",
+      "title": "Forget Barzini, The Godfather's True Villain Was Hiding in Plain Sight for 53 Years",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-godfather-sonny-corleone-true-villain/",
+      "published_at": "Thu, 13 Nov 2025 03:20:13 GMT",
+      "bullets": [
+        "• The Godfather is undoubtedly one of the greatest movies of all time, and it made stars out of its leading cast",
+        "• Marlon Brando's Vito Corleone was a character that fans could not take their eyes off of",
+        "• The biggest conflict in the movie was the plot to kill Vito",
+        "• The real culprit behind the entire plot was someone much closer to home: Sonny "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Godfather is undoubtedly one of the greatest movies of all time, and it made stars out of its leading cast",
+          "• Marlon Brando's Vito Corleone was a character that fans could not take their eyes off of"
+        ],
+        "hopeful_bullets": [
+          "• The Godfather is undoubtedly one of the greatest movies of all time, and it made stars out of its leading cast",
+          "• Marlon Brando's Vito Corleone was a character that fans could not take their eyes off of"
+        ],
+        "stakes_bullets": [
+          "• The Godfather is undoubtedly one of the greatest movies of all time, and it made stars out of its leading cast",
+          "• Marlon Brando's Vito Corleone was a character that fans could not take their eyes off of"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "5c152db9cc03"
+    },
+    {
+      "id": "8986bb04334e",
+      "title": "Jujutsu Kaisen Modulo Fixes Jujutsu Kaisen’s Plot Holes",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/jujutsu-kaisen-sequel-jjk-modulo-fix-manga-biggest-problem/",
+      "published_at": "Thu, 13 Nov 2025 03:15:12 GMT",
+      "bullets": [
+        "• One of the most popular anime series of the 2020s, Jujutsu Kaisen, is finally set to release its third season in January 2026",
+        "• Gege Akutami's manga concluded in 2024 after 271 chapters",
+        "• Fans can expect at least two more JJK seasons, or if fans are lucky, at least one movie "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One of the most popular anime series of the 2020s, Jujutsu Kaisen, is finally set to release its third season in January 2026",
+          "• Gege Akutami's manga concluded in 2024 after 271 chapters"
+        ],
+        "hopeful_bullets": [
+          "• One of the most popular anime series of the 2020s, Jujutsu Kaisen, is finally set to release its third season in January 2026",
+          "• Gege Akutami's manga concluded in 2024 after 271 chapters"
+        ],
+        "stakes_bullets": [
+          "• One of the most popular anime series of the 2020s, Jujutsu Kaisen, is finally set to release its third season in January 2026",
+          "• Gege Akutami's manga concluded in 2024 after 271 chapters",
+          "• Fans can expect at least two more JJK seasons, or if fans are lucky, at least one movie "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "adbde73f7e92"
+    },
+    {
+      "id": "5d4382f59e2a",
+      "title": "Documentary Chronicling the Life of Kenny ‘Babyface’ Edmonds in the Works",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/babyface-kenny-edmonds-documentary-chris-moukarbel-1235464246/",
+      "published_at": "Thu, 13 Nov 2025 03:00:50 +0000",
+      "bullets": [
+        "• Documentary Chronicling the Life of Kenny ‘Babyface’ Edmonds in the Works",
+        "• The film will examine his collaborations with the likes of Toni Braxton, Whitney Houston, Bobby Brown, Eric Clapton, Mary J",
+        "• Blige, Michael Jackson, Boyz II Men, Mariah Carey, Lil Wayne, Beyoncé, Madonna and SZA "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Documentary Chronicling the Life of Kenny ‘Babyface’ Edmonds in the Works",
+          "• The film will examine his collaborations with the likes of Toni Braxton, Whitney Houston, Bobby Brown, Eric Clapton, Mary J"
+        ],
+        "hopeful_bullets": [
+          "• Documentary Chronicling the Life of Kenny ‘Babyface’ Edmonds in the Works",
+          "• The film will examine his collaborations with the likes of Toni Braxton, Whitney Houston, Bobby Brown, Eric Clapton, Mary J"
+        ],
+        "stakes_bullets": [
+          "• The film will examine his collaborations with the likes of Toni Braxton, Whitney Houston, Bobby Brown, Eric Clapton, Mary J"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "05e8b375deef"
+    },
+    {
+      "id": "b3881cf2bce7",
+      "title": "10 Mystery Shows With Perfect Final Episodes",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/mystery-shows-perfect-final-episodes-list/",
+      "published_at": "Thu, 13 Nov 2025 02:40:12 GMT",
+      "bullets": [
+        "• Mystery television is one of the hardest genres to end well",
+        "• A truly great finale needs to strike a delicate balance, resolving the central enigma without killing the lingering sense of wonder that drew audiences in",
+        "• The best ones also deepen the emotional core, turning what could have been a simple “whodunit” into a reflection on humanity, grief, or obsession "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mystery television is one of the hardest genres to end well",
+          "• A truly great finale needs to strike a delicate balance, resolving the central enigma without killing the lingering sense of wonder that drew audiences in"
+        ],
+        "hopeful_bullets": [
+          "• Mystery television is one of the hardest genres to end well",
+          "• A truly great finale needs to strike a delicate balance, resolving the central enigma without killing the lingering sense of wonder that drew audiences in"
+        ],
+        "stakes_bullets": [
+          "• The best ones also deepen the emotional core, turning what could have been a simple “whodunit” into a reflection on humanity, grief, or obsession "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "2e1fe1d16029"
+    },
+    {
+      "id": "ed4288dd4e1f",
+      "title": "News Corp Australia chair says outlets not part of climate crisis ‘denial machine’",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/nov/13/news-corp-australia-michael-miller-climate-crisis-denial",
+      "published_at": "Thu, 13 Nov 2025 02:34:43 GMT",
+      "bullets": [
+        "• News Corp Australia’s executive chair, Michael Miller, told a Senate inquiry into climate and energy misinformation there was no coordination across the organisation's news outlets to feature voices sceptical of climate action",
+        "• Miller said the company was “expressing a range of views” and “we need to be able to have a debate in this country and that is what we do”"
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• News Corp Australia’s executive chair, Michael Miller, told a Senate inquiry into climate and energy misinformation there was no coordination across the organisation's news outlets to feature voices sceptical of climate action",
+          "• Miller said the company was “expressing a range of views” and “we need to be able to have a debate in this country and that is what we do”"
+        ],
+        "hopeful_bullets": [
+          "• News Corp Australia’s executive chair, Michael Miller, told a Senate inquiry into climate and energy misinformation there was no coordination across the organisation's news outlets to feature voices sceptical of climate action",
+          "• Miller said the company was “expressing a range of views” and “we need to be able to have a debate in this country and that is what we do”"
+        ],
+        "stakes_bullets": [
+          "• News Corp Australia’s executive chair, Michael Miller, told a Senate inquiry into climate and energy misinformation there was no coordination across the organisation's news outlets to feature voices sceptical of climate action"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "82880bd7dd39"
+    },
+    {
+      "id": "8c9fa6820a4c",
+      "title": "Liberals formally abandon net zero target but will allow moderate MPs to call lower emissions a ‘welcome outcome’",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2025/nov/13/liberal-party-net-zero-policy-meeting-debate-decision",
+      "published_at": "Thu, 13 Nov 2025 02:28:38 GMT",
+      "bullets": [
+        "• Liberal party will abandon a firm net zero emissions target, siding with the Nationals to end the Coalition’s commitment to the climate goal",
+        "• Liberal shadow ministry agreed a future Coalition government would not withdraw from the Paris Agreement, which was a red-line that could have prompted the resignation of moderate Liberals such as Andrew Bragg and Maria Kovacic",
+        "• Opposition leader Sussan Ley will formally announce the decision at a 2.15pm press conference in Parliament House "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.951
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Liberal party will abandon a firm net zero emissions target, siding with the Nationals to end the Coalition’s commitment to the climate goal",
+          "• Liberal shadow ministry agreed a future Coalition government would not withdraw from the Paris Agreement, which was a red-line that could have prompted the resignation of moderate Liberals such as Andrew Bragg and Maria Kovacic"
+        ],
+        "hopeful_bullets": [
+          "• Liberal party will abandon a firm net zero emissions target, siding with the Nationals to end the Coalition’s commitment to the climate goal",
+          "• Liberal shadow ministry agreed a future Coalition government would not withdraw from the Paris Agreement, which was a red-line that could have prompted the resignation of moderate Liberals such as Andrew Bragg and Maria Kovacic"
+        ],
+        "stakes_bullets": [
+          "• Liberal party will abandon a firm net zero emissions target, siding with the Nationals to end the Coalition’s commitment to the climate goal",
+          "• Liberal shadow ministry agreed a future Coalition government would not withdraw from the Paris Agreement, which was a red-line that could have prompted the resignation of moderate Liberals such as Andrew Bragg and Maria Kovacic",
+          "• Opposition leader Sussan Ley will formally announce the decision at a 2.15pm press conference in Parliament House "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b713150dd8b6"
+    },
+    {
       "id": "0d6af157e09e",
       "title": "10 Things Everyone Gets Wrong About The Far Side",
       "outlet": "CBR",
@@ -5880,74 +5859,101 @@
       "cluster_id": "3cede8fc3012"
     },
     {
-      "id": "7b696a90f2af",
-      "title": "House passes funding bill to end record-long government shutdown, Trump set to sign",
+      "id": "acfcab510b03",
+      "title": "Asia-Pacific stocks edge mostly higher as U.S. House passes funding bill to end shutdown",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/government-shutdown-house-vote-trump.html",
-      "published_at": "Thu, 13 Nov 2025 02:02:37 GMT",
+      "url": "https://www.cnbc.com/2025/11/13/asia-pacific-markets-thursday-nikkei-225-hang-seng-index-kospi-nifty-50.html",
+      "published_at": "Thu, 13 Nov 2025 02:14:58 GMT",
       "bullets": [
-        "• The bill now heads to the desk of President Donald Trump, who is set to sign it into law",
-        "• The White House has scheduled a bill signing in the Oval Office at 9:45 p.m",
-        "• ET",
-        "• The vote on the bill was 222-209; two Republicans voted against it",
-        "• The shutdown began on Oct"
+        "• Japan's benchmark Nikkei 225 index rose 0.23% in early trading, while Topix added 0.62% to hit a record high",
+        "• SoftBank Group continues to fall for a second consecutive day, plunging more than 5%",
+        "• Australia's S&P/ASX 200 fell 1.01% after the seasonally adjusted October unemployment rate eased to 4.3%, government jobs data showed Thursday "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.942
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
-          "• The bill now heads to the desk of President Donald Trump, who is set to sign it into law",
-          "• The White House has scheduled a bill signing in the Oval Office at 9:45 p.m"
+          "• Japan's benchmark Nikkei 225 index rose 0.23% in early trading, while Topix added 0.62% to hit a record high",
+          "• SoftBank Group continues to fall for a second consecutive day, plunging more than 5%"
         ],
         "hopeful_bullets": [
-          "• The vote on the bill was 222-209; two Republicans voted against it"
+          "• Japan's benchmark Nikkei 225 index rose 0.23% in early trading, while Topix added 0.62% to hit a record high"
         ],
         "stakes_bullets": [
-          "• The bill now heads to the desk of President Donald Trump, who is set to sign it into law",
-          "• The White House has scheduled a bill signing in the Oval Office at 9:45 p.m",
-          "• The vote on the bill was 222-209; two Republicans voted against it"
+          "• SoftBank Group continues to fall for a second consecutive day, plunging more than 5%"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "81b5e7bc5711"
+      "read_minutes": 1,
+      "cluster_id": "058cccd0e8ba"
     },
     {
-      "id": "c0f64b1b6116",
-      "title": "U.S. House OKs funding deal to reopen government with support from Texas Republicans",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17208291/house-funding-deal-government-shutdown-texas-delegation-congress",
-      "published_at": "Thu, 13 Nov 2025 02:01:37 +0000",
+      "id": "c5b178c43395",
+      "title": "Trump news at a glance: new batch of Epstein emails suggest Donald Trump ‘knew about the girls’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/12/trump-news-at-a-glance-new-batch-of-epstein-emails-suggest-donald-trump-knew-about-the-girls",
+      "published_at": "Thu, 13 Nov 2025 02:10:06 GMT",
       "bullets": [
-        "• The U.S",
-        "• House passed the Senate’s funding deal to end the government shutdown",
-        "• Federal agencies will reopen after a six-week freeze",
-        "• Twenty-four of the 25 House Republicans from Texas voted in favor of the bill",
-        "• All but one of Texas’ 12 Democratic members were opposed "
+        "• Emails suggest Donald Trump 'knew about the girls' of Jeffrey Epstein's sex-trafficking ring",
+        "• One said Trump spent hours with one victim at Epstein’s house",
+        "• Another said Trump “spent hours” with one of the victims",
+        "• Democrats on House oversight committee release messages "
       ],
-      "category": "Texas",
+      "category": "US",
       "sentiment": {
-        "label": "positive",
-        "score": 0.908
+        "label": "negative",
+        "score": 0.991
       },
       "moods": {
         "brief_bullets": [
-          "• The U.S",
-          "• House passed the Senate’s funding deal to end the government shutdown"
+          "• Emails suggest Donald Trump 'knew about the girls' of Jeffrey Epstein's sex-trafficking ring",
+          "• One said Trump spent hours with one victim at Epstein’s house"
         ],
         "hopeful_bullets": [
-          "• The U.S",
-          "• House passed the Senate’s funding deal to end the government shutdown"
+          "• Emails suggest Donald Trump 'knew about the girls' of Jeffrey Epstein's sex-trafficking ring",
+          "• One said Trump spent hours with one victim at Epstein’s house"
         ],
         "stakes_bullets": [
-          "• Federal agencies will reopen after a six-week freeze",
-          "• Twenty-four of the 25 House Republicans from Texas voted in favor of the bill"
+          "• Emails suggest Donald Trump 'knew about the girls' of Jeffrey Epstein's sex-trafficking ring",
+          "• One said Trump spent hours with one victim at Epstein’s house",
+          "• Another said Trump “spent hours” with one of the victims"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "04ea667a77e6"
+      "read_minutes": 1,
+      "cluster_id": "b9251403cb58"
+    },
+    {
+      "id": "c0e30e773afe",
+      "title": "Trump signs funding bill to end longest US government shutdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/12/house-bill-government-shutdown-vote",
+      "published_at": "Thu, 13 Nov 2025 02:06:48 GMT",
+      "bullets": [
+        "• The longest US government shutdown in history ended on Wednesday after more than 42 days",
+        "• The compromise sets the stage for government operations to return to normal through January",
+        "• Six Democrats broke with their party to vote for the bill, with two Republicans voting against it "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.961
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The longest US government shutdown in history ended on Wednesday after more than 42 days",
+          "• The compromise sets the stage for government operations to return to normal through January"
+        ],
+        "hopeful_bullets": [
+          "• Six Democrats broke with their party to vote for the bill, with two Republicans voting against it "
+        ],
+        "stakes_bullets": [
+          "• Six Democrats broke with their party to vote for the bill, with two Republicans voting against it "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "72064cac5e0e"
     },
     {
       "id": "3ab38747a821",
@@ -6051,39 +6057,6 @@
       "cluster_id": "2a596edc34bf"
     },
     {
-      "id": "311f80cf3d68",
-      "title": "House passes bill to reopen government as new Epstein revelations roil US politics – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/nov/12/donald-trump-us-government-shutdown-house-democrats-republicans-latest-news-updates",
-      "published_at": "Thu, 13 Nov 2025 02:00:04 GMT",
-      "bullets": [
-        "• Six Democrats voted for the measure and two Republicans voted against it",
-        "• Trump plans to sign the bill after dinner with Wall Street bankers",
-        "• The longest government shutdown in US history will end on Wednesday night",
-        "• The House voted 222-209 to approve legislation to fund government through end of January "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.711
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Six Democrats voted for the measure and two Republicans voted against it",
-          "• Trump plans to sign the bill after dinner with Wall Street bankers"
-        ],
-        "hopeful_bullets": [
-          "• Six Democrats voted for the measure and two Republicans voted against it"
-        ],
-        "stakes_bullets": [
-          "• Trump plans to sign the bill after dinner with Wall Street bankers",
-          "• The longest government shutdown in US history will end on Wednesday night"
-        ]
-      },
-      "read_minutes": 15,
-      "cluster_id": "95b651aa8417"
-    },
-    {
       "id": "de103cbc2da3",
       "title": "International Energy Report Projects a Slower Transition to Renewables, but Oil Could Still Peak This Decade",
       "outlet": "Inside Climate News",
@@ -6119,105 +6092,6 @@
       "cluster_id": "1c32dfccd300"
     },
     {
-      "id": "c0e30e773afe",
-      "title": "Longest US government shutdown in history set to end after House passes bill",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/12/house-bill-government-shutdown-vote",
-      "published_at": "Thu, 13 Nov 2025 01:50:02 GMT",
-      "bullets": [
-        "• The longest US government shutdown in history is set to end on Wednesday after more than 42 days",
-        "• The legislation restarts federal operations but does not include the healthcare funding the minority party demanded",
-        "• Donald Trump will sign the bill Wednesday night, the White House said "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The longest US government shutdown in history is set to end on Wednesday after more than 42 days",
-          "• The legislation restarts federal operations but does not include the healthcare funding the minority party demanded"
-        ],
-        "hopeful_bullets": [
-          "• The longest US government shutdown in history is set to end on Wednesday after more than 42 days",
-          "• The legislation restarts federal operations but does not include the healthcare funding the minority party demanded"
-        ],
-        "stakes_bullets": [
-          "• Donald Trump will sign the bill Wednesday night, the White House said "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "b0f5d22fb212"
-    },
-    {
-      "id": "8c9fa6820a4c",
-      "title": "Liberals formally abandon emissions target but will allow moderate MPs to call net zero a ‘welcome outcome’",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2025/nov/13/liberal-party-net-zero-policy-meeting-debate-decision",
-      "published_at": "Thu, 13 Nov 2025 01:47:39 GMT",
-      "bullets": [
-        "• The Liberal party will abandon a firm net zero emissions target, siding with the Nationals to end the Coalition’s commitment to the climate goal",
-        "• Liberal shadow ministry agreed a future Coalition government would not withdraw from the Paris Agreement",
-        "• Liberal MPs will also be free to argue that reaching net zero would be a ‘welcome outcome’ in the future "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.967
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Liberal party will abandon a firm net zero emissions target, siding with the Nationals to end the Coalition’s commitment to the climate goal",
-          "• Liberal shadow ministry agreed a future Coalition government would not withdraw from the Paris Agreement"
-        ],
-        "hopeful_bullets": [
-          "• The Liberal party will abandon a firm net zero emissions target, siding with the Nationals to end the Coalition’s commitment to the climate goal",
-          "• Liberal shadow ministry agreed a future Coalition government would not withdraw from the Paris Agreement"
-        ],
-        "stakes_bullets": [
-          "• The Liberal party will abandon a firm net zero emissions target, siding with the Nationals to end the Coalition’s commitment to the climate goal",
-          "• Liberal MPs will also be free to argue that reaching net zero would be a ‘welcome outcome’ in the future "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ffb1a9dab9d8"
-    },
-    {
-      "id": "ed6824f8e108",
-      "title": "Former state Rep. Chris Paddie fined $105,500 for violating revolving door lobbying law",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17208287/former-texas-representative-chris-paddie-lobbying-fine",
-      "published_at": "Thu, 13 Nov 2025 01:33:48 +0000",
-      "bullets": [
-        "• Paddie donated $54,000 to lawmakers and candidates while he was still in office",
-        "• The law prohibits former lawmakers from donating money before leaving office",
-        "• He re-contempted the law and donated $55,500 to cover the amount "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.947
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Paddie donated $54,000 to lawmakers and candidates while he was still in office",
-          "• The law prohibits former lawmakers from donating money before leaving office"
-        ],
-        "hopeful_bullets": [
-          "• Paddie donated $54,000 to lawmakers and candidates while he was still in office",
-          "• The law prohibits former lawmakers from donating money before leaving office"
-        ],
-        "stakes_bullets": [
-          "• Paddie donated $54,000 to lawmakers and candidates while he was still in office",
-          "• The law prohibits former lawmakers from donating money before leaving office",
-          "• He re-contempted the law and donated $55,500 to cover the amount "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7e6efcf8e3fc"
-    },
-    {
       "id": "d02462d34113",
       "title": "35 Most Nostalgic Flash Games From The Early 2000s",
       "outlet": "CBR",
@@ -6250,41 +6124,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "2cad4816f4da"
-    },
-    {
-      "id": "db23c11ca1eb",
-      "title": "7 Legendary Western Villains Who Completely Stole the Movie",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/western-villains-who-completely-stole-the-movie/",
-      "published_at": "Thu, 13 Nov 2025 01:20:13 GMT",
-      "bullets": [
-        "• It's difficult to make a truly memorable Western film without a magnetic villain",
-        "• A compelling antagonist is crucial for driving the conflict forward",
-        "• The Western villain exemplifies and twists everything the genre stands for: justice, revenge and survival",
-        "• The frontier setting has served well to create some of the most hardened and memorable outlaws on screen "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• It's difficult to make a truly memorable Western film without a magnetic villain",
-          "• A compelling antagonist is crucial for driving the conflict forward"
-        ],
-        "hopeful_bullets": [
-          "• It's difficult to make a truly memorable Western film without a magnetic villain",
-          "• A compelling antagonist is crucial for driving the conflict forward"
-        ],
-        "stakes_bullets": [
-          "• It's difficult to make a truly memorable Western film without a magnetic villain",
-          "• A compelling antagonist is crucial for driving the conflict forward",
-          "• The Western villain exemplifies and twists everything the genre stands for: justice, revenge and survival"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "54d3c5c1c75f"
     },
     {
       "id": "a4f05eed71f6",
@@ -6352,36 +6191,6 @@
       "cluster_id": "2cbe0ffc4f40"
     },
     {
-      "id": "acfcab510b03",
-      "title": "Asia markets mostly rise as Dow tops 48,000 for first time; traders eye U.S. government reopening",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/13/asia-pacific-markets-thursday-nikkei-225-hang-seng-index-kospi-nifty-50.html",
-      "published_at": "Thu, 13 Nov 2025 00:57:04 GMT",
-      "bullets": [
-        "• Japan's benchmark Nikkei 225 index rose 0.23% in early trading, while the Topix added 0.62% to hit a record high",
-        "• SoftBank Group shares continue to fall for a second consecutive day, plunging more than 5%, after the Japanese giant said Tuesday it sold its entire $5.8 billion stake in Nvidia in October "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.959
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 0.23% in early trading, while the Topix added 0.62% to hit a record high",
-          "• SoftBank Group shares continue to fall for a second consecutive day, plunging more than 5%, after the Japanese giant said Tuesday it sold its entire $5.8 billion stake in Nvidia in October "
-        ],
-        "hopeful_bullets": [
-          "• Japan's benchmark Nikkei 225 index rose 0.23% in early trading, while the Topix added 0.62% to hit a record high"
-        ],
-        "stakes_bullets": [
-          "• SoftBank Group shares continue to fall for a second consecutive day, plunging more than 5%, after the Japanese giant said Tuesday it sold its entire $5.8 billion stake in Nvidia in October "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "55dbdc4c3c05"
-    },
-    {
       "id": "ceeaa8b9fe66",
       "title": "Jeffrey Epstein files: House speaker announces vote next week on release of docs",
       "outlet": "US Top News and Analysis",
@@ -6413,37 +6222,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "60d2ceb0e1fe"
-    },
-    {
-      "id": "f2e15ee984c2",
-      "title": "4 Words in Lord of the Rings Quietly Changed Everything About Its Greatest Villain",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/lord-of-the-rings-quote-sauron-fears-you-aragorn-changed-everything/",
-      "published_at": "Thu, 13 Nov 2025 00:40:12 GMT",
-      "bullets": [
-        "• Peter Jackson's The Lord of the Rings: The Fellowship of the Ring established that the Dark Lord Sauron was a nearly unstoppable force",
-        "• Sauron only defeated because Elendil's son, Isildur, was lucky enough to cut the One Ring from Sauron's finger "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Peter Jackson's The Lord of the Rings: The Fellowship of the Ring established that the Dark Lord Sauron was a nearly unstoppable force",
-          "• Sauron only defeated because Elendil's son, Isildur, was lucky enough to cut the One Ring from Sauron's finger "
-        ],
-        "hopeful_bullets": [
-          "• Peter Jackson's The Lord of the Rings: The Fellowship of the Ring established that the Dark Lord Sauron was a nearly unstoppable force",
-          "• Sauron only defeated because Elendil's son, Isildur, was lucky enough to cut the One Ring from Sauron's finger "
-        ],
-        "stakes_bullets": [
-          "• Sauron only defeated because Elendil's son, Isildur, was lucky enough to cut the One Ring from Sauron's finger "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "112c7f233e1f"
     },
     {
       "id": "60f1fb7c82ce",
@@ -6480,72 +6258,6 @@
       "cluster_id": "8bdfd29b8d8e"
     },
     {
-      "id": "6d4e32625083",
-      "title": "Optimus Prime Returns in Controversial Transformers Reveal",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/transformers-season-3-optimus-prime-reveal/",
-      "published_at": "Thu, 13 Nov 2025 00:13:45 GMT",
-      "bullets": [
-        "• New behind-the-scenes info has been posted online about The Transformers",
-        "• The Paul Davids Collection: G1 Outlines, Scripts, Storyboards, Models And More series includes several tidbits about the show's final full season",
-        "• These include a closer look at an episode centered around the Autobot Kup "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New behind-the-scenes info has been posted online about The Transformers",
-          "• The Paul Davids Collection: G1 Outlines, Scripts, Storyboards, Models And More series includes several tidbits about the show's final full season"
-        ],
-        "hopeful_bullets": [
-          "• New behind-the-scenes info has been posted online about The Transformers",
-          "• The Paul Davids Collection: G1 Outlines, Scripts, Storyboards, Models And More series includes several tidbits about the show's final full season"
-        ],
-        "stakes_bullets": [
-          "• New behind-the-scenes info has been posted online about The Transformers",
-          "• The Paul Davids Collection: G1 Outlines, Scripts, Storyboards, Models And More series includes several tidbits about the show's final full season",
-          "• These include a closer look at an episode centered around the Autobot Kup "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "21706324f03c"
-    },
-    {
-      "id": "82751740e26f",
-      "title": "Matlock Season 2 Quietly Crossed a Madeline & Olympia Line It Can’t Undo",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/matlock-season-2-episode-5-madeline-olympia-julian-gaslight-mistake/",
-      "published_at": "Thu, 13 Nov 2025 00:10:12 GMT",
-      "bullets": [
-        "• Matlock Season 2, Episode 5, \"Mousetrap,\" aired Thursday, November 6, on CBS",
-        "• Julian Markston (Jason Ritter) almost pieced together a vital element of their secret plan",
-        "• Julian is suspicious of Madeline due to her friendship with Emmalyn Belvin "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.953
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Matlock Season 2, Episode 5, \"Mousetrap,\" aired Thursday, November 6, on CBS",
-          "• Julian Markston (Jason Ritter) almost pieced together a vital element of their secret plan"
-        ],
-        "hopeful_bullets": [
-          "• Matlock Season 2, Episode 5, \"Mousetrap,\" aired Thursday, November 6, on CBS",
-          "• Julian Markston (Jason Ritter) almost pieced together a vital element of their secret plan"
-        ],
-        "stakes_bullets": [
-          "• Julian Markston (Jason Ritter) almost pieced together a vital element of their secret plan"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "80e835acb043"
-    },
-    {
       "id": "b0cc81d7f6d5",
       "title": "World still on track for catastrophic 2.6C temperature rise, report finds",
       "outlet": "Environment | The Guardian",
@@ -6575,40 +6287,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "d839d43ec4b9"
-    },
-    {
-      "id": "9c77d8d746b9",
-      "title": "Penny Dreadful Quietly Perfected the 1 Fantasy Trope That Killed Every Other Adaptation",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/penny-dreadful-perfected-monster-trope/",
-      "published_at": "Thu, 13 Nov 2025 00:00:12 GMT",
-      "bullets": [
-        "• Penny Dreadful is one of the most faithful depictions of classic characters",
-        "• The film was released in 2004, but not the first attempt to bring them back to the big screen",
-        "• It was the first time the characters have been brought back to film in a major way "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Penny Dreadful is one of the most faithful depictions of classic characters",
-          "• The film was released in 2004, but not the first attempt to bring them back to the big screen"
-        ],
-        "hopeful_bullets": [
-          "• Penny Dreadful is one of the most faithful depictions of classic characters",
-          "• The film was released in 2004, but not the first attempt to bring them back to the big screen"
-        ],
-        "stakes_bullets": [
-          "• Penny Dreadful is one of the most faithful depictions of classic characters",
-          "• The film was released in 2004, but not the first attempt to bring them back to the big screen",
-          "• It was the first time the characters have been brought back to film in a major way "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "ed53943e97b0"
     },
     {
       "id": "fe447758d910",
@@ -7028,38 +6706,6 @@
       "cluster_id": "45a69d77e44c"
     },
     {
-      "id": "1178a839fdce",
-      "title": "TVC15: Luke Skywalker (Bespin Fatigues) (VC04)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-05-tvc15-luke-skywalker-bespin-fatigues-vc04/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-luke-skywalker-bespin-fatigues-vc04",
-      "published_at": "Thu, 06 Nov 2025 03:17:38 +0000",
-      "bullets": [
-        "• The Vintage Collection is celebrating the 15th Anniversary of the line",
-        "• Figures came with enhanced articulation and premium soft goods and accessories",
-        "• The first wave was The Empire Strikes Back, and collectors couldn't wait to see what Hasbro would do with the line next "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Vintage Collection is celebrating the 15th Anniversary of the line",
-          "• Figures came with enhanced articulation and premium soft goods and accessories"
-        ],
-        "hopeful_bullets": [
-          "• The Vintage Collection is celebrating the 15th Anniversary of the line",
-          "• Figures came with enhanced articulation and premium soft goods and accessories"
-        ],
-        "stakes_bullets": [
-          "• The first wave was The Empire Strikes Back, and collectors couldn't wait to see what Hasbro would do with the line next "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "56d8b404193a"
-    },
-    {
       "id": "174adc947b0f",
       "title": "John Brennan Dishes on the ‘Up All Night’ Revival",
       "outlet": "Wicked Horror",
@@ -7261,40 +6907,6 @@
       "cluster_id": "85c2f547443d"
     },
     {
-      "id": "4b78fbb505ee",
-      "title": "TVC15: Lumat (VC104)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-08-tvc15-lumat-vc104/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-lumat-vc104",
-      "published_at": "Sun, 09 Nov 2025 02:30:04 +0000",
-      "bullets": [
-        "• The Vintage Collection TVC15 VC104 is celebrating the 15th anniversary of the original Jenner lineup",
-        "• Lumat was the final figure they needed to produce to give us all eight characters from the Jenner lineup from the mid-1980s",
-        "• The figure borrowed existing tooling, but Hasbro made it look all-new again thanks to the gorgeous new portrait and paint job "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Vintage Collection TVC15 VC104 is celebrating the 15th anniversary of the original Jenner lineup",
-          "• Lumat was the final figure they needed to produce to give us all eight characters from the Jenner lineup from the mid-1980s"
-        ],
-        "hopeful_bullets": [
-          "• The Vintage Collection TVC15 VC104 is celebrating the 15th anniversary of the original Jenner lineup",
-          "• Lumat was the final figure they needed to produce to give us all eight characters from the Jenner lineup from the mid-1980s"
-        ],
-        "stakes_bullets": [
-          "• The Vintage Collection TVC15 VC104 is celebrating the 15th anniversary of the original Jenner lineup",
-          "• Lumat was the final figure they needed to produce to give us all eight characters from the Jenner lineup from the mid-1980s",
-          "• The figure borrowed existing tooling, but Hasbro made it look all-new again thanks to the gorgeous new portrait and paint job "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "9127ee1a5b96"
-    },
-    {
       "id": "c1fa9628700b",
       "title": "Boba Fett’s Comeback W/ Scott Ryfun – SWR #474",
       "outlet": "The Star Wars Report Podcast",
@@ -7429,39 +7041,6 @@
       },
       "read_minutes": 40,
       "cluster_id": "2e116862dfd5"
-    },
-    {
-      "id": "f36dbae0691a",
-      "title": "TVC15: Luke Skywalker (Hoth Outfit) (VC95)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-07-tvc15-luke-skywalker-hoth-outfit-vc95/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-luke-skywalker-hoth-outfit-vc95",
-      "published_at": "Sat, 08 Nov 2025 04:59:20 +0000",
-      "bullets": [
-        "• Hasbro was working on an all-new version of Luke Skywalker based on the character’s appearance from the opening of Episode 5",
-        "• The figure only looks good in one configuration, with the goggles and scarf down",
-        "• Hopefully a new version is imminent in the modern line to replace this now-obsolete version "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hasbro was working on an all-new version of Luke Skywalker based on the character’s appearance from the opening of Episode 5",
-          "• The figure only looks good in one configuration, with the goggles and scarf down"
-        ],
-        "hopeful_bullets": [
-          "• Hopefully a new version is imminent in the modern line to replace this now-obsolete version "
-        ],
-        "stakes_bullets": [
-          "• Hasbro was working on an all-new version of Luke Skywalker based on the character’s appearance from the opening of Episode 5",
-          "• The figure only looks good in one configuration, with the goggles and scarf down",
-          "• Hopefully a new version is imminent in the modern line to replace this now-obsolete version "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "783d3bdd3ee4"
     },
     {
       "id": "1231af1e5df0",
@@ -7889,41 +7468,6 @@
       "cluster_id": "9f3b281e734b"
     },
     {
-      "id": "8b1cea2bb6c0",
-      "title": "TVC15: Aayla Secura (VC58)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-09-tvc15-aayla-secura-vc58/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-aayla-secura-vc58",
-      "published_at": "Mon, 10 Nov 2025 01:12:24 +0000",
-      "bullets": [
-        "• Character: Aayla Secura",
-        "• Number: VC58",
-        "• Wave: 13.75-inch Super-Articulated 327th Star Corps Battle Of Felucia Battle Of Geonosis",
-        "• Hasbro worked overtime to cull together a cast of characters from across the Star Wars universe "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.966
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Character: Aayla Secura",
-          "• Number: VC58"
-        ],
-        "hopeful_bullets": [
-          "• Character: Aayla Secura",
-          "• Number: VC58"
-        ],
-        "stakes_bullets": [
-          "• Character: Aayla Secura",
-          "• Number: VC58",
-          "• Wave: 13.75-inch Super-Articulated 327th Star Corps Battle Of Felucia Battle Of Geonosis"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "bd02047666ee"
-    },
-    {
       "id": "bd5dc870be22",
       "title": "The London solar project slashing bills for vulnerable residents",
       "outlet": "Positive News",
@@ -8252,38 +7796,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "3b02d11cd52b"
-    },
-    {
-      "id": "b93d6508cbd7",
-      "title": "TVC15: Grand Moff Tarkin (VC98)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-06-tvc15-grand-moff-tarkin-vc98/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-grand-moff-tarkin-vc98",
-      "published_at": "Fri, 07 Nov 2025 03:39:27 +0000",
-      "bullets": [
-        "• The Vintage Collection is celebrating the 15th Anniversary of the Star Wars series",
-        "• Grand Moff Tarkin is the figure that collectors wanted the most but were also incredibly disappointed by",
-        "• Sadly, the highlight here is the all-new mouse droid",
-        "• Hopefully, Hasbro will treat collectors right and get a perfected version of this action figure soon "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.729
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Vintage Collection is celebrating the 15th Anniversary of the Star Wars series",
-          "• Grand Moff Tarkin is the figure that collectors wanted the most but were also incredibly disappointed by"
-        ],
-        "hopeful_bullets": [
-          "• Hopefully, Hasbro will treat collectors right and get a perfected version of this action figure soon "
-        ],
-        "stakes_bullets": [
-          "• Hopefully, Hasbro will treat collectors right and get a perfected version of this action figure soon "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "b9a58828de78"
     },
     {
       "id": "142cf1b6c83a",
@@ -9527,15 +9039,33 @@
       ]
     },
     {
-      "id": "b0f5d22fb212",
-      "topic": "end government history longest",
+      "id": "b9251403cb58",
+      "topic": "batch email epstein glance",
       "keywords": [
+        "batch",
+        "email",
+        "epstein",
+        "glance",
+        "suggest",
+        "trump"
+      ],
+      "item_ids": [
+        "c5b178c43395"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "72064cac5e0e",
+      "topic": "bill end funding longest",
+      "keywords": [
+        "bill",
         "end",
-        "government",
-        "history",
+        "funding",
         "longest",
-        "set",
-        "shutdown"
+        "sign",
+        "trump"
       ],
       "item_ids": [
         "c0e30e773afe"
@@ -9617,14 +9147,14 @@
       ]
     },
     {
-      "id": "89412bf89255",
-      "topic": "aide gavin indicted newsom",
+      "id": "db81f9774384",
+      "topic": "aide indicted newsom scheme",
       "keywords": [
         "aide",
-        "gavin",
         "indicted",
         "newsom",
         "scheme",
+        "steal",
         "top"
       ],
       "item_ids": [
@@ -9647,24 +9177,6 @@
       ],
       "item_ids": [
         "5fc26a6770ad"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "12f984f6ca24",
-      "topic": "arrested during hundred judge",
-      "keywords": [
-        "arrested",
-        "during",
-        "hundred",
-        "judge",
-        "order",
-        "release"
-      ],
-      "item_ids": [
-        "95de2cb577b6"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9814,6 +9326,24 @@
       ]
     },
     {
+      "id": "02343b886c80",
+      "topic": "challenge documentary look pbs",
+      "keywords": [
+        "challenge",
+        "documentary",
+        "look",
+        "pbs",
+        "surviving",
+        "year"
+      ],
+      "item_ids": [
+        "cb60b69c6af7"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "e05e3b4cb6d0",
       "topic": "accuse champion ches federation",
       "keywords": [
@@ -9832,15 +9362,15 @@
       ]
     },
     {
-      "id": "81b5e7bc5711",
-      "topic": "bill end funding house",
+      "id": "7e160ffad258",
+      "topic": "bill ends funding government",
       "keywords": [
         "bill",
-        "end",
+        "ends",
         "funding",
-        "house",
-        "passe",
-        "record"
+        "government",
+        "sign",
+        "trump"
       ],
       "item_ids": [
         "7b696a90f2af"
@@ -9922,15 +9452,15 @@
       ]
     },
     {
-      "id": "55dbdc4c3c05",
-      "topic": "asia dow market mostly",
+      "id": "058cccd0e8ba",
+      "topic": "asia edge higher mostly",
       "keywords": [
         "asia",
-        "dow",
-        "market",
+        "edge",
+        "higher",
         "mostly",
-        "rise",
-        "tops"
+        "pacific",
+        "stock"
       ],
       "item_ids": [
         "acfcab510b03"
@@ -10886,6 +10416,42 @@
       ]
     },
     {
+      "id": "f872c1551bba",
+      "topic": "committee email house member",
+      "keywords": [
+        "committee",
+        "email",
+        "house",
+        "member",
+        "oversight",
+        "talk"
+      ],
+      "item_ids": [
+        "5446884e1c5a"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "205eaf72ee3f",
+      "topic": "end history house longest",
+      "keywords": [
+        "end",
+        "history",
+        "house",
+        "longest",
+        "shutdown",
+        "vote"
+      ],
+      "item_ids": [
+        "d804a300ac02"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "40eb5352d9ca",
       "topic": "diabete health immigrant obesity",
       "keywords": [
@@ -11236,15 +10802,33 @@
       ]
     },
     {
-      "id": "ffb1a9dab9d8",
-      "topic": "abandon allow emission formally",
+      "id": "82880bd7dd39",
+      "topic": "australia chair climate corp",
+      "keywords": [
+        "australia",
+        "chair",
+        "climate",
+        "corp",
+        "outlet",
+        "part"
+      ],
+      "item_ids": [
+        "ed4288dd4e1f"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "b713150dd8b6",
+      "topic": "abandon formally liberal net",
       "keywords": [
         "abandon",
-        "allow",
-        "emission",
         "formally",
         "liberal",
-        "target"
+        "net",
+        "target",
+        "zero"
       ],
       "item_ids": [
         "8c9fa6820a4c"
@@ -12505,158 +12089,6 @@
       ]
     },
     {
-      "id": "244347f2c36d",
-      "topic": "amidala disguise padm peasant",
-      "keywords": [
-        "amidala",
-        "disguise",
-        "padm",
-        "peasant",
-        "tvc15",
-        "vc33"
-      ],
-      "item_ids": [
-        "61fe9581fabe"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "92a2f6498f7b",
-      "topic": "clone lieutenant trooper tvc15",
-      "keywords": [
-        "clone",
-        "lieutenant",
-        "trooper",
-        "tvc15",
-        "vc109"
-      ],
-      "item_ids": [
-        "a7c860b5ae63"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "bd02047666ee",
-      "topic": "aayla secura tvc15 vc58",
-      "keywords": [
-        "aayla",
-        "secura",
-        "tvc15",
-        "vc58"
-      ],
-      "item_ids": [
-        "8b1cea2bb6c0"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "9127ee1a5b96",
-      "topic": "lumat tvc15 vc104",
-      "keywords": [
-        "lumat",
-        "tvc15",
-        "vc104"
-      ],
-      "item_ids": [
-        "4b78fbb505ee"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "783d3bdd3ee4",
-      "topic": "hoth luke outfit skywalker",
-      "keywords": [
-        "hoth",
-        "luke",
-        "outfit",
-        "skywalker",
-        "tvc15",
-        "vc95"
-      ],
-      "item_ids": [
-        "f36dbae0691a"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "b9a58828de78",
-      "topic": "grand moff tarkin tvc15",
-      "keywords": [
-        "grand",
-        "moff",
-        "tarkin",
-        "tvc15",
-        "vc98"
-      ],
-      "item_ids": [
-        "b93d6508cbd7"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "56d8b404193a",
-      "topic": "bespin fatigue luke skywalker",
-      "keywords": [
-        "bespin",
-        "fatigue",
-        "luke",
-        "skywalker",
-        "tvc15",
-        "vc04"
-      ],
-      "item_ids": [
-        "1178a839fdce"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "92252a960604",
-      "topic": "old republic trooper tvc15",
-      "keywords": [
-        "old",
-        "republic",
-        "trooper",
-        "tvc15",
-        "vc113"
-      ],
-      "item_ids": [
-        "3fc7b413ab65"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "42395f97edb8",
-      "topic": "darth maul tvc15 vc86",
-      "keywords": [
-        "darth",
-        "maul",
-        "tvc15",
-        "vc86"
-      ],
-      "item_ids": [
-        "c82055c14e56"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
       "id": "4d68b7d6cb41",
       "topic": "eclipse favorite revealed rotj",
       "keywords": [
@@ -13162,6 +12594,94 @@
       ]
     },
     {
+      "id": "30f4216d691b",
+      "topic": "all anime ball dragon",
+      "keywords": [
+        "all",
+        "anime",
+        "ball",
+        "dragon",
+        "vegeta"
+      ],
+      "item_ids": [
+        "997161422ce8"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "449d140a897b",
+      "topic": "avenger borrowing crucial doomsday",
+      "keywords": [
+        "avenger",
+        "borrowing",
+        "crucial",
+        "doomsday",
+        "idea",
+        "scrapped"
+      ],
+      "item_ids": [
+        "a63e533d4152"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "5c152db9cc03",
+      "topic": "barzini forget godfather hiding",
+      "keywords": [
+        "barzini",
+        "forget",
+        "godfather",
+        "hiding",
+        "true",
+        "villain"
+      ],
+      "item_ids": [
+        "cd17639efea0"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "adbde73f7e92",
+      "topic": "fixe hole jujutsu kaisen",
+      "keywords": [
+        "fixe",
+        "hole",
+        "jujutsu",
+        "kaisen",
+        "modulo",
+        "plot"
+      ],
+      "item_ids": [
+        "8986bb04334e"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "2e1fe1d16029",
+      "topic": "episode final mystery perfect",
+      "keywords": [
+        "episode",
+        "final",
+        "mystery",
+        "perfect",
+        "show"
+      ],
+      "item_ids": [
+        "b3881cf2bce7"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "f342095fa47c",
       "topic": "everyone far gets side",
       "keywords": [
@@ -13246,96 +12766,6 @@
       ],
       "item_ids": [
         "d02462d34113"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "54d3c5c1c75f",
-      "topic": "completely legendary movie stole",
-      "keywords": [
-        "completely",
-        "legendary",
-        "movie",
-        "stole",
-        "villain",
-        "western"
-      ],
-      "item_ids": [
-        "db23c11ca1eb"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "112c7f233e1f",
-      "topic": "changed everything lord quietly",
-      "keywords": [
-        "changed",
-        "everything",
-        "lord",
-        "quietly",
-        "ring",
-        "word"
-      ],
-      "item_ids": [
-        "f2e15ee984c2"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "21706324f03c",
-      "topic": "controversial optimu prime return",
-      "keywords": [
-        "controversial",
-        "optimu",
-        "prime",
-        "return",
-        "reveal",
-        "transformer"
-      ],
-      "item_ids": [
-        "6d4e32625083"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "80e835acb043",
-      "topic": "crossed madeline matlock olympia",
-      "keywords": [
-        "crossed",
-        "madeline",
-        "matlock",
-        "olympia",
-        "quietly",
-        "season"
-      ],
-      "item_ids": [
-        "82751740e26f"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "ed53943e97b0",
-      "topic": "dreadful fantasy penny perfected",
-      "keywords": [
-        "dreadful",
-        "fantasy",
-        "penny",
-        "perfected",
-        "quietly",
-        "trope"
-      ],
-      "item_ids": [
-        "9c77d8d746b9"
       ],
       "outlets": [
         "CBR"
@@ -13520,6 +12950,24 @@
       ]
     },
     {
+      "id": "05e8b375deef",
+      "topic": "babyface chronicling documentary edmond",
+      "keywords": [
+        "babyface",
+        "chronicling",
+        "documentary",
+        "edmond",
+        "kenny",
+        "life"
+      ],
+      "item_ids": [
+        "5d4382f59e2a"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "bc467e3b98d1",
       "topic": "appeal judge lanez lose",
       "keywords": [
@@ -13676,24 +13124,6 @@
       ],
       "item_ids": [
         "4878c3c09de8"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "105e4273afc9",
-      "topic": "acting adele debut hello",
-      "keywords": [
-        "acting",
-        "adele",
-        "debut",
-        "hello",
-        "make",
-        "onscreen"
-      ],
-      "item_ids": [
-        "380fd0db7d66"
       ],
       "outlets": [
         "Music News"
@@ -13876,186 +13306,6 @@
       ],
       "outlets": [
         "RSS: News"
-      ]
-    },
-    {
-      "id": "04ea667a77e6",
-      "topic": "deal funding government house",
-      "keywords": [
-        "deal",
-        "funding",
-        "government",
-        "house",
-        "oks",
-        "reopen"
-      ],
-      "item_ids": [
-        "c0f64b1b6116"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "7e6efcf8e3fc",
-      "topic": "chri fined former paddie",
-      "keywords": [
-        "chri",
-        "fined",
-        "former",
-        "paddie",
-        "rep",
-        "state"
-      ],
-      "item_ids": [
-        "ed6824f8e108"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "8d5eeba7b326",
-      "topic": "action awarenes copd month",
-      "keywords": [
-        "action",
-        "awarenes",
-        "copd",
-        "month",
-        "november",
-        "take"
-      ],
-      "item_ids": [
-        "569df9410cdc"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "74c666a99dee",
-      "topic": "first hearing hold lawmaker",
-      "keywords": [
-        "first",
-        "hearing",
-        "hold",
-        "lawmaker",
-        "texa",
-        "thursday"
-      ],
-      "item_ids": [
-        "64c3496af2b3"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "1e3169a7ae3b",
-      "topic": "announce chair county french",
-      "keywords": [
-        "announce",
-        "chair",
-        "county",
-        "french",
-        "gop",
-        "tarrant"
-      ],
-      "item_ids": [
-        "0e86bb1f49b0"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "22b410a36994",
-      "topic": "closure during government head",
-      "keywords": [
-        "closure",
-        "during",
-        "government",
-        "head",
-        "start",
-        "texa"
-      ],
-      "item_ids": [
-        "40589b6167f2"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "2a809b38293f",
-      "topic": "donald endorse gov greg",
-      "keywords": [
-        "donald",
-        "endorse",
-        "gov",
-        "greg",
-        "president",
-        "trump"
-      ],
-      "item_ids": [
-        "2a5a75cc63c4"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "d1b010836e55",
-      "topic": "bell chri former join",
-      "keywords": [
-        "bell",
-        "chri",
-        "former",
-        "join",
-        "rep",
-        "texa"
-      ],
-      "item_ids": [
-        "6d6868ab0ce2"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "cc528d0ea698",
-      "topic": "among facing largest older",
-      "keywords": [
-        "among",
-        "facing",
-        "largest",
-        "older",
-        "texan",
-        "those"
-      ],
-      "item_ids": [
-        "f91f8b7c3bf2"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "e3a207bde904",
-      "topic": "alamo kate ousting roger",
-      "keywords": [
-        "alamo",
-        "kate",
-        "ousting",
-        "roger",
-        "tribcast",
-        "trust"
-      ],
-      "item_ids": [
-        "b0a8d1bdee01"
-      ],
-      "outlets": [
-        "The Texas Tribune"
       ]
     }
   ]
