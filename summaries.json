@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-13T00:14:55Z",
+  "generated_at": "2025-11-13T02:36:54Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -139,38 +139,37 @@
       "cluster_id": "4d68b7d6cb41"
     },
     {
-      "id": "7b696a90f2af",
-      "title": "Government shutdown: House clears procedural hurdle to vote on funding bill",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/government-shutdown-house-vote-trump.html",
-      "published_at": "Wed, 12 Nov 2025 23:41:54 GMT",
+      "id": "57cc18deb500",
+      "title": "US House begins voting on bill that could end longest ever government shutdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/12/house-vote-shutdown-bill",
+      "published_at": "Wed, 12 Nov 2025 23:45:21 GMT",
       "bullets": [
-        "• The House of Representatives has passed a procedural vote on a continuing resolution to fund the government",
-        "• The vote is expected to take place between 7 and 7:30 p.m",
-        "• ET",
-        "• President Donald Trump has said he would sign the bill to end the government shutdown "
+        "• House returns to Washington to vote after more than 50-day absence from Washington",
+        "• The bill would end the longest government shutdown in US history",
+        "• Democrats are furious that the Senate-brokered compromise does not extend healthcare subsidies",
+        "• The measure's passage would be welcome news for the White House, which is looking to end shutdown "
       ],
-      "category": "Business",
+      "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.963
+        "score": 0.956
       },
       "moods": {
         "brief_bullets": [
-          "• The House of Representatives has passed a procedural vote on a continuing resolution to fund the government",
-          "• The vote is expected to take place between 7 and 7:30 p.m"
+          "• House returns to Washington to vote after more than 50-day absence from Washington",
+          "• The bill would end the longest government shutdown in US history"
         ],
         "hopeful_bullets": [
-          "• The House of Representatives has passed a procedural vote on a continuing resolution to fund the government",
-          "• The vote is expected to take place between 7 and 7:30 p.m"
+          "• House returns to Washington to vote after more than 50-day absence from Washington",
+          "• The bill would end the longest government shutdown in US history"
         ],
         "stakes_bullets": [
-          "• The vote is expected to take place between 7 and 7:30 p.m",
-          "• President Donald Trump has said he would sign the bill to end the government shutdown "
+          "• The bill would end the longest government shutdown in US history"
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "b2f5938eb016"
+      "read_minutes": 3,
+      "cluster_id": "fd546abb27ef"
     },
     {
       "id": "e8d9a33297b4",
@@ -207,74 +206,6 @@
       "cluster_id": "6e0716dab530"
     },
     {
-      "id": "ceeaa8b9fe66",
-      "title": "Jeffrey Epstein files: House petition secures final signature to force vote on releasing docs",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/jeffrey-epstein-files-house-vote-grijalva.html",
-      "published_at": "Wed, 12 Nov 2025 23:33:23 GMT",
-      "bullets": [
-        "• Rep",
-        "• Adelita Grijalva, D-Ariz., signs petition to force release of Jeffrey Epstein files",
-        "• Jeffrey Epstein, a convicted sex offender, killed himself in 2019 after his arrest on child sex trafficking charges",
-        "• Trump administration has been under fire for reneging on promises to release files related to Epstein "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Rep",
-          "• Adelita Grijalva, D-Ariz., signs petition to force release of Jeffrey Epstein files"
-        ],
-        "hopeful_bullets": [
-          "• Rep",
-          "• Adelita Grijalva, D-Ariz., signs petition to force release of Jeffrey Epstein files"
-        ],
-        "stakes_bullets": [
-          "• Rep",
-          "• Adelita Grijalva, D-Ariz., signs petition to force release of Jeffrey Epstein files",
-          "• Jeffrey Epstein, a convicted sex offender, killed himself in 2019 after his arrest on child sex trafficking charges"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6dcde8683abb"
-    },
-    {
-      "id": "311f80cf3d68",
-      "title": "Petition to trigger US House vote on release of Epstein files reaches required total – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/nov/12/donald-trump-us-government-shutdown-house-democrats-republicans-latest-news-updates",
-      "published_at": "Wed, 12 Nov 2025 23:29:09 GMT",
-      "bullets": [
-        "• Petition to trigger House vote on release of Epstein files reaches required total of 218 members of Congress",
-        "• New member of the House of Representatives Adelita Grijalva signs petition to force vote on legislation",
-        "• The bill would require the full release of files from the federal investigation of Jeffrey Epstein "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.962
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Petition to trigger House vote on release of Epstein files reaches required total of 218 members of Congress",
-          "• New member of the House of Representatives Adelita Grijalva signs petition to force vote on legislation"
-        ],
-        "hopeful_bullets": [
-          "• Petition to trigger House vote on release of Epstein files reaches required total of 218 members of Congress",
-          "• New member of the House of Representatives Adelita Grijalva signs petition to force vote on legislation"
-        ],
-        "stakes_bullets": [
-          "• Petition to trigger House vote on release of Epstein files reaches required total of 218 members of Congress",
-          "• The bill would require the full release of files from the federal investigation of Jeffrey Epstein "
-        ]
-      },
-      "read_minutes": 15,
-      "cluster_id": "8ef08383253c"
-    },
-    {
       "id": "7a4fc65392b9",
       "title": "Cisco's stock jumps on earnings beat, strong guidance and $1.3 billion in AI orders",
       "outlet": "US Top News and Analysis",
@@ -305,40 +236,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "fcd8dc4cd576"
-    },
-    {
-      "id": "da91d5788a6a",
-      "title": "Best Slice-of-Life Dragon Ball Super Episodes",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-dragon-ball-super-episodes-slice-of-life/",
-      "published_at": "Wed, 12 Nov 2025 23:25:12 GMT",
-      "bullets": [
-        "• Dragon Ball Super has some of the best slice-of-life episodes in anime",
-        "• The first episode picks up four years after Kid Buu’s defeat, while everyone is still in the midst of enjoying a peaceful world",
-        "• The series's first episode, \"A Peacetime Reward: Who Gets the 100,000,000 Zeni?!,\" begins with a humble introduction "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dragon Ball Super has some of the best slice-of-life episodes in anime",
-          "• The first episode picks up four years after Kid Buu’s defeat, while everyone is still in the midst of enjoying a peaceful world"
-        ],
-        "hopeful_bullets": [
-          "• Dragon Ball Super has some of the best slice-of-life episodes in anime",
-          "• The first episode picks up four years after Kid Buu’s defeat, while everyone is still in the midst of enjoying a peaceful world"
-        ],
-        "stakes_bullets": [
-          "• Dragon Ball Super has some of the best slice-of-life episodes in anime",
-          "• The first episode picks up four years after Kid Buu’s defeat, while everyone is still in the midst of enjoying a peaceful world",
-          "• The series's first episode, \"A Peacetime Reward: Who Gets the 100,000,000 Zeni?!,\" begins with a humble introduction "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "5aa056251a09"
     },
     {
       "id": "2b7a0b8e5539",
@@ -407,40 +304,6 @@
       "cluster_id": "e83c4e9d0fd7"
     },
     {
-      "id": "258ca0049471",
-      "title": "The Greatest Quote in Western Movie History Is Still Untouchable",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/shane-greatest-western-quote/",
-      "published_at": "Wed, 12 Nov 2025 23:20:13 GMT",
-      "bullets": [
-        "• The Searchers is one of the most touching Westerns ever made",
-        "• The film is a combination of the classic Western and the new wave of stories",
-        "• Shane's parting words to his son, Joey, should be heard by anyone who wants to understand the story "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Searchers is one of the most touching Westerns ever made",
-          "• The film is a combination of the classic Western and the new wave of stories"
-        ],
-        "hopeful_bullets": [
-          "• The Searchers is one of the most touching Westerns ever made",
-          "• The film is a combination of the classic Western and the new wave of stories"
-        ],
-        "stakes_bullets": [
-          "• The Searchers is one of the most touching Westerns ever made",
-          "• The film is a combination of the classic Western and the new wave of stories",
-          "• Shane's parting words to his son, Joey, should be heard by anyone who wants to understand the story "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "3070c8b973f6"
-    },
-    {
       "id": "5e54ca124b36",
       "title": "Kurt Russell Confirms His Return in ‘Monarch: Legacy of Monsters’ Season 2",
       "outlet": "Bloody Disgusting!",
@@ -479,29 +342,29 @@
       "url": "https://www.bbc.com/news/articles/c3rj0d97ynvo?at_medium=RSS&at_campaign=rss",
       "published_at": "Wed, 12 Nov 2025 23:06:38 GMT",
       "bullets": [
-        "• More than 20,000 pages of documents from Jeffrey Epstein's estate released by US lawmakers",
-        "• Some of the documents include emails between Epstein and a convicted sex offender",
-        "• The president has said they fell out in the early 2000s, two years before Epstein was arrested",
-        "• Trump has consistently denied any wrongdoing in relation to Epstein "
+        "• More than 20,000 emails from Donald Trump's friend and business partner have been released",
+        "• House Democrats say the emails are an attempt to \"create a fake narrative\" about the president",
+        "• Trump has consistently denied any wrongdoing in relation to the emails",
+        "• The White House says the emails were leaked by Democrats "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.84
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• More than 20,000 pages of documents from Jeffrey Epstein's estate released by US lawmakers",
-          "• Some of the documents include emails between Epstein and a convicted sex offender"
+          "• More than 20,000 emails from Donald Trump's friend and business partner have been released",
+          "• House Democrats say the emails are an attempt to \"create a fake narrative\" about the president"
         ],
         "hopeful_bullets": [
-          "• More than 20,000 pages of documents from Jeffrey Epstein's estate released by US lawmakers",
-          "• Some of the documents include emails between Epstein and a convicted sex offender"
+          "• More than 20,000 emails from Donald Trump's friend and business partner have been released",
+          "• House Democrats say the emails are an attempt to \"create a fake narrative\" about the president"
         ],
         "stakes_bullets": [
-          "• More than 20,000 pages of documents from Jeffrey Epstein's estate released by US lawmakers",
-          "• Some of the documents include emails between Epstein and a convicted sex offender",
-          "• The president has said they fell out in the early 2000s, two years before Epstein was arrested"
+          "• More than 20,000 emails from Donald Trump's friend and business partner have been released",
+          "• House Democrats say the emails are an attempt to \"create a fake narrative\" about the president",
+          "• Trump has consistently denied any wrongdoing in relation to the emails"
         ]
       },
       "read_minutes": 5,
@@ -577,76 +440,6 @@
       "cluster_id": "201e831c2289"
     },
     {
-      "id": "4930f80ed24d",
-      "title": "Landman Showrunner Future Revealed After Taylor Sheridan's Paramount Exit",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/landman-showrunner-future-plans-taylor-sheridan-paramount-exit/",
-      "published_at": "Wed, 12 Nov 2025 22:44:54 GMT",
-      "bullets": [
-        "• Taylor Sheridan is leaving Paramount for NBCUniversal in a multi-billion dollar deal",
-        "• Landman premiered in November 2024 and will return with Season 2",
-        "• There are plans for multiple seasons",
-        "• Cast members Mustafa Speaks and Mark Collie said Sheridan will be involved at some level "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.939
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taylor Sheridan is leaving Paramount for NBCUniversal in a multi-billion dollar deal",
-          "• Landman premiered in November 2024 and will return with Season 2"
-        ],
-        "hopeful_bullets": [
-          "• Taylor Sheridan is leaving Paramount for NBCUniversal in a multi-billion dollar deal",
-          "• Landman premiered in November 2024 and will return with Season 2"
-        ],
-        "stakes_bullets": [
-          "• Taylor Sheridan is leaving Paramount for NBCUniversal in a multi-billion dollar deal",
-          "• Landman premiered in November 2024 and will return with Season 2",
-          "• There are plans for multiple seasons",
-          "• Cast members Mustafa Speaks and Mark Collie said Sheridan will be involved at some level "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "3120e2d9f86d"
-    },
-    {
-      "id": "f76f7509cec3",
-      "title": "Former Spider-Man Director Clarifies Their Involvement in Brand New Day",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/spider-man-director-clarifies-marvel-involvement-in-brand-new-day/",
-      "published_at": "Wed, 12 Nov 2025 22:44:18 GMT",
-      "bullets": [
-        "• Jon Watts was the director of Spider-Man: Homecoming and the first of the second Holland trilogy",
-        "• He's since directed Final Destination: Bloodlines and Star Wars' Skeleton Crew",
-        "• But he hasn't had any input in the fourth installment of the Spider Man franchise "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jon Watts was the director of Spider-Man: Homecoming and the first of the second Holland trilogy",
-          "• He's since directed Final Destination: Bloodlines and Star Wars' Skeleton Crew"
-        ],
-        "hopeful_bullets": [
-          "• Jon Watts was the director of Spider-Man: Homecoming and the first of the second Holland trilogy",
-          "• He's since directed Final Destination: Bloodlines and Star Wars' Skeleton Crew"
-        ],
-        "stakes_bullets": [
-          "• Jon Watts was the director of Spider-Man: Homecoming and the first of the second Holland trilogy",
-          "• He's since directed Final Destination: Bloodlines and Star Wars' Skeleton Crew",
-          "• But he hasn't had any input in the fourth installment of the Spider Man franchise "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7e1dd0f9d92f"
-    },
-    {
       "id": "8e06c6043e8c",
       "title": "Firefly Aerospace shares jump 15% on strong revenues, boosted guidance",
       "outlet": "US Top News and Analysis",
@@ -713,41 +506,6 @@
       "cluster_id": "bc467e3b98d1"
     },
     {
-      "id": "53b924d0aa1a",
-      "title": "Troll 2 Gets Its Netflix Streaming Date",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/troll-2-2025-movie-streaming-netflix-december-2025/",
-      "published_at": "Wed, 12 Nov 2025 22:30:12 GMT",
-      "bullets": [
-        "• The sequel to one of Netflix’s biggest movies of all time is set to arrive on the streaming platform exactly three years after the original",
-        "• Troll debuted on Netflix on Dec",
-        "• 1, 2022, and became a surprise hit for the streaming service",
-        "• The film is currently the most popular non-English-language movie ever on Netflix "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The sequel to one of Netflix’s biggest movies of all time is set to arrive on the streaming platform exactly three years after the original",
-          "• Troll debuted on Netflix on Dec"
-        ],
-        "hopeful_bullets": [
-          "• The sequel to one of Netflix’s biggest movies of all time is set to arrive on the streaming platform exactly three years after the original",
-          "• Troll debuted on Netflix on Dec"
-        ],
-        "stakes_bullets": [
-          "• The sequel to one of Netflix’s biggest movies of all time is set to arrive on the streaming platform exactly three years after the original",
-          "• Troll debuted on Netflix on Dec",
-          "• 1, 2022, and became a surprise hit for the streaming service"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1358be9c89f1"
-    },
-    {
       "id": "bf8a8b44a53c",
       "title": "James Wan Calls This Surreal 90s Thriller One of the “Scariest” Movies He’s Ever Seen",
       "outlet": "Dread Central",
@@ -780,72 +538,37 @@
       "cluster_id": "768f55af781a"
     },
     {
-      "id": "60f1fb7c82ce",
-      "title": "Arizona’s Adelita Grijalva sworn in after seven weeks in move that could force Epstein vote",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/12/adelita-grijalva-arizona-swearing-in",
-      "published_at": "Wed, 12 Nov 2025 22:28:20 GMT",
-      "bullets": [
-        "• The House of Representatives will hold a vote on a bill to end the government shutdown",
-        "• The vote is the last step in the process of removing the bill from the House",
-        "• The bill is expected to be signed by the next week",
-        "• It is the first time the bill has been signed since September "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The House of Representatives will hold a vote on a bill to end the government shutdown",
-          "• The vote is the last step in the process of removing the bill from the House"
-        ],
-        "hopeful_bullets": [
-          "• The House of Representatives will hold a vote on a bill to end the government shutdown",
-          "• The vote is the last step in the process of removing the bill from the House"
-        ],
-        "stakes_bullets": [
-          "• The House of Representatives will hold a vote on a bill to end the government shutdown",
-          "• The vote is the last step in the process of removing the bill from the House",
-          "• The bill is expected to be signed by the next week",
-          "• It is the first time the bill has been signed since September "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8bdfd29b8d8e"
-    },
-    {
       "id": "4ef3f09fe0ca",
       "title": "Ex-top aide to Gavin Newsom indicted in scheme to steal money from ex-US health secretary",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/nov/12/gavin-newsom-aide-indicted-xavier-becerra",
       "published_at": "Wed, 12 Nov 2025 22:18:45 GMT",
       "bullets": [
-        "• Dana Williamson was arrested and scheduled to make her first court appearance Wednesday in Sacramento",
-        "• The federal indictment lists four other co-conspirators",
-        "• It alleges that Williamson was part of a scheme involving Sean McCluskie, who was Becerra's chief of staff at the time of the alleged conduct "
+        "• Dana Williamson was indicted on 23 counts that include bank and wire fraud and conspiracy to defraud the US",
+        "• She is accused of stealing campaign money from Xavier Becerra, the former US health secretary",
+        "• Williamson is a longtime Democratic power player in Sacramento",
+        "• If convicted, she faces up to 20 years in prison "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.992
+        "score": 0.983
       },
       "moods": {
         "brief_bullets": [
-          "• Dana Williamson was arrested and scheduled to make her first court appearance Wednesday in Sacramento",
-          "• The federal indictment lists four other co-conspirators"
+          "• Dana Williamson was indicted on 23 counts that include bank and wire fraud and conspiracy to defraud the US",
+          "• She is accused of stealing campaign money from Xavier Becerra, the former US health secretary"
         ],
         "hopeful_bullets": [
-          "• Dana Williamson was arrested and scheduled to make her first court appearance Wednesday in Sacramento",
-          "• The federal indictment lists four other co-conspirators"
+          "• Dana Williamson was indicted on 23 counts that include bank and wire fraud and conspiracy to defraud the US",
+          "• She is accused of stealing campaign money from Xavier Becerra, the former US health secretary"
         ],
         "stakes_bullets": [
-          "• Dana Williamson was arrested and scheduled to make her first court appearance Wednesday in Sacramento",
-          "• It alleges that Williamson was part of a scheme involving Sean McCluskie, who was Becerra's chief of staff at the time of the alleged conduct "
+          "• Dana Williamson was indicted on 23 counts that include bank and wire fraud and conspiracy to defraud the US",
+          "• Williamson is a longtime Democratic power player in Sacramento"
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 3,
       "cluster_id": "89412bf89255"
     },
     {
@@ -917,74 +640,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "86225ad69d08"
-    },
-    {
-      "id": "37dfdc5be3e1",
-      "title": "PS5 Has Officially Outsold Every Single Xbox Console",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/ps5-has-officially-outsold-every-single-xbox-console/",
-      "published_at": "Wed, 12 Nov 2025 22:15:12 GMT",
-      "bullets": [
-        "• The PlayStation 5 has officially outsold every Xbox system ever, at least based on official figures",
-        "• Sony has released updated sales figures for the PS5, and the new number is 84.2 million units sold",
-        "• This puts it ahead of all Xbox systems combined in terms of official sales",
-        "• The Xbox 360 was Microsoft's most successful console by far, with 84 million sales "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The PlayStation 5 has officially outsold every Xbox system ever, at least based on official figures",
-          "• Sony has released updated sales figures for the PS5, and the new number is 84.2 million units sold"
-        ],
-        "hopeful_bullets": [
-          "• The PlayStation 5 has officially outsold every Xbox system ever, at least based on official figures",
-          "• Sony has released updated sales figures for the PS5, and the new number is 84.2 million units sold"
-        ],
-        "stakes_bullets": [
-          "• The PlayStation 5 has officially outsold every Xbox system ever, at least based on official figures",
-          "• Sony has released updated sales figures for the PS5, and the new number is 84.2 million units sold",
-          "• This puts it ahead of all Xbox systems combined in terms of official sales"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "598c77fc4458"
-    },
-    {
-      "id": "8f8dadcae603",
-      "title": "Solo Leveling: Ragnarok Manhwa Goes on Hiatus Right After Its Comeback",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/solo-leveling-ragnarok-manhwa-chapter-63-hiatus/",
-      "published_at": "Wed, 12 Nov 2025 22:15:12 GMT",
-      "bullets": [
-        "• The Solo Leveling: Ragnarok manhwa will be taking a 2-week break",
-        "• The series is expected to return from this hiatus on November 26 with Chapter 63",
-        "• This is unfortunate timing considering the series only just recently returned from a nearly two-month hiatus "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Solo Leveling: Ragnarok manhwa will be taking a 2-week break",
-          "• The series is expected to return from this hiatus on November 26 with Chapter 63"
-        ],
-        "hopeful_bullets": [
-          "• The Solo Leveling: Ragnarok manhwa will be taking a 2-week break",
-          "• The series is expected to return from this hiatus on November 26 with Chapter 63"
-        ],
-        "stakes_bullets": [
-          "• The Solo Leveling: Ragnarok manhwa will be taking a 2-week break",
-          "• The series is expected to return from this hiatus on November 26 with Chapter 63"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "992a09c624b7"
     },
     {
       "id": "43a82f516472",
@@ -1186,40 +841,6 @@
       "cluster_id": "b7ccf76ac461"
     },
     {
-      "id": "b5a348343878",
-      "title": "NCIS: Origins Finally Settles the Debate Over Mark Harmon’s Gibbs Replacement With 1 Perfect Scene",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/ncis-origins-mark-harmon-austin-stowell-gibbs-debate-over/",
-      "published_at": "Wed, 12 Nov 2025 22:00:12 GMT",
-      "bullets": [
-        "• NCIS: Origins Season 2, Episode 5, \"Funny How Time Slips Away,\" aired on November 11",
-        "• The two-part episode depicted a case unfolding over 30 years",
-        "• It featured special appearances from Mark Harmon and Muse Watson as older versions of the characters "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.512
-      },
-      "moods": {
-        "brief_bullets": [
-          "• NCIS: Origins Season 2, Episode 5, \"Funny How Time Slips Away,\" aired on November 11",
-          "• The two-part episode depicted a case unfolding over 30 years"
-        ],
-        "hopeful_bullets": [
-          "• NCIS: Origins Season 2, Episode 5, \"Funny How Time Slips Away,\" aired on November 11",
-          "• The two-part episode depicted a case unfolding over 30 years"
-        ],
-        "stakes_bullets": [
-          "• NCIS: Origins Season 2, Episode 5, \"Funny How Time Slips Away,\" aired on November 11",
-          "• The two-part episode depicted a case unfolding over 30 years",
-          "• It featured special appearances from Mark Harmon and Muse Watson as older versions of the characters "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "4c5064dc4fd6"
-    },
-    {
       "id": "61d1361f892b",
       "title": "NewJeans to Return to Label Ador ‘After Careful Discussion’",
       "outlet": "Music News",
@@ -1319,39 +940,6 @@
       "cluster_id": "dcbd027a5ae9"
     },
     {
-      "id": "a2d2d9319566",
-      "title": "Reacher Season 4 Gets the Biggest Filming Update So Far",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/reacher-season-4-filming-almost-done/",
-      "published_at": "Wed, 12 Nov 2025 21:50:52 GMT",
-      "bullets": [
-        "• Alan Ritchson has confirmed that Reacher Season 4 has almost wrapped production",
-        "• The actor has praised the show's best season yet",
-        "• The series is set to return with Season 4 in mid-November",
-        "• It could be released in early 2026 "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Alan Ritchson has confirmed that Reacher Season 4 has almost wrapped production",
-          "• The actor has praised the show's best season yet"
-        ],
-        "hopeful_bullets": [
-          "• Alan Ritchson has confirmed that Reacher Season 4 has almost wrapped production",
-          "• The actor has praised the show's best season yet"
-        ],
-        "stakes_bullets": [
-          "• It could be released in early 2026 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "1e045944969c"
-    },
-    {
       "id": "045f266aa36d",
       "title": "‘Aliens vs. Predator: Requiem’ Gets the Funko Pop! Treatment with a Super-Sized Predalien",
       "outlet": "Bloody Disgusting!",
@@ -1392,26 +980,26 @@
       "url": "https://www.theguardian.com/us-news/2025/nov/12/trump-chicago-immigration-raids-arrests",
       "published_at": "Wed, 12 Nov 2025 21:42:41 GMT",
       "bullets": [
-        "• A federal judge has ordered the release of hundreds of people who were arrested in Chicago",
-        "• The order comes after Donald Trump’s Operation Midway Blitz launched a series of aggressive immigration raids across the city",
-        "• The ACLU of Illinois said that the order will mean the immediate release of 13 people who have been detained by federal officials "
+        "• The order comes after Donald Trump’s “Midway Blitz” launched a series of aggressive immigration raids across the city",
+        "• The order will mean the release of 13 people who have been detained by federal officials",
+        "• More than 600 additional individuals may be released in a week on bond or monitoring "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.969
+        "score": 0.972
       },
       "moods": {
         "brief_bullets": [
-          "• A federal judge has ordered the release of hundreds of people who were arrested in Chicago",
-          "• The order comes after Donald Trump’s Operation Midway Blitz launched a series of aggressive immigration raids across the city"
+          "• The order comes after Donald Trump’s “Midway Blitz” launched a series of aggressive immigration raids across the city",
+          "• The order will mean the release of 13 people who have been detained by federal officials"
         ],
         "hopeful_bullets": [
-          "• A federal judge has ordered the release of hundreds of people who were arrested in Chicago",
-          "• The order comes after Donald Trump’s Operation Midway Blitz launched a series of aggressive immigration raids across the city"
+          "• The order comes after Donald Trump’s “Midway Blitz” launched a series of aggressive immigration raids across the city",
+          "• The order will mean the release of 13 people who have been detained by federal officials"
         ],
         "stakes_bullets": [
-          "• The ACLU of Illinois said that the order will mean the immediate release of 13 people who have been detained by federal officials "
+          "• The order will mean the release of 13 people who have been detained by federal officials"
         ]
       },
       "read_minutes": 2,
@@ -1590,14 +1178,14 @@
     {
       "id": "bf4ebc29cd91",
       "title": "Al Gore wonders if ‘bullying’ Trump prompted Bill Gates to backtrack on climate",
-      "outlet": "US news | The Guardian",
+      "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/nov/12/al-gore-cop30-climate",
       "published_at": "Wed, 12 Nov 2025 21:05:42 GMT",
       "bullets": [
         "• Former US vice-president says Bill Gates' new stance on climate is 'silly' Bill Gates criticised for 'lavishing praise' on Donald Trump",
         "• Al Gore says the US president is 'doing a lot of damage' on the climate "
       ],
-      "category": "US",
+      "category": "Environment",
       "sentiment": {
         "label": "negative",
         "score": 0.997
@@ -1617,37 +1205,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "08e3cf863f5b"
-    },
-    {
-      "id": "10659560a578",
-      "title": "Boston Fed President Collins advocates holding rates steady, sees 'high bar' for further cuts",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/boston-fed-president-collins-advocates-holding-rates-steady-sees-high-bar-for-further-cuts.html",
-      "published_at": "Wed, 12 Nov 2025 21:05:40 GMT",
-      "bullets": [
-        "• Susan Collins: \"I see several reasons to have a relatively high bar for additional easing in the near term\" Her comments are notable because she is a voting member of the Fed's rate-setting Federal Open Market Committee",
-        "• Her remarks put her on the hawkish side of the rate debate, highlighting a fissure among committee members "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.863
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Susan Collins: \"I see several reasons to have a relatively high bar for additional easing in the near term\" Her comments are notable because she is a voting member of the Fed's rate-setting Federal Open Market Committee",
-          "• Her remarks put her on the hawkish side of the rate debate, highlighting a fissure among committee members "
-        ],
-        "hopeful_bullets": [
-          "• Susan Collins: \"I see several reasons to have a relatively high bar for additional easing in the near term\" Her comments are notable because she is a voting member of the Fed's rate-setting Federal Open Market Committee",
-          "• Her remarks put her on the hawkish side of the rate debate, highlighting a fissure among committee members "
-        ],
-        "stakes_bullets": [
-          "• Susan Collins: \"I see several reasons to have a relatively high bar for additional easing in the near term\" Her comments are notable because she is a voting member of the Fed's rate-setting Federal Open Market Committee"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e6d218d1f0d5"
     },
     {
       "id": "a5566930e52b",
@@ -1714,6 +1271,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "d306c907444e"
+    },
+    {
+      "id": "feaa462a7ebf",
+      "title": "AMD stock soars 9% on strong growth projections as CEO Su calls AI spending ‘the right gamble’",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/amd-lisa-su-ai-spending-stock.html",
+      "published_at": "Wed, 12 Nov 2025 21:00:16 GMT",
+      "bullets": [
+        "• Advanced Micro Devices CEO Lisa Su says AI spending is a big gamble for tech giants",
+        "• She said spending more computing will accelerate the pace of innovation",
+        "• Su's comments come as tech megacaps announced more than $380 billion in AI spending in their latest reports "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Advanced Micro Devices CEO Lisa Su says AI spending is a big gamble for tech giants",
+          "• She said spending more computing will accelerate the pace of innovation"
+        ],
+        "hopeful_bullets": [
+          "• Advanced Micro Devices CEO Lisa Su says AI spending is a big gamble for tech giants",
+          "• She said spending more computing will accelerate the pace of innovation"
+        ],
+        "stakes_bullets": [
+          "• She said spending more computing will accelerate the pace of innovation",
+          "• Su's comments come as tech megacaps announced more than $380 billion in AI spending in their latest reports "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4f74f0335783"
     },
     {
       "id": "3a3881e58ab0",
@@ -1911,40 +1501,6 @@
       "cluster_id": "68798b3cd59d"
     },
     {
-      "id": "473f4b8f63f1",
-      "title": "Epstein’s emails stir new doubts over Trump’s past denials",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/12/epstein-emails-trump-analysis",
-      "published_at": "Wed, 12 Nov 2025 20:38:22 GMT",
-      "bullets": [
-        "• Democrats release emails on Jeffrey Epstein affair released by Democrats in the House of Representatives",
-        "• The emails show contradictions between their references to Donald Trump and his own utterances on the subject",
-        "• The White House has since identified the victim as Virginia Giuffre, a victim of the Epstein affair "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.971
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Democrats release emails on Jeffrey Epstein affair released by Democrats in the House of Representatives",
-          "• The emails show contradictions between their references to Donald Trump and his own utterances on the subject"
-        ],
-        "hopeful_bullets": [
-          "• Democrats release emails on Jeffrey Epstein affair released by Democrats in the House of Representatives",
-          "• The emails show contradictions between their references to Donald Trump and his own utterances on the subject"
-        ],
-        "stakes_bullets": [
-          "• Democrats release emails on Jeffrey Epstein affair released by Democrats in the House of Representatives",
-          "• The emails show contradictions between their references to Donald Trump and his own utterances on the subject",
-          "• The White House has since identified the victim as Virginia Giuffre, a victim of the Epstein affair "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "4181346be137"
-    },
-    {
       "id": "06b7bc6fbfd4",
       "title": "Microsoft releases update-fixing update for update-eligible Windows 10 PCs",
       "outlet": "Ars Technica - All content",
@@ -2044,6 +1600,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "0e3dced11bcb"
+    },
+    {
+      "id": "023ac87071ce",
+      "title": "House votes to end the longest ever government shutdown",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end",
+      "published_at": "Wed, 12 Nov 2025 20:22:34 -0500",
+      "bullets": [
+        "• House votes to end the longest ever government shutdown in history",
+        "• President Trump is expected to sign the bill on Thursday night",
+        "• The bill includes a measure to reverse layoffs the Trump administration imposed during the shutdown, and provides backpay for federal employees",
+        "• But the central issue underlying the entire shutdown is not addressed "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• House votes to end the longest ever government shutdown in history",
+          "• President Trump is expected to sign the bill on Thursday night"
+        ],
+        "hopeful_bullets": [
+          "• House votes to end the longest ever government shutdown in history",
+          "• President Trump is expected to sign the bill on Thursday night"
+        ],
+        "stakes_bullets": [
+          "• President Trump is expected to sign the bill on Thursday night",
+          "• The bill includes a measure to reverse layoffs the Trump administration imposed during the shutdown, and provides backpay for federal employees"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "4f99b87b76e8"
     },
     {
       "id": "3010c8ebd0e6",
@@ -2184,38 +1774,38 @@
       "cluster_id": "e8c5a056aca6"
     },
     {
-      "id": "7b8ebb77bc1e",
-      "title": "After a controversial trial, an Oklahoma man makes a final plea to avoid execution",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/12/tremane-wood-execution-oklahoma",
-      "published_at": "Wed, 12 Nov 2025 20:02:14 GMT",
+      "id": "48a62a790431",
+      "title": "U.S. bishops officially ban gender-affirming care at Catholic hospitals",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/12/g-s1-97651/gender-affirming-care-ban-catholic-hospitals",
+      "published_at": "Wed, 12 Nov 2025 20:05:47 -0500",
       "bullets": [
-        "• Tremane Wood has been condemned to death for the murder of Ronnie Wipf",
-        "• He has been confined to a cell for 16 of his last 21 years in prison",
-        "• His execution date is on November 13, 2025",
-        "• He is being held in a cell next door to the execution chamber "
+        "• U.S",
+        "• bishops vote to ban gender-affirming care for transgender patients at Catholic hospitals",
+        "• The move formalizes a yearslong process for the church to address transgender health care",
+        "• Catholic hospitals are the only medical centers in some communities to offer transgender care",
+        "• Most Catholic health care institutions have taken a conservative approach "
       ],
-      "category": "US",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.959
+        "score": 0.951
       },
       "moods": {
         "brief_bullets": [
-          "• Tremane Wood has been condemned to death for the murder of Ronnie Wipf",
-          "• He has been confined to a cell for 16 of his last 21 years in prison"
+          "• U.S",
+          "• bishops vote to ban gender-affirming care for transgender patients at Catholic hospitals"
         ],
         "hopeful_bullets": [
-          "• Tremane Wood has been condemned to death for the murder of Ronnie Wipf",
-          "• He has been confined to a cell for 16 of his last 21 years in prison"
+          "• U.S",
+          "• bishops vote to ban gender-affirming care for transgender patients at Catholic hospitals"
         ],
         "stakes_bullets": [
-          "• His execution date is on November 13, 2025",
-          "• He is being held in a cell next door to the execution chamber "
+          "• bishops vote to ban gender-affirming care for transgender patients at Catholic hospitals"
         ]
       },
-      "read_minutes": 7,
-      "cluster_id": "cb7e4420c03d"
+      "read_minutes": 4,
+      "cluster_id": "e4d9fcc14cbe"
     },
     {
       "id": "ee0557cac3d2",
@@ -2653,6 +2243,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "9f4b294ad4aa"
+    },
+    {
+      "id": "bc0d6e5e3249",
+      "title": "Some Black police officials worry more federal agents will breed community mistrust",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/12/nx-s1-5561978/black-police-worry-federal-agents-drive-a-wedge-into-communities",
+      "published_at": "Wed, 12 Nov 2025 18:53:38 -0500",
+      "bullets": [
+        "• Some Black police officials worry more federal agents will breed community mistrust",
+        "• Jaiden Booth is opposed to immigration agents or National Guard members policing communities of color",
+        "• Booth fears that the presence of troops and federal agents could set the stage for more negative interactions with Black Americans "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Some Black police officials worry more federal agents will breed community mistrust",
+          "• Jaiden Booth is opposed to immigration agents or National Guard members policing communities of color"
+        ],
+        "hopeful_bullets": [
+          "• Some Black police officials worry more federal agents will breed community mistrust",
+          "• Jaiden Booth is opposed to immigration agents or National Guard members policing communities of color"
+        ],
+        "stakes_bullets": [
+          "• Some Black police officials worry more federal agents will breed community mistrust",
+          "• Booth fears that the presence of troops and federal agents could set the stage for more negative interactions with Black Americans "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "1d46c592e41b"
     },
     {
       "id": "645abc08c31b",
@@ -3249,40 +2872,6 @@
       "cluster_id": "02a41970ddd2"
     },
     {
-      "id": "4fc237b9ceb4",
-      "title": "Anthropic to spend $50 billion on U.S. AI infrastructure, starting with Texas, New York data centers",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/anthropic-ai-data-centers-texas-new-york.html",
-      "published_at": "Wed, 12 Nov 2025 17:44:34 GMT",
-      "bullets": [
-        "• Anthropic will spend $50 billion on a U.S",
-        "• artificial intelligence infrastructure build-out",
-        "• The facilities will be designed to support the company's rapid enterprise growth",
-        "• The project is expected to create 800 permanent jobs and more than 2,000 construction roles "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Anthropic will spend $50 billion on a U.S",
-          "• artificial intelligence infrastructure build-out"
-        ],
-        "hopeful_bullets": [
-          "• The facilities will be designed to support the company's rapid enterprise growth"
-        ],
-        "stakes_bullets": [
-          "• Anthropic will spend $50 billion on a U.S",
-          "• The facilities will be designed to support the company's rapid enterprise growth",
-          "• The project is expected to create 800 permanent jobs and more than 2,000 construction roles "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "9bfef7e26dc7"
-    },
-    {
       "id": "3e3a884bf848",
       "title": "Major corruption scandal engulfs top Zelensky allies",
       "outlet": "BBC News",
@@ -3444,37 +3033,6 @@
       "cluster_id": "8207e6c7560a"
     },
     {
-      "id": "0dfa7c53985e",
-      "title": "House to vote to end the longest shutdown in history",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5607044/house-to-vote-to-end-the-longest-shutdown-in-history",
-      "published_at": "Wed, 12 Nov 2025 16:41:52 -0500",
-      "bullets": [
-        "• House to vote to end the longest shutdown in history November 12, 20254:41 PM ET Heard on All Things Considered Deirdre Walsh",
-        "• House is set to vote today on a bill that would end the government shutdown after 43 days "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.978
-      },
-      "moods": {
-        "brief_bullets": [
-          "• House to vote to end the longest shutdown in history November 12, 20254:41 PM ET Heard on All Things Considered Deirdre Walsh",
-          "• House is set to vote today on a bill that would end the government shutdown after 43 days "
-        ],
-        "hopeful_bullets": [
-          "• House to vote to end the longest shutdown in history November 12, 20254:41 PM ET Heard on All Things Considered Deirdre Walsh",
-          "• House is set to vote today on a bill that would end the government shutdown after 43 days "
-        ],
-        "stakes_bullets": [
-          "• House is set to vote today on a bill that would end the government shutdown after 43 days "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "904d8d16069d"
-    },
-    {
       "id": "9d4b14786798",
       "title": "Cleto Escobedo III, Jimmy Kimmel Live! Bandleader, Dies at 59",
       "outlet": "RSS: News",
@@ -3505,7 +3063,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "558fdbc0402b"
+      "cluster_id": "77334e933c9c"
     },
     {
       "id": "0e86bb1f49b0",
@@ -4001,68 +3559,6 @@
       "cluster_id": "2235ef80b995"
     },
     {
-      "id": "46335c24d2bd",
-      "title": "The Liberals’ so-called ‘founding principles’ underpinning their decision to dump net zero fail the credibility test",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2025/nov/13/the-liberals-so-called-founding-principles-underpinning-their-decision-to-dump-net-zero-fail-the-credibility-test",
-      "published_at": "Wed, 12 Nov 2025 14:00:58 GMT",
-      "bullets": [
-        "• Renewable energy is a cheaper source of power and will help bring down prices for households and businesses",
-        "• It is only critics of the plan say renewables won't be part of a stable and reliable energy grid in 2025 and beyond",
-        "• In September, researchers at Griffith University found the cost of generating electricity would be as much as 50% higher today if Australia had relied solely on coal and gas "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Renewable energy is a cheaper source of power and will help bring down prices for households and businesses",
-          "• It is only critics of the plan say renewables won't be part of a stable and reliable energy grid in 2025 and beyond"
-        ],
-        "hopeful_bullets": [
-          "• Renewable energy is a cheaper source of power and will help bring down prices for households and businesses"
-        ],
-        "stakes_bullets": [
-          "• Renewable energy is a cheaper source of power and will help bring down prices for households and businesses",
-          "• It is only critics of the plan say renewables won't be part of a stable and reliable energy grid in 2025 and beyond"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "db9ff3198bac"
-    },
-    {
-      "id": "0de4c4c0eff7",
-      "title": "Too Good To Go launches grocery bags with Whole Foods as food costs climb",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/too-good-to-go-whole-foods-grocery-surprise-bags.html",
-      "published_at": "Wed, 12 Nov 2025 14:00:01 GMT",
-      "bullets": [
-        "• Too Good To Go is an app that connects users with stores and restaurants that offer surplus food in \"surprise bags\" The app is expanding to all 536 Whole Foods stores across the U.S",
-        "• The two companies say they have already saved 1.6 million meals from going waste "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.733
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Too Good To Go is an app that connects users with stores and restaurants that offer surplus food in \"surprise bags\" The app is expanding to all 536 Whole Foods stores across the U.S",
-          "• The two companies say they have already saved 1.6 million meals from going waste "
-        ],
-        "hopeful_bullets": [
-          "• The two companies say they have already saved 1.6 million meals from going waste "
-        ],
-        "stakes_bullets": [
-          "• Too Good To Go is an app that connects users with stores and restaurants that offer surplus food in \"surprise bags\" The app is expanding to all 536 Whole Foods stores across the U.S"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "e09c699282c1"
-    },
-    {
       "id": "644012d4b10e",
       "title": "Colombian military bombs suspected rebel camp, killing 19",
       "outlet": "BBC News",
@@ -4131,7 +3627,7 @@
     {
       "id": "ce2297b8ba65",
       "title": "Greetings from the Arctic Circle, where an icebreaker ship drew polar bears' attention",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/11/12/g-s1-95878/polar-bear-arctic-circle-northwest-passage-canada",
       "published_at": "Wed, 12 Nov 2025 11:35:07 -0500",
       "bullets": [
@@ -4139,7 +3635,7 @@
         "• Greetings from the Arctic Circle, where an icebreaker ship drew polar bears' attention",
         "• It was breathtaking to be where so few people on Earth have traveled, to feel the thick ice crack under the ship "
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "positive",
         "score": 0.999
@@ -4257,38 +3753,6 @@
       "cluster_id": "cc528d0ea698"
     },
     {
-      "id": "b448e8146379",
-      "title": "Cleto Escobedo III, leader of Jimmy Kimmel's house band, dies at 59",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5606911/cleto-escobedo-dead-jimmy-kimmel-band",
-      "published_at": "Wed, 12 Nov 2025 10:55:44 -0500",
-      "bullets": [
-        "• Cleto Escobedo III, leader of Jimmy Kimmel's house band, dies at 59",
-        "• Kimmel: \"We lost someone very special, who was much too young to go\" Kimmel thanks doctors and nurses at UCLA Medical Center for taking care of his friend",
-        "• \"He was a phenomenal saxophone player,\" Kimmel says "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Cleto Escobedo III, leader of Jimmy Kimmel's house band, dies at 59",
-          "• Kimmel: \"We lost someone very special, who was much too young to go\" Kimmel thanks doctors and nurses at UCLA Medical Center for taking care of his friend"
-        ],
-        "hopeful_bullets": [
-          "• Cleto Escobedo III, leader of Jimmy Kimmel's house band, dies at 59",
-          "• Kimmel: \"We lost someone very special, who was much too young to go\" Kimmel thanks doctors and nurses at UCLA Medical Center for taking care of his friend"
-        ],
-        "stakes_bullets": [
-          "• Cleto Escobedo III, leader of Jimmy Kimmel's house band, dies at 59"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "558fdbc0402b"
-    },
-    {
       "id": "7a8caf5e37aa",
       "title": "Scientists just found a material that beats diamond at its own game",
       "outlet": "All Top News -- ScienceDaily",
@@ -4319,38 +3783,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "1df696677b66"
-    },
-    {
-      "id": "cb8e55fe99ca",
-      "title": "The U.S. saw vivid northern lights as far south as Florida — and more could be coming",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5274739/northern-lights-aurora-borealis-solar-storms",
-      "published_at": "Wed, 12 Nov 2025 10:19:21 -0500",
-      "bullets": [
-        "• The Aurora Borealis was visible in Idaho, Iowa, Missouri, New Mexico, New York, Oklahoma, South Dakota, Tennessee, Texas and Washington state",
-        "• Northern lights were visible as far south as parts of Florida and Alabama",
-        "• Geomagnetic storms were the result of coronal mass ejections (CMEs) from the sun's outer atmosphere "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.753
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Aurora Borealis was visible in Idaho, Iowa, Missouri, New Mexico, New York, Oklahoma, South Dakota, Tennessee, Texas and Washington state",
-          "• Northern lights were visible as far south as parts of Florida and Alabama"
-        ],
-        "hopeful_bullets": [
-          "• The Aurora Borealis was visible in Idaho, Iowa, Missouri, New Mexico, New York, Oklahoma, South Dakota, Tennessee, Texas and Washington state",
-          "• Northern lights were visible as far south as parts of Florida and Alabama"
-        ],
-        "stakes_bullets": [
-          "• Geomagnetic storms were the result of coronal mass ejections (CMEs) from the sun's outer atmosphere "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "afa65f369cdd"
     },
     {
       "id": "f7c40e0c8318",
@@ -4523,40 +3955,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "1236925b868c"
-    },
-    {
-      "id": "d15cf468a646",
-      "title": "Climate-sceptic IPA refuses to reveal funders in fiery Senate inquiry",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2025/nov/12/climate-sceptic-ipa-refuses-to-reveal-funders-in-fiery-senate-inquiry",
-      "published_at": "Wed, 12 Nov 2025 08:02:48 GMT",
-      "bullets": [
-        "• A think tank known for its rejection of renewable energy has refused to identify its funders",
-        "• The funders were paid for by donations, some from the signatories of the letter, but would not name them",
-        "• The group has become a prominent voice among conservatives for its opposition to renewable energy "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A think tank known for its rejection of renewable energy has refused to identify its funders",
-          "• The funders were paid for by donations, some from the signatories of the letter, but would not name them"
-        ],
-        "hopeful_bullets": [
-          "• A think tank known for its rejection of renewable energy has refused to identify its funders",
-          "• The funders were paid for by donations, some from the signatories of the letter, but would not name them"
-        ],
-        "stakes_bullets": [
-          "• A think tank known for its rejection of renewable energy has refused to identify its funders",
-          "• The funders were paid for by donations, some from the signatories of the letter, but would not name them",
-          "• The group has become a prominent voice among conservatives for its opposition to renewable energy "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "bfa407b493ab"
     },
     {
       "id": "2c4b6d55304c",
@@ -4764,42 +4162,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "273e89de54de"
-    },
-    {
-      "id": "fcd2548c761e",
-      "title": "After a 50-day wait, Arizona Rep. Adelita Grijalva is sworn into Congress",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5606350/adelita-grijalva-swearing-in",
-      "published_at": "Wed, 12 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• Arizona Rep",
-        "• Adelita Grijalva was sworn into Congress on Wednesday",
-        "• She was the decisive 218th signature on a petition to force a vote to release the Jeffrey Epstein files",
-        "• The Democratic Rep",
-        "• won her seat in Congress 50 days ago "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Arizona Rep",
-          "• Adelita Grijalva was sworn into Congress on Wednesday"
-        ],
-        "hopeful_bullets": [
-          "• Arizona Rep",
-          "• Adelita Grijalva was sworn into Congress on Wednesday"
-        ],
-        "stakes_bullets": [
-          "• Arizona Rep",
-          "• Adelita Grijalva was sworn into Congress on Wednesday",
-          "• She was the decisive 218th signature on a petition to force a vote to release the Jeffrey Epstein files"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "404c358ed5ae"
     },
     {
       "id": "fda1d74fb4ec",
@@ -5781,76 +5143,6 @@
       "cluster_id": "e304de001d09"
     },
     {
-      "id": "deef806be423",
-      "title": "Paxton sues Harris County over legal support for undocumented immigrants",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17207342/paxton-sues-harris-county-over-legal-support-for-undocumented-immigrants",
-      "published_at": "Tue, 11 Nov 2025 16:58:01 +0000",
-      "bullets": [
-        "• Texas Attorney General Ken Paxton is suing Harris County for allocating county funds to help undocumented people get access to legal support",
-        "• The county, home to Houston, created the Immigrant Legal Services Fund in 2020",
-        "• The program sends funds to five organizations that help people facing deportation get lawyers",
-        "• Harris County Attorney Christian Menefee says the program is \"perfectly legal\""
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Texas Attorney General Ken Paxton is suing Harris County for allocating county funds to help undocumented people get access to legal support",
-          "• The county, home to Houston, created the Immigrant Legal Services Fund in 2020"
-        ],
-        "hopeful_bullets": [
-          "• Texas Attorney General Ken Paxton is suing Harris County for allocating county funds to help undocumented people get access to legal support",
-          "• The program sends funds to five organizations that help people facing deportation get lawyers"
-        ],
-        "stakes_bullets": [
-          "• Texas Attorney General Ken Paxton is suing Harris County for allocating county funds to help undocumented people get access to legal support",
-          "• The county, home to Houston, created the Immigrant Legal Services Fund in 2020",
-          "• The program sends funds to five organizations that help people facing deportation get lawyers"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f81032195ac9"
-    },
-    {
-      "id": "692c6623a7e1",
-      "title": "U.S. Rep. Jodey Arrington, who carried Trump’s tax and spending megabill, is retiring",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17207334/texas-us-house-rep-jodey-arrington-retirement",
-      "published_at": "Tue, 11 Nov 2025 16:25:40 +0000",
-      "bullets": [
-        "• Lubbock Republican Rep",
-        "• Jodey Arrington announced his retirement after a decade of service at the U.S",
-        "• House",
-        "• Arrington will serve out his term, which ends in January 2027, but will not seek reelection",
-        "• He was a key cog in the passage of Republicans' tax-and-spending megabill "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.708
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Lubbock Republican Rep",
-          "• Jodey Arrington announced his retirement after a decade of service at the U.S"
-        ],
-        "hopeful_bullets": [
-          "• Lubbock Republican Rep",
-          "• Jodey Arrington announced his retirement after a decade of service at the U.S"
-        ],
-        "stakes_bullets": [
-          "• Arrington will serve out his term, which ends in January 2027, but will not seek reelection",
-          "• He was a key cog in the passage of Republicans' tax-and-spending megabill "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "6dbb02273c64"
-    },
-    {
       "id": "6a32ef3b022f",
       "title": "Geese, Turnstile, Oklou, and More Releasing Rough Trade Exclusive Vinyl Records",
       "outlet": "RSS: News",
@@ -5986,41 +5278,6 @@
       "cluster_id": "1cf93a3c73c0"
     },
     {
-      "id": "cff7d7769f53",
-      "title": "Watch Timothée Chalamet and Tyler, the Creator in New Official Trailer for Marty Supreme",
-      "outlet": "RSS: News",
-      "url": "https://pitchfork.com/news/watch-timothee-chalamet-and-tyler-the-creator-in-new-official-trailer-for-marty-supreme/",
-      "published_at": "Tue, 11 Nov 2025 14:26:54 +0000",
-      "bullets": [
-        "• Timothée Chalamet and Tyler, the Creator star in Marty Supreme",
-        "• The film is directed by Josh Safdie",
-        "• It's the first big project from Chalamatet since he played Bob Dylan in 2024's A Complete Unknown",
-        "• Tyler is a longtime visual storyteller and has acted in numerous TV series "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Timothée Chalamet and Tyler, the Creator star in Marty Supreme",
-          "• The film is directed by Josh Safdie"
-        ],
-        "hopeful_bullets": [
-          "• Timothée Chalamet and Tyler, the Creator star in Marty Supreme",
-          "• The film is directed by Josh Safdie"
-        ],
-        "stakes_bullets": [
-          "• Timothée Chalamet and Tyler, the Creator star in Marty Supreme",
-          "• The film is directed by Josh Safdie",
-          "• It's the first big project from Chalamatet since he played Bob Dylan in 2024's A Complete Unknown"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "2d42dc4ec627"
-    },
-    {
       "id": "ddd422efe4b8",
       "title": "TikTok influencer killed in public ‘execution’ as Mali’s jihadist crisis worsens",
       "outlet": "World news | The Guardian",
@@ -6087,73 +5344,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "5c4bb5a2851d"
-    },
-    {
-      "id": "014c9d677323",
-      "title": "Two Caribbean Islands Seek Justice From France for Pesticide Poisoning",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/11112025/french-caribbean-islands-seek-justice-pesticide-poisoning/",
-      "published_at": "Tue, 11 Nov 2025 10:00:00 +0000",
-      "bullets": [
-        "• Georgina Lambert was born in 1980 near the banana plantations in southern Basse-Terre, Guadeloupe",
-        "• She endured six consecutive miscarriages in four years",
-        "• In March 2025, a French court issued a landmark ruling holding the state liable for the emotional distress "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.932
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Georgina Lambert was born in 1980 near the banana plantations in southern Basse-Terre, Guadeloupe",
-          "• She endured six consecutive miscarriages in four years"
-        ],
-        "hopeful_bullets": [
-          "• Georgina Lambert was born in 1980 near the banana plantations in southern Basse-Terre, Guadeloupe",
-          "• She endured six consecutive miscarriages in four years"
-        ],
-        "stakes_bullets": [
-          "• Georgina Lambert was born in 1980 near the banana plantations in southern Basse-Terre, Guadeloupe",
-          "• She endured six consecutive miscarriages in four years"
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "23616b52568b"
-    },
-    {
-      "id": "93aead9a0c34",
-      "title": "Can Arizona Maintain Its Drought Response as Water and Money Dry Up?",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/11112025/arizona-water-drought-response/",
-      "published_at": "Tue, 11 Nov 2025 09:55:00 +0000",
-      "bullets": [
-        "• Yavapai-Apache chairman Buddy Rocha Jr",
-        "• grew up in the Verde Valley playing and fishing in the river",
-        "• The three sewage lagoons sitting in the floodplain on the other side of the river are an outdated eyesore",
-        "• The first phase of the project will cost $40 million, the funds coming from the tribe, the U.S",
-        "• Army Corps of Engineers "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Yavapai-Apache chairman Buddy Rocha Jr",
-          "• grew up in the Verde Valley playing and fishing in the river"
-        ],
-        "hopeful_bullets": [
-          "• Yavapai-Apache chairman Buddy Rocha Jr",
-          "• grew up in the Verde Valley playing and fishing in the river"
-        ],
-        "stakes_bullets": [
-          "• The first phase of the project will cost $40 million, the funds coming from the tribe, the U.S"
-        ]
-      },
-      "read_minutes": 13,
-      "cluster_id": "3bbb87a8a8a6"
     },
     {
       "id": "689addeca1c9",
@@ -6586,6 +5776,805 @@
       },
       "read_minutes": 3,
       "cluster_id": "888b1e315600"
+    },
+    {
+      "id": "0d6af157e09e",
+      "title": "10 Things Everyone Gets Wrong About The Far Side",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-far-side-wrong-misunderstandings-controversy/",
+      "published_at": "Thu, 13 Nov 2025 02:25:12 GMT",
+      "bullets": [
+        "• The Far Side is arguably one of the most influential comic strips of all time",
+        "• The comic strip was created by Gary Larson in 1979 and ran from 1979 to 1995",
+        "• New Far Side comics have been appearing on the official website since 2020",
+        "• Many misconceptions about the comic are still true "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Far Side is arguably one of the most influential comic strips of all time",
+          "• The comic strip was created by Gary Larson in 1979 and ran from 1979 to 1995"
+        ],
+        "hopeful_bullets": [
+          "• The Far Side is arguably one of the most influential comic strips of all time",
+          "• The comic strip was created by Gary Larson in 1979 and ran from 1979 to 1995"
+        ],
+        "stakes_bullets": [
+          "• The Far Side is arguably one of the most influential comic strips of all time",
+          "• The comic strip was created by Gary Larson in 1979 and ran from 1979 to 1995",
+          "• New Far Side comics have been appearing on the official website since 2020"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "f342095fa47c"
+    },
+    {
+      "id": "2610d7dbb570",
+      "title": "10 Disturbing Anime Villains Even More Evil Than Griffith From Berserk",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/anime-villains-more-evil-than-griffith-berserk/",
+      "published_at": "Thu, 13 Nov 2025 02:25:12 GMT",
+      "bullets": [
+        "• Berserk has earned its spot as one of the most iconic and brutal dark fantasy series ever",
+        "• But what makes it truly unforgettable are the characters, especially Griffith",
+        "• Griffith gets praised all the time for being an evil villain, though most fans hate him almost as much "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Berserk has earned its spot as one of the most iconic and brutal dark fantasy series ever",
+          "• But what makes it truly unforgettable are the characters, especially Griffith"
+        ],
+        "hopeful_bullets": [
+          "• Berserk has earned its spot as one of the most iconic and brutal dark fantasy series ever",
+          "• But what makes it truly unforgettable are the characters, especially Griffith"
+        ],
+        "stakes_bullets": [
+          "• Berserk has earned its spot as one of the most iconic and brutal dark fantasy series ever",
+          "• But what makes it truly unforgettable are the characters, especially Griffith",
+          "• Griffith gets praised all the time for being an evil villain, though most fans hate him almost as much "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "01fbdd975260"
+    },
+    {
+      "id": "4ac5cd91da63",
+      "title": "NewJeans to Return to Label Following Legal Dispute",
+      "outlet": "RSS: News",
+      "url": "https://pitchfork.com/news/newjeans-to-return-to-label-following-legal-dispute/",
+      "published_at": "Thu, 13 Nov 2025 02:23:26 +0000",
+      "bullets": [
+        "• NewJeans have announced they will return to record label Ador",
+        "• The group has been in a legal dispute with the label since last year",
+        "• The decision was made after a Seoul court ruled that the group had failed to prove negligence",
+        "• Members of the group say they will continue to perform "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NewJeans have announced they will return to record label Ador",
+          "• The group has been in a legal dispute with the label since last year"
+        ],
+        "hopeful_bullets": [
+          "• NewJeans have announced they will return to record label Ador"
+        ],
+        "stakes_bullets": [
+          "• NewJeans have announced they will return to record label Ador",
+          "• Members of the group say they will continue to perform "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "3cede8fc3012"
+    },
+    {
+      "id": "7b696a90f2af",
+      "title": "House passes funding bill to end record-long government shutdown, Trump set to sign",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/government-shutdown-house-vote-trump.html",
+      "published_at": "Thu, 13 Nov 2025 02:02:37 GMT",
+      "bullets": [
+        "• The bill now heads to the desk of President Donald Trump, who is set to sign it into law",
+        "• The White House has scheduled a bill signing in the Oval Office at 9:45 p.m",
+        "• ET",
+        "• The vote on the bill was 222-209; two Republicans voted against it",
+        "• The shutdown began on Oct"
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.942
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The bill now heads to the desk of President Donald Trump, who is set to sign it into law",
+          "• The White House has scheduled a bill signing in the Oval Office at 9:45 p.m"
+        ],
+        "hopeful_bullets": [
+          "• The vote on the bill was 222-209; two Republicans voted against it"
+        ],
+        "stakes_bullets": [
+          "• The bill now heads to the desk of President Donald Trump, who is set to sign it into law",
+          "• The White House has scheduled a bill signing in the Oval Office at 9:45 p.m",
+          "• The vote on the bill was 222-209; two Republicans voted against it"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "81b5e7bc5711"
+    },
+    {
+      "id": "c0f64b1b6116",
+      "title": "U.S. House OKs funding deal to reopen government with support from Texas Republicans",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17208291/house-funding-deal-government-shutdown-texas-delegation-congress",
+      "published_at": "Thu, 13 Nov 2025 02:01:37 +0000",
+      "bullets": [
+        "• The U.S",
+        "• House passed the Senate’s funding deal to end the government shutdown",
+        "• Federal agencies will reopen after a six-week freeze",
+        "• Twenty-four of the 25 House Republicans from Texas voted in favor of the bill",
+        "• All but one of Texas’ 12 Democratic members were opposed "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.908
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The U.S",
+          "• House passed the Senate’s funding deal to end the government shutdown"
+        ],
+        "hopeful_bullets": [
+          "• The U.S",
+          "• House passed the Senate’s funding deal to end the government shutdown"
+        ],
+        "stakes_bullets": [
+          "• Federal agencies will reopen after a six-week freeze",
+          "• Twenty-four of the 25 House Republicans from Texas voted in favor of the bill"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "04ea667a77e6"
+    },
+    {
+      "id": "3ab38747a821",
+      "title": "DOT freezes flight cuts as disruptions ease and end to shutdown is in sight",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/flight-cancellations-government-shutdown.html",
+      "published_at": "Thu, 13 Nov 2025 02:01:01 GMT",
+      "bullets": [
+        "• On Wednesday, 816 U.S",
+        "• departures were canceled, 3.5% of airlines' schedule, the lowest rate and number of cancellations since last Thursday",
+        "• The Department of Transportation implemented the freeze before the House approved a funding bill that would keep the government open through January",
+        "• The shutdown again put air travel in the spotlight and heightened strains on air traffic controllers "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• On Wednesday, 816 U.S",
+          "• departures were canceled, 3.5% of airlines' schedule, the lowest rate and number of cancellations since last Thursday"
+        ],
+        "hopeful_bullets": [
+          "• On Wednesday, 816 U.S",
+          "• departures were canceled, 3.5% of airlines' schedule, the lowest rate and number of cancellations since last Thursday"
+        ],
+        "stakes_bullets": [
+          "• The Department of Transportation implemented the freeze before the House approved a funding bill that would keep the government open through January"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4e84120e710b"
+    },
+    {
+      "id": "020f1400a722",
+      "title": "Fate/stay Anime Franchise Finally Returns With New Free Release This December",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/fate-strange-fake-free-screening-december/",
+      "published_at": "Thu, 13 Nov 2025 02:00:12 GMT",
+      "bullets": [
+        "• The first four episodes of Fate/strange Fake will be premiering at Alamo Drafthouse Cinema locations across the United States on Dec",
+        "• 9",
+        "• Audience-goers can get their tickets as early as Nov",
+        "• 25 with the purchase of a food or beverage voucher "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.952
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The first four episodes of Fate/strange Fake will be premiering at Alamo Drafthouse Cinema locations across the United States on Dec",
+          "• 9"
+        ],
+        "hopeful_bullets": [
+          "• The first four episodes of Fate/strange Fake will be premiering at Alamo Drafthouse Cinema locations across the United States on Dec",
+          "• 9"
+        ],
+        "stakes_bullets": [
+          "• The first four episodes of Fate/strange Fake will be premiering at Alamo Drafthouse Cinema locations across the United States on Dec"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "941ff4082ac3"
+    },
+    {
+      "id": "99fb763bf3a6",
+      "title": "The Simpsons’ Funniest Episode Is Still Marge vs. the Monorail",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-simpsons-marge-vs-the-monorail-funniest-episode/",
+      "published_at": "Thu, 13 Nov 2025 02:00:12 GMT",
+      "bullets": [
+        "• \"Marge Vs",
+        "• The Monorail\" is one of the funniest episodes of The Simpsons",
+        "• The episode was written by Conan O'Brien before he was the name that he is today",
+        "• The series has had 37 seasons, but certain episodes were standouts "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• \"Marge Vs",
+          "• The Monorail\" is one of the funniest episodes of The Simpsons"
+        ],
+        "hopeful_bullets": [
+          "• \"Marge Vs",
+          "• The Monorail\" is one of the funniest episodes of The Simpsons"
+        ],
+        "stakes_bullets": [
+          "• \"Marge Vs",
+          "• The Monorail\" is one of the funniest episodes of The Simpsons",
+          "• The episode was written by Conan O'Brien before he was the name that he is today"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "2a596edc34bf"
+    },
+    {
+      "id": "311f80cf3d68",
+      "title": "House passes bill to reopen government as new Epstein revelations roil US politics – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/12/donald-trump-us-government-shutdown-house-democrats-republicans-latest-news-updates",
+      "published_at": "Thu, 13 Nov 2025 02:00:04 GMT",
+      "bullets": [
+        "• Six Democrats voted for the measure and two Republicans voted against it",
+        "• Trump plans to sign the bill after dinner with Wall Street bankers",
+        "• The longest government shutdown in US history will end on Wednesday night",
+        "• The House voted 222-209 to approve legislation to fund government through end of January "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.711
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Six Democrats voted for the measure and two Republicans voted against it",
+          "• Trump plans to sign the bill after dinner with Wall Street bankers"
+        ],
+        "hopeful_bullets": [
+          "• Six Democrats voted for the measure and two Republicans voted against it"
+        ],
+        "stakes_bullets": [
+          "• Trump plans to sign the bill after dinner with Wall Street bankers",
+          "• The longest government shutdown in US history will end on Wednesday night"
+        ]
+      },
+      "read_minutes": 15,
+      "cluster_id": "95b651aa8417"
+    },
+    {
+      "id": "de103cbc2da3",
+      "title": "International Energy Report Projects a Slower Transition to Renewables, but Oil Could Still Peak This Decade",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/12112025/international-energy-report-projects-slower-energy-transition/",
+      "published_at": "Thu, 13 Nov 2025 01:54:33 +0000",
+      "bullets": [
+        "• The International Energy Agency releases its World Energy Outlook for the next year",
+        "• Last year, the IEA projected a growth in renewable energy growth",
+        "• But a change in U.S",
+        "• climate policy has slowed that growth",
+        "• Renewable energy is expected to grow faster than any other energy source "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.92
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The International Energy Agency releases its World Energy Outlook for the next year",
+          "• Last year, the IEA projected a growth in renewable energy growth"
+        ],
+        "hopeful_bullets": [
+          "• Last year, the IEA projected a growth in renewable energy growth",
+          "• climate policy has slowed that growth"
+        ],
+        "stakes_bullets": [
+          "• climate policy has slowed that growth",
+          "• Renewable energy is expected to grow faster than any other energy source "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "1c32dfccd300"
+    },
+    {
+      "id": "c0e30e773afe",
+      "title": "Longest US government shutdown in history set to end after House passes bill",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/12/house-bill-government-shutdown-vote",
+      "published_at": "Thu, 13 Nov 2025 01:50:02 GMT",
+      "bullets": [
+        "• The longest US government shutdown in history is set to end on Wednesday after more than 42 days",
+        "• The legislation restarts federal operations but does not include the healthcare funding the minority party demanded",
+        "• Donald Trump will sign the bill Wednesday night, the White House said "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The longest US government shutdown in history is set to end on Wednesday after more than 42 days",
+          "• The legislation restarts federal operations but does not include the healthcare funding the minority party demanded"
+        ],
+        "hopeful_bullets": [
+          "• The longest US government shutdown in history is set to end on Wednesday after more than 42 days",
+          "• The legislation restarts federal operations but does not include the healthcare funding the minority party demanded"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump will sign the bill Wednesday night, the White House said "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "b0f5d22fb212"
+    },
+    {
+      "id": "8c9fa6820a4c",
+      "title": "Liberals formally abandon emissions target but will allow moderate MPs to call net zero a ‘welcome outcome’",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2025/nov/13/liberal-party-net-zero-policy-meeting-debate-decision",
+      "published_at": "Thu, 13 Nov 2025 01:47:39 GMT",
+      "bullets": [
+        "• The Liberal party will abandon a firm net zero emissions target, siding with the Nationals to end the Coalition’s commitment to the climate goal",
+        "• Liberal shadow ministry agreed a future Coalition government would not withdraw from the Paris Agreement",
+        "• Liberal MPs will also be free to argue that reaching net zero would be a ‘welcome outcome’ in the future "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Liberal party will abandon a firm net zero emissions target, siding with the Nationals to end the Coalition’s commitment to the climate goal",
+          "• Liberal shadow ministry agreed a future Coalition government would not withdraw from the Paris Agreement"
+        ],
+        "hopeful_bullets": [
+          "• The Liberal party will abandon a firm net zero emissions target, siding with the Nationals to end the Coalition’s commitment to the climate goal",
+          "• Liberal shadow ministry agreed a future Coalition government would not withdraw from the Paris Agreement"
+        ],
+        "stakes_bullets": [
+          "• The Liberal party will abandon a firm net zero emissions target, siding with the Nationals to end the Coalition’s commitment to the climate goal",
+          "• Liberal MPs will also be free to argue that reaching net zero would be a ‘welcome outcome’ in the future "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ffb1a9dab9d8"
+    },
+    {
+      "id": "ed6824f8e108",
+      "title": "Former state Rep. Chris Paddie fined $105,500 for violating revolving door lobbying law",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17208287/former-texas-representative-chris-paddie-lobbying-fine",
+      "published_at": "Thu, 13 Nov 2025 01:33:48 +0000",
+      "bullets": [
+        "• Paddie donated $54,000 to lawmakers and candidates while he was still in office",
+        "• The law prohibits former lawmakers from donating money before leaving office",
+        "• He re-contempted the law and donated $55,500 to cover the amount "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.947
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Paddie donated $54,000 to lawmakers and candidates while he was still in office",
+          "• The law prohibits former lawmakers from donating money before leaving office"
+        ],
+        "hopeful_bullets": [
+          "• Paddie donated $54,000 to lawmakers and candidates while he was still in office",
+          "• The law prohibits former lawmakers from donating money before leaving office"
+        ],
+        "stakes_bullets": [
+          "• Paddie donated $54,000 to lawmakers and candidates while he was still in office",
+          "• The law prohibits former lawmakers from donating money before leaving office",
+          "• He re-contempted the law and donated $55,500 to cover the amount "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7e6efcf8e3fc"
+    },
+    {
+      "id": "d02462d34113",
+      "title": "35 Most Nostalgic Flash Games From The Early 2000s",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-flash-games-nostalgic-2000s/",
+      "published_at": "Thu, 13 Nov 2025 01:30:12 GMT",
+      "bullets": [
+        "• Flash video games were some of the most accessible games in the early 2000s",
+        "• The Impossible Quiz and The World's Hardest Game were so widely played that they became playground names",
+        "• Even though Flash is no longer around, many of the best Flash games of all time have been converted "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Flash video games were some of the most accessible games in the early 2000s",
+          "• The Impossible Quiz and The World's Hardest Game were so widely played that they became playground names"
+        ],
+        "hopeful_bullets": [
+          "• Flash video games were some of the most accessible games in the early 2000s",
+          "• The Impossible Quiz and The World's Hardest Game were so widely played that they became playground names"
+        ],
+        "stakes_bullets": [
+          "• Flash video games were some of the most accessible games in the early 2000s",
+          "• The Impossible Quiz and The World's Hardest Game were so widely played that they became playground names",
+          "• Even though Flash is no longer around, many of the best Flash games of all time have been converted "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "2cad4816f4da"
+    },
+    {
+      "id": "db23c11ca1eb",
+      "title": "7 Legendary Western Villains Who Completely Stole the Movie",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/western-villains-who-completely-stole-the-movie/",
+      "published_at": "Thu, 13 Nov 2025 01:20:13 GMT",
+      "bullets": [
+        "• It's difficult to make a truly memorable Western film without a magnetic villain",
+        "• A compelling antagonist is crucial for driving the conflict forward",
+        "• The Western villain exemplifies and twists everything the genre stands for: justice, revenge and survival",
+        "• The frontier setting has served well to create some of the most hardened and memorable outlaws on screen "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• It's difficult to make a truly memorable Western film without a magnetic villain",
+          "• A compelling antagonist is crucial for driving the conflict forward"
+        ],
+        "hopeful_bullets": [
+          "• It's difficult to make a truly memorable Western film without a magnetic villain",
+          "• A compelling antagonist is crucial for driving the conflict forward"
+        ],
+        "stakes_bullets": [
+          "• It's difficult to make a truly memorable Western film without a magnetic villain",
+          "• A compelling antagonist is crucial for driving the conflict forward",
+          "• The Western villain exemplifies and twists everything the genre stands for: justice, revenge and survival"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "54d3c5c1c75f"
+    },
+    {
+      "id": "a4f05eed71f6",
+      "title": "Pennsylvania to Leave RGGI as Part of an Overdue Budget Deal",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/12112025/pennsylvania-votes-to-exit-rggi-via-budget-bill/",
+      "published_at": "Thu, 13 Nov 2025 01:07:28 +0000",
+      "bullets": [
+        "• Pennsylvania lawmakers voted to withdraw the state from a regional effort that cuts carbon emissions from power plants",
+        "• The move was baked into a deal on the state’s long-overdue budget",
+        "• An ongoing legal battle kept Pennsylvania from participating in the Regional Greenhouse Gas Initiative since former Gov",
+        "• Tom Wolf directed the state to join the pact "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Pennsylvania lawmakers voted to withdraw the state from a regional effort that cuts carbon emissions from power plants",
+          "• The move was baked into a deal on the state’s long-overdue budget"
+        ],
+        "hopeful_bullets": [
+          "• Pennsylvania lawmakers voted to withdraw the state from a regional effort that cuts carbon emissions from power plants",
+          "• The move was baked into a deal on the state’s long-overdue budget"
+        ],
+        "stakes_bullets": [
+          "• Pennsylvania lawmakers voted to withdraw the state from a regional effort that cuts carbon emissions from power plants"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "8f4f9e596284"
+    },
+    {
+      "id": "39673b9adc8c",
+      "title": "US House to vote next week on bill compelling release of Epstein files",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/12/us-house-vote-epstein-files",
+      "published_at": "Thu, 13 Nov 2025 01:00:13 GMT",
+      "bullets": [
+        "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week",
+        "• Johnson, who opposes the bill, made the announcement just hours after swearing in Arizona Democrat Adelita Grijalva "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.871
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week",
+          "• Johnson, who opposes the bill, made the announcement just hours after swearing in Arizona Democrat Adelita Grijalva "
+        ],
+        "hopeful_bullets": [
+          "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week",
+          "• Johnson, who opposes the bill, made the announcement just hours after swearing in Arizona Democrat Adelita Grijalva "
+        ],
+        "stakes_bullets": [
+          "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week",
+          "• Johnson, who opposes the bill, made the announcement just hours after swearing in Arizona Democrat Adelita Grijalva "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2cbe0ffc4f40"
+    },
+    {
+      "id": "acfcab510b03",
+      "title": "Asia markets mostly rise as Dow tops 48,000 for first time; traders eye U.S. government reopening",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/13/asia-pacific-markets-thursday-nikkei-225-hang-seng-index-kospi-nifty-50.html",
+      "published_at": "Thu, 13 Nov 2025 00:57:04 GMT",
+      "bullets": [
+        "• Japan's benchmark Nikkei 225 index rose 0.23% in early trading, while the Topix added 0.62% to hit a record high",
+        "• SoftBank Group shares continue to fall for a second consecutive day, plunging more than 5%, after the Japanese giant said Tuesday it sold its entire $5.8 billion stake in Nvidia in October "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.959
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Japan's benchmark Nikkei 225 index rose 0.23% in early trading, while the Topix added 0.62% to hit a record high",
+          "• SoftBank Group shares continue to fall for a second consecutive day, plunging more than 5%, after the Japanese giant said Tuesday it sold its entire $5.8 billion stake in Nvidia in October "
+        ],
+        "hopeful_bullets": [
+          "• Japan's benchmark Nikkei 225 index rose 0.23% in early trading, while the Topix added 0.62% to hit a record high"
+        ],
+        "stakes_bullets": [
+          "• SoftBank Group shares continue to fall for a second consecutive day, plunging more than 5%, after the Japanese giant said Tuesday it sold its entire $5.8 billion stake in Nvidia in October "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "55dbdc4c3c05"
+    },
+    {
+      "id": "ceeaa8b9fe66",
+      "title": "Jeffrey Epstein files: House speaker announces vote next week on release of docs",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/jeffrey-epstein-files-house-vote-grijalva.html",
+      "published_at": "Thu, 13 Nov 2025 00:55:07 GMT",
+      "bullets": [
+        "• Rep",
+        "• Adelita Grijalva, D-Ariz., provided the 218th signature needed to force the Justice Department to release Jeffrey Epstein files",
+        "• A full House vote on that effort will be held next week",
+        "• Trump administration has been under fire for reneging on promises to release investigative files related to Epstein "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.942
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rep",
+          "• Adelita Grijalva, D-Ariz., provided the 218th signature needed to force the Justice Department to release Jeffrey Epstein files"
+        ],
+        "hopeful_bullets": [
+          "• Rep",
+          "• Adelita Grijalva, D-Ariz., provided the 218th signature needed to force the Justice Department to release Jeffrey Epstein files"
+        ],
+        "stakes_bullets": [
+          "• A full House vote on that effort will be held next week"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "60d2ceb0e1fe"
+    },
+    {
+      "id": "f2e15ee984c2",
+      "title": "4 Words in Lord of the Rings Quietly Changed Everything About Its Greatest Villain",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/lord-of-the-rings-quote-sauron-fears-you-aragorn-changed-everything/",
+      "published_at": "Thu, 13 Nov 2025 00:40:12 GMT",
+      "bullets": [
+        "• Peter Jackson's The Lord of the Rings: The Fellowship of the Ring established that the Dark Lord Sauron was a nearly unstoppable force",
+        "• Sauron only defeated because Elendil's son, Isildur, was lucky enough to cut the One Ring from Sauron's finger "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Peter Jackson's The Lord of the Rings: The Fellowship of the Ring established that the Dark Lord Sauron was a nearly unstoppable force",
+          "• Sauron only defeated because Elendil's son, Isildur, was lucky enough to cut the One Ring from Sauron's finger "
+        ],
+        "hopeful_bullets": [
+          "• Peter Jackson's The Lord of the Rings: The Fellowship of the Ring established that the Dark Lord Sauron was a nearly unstoppable force",
+          "• Sauron only defeated because Elendil's son, Isildur, was lucky enough to cut the One Ring from Sauron's finger "
+        ],
+        "stakes_bullets": [
+          "• Sauron only defeated because Elendil's son, Isildur, was lucky enough to cut the One Ring from Sauron's finger "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "112c7f233e1f"
+    },
+    {
+      "id": "60f1fb7c82ce",
+      "title": "Arizona’s Adelita Grijalva sworn in after seven weeks in move that triggers Epstein vote",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/12/adelita-grijalva-arizona-swearing-in",
+      "published_at": "Thu, 13 Nov 2025 00:18:04 GMT",
+      "bullets": [
+        "• Adelita Grijalva was sworn in by Mike Johnson, the US House speaker, on Wednesday",
+        "• The House was already out of session when she won a late September special election to succeed her father, the longtime representative",
+        "• Johnson kept the House in recess as a tactic to pressure Senate Democrats to compromise with Republicans on government funding "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Adelita Grijalva was sworn in by Mike Johnson, the US House speaker, on Wednesday",
+          "• The House was already out of session when she won a late September special election to succeed her father, the longtime representative"
+        ],
+        "hopeful_bullets": [
+          "• Adelita Grijalva was sworn in by Mike Johnson, the US House speaker, on Wednesday",
+          "• The House was already out of session when she won a late September special election to succeed her father, the longtime representative"
+        ],
+        "stakes_bullets": [
+          "• Adelita Grijalva was sworn in by Mike Johnson, the US House speaker, on Wednesday",
+          "• The House was already out of session when she won a late September special election to succeed her father, the longtime representative",
+          "• Johnson kept the House in recess as a tactic to pressure Senate Democrats to compromise with Republicans on government funding "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "8bdfd29b8d8e"
+    },
+    {
+      "id": "6d4e32625083",
+      "title": "Optimus Prime Returns in Controversial Transformers Reveal",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/transformers-season-3-optimus-prime-reveal/",
+      "published_at": "Thu, 13 Nov 2025 00:13:45 GMT",
+      "bullets": [
+        "• New behind-the-scenes info has been posted online about The Transformers",
+        "• The Paul Davids Collection: G1 Outlines, Scripts, Storyboards, Models And More series includes several tidbits about the show's final full season",
+        "• These include a closer look at an episode centered around the Autobot Kup "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New behind-the-scenes info has been posted online about The Transformers",
+          "• The Paul Davids Collection: G1 Outlines, Scripts, Storyboards, Models And More series includes several tidbits about the show's final full season"
+        ],
+        "hopeful_bullets": [
+          "• New behind-the-scenes info has been posted online about The Transformers",
+          "• The Paul Davids Collection: G1 Outlines, Scripts, Storyboards, Models And More series includes several tidbits about the show's final full season"
+        ],
+        "stakes_bullets": [
+          "• New behind-the-scenes info has been posted online about The Transformers",
+          "• The Paul Davids Collection: G1 Outlines, Scripts, Storyboards, Models And More series includes several tidbits about the show's final full season",
+          "• These include a closer look at an episode centered around the Autobot Kup "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "21706324f03c"
+    },
+    {
+      "id": "82751740e26f",
+      "title": "Matlock Season 2 Quietly Crossed a Madeline & Olympia Line It Can’t Undo",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/matlock-season-2-episode-5-madeline-olympia-julian-gaslight-mistake/",
+      "published_at": "Thu, 13 Nov 2025 00:10:12 GMT",
+      "bullets": [
+        "• Matlock Season 2, Episode 5, \"Mousetrap,\" aired Thursday, November 6, on CBS",
+        "• Julian Markston (Jason Ritter) almost pieced together a vital element of their secret plan",
+        "• Julian is suspicious of Madeline due to her friendship with Emmalyn Belvin "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.953
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Matlock Season 2, Episode 5, \"Mousetrap,\" aired Thursday, November 6, on CBS",
+          "• Julian Markston (Jason Ritter) almost pieced together a vital element of their secret plan"
+        ],
+        "hopeful_bullets": [
+          "• Matlock Season 2, Episode 5, \"Mousetrap,\" aired Thursday, November 6, on CBS",
+          "• Julian Markston (Jason Ritter) almost pieced together a vital element of their secret plan"
+        ],
+        "stakes_bullets": [
+          "• Julian Markston (Jason Ritter) almost pieced together a vital element of their secret plan"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "80e835acb043"
+    },
+    {
+      "id": "b0cc81d7f6d5",
+      "title": "World still on track for catastrophic 2.6C temperature rise, report finds",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/nov/13/world-still-on-track-for-catastrophic-26c-temperature-rise-report-finds",
+      "published_at": "Thu, 13 Nov 2025 00:01:08 GMT",
+      "bullets": [
+        "• Climate Action Tracker update shows world on track for 2.6C rise in temperature",
+        "• Fossil fuel emissions driving the climate crisis will rise by about 1% this year to hit a record high",
+        "• Renewable energy is now close to supplying the annual rise in the world’s demand for energy "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.849
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Climate Action Tracker update shows world on track for 2.6C rise in temperature",
+          "• Fossil fuel emissions driving the climate crisis will rise by about 1% this year to hit a record high"
+        ],
+        "hopeful_bullets": [
+          "• Fossil fuel emissions driving the climate crisis will rise by about 1% this year to hit a record high"
+        ],
+        "stakes_bullets": [
+          "• Fossil fuel emissions driving the climate crisis will rise by about 1% this year to hit a record high"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "d839d43ec4b9"
     },
     {
       "id": "9c77d8d746b9",
@@ -8365,32 +8354,69 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "e8a229c1d46d",
+      "title": "Sony is making a Horizon MMO — here’s the video and details",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation",
+      "published_at": "2025-11-12T19:32:52-05:00",
+      "bullets": [
+        "• The rumored MMO set in Sony’s post-apocalyptic Horizon universe is real — and we’ve seen a video spilling details about the game",
+        "• The new game is called Horizon Steel Frontiers, and Sony and the Korean video game company NCSoft are working on it together",
+        "• Sony and a PR company representing NCSoft didn’t immediately reply to a request for comment "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The rumored MMO set in Sony’s post-apocalyptic Horizon universe is real — and we’ve seen a video spilling details about the game",
+          "• The new game is called Horizon Steel Frontiers, and Sony and the Korean video game company NCSoft are working on it together"
+        ],
+        "hopeful_bullets": [
+          "• The rumored MMO set in Sony’s post-apocalyptic Horizon universe is real — and we’ve seen a video spilling details about the game",
+          "• The new game is called Horizon Steel Frontiers, and Sony and the Korean video game company NCSoft are working on it together"
+        ],
+        "stakes_bullets": [
+          "• The rumored MMO set in Sony’s post-apocalyptic Horizon universe is real — and we’ve seen a video spilling details about the game",
+          "• The new game is called Horizon Steel Frontiers, and Sony and the Korean video game company NCSoft are working on it together",
+          "• Sony and a PR company representing NCSoft didn’t immediately reply to a request for comment "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c4036f6c34c8"
+    },
+    {
       "id": "ca9f1ac67938",
       "title": "The best budget robot vacuums",
       "outlet": "The Verge",
       "url": "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop",
       "published_at": "2025-11-12T17:31:26-05:00",
       "bullets": [
-        "• The best budget robot vacuums are easy to forget that they can just be simple machines that get us from point A to point B",
-        "• Some models have obstacle recognition, and some even use AI-powered cameras to tell popcorn from poop and avoid the latter",
-        "• Here’s our pick of the most cost-effective bots you can buy right now "
+        "• The best budget robot vacuums are available now",
+        "• They are easy to forget that they can just be simple and easy to clean your floors",
+        "• Some even have built-in cameras that can tell if you want to clean up your carpet",
+        "• The best deals are still available on Friday, November 28 "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "negative",
-        "score": 0.69
+        "label": "positive",
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
-          "• The best budget robot vacuums are easy to forget that they can just be simple machines that get us from point A to point B",
-          "• Some models have obstacle recognition, and some even use AI-powered cameras to tell popcorn from poop and avoid the latter"
+          "• The best budget robot vacuums are available now",
+          "• They are easy to forget that they can just be simple and easy to clean your floors"
         ],
         "hopeful_bullets": [
-          "• The best budget robot vacuums are easy to forget that they can just be simple machines that get us from point A to point B",
-          "• Some models have obstacle recognition, and some even use AI-powered cameras to tell popcorn from poop and avoid the latter"
+          "• The best budget robot vacuums are available now",
+          "• They are easy to forget that they can just be simple and easy to clean your floors"
         ],
         "stakes_bullets": [
-          "• Here’s our pick of the most cost-effective bots you can buy right now "
+          "• The best budget robot vacuums are available now",
+          "• They are easy to forget that they can just be simple and easy to clean your floors",
+          "• Some even have built-in cameras that can tell if you want to clean up your carpet"
         ]
       },
       "read_minutes": 14,
@@ -8470,31 +8496,28 @@
       "url": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
       "published_at": "2025-11-12T15:29:19-05:00",
       "bullets": [
-        "• Amazon is releasing three new Kindle e-readers for the first time this fall",
-        "• The e-reader can be used to read books, movies and more",
-        "• The company is releasing a new version of the Kindle that can be downloaded to download and use as a book "
+        "• Amazon is currently discounting most of its e-readers, but only if you’re willing to pay for a bundle",
+        "• There are three new Kindle Scribes coming; they were announced at Amazon’s fall hardware event on September 30th "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 0.683
+        "label": "negative",
+        "score": 0.976
       },
       "moods": {
         "brief_bullets": [
-          "• Amazon is releasing three new Kindle e-readers for the first time this fall",
-          "• The e-reader can be used to read books, movies and more"
+          "• Amazon is currently discounting most of its e-readers, but only if you’re willing to pay for a bundle",
+          "• There are three new Kindle Scribes coming; they were announced at Amazon’s fall hardware event on September 30th "
         ],
         "hopeful_bullets": [
-          "• Amazon is releasing three new Kindle e-readers for the first time this fall",
-          "• The e-reader can be used to read books, movies and more"
+          "• Amazon is currently discounting most of its e-readers, but only if you’re willing to pay for a bundle",
+          "• There are three new Kindle Scribes coming; they were announced at Amazon’s fall hardware event on September 30th "
         ],
         "stakes_bullets": [
-          "• Amazon is releasing three new Kindle e-readers for the first time this fall",
-          "• The e-reader can be used to read books, movies and more",
-          "• The company is releasing a new version of the Kindle that can be downloaded to download and use as a book "
+          "• Amazon is currently discounting most of its e-readers, but only if you’re willing to pay for a bundle"
         ]
       },
-      "read_minutes": 9,
+      "read_minutes": 10,
       "cluster_id": "605fbcb49ab8"
     },
     {
@@ -8660,38 +8683,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "2aebac579d8a"
-    },
-    {
-      "id": "03784e83d55e",
-      "title": "Valve is welcoming Android games into Steam",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/818672/valve-android-apps-steam-frame",
-      "published_at": "2025-11-12T14:00:00-05:00",
-      "bullets": [
-        "• The Steam Frame can use the same Android APKs developers already use to bring their apps to phones and VR headsets",
-        "• It sounds like Valve is specifically hoping to attract some of those developers, rather than just any kind of Android app you might find on a tablet or phone",
-        "• The Frame is the start — but it could be tip of the iceberg "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.966
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Steam Frame can use the same Android APKs developers already use to bring their apps to phones and VR headsets",
-          "• It sounds like Valve is specifically hoping to attract some of those developers, rather than just any kind of Android app you might find on a tablet or phone"
-        ],
-        "hopeful_bullets": [
-          "• The Steam Frame can use the same Android APKs developers already use to bring their apps to phones and VR headsets",
-          "• It sounds like Valve is specifically hoping to attract some of those developers, rather than just any kind of Android app you might find on a tablet or phone"
-        ],
-        "stakes_bullets": [
-          "• The Frame is the start — but it could be tip of the iceberg "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "9249c6ce83ce"
     },
     {
       "id": "c41ff758b36a",
@@ -9518,15 +9509,15 @@
       ]
     },
     {
-      "id": "8ef08383253c",
-      "topic": "epstein house petition release",
+      "id": "95b651aa8417",
+      "topic": "bill epstein government house",
       "keywords": [
+        "bill",
         "epstein",
+        "government",
         "house",
-        "petition",
-        "release",
-        "trigger",
-        "vote"
+        "passe",
+        "reopen"
       ],
       "item_ids": [
         "311f80cf3d68"
@@ -9536,18 +9527,36 @@
       ]
     },
     {
-      "id": "4df62687b7a0",
-      "topic": "briefly elon grok musk",
+      "id": "b0f5d22fb212",
+      "topic": "end government history longest",
       "keywords": [
-        "briefly",
-        "elon",
-        "grok",
-        "musk",
-        "trump",
-        "won"
+        "end",
+        "government",
+        "history",
+        "longest",
+        "set",
+        "shutdown"
       ],
       "item_ids": [
-        "2b7a0b8e5539"
+        "c0e30e773afe"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "2cbe0ffc4f40",
+      "topic": "bill compelling house next",
+      "keywords": [
+        "bill",
+        "compelling",
+        "house",
+        "next",
+        "vote",
+        "week"
+      ],
+      "item_ids": [
+        "39673b9adc8c"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9566,6 +9575,42 @@
       ],
       "item_ids": [
         "60f1fb7c82ce"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "fd546abb27ef",
+      "topic": "begin bill end house",
+      "keywords": [
+        "begin",
+        "bill",
+        "end",
+        "house",
+        "longest",
+        "voting"
+      ],
+      "item_ids": [
+        "57cc18deb500"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "4df62687b7a0",
+      "topic": "briefly elon grok musk",
+      "keywords": [
+        "briefly",
+        "elon",
+        "grok",
+        "musk",
+        "trump",
+        "won"
+      ],
+      "item_ids": [
+        "2b7a0b8e5539"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9626,60 +9671,6 @@
       ]
     },
     {
-      "id": "08e3cf863f5b",
-      "topic": "bill bullying gore prompted",
-      "keywords": [
-        "bill",
-        "bullying",
-        "gore",
-        "prompted",
-        "trump",
-        "wonder"
-      ],
-      "item_ids": [
-        "bf4ebc29cd91"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "4181346be137",
-      "topic": "doubt email epstein past",
-      "keywords": [
-        "doubt",
-        "email",
-        "epstein",
-        "past",
-        "stir",
-        "trump"
-      ],
-      "item_ids": [
-        "473f4b8f63f1"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "cb7e4420c03d",
-      "topic": "controversial final make man",
-      "keywords": [
-        "controversial",
-        "final",
-        "make",
-        "man",
-        "oklahoma",
-        "trial"
-      ],
-      "item_ids": [
-        "7b8ebb77bc1e"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "7f5bfac89d0b",
       "topic": "conduct epstein knew newly",
       "keywords": [
@@ -9695,6 +9686,60 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "4f99b87b76e8",
+      "topic": "end ever government house",
+      "keywords": [
+        "end",
+        "ever",
+        "government",
+        "house",
+        "longest",
+        "vote"
+      ],
+      "item_ids": [
+        "023ac87071ce"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "e4d9fcc14cbe",
+      "topic": "affirming ban bishop care",
+      "keywords": [
+        "affirming",
+        "ban",
+        "bishop",
+        "care",
+        "gender",
+        "officially"
+      ],
+      "item_ids": [
+        "48a62a790431"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "1d46c592e41b",
+      "topic": "black federal official police",
+      "keywords": [
+        "black",
+        "federal",
+        "official",
+        "police",
+        "some",
+        "worry"
+      ],
+      "item_ids": [
+        "bc0d6e5e3249"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9787,60 +9832,21 @@
       ]
     },
     {
-      "id": "be4c6b877cf1",
-      "topic": "arctic circle drew greeting",
+      "id": "81b5e7bc5711",
+      "topic": "bill end funding house",
       "keywords": [
-        "arctic",
-        "circle",
-        "drew",
-        "greeting",
-        "icebreaker",
-        "ship"
+        "bill",
+        "end",
+        "funding",
+        "house",
+        "passe",
+        "record"
       ],
       "item_ids": [
-        "ce2297b8ba65"
+        "7b696a90f2af"
       ],
       "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "558fdbc0402b",
-      "topic": "cleto escobedo iii jimmy",
-      "keywords": [
-        "cleto",
-        "escobedo",
-        "iii",
-        "jimmy",
-        "kimmel",
-        "leader",
-        "live"
-      ],
-      "item_ids": [
-        "b448e8146379",
-        "9d4b14786798"
-      ],
-      "outlets": [
-        "NPR Topics: News",
-        "RSS: News"
-      ]
-    },
-    {
-      "id": "afa65f369cdd",
-      "topic": "far light northern saw",
-      "keywords": [
-        "far",
-        "light",
-        "northern",
-        "saw",
-        "south",
-        "vivid"
-      ],
-      "item_ids": [
-        "cb8e55fe99ca"
-      ],
-      "outlets": [
-        "NPR Topics: News"
+        "US Top News and Analysis"
       ]
     },
     {
@@ -9862,15 +9868,15 @@
       ]
     },
     {
-      "id": "6dcde8683abb",
-      "topic": "epstein file house jeffrey",
+      "id": "60d2ceb0e1fe",
+      "topic": "announce epstein file house",
       "keywords": [
+        "announce",
         "epstein",
         "file",
         "house",
         "jeffrey",
-        "petition",
-        "secure"
+        "speaker"
       ],
       "item_ids": [
         "ceeaa8b9fe66"
@@ -9880,18 +9886,54 @@
       ]
     },
     {
-      "id": "b2f5938eb016",
-      "topic": "clear government house hurdle",
+      "id": "4e84120e710b",
+      "topic": "cuts disruption dot ease",
       "keywords": [
-        "clear",
-        "government",
-        "house",
-        "hurdle",
-        "procedural",
-        "shutdown"
+        "cuts",
+        "disruption",
+        "dot",
+        "ease",
+        "flight",
+        "freeze"
       ],
       "item_ids": [
-        "7b696a90f2af"
+        "3ab38747a821"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "33549f8d67f7",
+      "topic": "data house inflation jobs",
+      "keywords": [
+        "data",
+        "house",
+        "inflation",
+        "jobs",
+        "october",
+        "white"
+      ],
+      "item_ids": [
+        "8e09ef0c7e1d"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "55dbdc4c3c05",
+      "topic": "asia dow market mostly",
+      "keywords": [
+        "asia",
+        "dow",
+        "market",
+        "mostly",
+        "rise",
+        "tops"
+      ],
+      "item_ids": [
+        "acfcab510b03"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9934,54 +9976,18 @@
       ]
     },
     {
-      "id": "e6d218d1f0d5",
-      "topic": "advocate boston collin fed",
+      "id": "4f74f0335783",
+      "topic": "amd growth projection soar",
       "keywords": [
-        "advocate",
-        "boston",
-        "collin",
-        "fed",
-        "holding",
-        "president"
+        "amd",
+        "growth",
+        "projection",
+        "soar",
+        "stock",
+        "strong"
       ],
       "item_ids": [
-        "10659560a578"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "33549f8d67f7",
-      "topic": "data house inflation jobs",
-      "keywords": [
-        "data",
-        "house",
-        "inflation",
-        "jobs",
-        "october",
-        "white"
-      ],
-      "item_ids": [
-        "8e09ef0c7e1d"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "9bfef7e26dc7",
-      "topic": "anthropic billion infrastructure spend",
-      "keywords": [
-        "anthropic",
-        "billion",
-        "infrastructure",
-        "spend",
-        "starting",
-        "texa"
-      ],
-      "item_ids": [
-        "4fc237b9ceb4"
+        "feaa462a7ebf"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9997,24 +10003,6 @@
       ],
       "item_ids": [
         "366c3e5fa219"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "e09c699282c1",
-      "topic": "bags good grocery launche",
-      "keywords": [
-        "bags",
-        "good",
-        "grocery",
-        "launche",
-        "too",
-        "whole"
-      ],
-      "item_ids": [
-        "0de4c4c0eff7"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10200,6 +10188,24 @@
       ]
     },
     {
+      "id": "c4036f6c34c8",
+      "topic": "here horizon making mmo",
+      "keywords": [
+        "here",
+        "horizon",
+        "making",
+        "mmo",
+        "sony",
+        "video"
+      ],
+      "item_ids": [
+        "e8a229c1d46d"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "f44d2415a58c",
       "topic": "best budget robot vacuum",
       "keywords": [
@@ -10352,23 +10358,6 @@
       ],
       "item_ids": [
         "70b3f8c2e6e7"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "9249c6ce83ce",
-      "topic": "android game steam valve",
-      "keywords": [
-        "android",
-        "game",
-        "steam",
-        "valve",
-        "welcoming"
-      ],
-      "item_ids": [
-        "03784e83d55e"
       ],
       "outlets": [
         "The Verge"
@@ -10735,6 +10724,24 @@
       ]
     },
     {
+      "id": "be4c6b877cf1",
+      "topic": "arctic circle drew greeting",
+      "keywords": [
+        "arctic",
+        "circle",
+        "drew",
+        "greeting",
+        "icebreaker",
+        "ship"
+      ],
+      "item_ids": [
+        "ce2297b8ba65"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
       "id": "5bd3dc5de48d",
       "topic": "changing communitie get harder",
       "keywords": [
@@ -10879,24 +10886,6 @@
       ]
     },
     {
-      "id": "904d8d16069d",
-      "topic": "end history house longest",
-      "keywords": [
-        "end",
-        "history",
-        "house",
-        "longest",
-        "shutdown",
-        "vote"
-      ],
-      "item_ids": [
-        "0dfa7c53985e"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
       "id": "40eb5352d9ca",
       "topic": "diabete health immigrant obesity",
       "keywords": [
@@ -10981,24 +10970,6 @@
       ],
       "item_ids": [
         "fc6e05fa7d12"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "404c358ed5ae",
-      "topic": "adelita arizona day grijalva",
-      "keywords": [
-        "adelita",
-        "arizona",
-        "day",
-        "grijalva",
-        "rep",
-        "wait"
-      ],
-      "item_ids": [
-        "fcd2548c761e"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11157,6 +11128,24 @@
       ]
     },
     {
+      "id": "08e3cf863f5b",
+      "topic": "bill bullying gore prompted",
+      "keywords": [
+        "bill",
+        "bullying",
+        "gore",
+        "prompted",
+        "trump",
+        "wonder"
+      ],
+      "item_ids": [
+        "bf4ebc29cd91"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "280367bf96f8",
       "topic": "agree fail manage plan",
       "keywords": [
@@ -11247,39 +11236,75 @@
       ]
     },
     {
-      "id": "db9ff3198bac",
-      "topic": "called decision founding liberal",
+      "id": "ffb1a9dab9d8",
+      "topic": "abandon allow emission formally",
       "keywords": [
-        "called",
-        "decision",
-        "founding",
+        "abandon",
+        "allow",
+        "emission",
+        "formally",
         "liberal",
-        "principle",
-        "underpinning"
+        "target"
       ],
       "item_ids": [
-        "46335c24d2bd"
+        "8c9fa6820a4c"
       ],
       "outlets": [
         "Environment | The Guardian"
       ]
     },
     {
-      "id": "bfa407b493ab",
-      "topic": "climate funder ipa refuse",
+      "id": "d839d43ec4b9",
+      "topic": "catastrophic rise still temperature",
       "keywords": [
-        "climate",
-        "funder",
-        "ipa",
-        "refuse",
-        "reveal",
-        "sceptic"
+        "catastrophic",
+        "rise",
+        "still",
+        "temperature",
+        "track",
+        "world"
       ],
       "item_ids": [
-        "d15cf468a646"
+        "b0cc81d7f6d5"
       ],
       "outlets": [
         "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "1c32dfccd300",
+      "topic": "energy international project report",
+      "keywords": [
+        "energy",
+        "international",
+        "project",
+        "report",
+        "slower",
+        "transition"
+      ],
+      "item_ids": [
+        "de103cbc2da3"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "8f4f9e596284",
+      "topic": "budget leave overdue part",
+      "keywords": [
+        "budget",
+        "leave",
+        "overdue",
+        "part",
+        "pennsylvania",
+        "rggi"
+      ],
+      "item_ids": [
+        "a4f05eed71f6"
+      ],
+      "outlets": [
+        "Inside Climate News"
       ]
     },
     {
@@ -11421,42 +11446,6 @@
       ],
       "item_ids": [
         "166cec9ed91a"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "23616b52568b",
-      "topic": "caribbean france island justice",
-      "keywords": [
-        "caribbean",
-        "france",
-        "island",
-        "justice",
-        "pesticide",
-        "seek"
-      ],
-      "item_ids": [
-        "014c9d677323"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "3bbb87a8a8a6",
-      "topic": "arizona drought maintain money",
-      "keywords": [
-        "arizona",
-        "drought",
-        "maintain",
-        "money",
-        "response",
-        "water"
-      ],
-      "item_ids": [
-        "93aead9a0c34"
       ],
       "outlets": [
         "Inside Climate News"
@@ -13173,6 +13162,168 @@
       ]
     },
     {
+      "id": "f342095fa47c",
+      "topic": "everyone far gets side",
+      "keywords": [
+        "everyone",
+        "far",
+        "gets",
+        "side",
+        "thing",
+        "wrong"
+      ],
+      "item_ids": [
+        "0d6af157e09e"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "01fbdd975260",
+      "topic": "anime disturbing even evil",
+      "keywords": [
+        "anime",
+        "disturbing",
+        "even",
+        "evil",
+        "griffith",
+        "villain"
+      ],
+      "item_ids": [
+        "2610d7dbb570"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "941ff4082ac3",
+      "topic": "anime fate finally franchise",
+      "keywords": [
+        "anime",
+        "fate",
+        "finally",
+        "franchise",
+        "return",
+        "stay"
+      ],
+      "item_ids": [
+        "020f1400a722"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "2a596edc34bf",
+      "topic": "episode funniest marge monorail",
+      "keywords": [
+        "episode",
+        "funniest",
+        "marge",
+        "monorail",
+        "simpson",
+        "still"
+      ],
+      "item_ids": [
+        "99fb763bf3a6"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "2cad4816f4da",
+      "topic": "2000 early flash game",
+      "keywords": [
+        "2000",
+        "early",
+        "flash",
+        "game",
+        "most",
+        "nostalgic"
+      ],
+      "item_ids": [
+        "d02462d34113"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "54d3c5c1c75f",
+      "topic": "completely legendary movie stole",
+      "keywords": [
+        "completely",
+        "legendary",
+        "movie",
+        "stole",
+        "villain",
+        "western"
+      ],
+      "item_ids": [
+        "db23c11ca1eb"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "112c7f233e1f",
+      "topic": "changed everything lord quietly",
+      "keywords": [
+        "changed",
+        "everything",
+        "lord",
+        "quietly",
+        "ring",
+        "word"
+      ],
+      "item_ids": [
+        "f2e15ee984c2"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "21706324f03c",
+      "topic": "controversial optimu prime return",
+      "keywords": [
+        "controversial",
+        "optimu",
+        "prime",
+        "return",
+        "reveal",
+        "transformer"
+      ],
+      "item_ids": [
+        "6d4e32625083"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "80e835acb043",
+      "topic": "crossed madeline matlock olympia",
+      "keywords": [
+        "crossed",
+        "madeline",
+        "matlock",
+        "olympia",
+        "quietly",
+        "season"
+      ],
+      "item_ids": [
+        "82751740e26f"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "ed53943e97b0",
       "topic": "dreadful fantasy penny perfected",
       "keywords": [
@@ -13185,167 +13336,6 @@
       ],
       "item_ids": [
         "9c77d8d746b9"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "5aa056251a09",
-      "topic": "ball best dragon life",
-      "keywords": [
-        "ball",
-        "best",
-        "dragon",
-        "life",
-        "slice",
-        "super"
-      ],
-      "item_ids": [
-        "da91d5788a6a"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "3070c8b973f6",
-      "topic": "greatest history movie quote",
-      "keywords": [
-        "greatest",
-        "history",
-        "movie",
-        "quote",
-        "still",
-        "western"
-      ],
-      "item_ids": [
-        "258ca0049471"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "3120e2d9f86d",
-      "topic": "future landman revealed sheridan",
-      "keywords": [
-        "future",
-        "landman",
-        "revealed",
-        "sheridan",
-        "showrunner",
-        "taylor"
-      ],
-      "item_ids": [
-        "4930f80ed24d"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "7e1dd0f9d92f",
-      "topic": "clarifie director former involvement",
-      "keywords": [
-        "clarifie",
-        "director",
-        "former",
-        "involvement",
-        "man",
-        "spider"
-      ],
-      "item_ids": [
-        "f76f7509cec3"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "1358be9c89f1",
-      "topic": "date gets netflix streaming",
-      "keywords": [
-        "date",
-        "gets",
-        "netflix",
-        "streaming",
-        "troll"
-      ],
-      "item_ids": [
-        "53b924d0aa1a"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "598c77fc4458",
-      "topic": "every officially outsold ps5",
-      "keywords": [
-        "every",
-        "officially",
-        "outsold",
-        "ps5",
-        "single",
-        "xbox"
-      ],
-      "item_ids": [
-        "37dfdc5be3e1"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "992a09c624b7",
-      "topic": "goes hiatu leveling manhwa",
-      "keywords": [
-        "goes",
-        "hiatu",
-        "leveling",
-        "manhwa",
-        "ragnarok",
-        "solo"
-      ],
-      "item_ids": [
-        "8f8dadcae603"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "4c5064dc4fd6",
-      "topic": "debate finally mark ncis",
-      "keywords": [
-        "debate",
-        "finally",
-        "mark",
-        "ncis",
-        "origin",
-        "settle"
-      ],
-      "item_ids": [
-        "b5a348343878"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "1e045944969c",
-      "topic": "biggest far filming gets",
-      "keywords": [
-        "biggest",
-        "far",
-        "filming",
-        "gets",
-        "reacher",
-        "season"
-      ],
-      "item_ids": [
-        "a2d2d9319566"
       ],
       "outlets": [
         "CBR"
@@ -13710,6 +13700,24 @@
       ]
     },
     {
+      "id": "3cede8fc3012",
+      "topic": "dispute following label legal",
+      "keywords": [
+        "dispute",
+        "following",
+        "label",
+        "legal",
+        "newjean",
+        "return"
+      ],
+      "item_ids": [
+        "4ac5cd91da63"
+      ],
+      "outlets": [
+        "RSS: News"
+      ]
+    },
+    {
       "id": "c67218c1111a",
       "topic": "dopamine return robyn song",
       "keywords": [
@@ -13740,6 +13748,24 @@
       ],
       "item_ids": [
         "e9f974fb11d6"
+      ],
+      "outlets": [
+        "RSS: News"
+      ]
+    },
+    {
+      "id": "77334e933c9c",
+      "topic": "cleto escobedo iii jimmy",
+      "keywords": [
+        "cleto",
+        "escobedo",
+        "iii",
+        "jimmy",
+        "kimmel",
+        "live"
+      ],
+      "item_ids": [
+        "9d4b14786798"
       ],
       "outlets": [
         "RSS: News"
@@ -13853,21 +13879,39 @@
       ]
     },
     {
-      "id": "2d42dc4ec627",
-      "topic": "chalamet creator official timoth",
+      "id": "04ea667a77e6",
+      "topic": "deal funding government house",
       "keywords": [
-        "chalamet",
-        "creator",
-        "official",
-        "timoth",
-        "tyler",
-        "watch"
+        "deal",
+        "funding",
+        "government",
+        "house",
+        "oks",
+        "reopen"
       ],
       "item_ids": [
-        "cff7d7769f53"
+        "c0f64b1b6116"
       ],
       "outlets": [
-        "RSS: News"
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "7e6efcf8e3fc",
+      "topic": "chri fined former paddie",
+      "keywords": [
+        "chri",
+        "fined",
+        "former",
+        "paddie",
+        "rep",
+        "state"
+      ],
+      "item_ids": [
+        "ed6824f8e108"
+      ],
+      "outlets": [
+        "The Texas Tribune"
       ]
     },
     {
@@ -13925,6 +13969,24 @@
       ]
     },
     {
+      "id": "22b410a36994",
+      "topic": "closure during government head",
+      "keywords": [
+        "closure",
+        "during",
+        "government",
+        "head",
+        "start",
+        "texa"
+      ],
+      "item_ids": [
+        "40589b6167f2"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "2a809b38293f",
       "topic": "donald endorse gov greg",
       "keywords": [
@@ -13961,24 +14023,6 @@
       ]
     },
     {
-      "id": "22b410a36994",
-      "topic": "closure during government head",
-      "keywords": [
-        "closure",
-        "during",
-        "government",
-        "head",
-        "start",
-        "texa"
-      ],
-      "item_ids": [
-        "40589b6167f2"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
       "id": "cc528d0ea698",
       "topic": "among facing largest older",
       "keywords": [
@@ -14009,42 +14053,6 @@
       ],
       "item_ids": [
         "b0a8d1bdee01"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "f81032195ac9",
-      "topic": "county harri legal paxton",
-      "keywords": [
-        "county",
-        "harri",
-        "legal",
-        "paxton",
-        "sues",
-        "support"
-      ],
-      "item_ids": [
-        "deef806be423"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "6dbb02273c64",
-      "topic": "arrington carried jodey rep",
-      "keywords": [
-        "arrington",
-        "carried",
-        "jodey",
-        "rep",
-        "tax",
-        "trump"
-      ],
-      "item_ids": [
-        "692c6623a7e1"
       ],
       "outlets": [
         "The Texas Tribune"
