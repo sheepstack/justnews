@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-13T11:05:18Z",
+  "generated_at": "2025-11-13T11:23:25Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -333,6 +333,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "fd93821eac62"
+    },
+    {
+      "id": "1253e9eb98f6",
+      "title": "Thirteen hours by touch – inside one of the world's longest exam days",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9wv22qjq8eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 12 Nov 2025 23:01:22 GMT",
+      "bullets": [
+        "• More than 550,000 students across the country will sit for the Suneung - an abbreviation for College Scholastic Ability Test (CSAT) in Korean",
+        "• The test dictates whether people will be able to go to university, but can affect their job prospects, income, where they will live and even relationships "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.953
+      },
+      "moods": {
+        "brief_bullets": [
+          "• More than 550,000 students across the country will sit for the Suneung - an abbreviation for College Scholastic Ability Test (CSAT) in Korean",
+          "• The test dictates whether people will be able to go to university, but can affect their job prospects, income, where they will live and even relationships "
+        ],
+        "hopeful_bullets": [
+          "• More than 550,000 students across the country will sit for the Suneung - an abbreviation for College Scholastic Ability Test (CSAT) in Korean",
+          "• The test dictates whether people will be able to go to university, but can affect their job prospects, income, where they will live and even relationships "
+        ],
+        "stakes_bullets": [
+          "• More than 550,000 students across the country will sit for the Suneung - an abbreviation for College Scholastic Ability Test (CSAT) in Korean",
+          "• The test dictates whether people will be able to go to university, but can affect their job prospects, income, where they will live and even relationships "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "3ce86c3e09b3"
     },
     {
       "id": "d748b3e29db3",
@@ -871,41 +903,6 @@
       "cluster_id": "0e4c1f64bdcd"
     },
     {
-      "id": "ab404ec51e96",
-      "title": "Trump urges Israel's president to pardon Benjamin Netanyahu",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c986285zrq0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 12 Nov 2025 21:21:13 GMT",
-      "bullets": [
-        "• Netanyahu has been charged with three counts of bribery and fraud",
-        "• He has been accused of accepting gifts from powerful businessmen in exchange for favours",
-        "• The US president has written a letter to the Israeli prime minister asking for a pardon",
-        "• He says he respects the country's justice system, but that the case is a political issue "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.981
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Netanyahu has been charged with three counts of bribery and fraud",
-          "• He has been accused of accepting gifts from powerful businessmen in exchange for favours"
-        ],
-        "hopeful_bullets": [
-          "• Netanyahu has been charged with three counts of bribery and fraud",
-          "• He has been accused of accepting gifts from powerful businessmen in exchange for favours"
-        ],
-        "stakes_bullets": [
-          "• Netanyahu has been charged with three counts of bribery and fraud",
-          "• He has been accused of accepting gifts from powerful businessmen in exchange for favours",
-          "• The US president has written a letter to the Israeli prime minister asking for a pardon"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "669b6b220036"
-    },
-    {
       "id": "de892c1c6276",
       "title": "Cop30 live: ‘literally insane’ that we are letting global heating happen, says Al Gore",
       "outlet": "World news | The Guardian",
@@ -1200,40 +1197,6 @@
       "cluster_id": "a17f747e8ac1"
     },
     {
-      "id": "83ea229037a6",
-      "title": "Delhi blast was terror incident, Indian government says",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8zkdemv2ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 12 Nov 2025 20:43:43 GMT",
-      "bullets": [
-        "• At least eight people were killed and 20 more injured in the explosion near the Red Fort",
-        "• Prime Minister Narendra Modi's government condemns the attack at a security meeting",
-        "• The government has not yet named anyone or made any arrests in connection with the incident "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least eight people were killed and 20 more injured in the explosion near the Red Fort",
-          "• Prime Minister Narendra Modi's government condemns the attack at a security meeting"
-        ],
-        "hopeful_bullets": [
-          "• At least eight people were killed and 20 more injured in the explosion near the Red Fort",
-          "• Prime Minister Narendra Modi's government condemns the attack at a security meeting"
-        ],
-        "stakes_bullets": [
-          "• At least eight people were killed and 20 more injured in the explosion near the Red Fort",
-          "• Prime Minister Narendra Modi's government condemns the attack at a security meeting",
-          "• The government has not yet named anyone or made any arrests in connection with the incident "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7dd10d3bd0c1"
-    },
-    {
       "id": "922d113fc0a6",
       "title": "Our Favorite Travel and Outdoor Gear Is on Sale at Huckberry",
       "outlet": "WIRED",
@@ -1504,38 +1467,6 @@
       "cluster_id": "e8c5a056aca6"
     },
     {
-      "id": "ce017cbd110f",
-      "title": "Skims valued at $5 billion after new funding round as it accelerates store expansion",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/skims-5-billion-valuation-funding-round.html",
-      "published_at": "Wed, 12 Nov 2025 20:06:38 GMT",
-      "bullets": [
-        "• Kim Kardashian's Skims brand has raised $225 million in new funding",
-        "• Goldman Sachs Alternatives, BDT & MSD Partners' affiliated funds also joined the round",
-        "• Skims plans to use the new capital to accelerate brick-and-mortar and international expansion "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Kim Kardashian's Skims brand has raised $225 million in new funding",
-          "• Goldman Sachs Alternatives, BDT & MSD Partners' affiliated funds also joined the round"
-        ],
-        "hopeful_bullets": [
-          "• Kim Kardashian's Skims brand has raised $225 million in new funding",
-          "• Goldman Sachs Alternatives, BDT & MSD Partners' affiliated funds also joined the round"
-        ],
-        "stakes_bullets": [
-          "• Skims plans to use the new capital to accelerate brick-and-mortar and international expansion "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "b5eb7ccafeec"
-    },
-    {
       "id": "48a62a790431",
       "title": "U.S. bishops officially ban gender-affirming care at Catholic hospitals",
       "outlet": "NPR Topics: News",
@@ -1712,38 +1643,6 @@
       "cluster_id": "6f751e672996"
     },
     {
-      "id": "4187cba12b21",
-      "title": "Italy investigates claims of tourists paying to shoot civilians in Bosnia in 1990s",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3epygq5272o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 12 Nov 2025 19:52:30 GMT",
-      "bullets": [
-        "• Italy investigates claims of tourists paying to shoot civilians in Bosnia in 1990s",
-        "• Public prosecutor's office in Milan has opened an investigation into claims",
-        "• Italians and others are alleged to have paid large sums to shoot at civilians in the besieged city of Sarajevo "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.848
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Italy investigates claims of tourists paying to shoot civilians in Bosnia in 1990s",
-          "• Public prosecutor's office in Milan has opened an investigation into claims"
-        ],
-        "hopeful_bullets": [
-          "• Italy investigates claims of tourists paying to shoot civilians in Bosnia in 1990s",
-          "• Public prosecutor's office in Milan has opened an investigation into claims"
-        ],
-        "stakes_bullets": [
-          "• Public prosecutor's office in Milan has opened an investigation into claims"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "de5611ab3e43"
-    },
-    {
       "id": "ced9144957fd",
       "title": "‘Alien 5’ — Sigourney Weaver Says Neil Blomkamp’s Sequel Died Because “Ridley Scott decided to be very possessive”",
       "outlet": "Dread Central",
@@ -1809,40 +1708,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "8d5eeba7b326"
-    },
-    {
-      "id": "747b3e873dac",
-      "title": "Supreme Court to hear arguments on Trump bid to fire Fed Gov. Lisa Cook on Jan. 21",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/12/trump-fed-lisa-cook-supreme-court.html",
-      "published_at": "Wed, 12 Nov 2025 19:32:39 GMT",
-      "bullets": [
-        "• The Supreme Court says it will hear arguments in the case challenging President Donald Trump's authority to fire Federal Reserve Gov",
-        "• Lisa Cook on Jan",
-        "• 21",
-        "• Trump said on Aug",
-        "• 25 that he was firing Cook, one of seven Fed governors, citing claims that she committed mortgage fraud in connection with two residences that she owns"
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.907
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Supreme Court says it will hear arguments in the case challenging President Donald Trump's authority to fire Federal Reserve Gov",
-          "• Lisa Cook on Jan"
-        ],
-        "hopeful_bullets": [
-          "• The Supreme Court says it will hear arguments in the case challenging President Donald Trump's authority to fire Federal Reserve Gov",
-          "• Lisa Cook on Jan"
-        ],
-        "stakes_bullets": [
-          "• The Supreme Court says it will hear arguments in the case challenging President Donald Trump's authority to fire Federal Reserve Gov"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2b81477cc889"
     },
     {
       "id": "22bc4b5d5aac",
@@ -2009,6 +1874,38 @@
       "cluster_id": "9f4b294ad4aa"
     },
     {
+      "id": "2645dc33f445",
+      "title": "Skyrocketing electricity prices fuel political backlash against tech sector's AI data centers",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/electricity-prices-data-center-ai-new-jersey-virginia-midterm-election.html",
+      "published_at": "Wed, 12 Nov 2025 18:55:22 GMT",
+      "bullets": [
+        "• Democrats accuse the White House of \"sweetheart deals\" with Big Tech companies",
+        "• New Jersey governor-elect Mikie Sherrill has promised to declare a state of emergency over electric bills",
+        "• Two Democrats were elected to Georgia's commission that regulates utilities, breaking total Republican control "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.961
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Democrats accuse the White House of \"sweetheart deals\" with Big Tech companies",
+          "• New Jersey governor-elect Mikie Sherrill has promised to declare a state of emergency over electric bills"
+        ],
+        "hopeful_bullets": [
+          "• Democrats accuse the White House of \"sweetheart deals\" with Big Tech companies",
+          "• New Jersey governor-elect Mikie Sherrill has promised to declare a state of emergency over electric bills"
+        ],
+        "stakes_bullets": [
+          "• New Jersey governor-elect Mikie Sherrill has promised to declare a state of emergency over electric bills"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "83863f0305e3"
+    },
+    {
       "id": "bc0d6e5e3249",
       "title": "Some Black police officials worry more federal agents will breed community mistrust",
       "outlet": "NPR Topics: News",
@@ -2017,12 +1914,12 @@
       "bullets": [
         "• Some Black police officials worry more federal agents will breed community mistrust",
         "• Jaiden Booth is opposed to immigration agents or National Guard members policing communities of color",
-        "• Booth fears the presence of troops and federal agents could set the stage for more negative interactions with Black Americans "
+        "• Booth fears that the presence of troops and federal agents could set the stage for more negative interactions with Black Americans "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
@@ -2035,7 +1932,7 @@
         ],
         "stakes_bullets": [
           "• Some Black police officials worry more federal agents will breed community mistrust",
-          "• Booth fears the presence of troops and federal agents could set the stage for more negative interactions with Black Americans "
+          "• Booth fears that the presence of troops and federal agents could set the stage for more negative interactions with Black Americans "
         ]
       },
       "read_minutes": 3,
@@ -2536,6 +2433,37 @@
       "cluster_id": "d060ef5b02f4"
     },
     {
+      "id": "f8c389de4ee6",
+      "title": "WNBA's Las Vegas Aces coach Becky Hammon says the league may need new leadership",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/12/wnba-las-vegas-aces-becky-hammon-new-league-leadership.html",
+      "published_at": "Wed, 12 Nov 2025 18:00:01 GMT",
+      "bullets": [
+        "• Las Vegas Aces head coach Becky Hammon says it may be time for a change in WNBA leadership",
+        "• Hammon: \"I just think it might be too fractured at this point\" Minnesota Lynx star Napheesa Collier publicly criticized WNBA commissioner Cathy Engelbert in September "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Las Vegas Aces head coach Becky Hammon says it may be time for a change in WNBA leadership",
+          "• Hammon: \"I just think it might be too fractured at this point\" Minnesota Lynx star Napheesa Collier publicly criticized WNBA commissioner Cathy Engelbert in September "
+        ],
+        "hopeful_bullets": [
+          "• Las Vegas Aces head coach Becky Hammon says it may be time for a change in WNBA leadership",
+          "• Hammon: \"I just think it might be too fractured at this point\" Minnesota Lynx star Napheesa Collier publicly criticized WNBA commissioner Cathy Engelbert in September "
+        ],
+        "stakes_bullets": [
+          "• Las Vegas Aces head coach Becky Hammon says it may be time for a change in WNBA leadership"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2c7a6b9d73b8"
+    },
+    {
       "id": "57cae2ff66c7",
       "title": "Tatsuya Nakadai, an icon of Japanese cinema, has died at 92",
       "outlet": "NPR Topics: News",
@@ -2602,40 +2530,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "9bfef7e26dc7"
-    },
-    {
-      "id": "3e3a884bf848",
-      "title": "Major corruption scandal engulfs top Zelensky allies",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy8vw62j3g9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 12 Nov 2025 17:33:27 GMT",
-      "bullets": [
-        "• President Volodymyr Zelensky called for ministers' removal on Wednesday",
-        "• Energy Minister Svitlana Grynchuk and Justice Minister Herman Halushchenko resign",
-        "• Accused of embezzlement scheme worth about $100m (£76m) in energy sector "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Volodymyr Zelensky called for ministers' removal on Wednesday",
-          "• Energy Minister Svitlana Grynchuk and Justice Minister Herman Halushchenko resign"
-        ],
-        "hopeful_bullets": [
-          "• President Volodymyr Zelensky called for ministers' removal on Wednesday",
-          "• Energy Minister Svitlana Grynchuk and Justice Minister Herman Halushchenko resign"
-        ],
-        "stakes_bullets": [
-          "• President Volodymyr Zelensky called for ministers' removal on Wednesday",
-          "• Energy Minister Svitlana Grynchuk and Justice Minister Herman Halushchenko resign",
-          "• Accused of embezzlement scheme worth about $100m (£76m) in energy sector "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "657324dc7ad3"
     },
     {
       "id": "5446884e1c5a",
@@ -3130,40 +3024,6 @@
       "cluster_id": "2235ef80b995"
     },
     {
-      "id": "644012d4b10e",
-      "title": "Colombian military bombs suspected rebel camp, killing 19",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0jdyx6505do?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 12 Nov 2025 13:45:08 GMT",
-      "bullets": [
-        "• Colombian military bombs suspected rebel camp, killing 19 people",
-        "• The attack targeted a dissident faction of the Farc rebel group, which engages in drug trafficking",
-        "• President Gustavo Petro authorised the attack after the breakdown of peace talks with several rebel groups "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Colombian military bombs suspected rebel camp, killing 19 people",
-          "• The attack targeted a dissident faction of the Farc rebel group, which engages in drug trafficking"
-        ],
-        "hopeful_bullets": [
-          "• Colombian military bombs suspected rebel camp, killing 19 people",
-          "• The attack targeted a dissident faction of the Farc rebel group, which engages in drug trafficking"
-        ],
-        "stakes_bullets": [
-          "• Colombian military bombs suspected rebel camp, killing 19 people",
-          "• The attack targeted a dissident faction of the Farc rebel group, which engages in drug trafficking",
-          "• President Gustavo Petro authorised the attack after the breakdown of peace talks with several rebel groups "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "231ee11351a6"
-    },
-    {
       "id": "ce2297b8ba65",
       "title": "Greetings from the Arctic Circle, where an icebreaker ship drew polar bears' attention",
       "outlet": "NPR Topics: Science",
@@ -3196,37 +3056,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "be4c6b877cf1"
-    },
-    {
-      "id": "b115f9ab574d",
-      "title": "Israeli settlers set fire to Palestinian warehouse and land as West Bank attacks surge",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78zygz4xg9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 12 Nov 2025 11:06:48 GMT",
-      "bullets": [
-        "• Israeli settlers set fire to Palestinian warehouse and land as West Bank attacks surge",
-        "• Attacks coincide with the olive harvest season, when Palestinians head to their agricultural land around towns and villages",
-        "• UN humanitarian office says number of violent attacks by settlers last month was highest since it began collecting figures nearly 20 years ago "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Israeli settlers set fire to Palestinian warehouse and land as West Bank attacks surge",
-          "• Attacks coincide with the olive harvest season, when Palestinians head to their agricultural land around towns and villages"
-        ],
-        "hopeful_bullets": [
-          "• Israeli settlers set fire to Palestinian warehouse and land as West Bank attacks surge"
-        ],
-        "stakes_bullets": [
-          "• Israeli settlers set fire to Palestinian warehouse and land as West Bank attacks surge"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "9022af77f9fb"
     },
     {
       "id": "40589b6167f2",
@@ -4377,39 +4206,6 @@
       "cluster_id": "add6f8883d4e"
     },
     {
-      "id": "b0a8d1bdee01",
-      "title": "TribCast: Kate Rogers on her ousting from the Alamo Trust",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17207435/tribcast-alamo-rogers-patrick-no-spaces-short",
-      "published_at": "Tue, 11 Nov 2025 20:06:12 +0000",
-      "bullets": [
-        "• Kate Rogers, the former president of the Alamo Trust, steps down amid political pressure from Republican state leaders",
-        "• She was in the midst of overseeing a politically fraught overhaul of the historic site",
-        "• Rogers: \"I could see how we can't have someone running this project who sounds ungrateful or critical of the largest donor\""
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Kate Rogers, the former president of the Alamo Trust, steps down amid political pressure from Republican state leaders",
-          "• She was in the midst of overseeing a politically fraught overhaul of the historic site"
-        ],
-        "hopeful_bullets": [
-          "• Kate Rogers, the former president of the Alamo Trust, steps down amid political pressure from Republican state leaders",
-          "• She was in the midst of overseeing a politically fraught overhaul of the historic site"
-        ],
-        "stakes_bullets": [
-          "• Kate Rogers, the former president of the Alamo Trust, steps down amid political pressure from Republican state leaders",
-          "• Rogers: \"I could see how we can't have someone running this project who sounds ungrateful or critical of the largest donor\""
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e3a207bde904"
-    },
-    {
       "id": "d1b86f678fc0",
       "title": "Dry Cleaning Share Video for New Song “Cruise Ship Designer”: Watch",
       "outlet": "RSS: News",
@@ -4910,11 +4706,44 @@
       "cluster_id": "888b1e315600"
     },
     {
+      "id": "e743bf54230b",
+      "title": "How building a new hospital cost this rural Texas town a place to deliver babies",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17208460/texas-rural-hospital-olney-labor-delivery",
+      "published_at": "Thu, 13 Nov 2025 11:00:00 +0000",
+      "bullets": [
+        "• Olney Hamilton Hospital had been serving small town, 100 miles west of Fort Worth, Texas, for more than a century",
+        "• A windfall from nearby wind farms, the hospital was getting a once-in-a-generation opportunity to replace the aging building and outdated technology",
+        "• But behind the camera-ready smiles, the project was breaking down, felled by the same forces that have made it so hard for Texas’ rural hospitals to survive "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Olney Hamilton Hospital had been serving small town, 100 miles west of Fort Worth, Texas, for more than a century",
+          "• A windfall from nearby wind farms, the hospital was getting a once-in-a-generation opportunity to replace the aging building and outdated technology"
+        ],
+        "hopeful_bullets": [
+          "• A windfall from nearby wind farms, the hospital was getting a once-in-a-generation opportunity to replace the aging building and outdated technology"
+        ],
+        "stakes_bullets": [
+          "• Olney Hamilton Hospital had been serving small town, 100 miles west of Fort Worth, Texas, for more than a century",
+          "• A windfall from nearby wind farms, the hospital was getting a once-in-a-generation opportunity to replace the aging building and outdated technology",
+          "• But behind the camera-ready smiles, the project was breaking down, felled by the same forces that have made it so hard for Texas’ rural hospitals to survive "
+        ]
+      },
+      "read_minutes": 15,
+      "cluster_id": "b5fcf41f89de"
+    },
+    {
       "id": "4ad215851963",
       "title": "US government reopens after shutdown with House to vote on Epstein files next week – politics live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/nov/13/donald-trump-jeffrey-epstein-files-us-government-shutdown-latest-news-updates",
-      "published_at": "Thu, 13 Nov 2025 10:19:49 GMT",
+      "published_at": "Thu, 13 Nov 2025 10:39:18 GMT",
       "bullets": [
         "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week",
         "• Johnson made the announcement just hours after swearing in Arizona Democrat Adelita Grijalva, who took her oath of office seven weeks after she won a late September special election "
@@ -4937,8 +4766,42 @@
           "• Mike Johnson, the US House speaker, said on Wednesday he would put the bill compelling the release of government files related to late sex offender Jeffrey Epstein on the House floor next week"
         ]
       },
-      "read_minutes": 10,
+      "read_minutes": 11,
       "cluster_id": "2f064a8782e8"
+    },
+    {
+      "id": "196e65929b92",
+      "title": "PC gaming giant Valve unveils new  console to rival Xbox and PlayStation",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd679n9lnx5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 13 Nov 2025 10:08:06 GMT",
+      "bullets": [
+        "• PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
+        "• The Steam Machine is a home console designed to allow gamers to play PC games on their TV",
+        "• It is a spiritual sequel to the 2014 device of the same name, which failed to break into the market "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
+          "• The Steam Machine is a home console designed to allow gamers to play PC games on their TV"
+        ],
+        "hopeful_bullets": [
+          "• PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
+          "• The Steam Machine is a home console designed to allow gamers to play PC games on their TV"
+        ],
+        "stakes_bullets": [
+          "• PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
+          "• The Steam Machine is a home console designed to allow gamers to play PC games on their TV",
+          "• It is a spiritual sequel to the 2014 device of the same name, which failed to break into the market "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "cedd033dc983"
     },
     {
       "id": "fa9d574f24a8",
@@ -5070,6 +4933,70 @@
       },
       "read_minutes": 10,
       "cluster_id": "2d0639156d7c"
+    },
+    {
+      "id": "90c84d3a81ee",
+      "title": "Anthony Zurcher: Democrats left bruised after historic shutdown yields little",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz917nvj7qeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 13 Nov 2025 09:15:04 GMT",
+      "bullets": [
+        "• Federal workers will start receiving pay again after 43 days of shutdown",
+        "• Government services that had been curtailed or suspended entirely will resume",
+        "• Democrats were able to trigger the shutdown despite being a minority in the Senate by refusing to go along with a Republican measure to fund the government "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.775
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Federal workers will start receiving pay again after 43 days of shutdown",
+          "• Government services that had been curtailed or suspended entirely will resume"
+        ],
+        "hopeful_bullets": [
+          "• Federal workers will start receiving pay again after 43 days of shutdown",
+          "• Government services that had been curtailed or suspended entirely will resume"
+        ],
+        "stakes_bullets": [
+          "• Federal workers will start receiving pay again after 43 days of shutdown",
+          "• Government services that had been curtailed or suspended entirely will resume"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "8903e88dec8e"
+    },
+    {
+      "id": "323f0e6a1029",
+      "title": "US calls for international action to cut weapons supply to Sudan paramilitaries",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c17p1nwy7q8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 13 Nov 2025 09:00:43 GMT",
+      "bullets": [
+        "• US calls for international action to cut weapons supply to Sudan paramilitaries",
+        "• Secretary of State Marco Rubio says the paramilitary Rapid Support Forces committed atrocities against civilians",
+        "• Rubio: \"They're committing acts of sexual violence and atrocities, just horrifying atrocities\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US calls for international action to cut weapons supply to Sudan paramilitaries",
+          "• Secretary of State Marco Rubio says the paramilitary Rapid Support Forces committed atrocities against civilians"
+        ],
+        "hopeful_bullets": [
+          "• Secretary of State Marco Rubio says the paramilitary Rapid Support Forces committed atrocities against civilians"
+        ],
+        "stakes_bullets": [
+          "• US calls for international action to cut weapons supply to Sudan paramilitaries"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "60dae47c1459"
     },
     {
       "id": "97cf064ecbaa",
@@ -5405,6 +5332,40 @@
       },
       "read_minutes": 4,
       "cluster_id": "2322a50818fa"
+    },
+    {
+      "id": "1b839402c9ac",
+      "title": "Drugs disguised as tea keep washing up on this S Korean holiday island",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c93d4y8ggvqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 13 Nov 2025 06:04:45 GMT",
+      "bullets": [
+        "• Some 28kg of ketamine have been found on the coast of South Korea's Jeju island",
+        "• The drug is used as an anaesthetic, but it is illegal in South Korea",
+        "• The Coast Guard has formed a team to trace possible routes to the island "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Some 28kg of ketamine have been found on the coast of South Korea's Jeju island",
+          "• The drug is used as an anaesthetic, but it is illegal in South Korea"
+        ],
+        "hopeful_bullets": [
+          "• Some 28kg of ketamine have been found on the coast of South Korea's Jeju island",
+          "• The drug is used as an anaesthetic, but it is illegal in South Korea"
+        ],
+        "stakes_bullets": [
+          "• Some 28kg of ketamine have been found on the coast of South Korea's Jeju island",
+          "• The drug is used as an anaesthetic, but it is illegal in South Korea",
+          "• The Coast Guard has formed a team to trace possible routes to the island "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "73ee2827e9c2"
     },
     {
       "id": "cd11cfa9a0dd",
@@ -6437,6 +6398,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "b9251403cb58"
+    },
+    {
+      "id": "7474f1199b1f",
+      "title": "Kim Kardashian's shapewear brand Skims hits $5bn valuation",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly45dqpwywo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 13 Nov 2025 02:03:27 GMT",
+      "bullets": [
+        "• Skims has raised $2.3 billion in funding for its first year",
+        "• The brand is set to expand into the mainstream market",
+        "• It is one of the fastest growing businesses in the world to launch its own brand in the U.S",
+        "• and has launched a range of products "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Skims has raised $2.3 billion in funding for its first year",
+          "• The brand is set to expand into the mainstream market"
+        ],
+        "hopeful_bullets": [
+          "• It is one of the fastest growing businesses in the world to launch its own brand in the U.S"
+        ],
+        "stakes_bullets": [
+          "• Skims has raised $2.3 billion in funding for its first year",
+          "• The brand is set to expand into the mainstream market"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "72dfe02c3b1d"
     },
     {
       "id": "c0f64b1b6116",
@@ -9252,18 +9246,90 @@
       ]
     },
     {
-      "id": "de5611ab3e43",
-      "topic": "claim investigate italy paying",
+      "id": "8903e88dec8e",
+      "topic": "anthony bruised democrat historic",
       "keywords": [
-        "claim",
-        "investigate",
-        "italy",
-        "paying",
-        "shoot",
-        "tourist"
+        "anthony",
+        "bruised",
+        "democrat",
+        "historic",
+        "left",
+        "zurcher"
       ],
       "item_ids": [
-        "4187cba12b21"
+        "90c84d3a81ee"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "3ce86c3e09b3",
+      "topic": "hour inside longest thirteen",
+      "keywords": [
+        "hour",
+        "inside",
+        "longest",
+        "thirteen",
+        "touch",
+        "world"
+      ],
+      "item_ids": [
+        "1253e9eb98f6"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "60dae47c1459",
+      "topic": "action call cut international",
+      "keywords": [
+        "action",
+        "call",
+        "cut",
+        "international",
+        "supply",
+        "weapon"
+      ],
+      "item_ids": [
+        "323f0e6a1029"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "72dfe02c3b1d",
+      "topic": "brand hits kardashian kim",
+      "keywords": [
+        "brand",
+        "hits",
+        "kardashian",
+        "kim",
+        "shapewear",
+        "skim"
+      ],
+      "item_ids": [
+        "7474f1199b1f"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "cedd033dc983",
+      "topic": "console gaming giant rival",
+      "keywords": [
+        "console",
+        "gaming",
+        "giant",
+        "rival",
+        "unveil",
+        "valve"
+      ],
+      "item_ids": [
+        "196e65929b92"
       ],
       "outlets": [
         "BBC News"
@@ -9288,90 +9354,18 @@
       ]
     },
     {
-      "id": "657324dc7ad3",
-      "topic": "corruption engulf major scandal",
+      "id": "73ee2827e9c2",
+      "topic": "disguised drug keep korean",
       "keywords": [
-        "corruption",
-        "engulf",
-        "major",
-        "scandal",
-        "top",
-        "zelensky"
+        "disguised",
+        "drug",
+        "keep",
+        "korean",
+        "tea",
+        "washing"
       ],
       "item_ids": [
-        "3e3a884bf848"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "9022af77f9fb",
-      "topic": "fire israeli palestinian set",
-      "keywords": [
-        "fire",
-        "israeli",
-        "palestinian",
-        "set",
-        "settler",
-        "warehouse"
-      ],
-      "item_ids": [
-        "b115f9ab574d"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "231ee11351a6",
-      "topic": "bomb camp colombian military",
-      "keywords": [
-        "bomb",
-        "camp",
-        "colombian",
-        "military",
-        "rebel",
-        "suspected"
-      ],
-      "item_ids": [
-        "644012d4b10e"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "669b6b220036",
-      "topic": "benjamin israel pardon president",
-      "keywords": [
-        "benjamin",
-        "israel",
-        "pardon",
-        "president",
-        "trump",
-        "urge"
-      ],
-      "item_ids": [
-        "ab404ec51e96"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "7dd10d3bd0c1",
-      "topic": "blast delhi government incident",
-      "keywords": [
-        "blast",
-        "delhi",
-        "government",
-        "incident",
-        "indian",
-        "terror"
-      ],
-      "item_ids": [
-        "83ea229037a6"
+        "1b839402c9ac"
       ],
       "outlets": [
         "BBC News"
@@ -10007,42 +10001,6 @@
       ]
     },
     {
-      "id": "c69c2fb3100f",
-      "topic": "ceo explain fanduel flutter",
-      "keywords": [
-        "ceo",
-        "explain",
-        "fanduel",
-        "flutter",
-        "platform",
-        "prediction"
-      ],
-      "item_ids": [
-        "5c8ad107094e"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "2b81477cc889",
-      "topic": "argument bid court hear",
-      "keywords": [
-        "argument",
-        "bid",
-        "court",
-        "hear",
-        "supreme",
-        "trump"
-      ],
-      "item_ids": [
-        "747b3e873dac"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "7bd04a357db1",
       "topic": "aerospace firefly jump revenue",
       "keywords": [
@@ -10055,6 +10013,42 @@
       ],
       "item_ids": [
         "8e06c6043e8c"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "83863f0305e3",
+      "topic": "backlash electricity fuel political",
+      "keywords": [
+        "backlash",
+        "electricity",
+        "fuel",
+        "political",
+        "price",
+        "skyrocketing"
+      ],
+      "item_ids": [
+        "2645dc33f445"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "c69c2fb3100f",
+      "topic": "ceo explain fanduel flutter",
+      "keywords": [
+        "ceo",
+        "explain",
+        "fanduel",
+        "flutter",
+        "platform",
+        "prediction"
+      ],
+      "item_ids": [
+        "5c8ad107094e"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10079,18 +10073,18 @@
       ]
     },
     {
-      "id": "b5eb7ccafeec",
-      "topic": "accelerate billion funding round",
+      "id": "2c7a6b9d73b8",
+      "topic": "aces becky coach las",
       "keywords": [
-        "accelerate",
-        "billion",
-        "funding",
-        "round",
-        "skim",
-        "valued"
+        "aces",
+        "becky",
+        "coach",
+        "las",
+        "vega",
+        "wnba"
       ],
       "item_ids": [
-        "ce017cbd110f"
+        "f8c389de4ee6"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -13984,6 +13978,24 @@
       ]
     },
     {
+      "id": "b5fcf41f89de",
+      "topic": "building cost hospital rural",
+      "keywords": [
+        "building",
+        "cost",
+        "hospital",
+        "rural",
+        "texa",
+        "town"
+      ],
+      "item_ids": [
+        "e743bf54230b"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "7e6efcf8e3fc",
       "topic": "chri fined former paddie",
       "keywords": [
@@ -14140,24 +14152,6 @@
       ],
       "item_ids": [
         "6d6868ab0ce2"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "e3a207bde904",
-      "topic": "alamo kate ousting roger",
-      "keywords": [
-        "alamo",
-        "kate",
-        "ousting",
-        "roger",
-        "tribcast",
-        "trust"
-      ],
-      "item_ids": [
-        "b0a8d1bdee01"
       ],
       "outlets": [
         "The Texas Tribune"
