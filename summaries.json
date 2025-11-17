@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-17T16:04:11Z",
+  "generated_at": "2025-11-17T16:20:55Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2217,20 +2217,20 @@
       "cluster_id": "b6dfc8a644b5"
     },
     {
-      "id": "f86d66223672",
+      "id": "2a8246913d8d",
       "title": "Best Organic Mattresses (2025): Birch, Avocado, Naturepedic, More",
       "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-organic-mattresses-1/",
+      "url": "https://www.wired.com/gallery/best-organic-mattresses/",
       "published_at": "Sun, 16 Nov 2025 16:07:00 +0000",
       "bullets": [
         "• The Best Organic Mattresses, Fully Vetted and Tested, are easier on the environment and your health",
         "• Most natural mattresses are made of wool, natural latex, and cotton",
-        "• The construction is similar to conventional mattresses but without the chemicals "
+        "• The construction is similar to conventional mattresses, but without the chemicals "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.985
+        "score": 0.99
       },
       "moods": {
         "brief_bullets": [
@@ -2244,11 +2244,11 @@
         "stakes_bullets": [
           "• The Best Organic Mattresses, Fully Vetted and Tested, are easier on the environment and your health",
           "• Most natural mattresses are made of wool, natural latex, and cotton",
-          "• The construction is similar to conventional mattresses but without the chemicals "
+          "• The construction is similar to conventional mattresses, but without the chemicals "
         ]
       },
       "read_minutes": 10,
-      "cluster_id": "128c7ff8780f"
+      "cluster_id": "a6bdb7f6a238"
     },
     {
       "id": "b4d94541444d",
@@ -2257,27 +2257,28 @@
       "url": "https://www.rollingstone.com/music/music-news/yungblud-cancels-remainder-2025-tour-dates-health-check-1235465942/",
       "published_at": "Sun, 16 Nov 2025 15:00:42 +0000",
       "bullets": [
-        "• Yungblud has canceled all of his tour dates until the end of the year",
-        "• The cancellation comes after doctors ordered him to take a break from touring",
-        "• The tour will continue into 2026 with more shows in the U.S",
-        "• and Europe "
+        "• Yungblud has canceled the remainder of his 2025 tour dates",
+        "• The musician says he has been ordered to take a break from touring until the end of the year",
+        "• The cancellation includes shows in Philadelphia, Cleveland, and Washington, as well as Mexico City and Latin America "
       ],
       "category": "Music",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 1.0
       },
       "moods": {
         "brief_bullets": [
-          "• Yungblud has canceled all of his tour dates until the end of the year",
-          "• The cancellation comes after doctors ordered him to take a break from touring"
+          "• Yungblud has canceled the remainder of his 2025 tour dates",
+          "• The musician says he has been ordered to take a break from touring until the end of the year"
         ],
         "hopeful_bullets": [
-          "• Yungblud has canceled all of his tour dates until the end of the year",
-          "• The cancellation comes after doctors ordered him to take a break from touring"
+          "• Yungblud has canceled the remainder of his 2025 tour dates",
+          "• The musician says he has been ordered to take a break from touring until the end of the year"
         ],
         "stakes_bullets": [
-          "• The tour will continue into 2026 with more shows in the U.S"
+          "• Yungblud has canceled the remainder of his 2025 tour dates",
+          "• The musician says he has been ordered to take a break from touring until the end of the year",
+          "• The cancellation includes shows in Philadelphia, Cleveland, and Washington, as well as Mexico City and Latin America "
         ]
       },
       "read_minutes": 1,
@@ -2420,39 +2421,6 @@
       "cluster_id": "98d513aaef61"
     },
     {
-      "id": "d75c311c8a5d",
-      "title": "AI creates the first 100-billion-star Milky Way simulation",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251116105515.htm",
-      "published_at": "Sun, 16 Nov 2025 12:09:23 EST",
-      "bullets": [
-        "• Researchers combined deep learning with high-resolution physics to create the first Milky Way model that tracks over 100 billion stars individually",
-        "• Their AI learned how gas behaves after supernovae, removing one of the biggest computational bottlenecks in galactic modeling",
-        "• The result is hundreds of times faster than current methods "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers combined deep learning with high-resolution physics to create the first Milky Way model that tracks over 100 billion stars individually",
-          "• Their AI learned how gas behaves after supernovae, removing one of the biggest computational bottlenecks in galactic modeling"
-        ],
-        "hopeful_bullets": [
-          "• Researchers combined deep learning with high-resolution physics to create the first Milky Way model that tracks over 100 billion stars individually",
-          "• Their AI learned how gas behaves after supernovae, removing one of the biggest computational bottlenecks in galactic modeling"
-        ],
-        "stakes_bullets": [
-          "• Researchers combined deep learning with high-resolution physics to create the first Milky Way model that tracks over 100 billion stars individually",
-          "• The result is hundreds of times faster than current methods "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "374daadf57eb"
-    },
-    {
       "id": "a40f8d84644c",
       "title": "The evolution of rationality: How chimps process conflicting evidence",
       "outlet": "Ars Technica - All content",
@@ -2489,102 +2457,37 @@
       "cluster_id": "cd0f0704dc20"
     },
     {
-      "id": "b9114de430fd",
-      "title": "Chile votes for next president in contest dominated by crime and migration fears",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/nov/16/chile-election-president-crime-migration-fears",
-      "published_at": "Sun, 16 Nov 2025 11:55:58 GMT",
-      "bullets": [
-        "• First of an expected two rounds of presidential elections in Chile",
-        "• Candidates play on popular fears over organised crime and immigration",
-        "• Voters anxious about a rise in gang-driven crime that they blame on surge of illegal immigration",
-        "• Both candidates say a top priority is to fight foreign gangs, such as Venezuela's Tren de Aragua "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.888
-      },
-      "moods": {
-        "brief_bullets": [
-          "• First of an expected two rounds of presidential elections in Chile",
-          "• Candidates play on popular fears over organised crime and immigration"
-        ],
-        "hopeful_bullets": [
-          "• Voters anxious about a rise in gang-driven crime that they blame on surge of illegal immigration"
-        ],
-        "stakes_bullets": [
-          "• First of an expected two rounds of presidential elections in Chile"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "3ed0f2941ece"
-    },
-    {
-      "id": "6666c314241b",
-      "title": "Microquasars emerge as the Milky Way’s most extreme particle engines",
+      "id": "b7e62d79090a",
+      "title": "Physicists reveal a new quantum state where electrons run wild",
       "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251116105513.htm",
-      "published_at": "Sun, 16 Nov 2025 11:46:04 EST",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251116105625.htm",
+      "published_at": "Sun, 16 Nov 2025 10:56:25 EST",
       "bullets": [
-        "• Microquasars emerge as the Milky Wayâs most extreme particle engines",
-        "• Their jets produce ultra-high-energy gamma rays and protons that exceed long-held expectations",
-        "• LHAASO has traced the mysterious cosmic ray âkneeâ to powerful micro-quasar jets firing ultra-energetic particles "
+        "• Physicists reveal a new quantum state where electrons run wild",
+        "• Researchers identify how to tune these transitions and even discovered a bizarre âpinballâ state",
+        "• Their simulations help explain how these phases form and how they might be harnessed for advanced quantum technologies "
       ],
       "category": "Science",
       "sentiment": {
-        "label": "positive",
-        "score": 0.998
+        "label": "neutral",
+        "score": 0.64
       },
       "moods": {
         "brief_bullets": [
-          "• Microquasars emerge as the Milky Wayâs most extreme particle engines",
-          "• Their jets produce ultra-high-energy gamma rays and protons that exceed long-held expectations"
+          "• Physicists reveal a new quantum state where electrons run wild",
+          "• Researchers identify how to tune these transitions and even discovered a bizarre âpinballâ state"
         ],
         "hopeful_bullets": [
-          "• Microquasars emerge as the Milky Wayâs most extreme particle engines",
-          "• Their jets produce ultra-high-energy gamma rays and protons that exceed long-held expectations"
+          "• Their simulations help explain how these phases form and how they might be harnessed for advanced quantum technologies "
         ],
         "stakes_bullets": [
-          "• Microquasars emerge as the Milky Wayâs most extreme particle engines",
-          "• Their jets produce ultra-high-energy gamma rays and protons that exceed long-held expectations",
-          "• LHAASO has traced the mysterious cosmic ray âkneeâ to powerful micro-quasar jets firing ultra-energetic particles "
+          "• Physicists reveal a new quantum state where electrons run wild",
+          "• Researchers identify how to tune these transitions and even discovered a bizarre âpinballâ state",
+          "• Their simulations help explain how these phases form and how they might be harnessed for advanced quantum technologies "
         ]
       },
-      "read_minutes": 11,
-      "cluster_id": "a0a90f1f3f0a"
-    },
-    {
-      "id": "cdb142d9a85c",
-      "title": "Extreme-pressure experiment reveals a strange new ice phase",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251115100051.htm",
-      "published_at": "Sun, 16 Nov 2025 10:45:41 EST",
-      "bullets": [
-        "• Extreme-pressure experiment reveals a strange new ice phase with cosmic implications",
-        "• Ice XXIâs structure resembles the high-pressure ice found inside Jupiter and Saturnâs moons, hinting at planetary science implications",
-        "• Researchers at KRISS observed waterâs rapid freezeâmelt cycles under ultrahigh pressure "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.927
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Extreme-pressure experiment reveals a strange new ice phase with cosmic implications",
-          "• Ice XXIâs structure resembles the high-pressure ice found inside Jupiter and Saturnâs moons, hinting at planetary science implications"
-        ],
-        "hopeful_bullets": [
-          "• Extreme-pressure experiment reveals a strange new ice phase with cosmic implications",
-          "• Ice XXIâs structure resembles the high-pressure ice found inside Jupiter and Saturnâs moons, hinting at planetary science implications"
-        ],
-        "stakes_bullets": [
-          "• Ice XXIâs structure resembles the high-pressure ice found inside Jupiter and Saturnâs moons, hinting at planetary science implications"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "dabf6ed3b849"
+      "read_minutes": 4,
+      "cluster_id": "c3878edcdf5c"
     },
     {
       "id": "3b002a92ca00",
@@ -2652,39 +2555,6 @@
       },
       "read_minutes": 16,
       "cluster_id": "c7ae0b80410a"
-    },
-    {
-      "id": "9e8ec7920d27",
-      "title": "Scientists find a surprising link between lead and human evolution",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251115095930.htm",
-      "published_at": "Sun, 16 Nov 2025 09:50:51 EST",
-      "bullets": [
-        "• Scientists find surprising link between lead and human evolution",
-        "• Ancient lead exposure may have shaped human evolution, giving our lineage neurological advantages over Neanderthals",
-        "• Lab-grown brain organoids with Neanderthal genetic variants reacted more strongly to lead than those with human genetics "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.979
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists find surprising link between lead and human evolution",
-          "• Ancient lead exposure may have shaped human evolution, giving our lineage neurological advantages over Neanderthals"
-        ],
-        "hopeful_bullets": [
-          "• Lab-grown brain organoids with Neanderthal genetic variants reacted more strongly to lead than those with human genetics "
-        ],
-        "stakes_bullets": [
-          "• Scientists find surprising link between lead and human evolution",
-          "• Ancient lead exposure may have shaped human evolution, giving our lineage neurological advantages over Neanderthals",
-          "• Lab-grown brain organoids with Neanderthal genetic variants reacted more strongly to lead than those with human genetics "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "1d510c1f1d8d"
     },
     {
       "id": "e391689ab326",
@@ -2953,39 +2823,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "d6b7e8f56dfc"
-    },
-    {
-      "id": "b95c16b8f748",
-      "title": "Smoking cannabis with tobacco may disrupt the brain’s “bliss molecule”",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251115095932.htm",
-      "published_at": "Sat, 15 Nov 2025 23:15:04 EST",
-      "bullets": [
-        "• People who use both cannabis and tobacco show a distinct brain pattern tied to mood and stress regulation",
-        "• This imbalance may explain why co-users experience more anxiety and struggle more when quitting",
-        "• Findings may help clarify why people who combine the two substances more often experience symptoms such as depression "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• People who use both cannabis and tobacco show a distinct brain pattern tied to mood and stress regulation",
-          "• This imbalance may explain why co-users experience more anxiety and struggle more when quitting"
-        ],
-        "hopeful_bullets": [
-          "• Findings may help clarify why people who combine the two substances more often experience symptoms such as depression "
-        ],
-        "stakes_bullets": [
-          "• People who use both cannabis and tobacco show a distinct brain pattern tied to mood and stress regulation",
-          "• This imbalance may explain why co-users experience more anxiety and struggle more when quitting",
-          "• Findings may help clarify why people who combine the two substances more often experience symptoms such as depression "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "afb470e7046a"
     },
     {
       "id": "ac1f2ed48c89",
@@ -3951,6 +3788,135 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
+      "id": "6637e18380e0",
+      "title": "‘Five Nights at Freddy’s 2’ Teams With Popeyes for ‘Freddy Fazbear Crunch Menu’!",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/the-further/3916510/five-nights-at-freddys-2-teams-with-popeyes-for-the-freddy-fazbear-crunch-menu/",
+      "published_at": "Mon, 17 Nov 2025 16:04:15 +0000",
+      "bullets": [
+        "• 'Five Nights at Freddy’s 2' teams with Popeyes for ‘Freddy Fazbear Crunch Menu’! The limited time menu celebrates the upcoming release of Blumhouse’�s Two with a limited-time menu that transforms the thrill of the midnight shift into a craveable dining experience "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 'Five Nights at Freddy’s 2' teams with Popeyes for ‘Freddy Fazbear Crunch Menu’! The limited time menu celebrates the upcoming release of Blumhouse’�s Two with a limited-time menu that transforms the thrill of the midnight shift into a craveable dining experience "
+        ],
+        "hopeful_bullets": [
+          "• 'Five Nights at Freddy’s 2' teams with Popeyes for ‘Freddy Fazbear Crunch Menu’! The limited time menu celebrates the upcoming release of Blumhouse’�s Two with a limited-time menu that transforms the thrill of the midnight shift into a craveable dining experience "
+        ],
+        "stakes_bullets": [
+          "• 'Five Nights at Freddy’s 2' teams with Popeyes for ‘Freddy Fazbear Crunch Menu’! The limited time menu celebrates the upcoming release of Blumhouse’�s Two with a limited-time menu that transforms the thrill of the midnight shift into a craveable dining experience "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "32812f902440"
+    },
+    {
+      "id": "22f379f7b263",
+      "title": "Julia Roberts' After the Hunt Finally Sets Prime Video Release Date",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/julia-roberts-after-the-hunt-prime-video-release-date/",
+      "published_at": "Mon, 17 Nov 2025 16:04:14 GMT",
+      "bullets": [
+        "• After the Hunt will premiere on Prime Video on Nov",
+        "• 20",
+        "• Julia Roberts and Andrew Garfield starred in the film",
+        "• The film has been plagued with criticism",
+        "• It will be streaming on Prime video after an underwhelming run and a series of bad reviews "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• After the Hunt will premiere on Prime Video on Nov",
+          "• 20"
+        ],
+        "hopeful_bullets": [
+          "• After the Hunt will premiere on Prime Video on Nov",
+          "• 20"
+        ],
+        "stakes_bullets": [
+          "• After the Hunt will premiere on Prime Video on Nov",
+          "• It will be streaming on Prime video after an underwhelming run and a series of bad reviews "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7bbd43948470"
+    },
+    {
+      "id": "01eb0c7ae067",
+      "title": "Timothy Olyphant's Closest Thing to a Justified Replacement Still Feels Like a Missed Opportunity 3 Years Later",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/timothy-olyphant-cobb-vanth-book-of-boba-fett-justified-replacement/",
+      "published_at": "Mon, 17 Nov 2025 16:00:11 GMT",
+      "bullets": [
+        "• Timothy Olyphant played Cobb Vanth in The Mandalorian and The Book of Boba Fett",
+        "• The gunslinger was introduced in the Aftermath trilogy of Star Wars novels and then brought to life on TV in the Mandalorian Season 2, Episode 1, \"The Marshal\" The character has been completely absent from Star Wars TV entirely "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Timothy Olyphant played Cobb Vanth in The Mandalorian and The Book of Boba Fett",
+          "• The gunslinger was introduced in the Aftermath trilogy of Star Wars novels and then brought to life on TV in the Mandalorian Season 2, Episode 1, \"The Marshal\" The character has been completely absent from Star Wars TV entirely "
+        ],
+        "hopeful_bullets": [
+          "• Timothy Olyphant played Cobb Vanth in The Mandalorian and The Book of Boba Fett",
+          "• The gunslinger was introduced in the Aftermath trilogy of Star Wars novels and then brought to life on TV in the Mandalorian Season 2, Episode 1, \"The Marshal\" The character has been completely absent from Star Wars TV entirely "
+        ],
+        "stakes_bullets": [
+          "• Timothy Olyphant played Cobb Vanth in The Mandalorian and The Book of Boba Fett",
+          "• The gunslinger was introduced in the Aftermath trilogy of Star Wars novels and then brought to life on TV in the Mandalorian Season 2, Episode 1, \"The Marshal\" The character has been completely absent from Star Wars TV entirely "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "263461a271d3"
+    },
+    {
+      "id": "311a6d1adf2e",
+      "title": "Jeffrey Gundlach sees one of the 'least healthy' stock markets of his career, urges 20% cash",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/17/gundlach-sees-one-of-the-least-healthy-stock-markets-of-his-career.html",
+      "published_at": "Mon, 17 Nov 2025 15:52:17 GMT",
+      "bullets": [
+        "• Jeffrey Gundlach says the stock market looks dangerously speculative",
+        "• Gundlac says investors should keep about 20% of their portfolios in cash",
+        "• The DoubleLine Capital CEO is especially worried about private credit, a $1.7 trillion market that lends directly to companies "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jeffrey Gundlach says the stock market looks dangerously speculative",
+          "• Gundlac says investors should keep about 20% of their portfolios in cash"
+        ],
+        "hopeful_bullets": [
+          "• Jeffrey Gundlach says the stock market looks dangerously speculative",
+          "• Gundlac says investors should keep about 20% of their portfolios in cash"
+        ],
+        "stakes_bullets": [
+          "• Jeffrey Gundlach says the stock market looks dangerously speculative",
+          "• Gundlac says investors should keep about 20% of their portfolios in cash",
+          "• The DoubleLine Capital CEO is especially worried about private credit, a $1.7 trillion market that lends directly to companies "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "61f22c978717"
+    },
+    {
       "id": "0143f0dc5f68",
       "title": "Watch the Trailer for the Restored and Expanded ‘Beatles Anthology’ Docuseries",
       "outlet": "Music News",
@@ -3981,6 +3947,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "43a0902bc636"
+    },
+    {
+      "id": "2bfa543c11eb",
+      "title": "Ryan Coogler Says Disney Channel Movie ‘The Luck of the Irish’ Inspired ‘Sinners’",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3916469/ryan-coogler-says-disney-channel-movie-the-luck-of-the-irish-inspired-sinners/",
+      "published_at": "Mon, 17 Nov 2025 15:51:41 +0000",
+      "bullets": [
+        "• Ryan Coogler says 2001 Disney Channel movie The Luck of the Irish inspired his vampire film Sinners",
+        "• The film was inspired by the similarities in Irish folk music to Black music",
+        "• The Luck Of the Irish follows a high school basketball star trying to reclaim his lucky gold coin from an evil leprechaun "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ryan Coogler says 2001 Disney Channel movie The Luck of the Irish inspired his vampire film Sinners",
+          "• The film was inspired by the similarities in Irish folk music to Black music"
+        ],
+        "hopeful_bullets": [
+          "• Ryan Coogler says 2001 Disney Channel movie The Luck of the Irish inspired his vampire film Sinners",
+          "• The film was inspired by the similarities in Irish folk music to Black music"
+        ],
+        "stakes_bullets": [
+          "• Ryan Coogler says 2001 Disney Channel movie The Luck of the Irish inspired his vampire film Sinners",
+          "• The film was inspired by the similarities in Irish folk music to Black music",
+          "• The Luck Of the Irish follows a high school basketball star trying to reclaim his lucky gold coin from an evil leprechaun "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "91cb2a570066"
     },
     {
       "id": "d3a71db3de49",
@@ -4050,70 +4050,174 @@
       "cluster_id": "d8130fc82cb9"
     },
     {
-      "id": "be0fd75bb9ac",
-      "title": "Jeep eyes U.S. comeback following yearslong sales troubles",
+      "id": "5554ba0b2895",
+      "title": "Jeffrey Epstein victims' ad calls for files to be released, Trump urges GOP to vote for House measure",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/17/jeep-recon-wrangler-grand-wagoneer.html",
-      "published_at": "Mon, 17 Nov 2025 15:31:19 GMT",
+      "url": "https://www.cnbc.com/2025/11/17/trump-jeffrey-epstein-files-republicans.html",
+      "published_at": "Mon, 17 Nov 2025 15:36:58 GMT",
       "bullets": [
-        "• Jeep has been in a rut this decade, despite the brand's well-known off-road capabilities that have carried it for most of the past century",
-        "• It has experienced six consecutive years of U.S",
-        "• sales declines amid a leadership carousel, dearth of new products",
-        "• But now, the coveted SUV brand has realigned pricing across its lineup "
+        "• The White House is set to vote this week on a bill to force the government to release the documents",
+        "• The bill is expected to be approved by the House of Representatives on Thursday",
+        "• The measure would force the White House to act on behalf of the bill "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.812
       },
       "moods": {
         "brief_bullets": [
-          "• Jeep has been in a rut this decade, despite the brand's well-known off-road capabilities that have carried it for most of the past century",
-          "• It has experienced six consecutive years of U.S"
+          "• The White House is set to vote this week on a bill to force the government to release the documents",
+          "• The bill is expected to be approved by the House of Representatives on Thursday"
         ],
         "hopeful_bullets": [
-          "• Jeep has been in a rut this decade, despite the brand's well-known off-road capabilities that have carried it for most of the past century",
-          "• It has experienced six consecutive years of U.S"
+          "• The White House is set to vote this week on a bill to force the government to release the documents",
+          "• The bill is expected to be approved by the House of Representatives on Thursday"
         ],
         "stakes_bullets": [
-          "• It has experienced six consecutive years of U.S",
-          "• sales declines amid a leadership carousel, dearth of new products"
+          "• The White House is set to vote this week on a bill to force the government to release the documents",
+          "• The bill is expected to be approved by the House of Representatives on Thursday",
+          "• The measure would force the White House to act on behalf of the bill "
         ]
       },
-      "read_minutes": 6,
-      "cluster_id": "104b42795ef3"
+      "read_minutes": 3,
+      "cluster_id": "781f342c67a5"
+    },
+    {
+      "id": "0051d6fe16a6",
+      "title": "Sinclair acquires stake in Scripps in a push to merge",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/17/sinclair-scripps-stake-merger-push.html",
+      "published_at": "Mon, 17 Nov 2025 15:36:35 GMT",
+      "bullets": [
+        "• Sinclair disclosed a stake in fellow broadcast station owner E.W",
+        "• Scripps on Monday",
+        "• Sinclair said it has been engaged in \"constructive\" discussions regarding a deal",
+        "• The two companies are expected to reach an agreement within nine to 12 months "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.966
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sinclair disclosed a stake in fellow broadcast station owner E.W",
+          "• Scripps on Monday"
+        ],
+        "hopeful_bullets": [
+          "• Sinclair disclosed a stake in fellow broadcast station owner E.W",
+          "• Scripps on Monday"
+        ],
+        "stakes_bullets": [
+          "• The two companies are expected to reach an agreement within nine to 12 months "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fb836c65967e"
+    },
+    {
+      "id": "76f7cc5584a1",
+      "title": "UK downplays reports it has stopped sharing intelligence with US regarding narco-traffickers",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/politics/2025/nov/17/uk-downplays-reports-stopped-sharing-intelligence-us-yvette-cooper",
+      "published_at": "Mon, 17 Nov 2025 15:35:01 GMT",
+      "bullets": [
+        "• Reports that the UK had stopped sharing intelligence with the U.S",
+        "• has been widely reported in the UK",
+        "• But the UK has refused to confirm or deny the reports, saying it was a 'false' story",
+        "• The UK has been trying to monitor the movements of suspected drug traffickers in the Caribbean "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Reports that the UK had stopped sharing intelligence with the U.S",
+          "• has been widely reported in the UK"
+        ],
+        "hopeful_bullets": [
+          "• Reports that the UK had stopped sharing intelligence with the U.S",
+          "• has been widely reported in the UK"
+        ],
+        "stakes_bullets": [
+          "• Reports that the UK had stopped sharing intelligence with the U.S",
+          "• has been widely reported in the UK",
+          "• But the UK has refused to confirm or deny the reports, saying it was a 'false' story"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "8ff910e3e4e6"
+    },
+    {
+      "id": "b5f8707d3a5c",
+      "title": "Trump calls on House Republicans to vote to release Epstein files",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 17 Nov 2025 15:34:23 GMT",
+      "bullets": [
+        "• Trump calls on House Republicans to vote to release files relating to Jeffrey Epstein",
+        "• The late financier was found dead in his New York prison cell in 2019",
+        "• He was being held on charges of soliciting prostitution from a minor in 2008",
+        "• Trump has always denied any link to Epstein's sex abuse and trafficking "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.955
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump calls on House Republicans to vote to release files relating to Jeffrey Epstein",
+          "• The late financier was found dead in his New York prison cell in 2019"
+        ],
+        "hopeful_bullets": [
+          "• Trump calls on House Republicans to vote to release files relating to Jeffrey Epstein",
+          "• The late financier was found dead in his New York prison cell in 2019"
+        ],
+        "stakes_bullets": [
+          "• Trump calls on House Republicans to vote to release files relating to Jeffrey Epstein",
+          "• The late financier was found dead in his New York prison cell in 2019",
+          "• He was being held on charges of soliciting prostitution from a minor in 2008"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "a76dea3bd8e7"
     },
     {
       "id": "eb5470afe73a",
-      "title": "Legend of Zelda Movie Officially Reveals First Look at Link and the Princess After Set Leak",
+      "title": "The Legend of Zelda Movie Reveals First Look at Link and the Princess",
       "outlet": "CBR",
       "url": "https://www.cbr.com/legend-of-zelda-movie-photos-link-princess-bo-bragason-benjamin-evan-ainsworth/",
       "published_at": "Mon, 17 Nov 2025 15:30:49 GMT",
       "bullets": [
-        "• Bo Bragason and Benjamin Evan Ainsworth play Zelda and Link in The Legend of Zelda movie",
-        "• The decision to release these first images may have been forced by a set leak over the weekend",
-        "• The movie will take inspiration from the most recent incarnation of Zelda: Breath of the Wild "
+        "• The Legend of Zelda movie is set to be released this week",
+        "• The film is set in New Zealand and based on the Zelda series",
+        "• The movie will be a live-action adaptation of the Zelda universe",
+        "• The first look of the film has been released on YouTube "
       ],
       "category": "Comics",
       "sentiment": {
         "label": "positive",
-        "score": 0.989
+        "score": 0.977
       },
       "moods": {
         "brief_bullets": [
-          "• Bo Bragason and Benjamin Evan Ainsworth play Zelda and Link in The Legend of Zelda movie",
-          "• The decision to release these first images may have been forced by a set leak over the weekend"
+          "• The Legend of Zelda movie is set to be released this week",
+          "• The film is set in New Zealand and based on the Zelda series"
         ],
         "hopeful_bullets": [
-          "• Bo Bragason and Benjamin Evan Ainsworth play Zelda and Link in The Legend of Zelda movie",
-          "• The decision to release these first images may have been forced by a set leak over the weekend"
+          "• The Legend of Zelda movie is set to be released this week",
+          "• The film is set in New Zealand and based on the Zelda series"
         ],
         "stakes_bullets": [
-          "• The movie will take inspiration from the most recent incarnation of Zelda: Breath of the Wild "
+          "• The movie will be a live-action adaptation of the Zelda universe"
         ]
       },
-      "read_minutes": 1,
-      "cluster_id": "085d89df5f05"
+      "read_minutes": 2,
+      "cluster_id": "9cb99501550b"
     },
     {
       "id": "bac8ecd3e165",
@@ -4407,7 +4511,7 @@
           "• Trump repeats assertion that former ally is a ‘traitor’ even as he urges fellow Republicans to vote for release of documents relating to sex offender Epstein "
         ]
       },
-      "read_minutes": 17,
+      "read_minutes": 18,
       "cluster_id": "b35328ed8320"
     },
     {
@@ -4574,39 +4678,6 @@
       },
       "read_minutes": 15,
       "cluster_id": "1673df6665bb"
-    },
-    {
-      "id": "2aa0155b6ac2",
-      "title": "Take-Two CEO says consoles aren't going away, but gaming is moving toward PCs",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/17/take-two-ceo-gaming-consoles-pc.html",
-      "published_at": "Mon, 17 Nov 2025 14:52:48 GMT",
-      "bullets": [
-        "• Take-Two Interactive CEO Strauss Zelnick says gaming consoles are not going away",
-        "• Zelnick said the industry is moving toward PCs in the next decade",
-        "• He said the current split between console and mobile is about even, but mobile is growing more rapidly than consoles "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Take-Two Interactive CEO Strauss Zelnick says gaming consoles are not going away",
-          "• Zelnick said the industry is moving toward PCs in the next decade"
-        ],
-        "hopeful_bullets": [
-          "• He said the current split between console and mobile is about even, but mobile is growing more rapidly than consoles "
-        ],
-        "stakes_bullets": [
-          "• Take-Two Interactive CEO Strauss Zelnick says gaming consoles are not going away",
-          "• Zelnick said the industry is moving toward PCs in the next decade",
-          "• He said the current split between console and mobile is about even, but mobile is growing more rapidly than consoles "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "c47b22614c5e"
     },
     {
       "id": "1f08c07bd5a6",
@@ -5080,39 +5151,6 @@
       "cluster_id": "43f5d1c11aae"
     },
     {
-      "id": "3e0312b4b933",
-      "title": "Eddington Becomes a Streaming Hit Despite an Underwhelming Rotten Tomatoes Score",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/emma-stone-neo-western-eddington-hbo-max-streaming-november-2025/",
-      "published_at": "Mon, 17 Nov 2025 14:06:16 GMT",
-      "bullets": [
-        "• A24's neo-Western thriller from Ari Aster had an underwhelming box office run at the box office during its theatrical release over the summer",
-        "• Eddington had its world premiere at the 2025 Cannes Film Festival in May, with a wider theatrical release following in July",
-        "• The film beat out several other recent releases, including Materialists and Weapons "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A24's neo-Western thriller from Ari Aster had an underwhelming box office run at the box office during its theatrical release over the summer",
-          "• Eddington had its world premiere at the 2025 Cannes Film Festival in May, with a wider theatrical release following in July"
-        ],
-        "hopeful_bullets": [
-          "• Eddington had its world premiere at the 2025 Cannes Film Festival in May, with a wider theatrical release following in July"
-        ],
-        "stakes_bullets": [
-          "• A24's neo-Western thriller from Ari Aster had an underwhelming box office run at the box office during its theatrical release over the summer",
-          "• Eddington had its world premiere at the 2025 Cannes Film Festival in May, with a wider theatrical release following in July",
-          "• The film beat out several other recent releases, including Materialists and Weapons "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2a495d8d7289"
-    },
-    {
       "id": "4527d09f1986",
       "title": "Don't Donate Torn, Stained Clothes and Sheets—Send Them to Trashie",
       "outlet": "WIRED",
@@ -5209,38 +5247,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "a2e41df5301b"
-    },
-    {
-      "id": "d0b6778331db",
-      "title": "Cheers' Best Actor Made the Weirdest Haunted House Movie of All Time (& It's Perfect)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/george-wendt-cheers-best-actor-haunted-house-movie/",
-      "published_at": "Mon, 17 Nov 2025 14:00:11 GMT",
-      "bullets": [
-        "• George Wendt starred alongside William Katt in the 1985 haunted-house hidden gem film House",
-        "• House is considered one of the strangest haunted house entries of all time",
-        "• Wendt has a way of making acting look easy, and his performance is casual and grounded "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• George Wendt starred alongside William Katt in the 1985 haunted-house hidden gem film House",
-          "• House is considered one of the strangest haunted house entries of all time"
-        ],
-        "hopeful_bullets": [
-          "• George Wendt starred alongside William Katt in the 1985 haunted-house hidden gem film House",
-          "• House is considered one of the strangest haunted house entries of all time"
-        ],
-        "stakes_bullets": [
-          "• George Wendt starred alongside William Katt in the 1985 haunted-house hidden gem film House"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "28afcc86c461"
     },
     {
       "id": "8f5b1257df8c",
@@ -5411,72 +5417,6 @@
       "cluster_id": "3641fe7fc740"
     },
     {
-      "id": "18c2caa3af45",
-      "title": "Check Out the Prototype for Feline Horror Adventure ‘Scratching Shadows’ [Teaser]",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/video-games/3915091/check-out-the-prototype-for-feline-horror-adventure-scratching-shadows-teaser/",
-      "published_at": "Mon, 17 Nov 2025 12:30:57 +0000",
-      "bullets": [
-        "• Scratching Shadows is an unfinished project by indie dev team Chico Games",
-        "• Players take on the role of a hungry cat wearing a small body camera, exploring an abandoned motel in search of food",
-        "• As you wander around, you'll also end up chasing a rat through the motel, which appears to have had something sinister going on "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scratching Shadows is an unfinished project by indie dev team Chico Games",
-          "• Players take on the role of a hungry cat wearing a small body camera, exploring an abandoned motel in search of food"
-        ],
-        "hopeful_bullets": [
-          "• Scratching Shadows is an unfinished project by indie dev team Chico Games",
-          "• Players take on the role of a hungry cat wearing a small body camera, exploring an abandoned motel in search of food"
-        ],
-        "stakes_bullets": [
-          "• Players take on the role of a hungry cat wearing a small body camera, exploring an abandoned motel in search of food"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "125899651e4e"
-    },
-    {
-      "id": "1f535a0b187f",
-      "title": "Trump reverses stance on Epstein records, presses Republicans to support release",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/17/trump-reverses-stance-on-epstein-records-presses-republicans-to-support-release.html",
-      "published_at": "Mon, 17 Nov 2025 12:04:26 GMT",
-      "bullets": [
-        "• President Donald Trump called on Republicans in Congress to vote to release files related to deceased convicted sex offender Jeffrey Epstein",
-        "• Jeffrey Epstein died by apparent suicide in August 2019 after being arrested on child sex trafficking charges",
-        "• The full House of Representatives is set to vote on a measure demanding the release of criminal investigative files about Epstein "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump called on Republicans in Congress to vote to release files related to deceased convicted sex offender Jeffrey Epstein",
-          "• Jeffrey Epstein died by apparent suicide in August 2019 after being arrested on child sex trafficking charges"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump called on Republicans in Congress to vote to release files related to deceased convicted sex offender Jeffrey Epstein",
-          "• Jeffrey Epstein died by apparent suicide in August 2019 after being arrested on child sex trafficking charges"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump called on Republicans in Congress to vote to release files related to deceased convicted sex offender Jeffrey Epstein",
-          "• Jeffrey Epstein died by apparent suicide in August 2019 after being arrested on child sex trafficking charges",
-          "• The full House of Representatives is set to vote on a measure demanding the release of criminal investigative files about Epstein "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d71def0880a9"
-    },
-    {
       "id": "afcd30805e87",
       "title": "I’ve already been using a “Steam Machine” for months, and I think it’s great",
       "outlet": "Ars Technica - All content",
@@ -5541,41 +5481,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "439da3632062"
-    },
-    {
-      "id": "b5f8707d3a5c",
-      "title": "Trump calls on House Republicans to vote to release Epstein files",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 17 Nov 2025 11:56:04 GMT",
-      "bullets": [
-        "• Trump calls on House Republicans to vote to release files relating to Jeffrey Epstein",
-        "• The late financier was found dead in his New York prison cell in 2019",
-        "• He was being held on charges of soliciting soliciting sex trafficking from a minor",
-        "• Trump has always denied any link to Epstein's sex abuse and trafficking "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.961
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump calls on House Republicans to vote to release files relating to Jeffrey Epstein",
-          "• The late financier was found dead in his New York prison cell in 2019"
-        ],
-        "hopeful_bullets": [
-          "• Trump calls on House Republicans to vote to release files relating to Jeffrey Epstein",
-          "• The late financier was found dead in his New York prison cell in 2019"
-        ],
-        "stakes_bullets": [
-          "• Trump calls on House Republicans to vote to release files relating to Jeffrey Epstein",
-          "• The late financier was found dead in his New York prison cell in 2019",
-          "• He was being held on charges of soliciting soliciting sex trafficking from a minor"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "a76dea3bd8e7"
     },
     {
       "id": "c7b64dcae5ec",
@@ -5771,6 +5676,39 @@
       },
       "read_minutes": 5,
       "cluster_id": "04e4ecde314e"
+    },
+    {
+      "id": "e2dbb7e59fb5",
+      "title": "A tiny ancient virus reveals secrets that could help fight superbugs",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251117095635.htm",
+      "published_at": "Mon, 17 Nov 2025 10:32:09 EST",
+      "bullets": [
+        "• A detailed 3D map of a unique bacteriophage uncovers ancient viral origins",
+        "• The structure reveals rare whisker-collar features and distant evolutionary ties reaching back billions of years",
+        "• These insights could guide new phage therapies and innovations in medicine, agriculture, and industry "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A detailed 3D map of a unique bacteriophage uncovers ancient viral origins",
+          "• The structure reveals rare whisker-collar features and distant evolutionary ties reaching back billions of years"
+        ],
+        "hopeful_bullets": [
+          "• A detailed 3D map of a unique bacteriophage uncovers ancient viral origins",
+          "• The structure reveals rare whisker-collar features and distant evolutionary ties reaching back billions of years"
+        ],
+        "stakes_bullets": [
+          "• The structure reveals rare whisker-collar features and distant evolutionary ties reaching back billions of years",
+          "• These insights could guide new phage therapies and innovations in medicine, agriculture, and industry "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "5aae28863420"
     },
     {
       "id": "f0ba25d5d515",
@@ -6036,6 +5974,72 @@
       "cluster_id": "fbd96ad6bd23"
     },
     {
+      "id": "3b8c70784613",
+      "title": "“Great Unified Microscope” reveals micro and nano worlds in a single view",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251117091134.htm",
+      "published_at": "Mon, 17 Nov 2025 09:50:47 EST",
+      "bullets": [
+        "• Dual-light microscope lets researchers observe micro- and nanoscale activity inside living cells without using dyes",
+        "• System captures both detailed structures and tiny moving particles at once",
+        "• Creators hope to push the technique toward imaging particles as small as viruses "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dual-light microscope lets researchers observe micro- and nanoscale activity inside living cells without using dyes",
+          "• System captures both detailed structures and tiny moving particles at once"
+        ],
+        "hopeful_bullets": [
+          "• Creators hope to push the technique toward imaging particles as small as viruses "
+        ],
+        "stakes_bullets": [
+          "• Dual-light microscope lets researchers observe micro- and nanoscale activity inside living cells without using dyes",
+          "• System captures both detailed structures and tiny moving particles at once",
+          "• Creators hope to push the technique toward imaging particles as small as viruses "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "249f869c985b"
+    },
+    {
+      "id": "642ad186885f",
+      "title": "Daily music listening linked to big drop in dementia risk",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251116105633.htm",
+      "published_at": "Mon, 17 Nov 2025 09:31:10 EST",
+      "bullets": [
+        "• Daily music listening linked to big drop in dementia risk",
+        "• People in this age group who regularly listened to music experienced a 39 percent lower likelihood of developing dementia",
+        "• Playing an instrument was also tied to benefits, with a 35 percent reduction in risk of dementia "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Daily music listening linked to big drop in dementia risk",
+          "• People in this age group who regularly listened to music experienced a 39 percent lower likelihood of developing dementia"
+        ],
+        "hopeful_bullets": [
+          "• Daily music listening linked to big drop in dementia risk",
+          "• People in this age group who regularly listened to music experienced a 39 percent lower likelihood of developing dementia"
+        ],
+        "stakes_bullets": [
+          "• Daily music listening linked to big drop in dementia risk",
+          "• Playing an instrument was also tied to benefits, with a 35 percent reduction in risk of dementia "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c3c068f92eae"
+    },
+    {
       "id": "df5d39f5e696",
       "title": "Man who grabbed Ariana Grande at premiere jailed in Singapore",
       "outlet": "BBC News",
@@ -6102,6 +6106,40 @@
       "cluster_id": "2659eaddd76c"
     },
     {
+      "id": "0cc46025f22e",
+      "title": "Scientists uncover a surprising protein that heals stubborn wounds",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251116105631.htm",
+      "published_at": "Mon, 17 Nov 2025 08:55:51 EST",
+      "bullets": [
+        "• Scientists uncover a surprising protein that heals stubborn wounds",
+        "• SerpinB3 turns out to be both a healing powerhouse and a cancer accompliceârevealing new possibilities for medicine",
+        "• Its newfound role explains why cancer cells exploit it and opens the door to new wound-healing therapies "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists uncover a surprising protein that heals stubborn wounds",
+          "• SerpinB3 turns out to be both a healing powerhouse and a cancer accompliceârevealing new possibilities for medicine"
+        ],
+        "hopeful_bullets": [
+          "• SerpinB3 turns out to be both a healing powerhouse and a cancer accompliceârevealing new possibilities for medicine",
+          "• Its newfound role explains why cancer cells exploit it and opens the door to new wound-healing therapies "
+        ],
+        "stakes_bullets": [
+          "• Scientists uncover a surprising protein that heals stubborn wounds",
+          "• SerpinB3 turns out to be both a healing powerhouse and a cancer accompliceârevealing new possibilities for medicine",
+          "• Its newfound role explains why cancer cells exploit it and opens the door to new wound-healing therapies "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "62323f08b29c"
+    },
+    {
       "id": "1ce0717b5d43",
       "title": "Watch Rosalía’s Theatrical Performance of ‘La Perla’ on ‘Fallon’",
       "outlet": "Music News",
@@ -6132,6 +6170,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "cf3d50e9f1b8"
+    },
+    {
+      "id": "084d1fe25f19",
+      "title": "The hidden brain bias that makes some lies so convincing",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251116105629.htm",
+      "published_at": "Mon, 17 Nov 2025 07:38:54 EST",
+      "bullets": [
+        "• Neuroimaging shows that the brain shifts into reward or risk mode depending on whether the context involves a gain or a loss",
+        "• People are more likely to believe lies when thereâs the possibility of a reward",
+        "• Brain synchrony and reward expectations can make lies from friends surprisingly convincing "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.96
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Neuroimaging shows that the brain shifts into reward or risk mode depending on whether the context involves a gain or a loss",
+          "• People are more likely to believe lies when thereâs the possibility of a reward"
+        ],
+        "hopeful_bullets": [
+          "• Neuroimaging shows that the brain shifts into reward or risk mode depending on whether the context involves a gain or a loss",
+          "• People are more likely to believe lies when thereâs the possibility of a reward"
+        ],
+        "stakes_bullets": [
+          "• Neuroimaging shows that the brain shifts into reward or risk mode depending on whether the context involves a gain or a loss"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "b908d8a970e8"
     },
     {
       "id": "0e4d19603457",
@@ -6538,39 +6608,6 @@
       "cluster_id": "77e5b2bf9a94"
     },
     {
-      "id": "f4bda65aaf03",
-      "title": "Pennywise Is Back: Watch the Midseason Trailer for ‘IT: Welcome to Derry’ Now!",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/tv/3915092/pennywise-is-back-watch-the-midseason-trailer-for-it-welcome-to-derry-now/",
-      "published_at": "Mon, 17 Nov 2025 04:10:51 +0000",
-      "bullets": [
-        "• HBO Max has unveiled the Midseason Trailer for \"IT: Welcome to Derry\" Bill Skarsgård returns as Pennywise in the coming weeks",
-        "• The finale of the first season will premiere on December 14",
-        "• The series is an expansion of Andy Muschietti's IT films based on Stephen King's 1986 novel "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• HBO Max has unveiled the Midseason Trailer for \"IT: Welcome to Derry\" Bill Skarsgård returns as Pennywise in the coming weeks",
-          "• The finale of the first season will premiere on December 14"
-        ],
-        "hopeful_bullets": [
-          "• HBO Max has unveiled the Midseason Trailer for \"IT: Welcome to Derry\" Bill Skarsgård returns as Pennywise in the coming weeks",
-          "• The finale of the first season will premiere on December 14"
-        ],
-        "stakes_bullets": [
-          "• HBO Max has unveiled the Midseason Trailer for \"IT: Welcome to Derry\" Bill Skarsgård returns as Pennywise in the coming weeks",
-          "• The finale of the first season will premiere on December 14"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "58c328e7ed1d"
-    },
-    {
       "id": "234ad8f6ea3d",
       "title": "TVC15: Orrimaarko (Prune Face) (VC114)",
       "outlet": "Jedi Temple Archives",
@@ -6601,6 +6638,41 @@
       },
       "read_minutes": 1,
       "cluster_id": "7f680b5fb55d"
+    },
+    {
+      "id": "7749b10ce52c",
+      "title": "Animals are developing the same chronic diseases as humans",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251116105735.htm",
+      "published_at": "Mon, 17 Nov 2025 03:21:37 EST",
+      "bullets": [
+        "• Animals are developing the same chronic diseases as humans, study finds",
+        "• Cats, dogs, cows, and even marine life are facing rising rates of cancer, diabetes, arthritis, and obesity",
+        "• These non-communicable diseases (NCDs) chronic diseases are becoming increasingly common",
+        "• A new study proposes a unified model linking these conditions across species "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.837
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Animals are developing the same chronic diseases as humans, study finds",
+          "• Cats, dogs, cows, and even marine life are facing rising rates of cancer, diabetes, arthritis, and obesity"
+        ],
+        "hopeful_bullets": [
+          "• Animals are developing the same chronic diseases as humans, study finds",
+          "• Cats, dogs, cows, and even marine life are facing rising rates of cancer, diabetes, arthritis, and obesity"
+        ],
+        "stakes_bullets": [
+          "• Animals are developing the same chronic diseases as humans, study finds",
+          "• Cats, dogs, cows, and even marine life are facing rising rates of cancer, diabetes, arthritis, and obesity",
+          "• These non-communicable diseases (NCDs) chronic diseases are becoming increasingly common"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "32afc633ca27"
     },
     {
       "id": "5da65f23b8f1",
@@ -6635,39 +6707,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "24eb4b5590ba"
-    },
-    {
-      "id": "c4c3445d3fb5",
-      "title": "New research uncovers the massive squid diet of Hawaiian pilot whales",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251116105519.htm",
-      "published_at": "Mon, 17 Nov 2025 02:45:37 EST",
-      "bullets": [
-        "• New research uncovers the massive squid diet of Hawaiian pilot whales",
-        "• Each whale downs dozens to hundreds of squid per day, adding up to a staggering 88,000 tonnes of squid consumed annually by the whole population",
-        "• Understanding these fundamentals helps scientists assess the stability of whale populations "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New research uncovers the massive squid diet of Hawaiian pilot whales",
-          "• Each whale downs dozens to hundreds of squid per day, adding up to a staggering 88,000 tonnes of squid consumed annually by the whole population"
-        ],
-        "hopeful_bullets": [
-          "• Understanding these fundamentals helps scientists assess the stability of whale populations "
-        ],
-        "stakes_bullets": [
-          "• New research uncovers the massive squid diet of Hawaiian pilot whales",
-          "• Each whale downs dozens to hundreds of squid per day, adding up to a staggering 88,000 tonnes of squid consumed annually by the whole population",
-          "• Understanding these fundamentals helps scientists assess the stability of whale populations "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "aac22585a29c"
     },
     {
       "id": "6d9f8080c723",
@@ -6732,39 +6771,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "babbd156bf56"
-    },
-    {
-      "id": "b7e62d79090a",
-      "title": "Physicists reveal a new quantum state where electrons run wild",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251116105625.htm",
-      "published_at": "Mon, 17 Nov 2025 00:45:52 EST",
-      "bullets": [
-        "• Physicists reveal a new quantum state where electrons run wild",
-        "• Researchers identify how to tune these transitions and even discovered a bizarre âpinballâ state",
-        "• Their simulations help explain how these phases form and how they might be harnessed for advanced quantum technologies "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.64
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Physicists reveal a new quantum state where electrons run wild",
-          "• Researchers identify how to tune these transitions and even discovered a bizarre âpinballâ state"
-        ],
-        "hopeful_bullets": [
-          "• Their simulations help explain how these phases form and how they might be harnessed for advanced quantum technologies "
-        ],
-        "stakes_bullets": [
-          "• Physicists reveal a new quantum state where electrons run wild",
-          "• Researchers identify how to tune these transitions and even discovered a bizarre âpinballâ state",
-          "• Their simulations help explain how these phases form and how they might be harnessed for advanced quantum technologies "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "c3878edcdf5c"
     },
     {
       "id": "147342cab51d",
@@ -8939,102 +8945,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "6fce325fa1e4"
-    },
-    {
-      "id": "6b6ad74c1b8c",
-      "title": "Weekend projections: Paramount claims top spot for Regretting You on exceptionally quiet weekend",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260220830-Weekend-projections-Paramount-claims-top-spot-for-Regretting-You-on-exceptionally-quiet-weekend",
-      "published_at": null,
-      "bullets": [
-        "• The combined box office of all movies reporting so far stands at less than $50 million",
-        "• The one bright spot is arguably a surprise win for Regretting You, which is holding quite well in its second weekend",
-        "• Paramount is expecting another good day today, with $3.1 million, compared to Universal’s prediction of $2.09 million "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The combined box office of all movies reporting so far stands at less than $50 million",
-          "• The one bright spot is arguably a surprise win for Regretting You, which is holding quite well in its second weekend"
-        ],
-        "hopeful_bullets": [
-          "• The one bright spot is arguably a surprise win for Regretting You, which is holding quite well in its second weekend"
-        ],
-        "stakes_bullets": [
-          "• The combined box office of all movies reporting so far stands at less than $50 million",
-          "• The one bright spot is arguably a surprise win for Regretting You, which is holding quite well in its second weekend",
-          "• Paramount is expecting another good day today, with $3.1 million, compared to Universal’s prediction of $2.09 million "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1a711d06924f"
-    },
-    {
-      "id": "b9628f22d671",
-      "title": "Weekend predictions: Black Phone eyeing box office win on incredibly slow weekend",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260210830-Weekend-predictions-Black-Phone-eyeing-box-office-win-on-incredibly-slow-weekend",
-      "published_at": null,
-      "bullets": [
-        "• Horror movie Black Phone 2 looks like the favorite to win the weekend, with less than $10 million",
-        "• Bugonia is expanding wide, after debuting with a promising $709,848 last weekend from 17 theaters",
-        "• Back to the Future re-release is the one movie with a shot at topping the chart "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.831
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Horror movie Black Phone 2 looks like the favorite to win the weekend, with less than $10 million",
-          "• Bugonia is expanding wide, after debuting with a promising $709,848 last weekend from 17 theaters"
-        ],
-        "hopeful_bullets": [
-          "• Horror movie Black Phone 2 looks like the favorite to win the weekend, with less than $10 million"
-        ],
-        "stakes_bullets": [
-          "• Bugonia is expanding wide, after debuting with a promising $709,848 last weekend from 17 theaters"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "030bb76c9ac3"
-    },
-    {
-      "id": "4339b7faab18",
-      "title": "Theater counts: Springsteen stands alone as this weekend’s widest release",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260200830-Theater-counts-Springsteen-stands-alone-as-this-weekends-widest-release",
-      "published_at": null,
-      "bullets": [
-        "• Chainsaw Man—The Movie: Reze Arc slashed its way to the top of the weekend box office, carving out an impressive $18 million in its debut",
-        "• Back to the Future is revving up the DeLorean and blasting back onto the big screen for its 40th anniversary, hitting 2,290 theaters "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Chainsaw Man—The Movie: Reze Arc slashed its way to the top of the weekend box office, carving out an impressive $18 million in its debut",
-          "• Back to the Future is revving up the DeLorean and blasting back onto the big screen for its 40th anniversary, hitting 2,290 theaters "
-        ],
-        "hopeful_bullets": [
-          "• Chainsaw Man—The Movie: Reze Arc slashed its way to the top of the weekend box office, carving out an impressive $18 million in its debut",
-          "• Back to the Future is revving up the DeLorean and blasting back onto the big screen for its 40th anniversary, hitting 2,290 theaters "
-        ],
-        "stakes_bullets": [
-          "• Chainsaw Man—The Movie: Reze Arc slashed its way to the top of the weekend box office, carving out an impressive $18 million in its debut",
-          "• Back to the Future is revving up the DeLorean and blasting back onto the big screen for its 40th anniversary, hitting 2,290 theaters "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "3cb528d865c2"
     }
   ],
   "clusters": [
@@ -9312,6 +9222,24 @@
       ]
     },
     {
+      "id": "8ff910e3e4e6",
+      "topic": "downplay intelligence regarding report",
+      "keywords": [
+        "downplay",
+        "intelligence",
+        "regarding",
+        "report",
+        "sharing",
+        "stopped"
+      ],
+      "item_ids": [
+        "76f7cc5584a1"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "3b674f7491c6",
       "topic": "cartel drug headed label",
       "keywords": [
@@ -9378,24 +9306,6 @@
       ],
       "item_ids": [
         "d7cfc497078c"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "3ed0f2941ece",
-      "topic": "chile contest dominated next",
-      "keywords": [
-        "chile",
-        "contest",
-        "dominated",
-        "next",
-        "president",
-        "vote"
-      ],
-      "item_ids": [
-        "b9114de430fd"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -9798,6 +9708,24 @@
       ]
     },
     {
+      "id": "781f342c67a5",
+      "topic": "call epstein file jeffrey",
+      "keywords": [
+        "call",
+        "epstein",
+        "file",
+        "jeffrey",
+        "released",
+        "victim"
+      ],
+      "item_ids": [
+        "5554ba0b2895"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "d6c92b28cc11",
       "topic": "amazon dealer ford partner",
       "keywords": [
@@ -9816,6 +9744,42 @@
       ]
     },
     {
+      "id": "61f22c978717",
+      "topic": "gundlach healthy jeffrey least",
+      "keywords": [
+        "gundlach",
+        "healthy",
+        "jeffrey",
+        "least",
+        "sees",
+        "stock"
+      ],
+      "item_ids": [
+        "311a6d1adf2e"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "fb836c65967e",
+      "topic": "acquire merge push scripp",
+      "keywords": [
+        "acquire",
+        "merge",
+        "push",
+        "scripp",
+        "sinclair",
+        "stake"
+      ],
+      "item_ids": [
+        "0051d6fe16a6"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "563195925890",
       "topic": "consumer cuts direct nordisk",
       "keywords": [
@@ -9828,60 +9792,6 @@
       ],
       "item_ids": [
         "f2cd9e111008"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "c47b22614c5e",
-      "topic": "aren away ceo console",
-      "keywords": [
-        "aren",
-        "away",
-        "ceo",
-        "console",
-        "going",
-        "take"
-      ],
-      "item_ids": [
-        "2aa0155b6ac2"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "104b42795ef3",
-      "topic": "comeback eyes following jeep",
-      "keywords": [
-        "comeback",
-        "eyes",
-        "following",
-        "jeep",
-        "sale",
-        "yearslong"
-      ],
-      "item_ids": [
-        "be0fd75bb9ac"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "d71def0880a9",
-      "topic": "epstein presse record reverse",
-      "keywords": [
-        "epstein",
-        "presse",
-        "record",
-        "reverse",
-        "stance",
-        "trump"
-      ],
-      "item_ids": [
-        "1f535a0b187f"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10085,7 +9995,7 @@
       ]
     },
     {
-      "id": "128c7ff8780f",
+      "id": "a6bdb7f6a238",
       "topic": "2025 avocado best birch",
       "keywords": [
         "2025",
@@ -10096,7 +10006,7 @@
         "organic"
       ],
       "item_ids": [
-        "f86d66223672"
+        "2a8246913d8d"
       ],
       "outlets": [
         "WIRED"
@@ -10457,6 +10367,42 @@
       ]
     },
     {
+      "id": "5aae28863420",
+      "topic": "ancient help reveal secret",
+      "keywords": [
+        "ancient",
+        "help",
+        "reveal",
+        "secret",
+        "tiny",
+        "viru"
+      ],
+      "item_ids": [
+        "e2dbb7e59fb5"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "249f869c985b",
+      "topic": "great micro microscope nano",
+      "keywords": [
+        "great",
+        "micro",
+        "microscope",
+        "nano",
+        "reveal",
+        "unified"
+      ],
+      "item_ids": [
+        "3b8c70784613"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "7538ed5b697a",
       "topic": "astronomer geometry hidden supernova",
       "keywords": [
@@ -10493,6 +10439,24 @@
       ]
     },
     {
+      "id": "32afc633ca27",
+      "topic": "animal chronic developing disease",
+      "keywords": [
+        "animal",
+        "chronic",
+        "developing",
+        "disease",
+        "human",
+        "same"
+      ],
+      "item_ids": [
+        "7749b10ce52c"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "98d513aaef61",
       "topic": "fast melanoma pennsylvania rate",
       "keywords": [
@@ -10511,6 +10475,60 @@
       ]
     },
     {
+      "id": "c3c068f92eae",
+      "topic": "big daily drop linked",
+      "keywords": [
+        "big",
+        "daily",
+        "drop",
+        "linked",
+        "listening",
+        "music"
+      ],
+      "item_ids": [
+        "642ad186885f"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "62323f08b29c",
+      "topic": "heal protein scientist stubborn",
+      "keywords": [
+        "heal",
+        "protein",
+        "scientist",
+        "stubborn",
+        "surprising",
+        "uncover"
+      ],
+      "item_ids": [
+        "0cc46025f22e"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "b908d8a970e8",
+      "topic": "bias brain hidden lies",
+      "keywords": [
+        "bias",
+        "brain",
+        "hidden",
+        "lies",
+        "make",
+        "some"
+      ],
+      "item_ids": [
+        "084d1fe25f19"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "c3878edcdf5c",
       "topic": "electron physicist quantum reveal",
       "keywords": [
@@ -10523,114 +10541,6 @@
       ],
       "item_ids": [
         "b7e62d79090a"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "aac22585a29c",
-      "topic": "diet hawaiian massive research",
-      "keywords": [
-        "diet",
-        "hawaiian",
-        "massive",
-        "research",
-        "squid",
-        "uncover"
-      ],
-      "item_ids": [
-        "c4c3445d3fb5"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "374daadf57eb",
-      "topic": "100 billion create first",
-      "keywords": [
-        "100",
-        "billion",
-        "create",
-        "first",
-        "milky",
-        "star"
-      ],
-      "item_ids": [
-        "d75c311c8a5d"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "a0a90f1f3f0a",
-      "topic": "emerge extreme microquasar milky",
-      "keywords": [
-        "emerge",
-        "extreme",
-        "microquasar",
-        "milky",
-        "most",
-        "way"
-      ],
-      "item_ids": [
-        "6666c314241b"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "dabf6ed3b849",
-      "topic": "experiment extreme ice pressure",
-      "keywords": [
-        "experiment",
-        "extreme",
-        "ice",
-        "pressure",
-        "reveal",
-        "strange"
-      ],
-      "item_ids": [
-        "cdb142d9a85c"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "afb470e7046a",
-      "topic": "blis brain cannabi disrupt",
-      "keywords": [
-        "blis",
-        "brain",
-        "cannabi",
-        "disrupt",
-        "smoking",
-        "tobacco"
-      ],
-      "item_ids": [
-        "b95c16b8f748"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "1d510c1f1d8d",
-      "topic": "between find lead link",
-      "keywords": [
-        "between",
-        "find",
-        "lead",
-        "link",
-        "scientist",
-        "surprising"
-      ],
-      "item_ids": [
-        "9e8ec7920d27"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -11518,57 +11428,39 @@
       ]
     },
     {
-      "id": "1a711d06924f",
-      "topic": "claim paramount projection spot",
+      "id": "32812f902440",
+      "topic": "fazbear five freddy night",
       "keywords": [
-        "claim",
-        "paramount",
-        "projection",
-        "spot",
-        "top",
-        "weekend"
+        "fazbear",
+        "five",
+        "freddy",
+        "night",
+        "popeye",
+        "team"
       ],
       "item_ids": [
-        "6b6ad74c1b8c"
+        "6637e18380e0"
       ],
       "outlets": [
-        "The Numbers"
+        "Bloody Disgusting!"
       ]
     },
     {
-      "id": "030bb76c9ac3",
-      "topic": "black box eyeing phone",
+      "id": "91cb2a570066",
+      "topic": "channel coogler disney luck",
       "keywords": [
-        "black",
-        "box",
-        "eyeing",
-        "phone",
-        "prediction",
-        "weekend"
+        "channel",
+        "coogler",
+        "disney",
+        "luck",
+        "movie",
+        "ryan"
       ],
       "item_ids": [
-        "b9628f22d671"
+        "2bfa543c11eb"
       ],
       "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "3cb528d865c2",
-      "topic": "alone count springsteen stand",
-      "keywords": [
-        "alone",
-        "count",
-        "springsteen",
-        "stand",
-        "theater",
-        "weekend"
-      ],
-      "item_ids": [
-        "4339b7faab18"
-      ],
-      "outlets": [
-        "The Numbers"
+        "Bloody Disgusting!"
       ]
     },
     {
@@ -11710,42 +11602,6 @@
       ],
       "item_ids": [
         "8374a8000101"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "125899651e4e",
-      "topic": "adventure check feline horror",
-      "keywords": [
-        "adventure",
-        "check",
-        "feline",
-        "horror",
-        "out",
-        "prototype"
-      ],
-      "item_ids": [
-        "18c2caa3af45"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "58c328e7ed1d",
-      "topic": "back midseason pennywise trailer",
-      "keywords": [
-        "back",
-        "midseason",
-        "pennywise",
-        "trailer",
-        "watch",
-        "welcome"
-      ],
-      "item_ids": [
-        "f4bda65aaf03"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -13084,6 +12940,42 @@
       ]
     },
     {
+      "id": "7bbd43948470",
+      "topic": "finally hunt julia prime",
+      "keywords": [
+        "finally",
+        "hunt",
+        "julia",
+        "prime",
+        "robert",
+        "sets"
+      ],
+      "item_ids": [
+        "22f379f7b263"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "263461a271d3",
+      "topic": "closest justified olyphant replacement",
+      "keywords": [
+        "closest",
+        "justified",
+        "olyphant",
+        "replacement",
+        "thing",
+        "timothy"
+      ],
+      "item_ids": [
+        "01eb0c7ae067"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "d8130fc82cb9",
       "topic": "bomb character dceu forgotten",
       "keywords": [
@@ -13102,13 +12994,13 @@
       ]
     },
     {
-      "id": "085d89df5f05",
-      "topic": "first legend movie officially",
+      "id": "9cb99501550b",
+      "topic": "first legend look movie",
       "keywords": [
         "first",
         "legend",
+        "look",
         "movie",
-        "officially",
         "reveal",
         "zelda"
       ],
@@ -13204,42 +13096,6 @@
       ],
       "item_ids": [
         "ad518c69a0ac"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "2a495d8d7289",
-      "topic": "become despite eddington hit",
-      "keywords": [
-        "become",
-        "despite",
-        "eddington",
-        "hit",
-        "streaming",
-        "underwhelming"
-      ],
-      "item_ids": [
-        "3e0312b4b933"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "28afcc86c461",
-      "topic": "actor best cheer haunted",
-      "keywords": [
-        "actor",
-        "best",
-        "cheer",
-        "haunted",
-        "made",
-        "weirdest"
-      ],
-      "item_ids": [
-        "d0b6778331db"
       ],
       "outlets": [
         "CBR"
