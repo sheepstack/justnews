@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-17T02:37:25Z",
+  "generated_at": "2025-11-17T04:02:03Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2111,38 +2111,38 @@
       "cluster_id": "b9a50c0f5f38"
     },
     {
-      "id": "5da65f23b8f1",
-      "title": "US military attacks another alleged drug boat in eastern Pacific, killing three",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/16/pentagon-military-drug-boat-strike",
-      "published_at": "Sun, 16 Nov 2025 22:54:25 GMT",
+      "id": "d8134abae323",
+      "title": "In a shift, Trump says House Republicans should vote to release Epstein files",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/16/nx-s1-5610552/trump-house-republicans-epstein-files",
+      "published_at": "Sun, 16 Nov 2025 22:29:15 -0500",
       "bullets": [
-        "• The latest operation was the 21st known attack on drug boats by the US military since early September",
-        "• The strikes have killed more than 80 people, according to Pentagon figures",
-        "• Lawmakers in Congress, human rights groups and US allies have raised questions about the legality of the attacks "
+        "• In a shift, Trump says House Republicans should vote to release Epstein files",
+        "• Trump has faced pressure from his own party to follow through on a campaign promise to release investigative files related to Epstein",
+        "• The Justice Department now has an additional investigation focused on Democrats who knew the convicted sex offender "
       ],
-      "category": "US",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.973
+        "score": 0.969
       },
       "moods": {
         "brief_bullets": [
-          "• The latest operation was the 21st known attack on drug boats by the US military since early September",
-          "• The strikes have killed more than 80 people, according to Pentagon figures"
+          "• In a shift, Trump says House Republicans should vote to release Epstein files",
+          "• Trump has faced pressure from his own party to follow through on a campaign promise to release investigative files related to Epstein"
         ],
         "hopeful_bullets": [
-          "• The latest operation was the 21st known attack on drug boats by the US military since early September",
-          "• The strikes have killed more than 80 people, according to Pentagon figures"
+          "• In a shift, Trump says House Republicans should vote to release Epstein files",
+          "• Trump has faced pressure from his own party to follow through on a campaign promise to release investigative files related to Epstein"
         ],
         "stakes_bullets": [
-          "• The latest operation was the 21st known attack on drug boats by the US military since early September",
-          "• The strikes have killed more than 80 people, according to Pentagon figures",
-          "• Lawmakers in Congress, human rights groups and US allies have raised questions about the legality of the attacks "
+          "• In a shift, Trump says House Republicans should vote to release Epstein files",
+          "• Trump has faced pressure from his own party to follow through on a campaign promise to release investigative files related to Epstein",
+          "• The Justice Department now has an additional investigation focused on Democrats who knew the convicted sex offender "
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "24eb4b5590ba"
+      "read_minutes": 1,
+      "cluster_id": "3c30ba3cabb1"
     },
     {
       "id": "b016a7dc2820",
@@ -2652,28 +2652,32 @@
       "url": "https://www.npr.org/2025/11/16/nx-s1-5608233/tornado-survivors-in-st-louis-say-recovery-is-a-mess-due-to-fema-changes",
       "published_at": "Sun, 16 Nov 2025 17:01:33 -0500",
       "bullets": [
-        "• Tornado survivors in St",
-        "• Louis say recovery is a mess, due to FEMA changes November 16, 20255:01 PM ET Heard on All Things Considered by Sacha Pfeiffer, Hiba Ahmad, Avery Keatley, Sarah Robbins, Jason Rosenbaum "
+        "• Six months ago, a tornado ripped through St",
+        "• Louis",
+        "• It left more than a billion dollars of destruction, including more than 5,000 damaged buildings",
+        "• Now it's become a key experiment for President Trump's new policy on emergency response",
+        "• Residents say they're the guinea pigs of this experiment "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 1.0
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• Tornado survivors in St",
-          "• Louis say recovery is a mess, due to FEMA changes November 16, 20255:01 PM ET Heard on All Things Considered by Sacha Pfeiffer, Hiba Ahmad, Avery Keatley, Sarah Robbins, Jason Rosenbaum "
+          "• Six months ago, a tornado ripped through St",
+          "• Louis"
         ],
         "hopeful_bullets": [
-          "• Louis say recovery is a mess, due to FEMA changes November 16, 20255:01 PM ET Heard on All Things Considered by Sacha Pfeiffer, Hiba Ahmad, Avery Keatley, Sarah Robbins, Jason Rosenbaum "
+          "• Six months ago, a tornado ripped through St",
+          "• Louis"
         ],
         "stakes_bullets": [
-          "• Tornado survivors in St",
-          "• Louis say recovery is a mess, due to FEMA changes November 16, 20255:01 PM ET Heard on All Things Considered by Sacha Pfeiffer, Hiba Ahmad, Avery Keatley, Sarah Robbins, Jason Rosenbaum "
+          "• It left more than a billion dollars of destruction, including more than 5,000 damaged buildings",
+          "• Now it's become a key experiment for President Trump's new policy on emergency response"
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 10,
       "cluster_id": "268968c2e802"
     },
     {
@@ -2848,8 +2852,8 @@
       "published_at": "Sun, 16 Nov 2025 15:00:00 +0000",
       "bullets": [
         "• The Best Action Cameras is the latest guide to find the best action cameras",
-        "• GoPro Hero 13 Black, DJI Osmo Action 5, GoPro Max 2, and Insta360 Ace Pro are all great options",
-        "• Check out our other guides, including the Best 360, Best Compact Cameras, Best Mirrorless Cameras "
+        "• GoPro Hero 13 Black, DJI Osmo Action 5 and GoPro Max 2 are the latest action cameras to be released",
+        "• DJI Nano and GoPro Hero 5 are among the top-rated action cameras in the world "
       ],
       "category": "Technology",
       "sentiment": {
@@ -2859,19 +2863,19 @@
       "moods": {
         "brief_bullets": [
           "• The Best Action Cameras is the latest guide to find the best action cameras",
-          "• GoPro Hero 13 Black, DJI Osmo Action 5, GoPro Max 2, and Insta360 Ace Pro are all great options"
+          "• GoPro Hero 13 Black, DJI Osmo Action 5 and GoPro Max 2 are the latest action cameras to be released"
         ],
         "hopeful_bullets": [
           "• The Best Action Cameras is the latest guide to find the best action cameras",
-          "• GoPro Hero 13 Black, DJI Osmo Action 5, GoPro Max 2, and Insta360 Ace Pro are all great options"
+          "• GoPro Hero 13 Black, DJI Osmo Action 5 and GoPro Max 2 are the latest action cameras to be released"
         ],
         "stakes_bullets": [
           "• The Best Action Cameras is the latest guide to find the best action cameras",
-          "• GoPro Hero 13 Black, DJI Osmo Action 5, GoPro Max 2, and Insta360 Ace Pro are all great options",
-          "• Check out our other guides, including the Best 360, Best Compact Cameras, Best Mirrorless Cameras "
+          "• GoPro Hero 13 Black, DJI Osmo Action 5 and GoPro Max 2 are the latest action cameras to be released",
+          "• DJI Nano and GoPro Hero 5 are among the top-rated action cameras in the world "
         ]
       },
-      "read_minutes": 5,
+      "read_minutes": 6,
       "cluster_id": "a3eb45c28bf3"
     },
     {
@@ -4037,39 +4041,6 @@
       "cluster_id": "d4f2993faf3f"
     },
     {
-      "id": "ad4b92322a6d",
-      "title": "How do you find peace after war? A combat vet and NPR reporter's bond points a way",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/16/nx-s1-5598472/iraq-war-bond-recovery-veteran-deployment",
-      "published_at": "Sun, 16 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• Dave Carlson, 31, served two combat tours in Iraq",
-        "• He served four years in prison for robbery and drug offenses",
-        "• He was facing additional charges for crimes he'd committed inside prison",
-        "• Carlson's military buddies couldn't make sense of how he'd wound up sitting in the dock "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dave Carlson, 31, served two combat tours in Iraq",
-          "• He served four years in prison for robbery and drug offenses"
-        ],
-        "hopeful_bullets": [
-          "• Dave Carlson, 31, served two combat tours in Iraq",
-          "• He served four years in prison for robbery and drug offenses"
-        ],
-        "stakes_bullets": [
-          "• Carlson's military buddies couldn't make sense of how he'd wound up sitting in the dock "
-        ]
-      },
-      "read_minutes": 18,
-      "cluster_id": "290133f50b2b"
-    },
-    {
       "id": "b4c0fe8e0225",
       "title": "Dark matter acts surprisingly normal in a new cosmic test",
       "outlet": "All Top News -- ScienceDaily",
@@ -4203,40 +4174,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "85c2f547443d"
-    },
-    {
-      "id": "4b78fbb505ee",
-      "title": "TVC15: Lumat (VC104)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-08-tvc15-lumat-vc104/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-lumat-vc104",
-      "published_at": "Sun, 09 Nov 2025 02:30:04 +0000",
-      "bullets": [
-        "• The Vintage Collection TVC15 VC104 is celebrating the 15th anniversary of the original Jenner lineup",
-        "• Lumat was the final figure they needed to produce to give us all eight characters from the Jenner lineup from the mid-1980s",
-        "• The figure borrowed existing tooling, but Hasbro made it look all-new again thanks to the gorgeous new portrait and paint job "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Vintage Collection TVC15 VC104 is celebrating the 15th anniversary of the original Jenner lineup",
-          "• Lumat was the final figure they needed to produce to give us all eight characters from the Jenner lineup from the mid-1980s"
-        ],
-        "hopeful_bullets": [
-          "• The Vintage Collection TVC15 VC104 is celebrating the 15th anniversary of the original Jenner lineup",
-          "• Lumat was the final figure they needed to produce to give us all eight characters from the Jenner lineup from the mid-1980s"
-        ],
-        "stakes_bullets": [
-          "• The Vintage Collection TVC15 VC104 is celebrating the 15th anniversary of the original Jenner lineup",
-          "• Lumat was the final figure they needed to produce to give us all eight characters from the Jenner lineup from the mid-1980s",
-          "• The figure borrowed existing tooling, but Hasbro made it look all-new again thanks to the gorgeous new portrait and paint job "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "9127ee1a5b96"
     },
     {
       "id": "c1fa9628700b",
@@ -4411,28 +4348,28 @@
       "url": "https://www.jeditemplearchives.com/2025-11-15-tvc15-luke-skywalker-lightsaber-construction-vc87/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-luke-skywalker-lightsaber-construction-vc87",
       "published_at": "Sat, 15 Nov 2025 21:57:11 +0000",
       "bullets": [
-        "• The Vintage Collection is celebrating the 15th anniversary of the Return of the Jedi",
-        "• Hasbro released five deleted scenes action figures from Return Of The Jedi",
-        "• One of the figures was based on a long-rumored deleted scene of Luke Skywalker building a new lightsaber and storing it inside R2-D2 "
+        "• We're celebrating the 15th Anniversary of The Vintage Collection",
+        "• Hasbro released five deleted scenes action figures from Return Of The Jedi in 2012",
+        "• One of the figures was based on a long-rumored deleted scene of Luke Skywalker building a new lightsaber "
       ],
       "category": "Star Wars",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• The Vintage Collection is celebrating the 15th anniversary of the Return of the Jedi",
-          "• Hasbro released five deleted scenes action figures from Return Of The Jedi"
+          "• We're celebrating the 15th Anniversary of The Vintage Collection",
+          "• Hasbro released five deleted scenes action figures from Return Of The Jedi in 2012"
         ],
         "hopeful_bullets": [
-          "• The Vintage Collection is celebrating the 15th anniversary of the Return of the Jedi",
-          "• Hasbro released five deleted scenes action figures from Return Of The Jedi"
+          "• We're celebrating the 15th Anniversary of The Vintage Collection",
+          "• Hasbro released five deleted scenes action figures from Return Of The Jedi in 2012"
         ],
         "stakes_bullets": [
-          "• The Vintage Collection is celebrating the 15th anniversary of the Return of the Jedi",
-          "• Hasbro released five deleted scenes action figures from Return Of The Jedi",
-          "• One of the figures was based on a long-rumored deleted scene of Luke Skywalker building a new lightsaber and storing it inside R2-D2 "
+          "• We're celebrating the 15th Anniversary of The Vintage Collection",
+          "• Hasbro released five deleted scenes action figures from Return Of The Jedi in 2012",
+          "• One of the figures was based on a long-rumored deleted scene of Luke Skywalker building a new lightsaber "
         ]
       },
       "read_minutes": 1,
@@ -4795,40 +4732,6 @@
       "cluster_id": "4927cbd35e40"
     },
     {
-      "id": "7f5e72fa3bd7",
-      "title": "AI puts the squeeze on new grads — and the colleges that promised to make them employable",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/15/ai-puts-the-squeeze-on-new-grads-looking-for-work.html",
-      "published_at": "Sat, 15 Nov 2025 12:30:01 GMT",
-      "bullets": [
-        "• Report: 51% of employers rated college seniors' job market for this year's graduates as poor or fair",
-        "• That's the highest share since 2020-21",
-        "• AI has \"rendered moot certain types of skills that were once good currency in the labor market,\" expert says "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.908
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Report: 51% of employers rated college seniors' job market for this year's graduates as poor or fair",
-          "• That's the highest share since 2020-21"
-        ],
-        "hopeful_bullets": [
-          "• Report: 51% of employers rated college seniors' job market for this year's graduates as poor or fair",
-          "• That's the highest share since 2020-21"
-        ],
-        "stakes_bullets": [
-          "• Report: 51% of employers rated college seniors' job market for this year's graduates as poor or fair",
-          "• That's the highest share since 2020-21",
-          "• AI has \"rendered moot certain types of skills that were once good currency in the labor market,\" expert says "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "f967b8363533"
-    },
-    {
       "id": "9c8bd4ab42ee",
       "title": "Wyoming dinosaur mummies give us a new view of duck-billed species",
       "outlet": "Ars Technica - All content",
@@ -4993,40 +4896,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "01882ec29a2b"
-    },
-    {
-      "id": "c38a58829921",
-      "title": "Week in Politics: Response to the latest Epstein emails; health care subsidies",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/15/nx-s1-5606910/week-in-politics-response-to-the-latest-epstein-emails-health-care-subsidies",
-      "published_at": "Sat, 15 Nov 2025 07:43:10 -0500",
-      "bullets": [
-        "• Week in Politics: Response to latest Epstein emails; health care subsidies",
-        "• We look at the White House response to the latest release of Jeffery Epstein emails mentioning President Trump",
-        "• We also look at what's next in the fight to extend Obamacare subsidies "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.95
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Week in Politics: Response to latest Epstein emails; health care subsidies",
-          "• We look at the White House response to the latest release of Jeffery Epstein emails mentioning President Trump"
-        ],
-        "hopeful_bullets": [
-          "• Week in Politics: Response to latest Epstein emails; health care subsidies",
-          "• We look at the White House response to the latest release of Jeffery Epstein emails mentioning President Trump"
-        ],
-        "stakes_bullets": [
-          "• Week in Politics: Response to latest Epstein emails; health care subsidies",
-          "• We look at the White House response to the latest release of Jeffery Epstein emails mentioning President Trump",
-          "• We also look at what's next in the fight to extend Obamacare subsidies "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "c62d70f8411a"
     },
     {
       "id": "ecbd4fbdfdd1",
@@ -5533,49 +5402,81 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
-      "id": "43a8dbde830f",
-      "title": "JJK Modulo Will Finally Reveal Yuji Itadori’s Strongest Technique",
+      "id": "dc29b36b5772",
+      "title": "Clevatess Quietly Debuted Its First Season on Crunchyroll & It's 2025's Most Underrated Anime",
       "outlet": "CBR",
-      "url": "https://www.cbr.com/jjk-modulo-yuji-itadori-domain-expansion-reveal/",
-      "published_at": "Mon, 17 Nov 2025 02:12:38 GMT",
+      "url": "https://www.cbr.com/anime-best-english-dub-clevatess-crunchyroll-2025/",
+      "published_at": "Mon, 17 Nov 2025 03:57:29 GMT",
       "bullets": [
-        "• Shonen manga doesn't have a great track record with sequels",
-        "• Jujutsu Kaisen Modulo is the follow-up to the breakout series",
-        "• The final fight against Ryomen Sukuna is disappointing that Yuji Itadori's Domain Expansion is never fully revealed in the series finale "
+        "• The English dub of Clevatess was set up to win from the start",
+        "• Katie Wetch, Sean Letourneau, Morgan Berry and Mike Smith are among the best English dubs of 2025",
+        "• The English cast conveys the nuances of each character with deadly precision",
+        "• All 12 episodes of the first season is now streaming on Crunchyroll "
       ],
       "category": "Comics",
       "sentiment": {
-        "label": "negative",
-        "score": 0.997
+        "label": "positive",
+        "score": 1.0
       },
       "moods": {
         "brief_bullets": [
-          "• Shonen manga doesn't have a great track record with sequels",
-          "• Jujutsu Kaisen Modulo is the follow-up to the breakout series"
+          "• The English dub of Clevatess was set up to win from the start",
+          "• Katie Wetch, Sean Letourneau, Morgan Berry and Mike Smith are among the best English dubs of 2025"
         ],
         "hopeful_bullets": [
-          "• Shonen manga doesn't have a great track record with sequels",
-          "• The final fight against Ryomen Sukuna is disappointing that Yuji Itadori's Domain Expansion is never fully revealed in the series finale "
+          "• The English dub of Clevatess was set up to win from the start"
         ],
         "stakes_bullets": [
-          "• Shonen manga doesn't have a great track record with sequels",
-          "• Jujutsu Kaisen Modulo is the follow-up to the breakout series",
-          "• The final fight against Ryomen Sukuna is disappointing that Yuji Itadori's Domain Expansion is never fully revealed in the series finale "
+          "• The English dub of Clevatess was set up to win from the start",
+          "• Katie Wetch, Sean Letourneau, Morgan Berry and Mike Smith are among the best English dubs of 2025",
+          "• The English cast conveys the nuances of each character with deadly precision"
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "7a1b3e3e90dc"
+      "cluster_id": "afae10f5e3ad"
     },
     {
-      "id": "7e1f5c2d7fd3",
-      "title": "Game of Thrones Officially Ended a Fantasy Era in Season 1 (& Nobody Noticed)",
+      "id": "a0f39d751324",
+      "title": "Batman's 10 Best Clayface Adaptations, Ranked",
       "outlet": "CBR",
-      "url": "https://www.cbr.com/game-of-thrones-ned-stark-death-end-of-fantasy-era/",
-      "published_at": "Mon, 17 Nov 2025 02:10:12 GMT",
+      "url": "https://www.cbr.com/batman-best-clayface-adaptations-ranked/",
+      "published_at": "Mon, 17 Nov 2025 03:50:11 GMT",
       "bullets": [
-        "• Game of Thrones killed the 'honorable hero' era of fantasy TV with Ned Stark's death",
-        "• Ned Stark was intentionally set up as the perfect hero, and many believed he should have been the true King of Westeros",
-        "• The show convinced everyone he was untouchable, then punished him for being the man he was supposed to be "
+        "• DC Studios is moving forward with a film centered on Clayface, set in the DCU",
+        "• The Clayface film will mark the character's first live-action appearance on the big screen",
+        "• There have been rumors of a more grounded version of Clayface appearing in The Batman — Part II "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• DC Studios is moving forward with a film centered on Clayface, set in the DCU",
+          "• The Clayface film will mark the character's first live-action appearance on the big screen"
+        ],
+        "hopeful_bullets": [
+          "• DC Studios is moving forward with a film centered on Clayface, set in the DCU",
+          "• The Clayface film will mark the character's first live-action appearance on the big screen"
+        ],
+        "stakes_bullets": [
+          "• The Clayface film will mark the character's first live-action appearance on the big screen"
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "9937aa9630c6"
+    },
+    {
+      "id": "9be1c388698a",
+      "title": "The 93% RT Creature Feature Quentin Tarantino Called a 10/10 Masterpiece",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-host-creature-feature-masterpiece/",
+      "published_at": "Mon, 17 Nov 2025 03:50:11 GMT",
+      "bullets": [
+        "• Bong Joon Ho's The Host has always been underrated, especially among Bong's filmography",
+        "• Quentin Tarantino claimed that he was \"blown away\" by the movie",
+        "• Themes of environmentalism and colonization play major roles, with the movie's monster serving as a metaphor for the US Invasion of Iraq "
       ],
       "category": "Comics",
       "sentiment": {
@@ -5584,53 +5485,423 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Game of Thrones killed the 'honorable hero' era of fantasy TV with Ned Stark's death",
-          "• Ned Stark was intentionally set up as the perfect hero, and many believed he should have been the true King of Westeros"
+          "• Bong Joon Ho's The Host has always been underrated, especially among Bong's filmography",
+          "• Quentin Tarantino claimed that he was \"blown away\" by the movie"
         ],
         "hopeful_bullets": [
-          "• Game of Thrones killed the 'honorable hero' era of fantasy TV with Ned Stark's death",
-          "• Ned Stark was intentionally set up as the perfect hero, and many believed he should have been the true King of Westeros"
+          "• Bong Joon Ho's The Host has always been underrated, especially among Bong's filmography",
+          "• Quentin Tarantino claimed that he was \"blown away\" by the movie"
         ],
         "stakes_bullets": [
-          "• Game of Thrones killed the 'honorable hero' era of fantasy TV with Ned Stark's death",
-          "• Ned Stark was intentionally set up as the perfect hero, and many believed he should have been the true King of Westeros",
-          "• The show convinced everyone he was untouchable, then punished him for being the man he was supposed to be "
+          "• Bong Joon Ho's The Host has always been underrated, especially among Bong's filmography",
+          "• Quentin Tarantino claimed that he was \"blown away\" by the movie",
+          "• Themes of environmentalism and colonization play major roles, with the movie's monster serving as a metaphor for the US Invasion of Iraq "
         ]
       },
-      "read_minutes": 8,
-      "cluster_id": "3e5692c0769d"
+      "read_minutes": 7,
+      "cluster_id": "283005cb519f"
     },
     {
-      "id": "6afbfbe7f202",
-      "title": "10 DC Characters Who Deserve an R-Rated DCU Movie",
+      "id": "fc0666eb4cb8",
+      "title": "M. Night Shyamalan's 2021 Adaptation Would Have Hit Very Differently with the Original Ending",
       "outlet": "CBR",
-      "url": "https://www.cbr.com/dc-characters-who-need-r-rated-dcu-adaptations/",
-      "published_at": "Mon, 17 Nov 2025 02:05:12 GMT",
+      "url": "https://www.cbr.com/m-night-shyamalan-old-adaptation-sandcastle-different-ending/",
+      "published_at": "Mon, 17 Nov 2025 03:35:11 GMT",
       "bullets": [
-        "• The Question would be the perfect character for a neo-noir film",
-        "• The Question is a vigilante who faces the worst of the worst in society on a daily basis",
-        "• The more violent the film, the character will have to face truly gruesome criminals "
+        "• M",
+        "• Night Shyamalan's latest film, Old, is based on a French graphic novel",
+        "• The film loosely adapts the graphic novel Sandcastle by Pierre Oscar Lévy",
+        "• There are some similarities, but the major differences help to differentiate them entirely "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.946
+      },
+      "moods": {
+        "brief_bullets": [
+          "• M",
+          "• Night Shyamalan's latest film, Old, is based on a French graphic novel"
+        ],
+        "hopeful_bullets": [
+          "• There are some similarities, but the major differences help to differentiate them entirely "
+        ],
+        "stakes_bullets": [
+          "• M",
+          "• Night Shyamalan's latest film, Old, is based on a French graphic novel",
+          "• The film loosely adapts the graphic novel Sandcastle by Pierre Oscar Lévy"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "7b81cc6daa67"
+    },
+    {
+      "id": "be9b69cf9ec3",
+      "title": "Iron-Blooded Orphans' Most Iconic Gundam Gets High-End Collectible in New 2025 Reveal",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/iron-blooded-orphans-gundam-new-2025-reveal/",
+      "published_at": "Mon, 17 Nov 2025 03:30:11 GMT",
+      "bullets": [
+        "• Bandai has revealed the first look at the METAL BUILD Gundam Barbatos figure",
+        "• This is a new version of the iconic mecha from Mobile Suit Gundam: Iron-Blooded Orphans",
+        "• The figure is part of a top-tier, collector-oriented line",
+        "• An exact release date and price haven't been confirmed "
       ],
       "category": "Comics",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.99
       },
       "moods": {
         "brief_bullets": [
-          "• The Question would be the perfect character for a neo-noir film",
-          "• The Question is a vigilante who faces the worst of the worst in society on a daily basis"
+          "• Bandai has revealed the first look at the METAL BUILD Gundam Barbatos figure",
+          "• This is a new version of the iconic mecha from Mobile Suit Gundam: Iron-Blooded Orphans"
         ],
         "hopeful_bullets": [
-          "• The Question would be the perfect character for a neo-noir film",
-          "• The Question is a vigilante who faces the worst of the worst in society on a daily basis"
+          "• Bandai has revealed the first look at the METAL BUILD Gundam Barbatos figure",
+          "• This is a new version of the iconic mecha from Mobile Suit Gundam: Iron-Blooded Orphans"
         ],
         "stakes_bullets": [
-          "• The more violent the film, the character will have to face truly gruesome criminals "
+          "• Bandai has revealed the first look at the METAL BUILD Gundam Barbatos figure"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "1f900a5363a6"
+    },
+    {
+      "id": "7b8e98213c7c",
+      "title": "One Piece Chapter 1166 Release Date & Time",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/one-piece-chapter-1166-release-date-time/",
+      "published_at": "Mon, 17 Nov 2025 03:25:11 GMT",
+      "bullets": [
+        "• Eiichiro Oda's long-running shonen manga has firmly entered its final saga, with some of the franchise's biggest mysteries finally being revealed after decades of anticipation",
+        "• One Piece Chapter 1166 should be available to read at 11:00 am EST on November 23, 2025 "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Eiichiro Oda's long-running shonen manga has firmly entered its final saga, with some of the franchise's biggest mysteries finally being revealed after decades of anticipation",
+          "• One Piece Chapter 1166 should be available to read at 11:00 am EST on November 23, 2025 "
+        ],
+        "hopeful_bullets": [
+          "• Eiichiro Oda's long-running shonen manga has firmly entered its final saga, with some of the franchise's biggest mysteries finally being revealed after decades of anticipation",
+          "• One Piece Chapter 1166 should be available to read at 11:00 am EST on November 23, 2025 "
+        ],
+        "stakes_bullets": [
+          "• Eiichiro Oda's long-running shonen manga has firmly entered its final saga, with some of the franchise's biggest mysteries finally being revealed after decades of anticipation",
+          "• One Piece Chapter 1166 should be available to read at 11:00 am EST on November 23, 2025 "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "f3f934e1cd93"
+    },
+    {
+      "id": "887071f3f60e",
+      "title": "10 2010s DC Comic Books With the Best Art, Ranked",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-2010s-dc-comics-art-all-time-ranked/",
+      "published_at": "Mon, 17 Nov 2025 03:25:11 GMT",
+      "bullets": [
+        "• DC Comics has been a major player in the world of comic books for decades",
+        "• The 21st century has been one of the most impressive years for the publisher",
+        "• Supergirl: Woman of Tomorrow, Rorschach, and Superman: Up in the Sky are some of the best limited series "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• DC Comics has been a major player in the world of comic books for decades",
+          "• The 21st century has been one of the most impressive years for the publisher"
+        ],
+        "hopeful_bullets": [
+          "• DC Comics has been a major player in the world of comic books for decades",
+          "• The 21st century has been one of the most impressive years for the publisher"
+        ],
+        "stakes_bullets": [
+          "• DC Comics has been a major player in the world of comic books for decades",
+          "• The 21st century has been one of the most impressive years for the publisher",
+          "• Supergirl: Woman of Tomorrow, Rorschach, and Superman: Up in the Sky are some of the best limited series "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "ef3510f61e23"
+    },
+    {
+      "id": "69b31dece384",
+      "title": "8 Classic 50s Westerns That Are Still Masterpieces Today",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/classic-50s-westerns-masterpiece-list/",
+      "published_at": "Mon, 17 Nov 2025 03:25:11 GMT",
+      "bullets": [
+        "• The Good, the Bad and the Ugly are the best Westerns from the 1960s",
+        "• They include the likes of The Hateful Eight and The Last Frontier",
+        "• They are the latest Westerns to be released on DVD and Blu-Ray",
+        "• The films are about a man who is trying to find his way around the world "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Good, the Bad and the Ugly are the best Westerns from the 1960s",
+          "• They include the likes of The Hateful Eight and The Last Frontier"
+        ],
+        "hopeful_bullets": [
+          "• The Good, the Bad and the Ugly are the best Westerns from the 1960s",
+          "• They include the likes of The Hateful Eight and The Last Frontier"
+        ],
+        "stakes_bullets": [
+          "• The Good, the Bad and the Ugly are the best Westerns from the 1960s",
+          "• They include the likes of The Hateful Eight and The Last Frontier",
+          "• They are the latest Westerns to be released on DVD and Blu-Ray"
         ]
       },
       "read_minutes": 6,
-      "cluster_id": "cfead19fc3c8"
+      "cluster_id": "71e2599c420e"
+    },
+    {
+      "id": "234ad8f6ea3d",
+      "title": "TVC15: Orrimaarko (Prune Face) (VC114)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-16-tvc15-orrimaarko-prune-face-vc114/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-orrimaarko-prune-face-vc114",
+      "published_at": "Mon, 17 Nov 2025 03:24:08 +0000",
+      "bullets": [
+        "• The 1984 Kenner Prune Face figure was one of the worst peg warmers, but it didn’t prevent collectors from wanting a modern super-articulated update to the character",
+        "• Hasbro made the best for last, making Orrimaarko part of The Vintage Collection’s initial run "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.962
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The 1984 Kenner Prune Face figure was one of the worst peg warmers, but it didn’t prevent collectors from wanting a modern super-articulated update to the character",
+          "• Hasbro made the best for last, making Orrimaarko part of The Vintage Collection’s initial run "
+        ],
+        "hopeful_bullets": [
+          "• The 1984 Kenner Prune Face figure was one of the worst peg warmers, but it didn’t prevent collectors from wanting a modern super-articulated update to the character",
+          "• Hasbro made the best for last, making Orrimaarko part of The Vintage Collection’s initial run "
+        ],
+        "stakes_bullets": [
+          "• The 1984 Kenner Prune Face figure was one of the worst peg warmers, but it didn’t prevent collectors from wanting a modern super-articulated update to the character",
+          "• Hasbro made the best for last, making Orrimaarko part of The Vintage Collection’s initial run "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7f680b5fb55d"
+    },
+    {
+      "id": "65ea906ca669",
+      "title": "Japan to dispatch senior envoy to China, NHK says, as travel warning drives tourism selloff in Tokyo",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/17/japan-travel-retail-exposed-stocks-china-japan-spat-deepens-beijing-tokyo-taiwan-takaichi.html",
+      "published_at": "Mon, 17 Nov 2025 03:22:36 GMT",
+      "bullets": [
+        "• Japan dispatched a senior foreign ministry official to China to ease rising tensions",
+        "• Tourism-exposed stocks in Tokyo slumped amid the diplomatic feud",
+        "• Beauty and cosmetics firm Shiseido, which relies heavily on Chinese spending, plunged 11% Monday",
+        "• Tokyo Disney Resort, airline operator ANA Holdings and rail operator Hankyu Hanshin Holdings also slumped "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Japan dispatched a senior foreign ministry official to China to ease rising tensions",
+          "• Tourism-exposed stocks in Tokyo slumped amid the diplomatic feud"
+        ],
+        "hopeful_bullets": [
+          "• Japan dispatched a senior foreign ministry official to China to ease rising tensions",
+          "• Tourism-exposed stocks in Tokyo slumped amid the diplomatic feud"
+        ],
+        "stakes_bullets": [
+          "• Japan dispatched a senior foreign ministry official to China to ease rising tensions",
+          "• Tourism-exposed stocks in Tokyo slumped amid the diplomatic feud",
+          "• Beauty and cosmetics firm Shiseido, which relies heavily on Chinese spending, plunged 11% Monday"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ffedfd913da2"
+    },
+    {
+      "id": "fe41c7462f89",
+      "title": "Alibaba is helping Chinese military to target U.S., White House memo claims: FT",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/17/alibaba-chinese-military-target-us-white-house-memo-ft-.html",
+      "published_at": "Mon, 17 Nov 2025 03:00:51 GMT",
+      "bullets": [
+        "• Financial Times: Alibaba is helping the Chinese military target the U.S., according to a White House memo",
+        "• The memo alleged Alibaba provides tech support for Chinese military \"operations\" against targets, the report says",
+        "• Alibaba: \"This malicious PR operation clearly came from a rogue voice looking to undermine President Trump's recent trade deal\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Financial Times: Alibaba is helping the Chinese military target the U.S., according to a White House memo",
+          "• The memo alleged Alibaba provides tech support for Chinese military \"operations\" against targets, the report says"
+        ],
+        "hopeful_bullets": [
+          "• Financial Times: Alibaba is helping the Chinese military target the U.S., according to a White House memo",
+          "• The memo alleged Alibaba provides tech support for Chinese military \"operations\" against targets, the report says"
+        ],
+        "stakes_bullets": [
+          "• Financial Times: Alibaba is helping the Chinese military target the U.S., according to a White House memo",
+          "• The memo alleged Alibaba provides tech support for Chinese military \"operations\" against targets, the report says",
+          "• Alibaba: \"This malicious PR operation clearly came from a rogue voice looking to undermine President Trump's recent trade deal\""
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "5f201253972c"
+    },
+    {
+      "id": "a9a1e07afcda",
+      "title": "Welcome to Derry Officially Set Up the Darkest Stephen King Book Change of All Time",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/welcome-to-derry-episode-4-teases-leroys-death/",
+      "published_at": "Mon, 17 Nov 2025 03:00:22 GMT",
+      "bullets": [
+        "• Welcome to Derry Season 1, Episode 4, \"The Great Swirling Apparatus of Our Planet's Function\" Episode 4 is notable for depicting Pennywise’s crash landing on Earth",
+        "• The episode also features separate attacks on Will Hanlon and classmate Marge Truman",
+        "• This week's episode might foreshadow a heartbreaking change in the story "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.957
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Welcome to Derry Season 1, Episode 4, \"The Great Swirling Apparatus of Our Planet's Function\" Episode 4 is notable for depicting Pennywise’s crash landing on Earth",
+          "• The episode also features separate attacks on Will Hanlon and classmate Marge Truman"
+        ],
+        "hopeful_bullets": [
+          "• Welcome to Derry Season 1, Episode 4, \"The Great Swirling Apparatus of Our Planet's Function\" Episode 4 is notable for depicting Pennywise’s crash landing on Earth",
+          "• The episode also features separate attacks on Will Hanlon and classmate Marge Truman"
+        ],
+        "stakes_bullets": [
+          "• Welcome to Derry Season 1, Episode 4, \"The Great Swirling Apparatus of Our Planet's Function\" Episode 4 is notable for depicting Pennywise’s crash landing on Earth",
+          "• The episode also features separate attacks on Will Hanlon and classmate Marge Truman"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "32b66c02a1c6"
+    },
+    {
+      "id": "8376a4bf824a",
+      "title": "Welcome to Derry Finally Confirms Pennywise’s New Origin: Where Did IT Come From?",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/welcome-to-derry-where-did-pennywise-come-from/",
+      "published_at": "Mon, 17 Nov 2025 03:00:22 GMT",
+      "bullets": [
+        "• Welcome to Derry is four episodes into its first season",
+        "• Episode 4, titled \"The Great Swirling Apparatus of Our Planet's Function,\" reveals a lot about Pennywise",
+        "• Dick Hallorann is a fan-favorite Stephen King character, known for his role in The Shining "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Welcome to Derry is four episodes into its first season",
+          "• Episode 4, titled \"The Great Swirling Apparatus of Our Planet's Function,\" reveals a lot about Pennywise"
+        ],
+        "hopeful_bullets": [
+          "• Welcome to Derry is four episodes into its first season",
+          "• Episode 4, titled \"The Great Swirling Apparatus of Our Planet's Function,\" reveals a lot about Pennywise"
+        ],
+        "stakes_bullets": [
+          "• Episode 4, titled \"The Great Swirling Apparatus of Our Planet's Function,\" reveals a lot about Pennywise"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "78264bb6a1a5"
+    },
+    {
+      "id": "5da65f23b8f1",
+      "title": "US attacks another alleged drug boat in Pacific, killing three, as Trump signals possible talks with Maduro",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/16/pentagon-military-drug-boat-strike",
+      "published_at": "Mon, 17 Nov 2025 02:59:02 GMT",
+      "bullets": [
+        "• The United States conducted another attack on an alleged drug trafficking boat in the eastern Pacific on Saturday, killing three people aboard, the Pentagon says",
+        "• The operation was the 21st known attack on drug boats by the US military since early September in what it calls a justified effort to disrupt the flow of narcotics into the US",
+        "• It came as Donald Trump said the US may open talks with Nicolas Maduro, the Venezuelan president "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The United States conducted another attack on an alleged drug trafficking boat in the eastern Pacific on Saturday, killing three people aboard, the Pentagon says",
+          "• The operation was the 21st known attack on drug boats by the US military since early September in what it calls a justified effort to disrupt the flow of narcotics into the US"
+        ],
+        "hopeful_bullets": [
+          "• The United States conducted another attack on an alleged drug trafficking boat in the eastern Pacific on Saturday, killing three people aboard, the Pentagon says",
+          "• The operation was the 21st known attack on drug boats by the US military since early September in what it calls a justified effort to disrupt the flow of narcotics into the US"
+        ],
+        "stakes_bullets": [
+          "• The United States conducted another attack on an alleged drug trafficking boat in the eastern Pacific on Saturday, killing three people aboard, the Pentagon says",
+          "• The operation was the 21st known attack on drug boats by the US military since early September in what it calls a justified effort to disrupt the flow of narcotics into the US",
+          "• It came as Donald Trump said the US may open talks with Nicolas Maduro, the Venezuelan president "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "24eb4b5590ba"
+    },
+    {
+      "id": "4e129d6ed262",
+      "title": "Japan's economy contracts less than expected in third quarter, helped by consumption",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/17/japan-gdp-q3-economy-september-quarter-contraction.html",
+      "published_at": "Mon, 17 Nov 2025 02:15:42 GMT",
+      "bullets": [
+        "• Japan's economy contracted by a smaller-than-expected 0.4% in the quarter ended September compared to the previous three months",
+        "• Economists polled by Reuters had expected a 0.6% decline",
+        "• Japan's shipments had seen contractions for four straight months since May as U.S",
+        "• tariffs hurt exports "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Japan's economy contracted by a smaller-than-expected 0.4% in the quarter ended September compared to the previous three months",
+          "• Economists polled by Reuters had expected a 0.6% decline"
+        ],
+        "hopeful_bullets": [
+          "• Japan's economy contracted by a smaller-than-expected 0.4% in the quarter ended September compared to the previous three months",
+          "• Economists polled by Reuters had expected a 0.6% decline"
+        ],
+        "stakes_bullets": [
+          "• Japan's economy contracted by a smaller-than-expected 0.4% in the quarter ended September compared to the previous three months",
+          "• Economists polled by Reuters had expected a 0.6% decline"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7491bdfd1acb"
     },
     {
       "id": "7cc84efb7015",
@@ -5663,239 +5934,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "b9292e613998"
-    },
-    {
-      "id": "f7d4add14051",
-      "title": "7 Underrated Star Trek: The Next Generation Episodes That Are Perfect From Start to Finish",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/underrated-star-trek-the-next-generation-episodes-list/",
-      "published_at": "Mon, 17 Nov 2025 01:45:11 GMT",
-      "bullets": [
-        "• Star Trek: The Next Generation still has a few gems hidden up its sleeves",
-        "• The underrated episodes are what make the series rewarding upon a rewatch",
-        "• A series must deliver in the moments in between the grander narratives to stand the test of time "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Star Trek: The Next Generation still has a few gems hidden up its sleeves",
-          "• The underrated episodes are what make the series rewarding upon a rewatch"
-        ],
-        "hopeful_bullets": [
-          "• Star Trek: The Next Generation still has a few gems hidden up its sleeves",
-          "• The underrated episodes are what make the series rewarding upon a rewatch"
-        ],
-        "stakes_bullets": [
-          "• Star Trek: The Next Generation still has a few gems hidden up its sleeves",
-          "• The underrated episodes are what make the series rewarding upon a rewatch",
-          "• A series must deliver in the moments in between the grander narratives to stand the test of time "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "48b99d8be9eb"
-    },
-    {
-      "id": "65ea906ca669",
-      "title": "Japan tourism-exposed stocks sink as China issues travel warning after Takaichi’s Taiwan remarks",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/17/japan-travel-retail-exposed-stocks-china-japan-spat-deepens-beijing-tokyo-taiwan-takaichi.html",
-      "published_at": "Mon, 17 Nov 2025 01:34:47 GMT",
-      "bullets": [
-        "• Beauty and cosmetics firm Shiseido, which relies heavily on Chinese spending, plunged 11% on Monday",
-        "• Tokyo Disney resort operator, ANA Holdings, operator of Tokyo Disney Resort, dropped 4.74%",
-        "• Beijing issued travel and study alert for Chinese citizens considering going to Japan "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Beauty and cosmetics firm Shiseido, which relies heavily on Chinese spending, plunged 11% on Monday",
-          "• Tokyo Disney resort operator, ANA Holdings, operator of Tokyo Disney Resort, dropped 4.74%"
-        ],
-        "hopeful_bullets": [
-          "• Beauty and cosmetics firm Shiseido, which relies heavily on Chinese spending, plunged 11% on Monday",
-          "• Tokyo Disney resort operator, ANA Holdings, operator of Tokyo Disney Resort, dropped 4.74%"
-        ],
-        "stakes_bullets": [
-          "• Beauty and cosmetics firm Shiseido, which relies heavily on Chinese spending, plunged 11% on Monday",
-          "• Tokyo Disney resort operator, ANA Holdings, operator of Tokyo Disney Resort, dropped 4.74%",
-          "• Beijing issued travel and study alert for Chinese citizens considering going to Japan "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "f52eb7b89261"
-    },
-    {
-      "id": "9904e931e1ad",
-      "title": "The Free-to-Play Open-World RPG With Very Positive Reviews On Steam",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-free-to-play-open-world-rpg-very-positive-steam-reviews/",
-      "published_at": "Mon, 17 Nov 2025 01:30:11 GMT",
-      "bullets": [
-        "• HoYoverse's Genshin Impact is the first free-to-play gacha game of its kind",
-        "• It offers a massive open world to explore, an ongoing story, major updates every six weeks, elaborate world-building, and even online co-op features",
-        "• Kuro Games' Wuthering Waves uses a lot of the same formula, but both titles are open-world games "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• HoYoverse's Genshin Impact is the first free-to-play gacha game of its kind",
-          "• It offers a massive open world to explore, an ongoing story, major updates every six weeks, elaborate world-building, and even online co-op features"
-        ],
-        "hopeful_bullets": [
-          "• HoYoverse's Genshin Impact is the first free-to-play gacha game of its kind",
-          "• It offers a massive open world to explore, an ongoing story, major updates every six weeks, elaborate world-building, and even online co-op features"
-        ],
-        "stakes_bullets": [
-          "• HoYoverse's Genshin Impact is the first free-to-play gacha game of its kind"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "df60366e4b39"
-    },
-    {
-      "id": "86ae77046375",
-      "title": "Dragon Ball Revives Rare Goku Art After 37 Years With 'Exquisite' New Release",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/dragon-ball-rare-goku-art-new-release/",
-      "published_at": "Mon, 17 Nov 2025 01:30:11 GMT",
-      "bullets": [
-        "• Akira Toriyama Archive has unearthed a draft of the 1987 Dragon Ball calendar cover art",
-        "• The image features Goku, Bulma, Oolong, Krillin and Yamcha and Puar the cat astride the back of Shenron the Dragon "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Akira Toriyama Archive has unearthed a draft of the 1987 Dragon Ball calendar cover art",
-          "• The image features Goku, Bulma, Oolong, Krillin and Yamcha and Puar the cat astride the back of Shenron the Dragon "
-        ],
-        "hopeful_bullets": [
-          "• Akira Toriyama Archive has unearthed a draft of the 1987 Dragon Ball calendar cover art",
-          "• The image features Goku, Bulma, Oolong, Krillin and Yamcha and Puar the cat astride the back of Shenron the Dragon "
-        ],
-        "stakes_bullets": [
-          "• Akira Toriyama Archive has unearthed a draft of the 1987 Dragon Ball calendar cover art",
-          "• The image features Goku, Bulma, Oolong, Krillin and Yamcha and Puar the cat astride the back of Shenron the Dragon "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "88b486b25105"
-    },
-    {
-      "id": "ffc29a9bd065",
-      "title": "Harry Potter’s First Movie Hid a Dark Voldemort Clue Right Under Fans' Noses",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/harry-potter-and-the-sorcerers-stone-hidden-voldemort-clue/",
-      "published_at": "Mon, 17 Nov 2025 01:20:11 GMT",
-      "bullets": [
-        "• Harry Potter film series is known for its complex narrative design, despite its younger target audience",
-        "• The foundations had to be built without any sense of what the final structure might look like",
-        "• A key choice during one tense sequence of the film ensured connections to both the finale of Harry Potter and the Sorcerer's Stone and the conclusion of the Harry Potter franchise as a whole "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.951
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Harry Potter film series is known for its complex narrative design, despite its younger target audience",
-          "• The foundations had to be built without any sense of what the final structure might look like"
-        ],
-        "hopeful_bullets": [
-          "• Harry Potter film series is known for its complex narrative design, despite its younger target audience",
-          "• The foundations had to be built without any sense of what the final structure might look like"
-        ],
-        "stakes_bullets": [
-          "• Harry Potter film series is known for its complex narrative design, despite its younger target audience",
-          "• The foundations had to be built without any sense of what the final structure might look like",
-          "• A key choice during one tense sequence of the film ensured connections to both the finale of Harry Potter and the Sorcerer's Stone and the conclusion of the Harry Potter franchise as a whole "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "ab9c934ffcc8"
-    },
-    {
-      "id": "4e129d6ed262",
-      "title": "Japan's economy contracts less than expected in third quarter, helped by consumption",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/17/japan-gdp-q3-economy-september-quarter-contraction.html",
-      "published_at": "Mon, 17 Nov 2025 01:07:22 GMT",
-      "bullets": [
-        "• Japan's economy contracted by a smaller-than-expected 0.4% in the quarter ended September compared to the previous three months",
-        "• Economists polled by Reuters had expected a 0.6% decline",
-        "• Japan's GDP for the third quarter of 2025 fell 1.8%, a softer decline compared with estimates of a 2.5% contraction "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's economy contracted by a smaller-than-expected 0.4% in the quarter ended September compared to the previous three months",
-          "• Economists polled by Reuters had expected a 0.6% decline"
-        ],
-        "hopeful_bullets": [
-          "• Japan's economy contracted by a smaller-than-expected 0.4% in the quarter ended September compared to the previous three months",
-          "• Economists polled by Reuters had expected a 0.6% decline"
-        ],
-        "stakes_bullets": [
-          "• Japan's economy contracted by a smaller-than-expected 0.4% in the quarter ended September compared to the previous three months",
-          "• Economists polled by Reuters had expected a 0.6% decline"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7491bdfd1acb"
-    },
-    {
-      "id": "0dd6ebb3d7d6",
-      "title": "9 Villains Set To Appear in Upcoming DCU Projects",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/upcoming-dcu-villain-appearances/",
-      "published_at": "Mon, 17 Nov 2025 01:05:12 GMT",
-      "bullets": [
-        "• The DC Universe has only three projects so far, but the franchise is already full of many heroes flying around and saving the day",
-        "• The DCU's take on phases will be chapters, with the first centering on Gods and Monsters",
-        "• Rick Flag Sr",
-        "• will return to the DCU in Man of Tomorrow "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The DC Universe has only three projects so far, but the franchise is already full of many heroes flying around and saving the day",
-          "• The DCU's take on phases will be chapters, with the first centering on Gods and Monsters"
-        ],
-        "hopeful_bullets": [
-          "• The DC Universe has only three projects so far, but the franchise is already full of many heroes flying around and saving the day",
-          "• The DCU's take on phases will be chapters, with the first centering on Gods and Monsters"
-        ],
-        "stakes_bullets": [
-          "• The DCU's take on phases will be chapters, with the first centering on Gods and Monsters",
-          "• will return to the DCU in Man of Tomorrow "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "86c7d8422d0d"
     },
     {
       "id": "50d97fb047c2",
@@ -6032,40 +6070,6 @@
       "cluster_id": "a57f57115384"
     },
     {
-      "id": "3b453d19412f",
-      "title": "34 Years Later, Silence of the Lambs Still Defines the Greatest Movie Villain of All Time",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/anthony-hopkins-best-movie-villain-silence-of-the-lambs/",
-      "published_at": "Mon, 17 Nov 2025 00:30:11 GMT",
-      "bullets": [
-        "• Some of the greatest movie villains of all time appear in films where they are the main focus",
-        "• This is most prominent in the horror and thriller genres with films such as Halloween, Friday the 13th, The Silence of the Lambs or Seven",
-        "• One of the most popular forms of horror since the '90s has been the true crime thriller "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Some of the greatest movie villains of all time appear in films where they are the main focus",
-          "• This is most prominent in the horror and thriller genres with films such as Halloween, Friday the 13th, The Silence of the Lambs or Seven"
-        ],
-        "hopeful_bullets": [
-          "• Some of the greatest movie villains of all time appear in films where they are the main focus",
-          "• This is most prominent in the horror and thriller genres with films such as Halloween, Friday the 13th, The Silence of the Lambs or Seven"
-        ],
-        "stakes_bullets": [
-          "• Some of the greatest movie villains of all time appear in films where they are the main focus",
-          "• This is most prominent in the horror and thriller genres with films such as Halloween, Friday the 13th, The Silence of the Lambs or Seven",
-          "• One of the most popular forms of horror since the '90s has been the true crime thriller "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "43ce91801aaf"
-    },
-    {
       "id": "ac72c577779b",
       "title": "Trump news at a glance: Another Republican challenges Trump over Epstein files",
       "outlet": "US news | The Guardian",
@@ -6164,41 +6168,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "08e61c87efae"
-    },
-    {
-      "id": "01c2d83d5c28",
-      "title": "Prime Video's The Expanse Officially Resurrected Hard Sci-Fi for the 21st Century",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/the-expanse-resurrected-hard-sci-fi/",
-      "published_at": "Mon, 17 Nov 2025 00:05:11 GMT",
-      "bullets": [
-        "• The Expanse is one of the rare hard sci-fi epics that actually feel exciting and human and entirely plausible",
-        "• Amazon Prime Video picked it up in 2019",
-        "• The show is the answer to Star Trek without the utopia",
-        "• It takes the cold mechanics of space travel, like limited fuel, zero gravity and fragile alliances, and turns them into compelling high drama "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Expanse is one of the rare hard sci-fi epics that actually feel exciting and human and entirely plausible",
-          "• Amazon Prime Video picked it up in 2019"
-        ],
-        "hopeful_bullets": [
-          "• The Expanse is one of the rare hard sci-fi epics that actually feel exciting and human and entirely plausible",
-          "• Amazon Prime Video picked it up in 2019"
-        ],
-        "stakes_bullets": [
-          "• The Expanse is one of the rare hard sci-fi epics that actually feel exciting and human and entirely plausible",
-          "• Amazon Prime Video picked it up in 2019",
-          "• The show is the answer to Star Trek without the utopia"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "3b2b4422d476"
     },
     {
       "id": "65ae80c8fcc4",
@@ -8934,7 +8903,7 @@
           "• Bugonia is expanding wide, after debuting with a promising $709,848 last weekend from 17 theaters"
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 1,
       "cluster_id": "030bb76c9ac3"
     },
     {
@@ -9332,6 +9301,24 @@
       ]
     },
     {
+      "id": "24eb4b5590ba",
+      "topic": "alleged another attack boat",
+      "keywords": [
+        "alleged",
+        "another",
+        "attack",
+        "boat",
+        "drug",
+        "pacific"
+      ],
+      "item_ids": [
+        "5da65f23b8f1"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "e738796806cb",
       "topic": "another challenge epstein glance",
       "keywords": [
@@ -9344,24 +9331,6 @@
       ],
       "item_ids": [
         "ac72c577779b"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "24eb4b5590ba",
-      "topic": "alleged another attack boat",
-      "keywords": [
-        "alleged",
-        "another",
-        "attack",
-        "boat",
-        "drug",
-        "military"
-      ],
-      "item_ids": [
-        "5da65f23b8f1"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9509,6 +9478,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "3c30ba3cabb1",
+      "topic": "house release republican shift",
+      "keywords": [
+        "house",
+        "release",
+        "republican",
+        "shift",
+        "trump",
+        "vote"
+      ],
+      "item_ids": [
+        "d8134abae323"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9674,21 +9661,21 @@
       ]
     },
     {
-      "id": "290133f50b2b",
-      "topic": "combat find npr peace",
+      "id": "5f201253972c",
+      "topic": "alibaba chinese helping military",
       "keywords": [
-        "combat",
-        "find",
-        "npr",
-        "peace",
-        "vet",
-        "war"
+        "alibaba",
+        "chinese",
+        "helping",
+        "military",
+        "target",
+        "white"
       ],
       "item_ids": [
-        "ad4b92322a6d"
+        "fe41c7462f89"
       ],
       "outlets": [
-        "NPR Topics: News"
+        "US Top News and Analysis"
       ]
     },
     {
@@ -9728,15 +9715,15 @@
       ]
     },
     {
-      "id": "f52eb7b89261",
-      "topic": "china exposed japan sink",
+      "id": "ffedfd913da2",
+      "topic": "china dispatch envoy japan",
       "keywords": [
         "china",
-        "exposed",
+        "dispatch",
+        "envoy",
         "japan",
-        "sink",
-        "stock",
-        "tourism"
+        "nhk",
+        "senior"
       ],
       "item_ids": [
         "65ea906ca669"
@@ -9764,24 +9751,6 @@
       ]
     },
     {
-      "id": "7491bdfd1acb",
-      "topic": "contract economy expected japan",
-      "keywords": [
-        "contract",
-        "economy",
-        "expected",
-        "japan",
-        "less",
-        "third"
-      ],
-      "item_ids": [
-        "4e129d6ed262"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "d81825a5e80f",
       "topic": "defense junior people replacing",
       "keywords": [
@@ -9800,6 +9769,24 @@
       ]
     },
     {
+      "id": "7491bdfd1acb",
+      "topic": "contract economy expected japan",
+      "keywords": [
+        "contract",
+        "economy",
+        "expected",
+        "japan",
+        "less",
+        "third"
+      ],
+      "item_ids": [
+        "4e129d6ed262"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "9443841f4447",
       "topic": "american bitcoin heating home",
       "keywords": [
@@ -9811,24 +9798,6 @@
       ],
       "item_ids": [
         "4efe685beed1"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "43209f9fe846",
-      "topic": "ford headquarter inside kitchen",
-      "keywords": [
-        "ford",
-        "headquarter",
-        "inside",
-        "kitchen",
-        "scratch",
-        "world"
-      ],
-      "item_ids": [
-        "c885a9718a47"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9853,18 +9822,18 @@
       ]
     },
     {
-      "id": "f967b8363533",
-      "topic": "college grad make promised",
+      "id": "43209f9fe846",
+      "topic": "ford headquarter inside kitchen",
       "keywords": [
-        "college",
-        "grad",
-        "make",
-        "promised",
-        "puts",
-        "squeeze"
+        "ford",
+        "headquarter",
+        "inside",
+        "kitchen",
+        "scratch",
+        "world"
       ],
       "item_ids": [
-        "7f5e72fa3bd7"
+        "c885a9718a47"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10810,24 +10779,6 @@
       ],
       "item_ids": [
         "ee347fc3324c"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "c62d70f8411a",
-      "topic": "email epstein health politic",
-      "keywords": [
-        "email",
-        "epstein",
-        "health",
-        "politic",
-        "response",
-        "week"
-      ],
-      "item_ids": [
-        "c38a58829921"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -12357,6 +12308,23 @@
       ]
     },
     {
+      "id": "7f680b5fb55d",
+      "topic": "face orrimaarko prune tvc15",
+      "keywords": [
+        "face",
+        "orrimaarko",
+        "prune",
+        "tvc15",
+        "vc114"
+      ],
+      "item_ids": [
+        "234ad8f6ea3d"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
       "id": "b70fd23055da",
       "topic": "construction lightsaber luke skywalker",
       "keywords": [
@@ -12469,21 +12437,6 @@
       ],
       "item_ids": [
         "8b1cea2bb6c0"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "9127ee1a5b96",
-      "topic": "lumat tvc15 vc104",
-      "keywords": [
-        "lumat",
-        "tvc15",
-        "vc104"
-      ],
-      "item_ids": [
-        "4b78fbb505ee"
       ],
       "outlets": [
         "Jedi Temple Archives"
@@ -12994,179 +12947,179 @@
       ]
     },
     {
-      "id": "7a1b3e3e90dc",
-      "topic": "finally itadori jjk modulo",
+      "id": "afae10f5e3ad",
+      "topic": "clevates crunchyroll debuted first",
       "keywords": [
-        "finally",
-        "itadori",
-        "jjk",
-        "modulo",
-        "reveal",
-        "yuji"
-      ],
-      "item_ids": [
-        "43a8dbde830f"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "3e5692c0769d",
-      "topic": "ended era fantasy game",
-      "keywords": [
-        "ended",
-        "era",
-        "fantasy",
-        "game",
-        "officially",
-        "throne"
-      ],
-      "item_ids": [
-        "7e1f5c2d7fd3"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "cfead19fc3c8",
-      "topic": "character dcu deserve movie",
-      "keywords": [
-        "character",
-        "dcu",
-        "deserve",
-        "movie",
-        "rated"
-      ],
-      "item_ids": [
-        "6afbfbe7f202"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "48b99d8be9eb",
-      "topic": "episode generation next star",
-      "keywords": [
-        "episode",
-        "generation",
-        "next",
-        "star",
-        "trek",
-        "underrated"
-      ],
-      "item_ids": [
-        "f7d4add14051"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "df60366e4b39",
-      "topic": "free open play rpg",
-      "keywords": [
-        "free",
-        "open",
-        "play",
-        "rpg",
-        "very",
-        "world"
-      ],
-      "item_ids": [
-        "9904e931e1ad"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "88b486b25105",
-      "topic": "art ball dragon goku",
-      "keywords": [
-        "art",
-        "ball",
-        "dragon",
-        "goku",
-        "rare",
-        "revive"
-      ],
-      "item_ids": [
-        "86ae77046375"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "ab9c934ffcc8",
-      "topic": "dark first harry hid",
-      "keywords": [
-        "dark",
+        "clevates",
+        "crunchyroll",
+        "debuted",
         "first",
-        "harry",
-        "hid",
-        "movie",
-        "potter"
+        "quietly",
+        "season"
       ],
       "item_ids": [
-        "ffc29a9bd065"
+        "dc29b36b5772"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "86c7d8422d0d",
-      "topic": "appear dcu project set",
+      "id": "9937aa9630c6",
+      "topic": "adaptation batman best clayface",
       "keywords": [
-        "appear",
-        "dcu",
-        "project",
-        "set",
-        "upcoming",
-        "villain"
+        "adaptation",
+        "batman",
+        "best",
+        "clayface",
+        "ranked"
       ],
       "item_ids": [
-        "0dd6ebb3d7d6"
+        "a0f39d751324"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "43ce91801aaf",
-      "topic": "define lamb later silence",
+      "id": "283005cb519f",
+      "topic": "called creature feature masterpiece",
       "keywords": [
-        "define",
-        "lamb",
-        "later",
-        "silence",
+        "called",
+        "creature",
+        "feature",
+        "masterpiece",
+        "quentin",
+        "tarantino"
+      ],
+      "item_ids": [
+        "9be1c388698a"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "7b81cc6daa67",
+      "topic": "2021 adaptation hit night",
+      "keywords": [
+        "2021",
+        "adaptation",
+        "hit",
+        "night",
+        "shyamalan",
+        "very"
+      ],
+      "item_ids": [
+        "fc0666eb4cb8"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "1f900a5363a6",
+      "topic": "blooded gundam iconic iron",
+      "keywords": [
+        "blooded",
+        "gundam",
+        "iconic",
+        "iron",
+        "most",
+        "orphan"
+      ],
+      "item_ids": [
+        "be9b69cf9ec3"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "f3f934e1cd93",
+      "topic": "1166 chapter date piece",
+      "keywords": [
+        "1166",
+        "chapter",
+        "date",
+        "piece",
+        "release",
+        "time"
+      ],
+      "item_ids": [
+        "7b8e98213c7c"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "ef3510f61e23",
+      "topic": "2010 art best book",
+      "keywords": [
+        "2010",
+        "art",
+        "best",
+        "book",
+        "comic",
+        "ranked"
+      ],
+      "item_ids": [
+        "887071f3f60e"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "71e2599c420e",
+      "topic": "50s classic masterpiece still",
+      "keywords": [
+        "50s",
+        "classic",
+        "masterpiece",
         "still",
-        "year"
+        "today",
+        "western"
       ],
       "item_ids": [
-        "3b453d19412f"
+        "69b31dece384"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "3b2b4422d476",
-      "topic": "expanse hard officially prime",
+      "id": "32b66c02a1c6",
+      "topic": "darkest derry officially set",
       "keywords": [
-        "expanse",
-        "hard",
+        "darkest",
+        "derry",
         "officially",
-        "prime",
-        "resurrected",
-        "video"
+        "set",
+        "stephen",
+        "welcome"
       ],
       "item_ids": [
-        "01c2d83d5c28"
+        "a9a1e07afcda"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "78264bb6a1a5",
+      "topic": "confirm derry finally origin",
+      "keywords": [
+        "confirm",
+        "derry",
+        "finally",
+        "origin",
+        "pennywise",
+        "welcome"
+      ],
+      "item_ids": [
+        "8376a4bf824a"
       ],
       "outlets": [
         "CBR"
