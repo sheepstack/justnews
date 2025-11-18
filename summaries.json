@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-18T05:05:56Z",
+  "generated_at": "2025-11-18T06:01:16Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -933,29 +933,26 @@
       "url": "https://www.theguardian.com/us-news/2025/nov/17/oakland-football-coach-murder-john-beam",
       "published_at": "Tue, 18 Nov 2025 03:12:12 GMT",
       "bullets": [
-        "• The suspect is being held without bail",
-        "• He is accused of shooting a man in the head with a gun in Oakland, California",
-        "• The victim is believed to have been in the care of authorities",
-        "• The suspect has been charged with murder in connection with the shooting "
+        "• A 27-year-old man has been charged with murder in the shooting death of John Beam",
+        "• Beam was widely recognized after his appearance on the Netflix series Last Chance U five years ago",
+        "• He is scheduled to be arraigned on Tuesday and could face life in prison if convicted "
       ],
       "category": "US",
       "sentiment": {
-        "label": "negative",
-        "score": 0.982
+        "label": "positive",
+        "score": 0.728
       },
       "moods": {
         "brief_bullets": [
-          "• The suspect is being held without bail",
-          "• He is accused of shooting a man in the head with a gun in Oakland, California"
+          "• A 27-year-old man has been charged with murder in the shooting death of John Beam",
+          "• Beam was widely recognized after his appearance on the Netflix series Last Chance U five years ago"
         ],
         "hopeful_bullets": [
-          "• The suspect is being held without bail",
-          "• He is accused of shooting a man in the head with a gun in Oakland, California"
+          "• A 27-year-old man has been charged with murder in the shooting death of John Beam",
+          "• Beam was widely recognized after his appearance on the Netflix series Last Chance U five years ago"
         ],
         "stakes_bullets": [
-          "• The suspect is being held without bail",
-          "• He is accused of shooting a man in the head with a gun in Oakland, California",
-          "• The victim is believed to have been in the care of authorities"
+          "• He is scheduled to be arraigned on Tuesday and could face life in prison if convicted "
         ]
       },
       "read_minutes": 3,
@@ -1453,6 +1450,39 @@
       },
       "read_minutes": 4,
       "cluster_id": "ad2cc35a71f7"
+    },
+    {
+      "id": "44691b9cc9a7",
+      "title": "A surprising CBD advance calms pain without side effects",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251117095652.htm",
+      "published_at": "Tue, 18 Nov 2025 00:26:39 EST",
+      "bullets": [
+        "• Researchers developed a new nano-micelle formulation, CBD-IN, that finally gets CBD into the brain effectively",
+        "• In mice, it relieved neuropathic pain quickly and didnât cause the usual movement or memory side effects",
+        "• Surprisingly, the pain relief didnâ't use typical cannabinoid receptors, instead calming abnormal nerve activity more directly",
+        "• The findings hint at new avenues for treating chronic pain and neurological diseases "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Researchers developed a new nano-micelle formulation, CBD-IN, that finally gets CBD into the brain effectively",
+          "• In mice, it relieved neuropathic pain quickly and didnât cause the usual movement or memory side effects"
+        ],
+        "hopeful_bullets": [
+          "• Surprisingly, the pain relief didnâ't use typical cannabinoid receptors, instead calming abnormal nerve activity more directly"
+        ],
+        "stakes_bullets": [
+          "• Researchers developed a new nano-micelle formulation, CBD-IN, that finally gets CBD into the brain effectively",
+          "• In mice, it relieved neuropathic pain quickly and didnât cause the usual movement or memory side effects"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "6570aa9e7f68"
     },
     {
       "id": "a2dfa6a75d15",
@@ -3002,39 +3032,6 @@
       "cluster_id": "98d513aaef61"
     },
     {
-      "id": "b7e62d79090a",
-      "title": "Physicists reveal a new quantum state where electrons run wild",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251116105625.htm",
-      "published_at": "Sun, 16 Nov 2025 10:56:25 EST",
-      "bullets": [
-        "• Physicists reveal a new quantum state where electrons run wild",
-        "• Researchers identify how to tune these transitions and even discovered a bizarre âpinballâ state",
-        "• Their simulations help explain how these phases form and how they might be harnessed for advanced quantum technologies "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.64
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Physicists reveal a new quantum state where electrons run wild",
-          "• Researchers identify how to tune these transitions and even discovered a bizarre âpinballâ state"
-        ],
-        "hopeful_bullets": [
-          "• Their simulations help explain how these phases form and how they might be harnessed for advanced quantum technologies "
-        ],
-        "stakes_bullets": [
-          "• Physicists reveal a new quantum state where electrons run wild",
-          "• Researchers identify how to tune these transitions and even discovered a bizarre âpinballâ state",
-          "• Their simulations help explain how these phases form and how they might be harnessed for advanced quantum technologies "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "c3878edcdf5c"
-    },
-    {
       "id": "3b002a92ca00",
       "title": "Scorching Saturdays: The Rising Heat Threat Inside Football Stadiums",
       "outlet": "Inside Climate News",
@@ -4471,6 +4468,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "9c305a398229"
+    },
+    {
+      "id": "7747bda9b2c8",
+      "title": "This tiny quantum clock packs a billion-fold energy mystery",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251117091138.htm",
+      "published_at": "Mon, 17 Nov 2025 21:49:45 EST",
+      "bullets": [
+        "• Scientists built a tiny clock from single-electron jumps to probe the true energy cost of quantum timekeeping",
+        "• They discovered that reading the clockâs output requires vastly more energy than the clock uses to function",
+        "• This measurement process also drives the irreversibility that defines timeâs forward direction "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.84
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists built a tiny clock from single-electron jumps to probe the true energy cost of quantum timekeeping",
+          "• They discovered that reading the clockâs output requires vastly more energy than the clock uses to function"
+        ],
+        "hopeful_bullets": [
+          "• Scientists built a tiny clock from single-electron jumps to probe the true energy cost of quantum timekeeping",
+          "• They discovered that reading the clockâs output requires vastly more energy than the clock uses to function"
+        ],
+        "stakes_bullets": [
+          "• They discovered that reading the clockâs output requires vastly more energy than the clock uses to function"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "16b46ec2ffb0"
     },
     {
       "id": "465b7a25ba5b",
@@ -7297,38 +7326,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "62323f08b29c"
-    },
-    {
-      "id": "084d1fe25f19",
-      "title": "The hidden brain bias that makes some lies so convincing",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251116105629.htm",
-      "published_at": "Mon, 17 Nov 2025 07:38:54 EST",
-      "bullets": [
-        "• Neuroimaging shows that the brain shifts into reward or risk mode depending on whether the context involves a gain or a loss",
-        "• People are more likely to believe lies when thereâs the possibility of a reward",
-        "• Brain synchrony and reward expectations can make lies from friends surprisingly convincing "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.96
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Neuroimaging shows that the brain shifts into reward or risk mode depending on whether the context involves a gain or a loss",
-          "• People are more likely to believe lies when thereâs the possibility of a reward"
-        ],
-        "hopeful_bullets": [
-          "• Neuroimaging shows that the brain shifts into reward or risk mode depending on whether the context involves a gain or a loss",
-          "• People are more likely to believe lies when thereâs the possibility of a reward"
-        ],
-        "stakes_bullets": [
-          "• Neuroimaging shows that the brain shifts into reward or risk mode depending on whether the context involves a gain or a loss"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b908d8a970e8"
     },
     {
       "id": "0e4d19603457",
@@ -10672,6 +10669,24 @@
       ]
     },
     {
+      "id": "6570aa9e7f68",
+      "topic": "advance calm cbd pain",
+      "keywords": [
+        "advance",
+        "calm",
+        "cbd",
+        "pain",
+        "surprising",
+        "without"
+      ],
+      "item_ids": [
+        "44691b9cc9a7"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "5aae28863420",
       "topic": "ancient help reveal secret",
       "keywords": [
@@ -10684,6 +10699,24 @@
       ],
       "item_ids": [
         "e2dbb7e59fb5"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "16b46ec2ffb0",
+      "topic": "billion clock fold pack",
+      "keywords": [
+        "billion",
+        "clock",
+        "fold",
+        "pack",
+        "quantum",
+        "tiny"
+      ],
+      "item_ids": [
+        "7747bda9b2c8"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10810,42 +10843,6 @@
       ],
       "item_ids": [
         "0cc46025f22e"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "b908d8a970e8",
-      "topic": "bias brain hidden lies",
-      "keywords": [
-        "bias",
-        "brain",
-        "hidden",
-        "lies",
-        "make",
-        "some"
-      ],
-      "item_ids": [
-        "084d1fe25f19"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "c3878edcdf5c",
-      "topic": "electron physicist quantum reveal",
-      "keywords": [
-        "electron",
-        "physicist",
-        "quantum",
-        "reveal",
-        "run",
-        "state"
-      ],
-      "item_ids": [
-        "b7e62d79090a"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
