@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T11:02:41Z",
+  "generated_at": "2025-11-19T11:20:04Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -71,15 +71,79 @@
       "cluster_id": "f01e02329f03"
     },
     {
+      "id": "b79c8d5d61dd",
+      "title": "A small Texas think tank cultivated COVID dissidents. Now they’re running U.S. health policy.",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17212311/austin-brownstone-institute-trump-health-vaccine",
+      "published_at": "Wed, 19 Nov 2025 11:00:00 +0000",
+      "bullets": [
+        "• Members of the new panel of experts say the vaccine is not proven to have caused birth defects",
+        "• They say it was one of several instances where the children were born with the vaccine were born without the vaccine",
+        "• The new panel has a history of controversy surrounding the vaccine, including the death of children with autism "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Members of the new panel of experts say the vaccine is not proven to have caused birth defects",
+          "• They say it was one of several instances where the children were born with the vaccine were born without the vaccine"
+        ],
+        "hopeful_bullets": [
+          "• Members of the new panel of experts say the vaccine is not proven to have caused birth defects",
+          "• They say it was one of several instances where the children were born with the vaccine were born without the vaccine"
+        ],
+        "stakes_bullets": [
+          "• Members of the new panel of experts say the vaccine is not proven to have caused birth defects"
+        ]
+      },
+      "read_minutes": 13,
+      "cluster_id": "60f252e56d76"
+    },
+    {
+      "id": "ad2b30cef983",
+      "title": "England to ban plastic wet wipes in a bid to clean up rivers and seas",
+      "outlet": "Positive News",
+      "url": "https://www.positive.news/environment/england-to-ban-plastic-wet-wipes/",
+      "published_at": "Wed, 19 Nov 2025 10:57:33 +0000",
+      "bullets": [
+        "• Ban aims to protect waterways, curb microplastic pollution and end the scourge of ‘fatbergs’ The law now sets a firm deadline, giving businesses until spring 2027 to comply",
+        "• Spain is also preparing legislation to ban all wet wipes from sale "
+      ],
+      "category": "Good News",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.959
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ban aims to protect waterways, curb microplastic pollution and end the scourge of ‘fatbergs’ The law now sets a firm deadline, giving businesses until spring 2027 to comply",
+          "• Spain is also preparing legislation to ban all wet wipes from sale "
+        ],
+        "hopeful_bullets": [
+          "• Ban aims to protect waterways, curb microplastic pollution and end the scourge of ‘fatbergs’ The law now sets a firm deadline, giving businesses until spring 2027 to comply",
+          "• Spain is also preparing legislation to ban all wet wipes from sale "
+        ],
+        "stakes_bullets": [
+          "• Ban aims to protect waterways, curb microplastic pollution and end the scourge of ‘fatbergs’ The law now sets a firm deadline, giving businesses until spring 2027 to comply",
+          "• Spain is also preparing legislation to ban all wet wipes from sale "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "53a01d85b993"
+    },
+    {
       "id": "9115d5d26c9c",
       "title": "Blip, dip, pullback or the beginning of the end? Global investors weigh in on equities sell-off",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/11/19/blip-dip-or-pullback-global-investors-weigh-in-on-equities-sell-off.html",
-      "published_at": "Wed, 19 Nov 2025 10:34:08 GMT",
+      "published_at": "Wed, 19 Nov 2025 10:42:23 GMT",
       "bullets": [
         "• European and Asia markets have seen days of consecutive losses as pressures mount on AI-related stocks",
         "• The pan-European Stoxx 600 on Tuesday notched its lowest level in a month",
-        "• Emma Wall, head of investment analysis at Hargreaves Lansdown, says this is not the beginning of a bear market "
+        "• Emma Wall, head of investment analysis at Hargreaves Lansdown, says this is an AI specific pullback "
       ],
       "category": "Business",
       "sentiment": {
@@ -101,6 +165,40 @@
       },
       "read_minutes": 3,
       "cluster_id": "b5bb899000b0"
+    },
+    {
+      "id": "38433b67d18f",
+      "title": "Russian attack hits flats in one of deadliest strikes on western Ukraine",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 19 Nov 2025 10:34:35 GMT",
+      "bullets": [
+        "• Russian attack hits flats in one of deadliest strikes on western Ukraine since full-scale war began in February 2022",
+        "• Among the 64 wounded were 14 children, police said",
+        "• Two other western regions were hit, Lviv and Ivano-Frankivsk, and a drone attack targeted three districts of the northern city of Kharkiv "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.962
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Russian attack hits flats in one of deadliest strikes on western Ukraine since full-scale war began in February 2022",
+          "• Among the 64 wounded were 14 children, police said"
+        ],
+        "hopeful_bullets": [
+          "• Russian attack hits flats in one of deadliest strikes on western Ukraine since full-scale war began in February 2022",
+          "• Among the 64 wounded were 14 children, police said"
+        ],
+        "stakes_bullets": [
+          "• Russian attack hits flats in one of deadliest strikes on western Ukraine since full-scale war began in February 2022",
+          "• Among the 64 wounded were 14 children, police said",
+          "• Two other western regions were hit, Lviv and Ivano-Frankivsk, and a drone attack targeted three districts of the northern city of Kharkiv "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "f6d53d0faf2d"
     },
     {
       "id": "2687b326c119",
@@ -135,40 +233,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "32e68fb1a546"
-    },
-    {
-      "id": "38433b67d18f",
-      "title": "Russian strike on flats kills 10 in one of deadliest attacks on western Ukraine",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 19 Nov 2025 10:17:59 GMT",
-      "bullets": [
-        "• Russian strike on flats kills 10 in one of deadliest attacks on western Ukraine",
-        "• Among the wounded were 12 children, says Ukraine's interior minister Ihor Klymenko",
-        "• Two other western regions were hit, Lviv and Ivano-Frankivsk, and a drone attack targeted three districts of the northern city of Kharkiv "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Russian strike on flats kills 10 in one of deadliest attacks on western Ukraine",
-          "• Among the wounded were 12 children, says Ukraine's interior minister Ihor Klymenko"
-        ],
-        "hopeful_bullets": [
-          "• Russian strike on flats kills 10 in one of deadliest attacks on western Ukraine",
-          "• Among the wounded were 12 children, says Ukraine's interior minister Ihor Klymenko"
-        ],
-        "stakes_bullets": [
-          "• Russian strike on flats kills 10 in one of deadliest attacks on western Ukraine",
-          "• Among the wounded were 12 children, says Ukraine's interior minister Ihor Klymenko",
-          "• Two other western regions were hit, Lviv and Ivano-Frankivsk, and a drone attack targeted three districts of the northern city of Kharkiv "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f73073c5d01b"
     },
     {
       "id": "fd0c9219738b",
@@ -1003,40 +1067,6 @@
       "cluster_id": "55d56fdeb2a8"
     },
     {
-      "id": "08192b918b07",
-      "title": "Poll: Democrats have biggest advantage for control of Congress in 8 years",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/19/nx-s1-5611088/poll-democrats-republicans-trump-approval-inflation",
-      "published_at": "Wed, 19 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• Poll: Democrats have biggest advantage for control of Congress in 8 years",
-        "• A combined 6-in-10 blame congressional Republicans or Trump for the government shutdown",
-        "• President Trump's approval rating is just 39%, his lowest since the January 6, 2021 attack on the Capitol "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Poll: Democrats have biggest advantage for control of Congress in 8 years",
-          "• A combined 6-in-10 blame congressional Republicans or Trump for the government shutdown"
-        ],
-        "hopeful_bullets": [
-          "• Poll: Democrats have biggest advantage for control of Congress in 8 years",
-          "• A combined 6-in-10 blame congressional Republicans or Trump for the government shutdown"
-        ],
-        "stakes_bullets": [
-          "• Poll: Democrats have biggest advantage for control of Congress in 8 years",
-          "• A combined 6-in-10 blame congressional Republicans or Trump for the government shutdown",
-          "• President Trump's approval rating is just 39%, his lowest since the January 6, 2021 attack on the Capitol "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "f0699e4e3af6"
-    },
-    {
       "id": "6168d0d8a366",
       "title": "Trump's National Guard deployments face mounting legal pushback",
       "outlet": "NPR Topics: News",
@@ -1070,6 +1100,40 @@
       },
       "read_minutes": 4,
       "cluster_id": "01c458b04124"
+    },
+    {
+      "id": "08192b918b07",
+      "title": "Poll: Democrats have biggest advantage for control of Congress in 8 years",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/19/nx-s1-5611088/poll-democrats-republicans-trump-approval-inflation",
+      "published_at": "Wed, 19 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• Poll: Democrats have biggest advantage for control of Congress in 8 years",
+        "• A combined 6-in-10 blame congressional Republicans or Trump for the government shutdown",
+        "• President Trump's approval rating is just 39%, his lowest since the January 6, 2021 attack on the Capitol "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Poll: Democrats have biggest advantage for control of Congress in 8 years",
+          "• A combined 6-in-10 blame congressional Republicans or Trump for the government shutdown"
+        ],
+        "hopeful_bullets": [
+          "• Poll: Democrats have biggest advantage for control of Congress in 8 years",
+          "• A combined 6-in-10 blame congressional Republicans or Trump for the government shutdown"
+        ],
+        "stakes_bullets": [
+          "• Poll: Democrats have biggest advantage for control of Congress in 8 years",
+          "• A combined 6-in-10 blame congressional Republicans or Trump for the government shutdown",
+          "• President Trump's approval rating is just 39%, his lowest since the January 6, 2021 attack on the Capitol "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "f0699e4e3af6"
     },
     {
       "id": "be6fc8c3f257",
@@ -2157,6 +2221,103 @@
       },
       "read_minutes": 40,
       "cluster_id": "4d68b7d6cb41"
+    },
+    {
+      "id": "25d13680ecc7",
+      "title": "Available! Steven Kostanski’s Critically Acclaimed “Deathstalker” Now on Digital and On Demand",
+      "outlet": "HorrorFix",
+      "url": "https://horror-fix.com/available-steven-kostanskis-critically-acclaimed-deathstalker-now-on-digital-and-on-demand/",
+      "published_at": "Wed, 12 Nov 2025 20:51:57 +0000",
+      "bullets": [
+        "• Critically acclaimed reimagining of Roger Corman’s cult sword and sorcery film series Deathstalker will be available for digital download and on demand on all major platforms November 11, 2025 from Shout! Studios, a Radial Entertainment Company",
+        "• Starring Daniel Bernhardt (John Wick, The Matrix Reloaded) with Patton Oswalt (Young Adult, Ghostbusters: Frozen Empire)"
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Critically acclaimed reimagining of Roger Corman’s cult sword and sorcery film series Deathstalker will be available for digital download and on demand on all major platforms November 11, 2025 from Shout! Studios, a Radial Entertainment Company",
+          "• Starring Daniel Bernhardt (John Wick, The Matrix Reloaded) with Patton Oswalt (Young Adult, Ghostbusters: Frozen Empire)"
+        ],
+        "hopeful_bullets": [
+          "• Critically acclaimed reimagining of Roger Corman’s cult sword and sorcery film series Deathstalker will be available for digital download and on demand on all major platforms November 11, 2025 from Shout! Studios, a Radial Entertainment Company",
+          "• Starring Daniel Bernhardt (John Wick, The Matrix Reloaded) with Patton Oswalt (Young Adult, Ghostbusters: Frozen Empire)"
+        ],
+        "stakes_bullets": [
+          "• Critically acclaimed reimagining of Roger Corman’s cult sword and sorcery film series Deathstalker will be available for digital download and on demand on all major platforms November 11, 2025 from Shout! Studios, a Radial Entertainment Company"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "1ba328aec7bf"
+    },
+    {
+      "id": "c4fda1575bfb",
+      "title": "Scream Factory TV ﻿Holiday Programming Guide 2025",
+      "outlet": "HorrorFix",
+      "url": "https://horror-fix.com/scream-factory-tv-holiday-programming-guide-2025/",
+      "published_at": "Wed, 12 Nov 2025 20:48:37 +0000",
+      "bullets": [
+        "• Scream Factory TV’s Holiday Programming Guide 2025: Your Ultimate FAST Channel and Digital Watch List for Horror Fans",
+        "• Cyber Monday Marathon: Silent Night, Deadly Night 2: 24 Hour Marathon; Black Christmas: Silent Christmas; Silent Night 2",
+        "• Scream TV Christmas: 24-hour marathon: Black Christmas "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.962
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scream Factory TV’s Holiday Programming Guide 2025: Your Ultimate FAST Channel and Digital Watch List for Horror Fans",
+          "• Cyber Monday Marathon: Silent Night, Deadly Night 2: 24 Hour Marathon; Black Christmas: Silent Christmas; Silent Night 2"
+        ],
+        "hopeful_bullets": [
+          "• Scream Factory TV’s Holiday Programming Guide 2025: Your Ultimate FAST Channel and Digital Watch List for Horror Fans",
+          "• Cyber Monday Marathon: Silent Night, Deadly Night 2: 24 Hour Marathon; Black Christmas: Silent Christmas; Silent Night 2"
+        ],
+        "stakes_bullets": [
+          "• Scream Factory TV’s Holiday Programming Guide 2025: Your Ultimate FAST Channel and Digital Watch List for Horror Fans",
+          "• Cyber Monday Marathon: Silent Night, Deadly Night 2: 24 Hour Marathon; Black Christmas: Silent Christmas; Silent Night 2",
+          "• Scream TV Christmas: 24-hour marathon: Black Christmas "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f84cb79cb4cd"
+    },
+    {
+      "id": "a53970f50841",
+      "title": "Cult Classic MY APOCALYPTIC THANKSGIVING  Now on TUBI for the Holidays!",
+      "outlet": "HorrorFix",
+      "url": "https://horror-fix.com/cult-classic-my-apocalyptic-thanksgiving-now-on-tubi-for-the-holidays/",
+      "published_at": "Wed, 12 Nov 2025 20:47:03 +0000",
+      "bullets": [
+        "• MY APOCALYPTIC THANKSGIVING is available to rent and own on global digital HD internet and satellite platforms NOW through Freestyle Digital Media",
+        "• The quirky cult classic tells about a zombie-obsessed, special needs adult searching for his absent mom while a Korean family and gang compete to be his family "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.962
+      },
+      "moods": {
+        "brief_bullets": [
+          "• MY APOCALYPTIC THANKSGIVING is available to rent and own on global digital HD internet and satellite platforms NOW through Freestyle Digital Media",
+          "• The quirky cult classic tells about a zombie-obsessed, special needs adult searching for his absent mom while a Korean family and gang compete to be his family "
+        ],
+        "hopeful_bullets": [
+          "• MY APOCALYPTIC THANKSGIVING is available to rent and own on global digital HD internet and satellite platforms NOW through Freestyle Digital Media",
+          "• The quirky cult classic tells about a zombie-obsessed, special needs adult searching for his absent mom while a Korean family and gang compete to be his family "
+        ],
+        "stakes_bullets": [
+          "• MY APOCALYPTIC THANKSGIVING is available to rent and own on global digital HD internet and satellite platforms NOW through Freestyle Digital Media",
+          "• The quirky cult classic tells about a zombie-obsessed, special needs adult searching for his absent mom while a Korean family and gang compete to be his family "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a17f747e8ac1"
     },
     {
       "id": "90ec86c3d672",
@@ -4115,42 +4276,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "3e8370d8eebc"
-    },
-    {
-      "id": "c15e839cfa2a",
-      "title": "Gov. Greg Abbott seeks to ban two Muslim groups and their members from owning land in Texas",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17211731/greg-abbott-muslim-land-ownership-ban",
-      "published_at": "Tue, 18 Nov 2025 17:52:42 +0000",
-      "bullets": [
-        "• Gov",
-        "• Greg Abbott names Muslim Brotherhood and Council on American-Islamic Relations as terrorist organizations",
-        "• CAIR and the Muslim Brotherhood are not listed on the U.S",
-        "• State Department’s list of terrorist groups",
-        "• The Muslim Brotherhood is a multinational organization with no central figure, founded in 1928 in Egypt "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Gov",
-          "• Greg Abbott names Muslim Brotherhood and Council on American-Islamic Relations as terrorist organizations"
-        ],
-        "hopeful_bullets": [
-          "• Gov",
-          "• Greg Abbott names Muslim Brotherhood and Council on American-Islamic Relations as terrorist organizations"
-        ],
-        "stakes_bullets": [
-          "• Gov",
-          "• Greg Abbott names Muslim Brotherhood and Council on American-Islamic Relations as terrorist organizations",
-          "• CAIR and the Muslim Brotherhood are not listed on the U.S"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "7e73662397e6"
     },
     {
       "id": "a0c7bc35fe6f",
@@ -6124,38 +6249,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "062e5dfb5e07"
-    },
-    {
-      "id": "1c04affec9e3",
-      "title": "Life after: Escaping the Taliban",
-      "outlet": "Positive News",
-      "url": "https://www.positive.news/society/life-after-escaping-the-taliban/",
-      "published_at": "Thu, 06 Nov 2025 07:00:55 +0000",
-      "bullets": [
-        "• Sara Wahedi was just four when she was forced to flee Afghanistan with her mother and brother",
-        "• She now works to hold regimes accountable via technology to hold them accountable via the internet",
-        "• She was forced out of her job as an English teacher by the Taliban in Afghanistan "
-      ],
-      "category": "Good News",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sara Wahedi was just four when she was forced to flee Afghanistan with her mother and brother",
-          "• She now works to hold regimes accountable via technology to hold them accountable via the internet"
-        ],
-        "hopeful_bullets": [
-          "• Sara Wahedi was just four when she was forced to flee Afghanistan with her mother and brother",
-          "• She now works to hold regimes accountable via technology to hold them accountable via the internet"
-        ],
-        "stakes_bullets": [
-          "• She was forced out of her job as an English teacher by the Taliban in Afghanistan "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "45a69d77e44c"
     },
     {
       "id": "174adc947b0f",
@@ -8889,13 +8982,13 @@
   ],
   "clusters": [
     {
-      "id": "f73073c5d01b",
-      "topic": "attack deadliest flat kill",
+      "id": "f6d53d0faf2d",
+      "topic": "attack deadliest flat hits",
       "keywords": [
         "attack",
         "deadliest",
         "flat",
-        "kill",
+        "hits",
         "russian",
         "strike"
       ],
@@ -9479,24 +9572,6 @@
       ]
     },
     {
-      "id": "f0699e4e3af6",
-      "topic": "advantage biggest congres control",
-      "keywords": [
-        "advantage",
-        "biggest",
-        "congres",
-        "control",
-        "democrat",
-        "poll"
-      ],
-      "item_ids": [
-        "08192b918b07"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "01c458b04124",
       "topic": "deployment face guard mounting",
       "keywords": [
@@ -9509,6 +9584,24 @@
       ],
       "item_ids": [
         "6168d0d8a366"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "f0699e4e3af6",
+      "topic": "advantage biggest congres control",
+      "keywords": [
+        "advantage",
+        "biggest",
+        "congres",
+        "control",
+        "democrat",
+        "poll"
+      ],
+      "item_ids": [
+        "08192b918b07"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -12077,6 +12170,60 @@
       ]
     },
     {
+      "id": "1ba328aec7bf",
+      "topic": "acclaimed available critically deathstalker",
+      "keywords": [
+        "acclaimed",
+        "available",
+        "critically",
+        "deathstalker",
+        "kostanski",
+        "steven"
+      ],
+      "item_ids": [
+        "25d13680ecc7"
+      ],
+      "outlets": [
+        "HorrorFix"
+      ]
+    },
+    {
+      "id": "f84cb79cb4cd",
+      "topic": "2025 factory guide holiday",
+      "keywords": [
+        "2025",
+        "factory",
+        "guide",
+        "holiday",
+        "programming",
+        "scream"
+      ],
+      "item_ids": [
+        "c4fda1575bfb"
+      ],
+      "outlets": [
+        "HorrorFix"
+      ]
+    },
+    {
+      "id": "a17f747e8ac1",
+      "topic": "apocalyptic classic cult now",
+      "keywords": [
+        "apocalyptic",
+        "classic",
+        "cult",
+        "now",
+        "thanksgiving",
+        "tubi"
+      ],
+      "item_ids": [
+        "a53970f50841"
+      ],
+      "outlets": [
+        "HorrorFix"
+      ]
+    },
+    {
       "id": "365c7cf22838",
       "topic": "calamari mon pilot rebel",
       "keywords": [
@@ -12544,6 +12691,24 @@
       ]
     },
     {
+      "id": "53a01d85b993",
+      "topic": "ban bid england plastic",
+      "keywords": [
+        "ban",
+        "bid",
+        "england",
+        "plastic",
+        "wet",
+        "wipe"
+      ],
+      "item_ids": [
+        "ad2b30cef983"
+      ],
+      "outlets": [
+        "Positive News"
+      ]
+    },
+    {
       "id": "e23c311a7cbd",
       "topic": "man opportunitie perfume prison",
       "keywords": [
@@ -12697,21 +12862,6 @@
       ],
       "item_ids": [
         "20da2ebd1e5c"
-      ],
-      "outlets": [
-        "Positive News"
-      ]
-    },
-    {
-      "id": "45a69d77e44c",
-      "topic": "escaping life taliban",
-      "keywords": [
-        "escaping",
-        "life",
-        "taliban"
-      ],
-      "item_ids": [
-        "1c04affec9e3"
       ],
       "outlets": [
         "Positive News"
@@ -13435,6 +13585,24 @@
       ]
     },
     {
+      "id": "60f252e56d76",
+      "topic": "covid cultivated small tank",
+      "keywords": [
+        "covid",
+        "cultivated",
+        "small",
+        "tank",
+        "texa",
+        "think"
+      ],
+      "item_ids": [
+        "b79c8d5d61dd"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "eb234dc96935",
       "topic": "back congressional ordered previou",
       "keywords": [
@@ -13573,24 +13741,6 @@
       ],
       "item_ids": [
         "564f3e03ad5c"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "7e73662397e6",
-      "topic": "abbott ban gov greg",
-      "keywords": [
-        "abbott",
-        "ban",
-        "gov",
-        "greg",
-        "muslim",
-        "seek"
-      ],
-      "item_ids": [
-        "c15e839cfa2a"
       ],
       "outlets": [
         "The Texas Tribune"
