@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T09:11:07Z",
+  "generated_at": "2025-11-20T10:02:06Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -835,40 +835,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "2d965a1e9959"
-    },
-    {
-      "id": "2bb16cbe81f0",
-      "title": "Did you lose your home in the Los Angeles wildfires? We’d like to hear how you’re spending the holidays",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/19/pacific-palisades-wildfires-los-angeles",
-      "published_at": "Wed, 19 Nov 2025 20:46:39 GMT",
-      "bullets": [
-        "• The Pacific Palisades fire killed 12 people and destroyed more than 6,800 structures earlier this year",
-        "• Altadena, where the Eaton fire killed 19 people, is struggling to rebuild almost a year after the disaster",
-        "• We speak to people who lost their homes in the wildfire and learn how they are approaching the holiday season "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Pacific Palisades fire killed 12 people and destroyed more than 6,800 structures earlier this year",
-          "• Altadena, where the Eaton fire killed 19 people, is struggling to rebuild almost a year after the disaster"
-        ],
-        "hopeful_bullets": [
-          "• The Pacific Palisades fire killed 12 people and destroyed more than 6,800 structures earlier this year",
-          "• Altadena, where the Eaton fire killed 19 people, is struggling to rebuild almost a year after the disaster"
-        ],
-        "stakes_bullets": [
-          "• The Pacific Palisades fire killed 12 people and destroyed more than 6,800 structures earlier this year",
-          "• Altadena, where the Eaton fire killed 19 people, is struggling to rebuild almost a year after the disaster",
-          "• We speak to people who lost their homes in the wildfire and learn how they are approaching the holiday season "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "cf7bc9a03c45"
     },
     {
       "id": "e15e46f6fda0",
@@ -1796,41 +1762,6 @@
       "cluster_id": "5f3218ef19e0"
     },
     {
-      "id": "e9ae3c69b67f",
-      "title": "How a twangy voice can help you be heard",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/19/nx-s1-5601868/how-a-twangy-voice-can-help-you-be-heard",
-      "published_at": "Wed, 19 Nov 2025 16:52:59 -0500",
-      "bullets": [
-        "• Researchers from Indiana University say twangy voices project better over noise",
-        "• They say it sounds like a children's taunting or a witch's cackling",
-        "• The voice quality, the timbre is related to Southern music",
-        "• It's also associated with pop rock, musical theater "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.911
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers from Indiana University say twangy voices project better over noise",
-          "• They say it sounds like a children's taunting or a witch's cackling"
-        ],
-        "hopeful_bullets": [
-          "• Researchers from Indiana University say twangy voices project better over noise",
-          "• They say it sounds like a children's taunting or a witch's cackling"
-        ],
-        "stakes_bullets": [
-          "• Researchers from Indiana University say twangy voices project better over noise",
-          "• They say it sounds like a children's taunting or a witch's cackling",
-          "• The voice quality, the timbre is related to Southern music"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "0cd1449ac788"
-    },
-    {
       "id": "edc394a87b3c",
       "title": "Divide over fossil fuels phaseout can be bridged, Cop30 president says",
       "outlet": "World news | The Guardian",
@@ -2709,6 +2640,38 @@
       },
       "read_minutes": 7,
       "cluster_id": "9dc8e42ecfec"
+    },
+    {
+      "id": "119fe6e4a309",
+      "title": "World Toilet Day is today! Um ... is that really the best name?",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/11/19/g-s1-98136/world-toilet-day-sanitation-sewage",
+      "published_at": "Wed, 19 Nov 2025 07:32:49 -0500",
+      "bullets": [
+        "• Nov",
+        "• 19 is World Toilet Day, which was declared by the United Nations in 2001",
+        "• The goal is to call attention to the 3.4 billion people who live without \"safely managed sanitation\" More than 300 million people engage in \"open defecation\" in the great outdoors "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.893
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nov",
+          "• 19 is World Toilet Day, which was declared by the United Nations in 2001"
+        ],
+        "hopeful_bullets": [
+          "• Nov",
+          "• 19 is World Toilet Day, which was declared by the United Nations in 2001"
+        ],
+        "stakes_bullets": [
+          "• The goal is to call attention to the 3.4 billion people who live without \"safely managed sanitation\" More than 300 million people engage in \"open defecation\" in the great outdoors "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ef0d5f39674d"
     },
     {
       "id": "1d755b64a52e",
@@ -4529,6 +4492,103 @@
       "cluster_id": "7b820ed0946f"
     },
     {
+      "id": "38192595cc91",
+      "title": "Nvidia stock pops 5% in premarket trading after stronger-than-expected results",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/20/nvidia-shares-rise-after-after-stronger-than-expected-3q-results.html",
+      "published_at": "Thu, 20 Nov 2025 09:15:49 GMT",
+      "bullets": [
+        "• Shares in Nvidia popped in premarket trade after the U.S",
+        "• firm beat expectations in third-quarter results",
+        "• Shares were last trading 5.5% higher at 4:15 a.m",
+        "• ET",
+        "• Nvidia topped forecasts for revenue, and issued stronger-than-expected fourth-quarter sales guidance "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.91
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Shares in Nvidia popped in premarket trade after the U.S",
+          "• firm beat expectations in third-quarter results"
+        ],
+        "hopeful_bullets": [
+          "• Nvidia topped forecasts for revenue, and issued stronger-than-expected fourth-quarter sales guidance "
+        ],
+        "stakes_bullets": [
+          "• firm beat expectations in third-quarter results",
+          "• Nvidia topped forecasts for revenue, and issued stronger-than-expected fourth-quarter sales guidance "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "fcf3db0c4fc6"
+    },
+    {
+      "id": "05440ad745ca",
+      "title": "Justice department has 30 days to release all Epstein files after Trump signs bill – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
+      "published_at": "Thu, 20 Nov 2025 09:08:33 GMT",
+      "bullets": [
+        "• The US Centers for Disease Control and Prevention updated its website on Wednesday to say that claims about vaccines not causing autism are not “evidence-based” It added that health authorities have “ignored” studies supporting the link between the two",
+        "• Anti-vaccine group Children's Health Defense applauded the changes to the CDC’s website "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The US Centers for Disease Control and Prevention updated its website on Wednesday to say that claims about vaccines not causing autism are not “evidence-based” It added that health authorities have “ignored” studies supporting the link between the two",
+          "• Anti-vaccine group Children's Health Defense applauded the changes to the CDC’s website "
+        ],
+        "hopeful_bullets": [
+          "• The US Centers for Disease Control and Prevention updated its website on Wednesday to say that claims about vaccines not causing autism are not “evidence-based” It added that health authorities have “ignored” studies supporting the link between the two",
+          "• Anti-vaccine group Children's Health Defense applauded the changes to the CDC’s website "
+        ],
+        "stakes_bullets": [
+          "• The US Centers for Disease Control and Prevention updated its website on Wednesday to say that claims about vaccines not causing autism are not “evidence-based” It added that health authorities have “ignored” studies supporting the link between the two",
+          "• Anti-vaccine group Children's Health Defense applauded the changes to the CDC’s website "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "15d03d03b323"
+    },
+    {
+      "id": "bd5732ac5096",
+      "title": "Coalition to help Labor rush through new nature laws if environmental protections dropped",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2025/nov/20/coalition-to-help-labor-rush-through-new-nature-laws-if-environmental-protections-dropped",
+      "published_at": "Thu, 20 Nov 2025 09:00:02 GMT",
+      "bullets": [
+        "• The Coalition has offered to help Labor rush through new nature laws if it agrees to gut environment protection",
+        "• Environmental lawyers are urging the government against further weakening already flawed laws at the “behest of industry” The new offer from the opposition leader, Sussan Ley, gives Anthony Albanese a clear path to pass the laws "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Coalition has offered to help Labor rush through new nature laws if it agrees to gut environment protection",
+          "• Environmental lawyers are urging the government against further weakening already flawed laws at the “behest of industry” The new offer from the opposition leader, Sussan Ley, gives Anthony Albanese a clear path to pass the laws "
+        ],
+        "hopeful_bullets": [
+          "• The Coalition has offered to help Labor rush through new nature laws if it agrees to gut environment protection",
+          "• Environmental lawyers are urging the government against further weakening already flawed laws at the “behest of industry” The new offer from the opposition leader, Sussan Ley, gives Anthony Albanese a clear path to pass the laws "
+        ],
+        "stakes_bullets": [
+          "• Environmental lawyers are urging the government against further weakening already flawed laws at the “behest of industry” The new offer from the opposition leader, Sussan Ley, gives Anthony Albanese a clear path to pass the laws "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c9fa147121ad"
+    },
+    {
       "id": "d958cdf0a96f",
       "title": "US military officials in Ukraine amid reports of draft Russia peace plan",
       "outlet": "BBC News",
@@ -5792,38 +5852,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "983eb5957e9c"
-    },
-    {
-      "id": "b45730fafd75",
-      "title": "Meta chief AI scientist Yann LeCun is leaving to create his own startup",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/19/meta-chief-ai-scientist-yann-lecun-is-leaving-the-company-.html",
-      "published_at": "Thu, 20 Nov 2025 01:58:26 GMT",
-      "bullets": [
-        "• Yann LeCun, one of the first AI visionaries to join Facebook, is leaving Meta",
-        "• He plans to create a startup that specializes in a kind of AI technology that can better represent the physical world",
-        "• The departure comes at a time of disarray within Meta's AI unit "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Yann LeCun, one of the first AI visionaries to join Facebook, is leaving Meta",
-          "• He plans to create a startup that specializes in a kind of AI technology that can better represent the physical world"
-        ],
-        "hopeful_bullets": [
-          "• Yann LeCun, one of the first AI visionaries to join Facebook, is leaving Meta",
-          "• He plans to create a startup that specializes in a kind of AI technology that can better represent the physical world"
-        ],
-        "stakes_bullets": [
-          "• He plans to create a startup that specializes in a kind of AI technology that can better represent the physical world"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "4f38949797f5"
     },
     {
       "id": "b068a346a03b",
@@ -7243,41 +7271,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "b70fd23055da"
-    },
-    {
-      "id": "40f38107a55e",
-      "title": "China's astronauts land safely after space debris collision",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/15/nx-s1-5608381/chinas-astronauts-land-safely-after-space-debris-collision",
-      "published_at": "Sat, 15 Nov 2025 17:05:26 -0500",
-      "bullets": [
-        "• China's astronauts land safely after space debris collision",
-        "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft",
-        "• NPR's Emily Feng reports on their journey home",
-        "• The three astronauts took off from China's Gansu Province this past April "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.865
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China's astronauts land safely after space debris collision",
-          "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft"
-        ],
-        "hopeful_bullets": [
-          "• China's astronauts land safely after space debris collision",
-          "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft"
-        ],
-        "stakes_bullets": [
-          "• China's astronauts land safely after space debris collision",
-          "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft",
-          "• NPR's Emily Feng reports on their journey home"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "120a19dd962b"
     },
     {
       "id": "ecbd4fbdfdd1",
@@ -9587,6 +9580,24 @@
       ]
     },
     {
+      "id": "15d03d03b323",
+      "topic": "all days department epstein",
+      "keywords": [
+        "all",
+        "days",
+        "department",
+        "epstein",
+        "justice",
+        "release"
+      ],
+      "item_ids": [
+        "05440ad745ca"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "98e2256be066",
       "topic": "friday mamdani meet office",
       "keywords": [
@@ -9728,24 +9739,6 @@
       ],
       "item_ids": [
         "9f8e199d4c53"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "cf7bc9a03c45",
-      "topic": "angele did home los",
-      "keywords": [
-        "angele",
-        "did",
-        "home",
-        "los",
-        "lose",
-        "wildfire"
-      ],
-      "item_ids": [
-        "2bb16cbe81f0"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9932,18 +9925,36 @@
       ]
     },
     {
-      "id": "b67a60217c69",
-      "topic": "agreement assurance final nvidia",
+      "id": "ef0d5f39674d",
+      "topic": "best day really today",
       "keywords": [
-        "agreement",
-        "assurance",
-        "final",
-        "nvidia",
-        "openai",
-        "there"
+        "best",
+        "day",
+        "really",
+        "today",
+        "toilet",
+        "world"
       ],
       "item_ids": [
-        "3a977ad5c706"
+        "119fe6e4a309"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "fcf3db0c4fc6",
+      "topic": "nvidia pops premarket stock",
+      "keywords": [
+        "nvidia",
+        "pops",
+        "premarket",
+        "stock",
+        "stronger",
+        "trading"
+      ],
+      "item_ids": [
+        "38192595cc91"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9962,6 +9973,24 @@
       ],
       "item_ids": [
         "9fff00b743e4"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "b67a60217c69",
+      "topic": "agreement assurance final nvidia",
+      "keywords": [
+        "agreement",
+        "assurance",
+        "final",
+        "nvidia",
+        "openai",
+        "there"
+      ],
+      "item_ids": [
+        "3a977ad5c706"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10034,24 +10063,6 @@
       ],
       "item_ids": [
         "2dafce769d89"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "4f38949797f5",
-      "topic": "chief leaving lecun meta",
-      "keywords": [
-        "chief",
-        "leaving",
-        "lecun",
-        "meta",
-        "scientist",
-        "yann"
-      ],
-      "item_ids": [
-        "b45730fafd75"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10772,22 +10783,6 @@
       ]
     },
     {
-      "id": "0cd1449ac788",
-      "topic": "heard help twangy voice",
-      "keywords": [
-        "heard",
-        "help",
-        "twangy",
-        "voice"
-      ],
-      "item_ids": [
-        "e9ae3c69b67f"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "9c8dffa7a5b4",
       "topic": "careen change climate massive",
       "keywords": [
@@ -10872,24 +10867,6 @@
       ],
       "item_ids": [
         "e7277dcb5c62"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "120a19dd962b",
-      "topic": "astronaut china debri land",
-      "keywords": [
-        "astronaut",
-        "china",
-        "debri",
-        "land",
-        "safely",
-        "space"
-      ],
-      "item_ids": [
-        "40f38107a55e"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11312,6 +11289,24 @@
       ],
       "item_ids": [
         "c1c93674e3c5"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "c9fa147121ad",
+      "topic": "coalition help labor nature",
+      "keywords": [
+        "coalition",
+        "help",
+        "labor",
+        "nature",
+        "rush",
+        "through"
+      ],
+      "item_ids": [
+        "bd5732ac5096"
       ],
       "outlets": [
         "Environment | The Guardian"
