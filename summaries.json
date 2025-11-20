@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T03:49:20Z",
+  "generated_at": "2025-11-20T04:19:39Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -1062,6 +1062,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "d791da2fa705"
+    },
+    {
+      "id": "57e769bd7b0e",
+      "title": "Is Trump’s remarkable run of fealty coming to an end?",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/19/trump-media-attacks-journalists",
+      "published_at": "Wed, 19 Nov 2025 20:30:03 GMT",
+      "bullets": [
+        "• Trump has enjoyed a remarkable run of fealty, both from his rank and file supporters and from an obsequious GOP",
+        "• But the Jeffrey Epstein saga has led to the biggest fissure yet between Trump and his base",
+        "• Trump wanted House Republicans to vote against releasing the Epstein files this week "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.538
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump has enjoyed a remarkable run of fealty, both from his rank and file supporters and from an obsequious GOP",
+          "• But the Jeffrey Epstein saga has led to the biggest fissure yet between Trump and his base"
+        ],
+        "hopeful_bullets": [
+          "• Trump wanted House Republicans to vote against releasing the Epstein files this week "
+        ],
+        "stakes_bullets": [
+          "• Trump has enjoyed a remarkable run of fealty, both from his rank and file supporters and from an obsequious GOP",
+          "• But the Jeffrey Epstein saga has led to the biggest fissure yet between Trump and his base",
+          "• Trump wanted House Republicans to vote against releasing the Epstein files this week "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "97b0cc584351"
     },
     {
       "id": "5ac4797dd9fa",
@@ -4331,39 +4364,6 @@
       "cluster_id": "591d924ee738"
     },
     {
-      "id": "fba54807baf7",
-      "title": "Kneecap Address Mo Chara Terrorism Charge on New Song “No Comment”: Listen",
-      "outlet": "RSS: News",
-      "url": "https://pitchfork.com/news/kneecap-address-mo-chara-terrorism-charge-on-new-song-no-comment-listen/",
-      "published_at": "Tue, 18 Nov 2025 18:31:46 +0000",
-      "bullets": [
-        "• Kneecap have released a new song, “No Comment,” a collaboration with Sub Focus",
-        "• The song addresses the terrorism charge that was brought against Mo Chara",
-        "• The charge was dismissed in September, with a judge ruling that the alleged incident fell outside the statute of limitations "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Kneecap have released a new song, “No Comment,” a collaboration with Sub Focus",
-          "• The song addresses the terrorism charge that was brought against Mo Chara"
-        ],
-        "hopeful_bullets": [
-          "• The song addresses the terrorism charge that was brought against Mo Chara"
-        ],
-        "stakes_bullets": [
-          "• Kneecap have released a new song, “No Comment,” a collaboration with Sub Focus",
-          "• The song addresses the terrorism charge that was brought against Mo Chara",
-          "• The charge was dismissed in September, with a judge ruling that the alleged incident fell outside the statute of limitations "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a7e2b68b1ac2"
-    },
-    {
       "id": "f3a943b720a4",
       "title": "Extreme Heat, Leaks and Security Issues Roil COP30",
       "outlet": "Inside Climate News",
@@ -5127,6 +5127,214 @@
       "cluster_id": "7b820ed0946f"
     },
     {
+      "id": "b5e9ec92b6b7",
+      "title": "This 1996 Boss Fight Is Still the Greatest Battle in Gaming History",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/greatest-90s-boss-battle-of-all-time-kirby-super-stars/",
+      "published_at": "Thu, 20 Nov 2025 04:15:11 GMT",
+      "bullets": [
+        "• Kirby Super Star is one of the best SNES games",
+        "• The game is divided into eight games that span a range of genres",
+        "• Milky Way Wishes is the longest of the series with a boss battle that tests players' skills",
+        "• The Great Cave Offensive is the most intense boss battle in video game history "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kirby Super Star is one of the best SNES games",
+          "• The game is divided into eight games that span a range of genres"
+        ],
+        "hopeful_bullets": [
+          "• Kirby Super Star is one of the best SNES games",
+          "• The game is divided into eight games that span a range of genres"
+        ],
+        "stakes_bullets": [
+          "• Kirby Super Star is one of the best SNES games",
+          "• The game is divided into eight games that span a range of genres",
+          "• Milky Way Wishes is the longest of the series with a boss battle that tests players' skills"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "b9ffaa24d3d1"
+    },
+    {
+      "id": "cc9c76a4400d",
+      "title": "Spotify Acquires WhoSampled, Announces Expanded Song Credits",
+      "outlet": "RSS: News",
+      "url": "https://pitchfork.com/news/spotify-acquires-whosampled-announces-expanded-song-credits/",
+      "published_at": "Thu, 20 Nov 2025 04:09:32 +0000",
+      "bullets": [
+        "• Spotify has acquired the sample-sourcing website WhoSampled",
+        "• The streaming service is rolling out a new feature called SongDNA",
+        "• SongDNA will aggregate and centralize samples and covers of songs based on the database",
+        "• Spotify is also expanding its song credits feature to include all personnel who worked on a song "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.952
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Spotify has acquired the sample-sourcing website WhoSampled",
+          "• The streaming service is rolling out a new feature called SongDNA"
+        ],
+        "hopeful_bullets": [
+          "• Spotify has acquired the sample-sourcing website WhoSampled",
+          "• The streaming service is rolling out a new feature called SongDNA"
+        ],
+        "stakes_bullets": [
+          "• SongDNA will aggregate and centralize samples and covers of songs based on the database",
+          "• Spotify is also expanding its song credits feature to include all personnel who worked on a song "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "65dae7ecb2e9"
+    },
+    {
+      "id": "fedbeb002dcd",
+      "title": "House Democrat Sheila Cherfilus-McCormick charged with stealing $5M in Covid aid funds",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/19/sheila-cherfilus-mccormick-charged-fema-covid.html",
+      "published_at": "Thu, 20 Nov 2025 03:59:35 GMT",
+      "bullets": [
+        "• U.S",
+        "• Congresswoman and her brother are accused of launder money",
+        "• They allegedly used it to pay for their own campaign expenses",
+        "• The money was then sent back to the taxpayers",
+        "• They are charged with defrauding the public and defrauding the public "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• Congresswoman and her brother are accused of launder money"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• Congresswoman and her brother are accused of launder money"
+        ],
+        "stakes_bullets": [
+          "• U.S",
+          "• Congresswoman and her brother are accused of launder money",
+          "• They allegedly used it to pay for their own campaign expenses"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c7f668e356e1"
+    },
+    {
+      "id": "8c3403ce98f6",
+      "title": "Asia markets rise as Nvidia's earnings beat and bullish forecast soothe AI fears",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/20/asia-pacific-markets-thursday-today-nvidia-earnings-beat-asian-chips-stocks-tech.html",
+      "published_at": "Thu, 20 Nov 2025 03:54:57 GMT",
+      "bullets": [
+        "• Japan's benchmark Nikkei 225 index jumped 3.7% in early trading, while the Topix index added 1.67%",
+        "• Chip-related stocks rallied on the index as investors cheered Nvidia's quarterly report",
+        "• South Korea's Kospi index advanced 2.63%, and the small-cap Kosdaq was up 1.75% "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.669
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Japan's benchmark Nikkei 225 index jumped 3.7% in early trading, while the Topix index added 1.67%",
+          "• Chip-related stocks rallied on the index as investors cheered Nvidia's quarterly report"
+        ],
+        "hopeful_bullets": [
+          "• Japan's benchmark Nikkei 225 index jumped 3.7% in early trading, while the Topix index added 1.67%",
+          "• Chip-related stocks rallied on the index as investors cheered Nvidia's quarterly report"
+        ],
+        "stakes_bullets": [
+          "• Japan's benchmark Nikkei 225 index jumped 3.7% in early trading, while the Topix index added 1.67%",
+          "• Chip-related stocks rallied on the index as investors cheered Nvidia's quarterly report",
+          "• South Korea's Kospi index advanced 2.63%, and the small-cap Kosdaq was up 1.75% "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "90a1aacb361d"
+    },
+    {
+      "id": "552dc1e96e5b",
+      "title": "Trump signs bill ordering justice department to release Epstein files",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 20 Nov 2025 03:47:54 GMT",
+      "bullets": [
+        "• Trump signs bill ordering release of files related to the late Epstein case",
+        "• Lawmakers passed the bill in the House and Senate on Tuesday",
+        "• The bill requires the release of the files in a searchable and searchable format within 30 days",
+        "• Trump had previously said he would not release the files, but he changed his mind "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump signs bill ordering release of files related to the late Epstein case",
+          "• Lawmakers passed the bill in the House and Senate on Tuesday"
+        ],
+        "hopeful_bullets": [
+          "• Trump signs bill ordering release of files related to the late Epstein case",
+          "• Lawmakers passed the bill in the House and Senate on Tuesday"
+        ],
+        "stakes_bullets": [
+          "• Trump signs bill ordering release of files related to the late Epstein case",
+          "• Lawmakers passed the bill in the House and Senate on Tuesday",
+          "• The bill requires the release of the files in a searchable and searchable format within 30 days"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2a6d7c65cd9b"
+    },
+    {
+      "id": "87806536294e",
+      "title": "Dragon Ball Super Will Never Surpass DBZ – Unless it Fixes Goku",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dragon-ball-super-goku-problem-dbz/",
+      "published_at": "Thu, 20 Nov 2025 03:45:12 GMT",
+      "bullets": [
+        "• Dragon Ball Super has found itself in a tricky, self-fulfilling prophecy when it comes to its relationship with the main character",
+        "• Dragon Ball Z's Hyperbolic Time Chamber has been an essential tool for the heroes' success, but its perks and clumsy changes represent bigger problems",
+        "• It’s become easier for the series to go increasingly off course the longer that it goes on "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dragon Ball Super has found itself in a tricky, self-fulfilling prophecy when it comes to its relationship with the main character",
+          "• Dragon Ball Z's Hyperbolic Time Chamber has been an essential tool for the heroes' success, but its perks and clumsy changes represent bigger problems"
+        ],
+        "hopeful_bullets": [
+          "• Dragon Ball Super has found itself in a tricky, self-fulfilling prophecy when it comes to its relationship with the main character",
+          "• Dragon Ball Z's Hyperbolic Time Chamber has been an essential tool for the heroes' success, but its perks and clumsy changes represent bigger problems"
+        ],
+        "stakes_bullets": [
+          "• Dragon Ball Super has found itself in a tricky, self-fulfilling prophecy when it comes to its relationship with the main character",
+          "• Dragon Ball Z's Hyperbolic Time Chamber has been an essential tool for the heroes' success, but its perks and clumsy changes represent bigger problems",
+          "• It’s become easier for the series to go increasingly off course the longer that it goes on "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "4ec3b5d37d4a"
+    },
+    {
       "id": "105f9d800c5b",
       "title": "10 2020s Marvel Comic Books With The Best Art So Far, Ranked",
       "outlet": "CBR",
@@ -5226,44 +5434,8 @@
       "cluster_id": "79d881fe4e83"
     },
     {
-      "id": "fedbeb002dcd",
-      "title": "House Democrat Sheila Cherfilus-McCormick charged with stealing $5M in Covid aid funds",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/19/sheila-cherfilus-mccormick-charged-fema-covid.html",
-      "published_at": "Thu, 20 Nov 2025 03:03:03 GMT",
-      "bullets": [
-        "• A federal grand jury accuses U.S",
-        "• Rep",
-        "• Sheila Cherfilus-Cherfilus and her brother of launder $5 million",
-        "• The siblings are accused of defrauding the federal government through false tax returns",
-        "• The money was then sent back to relatives and friends, the DOJ says "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A federal grand jury accuses U.S",
-          "• Rep"
-        ],
-        "hopeful_bullets": [
-          "• A federal grand jury accuses U.S",
-          "• Rep"
-        ],
-        "stakes_bullets": [
-          "• A federal grand jury accuses U.S",
-          "• Rep",
-          "• Sheila Cherfilus-Cherfilus and her brother of launder $5 million"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c7f668e356e1"
-    },
-    {
       "id": "8016796c22da",
-      "title": "Trump says he’s signed the bill to release Epstein files while railing against Democratic ‘hoax’ – US politics live",
+      "title": "Trump says he signed bill to release Epstein files, then announces meeting with Zohran Mamdani – as it happened",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/nov/19/us-congress-epstein-files-donald-trump-saudi-arabia-redistricting-latest-news-updates",
       "published_at": "Thu, 20 Nov 2025 03:01:36 GMT",
@@ -5274,8 +5446,8 @@
       ],
       "category": "US",
       "sentiment": {
-        "label": "negative",
-        "score": 0.869
+        "label": "neutral",
+        "score": 0.646
       },
       "moods": {
         "brief_bullets": [
@@ -5324,40 +5496,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "cb1d1127e79b"
-    },
-    {
-      "id": "d1520b584da6",
-      "title": "Inside the dawn patrols where San Diego teachers track ICE: ‘We have to resist’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/19/san-diego-teachers-ice-patrols",
-      "published_at": "Thu, 20 Nov 2025 02:56:01 GMT",
-      "bullets": [
-        "• The Association of Raza Educators is a group that regularly patrols southern California streets to keep an eye out for ICE agents",
-        "• When they spot undercover agents, they alert the surrounding community via social media",
-        "• The group is also a group of activists who regularly patrol Southern California streets "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Association of Raza Educators is a group that regularly patrols southern California streets to keep an eye out for ICE agents",
-          "• When they spot undercover agents, they alert the surrounding community via social media"
-        ],
-        "hopeful_bullets": [
-          "• The Association of Raza Educators is a group that regularly patrols southern California streets to keep an eye out for ICE agents",
-          "• When they spot undercover agents, they alert the surrounding community via social media"
-        ],
-        "stakes_bullets": [
-          "• The Association of Raza Educators is a group that regularly patrols southern California streets to keep an eye out for ICE agents",
-          "• When they spot undercover agents, they alert the surrounding community via social media",
-          "• The group is also a group of activists who regularly patrol Southern California streets "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "575b54702898"
     },
     {
       "id": "0eb5e840a87d",
@@ -5558,39 +5696,6 @@
       "cluster_id": "17fb6054a5a8"
     },
     {
-      "id": "552dc1e96e5b",
-      "title": "Trump signs bill ordering justice department to release Epstein files",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 20 Nov 2025 02:28:12 GMT",
-      "bullets": [
-        "• Trump signs bill ordering release of files related to late Epstein case",
-        "• Lawmakers in the House and Senate passed the bill on Tuesday",
-        "• Some 20,000 pages of documents from Epstein's case were released last week, including some that directly mention Trump "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump signs bill ordering release of files related to late Epstein case",
-          "• Lawmakers in the House and Senate passed the bill on Tuesday"
-        ],
-        "hopeful_bullets": [
-          "• Trump signs bill ordering release of files related to late Epstein case",
-          "• Lawmakers in the House and Senate passed the bill on Tuesday"
-        ],
-        "stakes_bullets": [
-          "• Trump signs bill ordering release of files related to late Epstein case",
-          "• Lawmakers in the House and Senate passed the bill on Tuesday"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2a6d7c65cd9b"
-    },
-    {
       "id": "44594cd9c87d",
       "title": "Netflix's One Piece is the Best Live Action Anime Adaptation in Years",
       "outlet": "CBR",
@@ -5655,40 +5760,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "27f33ec4d8e4"
-    },
-    {
-      "id": "8c3403ce98f6",
-      "title": "Asia markets rise as Nvidia's earnings beat and bullish forecast soothe AI fears",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/20/asia-pacific-markets-thursday-today-nvidia-earnings-beat-asian-chips-stocks-tech.html",
-      "published_at": "Thu, 20 Nov 2025 02:14:54 GMT",
-      "bullets": [
-        "• Japan's benchmark Nikkei 225 index jumped 3.7% in early trading, while the Topix index added 1.67%",
-        "• Chip-related stocks rallied on the index as investors cheered Nvidia's quarterly report",
-        "• South Korea's Kospi index advanced 2.63%, and the small-cap Kosdaq was up 1.75% "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.669
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's benchmark Nikkei 225 index jumped 3.7% in early trading, while the Topix index added 1.67%",
-          "• Chip-related stocks rallied on the index as investors cheered Nvidia's quarterly report"
-        ],
-        "hopeful_bullets": [
-          "• Japan's benchmark Nikkei 225 index jumped 3.7% in early trading, while the Topix index added 1.67%",
-          "• Chip-related stocks rallied on the index as investors cheered Nvidia's quarterly report"
-        ],
-        "stakes_bullets": [
-          "• Japan's benchmark Nikkei 225 index jumped 3.7% in early trading, while the Topix index added 1.67%",
-          "• Chip-related stocks rallied on the index as investors cheered Nvidia's quarterly report",
-          "• South Korea's Kospi index advanced 2.63%, and the small-cap Kosdaq was up 1.75% "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "90a1aacb361d"
     },
     {
       "id": "098c9f5bb4ee",
@@ -5857,25 +5928,25 @@
       "url": "https://www.wired.com/story/trump-prepares-executive-order-challenging-state-ai-laws/",
       "published_at": "Thu, 20 Nov 2025 01:50:39 +0000",
       "bullets": [
-        "• US President Donald Trump is considering signing an executive order that would challenge state efforts to regulate artificial intelligence through lawsuits and withholding federal funding",
-        "• Draft of the order directs US Attorney General Pam Bondi to create an “AI Litigation Task Force’s purpose is to sue states in court for passing AI regulations that allegedly violate federal laws "
+        "• US President Donald Trump is considering signing an executive order that would challenge state efforts to regulate artificial intelligence through lawsuits and withholding of federal funding",
+        "• A draft of the order directs US attorney general Pam Bondi to create an “AI Litigation Task Force’s purpose is to sue states for passing AI regulations that allegedly violate federal laws "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.988
+        "score": 0.992
       },
       "moods": {
         "brief_bullets": [
-          "• US President Donald Trump is considering signing an executive order that would challenge state efforts to regulate artificial intelligence through lawsuits and withholding federal funding",
-          "• Draft of the order directs US Attorney General Pam Bondi to create an “AI Litigation Task Force’s purpose is to sue states in court for passing AI regulations that allegedly violate federal laws "
+          "• US President Donald Trump is considering signing an executive order that would challenge state efforts to regulate artificial intelligence through lawsuits and withholding of federal funding",
+          "• A draft of the order directs US attorney general Pam Bondi to create an “AI Litigation Task Force’s purpose is to sue states for passing AI regulations that allegedly violate federal laws "
         ],
         "hopeful_bullets": [
-          "• US President Donald Trump is considering signing an executive order that would challenge state efforts to regulate artificial intelligence through lawsuits and withholding federal funding",
-          "• Draft of the order directs US Attorney General Pam Bondi to create an “AI Litigation Task Force’s purpose is to sue states in court for passing AI regulations that allegedly violate federal laws "
+          "• US President Donald Trump is considering signing an executive order that would challenge state efforts to regulate artificial intelligence through lawsuits and withholding of federal funding",
+          "• A draft of the order directs US attorney general Pam Bondi to create an “AI Litigation Task Force’s purpose is to sue states for passing AI regulations that allegedly violate federal laws "
         ],
         "stakes_bullets": [
-          "• US President Donald Trump is considering signing an executive order that would challenge state efforts to regulate artificial intelligence through lawsuits and withholding federal funding"
+          "• US President Donald Trump is considering signing an executive order that would challenge state efforts to regulate artificial intelligence through lawsuits and withholding of federal funding"
         ]
       },
       "read_minutes": 3,
@@ -6014,40 +6085,6 @@
       "cluster_id": "e93200e0da30"
     },
     {
-      "id": "4e688ff0108d",
-      "title": "8 Must-Read Crime Books for Sherlock Holmes Fans",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/crime-books-for-sherlock-holmes-fans-list/",
-      "published_at": "Thu, 20 Nov 2025 01:20:12 GMT",
-      "bullets": [
-        "• Sherlock Holmes is one of the best and most popular fictional detectives of all time",
-        "• The character made its debut in 1887's A Study in Scarlet, a detective novel written by Arthur Conan Doyle",
-        "• He is only the main character in four detective novels written by Doyle "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sherlock Holmes is one of the best and most popular fictional detectives of all time",
-          "• The character made its debut in 1887's A Study in Scarlet, a detective novel written by Arthur Conan Doyle"
-        ],
-        "hopeful_bullets": [
-          "• Sherlock Holmes is one of the best and most popular fictional detectives of all time",
-          "• The character made its debut in 1887's A Study in Scarlet, a detective novel written by Arthur Conan Doyle"
-        ],
-        "stakes_bullets": [
-          "• Sherlock Holmes is one of the best and most popular fictional detectives of all time",
-          "• The character made its debut in 1887's A Study in Scarlet, a detective novel written by Arthur Conan Doyle",
-          "• He is only the main character in four detective novels written by Doyle "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "be8ed4a8321a"
-    },
-    {
       "id": "411ec28aef8d",
       "title": "Fans are Calling This Forgotten Monster Movie on HBO Max “A Gothic powder keg”",
       "outlet": "Dread Central",
@@ -6112,40 +6149,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "a6b09c5b9097"
-    },
-    {
-      "id": "487f1718c27c",
-      "title": "Akira is Only $5 Right Now & It Has Aged Perfectly",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-anime-movie-akira-5-dollars-itunes-apple/",
-      "published_at": "Thu, 20 Nov 2025 01:15:11 GMT",
-      "bullets": [
-        "• Katsuhiro Otomo’s Akira is still viewed as a staggering anime achievement",
-        "• With persistent rumblings of an Akira anime series and a live-action feature film, it's the perfect time to revisit this sci-fi classic",
-        "• Akira is a visual extravaganza that would stand tall even if its storytelling was a disaster "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Katsuhiro Otomo’s Akira is still viewed as a staggering anime achievement",
-          "• With persistent rumblings of an Akira anime series and a live-action feature film, it's the perfect time to revisit this sci-fi classic"
-        ],
-        "hopeful_bullets": [
-          "• Katsuhiro Otomo’s Akira is still viewed as a staggering anime achievement",
-          "• With persistent rumblings of an Akira anime series and a live-action feature film, it's the perfect time to revisit this sci-fi classic"
-        ],
-        "stakes_bullets": [
-          "• Katsuhiro Otomo’s Akira is still viewed as a staggering anime achievement",
-          "• With persistent rumblings of an Akira anime series and a live-action feature film, it's the perfect time to revisit this sci-fi classic",
-          "• Akira is a visual extravaganza that would stand tall even if its storytelling was a disaster "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "9fbdd659bb7e"
     },
     {
       "id": "eba5b0c3ede1",
@@ -6322,9 +6325,9 @@
       "url": "https://www.wired.com/story/nvidia-third-quarter-2026-earnings/",
       "published_at": "Thu, 20 Nov 2025 00:45:35 +0000",
       "bullets": [
-        "• Nvidia CEO Jensen Huang addressed the elephant in the room on an earnings call on Wednesday",
+        "• Nvidia CEO Jensen Huang addressed the AI bubble on an earnings call on Wednesday",
         "• His thesis is that AI is taking over the world, and Nvidia chips will be sorely needed to power that revolution",
-        "• Shares have fallen about 10 percent in recent weeks after hitting an all-time high in late October "
+        "• Shares have fallen about 10 percent in recent weeks after hitting an all-time high in October "
       ],
       "category": "Technology",
       "sentiment": {
@@ -6333,11 +6336,11 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Nvidia CEO Jensen Huang addressed the elephant in the room on an earnings call on Wednesday",
+          "• Nvidia CEO Jensen Huang addressed the AI bubble on an earnings call on Wednesday",
           "• His thesis is that AI is taking over the world, and Nvidia chips will be sorely needed to power that revolution"
         ],
         "hopeful_bullets": [
-          "• Nvidia CEO Jensen Huang addressed the elephant in the room on an earnings call on Wednesday",
+          "• Nvidia CEO Jensen Huang addressed the AI bubble on an earnings call on Wednesday",
           "• His thesis is that AI is taking over the world, and Nvidia chips will be sorely needed to power that revolution"
         ],
         "stakes_bullets": [
@@ -9687,24 +9690,6 @@
       ]
     },
     {
-      "id": "575b54702898",
-      "topic": "dawn diego inside patrol",
-      "keywords": [
-        "dawn",
-        "diego",
-        "inside",
-        "patrol",
-        "san",
-        "teacher"
-      ],
-      "item_ids": [
-        "d1520b584da6"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "dc47ca2aafc6",
       "topic": "harvard larry relinquish role",
       "keywords": [
@@ -9807,6 +9792,24 @@
       ],
       "item_ids": [
         "2bb16cbe81f0"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "97b0cc584351",
+      "topic": "coming end fealty remarkable",
+      "keywords": [
+        "coming",
+        "end",
+        "fealty",
+        "remarkable",
+        "run",
+        "trump"
+      ],
+      "item_ids": [
+        "57e769bd7b0e"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -13358,6 +13361,42 @@
       ]
     },
     {
+      "id": "b9ffaa24d3d1",
+      "topic": "1996 battle boss fight",
+      "keywords": [
+        "1996",
+        "battle",
+        "boss",
+        "fight",
+        "greatest",
+        "still"
+      ],
+      "item_ids": [
+        "b5e9ec92b6b7"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "4ec3b5d37d4a",
+      "topic": "ball dbz dragon never",
+      "keywords": [
+        "ball",
+        "dbz",
+        "dragon",
+        "never",
+        "super",
+        "surpas"
+      ],
+      "item_ids": [
+        "87806536294e"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "5649f851079e",
       "topic": "2020 art best book",
       "keywords": [
@@ -13496,42 +13535,6 @@
       ],
       "item_ids": [
         "e5f5b28969d1"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "be8ed4a8321a",
-      "topic": "book crime holme must",
-      "keywords": [
-        "book",
-        "crime",
-        "holme",
-        "must",
-        "read",
-        "sherlock"
-      ],
-      "item_ids": [
-        "4e688ff0108d"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "9fbdd659bb7e",
-      "topic": "aged akira now only",
-      "keywords": [
-        "aged",
-        "akira",
-        "now",
-        "only",
-        "perfectly",
-        "right"
-      ],
-      "item_ids": [
-        "487f1718c27c"
       ],
       "outlets": [
         "CBR"
@@ -13895,6 +13898,24 @@
       ]
     },
     {
+      "id": "65dae7ecb2e9",
+      "topic": "acquire announce expanded song",
+      "keywords": [
+        "acquire",
+        "announce",
+        "expanded",
+        "song",
+        "spotify",
+        "whosampled"
+      ],
+      "item_ids": [
+        "cc9c76a4400d"
+      ],
+      "outlets": [
+        "RSS: News"
+      ]
+    },
+    {
       "id": "7c32da765d02",
       "topic": "coast fallon perform snocap",
       "keywords": [
@@ -14046,24 +14067,6 @@
       ],
       "item_ids": [
         "d45047769e07"
-      ],
-      "outlets": [
-        "RSS: News"
-      ]
-    },
-    {
-      "id": "a7e2b68b1ac2",
-      "topic": "addres chara charge kneecap",
-      "keywords": [
-        "addres",
-        "chara",
-        "charge",
-        "kneecap",
-        "song",
-        "terrorism"
-      ],
-      "item_ids": [
-        "fba54807baf7"
       ],
       "outlets": [
         "RSS: News"
