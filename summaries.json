@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T11:55:13Z",
+  "generated_at": "2025-11-20T12:13:34Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -235,6 +235,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "690fc5348c97"
+    },
+    {
+      "id": "512c580705d3",
+      "title": "Palo Alto tops earnings expectations, announces Chronosphere acquisition",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/19/palo-alto-networks-panw-q1-2026-earnings-report.html",
+      "published_at": "Wed, 19 Nov 2025 22:40:44 GMT",
+      "bullets": [
+        "• Palo Alto Networks beat Wall Street's fiscal first-quarter estimates",
+        "• The cybersecurity provider announced plans to buy cloud observability platform Chronosphere for $3.35 billion",
+        "• Revenues grew 16% from $2.1 billion a year ago",
+        "• Palo Alto is also in the process of buying Israeli identity security firm CyberArk "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.791
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Palo Alto Networks beat Wall Street's fiscal first-quarter estimates",
+          "• The cybersecurity provider announced plans to buy cloud observability platform Chronosphere for $3.35 billion"
+        ],
+        "hopeful_bullets": [
+          "• Palo Alto Networks beat Wall Street's fiscal first-quarter estimates",
+          "• The cybersecurity provider announced plans to buy cloud observability platform Chronosphere for $3.35 billion"
+        ],
+        "stakes_bullets": [
+          "• The cybersecurity provider announced plans to buy cloud observability platform Chronosphere for $3.35 billion",
+          "• Revenues grew 16% from $2.1 billion a year ago"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "071bfb23adbf"
     },
     {
       "id": "63c9e03b87a9",
@@ -3835,6 +3869,40 @@
       "cluster_id": "de631f7845cb"
     },
     {
+      "id": "05440ad745ca",
+      "title": "Justice department has 30 days to release all Epstein files after Trump signs bill – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
+      "published_at": "Thu, 20 Nov 2025 11:21:42 GMT",
+      "bullets": [
+        "• Donald Trump signs bill to release files related to late sex offender Jeffrey Epstein",
+        "• The president had the power to sign the bill himself, but chose not to sign it",
+        "• The bill allows the release of information about the death of Epstein, who died in prison in 2009 "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump signs bill to release files related to late sex offender Jeffrey Epstein",
+          "• The president had the power to sign the bill himself, but chose not to sign it"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump signs bill to release files related to late sex offender Jeffrey Epstein",
+          "• The president had the power to sign the bill himself, but chose not to sign it"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump signs bill to release files related to late sex offender Jeffrey Epstein",
+          "• The president had the power to sign the bill himself, but chose not to sign it",
+          "• The bill allows the release of information about the death of Epstein, who died in prison in 2009 "
+        ]
+      },
+      "read_minutes": 14,
+      "cluster_id": "15d03d03b323"
+    },
+    {
       "id": "597f20d29c88",
       "title": "‘We can no longer predict the seasons’: why Indonesia’s coal mindset has to change",
       "outlet": "Environment | The Guardian",
@@ -3901,40 +3969,6 @@
       "cluster_id": "961a7dfaef67"
     },
     {
-      "id": "05440ad745ca",
-      "title": "Justice department has 30 days to release all Epstein files after Trump signs bill – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
-      "published_at": "Thu, 20 Nov 2025 11:01:20 GMT",
-      "bullets": [
-        "• Donald Trump signs bill to release files related to late sex offender Jeffrey Epstein",
-        "• The president had the power to sign the bill himself, but chose not to sign it",
-        "• The bill allows the release of information about the death of Epstein, who died in prison in 2009 "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump signs bill to release files related to late sex offender Jeffrey Epstein",
-          "• The president had the power to sign the bill himself, but chose not to sign it"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump signs bill to release files related to late sex offender Jeffrey Epstein",
-          "• The president had the power to sign the bill himself, but chose not to sign it"
-        ],
-        "stakes_bullets": [
-          "• Donald Trump signs bill to release files related to late sex offender Jeffrey Epstein",
-          "• The president had the power to sign the bill himself, but chose not to sign it",
-          "• The bill allows the release of information about the death of Epstein, who died in prison in 2009 "
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "15d03d03b323"
-    },
-    {
       "id": "cfa6bafba266",
       "title": "Trump officials reveal plan to roll back regulations in Endangered Species Act",
       "outlet": "US news | The Guardian",
@@ -3964,39 +3998,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "627f35d668e7"
-    },
-    {
-      "id": "d0ea1b6ea931",
-      "title": "In Tennessee, Democrats hope a ‘coalition of the pissed off’ will flip a red district",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/20/tennessee-democrats-aftyn-behn",
-      "published_at": "Thu, 20 Nov 2025 11:00:05 GMT",
-      "bullets": [
-        "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat",
-        "• She is attempting to stage the biggest challenge in a generation to Republicans in the district, and flip the seat for the first time since 1983",
-        "• Republicans have controlled the district for four decades "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat",
-          "• She is attempting to stage the biggest challenge in a generation to Republicans in the district, and flip the seat for the first time since 1983"
-        ],
-        "hopeful_bullets": [
-          "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat"
-        ],
-        "stakes_bullets": [
-          "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat",
-          "• She is attempting to stage the biggest challenge in a generation to Republicans in the district, and flip the seat for the first time since 1983",
-          "• Republicans have controlled the district for four decades "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "fa9ad8a87dee"
     },
     {
       "id": "71f59771eb91",
@@ -4031,6 +4032,39 @@
       },
       "read_minutes": 3,
       "cluster_id": "52fa6b1d5b3e"
+    },
+    {
+      "id": "d0ea1b6ea931",
+      "title": "In Tennessee, Democrats hope a ‘coalition of the pissed off’ will flip a red district",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/20/tennessee-democrats-aftyn-behn",
+      "published_at": "Thu, 20 Nov 2025 11:00:05 GMT",
+      "bullets": [
+        "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat",
+        "• She is attempting to stage the biggest challenge in a generation to Republicans in the district, and flip the seat for the first time since 1983",
+        "• Republicans have controlled the district for four decades "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat",
+          "• She is attempting to stage the biggest challenge in a generation to Republicans in the district, and flip the seat for the first time since 1983"
+        ],
+        "hopeful_bullets": [
+          "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat"
+        ],
+        "stakes_bullets": [
+          "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat",
+          "• She is attempting to stage the biggest challenge in a generation to Republicans in the district, and flip the seat for the first time since 1983",
+          "• Republicans have controlled the district for four decades "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "fa9ad8a87dee"
     },
     {
       "id": "77e8082370f7",
@@ -4332,6 +4366,41 @@
       },
       "read_minutes": 2,
       "cluster_id": "55ad1dafaa18"
+    },
+    {
+      "id": "fe60cd2318cd",
+      "title": "To Meld A.I. With Supercomputers, National Labs Are Picking Up the Pace",
+      "outlet": "NYT > Technology",
+      "url": "https://www.nytimes.com/2025/11/20/technology/national-laboratories-ai-supercomputers.html",
+      "published_at": "Thu, 20 Nov 2025 10:03:27 +0000",
+      "bullets": [
+        "• U.S",
+        "• national labs have long been sites of cutting-edge scientific research with artificial intelligence",
+        "• Deal with tech giants like Nvidia to speed up development of supercomputers that can be used for A.I",
+        "• research",
+        "• Energy Department cutting deals with tech companies to hasten how quickly labs can land bigger machines "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• national labs have long been sites of cutting-edge scientific research with artificial intelligence"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• national labs have long been sites of cutting-edge scientific research with artificial intelligence"
+        ],
+        "stakes_bullets": [
+          "• national labs have long been sites of cutting-edge scientific research with artificial intelligence",
+          "• Energy Department cutting deals with tech companies to hasten how quickly labs can land bigger machines "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7e76653989aa"
     },
     {
       "id": "20ee5a91e412",
@@ -4699,42 +4768,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "1201bed6c073"
-    },
-    {
-      "id": "33ba988ac972",
-      "title": "‘Robotaxi has reached a tipping point’: Baidu, Nvidia leaders see momentum as competition rises",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/20/global-robotaxi-race-heats-up-between-us-and-chinese-rivals.html",
-      "published_at": "Thu, 20 Nov 2025 07:14:10 GMT",
-      "bullets": [
-        "• Chinese robotaxi companies are expanding abroad at a faster pace than U.S",
-        "• rivals Waymo and Tesla",
-        "• Industry leaders say autonomous driving is finally near an inflection point",
-        "• Chinese companies are aggressively expanding overseas and claim they are close to making robotaxis a viable business",
-        "• Goldman Sachs estimates global market with significant growth potential, likely worth more than $25 billion by 2030 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Chinese robotaxi companies are expanding abroad at a faster pace than U.S",
-          "• rivals Waymo and Tesla"
-        ],
-        "hopeful_bullets": [
-          "• Goldman Sachs estimates global market with significant growth potential, likely worth more than $25 billion by 2030 "
-        ],
-        "stakes_bullets": [
-          "• Chinese robotaxi companies are expanding abroad at a faster pace than U.S",
-          "• Industry leaders say autonomous driving is finally near an inflection point",
-          "• Chinese companies are aggressively expanding overseas and claim they are close to making robotaxis a viable business",
-          "• Goldman Sachs estimates global market with significant growth potential, likely worth more than $25 billion by 2030 "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "fd87ac8ec77c"
     },
     {
       "id": "bb9565a0b583",
@@ -5263,40 +5296,6 @@
       "cluster_id": "957946601493"
     },
     {
-      "id": "f0caa5bd0f2b",
-      "title": "The latest Epstein emails reveal the powerful people who sought his counsel",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/20/nx-s1-5613427/epstein-files-chomsky-bannon-summers-democrats",
-      "published_at": "Thu, 20 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• New York State Department releases a list of emails from 2008 to 2009",
-        "• The list includes emails from the president of the United States and the mayor of New York City",
-        "• The emails reveal that many of the people involved in the list are not aware of the extent of their relationship with each other "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New York State Department releases a list of emails from 2008 to 2009",
-          "• The list includes emails from the president of the United States and the mayor of New York City"
-        ],
-        "hopeful_bullets": [
-          "• New York State Department releases a list of emails from 2008 to 2009",
-          "• The list includes emails from the president of the United States and the mayor of New York City"
-        ],
-        "stakes_bullets": [
-          "• New York State Department releases a list of emails from 2008 to 2009",
-          "• The list includes emails from the president of the United States and the mayor of New York City",
-          "• The emails reveal that many of the people involved in the list are not aware of the extent of their relationship with each other "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "8a8a3bfdc5fc"
-    },
-    {
       "id": "b6808c8ec7a9",
       "title": "September jobs report arrives today, almost seven weeks behind schedule",
       "outlet": "NPR Topics: News",
@@ -5330,6 +5329,40 @@
       },
       "read_minutes": 3,
       "cluster_id": "d0ee6873350d"
+    },
+    {
+      "id": "f0caa5bd0f2b",
+      "title": "The latest Epstein emails reveal the powerful people who sought his counsel",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/20/nx-s1-5613427/epstein-files-chomsky-bannon-summers-democrats",
+      "published_at": "Thu, 20 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• New York City resident says he has been in contact with the mayor of New York since 2008",
+        "• He says he wants to see how far away he can be seen from the mayor's office",
+        "• The mayor says he is looking forward to seeing how far back he can reach out to his son "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.964
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New York City resident says he has been in contact with the mayor of New York since 2008",
+          "• He says he wants to see how far away he can be seen from the mayor's office"
+        ],
+        "hopeful_bullets": [
+          "• New York City resident says he has been in contact with the mayor of New York since 2008",
+          "• He says he wants to see how far away he can be seen from the mayor's office"
+        ],
+        "stakes_bullets": [
+          "• New York City resident says he has been in contact with the mayor of New York since 2008",
+          "• He says he wants to see how far away he can be seen from the mayor's office",
+          "• The mayor says he is looking forward to seeing how far back he can reach out to his son "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "8a8a3bfdc5fc"
     },
     {
       "id": "a5de57264a40",
@@ -9572,24 +9605,6 @@
       ]
     },
     {
-      "id": "fa9ad8a87dee",
-      "topic": "coalition democrat hope off",
-      "keywords": [
-        "coalition",
-        "democrat",
-        "hope",
-        "off",
-        "pissed",
-        "tennessee"
-      ],
-      "item_ids": [
-        "d0ea1b6ea931"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "52fa6b1d5b3e",
       "topic": "axing cnn discussed ellison",
       "keywords": [
@@ -9602,6 +9617,24 @@
       ],
       "item_ids": [
         "71f59771eb91"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "fa9ad8a87dee",
+      "topic": "coalition democrat hope off",
+      "keywords": [
+        "coalition",
+        "democrat",
+        "hope",
+        "off",
+        "pissed",
+        "tennessee"
+      ],
+      "item_ids": [
+        "d0ea1b6ea931"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9788,24 +9821,6 @@
       ]
     },
     {
-      "id": "8a8a3bfdc5fc",
-      "topic": "email epstein people powerful",
-      "keywords": [
-        "email",
-        "epstein",
-        "people",
-        "powerful",
-        "reveal",
-        "sought"
-      ],
-      "item_ids": [
-        "f0caa5bd0f2b"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "d0ee6873350d",
       "topic": "almost arrive jobs report",
       "keywords": [
@@ -9818,6 +9833,24 @@
       ],
       "item_ids": [
         "b6808c8ec7a9"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "8a8a3bfdc5fc",
+      "topic": "email epstein people powerful",
+      "keywords": [
+        "email",
+        "epstein",
+        "people",
+        "powerful",
+        "reveal",
+        "sought"
+      ],
+      "item_ids": [
+        "f0caa5bd0f2b"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9986,24 +10019,6 @@
       ]
     },
     {
-      "id": "4dfe957c16b5",
-      "topic": "harvard larry leave resign",
-      "keywords": [
-        "harvard",
-        "larry",
-        "leave",
-        "resign",
-        "summer",
-        "take"
-      ],
-      "item_ids": [
-        "9fff00b743e4"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "79d881fe4e83",
       "topic": "elect mayor meet trump",
       "keywords": [
@@ -10022,6 +10037,42 @@
       ]
     },
     {
+      "id": "4dfe957c16b5",
+      "topic": "harvard larry leave resign",
+      "keywords": [
+        "harvard",
+        "larry",
+        "leave",
+        "resign",
+        "summer",
+        "take"
+      ],
+      "item_ids": [
+        "9fff00b743e4"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "071bfb23adbf",
+      "topic": "alto announce earning expectation",
+      "keywords": [
+        "alto",
+        "announce",
+        "earning",
+        "expectation",
+        "palo",
+        "tops"
+      ],
+      "item_ids": [
+        "512c580705d3"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "0e1655284f58",
       "topic": "arctic cold critical gold",
       "keywords": [
@@ -10034,24 +10085,6 @@
       ],
       "item_ids": [
         "2dafce769d89"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "fd87ac8ec77c",
-      "topic": "baidu nvidia point reached",
-      "keywords": [
-        "baidu",
-        "nvidia",
-        "point",
-        "reached",
-        "robotaxi",
-        "tipping"
-      ],
-      "item_ids": [
-        "33ba988ac972"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10409,6 +10442,24 @@
       ],
       "outlets": [
         "The Verge"
+      ]
+    },
+    {
+      "id": "7e76653989aa",
+      "topic": "labs meld national pace",
+      "keywords": [
+        "labs",
+        "meld",
+        "national",
+        "pace",
+        "picking",
+        "supercomputer"
+      ],
+      "item_ids": [
+        "fe60cd2318cd"
+      ],
+      "outlets": [
+        "NYT > Technology"
       ]
     },
     {
