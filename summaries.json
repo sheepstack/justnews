@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T23:57:46Z",
+  "generated_at": "2025-11-20T00:15:08Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -171,6 +171,39 @@
       },
       "read_minutes": 7,
       "cluster_id": "576ce3305be4"
+    },
+    {
+      "id": "8016796c22da",
+      "title": "Justice department will release Epstein files within 30 days, says US attorney general – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/19/us-congress-epstein-files-donald-trump-saudi-arabia-redistricting-latest-news-updates",
+      "published_at": "Wed, 19 Nov 2025 23:33:41 GMT",
+      "bullets": [
+        "• Justice department will release Epstein files within 30 days, Bondi says",
+        "• Law passed by US House of Representatives and Senate last week",
+        "• But it may not be comprehensive, as it could impact Trump-ordered release of names of those associated with the disgraced figure "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Justice department will release Epstein files within 30 days, Bondi says",
+          "• Law passed by US House of Representatives and Senate last week"
+        ],
+        "hopeful_bullets": [
+          "• Justice department will release Epstein files within 30 days, Bondi says",
+          "• Law passed by US House of Representatives and Senate last week"
+        ],
+        "stakes_bullets": [
+          "• Justice department will release Epstein files within 30 days, Bondi says",
+          "• But it may not be comprehensive, as it could impact Trump-ordered release of names of those associated with the disgraced figure "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "4cbf416e618c"
     },
     {
       "id": "5a241826a160",
@@ -672,40 +705,6 @@
       "cluster_id": "fe4643056fa8"
     },
     {
-      "id": "8016796c22da",
-      "title": "Justice department will release Epstein files within 30 days, says US attorney general – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/nov/19/us-congress-epstein-files-donald-trump-saudi-arabia-redistricting-latest-news-updates",
-      "published_at": "Wed, 19 Nov 2025 22:36:40 GMT",
-      "bullets": [
-        "• Donald Trump has ordered the release of his own personal details of his alleged involvement in a sex trafficking scandal",
-        "• The US government will release the documents within 30 days",
-        "• They will also protect the identities of any of the people involved in the case",
-        "• The release may not be comprehensive "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump has ordered the release of his own personal details of his alleged involvement in a sex trafficking scandal",
-          "• The US government will release the documents within 30 days"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump has ordered the release of his own personal details of his alleged involvement in a sex trafficking scandal",
-          "• The US government will release the documents within 30 days"
-        ],
-        "stakes_bullets": [
-          "• The US government will release the documents within 30 days",
-          "• They will also protect the identities of any of the people involved in the case"
-        ]
-      },
-      "read_minutes": 14,
-      "cluster_id": "4cbf416e618c"
-    },
-    {
       "id": "c64b3ac56cd2",
       "title": "Full grand jury didn’t see final Comey indictment, prosecutors admit",
       "outlet": "US news | The Guardian",
@@ -865,38 +864,6 @@
       },
       "read_minutes": 20,
       "cluster_id": "22d535f71cfa"
-    },
-    {
-      "id": "a4a0e2a6bb10",
-      "title": "March 1 Will Be an Amazing Day for Yellowstone Fans",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/kayce-dutton-yellowstone-y-marshals-release-date/",
-      "published_at": "Wed, 19 Nov 2025 22:00:11 GMT",
-      "bullets": [
-        "• Yellowstone fans can look forward to March 1, which has been set as an essential date for Taylor Sheridan’s Western franchise",
-        "• The original series ended in December 2024 with Yellowstone Season 5",
-        "• Kayce Dutton's Y: Marshals Season 1 will premiere on CBS on Sunday, 2026, at 8 pm Eastern "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Yellowstone fans can look forward to March 1, which has been set as an essential date for Taylor Sheridan’s Western franchise",
-          "• The original series ended in December 2024 with Yellowstone Season 5"
-        ],
-        "hopeful_bullets": [
-          "• Yellowstone fans can look forward to March 1, which has been set as an essential date for Taylor Sheridan’s Western franchise",
-          "• The original series ended in December 2024 with Yellowstone Season 5"
-        ],
-        "stakes_bullets": [
-          "• Kayce Dutton's Y: Marshals Season 1 will premiere on CBS on Sunday, 2026, at 8 pm Eastern "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e909e0d287c2"
     },
     {
       "id": "d958cdf0a96f",
@@ -4203,36 +4170,6 @@
       "cluster_id": "98632c994f70"
     },
     {
-      "id": "9b1958b20d66",
-      "title": "Sen. Maggie Hassan, D-N.H., on the vote to release the Epstein files",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/19/nx-s1-5612420/sen-maggie-hassan-d-n-h-on-the-vote-to-release-the-epstein-files",
-      "published_at": "Wed, 19 Nov 2025 06:45:33 -0500",
-      "bullets": [
-        "• Sen",
-        "• Maggie Hassan of New Hampshire is among the many Democrats who had been pressing for a vote so Epstein's victims could have, quote, \"answers, accountability and the truth\" Hassan: \"I hope that the president's signature will mean that there is a prompt release of the files\""
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.787
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sen",
-          "• Maggie Hassan of New Hampshire is among the many Democrats who had been pressing for a vote so Epstein's victims could have, quote, \"answers, accountability and the truth\" Hassan: \"I hope that the president's signature will mean that there is a prompt release of the files\""
-        ],
-        "hopeful_bullets": [
-          "• Maggie Hassan of New Hampshire is among the many Democrats who had been pressing for a vote so Epstein's victims could have, quote, \"answers, accountability and the truth\" Hassan: \"I hope that the president's signature will mean that there is a prompt release of the files\""
-        ],
-        "stakes_bullets": [
-          "• Maggie Hassan of New Hampshire is among the many Democrats who had been pressing for a vote so Epstein's victims could have, quote, \"answers, accountability and the truth\" Hassan: \"I hope that the president's signature will mean that there is a prompt release of the files\""
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "1ac2e4ba657c"
-    },
-    {
       "id": "169a45fca3e6",
       "title": "Student escapes as authorities search for 24 other girls abducted in Nigeria",
       "outlet": "NPR Topics: News",
@@ -6322,6 +6259,40 @@
       "cluster_id": "7b820ed0946f"
     },
     {
+      "id": "f62d739a35f4",
+      "title": "38 Years Later, Murder, She Wrote’s Most Rewatchable Episode Remains Perfect in Every Way",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/murder-she-wrote-most-rewatchable-episode/",
+      "published_at": "Thu, 20 Nov 2025 00:00:12 GMT",
+      "bullets": [
+        "• Murder, She Wrote is still one of the best murder mystery series of all time",
+        "• The show starred Angela Lansbury as Jessica Fletcher, a crime writer who also solved murders in real life",
+        "• \"The Corpse Flew First Class\" is a whodunit murder mystery that sets a small group of suspects in a confined space "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Murder, She Wrote is still one of the best murder mystery series of all time",
+          "• The show starred Angela Lansbury as Jessica Fletcher, a crime writer who also solved murders in real life"
+        ],
+        "hopeful_bullets": [
+          "• Murder, She Wrote is still one of the best murder mystery series of all time",
+          "• The show starred Angela Lansbury as Jessica Fletcher, a crime writer who also solved murders in real life"
+        ],
+        "stakes_bullets": [
+          "• Murder, She Wrote is still one of the best murder mystery series of all time",
+          "• The show starred Angela Lansbury as Jessica Fletcher, a crime writer who also solved murders in real life",
+          "• \"The Corpse Flew First Class\" is a whodunit murder mystery that sets a small group of suspects in a confined space "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "37acb82dc663"
+    },
+    {
       "id": "c690784022a8",
       "title": "Your Friendly Neighborhood Spider-Man: A Fresh and Engaging Take",
       "outlet": "Comic Quarters",
@@ -7149,75 +7120,6 @@
       "cluster_id": "b70fd23055da"
     },
     {
-      "id": "40f38107a55e",
-      "title": "China's astronauts land safely after space debris collision",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/15/nx-s1-5608381/chinas-astronauts-land-safely-after-space-debris-collision",
-      "published_at": "Sat, 15 Nov 2025 17:05:26 -0500",
-      "bullets": [
-        "• China's astronauts land safely after space debris collision",
-        "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft",
-        "• NPR's Emily Feng reports on their journey home",
-        "• The three astronauts took off from China's Gansu Province this past April "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.865
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China's astronauts land safely after space debris collision",
-          "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft"
-        ],
-        "hopeful_bullets": [
-          "• China's astronauts land safely after space debris collision",
-          "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft"
-        ],
-        "stakes_bullets": [
-          "• China's astronauts land safely after space debris collision",
-          "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft",
-          "• NPR's Emily Feng reports on their journey home"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "120a19dd962b"
-    },
-    {
-      "id": "ecbd4fbdfdd1",
-      "title": "As funding falters, young brain scientists rethink careers in research",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/11/15/nx-s1-5609389/neuroscience-funding-falters-trump-careers-autism-alzheimers",
-      "published_at": "Sat, 15 Nov 2025 07:00:00 -0500",
-      "bullets": [
-        "• As funding falters, young brain scientists rethink careers in research",
-        "• U.S",
-        "• has been a world leader in brain science for decades, says John Morrison, president of SfN",
-        "• National Institutes of Health and National Science Foundation have been buffeted by cuts, policy changes "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• As funding falters, young brain scientists rethink careers in research",
-          "• U.S"
-        ],
-        "hopeful_bullets": [
-          "• As funding falters, young brain scientists rethink careers in research",
-          "• U.S"
-        ],
-        "stakes_bullets": [
-          "• has been a world leader in brain science for decades, says John Morrison, president of SfN",
-          "• National Institutes of Health and National Science Foundation have been buffeted by cuts, policy changes "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "b04269945ee5"
-    },
-    {
       "id": "609febe0b871",
       "title": "TVC15: Luke Skywalker (Death Star Escape) (VC39)",
       "outlet": "Jedi Temple Archives",
@@ -7687,39 +7589,6 @@
       "cluster_id": "bac0fea8587a"
     },
     {
-      "id": "98413c56bc92",
-      "title": "Why some ant colonies get tricked into killing their own queens",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/17/nx-s1-5604754/parasitic-ant-queens-trick-workers-kill-regicide",
-      "published_at": "Mon, 17 Nov 2025 11:00:00 -0500",
-      "bullets": [
-        "• Some female ants practice a kind of chemical warfare that lets them sneak into the established colonies of other ant species and manipulate the worker ants into committing regicide",
-        "• The queen is paramount in an ant colony; the queen produces all the eggs, while the workers take care of her",
-        "• After a colony has been around awhile, however, it will start to produce some females capable of reproduction",
-        "• These females fly away, in order to establish new colonies and their own reigns "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.931
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Some female ants practice a kind of chemical warfare that lets them sneak into the established colonies of other ant species and manipulate the worker ants into committing regicide",
-          "• The queen is paramount in an ant colony; the queen produces all the eggs, while the workers take care of her"
-        ],
-        "hopeful_bullets": [
-          "• Some female ants practice a kind of chemical warfare that lets them sneak into the established colonies of other ant species and manipulate the worker ants into committing regicide",
-          "• The queen is paramount in an ant colony; the queen produces all the eggs, while the workers take care of her"
-        ],
-        "stakes_bullets": [
-          "• After a colony has been around awhile, however, it will start to produce some females capable of reproduction"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "15e4dbc2c43c"
-    },
-    {
       "id": "cee5a2d1a059",
       "title": "Shipping has a big carbon footprint. Can this lo-fi solution shrink it?",
       "outlet": "Positive News",
@@ -7782,72 +7651,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "42acc176f7b0"
-    },
-    {
-      "id": "8e44fedc2dd0",
-      "title": "A guerrilla gardener installed a pop-up wetland in the LA River. Here's how — and why",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/17/nx-s1-5589228/garden-environment-restoration-ecology-la-river-guerrilla",
-      "published_at": "Mon, 17 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• A guerrilla gardener installed a pop-up wetland in the LA River",
-        "• Doug Rosenberg came upon a shopping cart tipped over in the river's shallow waters back in 2020",
-        "• The waterway bisecting the city was converted to a giant storm drain nearly a century ago "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A guerrilla gardener installed a pop-up wetland in the LA River",
-          "• Doug Rosenberg came upon a shopping cart tipped over in the river's shallow waters back in 2020"
-        ],
-        "hopeful_bullets": [
-          "• A guerrilla gardener installed a pop-up wetland in the LA River",
-          "• Doug Rosenberg came upon a shopping cart tipped over in the river's shallow waters back in 2020"
-        ],
-        "stakes_bullets": [
-          "• A guerrilla gardener installed a pop-up wetland in the LA River",
-          "• Doug Rosenberg came upon a shopping cart tipped over in the river's shallow waters back in 2020",
-          "• The waterway bisecting the city was converted to a giant storm drain nearly a century ago "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "89f9d3c2dcd9"
-    },
-    {
-      "id": "e7277dcb5c62",
-      "title": "Deal restores Cornell's federal grants, reviving research on infant artificial heart",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/17/nx-s1-5607097/deal-restores-cornells-federal-grants-reviving-research-on-infant-artificial-heart",
-      "published_at": "Mon, 17 Nov 2025 04:53:30 -0500",
-      "bullets": [
-        "• Deal restores Cornell's federal grants, reviving research on infant artificial heart",
-        "• For one scientist, that means resuming work on an implantable artificial heart for babies and toddlers",
-        "• James Antaki was among the researchers who had their federal grants canceled by the Trump administration "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.961
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Deal restores Cornell's federal grants, reviving research on infant artificial heart",
-          "• For one scientist, that means resuming work on an implantable artificial heart for babies and toddlers"
-        ],
-        "hopeful_bullets": [
-          "• Deal restores Cornell's federal grants, reviving research on infant artificial heart",
-          "• For one scientist, that means resuming work on an implantable artificial heart for babies and toddlers"
-        ],
-        "stakes_bullets": [
-          "• For one scientist, that means resuming work on an implantable artificial heart for babies and toddlers"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "757771b70fe9"
     },
     {
       "id": "234ad8f6ea3d",
@@ -8009,40 +7812,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "082da55871a5"
-    },
-    {
-      "id": "fe72f3db74b8",
-      "title": "Scientists pull ancient RNA from a woolly mammoth's body",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/14/nx-s1-5607041/wooly-mammoth-oldest-rna-yuka",
-      "published_at": "Fri, 14 Nov 2025 11:41:30 -0500",
-      "bullets": [
-        "• Scientists pull ancient RNA from a woolly mammoth's body",
-        "• The animal had been found thawing out of a permafrost cliff near the Siberian coastline",
-        "• Researchers say they managed to extract something remarkable from that ancient mammoth",
-        "• RNA, the molecule that translates genes into proteins, tends to degrade rapidly "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists pull ancient RNA from a woolly mammoth's body",
-          "• The animal had been found thawing out of a permafrost cliff near the Siberian coastline"
-        ],
-        "hopeful_bullets": [
-          "• The animal had been found thawing out of a permafrost cliff near the Siberian coastline"
-        ],
-        "stakes_bullets": [
-          "• Scientists pull ancient RNA from a woolly mammoth's body",
-          "• The animal had been found thawing out of a permafrost cliff near the Siberian coastline",
-          "• Researchers say they managed to extract something remarkable from that ancient mammoth"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "fe0de65b0187"
     },
     {
       "id": "83955d2d0c9f",
@@ -8542,7 +8311,7 @@
           "• Nvidia's Q4 outlook is a whopping $65 billion, which would require it to grow quarterly revenue by another $8 billion in just three more months "
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "c2c466d4f65d"
     },
     {
@@ -10795,24 +10564,6 @@
       ]
     },
     {
-      "id": "15e4dbc2c43c",
-      "topic": "ant colonie get killing",
-      "keywords": [
-        "ant",
-        "colonie",
-        "get",
-        "killing",
-        "some",
-        "tricked"
-      ],
-      "item_ids": [
-        "98413c56bc92"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "42acc176f7b0",
       "topic": "clas cost disaster insurance",
       "keywords": [
@@ -10825,96 +10576,6 @@
       ],
       "item_ids": [
         "ef58eea753e9"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "89f9d3c2dcd9",
-      "topic": "gardener guerrilla installed pop",
-      "keywords": [
-        "gardener",
-        "guerrilla",
-        "installed",
-        "pop",
-        "river",
-        "wetland"
-      ],
-      "item_ids": [
-        "8e44fedc2dd0"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "757771b70fe9",
-      "topic": "cornell deal federal grant",
-      "keywords": [
-        "cornell",
-        "deal",
-        "federal",
-        "grant",
-        "restore",
-        "reviving"
-      ],
-      "item_ids": [
-        "e7277dcb5c62"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "120a19dd962b",
-      "topic": "astronaut china debri land",
-      "keywords": [
-        "astronaut",
-        "china",
-        "debri",
-        "land",
-        "safely",
-        "space"
-      ],
-      "item_ids": [
-        "40f38107a55e"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "b04269945ee5",
-      "topic": "brain falter funding rethink",
-      "keywords": [
-        "brain",
-        "falter",
-        "funding",
-        "rethink",
-        "scientist",
-        "young"
-      ],
-      "item_ids": [
-        "ecbd4fbdfdd1"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "fe0de65b0187",
-      "topic": "ancient mammoth pull rna",
-      "keywords": [
-        "ancient",
-        "mammoth",
-        "pull",
-        "rna",
-        "scientist",
-        "woolly"
-      ],
-      "item_ids": [
-        "fe72f3db74b8"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -10951,24 +10612,6 @@
       ],
       "item_ids": [
         "1d755b64a52e"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "1ac2e4ba657c",
-      "topic": "epstein hassan maggie release",
-      "keywords": [
-        "epstein",
-        "hassan",
-        "maggie",
-        "release",
-        "sen",
-        "vote"
-      ],
-      "item_ids": [
-        "9b1958b20d66"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -13234,6 +12877,24 @@
       ]
     },
     {
+      "id": "37acb82dc663",
+      "topic": "later most murder she",
+      "keywords": [
+        "later",
+        "most",
+        "murder",
+        "she",
+        "wrote",
+        "year"
+      ],
+      "item_ids": [
+        "f62d739a35f4"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "685fa0a256f2",
       "topic": "ahead become hit netflix",
       "keywords": [
@@ -13390,23 +13051,6 @@
       ],
       "item_ids": [
         "403bb1a439c6"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "e909e0d287c2",
-      "topic": "amazing day fans march",
-      "keywords": [
-        "amazing",
-        "day",
-        "fans",
-        "march",
-        "yellowstone"
-      ],
-      "item_ids": [
-        "a4a0e2a6bb10"
       ],
       "outlets": [
         "CBR"
@@ -13945,6 +13589,24 @@
       ]
     },
     {
+      "id": "d76f101e19ed",
+      "topic": "court down order redistricting",
+      "keywords": [
+        "court",
+        "down",
+        "order",
+        "redistricting",
+        "striking",
+        "texa"
+      ],
+      "item_ids": [
+        "582feaeffd2b"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "46a7a617b19d",
       "topic": "blocking brown jeffrey judge",
       "keywords": [
@@ -14101,24 +13763,6 @@
       ],
       "item_ids": [
         "7c7d6430ccb1"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "d76f101e19ed",
-      "topic": "court down order redistricting",
-      "keywords": [
-        "court",
-        "down",
-        "order",
-        "redistricting",
-        "striking",
-        "texa"
-      ],
-      "item_ids": [
-        "582feaeffd2b"
       ],
       "outlets": [
         "The Texas Tribune"
