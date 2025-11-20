@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T17:53:42Z",
+  "generated_at": "2025-11-20T18:16:47Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -272,72 +272,6 @@
       "cluster_id": "2283bea575fa"
     },
     {
-      "id": "f9a8a961bb78",
-      "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/",
-      "published_at": "Wed, 19 Nov 2025 21:25:24 +0000",
-      "bullets": [
-        "• Cloudflare outage disrupted large numbers of websites and online services yesterday",
-        "• The company initially thought it was hit by a “hyper-scale” DDoS (distributed denial-of-service) attack",
-        "• But an important file had unexpectedly doubled in size and propagated across the network "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Cloudflare outage disrupted large numbers of websites and online services yesterday",
-          "• The company initially thought it was hit by a “hyper-scale” DDoS (distributed denial-of-service) attack"
-        ],
-        "hopeful_bullets": [
-          "• Cloudflare outage disrupted large numbers of websites and online services yesterday",
-          "• The company initially thought it was hit by a “hyper-scale” DDoS (distributed denial-of-service) attack"
-        ],
-        "stakes_bullets": [
-          "• But an important file had unexpectedly doubled in size and propagated across the network "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4939eb5ca25f"
-    },
-    {
-      "id": "c4a3dd02c781",
-      "title": "Rocket Lab Electron among first artifacts installed in CA Science Center space gallery",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/space/2025/11/rocket-lab-electron-among-first-artifacts-installed-in-ca-science-center-space-gallery/",
-      "published_at": "Wed, 19 Nov 2025 21:14:42 +0000",
-      "bullets": [
-        "• The California Science Center in Los Angeles has completed its first exhibit gallery",
-        "• The Kent Kresa Space Gallery features a space shuttle main engine and a Rocket Lab Electron rocket",
-        "• The gallery is named after former chairman and CEO of North Grumman and General Motors "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The California Science Center in Los Angeles has completed its first exhibit gallery",
-          "• The Kent Kresa Space Gallery features a space shuttle main engine and a Rocket Lab Electron rocket"
-        ],
-        "hopeful_bullets": [
-          "• The California Science Center in Los Angeles has completed its first exhibit gallery",
-          "• The Kent Kresa Space Gallery features a space shuttle main engine and a Rocket Lab Electron rocket"
-        ],
-        "stakes_bullets": [
-          "• The California Science Center in Los Angeles has completed its first exhibit gallery",
-          "• The Kent Kresa Space Gallery features a space shuttle main engine and a Rocket Lab Electron rocket",
-          "• The gallery is named after former chairman and CEO of North Grumman and General Motors "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a74b28d7b7fe"
-    },
-    {
       "id": "d136e68cb800",
       "title": "The Mavericks Announce Special Guest Lineup for Blowout Raul Malo Tribute at the Ryman",
       "outlet": "Music News",
@@ -472,40 +406,6 @@
       "cluster_id": "f80ea132d679"
     },
     {
-      "id": "02385e51f57a",
-      "title": "He got sued for sharing public YouTube videos; nightmare ended in settlement",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/11/proctorio-settles-curious-lawsuit-with-librarian-who-shared-public-youtube-videos/",
-      "published_at": "Wed, 19 Nov 2025 20:56:59 +0000",
-      "bullets": [
-        "• Ian Linkletter was a librarian at the University of British Columbia",
-        "• He was sued for re-posting a YouTube video on social media by using the “share” button",
-        "• Linkletter's legal nightmare started in 2020 after an education technology company, Proctorio, began monitoring student backlash over its AI tool "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ian Linkletter was a librarian at the University of British Columbia",
-          "• He was sued for re-posting a YouTube video on social media by using the “share” button"
-        ],
-        "hopeful_bullets": [
-          "• Ian Linkletter was a librarian at the University of British Columbia",
-          "• He was sued for re-posting a YouTube video on social media by using the “share” button"
-        ],
-        "stakes_bullets": [
-          "• Ian Linkletter was a librarian at the University of British Columbia",
-          "• He was sued for re-posting a YouTube video on social media by using the “share” button",
-          "• Linkletter's legal nightmare started in 2020 after an education technology company, Proctorio, began monitoring student backlash over its AI tool "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "79de72d57b84"
-    },
-    {
       "id": "e15e46f6fda0",
       "title": "Watch Snocaps Perform “Coast” on Fallon",
       "outlet": "RSS: News",
@@ -536,38 +436,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "7c32da765d02"
-    },
-    {
-      "id": "444ae5838555",
-      "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/",
-      "published_at": "Wed, 19 Nov 2025 20:25:46 +0000",
-      "bullets": [
-        "• Microsoft introduced Copilot Actions, a new set of “experimental agentic features” that, when enabled, perform “everyday tasks like organizing files, scheduling meetings, or sending emails,” when enabled",
-        "• Microsoft recommended users enable Copilot actions only “if you understand the security implications outlined”"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Microsoft introduced Copilot Actions, a new set of “experimental agentic features” that, when enabled, perform “everyday tasks like organizing files, scheduling meetings, or sending emails,” when enabled",
-          "• Microsoft recommended users enable Copilot actions only “if you understand the security implications outlined”"
-        ],
-        "hopeful_bullets": [
-          "• Microsoft introduced Copilot Actions, a new set of “experimental agentic features” that, when enabled, perform “everyday tasks like organizing files, scheduling meetings, or sending emails,” when enabled",
-          "• Microsoft recommended users enable Copilot actions only “if you understand the security implications outlined”"
-        ],
-        "stakes_bullets": [
-          "• Microsoft introduced Copilot Actions, a new set of “experimental agentic features” that, when enabled, perform “everyday tasks like organizing files, scheduling meetings, or sending emails,” when enabled",
-          "• Microsoft recommended users enable Copilot actions only “if you understand the security implications outlined”"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "355a6890f0a0"
     },
     {
       "id": "4d5be80ddbdb",
@@ -636,75 +504,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "953b2d0596d8"
-    },
-    {
-      "id": "acf9a38ac4cf",
-      "title": "‘Wilderness Reform’ – Josh Ruben Sets Next Horror Movie Project at Paramount",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/news/550072/wilderness-reform-josh-ruben-sets-next-horror-movie-project-at-paramount/",
-      "published_at": "Wed, 19 Nov 2025 20:06:38 +0000",
-      "bullets": [
-        "• Josh Ruben has been quietly building a successful directorial career in the horror film genre",
-        "• The film is set at a reform camp for troubled teens",
-        "• The organization has a history of strange goings on and mysterious disappearances",
-        "• Screenwriters Steve Desmond and Michael Sherman are on deck to write the adaptation "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Josh Ruben has been quietly building a successful directorial career in the horror film genre",
-          "• The film is set at a reform camp for troubled teens"
-        ],
-        "hopeful_bullets": [
-          "• Josh Ruben has been quietly building a successful directorial career in the horror film genre",
-          "• The film is set at a reform camp for troubled teens"
-        ],
-        "stakes_bullets": [
-          "• Josh Ruben has been quietly building a successful directorial career in the horror film genre",
-          "• The film is set at a reform camp for troubled teens",
-          "• The organization has a history of strange goings on and mysterious disappearances"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "fe03413ad5b5"
-    },
-    {
-      "id": "9144599232f5",
-      "title": "Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/gadgets/2025/11/testing-shows-apple-n1-wi-fi-chip-improves-on-older-broadcom-chips-in-every-way/",
-      "published_at": "Wed, 19 Nov 2025 19:33:22 +0000",
-      "bullets": [
-        "• Apple's new N1 chip is Apple's first in-house chip made to handle local wireless connections",
-        "• The N1 supports Wi-Fi 7, Bluetooth 6, and the Thread smart home communication protocol",
-        "• The median download speed for the iPhone 17 series was 329.56Mbps, compared to 236.46Mbps for iPhone 16 "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Apple's new N1 chip is Apple's first in-house chip made to handle local wireless connections",
-          "• The N1 supports Wi-Fi 7, Bluetooth 6, and the Thread smart home communication protocol"
-        ],
-        "hopeful_bullets": [
-          "• Apple's new N1 chip is Apple's first in-house chip made to handle local wireless connections",
-          "• The N1 supports Wi-Fi 7, Bluetooth 6, and the Thread smart home communication protocol"
-        ],
-        "stakes_bullets": [
-          "• Apple's new N1 chip is Apple's first in-house chip made to handle local wireless connections",
-          "• The N1 supports Wi-Fi 7, Bluetooth 6, and the Thread smart home communication protocol",
-          "• The median download speed for the iPhone 17 series was 329.56Mbps, compared to 236.46Mbps for iPhone 16 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "fcfa367e3e7c"
     },
     {
       "id": "51a91cfc3806",
@@ -2564,6 +2363,171 @@
       "cluster_id": "de631f7845cb"
     },
     {
+      "id": "d3f429807b57",
+      "title": "Six Obscure Licensed Horror Video Games That Are Still Worth Your Time",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/editorials/3915110/licensed-horror-games-that-are-still-worth-your-time/",
+      "published_at": "Thu, 20 Nov 2025 18:00:39 +0000",
+      "bullets": [
+        "• Six obscure licensed horror video games worth picking up from the bottom of the bargain bin",
+        "• Games like Killer Klowns From Outer Space: The Game have proven that nearly any horror movie can be turned into a fun video game if handled by talented developers "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Six obscure licensed horror video games worth picking up from the bottom of the bargain bin",
+          "• Games like Killer Klowns From Outer Space: The Game have proven that nearly any horror movie can be turned into a fun video game if handled by talented developers "
+        ],
+        "hopeful_bullets": [
+          "• Six obscure licensed horror video games worth picking up from the bottom of the bargain bin",
+          "• Games like Killer Klowns From Outer Space: The Game have proven that nearly any horror movie can be turned into a fun video game if handled by talented developers "
+        ],
+        "stakes_bullets": [
+          "• Six obscure licensed horror video games worth picking up from the bottom of the bargain bin",
+          "• Games like Killer Klowns From Outer Space: The Game have proven that nearly any horror movie can be turned into a fun video game if handled by talented developers "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "ea95ab6350b7"
+    },
+    {
+      "id": "30158b50fa98",
+      "title": "Miraculous World: Tokyo Stellar Force Sets a New Premiere Date at the Biggest Pop Culture Festival in the World",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/miraculous-world-tokyo-stellar-force-sets-premiere/",
+      "published_at": "Thu, 20 Nov 2025 18:00:11 GMT",
+      "bullets": [
+        "• Miraculous World: Tokyo Stellar Force officially sets its Brazilian premiere date",
+        "• The premiere will take place on December 7 at CCXP Brazil",
+        "• The \"A Decade of Heroes and New Adventures\" panel will offer a look at the future of the franchise "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Miraculous World: Tokyo Stellar Force officially sets its Brazilian premiere date",
+          "• The premiere will take place on December 7 at CCXP Brazil"
+        ],
+        "hopeful_bullets": [
+          "• Miraculous World: Tokyo Stellar Force officially sets its Brazilian premiere date",
+          "• The premiere will take place on December 7 at CCXP Brazil"
+        ],
+        "stakes_bullets": [
+          "• The premiere will take place on December 7 at CCXP Brazil",
+          "• The \"A Decade of Heroes and New Adventures\" panel will offer a look at the future of the franchise "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e8a70caed5a7"
+    },
+    {
+      "id": "45deb6a93b5e",
+      "title": "Jeremy Renner & Edie Falco Face Each Other in Mayor of Kingstown Exclusive Clip",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/mayor-of-kingstown-exclusive-clip-episode-5/",
+      "published_at": "Thu, 20 Nov 2025 18:00:11 GMT",
+      "bullets": [
+        "• The Taylor Sheridan universe is thriving again, even with his looming exit from Paramount+",
+        "• The new entry has Mike striving to protect his brother, Kyle, a police officer who is in prison after killing a crooked cop to save innocent lives",
+        "• Edie Falco is a newcomer to the show "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Taylor Sheridan universe is thriving again, even with his looming exit from Paramount+",
+          "• The new entry has Mike striving to protect his brother, Kyle, a police officer who is in prison after killing a crooked cop to save innocent lives"
+        ],
+        "hopeful_bullets": [
+          "• The Taylor Sheridan universe is thriving again, even with his looming exit from Paramount+",
+          "• The new entry has Mike striving to protect his brother, Kyle, a police officer who is in prison after killing a crooked cop to save innocent lives"
+        ],
+        "stakes_bullets": [
+          "• The Taylor Sheridan universe is thriving again, even with his looming exit from Paramount+",
+          "• The new entry has Mike striving to protect his brother, Kyle, a police officer who is in prison after killing a crooked cop to save innocent lives",
+          "• Edie Falco is a newcomer to the show "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "1bc0584b9890"
+    },
+    {
+      "id": "c0529c6c4b50",
+      "title": "House of the Dragon's Most Controversial Scene Confirmed Who Really Started the Targaryen Civil War",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/house-of-the-dragons-controversial-scene-alicent-targaryen-civil-war/",
+      "published_at": "Thu, 20 Nov 2025 18:00:11 GMT",
+      "bullets": [
+        "• Season 3 of House of the Dragon is easily its most anticipated, because the first two seasons set the scene for an epic battle between the Greens and the Blacks",
+        "• Who is really responsible for the civil war between the Targaryens? Some would say that King Viserys unwittingly started a war with his incoherent words",
+        "• Others opine that Aemond Targaryen started the war in earnest when he killed Lucerys "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Season 3 of House of the Dragon is easily its most anticipated, because the first two seasons set the scene for an epic battle between the Greens and the Blacks",
+          "• Who is really responsible for the civil war between the Targaryens? Some would say that King Viserys unwittingly started a war with his incoherent words"
+        ],
+        "hopeful_bullets": [
+          "• Season 3 of House of the Dragon is easily its most anticipated, because the first two seasons set the scene for an epic battle between the Greens and the Blacks",
+          "• Who is really responsible for the civil war between the Targaryens? Some would say that King Viserys unwittingly started a war with his incoherent words"
+        ],
+        "stakes_bullets": [
+          "• Season 3 of House of the Dragon is easily its most anticipated, because the first two seasons set the scene for an epic battle between the Greens and the Blacks"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "53a35827d3d1"
+    },
+    {
+      "id": "62c3fab45491",
+      "title": "Emma Corrin, Hunter Schafer, Havana Rose Liu, Sophie Wilde Join A24 Horror Film from ‘The First Omen’ Director",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3917141/emma-corrin-hunter-schafer-havana-rose-liu-sophie-wilde-join-a24-horror-film-from-the-first-omen-director/",
+      "published_at": "Thu, 20 Nov 2025 17:57:42 +0000",
+      "bullets": [
+        "• Emma Corrin, Hunter Schafer, Havana Rose Liu, Sophie Wilde join A24 horror film from Arkasha Stevenson",
+        "• Josh Hutcherson, Frank Dillane, Caleb Landry Jones, and Whitmer Thomas are also in talks to star",
+        "• Stevenson is directing from a script she co-wrote with Tim Smith "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Emma Corrin, Hunter Schafer, Havana Rose Liu, Sophie Wilde join A24 horror film from Arkasha Stevenson",
+          "• Josh Hutcherson, Frank Dillane, Caleb Landry Jones, and Whitmer Thomas are also in talks to star"
+        ],
+        "hopeful_bullets": [
+          "• Emma Corrin, Hunter Schafer, Havana Rose Liu, Sophie Wilde join A24 horror film from Arkasha Stevenson",
+          "• Josh Hutcherson, Frank Dillane, Caleb Landry Jones, and Whitmer Thomas are also in talks to star"
+        ],
+        "stakes_bullets": [
+          "• Emma Corrin, Hunter Schafer, Havana Rose Liu, Sophie Wilde join A24 horror film from Arkasha Stevenson",
+          "• Josh Hutcherson, Frank Dillane, Caleb Landry Jones, and Whitmer Thomas are also in talks to star",
+          "• Stevenson is directing from a script she co-wrote with Tim Smith "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "02a028891ba6"
+    },
+    {
       "id": "9878f50384e5",
       "title": "See My Bloody Valentine Return to Stage for First Show Since 2018",
       "outlet": "Music News",
@@ -2597,6 +2561,136 @@
       "cluster_id": "04df70f1a9b3"
     },
     {
+      "id": "0e7caa7f31f9",
+      "title": "Google’s latest swing at Chromebook gaming is a free year of GeForce Now",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gaming/2025/11/googles-latest-swing-at-chromebook-gaming-is-a-free-year-of-geforce-now/",
+      "published_at": "Thu, 20 Nov 2025 17:49:23 +0000",
+      "bullets": [
+        "• Google has teamed up with Nvidia to offer a version of GeForce Now cloud streaming for Chromebooks",
+        "• Starting today, anyone who buys a Chromebook will get a free year of a new service called GeForce Now Fast Pass",
+        "• There are no ads and less waiting for server slots, but you don't get to play very long "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Google has teamed up with Nvidia to offer a version of GeForce Now cloud streaming for Chromebooks",
+          "• Starting today, anyone who buys a Chromebook will get a free year of a new service called GeForce Now Fast Pass"
+        ],
+        "hopeful_bullets": [
+          "• Google has teamed up with Nvidia to offer a version of GeForce Now cloud streaming for Chromebooks",
+          "• Starting today, anyone who buys a Chromebook will get a free year of a new service called GeForce Now Fast Pass"
+        ],
+        "stakes_bullets": [
+          "• Starting today, anyone who buys a Chromebook will get a free year of a new service called GeForce Now Fast Pass"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "9bf2da3f1199"
+    },
+    {
+      "id": "e0047d7bb487",
+      "title": "‘Return to Silent Hill’: New Full-Length Sequel Trailer Drags You Back Into Foggy Hell [Watch]",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/news/550189/return-to-silent-hill-new-full-length-sequel-trailer-drags-you-back-into-foggy-hell-watch/",
+      "published_at": "Thu, 20 Nov 2025 17:49:16 +0000",
+      "bullets": [
+        "• The first full-length version of the original Silent Hill sequel has been released",
+        "• The film is set to be released in January",
+        "• It's the first time the game has been re-imagined in this way, and it's not the first of its kind "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The first full-length version of the original Silent Hill sequel has been released",
+          "• The film is set to be released in January"
+        ],
+        "hopeful_bullets": [
+          "• The first full-length version of the original Silent Hill sequel has been released",
+          "• The film is set to be released in January"
+        ],
+        "stakes_bullets": [
+          "• The first full-length version of the original Silent Hill sequel has been released",
+          "• The film is set to be released in January",
+          "• It's the first time the game has been re-imagined in this way, and it's not the first of its kind "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "06607d3fee34"
+    },
+    {
+      "id": "38192595cc91",
+      "title": "Nvidia stock turns negative — reverses post-earnings rally",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/20/nvidia-shares-rise-after-after-stronger-than-expected-3q-results.html",
+      "published_at": "Thu, 20 Nov 2025 17:46:55 GMT",
+      "bullets": [
+        "• Shares in Nvidia initially popped as much as 5% Thursday after the U.S",
+        "• firm beat expectations in third-quarter results",
+        "• Nvidia CEO Jensen Huang: \"From our vantage point, we see something very different\" The firm topped forecasts for revenue, and issued stronger-than-expected fourth-quarter guidance "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Shares in Nvidia initially popped as much as 5% Thursday after the U.S",
+          "• firm beat expectations in third-quarter results"
+        ],
+        "hopeful_bullets": [
+          "• Nvidia CEO Jensen Huang: \"From our vantage point, we see something very different\" The firm topped forecasts for revenue, and issued stronger-than-expected fourth-quarter guidance "
+        ],
+        "stakes_bullets": [
+          "• firm beat expectations in third-quarter results",
+          "• Nvidia CEO Jensen Huang: \"From our vantage point, we see something very different\" The firm topped forecasts for revenue, and issued stronger-than-expected fourth-quarter guidance "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ac71c7165dbb"
+    },
+    {
+      "id": "5a1eea6b3c31",
+      "title": "COP30 climate talks evacuated after fire breaks out",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce9d9p5jrjgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 20 Nov 2025 17:37:37 GMT",
+      "bullets": [
+        "• Fire breaks out in the pavilion at COP30 climate talks in Belem, Brazil",
+        "• It is not known what caused the fire, but it is not clear if it was caused by a wheelchair",
+        "• Thousands of people are attending the UN climate talks, including delegations from around the world "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fire breaks out in the pavilion at COP30 climate talks in Belem, Brazil",
+          "• It is not known what caused the fire, but it is not clear if it was caused by a wheelchair"
+        ],
+        "hopeful_bullets": [
+          "• Fire breaks out in the pavilion at COP30 climate talks in Belem, Brazil",
+          "• It is not known what caused the fire, but it is not clear if it was caused by a wheelchair"
+        ],
+        "stakes_bullets": [
+          "• It is not known what caused the fire, but it is not clear if it was caused by a wheelchair"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "55f587b6feea"
+    },
+    {
       "id": "e4206df3c9c7",
       "title": "In Case You Missed It: RUFUS Coming November 25 – Request Your Review Screener Today! ﻿",
       "outlet": "HorrorFix",
@@ -2627,6 +2721,37 @@
       },
       "read_minutes": 2,
       "cluster_id": "762c27016710"
+    },
+    {
+      "id": "46695f9de4ef",
+      "title": "US in talks to attend G20 summit after initial boycott, South Africa says",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/nov/20/south-africa-says-us-boycott-of-g20-is-coercion-by-absentia",
+      "published_at": "Thu, 20 Nov 2025 17:33:02 GMT",
+      "bullets": [
+        "• Donald Trump had said the US would boycott the G20 summit in Johannesburg, South Africa’s president has said",
+        "• Donald Trump has claimed that South Africa racially discriminates against the minority white Afrikaner community",
+        "• South Africa's government has vehemently denied the accusations and pressed ahead with its plans to host the first summit in Africa "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.963
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump had said the US would boycott the G20 summit in Johannesburg, South Africa’s president has said",
+          "• Donald Trump has claimed that South Africa racially discriminates against the minority white Afrikaner community"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump has claimed that South Africa racially discriminates against the minority white Afrikaner community"
+        ],
+        "stakes_bullets": [
+          "• South Africa's government has vehemently denied the accusations and pressed ahead with its plans to host the first summit in Africa "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "730fb592f4e6"
     },
     {
       "id": "a148e03ae1ea",
@@ -2663,6 +2788,37 @@
       "cluster_id": "1139229da704"
     },
     {
+      "id": "427fc6c4c32a",
+      "title": "Cop30 live: conference centre evacuated as fire breaks out",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/environment/live/2025/nov/20/cop30-live-news-updates-belem-brazil-president-lula",
+      "published_at": "Thu, 20 Nov 2025 17:26:13 GMT",
+      "bullets": [
+        "• António Guterres is in Belém to urge the world’s nations to find compromises in the final hours of Cop30",
+        "• He said frontline communities bearing the brunt of the climate crisis had heard enough excuses and were demanding results "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• António Guterres is in Belém to urge the world’s nations to find compromises in the final hours of Cop30",
+          "• He said frontline communities bearing the brunt of the climate crisis had heard enough excuses and were demanding results "
+        ],
+        "hopeful_bullets": [
+          "• António Guterres is in Belém to urge the world’s nations to find compromises in the final hours of Cop30",
+          "• He said frontline communities bearing the brunt of the climate crisis had heard enough excuses and were demanding results "
+        ],
+        "stakes_bullets": [
+          "• He said frontline communities bearing the brunt of the climate crisis had heard enough excuses and were demanding results "
+        ]
+      },
+      "read_minutes": 20,
+      "cluster_id": "378b25a5a550"
+    },
+    {
       "id": "3200fe24df99",
       "title": "Stone Roses and Primal Scream Bassist Gary “Mani” Mounfield Dies at 63",
       "outlet": "RSS: News",
@@ -2694,6 +2850,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "e832740d1d05"
+    },
+    {
+      "id": "5874fe80425b",
+      "title": "Flying with whales: Drones are remaking marine mammal research",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2025/11/flying-with-whales-drones-are-remaking-marine-mammal-research/",
+      "published_at": "Thu, 20 Nov 2025 17:22:29 +0000",
+      "bullets": [
+        "• The world's largest collection of mucus can be found in the U.S",
+        "• It's also known as the \"S.E\" of the world’s largest collections of snot",
+        "• It's a good way to get rid of the snot, but it can also be used to collect it from other parts of the globe "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The world's largest collection of mucus can be found in the U.S",
+          "• It's also known as the \"S.E\" of the world’s largest collections of snot"
+        ],
+        "hopeful_bullets": [
+          "• The world's largest collection of mucus can be found in the U.S",
+          "• It's also known as the \"S.E\" of the world’s largest collections of snot"
+        ],
+        "stakes_bullets": [
+          "• The world's largest collection of mucus can be found in the U.S",
+          "• It's also known as the \"S.E\" of the world’s largest collections of snot",
+          "• It's a good way to get rid of the snot, but it can also be used to collect it from other parts of the globe "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "513bd3d62fc0"
     },
     {
       "id": "b9eb857530b5",
@@ -2760,6 +2950,40 @@
       },
       "read_minutes": 4,
       "cluster_id": "4c3f2a801015"
+    },
+    {
+      "id": "612926dbe131",
+      "title": "Donald Trump and JD Vance snubbed for Dick Cheney’s funeral",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/20/dick-cheney-funeral-trump-vance",
+      "published_at": "Thu, 20 Nov 2025 17:21:10 GMT",
+      "bullets": [
+        "• Donald Trump and JD Vance snubbed by not being invited to Dick Cheney's funeral",
+        "• Former vice-president Dick Cheney died earlier this month at the age of 84",
+        "• Former president Joe Biden, former vice-presidents Kamala Harris, Mike Pence, Al Gore and Dan Quayle were in attendance "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump and JD Vance snubbed by not being invited to Dick Cheney's funeral",
+          "• Former vice-president Dick Cheney died earlier this month at the age of 84"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump and JD Vance snubbed by not being invited to Dick Cheney's funeral",
+          "• Former vice-president Dick Cheney died earlier this month at the age of 84"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump and JD Vance snubbed by not being invited to Dick Cheney's funeral",
+          "• Former vice-president Dick Cheney died earlier this month at the age of 84",
+          "• Former president Joe Biden, former vice-presidents Kamala Harris, Mike Pence, Al Gore and Dan Quayle were in attendance "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e49b371f9b63"
     },
     {
       "id": "fd3f60c6dbac",
@@ -2829,6 +3053,40 @@
       "cluster_id": "79207046949d"
     },
     {
+      "id": "05440ad745ca",
+      "title": "US dignitaries gather for Dick Cheney’s funeral but Trump, Obama and Clinton not in attendance – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
+      "published_at": "Thu, 20 Nov 2025 17:18:38 GMT",
+      "bullets": [
+        "• Former vice-president died earlier this month at the age of 84",
+        "• His daughter, former congresswoman Liz Cheney, will speak at today’s service",
+        "• Donald Trump and JD Vance were reportedly not invited to the funeral",
+        "• However, all former living vice-presidents will be in attendance "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.865
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Former vice-president died earlier this month at the age of 84",
+          "• His daughter, former congresswoman Liz Cheney, will speak at today’s service"
+        ],
+        "hopeful_bullets": [
+          "• Former vice-president died earlier this month at the age of 84",
+          "• His daughter, former congresswoman Liz Cheney, will speak at today’s service"
+        ],
+        "stakes_bullets": [
+          "• His daughter, former congresswoman Liz Cheney, will speak at today’s service",
+          "• However, all former living vice-presidents will be in attendance "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2496ed91c025"
+    },
+    {
       "id": "e9d3754f2126",
       "title": "Disney+ Upgrades With The Simpsons 24/7 Streaming Channel",
       "outlet": "CBR",
@@ -2894,38 +3152,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "ebdb458e1dc4"
-    },
-    {
-      "id": "05440ad745ca",
-      "title": "US dignitaries gather for Dick Cheney’s funeral but Trump, Obama and Clinton not in attendance – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
-      "published_at": "Thu, 20 Nov 2025 17:13:37 GMT",
-      "bullets": [
-        "• Several US dignitaries, including former presidents Joe Biden and George W Bush, are attending the funeral of Dick Cheney at the National Cathedral in Washington DC today",
-        "• The former vice-president died earlier this month at the age of 84",
-        "• His daughter, former congresswoman Liz Cheney, will speak at the service "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Several US dignitaries, including former presidents Joe Biden and George W Bush, are attending the funeral of Dick Cheney at the National Cathedral in Washington DC today",
-          "• The former vice-president died earlier this month at the age of 84"
-        ],
-        "hopeful_bullets": [
-          "• Several US dignitaries, including former presidents Joe Biden and George W Bush, are attending the funeral of Dick Cheney at the National Cathedral in Washington DC today",
-          "• The former vice-president died earlier this month at the age of 84"
-        ],
-        "stakes_bullets": [
-          "• His daughter, former congresswoman Liz Cheney, will speak at the service "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2496ed91c025"
     },
     {
       "id": "5cfbe291c2c2",
@@ -3060,7 +3286,7 @@
     },
     {
       "id": "c161a6474403",
-      "title": "Ottawa officials battle ‘mindblowing’ influx of thousands of goldfish in pond",
+      "title": "Ottawa officials to cull ‘mindblowing’ influx of thousands of goldfish in pond",
       "outlet": "World news | The Guardian",
       "url": "https://www.theguardian.com/world/2025/nov/20/ottawa-canada-goldfish",
       "published_at": "Thu, 20 Nov 2025 17:07:15 GMT",
@@ -3071,7 +3297,7 @@
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.962
+        "score": 0.931
       },
       "moods": {
         "brief_bullets": [
@@ -3087,7 +3313,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "be9672359c61"
+      "cluster_id": "20c3b4b89b89"
     },
     {
       "id": "78b644bdfb47",
@@ -3217,39 +3443,6 @@
       "cluster_id": "ef427e158f63"
     },
     {
-      "id": "38192595cc91",
-      "title": "Nvidia stock turns negative — reverses post-earnings rally",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/20/nvidia-shares-rise-after-after-stronger-than-expected-3q-results.html",
-      "published_at": "Thu, 20 Nov 2025 17:00:53 GMT",
-      "bullets": [
-        "• Shares in Nvidia initially popped as much as 5% Thursday after the firm beat expectations in third-quarter results",
-        "• Nvidia topped forecasts for revenue, which jumped 62% to $57.01 billion year-on-year",
-        "• The firm also issued stronger-than-expected fourth-quarter sales guidance "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Shares in Nvidia initially popped as much as 5% Thursday after the firm beat expectations in third-quarter results",
-          "• Nvidia topped forecasts for revenue, which jumped 62% to $57.01 billion year-on-year"
-        ],
-        "hopeful_bullets": [
-          "• The firm also issued stronger-than-expected fourth-quarter sales guidance "
-        ],
-        "stakes_bullets": [
-          "• Shares in Nvidia initially popped as much as 5% Thursday after the firm beat expectations in third-quarter results",
-          "• Nvidia topped forecasts for revenue, which jumped 62% to $57.01 billion year-on-year",
-          "• The firm also issued stronger-than-expected fourth-quarter sales guidance "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "ac71c7165dbb"
-    },
-    {
       "id": "c37388367649",
       "title": "Overhated & Underrated: The Most Underrated Transformers Movie of All Time is Already Being Forgotten",
       "outlet": "CBR",
@@ -3350,35 +3543,35 @@
       "cluster_id": "fd3fac40ced2"
     },
     {
-      "id": "427fc6c4c32a",
-      "title": "Cop30 live: current climate pathway ‘a death sentence for many’, says UN secretary-general",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/environment/live/2025/nov/20/cop30-live-news-updates-belem-brazil-president-lula",
-      "published_at": "Thu, 20 Nov 2025 16:57:18 GMT",
+      "id": "6c089962a7cc",
+      "title": "“Hey Google, did you upgrade your AI in my Android Auto?”",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/cars/2025/11/hey-google-did-you-upgrade-your-ai-in-my-android-auto/",
+      "published_at": "Thu, 20 Nov 2025 17:00:00 +0000",
       "bullets": [
-        "• António Guterres is in Belém to urge the world’s nations to find compromises in the final hours of Cop30",
-        "• He said frontline communities bearing the brunt of the climate crisis had heard enough excuses and were demanding results "
+        "• Android Auto is Google's platform for casting audio and navigation apps from a smartphone to a car’s infotainment system",
+        "• Apple might have its flashy CarPlay Ultra, but outside of an Aston Martin, where will any of us encounter that? Android Auto hasn’t been that neglected by Google "
       ],
-      "category": "World",
+      "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.96
+        "score": 0.943
       },
       "moods": {
         "brief_bullets": [
-          "• António Guterres is in Belém to urge the world’s nations to find compromises in the final hours of Cop30",
-          "• He said frontline communities bearing the brunt of the climate crisis had heard enough excuses and were demanding results "
+          "• Android Auto is Google's platform for casting audio and navigation apps from a smartphone to a car’s infotainment system",
+          "• Apple might have its flashy CarPlay Ultra, but outside of an Aston Martin, where will any of us encounter that? Android Auto hasn’t been that neglected by Google "
         ],
         "hopeful_bullets": [
-          "• António Guterres is in Belém to urge the world’s nations to find compromises in the final hours of Cop30",
-          "• He said frontline communities bearing the brunt of the climate crisis had heard enough excuses and were demanding results "
+          "• Android Auto is Google's platform for casting audio and navigation apps from a smartphone to a car’s infotainment system",
+          "• Apple might have its flashy CarPlay Ultra, but outside of an Aston Martin, where will any of us encounter that? Android Auto hasn’t been that neglected by Google "
         ],
         "stakes_bullets": [
-          "• He said frontline communities bearing the brunt of the climate crisis had heard enough excuses and were demanding results "
+          "• Apple might have its flashy CarPlay Ultra, but outside of an Aston Martin, where will any of us encounter that? Android Auto hasn’t been that neglected by Google "
         ]
       },
-      "read_minutes": 20,
-      "cluster_id": "b36ba682c9e7"
+      "read_minutes": 1,
+      "cluster_id": "acba7277cc79"
     },
     {
       "id": "6fd904e2c399",
@@ -3444,6 +3637,41 @@
       },
       "read_minutes": 2,
       "cluster_id": "e6c8ea342e68"
+    },
+    {
+      "id": "9ee234b99c89",
+      "title": "Google’s new Nano Banana Pro uses Gemini 3 power to generate more realistic AI images",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/google/2025/11/google-launches-nano-banana-pro-image-model-adds-ai-image-detection-in-gemini-app/",
+      "published_at": "Thu, 20 Nov 2025 16:33:25 +0000",
+      "bullets": [
+        "• Google's meme-friendly Nano Banana image-generation model is getting an upgrade",
+        "• The new Nano Banana Pro is rolling out with improved reasoning and instruction following",
+        "• Google says the new model can follow complex prompts to create more accurate images",
+        "• It's available to everyone in the Gemini app, but free users will find themselves up against the usage limits "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.912
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Google's meme-friendly Nano Banana image-generation model is getting an upgrade",
+          "• The new Nano Banana Pro is rolling out with improved reasoning and instruction following"
+        ],
+        "hopeful_bullets": [
+          "• The new Nano Banana Pro is rolling out with improved reasoning and instruction following",
+          "• It's available to everyone in the Gemini app, but free users will find themselves up against the usage limits "
+        ],
+        "stakes_bullets": [
+          "• Google's meme-friendly Nano Banana image-generation model is getting an upgrade",
+          "• The new Nano Banana Pro is rolling out with improved reasoning and instruction following",
+          "• It's available to everyone in the Gemini app, but free users will find themselves up against the usage limits "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "ebf59127de87"
     },
     {
       "id": "76cc0323c5b9",
@@ -3516,26 +3744,25 @@
       "url": "https://www.theguardian.com/us-news/2025/nov/20/elizabeth-warren-trump-ballroom",
       "published_at": "Thu, 20 Nov 2025 16:29:00 GMT",
       "bullets": [
-        "• Senator Elizabeth Warren says the White House ballroom could be a 'golden crime scene' She wants to see if any crimes have been committed in the construction of the new building",
-        "• The bill would impose restrictions on donations to the $300m project "
+        "• Senator Elizabeth Warren says the White House ballroom could be a 'golden crime scene' She wants to see if any crimes have been committed in the construction of the project",
+        "• Warren also wants to impose limits on donations to the $300m project "
       ],
       "category": "US",
       "sentiment": {
-        "label": "positive",
-        "score": 0.945
+        "label": "neutral",
+        "score": 0.613
       },
       "moods": {
         "brief_bullets": [
-          "• Senator Elizabeth Warren says the White House ballroom could be a 'golden crime scene' She wants to see if any crimes have been committed in the construction of the new building",
-          "• The bill would impose restrictions on donations to the $300m project "
+          "• Senator Elizabeth Warren says the White House ballroom could be a 'golden crime scene' She wants to see if any crimes have been committed in the construction of the project",
+          "• Warren also wants to impose limits on donations to the $300m project "
         ],
         "hopeful_bullets": [
-          "• Senator Elizabeth Warren says the White House ballroom could be a 'golden crime scene' She wants to see if any crimes have been committed in the construction of the new building",
-          "• The bill would impose restrictions on donations to the $300m project "
+          "• Senator Elizabeth Warren says the White House ballroom could be a 'golden crime scene' She wants to see if any crimes have been committed in the construction of the project",
+          "• Warren also wants to impose limits on donations to the $300m project "
         ],
         "stakes_bullets": [
-          "• Senator Elizabeth Warren says the White House ballroom could be a 'golden crime scene' She wants to see if any crimes have been committed in the construction of the new building",
-          "• The bill would impose restrictions on donations to the $300m project "
+          "• Senator Elizabeth Warren says the White House ballroom could be a 'golden crime scene' She wants to see if any crimes have been committed in the construction of the project"
         ]
       },
       "read_minutes": 3,
@@ -3806,6 +4033,38 @@
       "cluster_id": "837567a7a0ac"
     },
     {
+      "id": "cce599a3c2c5",
+      "title": "RFK Jr.’s loathesome edits: CDC website now falsely links vaccines and autism",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/health/2025/11/rfk-jr-s-loathesome-edits-cdc-website-now-falsely-links-vaccines-and-autism/",
+      "published_at": "Thu, 20 Nov 2025 16:15:50 +0000",
+      "bullets": [
+        "• Anti-vaccine link between vaccines and autism is replaced with a false link",
+        "• The change is sure to be celebrated by anti-vaccines supporters, but will sow more fear among the public",
+        "• The Department of Health and Prevention did not respond to questions from Ars Technica "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Anti-vaccine link between vaccines and autism is replaced with a false link",
+          "• The change is sure to be celebrated by anti-vaccines supporters, but will sow more fear among the public"
+        ],
+        "hopeful_bullets": [
+          "• Anti-vaccine link between vaccines and autism is replaced with a false link",
+          "• The change is sure to be celebrated by anti-vaccines supporters, but will sow more fear among the public"
+        ],
+        "stakes_bullets": [
+          "• The change is sure to be celebrated by anti-vaccines supporters, but will sow more fear among the public"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "dee851d59c10"
+    },
+    {
       "id": "6e2f5b367ce6",
       "title": "Bruce Campbell Voices Owl in ‘A Winnie-the-Pooh Christmas’ Animated Film",
       "outlet": "Bloody Disgusting!",
@@ -3940,105 +4199,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "a2834ae999ec"
-    },
-    {
-      "id": "53fd8c6d677b",
-      "title": "Moana's Live-Action Trailer Confirms Disney Is Doubling Down on Its Most Hated Remake Trend",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/moana-live-action-continues-disney-remake-trend/",
-      "published_at": "Thu, 20 Nov 2025 16:04:23 GMT",
-      "bullets": [
-        "• Disney released the first trailer for its live-action remake of Moana",
-        "• The one-minute teaser offers fans a glimpse of the original animated movie",
-        "• The trailer features enough computer-generated imagery to make viewers question whether it can still be called a live action movie "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Disney released the first trailer for its live-action remake of Moana",
-          "• The one-minute teaser offers fans a glimpse of the original animated movie"
-        ],
-        "hopeful_bullets": [
-          "• Disney released the first trailer for its live-action remake of Moana",
-          "• The one-minute teaser offers fans a glimpse of the original animated movie"
-        ],
-        "stakes_bullets": [
-          "• Disney released the first trailer for its live-action remake of Moana",
-          "• The one-minute teaser offers fans a glimpse of the original animated movie",
-          "• The trailer features enough computer-generated imagery to make viewers question whether it can still be called a live action movie "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "3de67c77d8f9"
-    },
-    {
-      "id": "b98e880a9d94",
-      "title": "Netflix’s Live Action Solo Leveling Moves Forward With Yoo Jin-Ho Casting",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/netflix-live-action-solo-leveling-yoo-jin-ho/",
-      "published_at": "Thu, 20 Nov 2025 16:02:35 GMT",
-      "bullets": [
-        "• South Korean actor Kang You Seok is rumored to be playing Yoo Jin-ho for Netflix's live-action series Solo Leveling",
-        "• Netflix has only confirmed that Byeon Woo-seok will play Sung Jinwoo's love interest, Cha Hae-in "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• South Korean actor Kang You Seok is rumored to be playing Yoo Jin-ho for Netflix's live-action series Solo Leveling",
-          "• Netflix has only confirmed that Byeon Woo-seok will play Sung Jinwoo's love interest, Cha Hae-in "
-        ],
-        "hopeful_bullets": [
-          "• South Korean actor Kang You Seok is rumored to be playing Yoo Jin-ho for Netflix's live-action series Solo Leveling",
-          "• Netflix has only confirmed that Byeon Woo-seok will play Sung Jinwoo's love interest, Cha Hae-in "
-        ],
-        "stakes_bullets": [
-          "• Netflix has only confirmed that Byeon Woo-seok will play Sung Jinwoo's love interest, Cha Hae-in "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "8c2dcd1a74a7"
-    },
-    {
-      "id": "3fca9fcdbc93",
-      "title": "March 13th Will Be a Great Day for Marvel Fans",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/marvel-cosmic-invaders-physical-edition-release-date/",
-      "published_at": "Thu, 20 Nov 2025 16:00:12 GMT",
-      "bullets": [
-        "• Marvel Cosmic Invasion is a beat ‘em up featuring a star-studded roster of iconic superheroes, including Captain America, Spider-Man, Storm, Black Panther, Phoenix, Iron Man, and Wolverine",
-        "• The game is launching for Nintendo Switch, Nintendo Switch 2, PlayStation 5, and Xbox Series X/S on December 1, 2025, with a day-one launch on Game Pass",
-        "• There’s a Standard Edition that is just a physical copy of the game, and a Deluxe Edition that comes with extra goodies "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Marvel Cosmic Invasion is a beat ‘em up featuring a star-studded roster of iconic superheroes, including Captain America, Spider-Man, Storm, Black Panther, Phoenix, Iron Man, and Wolverine",
-          "• The game is launching for Nintendo Switch, Nintendo Switch 2, PlayStation 5, and Xbox Series X/S on December 1, 2025, with a day-one launch on Game Pass"
-        ],
-        "hopeful_bullets": [
-          "• Marvel Cosmic Invasion is a beat ‘em up featuring a star-studded roster of iconic superheroes, including Captain America, Spider-Man, Storm, Black Panther, Phoenix, Iron Man, and Wolverine",
-          "• The game is launching for Nintendo Switch, Nintendo Switch 2, PlayStation 5, and Xbox Series X/S on December 1, 2025, with a day-one launch on Game Pass"
-        ],
-        "stakes_bullets": [
-          "• Marvel Cosmic Invasion is a beat ‘em up featuring a star-studded roster of iconic superheroes, including Captain America, Spider-Man, Storm, Black Panther, Phoenix, Iron Man, and Wolverine",
-          "• The game is launching for Nintendo Switch, Nintendo Switch 2, PlayStation 5, and Xbox Series X/S on December 1, 2025, with a day-one launch on Game Pass",
-          "• There’s a Standard Edition that is just a physical copy of the game, and a Deluxe Edition that comes with extra goodies "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2d98d63a6995"
     },
     {
       "id": "e7b6ed324b1b",
@@ -4562,40 +4722,6 @@
       "cluster_id": "9be1841b671b"
     },
     {
-      "id": "015027745c8a",
-      "title": "‘Night of the Comet’ & ‘Witchboard’ Novelizations Published by Christian Francis",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/books/3912600/night-of-the-comet-witchboard-novelizations-published-by-christian-francis/",
-      "published_at": "Thu, 20 Nov 2025 14:01:06 +0000",
-      "bullets": [
-        "• 'Night of the Comet' & 'Witchboard' Novelizations published by Echo On Publications",
-        "• Written by Christian Francis, editor-in-chief of In the Mouth of Madness, Wishmaster, and Tremors",
-        "• In Witchboard, teenagers discover they are not alone when they wake up to an empty Los Angeles "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.957
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 'Night of the Comet' & 'Witchboard' Novelizations published by Echo On Publications",
-          "• Written by Christian Francis, editor-in-chief of In the Mouth of Madness, Wishmaster, and Tremors"
-        ],
-        "hopeful_bullets": [
-          "• 'Night of the Comet' & 'Witchboard' Novelizations published by Echo On Publications",
-          "• Written by Christian Francis, editor-in-chief of In the Mouth of Madness, Wishmaster, and Tremors"
-        ],
-        "stakes_bullets": [
-          "• 'Night of the Comet' & 'Witchboard' Novelizations published by Echo On Publications",
-          "• Written by Christian Francis, editor-in-chief of In the Mouth of Madness, Wishmaster, and Tremors",
-          "• In Witchboard, teenagers discover they are not alone when they wake up to an empty Los Angeles "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "dc32a26d8208"
-    },
-    {
       "id": "bce623d42d62",
       "title": "‘I lose my liberty in that moment’: Charlotte shuts down as citizens and noncitizens alike face ICE arrests",
       "outlet": "US news | The Guardian",
@@ -4826,38 +4952,6 @@
       "cluster_id": "dec42ec3ac32"
     },
     {
-      "id": "46695f9de4ef",
-      "title": "South Africa says US boycott of G20 is ‘coercion by absentia’",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/nov/20/south-africa-says-us-boycott-of-g20-is-coercion-by-absentia",
-      "published_at": "Thu, 20 Nov 2025 13:22:49 GMT",
-      "bullets": [
-        "• Donald Trump's administration confirmed it would boycott the G20 meeting in Johannesburg",
-        "• It said no final statement by G20 leaders could be issued without its presence",
-        "• South Africa has accused the US of attempting “coercion by absentia”"
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump's administration confirmed it would boycott the G20 meeting in Johannesburg",
-          "• It said no final statement by G20 leaders could be issued without its presence"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump's administration confirmed it would boycott the G20 meeting in Johannesburg",
-          "• It said no final statement by G20 leaders could be issued without its presence"
-        ],
-        "stakes_bullets": [
-          "• It said no final statement by G20 leaders could be issued without its presence"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "cd58e4b2b882"
-    },
-    {
       "id": "1b010c2663a7",
       "title": "Alleged mastermind behind Mexican mayor's murder arrested",
       "outlet": "BBC News",
@@ -5025,41 +5119,6 @@
       "cluster_id": "738ffb052ed5"
     },
     {
-      "id": "fc36b42df2cd",
-      "title": "Level Editor and Steam Workshop Support Now Available for ‘Gravelord’ [Trailer]",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/video-games/3917039/level-editor-and-steam-workshop-support-now-available-for-gravelord-trailer/",
-      "published_at": "Thu, 20 Nov 2025 12:30:06 +0000",
-      "bullets": [
-        "• ‘Grave’ is now available on the Steam platform",
-        "• The game is based on a free version of the Unreal Unreal Engine",
-        "• It is available to download and use for the first time in the U.S",
-        "• to create a level "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• ‘Grave’ is now available on the Steam platform",
-          "• The game is based on a free version of the Unreal Unreal Engine"
-        ],
-        "hopeful_bullets": [
-          "• ‘Grave’ is now available on the Steam platform",
-          "• The game is based on a free version of the Unreal Unreal Engine"
-        ],
-        "stakes_bullets": [
-          "• ‘Grave’ is now available on the Steam platform",
-          "• The game is based on a free version of the Unreal Unreal Engine",
-          "• It is available to download and use for the first time in the U.S"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "b8c2b25189b7"
-    },
-    {
       "id": "6d4edebc2ccb",
       "title": "11 Best Protein Powders, According to Years of Testing (2025)",
       "outlet": "WIRED",
@@ -5091,6 +5150,42 @@
       },
       "read_minutes": 14,
       "cluster_id": "990ac1207f55"
+    },
+    {
+      "id": "2c6a18b70079",
+      "title": "The CDC revives debunked 'link' between childhood vaccines and autism",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/11/20/nx-s1-5615040/cdc-rfk-childhood-vaccines-autism",
+      "published_at": "Thu, 20 Nov 2025 12:25:05 -0500",
+      "bullets": [
+        "• The CDC revives debunked 'link' between childhood vaccines and autism",
+        "• The agency's website now says a link between autism cannot be ruled out",
+        "• That's a reversal from the CDC's longstanding stance that there is no link",
+        "• The change is alarming public health experts",
+        "• They are already worried about a drop in childhood vaccination "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.787
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The CDC revives debunked 'link' between childhood vaccines and autism",
+          "• The agency's website now says a link between autism cannot be ruled out"
+        ],
+        "hopeful_bullets": [
+          "• The CDC revives debunked 'link' between childhood vaccines and autism",
+          "• The agency's website now says a link between autism cannot be ruled out"
+        ],
+        "stakes_bullets": [
+          "• The CDC revives debunked 'link' between childhood vaccines and autism",
+          "• The agency's website now says a link between autism cannot be ruled out",
+          "• That's a reversal from the CDC's longstanding stance that there is no link"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "9c3ea24c47ac"
     },
     {
       "id": "552dc1e96e5b",
@@ -5287,39 +5382,6 @@
       "cluster_id": "627f35d668e7"
     },
     {
-      "id": "d0ea1b6ea931",
-      "title": "In Tennessee, Democrats hope a ‘coalition of the pissed off’ will flip a red district",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/20/tennessee-democrats-aftyn-behn",
-      "published_at": "Thu, 20 Nov 2025 11:00:05 GMT",
-      "bullets": [
-        "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat",
-        "• She is attempting to stage the biggest challenge in a generation to Republicans in the district, and flip the seat for the first time since 1983",
-        "• Republicans have controlled the district for four decades "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat",
-          "• She is attempting to stage the biggest challenge in a generation to Republicans in the district, and flip the seat for the first time since 1983"
-        ],
-        "hopeful_bullets": [
-          "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat"
-        ],
-        "stakes_bullets": [
-          "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat",
-          "• She is attempting to stage the biggest challenge in a generation to Republicans in the district, and flip the seat for the first time since 1983",
-          "• Republicans have controlled the district for four decades "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "fa9ad8a87dee"
-    },
-    {
       "id": "71f59771eb91",
       "title": "Larry Ellison discussed axing CNN hosts with White House in takeover bid talks",
       "outlet": "US news | The Guardian",
@@ -5352,6 +5414,39 @@
       },
       "read_minutes": 3,
       "cluster_id": "52fa6b1d5b3e"
+    },
+    {
+      "id": "d0ea1b6ea931",
+      "title": "In Tennessee, Democrats hope a ‘coalition of the pissed off’ will flip a red district",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/20/tennessee-democrats-aftyn-behn",
+      "published_at": "Thu, 20 Nov 2025 11:00:05 GMT",
+      "bullets": [
+        "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat",
+        "• She is attempting to stage the biggest challenge in a generation to Republicans in the district, and flip the seat for the first time since 1983",
+        "• Republicans have controlled the district for four decades "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat",
+          "• She is attempting to stage the biggest challenge in a generation to Republicans in the district, and flip the seat for the first time since 1983"
+        ],
+        "hopeful_bullets": [
+          "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat"
+        ],
+        "stakes_bullets": [
+          "• Aftyn Behn, a progressive state representative in Tennessee's seventh congressional district, is running for the Republican seat",
+          "• She is attempting to stage the biggest challenge in a generation to Republicans in the district, and flip the seat for the first time since 1983",
+          "• Republicans have controlled the district for four decades "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "fa9ad8a87dee"
     },
     {
       "id": "eb1539d2b930",
@@ -5980,40 +6075,6 @@
       "cluster_id": "9e772c2e25f4"
     },
     {
-      "id": "7a66b272fc15",
-      "title": "Trump and Mamdani to meet in Oval Office on Friday after months of bickering",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/20/donald-trump-zohran-mamdani-nyc-mayor-elect-meeting",
-      "published_at": "Thu, 20 Nov 2025 05:15:49 GMT",
-      "bullets": [
-        "• Donald Trump has promised to meet with New York City mayor-elect Mamdani",
-        "• The pair have been feuding for months over the issue of immigration",
-        "• Trump has called for the meeting to take place in Washington, D.C., on Friday "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.888
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump has promised to meet with New York City mayor-elect Mamdani",
-          "• The pair have been feuding for months over the issue of immigration"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump has promised to meet with New York City mayor-elect Mamdani",
-          "• The pair have been feuding for months over the issue of immigration"
-        ],
-        "stakes_bullets": [
-          "• Donald Trump has promised to meet with New York City mayor-elect Mamdani",
-          "• The pair have been feuding for months over the issue of immigration",
-          "• Trump has called for the meeting to take place in Washington, D.C., on Friday "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "98e2256be066"
-    },
-    {
       "id": "df6170bc8a63",
       "title": "Eating just a handful of plastic can be fatal for marine animals, a study finds",
       "outlet": "NPR Topics: News",
@@ -6179,38 +6240,6 @@
       "cluster_id": "8a8a3bfdc5fc"
     },
     {
-      "id": "b6808c8ec7a9",
-      "title": "Overdue jobs report shows employers added 119,000 jobs in September",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/20/nx-s1-5611418/september-jobs-report-arrives-today-almost-seven-weeks-behind-schedule",
-      "published_at": "Thu, 20 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• U.S",
-        "• employers added 119,000 jobs in September, while the unemployment rate inched up to 4.4%",
-        "• The report was released almost seven weeks behind schedule due to the government shutdown",
-        "• Hiring was strongest in health care and hospitality, while factories and warehouses cut jobs "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• employers added 119,000 jobs in September, while the unemployment rate inched up to 4.4%"
-        ],
-        "hopeful_bullets": [
-          "• Hiring was strongest in health care and hospitality, while factories and warehouses cut jobs "
-        ],
-        "stakes_bullets": [
-          "• Hiring was strongest in health care and hospitality, while factories and warehouses cut jobs "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "c292b9a9bba2"
-    },
-    {
       "id": "a22209bc15ee",
       "title": "2 Senators want to hold big tech accountable for harms caused by algorithms",
       "outlet": "NPR Topics: Politics",
@@ -6343,40 +6372,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "7e22246e129d"
-    },
-    {
-      "id": "d173ca1bb376",
-      "title": "Turkey set to host COP31 after reaching compromise with Australia",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx242yj380no?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 20 Nov 2025 01:24:31 GMT",
-      "bullets": [
-        "• Turkey set to host COP31 after reaching compromise with Australia",
-        "• Under UN rules, the right to host the COP in 2026 falls to a group of countries made up of Western Europe, Australia and others",
-        "• Australia has now agreed to support the Turkish bid in return for their minister chairing the talks "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Turkey set to host COP31 after reaching compromise with Australia",
-          "• Under UN rules, the right to host the COP in 2026 falls to a group of countries made up of Western Europe, Australia and others"
-        ],
-        "hopeful_bullets": [
-          "• Turkey set to host COP31 after reaching compromise with Australia",
-          "• Under UN rules, the right to host the COP in 2026 falls to a group of countries made up of Western Europe, Australia and others"
-        ],
-        "stakes_bullets": [
-          "• Turkey set to host COP31 after reaching compromise with Australia",
-          "• Under UN rules, the right to host the COP in 2026 falls to a group of countries made up of Western Europe, Australia and others",
-          "• Australia has now agreed to support the Turkish bid in return for their minister chairing the talks "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "e93200e0da30"
     },
     {
       "id": "411ec28aef8d",
@@ -7240,41 +7235,6 @@
       "cluster_id": "b70fd23055da"
     },
     {
-      "id": "40f38107a55e",
-      "title": "China's astronauts land safely after space debris collision",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/15/nx-s1-5608381/chinas-astronauts-land-safely-after-space-debris-collision",
-      "published_at": "Sat, 15 Nov 2025 17:05:26 -0500",
-      "bullets": [
-        "• China's astronauts land safely after space debris collision",
-        "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft",
-        "• NPR's Emily Feng reports on their journey home",
-        "• The three astronauts took off from China's Gansu Province this past April "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.865
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China's astronauts land safely after space debris collision",
-          "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft"
-        ],
-        "hopeful_bullets": [
-          "• China's astronauts land safely after space debris collision",
-          "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft"
-        ],
-        "stakes_bullets": [
-          "• China's astronauts land safely after space debris collision",
-          "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft",
-          "• NPR's Emily Feng reports on their journey home"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "120a19dd962b"
-    },
-    {
       "id": "609febe0b871",
       "title": "TVC15: Luke Skywalker (Death Star Escape) (VC39)",
       "outlet": "Jedi Temple Archives",
@@ -7678,39 +7638,6 @@
       "cluster_id": "bac0fea8587a"
     },
     {
-      "id": "98413c56bc92",
-      "title": "Why some ant colonies get tricked into killing their own queens",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/17/nx-s1-5604754/parasitic-ant-queens-trick-workers-kill-regicide",
-      "published_at": "Mon, 17 Nov 2025 11:00:00 -0500",
-      "bullets": [
-        "• Some female ants practice a kind of chemical warfare that lets them sneak into the established colonies of other ant species and manipulate the worker ants into committing regicide",
-        "• The queen is paramount in an ant colony; the queen produces all the eggs, while the workers take care of her",
-        "• After a colony has been around awhile, however, it will start to produce some females capable of reproduction",
-        "• These females fly away, in order to establish new colonies and their own reigns "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.931
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Some female ants practice a kind of chemical warfare that lets them sneak into the established colonies of other ant species and manipulate the worker ants into committing regicide",
-          "• The queen is paramount in an ant colony; the queen produces all the eggs, while the workers take care of her"
-        ],
-        "hopeful_bullets": [
-          "• Some female ants practice a kind of chemical warfare that lets them sneak into the established colonies of other ant species and manipulate the worker ants into committing regicide",
-          "• The queen is paramount in an ant colony; the queen produces all the eggs, while the workers take care of her"
-        ],
-        "stakes_bullets": [
-          "• After a colony has been around awhile, however, it will start to produce some females capable of reproduction"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "15e4dbc2c43c"
-    },
-    {
       "id": "cee5a2d1a059",
       "title": "Shipping has a big carbon footprint. Can this lo-fi solution shrink it?",
       "outlet": "Positive News",
@@ -7741,104 +7668,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "bc7dc2da6197"
-    },
-    {
-      "id": "ef58eea753e9",
-      "title": "Disaster and insurance costs are rising. The middle class is struggling to hang on",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/17/nx-s1-5546761/home-insurance-florida-climate-disaster-cop30",
-      "published_at": "Mon, 17 Nov 2025 05:27:00 -0500",
-      "bullets": [
-        "• Hurricane Ian hit Fort Myers Beach, Florida, three years ago",
-        "• New houses and businesses are going up next to vacant lots and shells of buildings gutted by the storm",
-        "• Sky-high costs for construction and property insurance now threaten to squeeze out a lot of family-run hotels "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hurricane Ian hit Fort Myers Beach, Florida, three years ago",
-          "• New houses and businesses are going up next to vacant lots and shells of buildings gutted by the storm"
-        ],
-        "hopeful_bullets": [
-          "• Hurricane Ian hit Fort Myers Beach, Florida, three years ago",
-          "• New houses and businesses are going up next to vacant lots and shells of buildings gutted by the storm"
-        ],
-        "stakes_bullets": [
-          "• Sky-high costs for construction and property insurance now threaten to squeeze out a lot of family-run hotels "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "42acc176f7b0"
-    },
-    {
-      "id": "8e44fedc2dd0",
-      "title": "A guerrilla gardener installed a pop-up wetland in the LA River. Here's how — and why",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/17/nx-s1-5589228/garden-environment-restoration-ecology-la-river-guerrilla",
-      "published_at": "Mon, 17 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• A guerrilla gardener installed a pop-up wetland in the LA River",
-        "• Doug Rosenberg came upon a shopping cart tipped over in the river's shallow waters back in 2020",
-        "• The waterway bisecting the city was converted to a giant storm drain nearly a century ago "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A guerrilla gardener installed a pop-up wetland in the LA River",
-          "• Doug Rosenberg came upon a shopping cart tipped over in the river's shallow waters back in 2020"
-        ],
-        "hopeful_bullets": [
-          "• A guerrilla gardener installed a pop-up wetland in the LA River",
-          "• Doug Rosenberg came upon a shopping cart tipped over in the river's shallow waters back in 2020"
-        ],
-        "stakes_bullets": [
-          "• A guerrilla gardener installed a pop-up wetland in the LA River",
-          "• Doug Rosenberg came upon a shopping cart tipped over in the river's shallow waters back in 2020",
-          "• The waterway bisecting the city was converted to a giant storm drain nearly a century ago "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "89f9d3c2dcd9"
-    },
-    {
-      "id": "e7277dcb5c62",
-      "title": "Deal restores Cornell's federal grants, reviving research on infant artificial heart",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/17/nx-s1-5607097/deal-restores-cornells-federal-grants-reviving-research-on-infant-artificial-heart",
-      "published_at": "Mon, 17 Nov 2025 04:53:30 -0500",
-      "bullets": [
-        "• Deal restores Cornell's federal grants, reviving research on infant artificial heart",
-        "• For one scientist, that means resuming work on an implantable artificial heart for babies and toddlers",
-        "• James Antaki was among the researchers who had their federal grants canceled by the Trump administration "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.961
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Deal restores Cornell's federal grants, reviving research on infant artificial heart",
-          "• For one scientist, that means resuming work on an implantable artificial heart for babies and toddlers"
-        ],
-        "hopeful_bullets": [
-          "• Deal restores Cornell's federal grants, reviving research on infant artificial heart",
-          "• For one scientist, that means resuming work on an implantable artificial heart for babies and toddlers"
-        ],
-        "stakes_bullets": [
-          "• For one scientist, that means resuming work on an implantable artificial heart for babies and toddlers"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "757771b70fe9"
     },
     {
       "id": "234ad8f6ea3d",
@@ -8339,6 +8168,72 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "9b723e2ee2e6",
+      "title": "Amazon is using AI to create video recaps of its biggest streaming shows",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/825052/amazon-prime-original-ai-video-recap-fallout-jack-ryan",
+      "published_at": "2025-11-20T12:31:49-05:00",
+      "bullets": [
+        "• Video Recaps uses AI to identify a show’s important plot points and create a short but “theatrical-quality” summary video",
+        "• The summaries feature clips, dialogue, and music with an AI-generated narration of what happened last season",
+        "• The feature is being rolled out starting this week in beta on some English-language Prime Original series "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Video Recaps uses AI to identify a show’s important plot points and create a short but “theatrical-quality” summary video",
+          "• The summaries feature clips, dialogue, and music with an AI-generated narration of what happened last season"
+        ],
+        "hopeful_bullets": [
+          "• Video Recaps uses AI to identify a show’s important plot points and create a short but “theatrical-quality” summary video",
+          "• The summaries feature clips, dialogue, and music with an AI-generated narration of what happened last season"
+        ],
+        "stakes_bullets": [
+          "• Video Recaps uses AI to identify a show’s important plot points and create a short but “theatrical-quality” summary video",
+          "• The summaries feature clips, dialogue, and music with an AI-generated narration of what happened last season",
+          "• The feature is being rolled out starting this week in beta on some English-language Prime Original series "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "50478ccb26e8"
+    },
+    {
+      "id": "6d493596ba97",
+      "title": "Pixel 10 phones are now compatible with AirDrop",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/825228/iphone-airdrop-android-quick-share-pixel-10",
+      "published_at": "2025-11-20T12:31:17-05:00",
+      "bullets": [
+        "• Google's Pixel 10 phones can now send and receive files with Apple devices over AirDrop",
+        "• According to Google, this works with iPhone, iPad, and MacOS devices",
+        "• It's limited to Google’s latest phones for now, but Google spokesperson Alex Moriconi says, “We’re bringing this new experience to Pixel 10 first before expanding to other devices.”"
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.882
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Google's Pixel 10 phones can now send and receive files with Apple devices over AirDrop",
+          "• According to Google, this works with iPhone, iPad, and MacOS devices"
+        ],
+        "hopeful_bullets": [
+          "• Google's Pixel 10 phones can now send and receive files with Apple devices over AirDrop",
+          "• According to Google, this works with iPhone, iPad, and MacOS devices"
+        ],
+        "stakes_bullets": [
+          "• It's limited to Google’s latest phones for now, but Google spokesperson Alex Moriconi says, “We’re bringing this new experience to Pixel 10 first before expanding to other devices.”"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b5958a182acc"
+    },
+    {
       "id": "17cad8368cbd",
       "title": "Amazon’s latest entry-level Kindle has fallen to a new low for Black Friday",
       "outlet": "The Verge",
@@ -8604,69 +8499,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "53d8eb7a7365"
-    },
-    {
-      "id": "cb19d428ca8d",
-      "title": "Apple&#8217;s AirPods Pro 3 just got their biggest discount ahead of Black Friday",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/gadgets/825107/apple-airpods-pro-3-black-friday-deal-sale",
-      "published_at": "2025-11-20T11:16:21-05:00",
-      "bullets": [
-        "• The AirPods Pro 3 are Apple’s most impressive wireless earbuds yet, offering improved active noise cancellation, a more comfortable fit, and excellent audio performance",
-        "• Thankfully, you can snag them for just $219.99 ($30 off) at Amazon, Walmart, and Best Buy "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.937
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The AirPods Pro 3 are Apple’s most impressive wireless earbuds yet, offering improved active noise cancellation, a more comfortable fit, and excellent audio performance",
-          "• Thankfully, you can snag them for just $219.99 ($30 off) at Amazon, Walmart, and Best Buy "
-        ],
-        "hopeful_bullets": [
-          "• The AirPods Pro 3 are Apple’s most impressive wireless earbuds yet, offering improved active noise cancellation, a more comfortable fit, and excellent audio performance"
-        ],
-        "stakes_bullets": [
-          "• The AirPods Pro 3 are Apple’s most impressive wireless earbuds yet, offering improved active noise cancellation, a more comfortable fit, and excellent audio performance",
-          "• Thankfully, you can snag them for just $219.99 ($30 off) at Amazon, Walmart, and Best Buy "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8126237a4996"
-    },
-    {
-      "id": "db94d58849a5",
-      "title": "Boox Palma 2 Pro review: one step forward, one step back",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/823873/boox-palma-2-pro-review",
-      "published_at": "2025-11-20T11:00:00-05:00",
-      "bullets": [
-        "• The Palma can do many things, but it does only a few things well",
-        "• This could be the do-everything minimalist device we’ve been waiting for",
-        "• The new $399.99 device is the most expensive Palma yet, but also easily the most high-tech "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Palma can do many things, but it does only a few things well",
-          "• This could be the do-everything minimalist device we’ve been waiting for"
-        ],
-        "hopeful_bullets": [
-          "• The Palma can do many things, but it does only a few things well",
-          "• This could be the do-everything minimalist device we’ve been waiting for"
-        ],
-        "stakes_bullets": [
-          "• This could be the do-everything minimalist device we’ve been waiting for"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "dc08afe2a6fc"
     },
     {
       "id": "c41ff758b36a",
@@ -9167,6 +8999,24 @@
       ]
     },
     {
+      "id": "55f587b6feea",
+      "topic": "break climate cop30 evacuated",
+      "keywords": [
+        "break",
+        "climate",
+        "cop30",
+        "evacuated",
+        "fire",
+        "talk"
+      ],
+      "item_ids": [
+        "5a1eea6b3c31"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "2a6d7c65cd9b",
       "topic": "bill department justice ordering",
       "keywords": [
@@ -9296,33 +9146,15 @@
       ]
     },
     {
-      "id": "e93200e0da30",
-      "topic": "compromise cop31 host reaching",
+      "id": "730fb592f4e6",
+      "topic": "attend boycott g20 initial",
       "keywords": [
-        "compromise",
-        "cop31",
-        "host",
-        "reaching",
-        "set",
-        "turkey"
-      ],
-      "item_ids": [
-        "d173ca1bb376"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "cd58e4b2b882",
-      "topic": "absentia africa boycott coercion",
-      "keywords": [
-        "absentia",
-        "africa",
+        "attend",
         "boycott",
-        "coercion",
         "g20",
-        "south"
+        "initial",
+        "summit",
+        "talk"
       ],
       "item_ids": [
         "46695f9de4ef"
@@ -9386,10 +9218,28 @@
       ]
     },
     {
-      "id": "be9672359c61",
-      "topic": "battle influx mindblowing official",
+      "id": "378b25a5a550",
+      "topic": "centre conference cop30 evacuated",
       "keywords": [
-        "battle",
+        "centre",
+        "conference",
+        "cop30",
+        "evacuated",
+        "fire",
+        "live"
+      ],
+      "item_ids": [
+        "427fc6c4c32a"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
+      "id": "20c3b4b89b89",
+      "topic": "cull influx mindblowing official",
+      "keywords": [
+        "cull",
         "influx",
         "mindblowing",
         "official",
@@ -9398,24 +9248,6 @@
       ],
       "item_ids": [
         "c161a6474403"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "b36ba682c9e7",
-      "topic": "climate cop30 current death",
-      "keywords": [
-        "climate",
-        "cop30",
-        "current",
-        "death",
-        "live",
-        "pathway"
-      ],
-      "item_ids": [
-        "427fc6c4c32a"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -9473,6 +9305,24 @@
       ],
       "outlets": [
         "World news | The Guardian"
+      ]
+    },
+    {
+      "id": "e49b371f9b63",
+      "topic": "cheney dick donald snubbed",
+      "keywords": [
+        "cheney",
+        "dick",
+        "donald",
+        "snubbed",
+        "trump",
+        "vance"
+      ],
+      "item_ids": [
+        "612926dbe131"
+      ],
+      "outlets": [
+        "US news | The Guardian"
       ]
     },
     {
@@ -9584,24 +9434,6 @@
       ]
     },
     {
-      "id": "fa9ad8a87dee",
-      "topic": "coalition democrat hope off",
-      "keywords": [
-        "coalition",
-        "democrat",
-        "hope",
-        "off",
-        "pissed",
-        "tennessee"
-      ],
-      "item_ids": [
-        "d0ea1b6ea931"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "52fa6b1d5b3e",
       "topic": "axing cnn discussed ellison",
       "keywords": [
@@ -9620,18 +9452,18 @@
       ]
     },
     {
-      "id": "98e2256be066",
-      "topic": "friday mamdani meet office",
+      "id": "fa9ad8a87dee",
+      "topic": "coalition democrat hope off",
       "keywords": [
-        "friday",
-        "mamdani",
-        "meet",
-        "office",
-        "oval",
-        "trump"
+        "coalition",
+        "democrat",
+        "hope",
+        "off",
+        "pissed",
+        "tennessee"
       ],
       "item_ids": [
-        "7a66b272fc15"
+        "d0ea1b6ea931"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9653,6 +9485,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "9c3ea24c47ac",
+      "topic": "between cdc childhood debunked",
+      "keywords": [
+        "between",
+        "cdc",
+        "childhood",
+        "debunked",
+        "link",
+        "revive"
+      ],
+      "item_ids": [
+        "2c6a18b70079"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9794,24 +9644,6 @@
       ],
       "item_ids": [
         "f0caa5bd0f2b"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "c292b9a9bba2",
-      "topic": "added employer jobs overdue",
-      "keywords": [
-        "added",
-        "employer",
-        "jobs",
-        "overdue",
-        "report",
-        "show"
-      ],
-      "item_ids": [
-        "b6808c8ec7a9"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10173,6 +10005,41 @@
       ]
     },
     {
+      "id": "50478ccb26e8",
+      "topic": "amazon biggest create recap",
+      "keywords": [
+        "amazon",
+        "biggest",
+        "create",
+        "recap",
+        "using",
+        "video"
+      ],
+      "item_ids": [
+        "9b723e2ee2e6"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "b5958a182acc",
+      "topic": "airdrop compatible now phone",
+      "keywords": [
+        "airdrop",
+        "compatible",
+        "now",
+        "phone",
+        "pixel"
+      ],
+      "item_ids": [
+        "6d493596ba97"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "bee65a5a54a6",
       "topic": "amazon entry fallen kindle",
       "keywords": [
@@ -10313,39 +10180,93 @@
       ]
     },
     {
-      "id": "8126237a4996",
-      "topic": "8217 airpod apple got",
+      "id": "9bf2da3f1199",
+      "topic": "chromebook free gaming google",
       "keywords": [
-        "8217",
-        "airpod",
-        "apple",
-        "got",
-        "just",
-        "pro"
+        "chromebook",
+        "free",
+        "gaming",
+        "google",
+        "swing",
+        "year"
       ],
       "item_ids": [
-        "cb19d428ca8d"
+        "0e7caa7f31f9"
       ],
       "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
-      "id": "dc08afe2a6fc",
-      "topic": "boox forward palma pro",
+      "id": "513bd3d62fc0",
+      "topic": "drone flying mammal marine",
       "keywords": [
-        "boox",
-        "forward",
-        "palma",
-        "pro",
-        "review",
-        "step"
+        "drone",
+        "flying",
+        "mammal",
+        "marine",
+        "remaking",
+        "whale"
       ],
       "item_ids": [
-        "db94d58849a5"
+        "5874fe80425b"
       ],
       "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
+      ]
+    },
+    {
+      "id": "acba7277cc79",
+      "topic": "android auto did google",
+      "keywords": [
+        "android",
+        "auto",
+        "did",
+        "google",
+        "hey",
+        "upgrade"
+      ],
+      "item_ids": [
+        "6c089962a7cc"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
+      "id": "ebf59127de87",
+      "topic": "banana gemini google nano",
+      "keywords": [
+        "banana",
+        "gemini",
+        "google",
+        "nano",
+        "pro",
+        "uses"
+      ],
+      "item_ids": [
+        "9ee234b99c89"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
+      "id": "dee851d59c10",
+      "topic": "cdc edit loathesome now",
+      "keywords": [
+        "cdc",
+        "edit",
+        "loathesome",
+        "now",
+        "rfk",
+        "website"
+      ],
+      "item_ids": [
+        "cce599a3c2c5"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
       ]
     },
     {
@@ -10432,96 +10353,6 @@
       ],
       "item_ids": [
         "d985583c84f1"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "4939eb5ca25f",
-      "topic": "cloudflare file massive outage",
-      "keywords": [
-        "cloudflare",
-        "file",
-        "massive",
-        "outage",
-        "suddenly",
-        "triggered"
-      ],
-      "item_ids": [
-        "f9a8a961bb78"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "a74b28d7b7fe",
-      "topic": "among artifact electron first",
-      "keywords": [
-        "among",
-        "artifact",
-        "electron",
-        "first",
-        "lab",
-        "rocket"
-      ],
-      "item_ids": [
-        "c4a3dd02c781"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "79de72d57b84",
-      "topic": "got public sharing sued",
-      "keywords": [
-        "got",
-        "public",
-        "sharing",
-        "sued",
-        "video",
-        "youtube"
-      ],
-      "item_ids": [
-        "02385e51f57a"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "355a6890f0a0",
-      "topic": "critic feature infect microsoft",
-      "keywords": [
-        "critic",
-        "feature",
-        "infect",
-        "microsoft",
-        "scoff",
-        "warn"
-      ],
-      "item_ids": [
-        "444ae5838555"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "fcfa367e3e7c",
-      "topic": "apple chip improve older",
-      "keywords": [
-        "apple",
-        "chip",
-        "improve",
-        "older",
-        "show",
-        "testing"
-      ],
-      "item_ids": [
-        "9144599232f5"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -10753,96 +10584,6 @@
       ],
       "item_ids": [
         "b581e00cb20f"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "15e4dbc2c43c",
-      "topic": "ant colonie get killing",
-      "keywords": [
-        "ant",
-        "colonie",
-        "get",
-        "killing",
-        "some",
-        "tricked"
-      ],
-      "item_ids": [
-        "98413c56bc92"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "42acc176f7b0",
-      "topic": "clas cost disaster insurance",
-      "keywords": [
-        "clas",
-        "cost",
-        "disaster",
-        "insurance",
-        "middle",
-        "rising"
-      ],
-      "item_ids": [
-        "ef58eea753e9"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "89f9d3c2dcd9",
-      "topic": "gardener guerrilla installed pop",
-      "keywords": [
-        "gardener",
-        "guerrilla",
-        "installed",
-        "pop",
-        "river",
-        "wetland"
-      ],
-      "item_ids": [
-        "8e44fedc2dd0"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "757771b70fe9",
-      "topic": "cornell deal federal grant",
-      "keywords": [
-        "cornell",
-        "deal",
-        "federal",
-        "grant",
-        "restore",
-        "reviving"
-      ],
-      "item_ids": [
-        "e7277dcb5c62"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "120a19dd962b",
-      "topic": "astronaut china debri land",
-      "keywords": [
-        "astronaut",
-        "china",
-        "debri",
-        "land",
-        "safely",
-        "space"
-      ],
-      "item_ids": [
-        "40f38107a55e"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11592,6 +11333,42 @@
       ]
     },
     {
+      "id": "ea95ab6350b7",
+      "topic": "game horror licensed obscure",
+      "keywords": [
+        "game",
+        "horror",
+        "licensed",
+        "obscure",
+        "six",
+        "video"
+      ],
+      "item_ids": [
+        "d3f429807b57"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "02a028891ba6",
+      "topic": "corrin emma havana hunter",
+      "keywords": [
+        "corrin",
+        "emma",
+        "havana",
+        "hunter",
+        "rose",
+        "schafer"
+      ],
+      "item_ids": [
+        "62c3fab45491"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "203fb3afb63e",
       "topic": "mcgowan naming prescott rose",
       "keywords": [
@@ -11730,42 +11507,6 @@
       ],
       "item_ids": [
         "760c9228aa43"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "dc32a26d8208",
-      "topic": "christian comet night novelization",
-      "keywords": [
-        "christian",
-        "comet",
-        "night",
-        "novelization",
-        "published",
-        "witchboard"
-      ],
-      "item_ids": [
-        "015027745c8a"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "b8c2b25189b7",
-      "topic": "editor level now steam",
-      "keywords": [
-        "editor",
-        "level",
-        "now",
-        "steam",
-        "support",
-        "workshop"
-      ],
-      "item_ids": [
-        "fc36b42df2cd"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -11950,6 +11691,24 @@
       ]
     },
     {
+      "id": "06607d3fee34",
+      "topic": "full hill length return",
+      "keywords": [
+        "full",
+        "hill",
+        "length",
+        "return",
+        "sequel",
+        "silent"
+      ],
+      "item_ids": [
+        "e0047d7bb487"
+      ],
+      "outlets": [
+        "Dread Central"
+      ]
+    },
+    {
       "id": "efc0f27c7290",
       "topic": "calling fans forgotten hbo",
       "keywords": [
@@ -12106,24 +11865,6 @@
       ],
       "item_ids": [
         "0c54bcee1f35"
-      ],
-      "outlets": [
-        "Dread Central"
-      ]
-    },
-    {
-      "id": "fe03413ad5b5",
-      "topic": "josh next reform ruben",
-      "keywords": [
-        "josh",
-        "next",
-        "reform",
-        "ruben",
-        "sets",
-        "wildernes"
-      ],
-      "item_ids": [
-        "acf9a38ac4cf"
       ],
       "outlets": [
         "Dread Central"
@@ -13128,6 +12869,60 @@
       ]
     },
     {
+      "id": "e8a70caed5a7",
+      "topic": "force miraculou sets stellar",
+      "keywords": [
+        "force",
+        "miraculou",
+        "sets",
+        "stellar",
+        "tokyo",
+        "world"
+      ],
+      "item_ids": [
+        "30158b50fa98"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "1bc0584b9890",
+      "topic": "each edie face falco",
+      "keywords": [
+        "each",
+        "edie",
+        "face",
+        "falco",
+        "jeremy",
+        "renner"
+      ],
+      "item_ids": [
+        "45deb6a93b5e"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "53a35827d3d1",
+      "topic": "confirmed controversial dragon house",
+      "keywords": [
+        "confirmed",
+        "controversial",
+        "dragon",
+        "house",
+        "most",
+        "scene"
+      ],
+      "item_ids": [
+        "c0529c6c4b50"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "79207046949d",
       "topic": "drive knight level man",
       "keywords": [
@@ -13247,60 +13042,6 @@
       ],
       "item_ids": [
         "d3e8c1b8ffd5"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "3de67c77d8f9",
-      "topic": "action confirm disney live",
-      "keywords": [
-        "action",
-        "confirm",
-        "disney",
-        "live",
-        "moana",
-        "trailer"
-      ],
-      "item_ids": [
-        "53fd8c6d677b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "8c2dcd1a74a7",
-      "topic": "action leveling live move",
-      "keywords": [
-        "action",
-        "leveling",
-        "live",
-        "move",
-        "netflix",
-        "solo"
-      ],
-      "item_ids": [
-        "b98e880a9d94"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "2d98d63a6995",
-      "topic": "13th day fans great",
-      "keywords": [
-        "13th",
-        "day",
-        "fans",
-        "great",
-        "march",
-        "marvel"
-      ],
-      "item_ids": [
-        "3fca9fcdbc93"
       ],
       "outlets": [
         "CBR"
