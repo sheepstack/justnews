@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T06:01:41Z",
+  "generated_at": "2025-11-20T06:17:41Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -1062,39 +1062,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "d791da2fa705"
-    },
-    {
-      "id": "57e769bd7b0e",
-      "title": "Is Trump’s remarkable run of fealty coming to an end?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/19/trump-media-attacks-journalists",
-      "published_at": "Wed, 19 Nov 2025 20:30:03 GMT",
-      "bullets": [
-        "• Trump has enjoyed a remarkable run of fealty, both from his rank and file supporters and from an obsequious GOP",
-        "• But the Jeffrey Epstein saga has led to the biggest fissure yet between Trump and his base",
-        "• Trump wanted House Republicans to vote against releasing the Epstein files this week "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.538
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump has enjoyed a remarkable run of fealty, both from his rank and file supporters and from an obsequious GOP",
-          "• But the Jeffrey Epstein saga has led to the biggest fissure yet between Trump and his base"
-        ],
-        "hopeful_bullets": [
-          "• Trump wanted House Republicans to vote against releasing the Epstein files this week "
-        ],
-        "stakes_bullets": [
-          "• Trump has enjoyed a remarkable run of fealty, both from his rank and file supporters and from an obsequious GOP",
-          "• But the Jeffrey Epstein saga has led to the biggest fissure yet between Trump and his base",
-          "• Trump wanted House Republicans to vote against releasing the Epstein files this week "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "97b0cc584351"
     },
     {
       "id": "5ac4797dd9fa",
@@ -2261,6 +2228,39 @@
       "cluster_id": "bf0556f6d842"
     },
     {
+      "id": "9addcf29e2ea",
+      "title": "Republicans are losing ground with voters in the latest NPR poll",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/11/19/nx-s1-5611482/republicans-are-losing-ground-with-voters-in-the-latest-npr-poll",
+      "published_at": "Wed, 19 Nov 2025 16:15:19 -0500",
+      "bullets": [
+        "• Republicans are losing ground with voters in the latest NPR poll",
+        "• President Trump is at his lowest approval rating in years",
+        "• Voters around the country have low confidence in both major political parties",
+        "• Here to talk about what this could all mean for 2026 "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Republicans are losing ground with voters in the latest NPR poll",
+          "• President Trump is at his lowest approval rating in years"
+        ],
+        "hopeful_bullets": [
+          "• Republicans are losing ground with voters in the latest NPR poll",
+          "• President Trump is at his lowest approval rating in years"
+        ],
+        "stakes_bullets": [
+          "• Here to talk about what this could all mean for 2026 "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "4d038b0f142a"
+    },
+    {
       "id": "5eae8dbb964f",
       "title": "People in the US: tell us how the climate crisis has affected your life in small ways this year",
       "outlet": "Environment | The Guardian",
@@ -2517,37 +2517,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "dd64d7cbcbb6"
-    },
-    {
-      "id": "3e7dd958c1ad",
-      "title": "How Louvre thieves exploited human psychology to avoid suspicion—and what it reveals about AI",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/science/2025/11/how-louvre-thieves-exploited-human-psychology-to-avoid-suspicion-and-what-it-reveals-about-ai/",
-      "published_at": "Wed, 19 Nov 2025 14:41:52 +0000",
-      "bullets": [
-        "• Four men allegedly walked into the world’s most-visited museum and left, minutes later, with crown jewels worth 88 million euros ($101 million) The thieves understood the social categories that we perceive as ‘normal’ and exploited them to avoid suspicion",
-        "• Many artificial intelligence systems work in the same way and are vulnerable to the same kinds of mistakes as a result "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Four men allegedly walked into the world’s most-visited museum and left, minutes later, with crown jewels worth 88 million euros ($101 million) The thieves understood the social categories that we perceive as ‘normal’ and exploited them to avoid suspicion",
-          "• Many artificial intelligence systems work in the same way and are vulnerable to the same kinds of mistakes as a result "
-        ],
-        "hopeful_bullets": [
-          "• Four men allegedly walked into the world’s most-visited museum and left, minutes later, with crown jewels worth 88 million euros ($101 million) The thieves understood the social categories that we perceive as ‘normal’ and exploited them to avoid suspicion",
-          "• Many artificial intelligence systems work in the same way and are vulnerable to the same kinds of mistakes as a result "
-        ],
-        "stakes_bullets": [
-          "• Many artificial intelligence systems work in the same way and are vulnerable to the same kinds of mistakes as a result "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "7e0d62a00cc2"
     },
     {
       "id": "3f2552bd24e8",
@@ -3170,6 +3139,37 @@
       "cluster_id": "9c8dffa7a5b4"
     },
     {
+      "id": "be6fc8c3f257",
+      "title": "How a small Chicago nonprofit is resisting Trump's war on DEI",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/11/19/nx-s1-5611496/trump-dei-women-construction-jobs",
+      "published_at": "Wed, 19 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• Chicago nonprofit Chicago Women in Trades is fighting back in court against President Trump",
+        "• The organization has been breaking down barriers for women in the construction industry since Ronald Reagan was president",
+        "• Trump signed a pair of executive orders cracking down on what he said was widespread and illegal use of \"dangerous, demeaning, and immoral use of\" diversity, equity and inclusion "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Chicago nonprofit Chicago Women in Trades is fighting back in court against President Trump",
+          "• The organization has been breaking down barriers for women in the construction industry since Ronald Reagan was president"
+        ],
+        "hopeful_bullets": [
+          "• Chicago nonprofit Chicago Women in Trades is fighting back in court against President Trump"
+        ],
+        "stakes_bullets": [
+          "• Trump signed a pair of executive orders cracking down on what he said was widespread and illegal use of \"dangerous, demeaning, and immoral use of\" diversity, equity and inclusion "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "c29bc6c62774"
+    },
+    {
       "id": "08192b918b07",
       "title": "Poll: Democrats have biggest advantage for control of Congress in 8 years",
       "outlet": "NPR Topics: Politics",
@@ -3203,6 +3203,73 @@
       },
       "read_minutes": 6,
       "cluster_id": "f0699e4e3af6"
+    },
+    {
+      "id": "967cf6729e3b",
+      "title": "Antisemitism task force regroups after severing ties with the Heritage Foundation",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/11/19/nx-s1-5611105/antisemitism-task-force-regroups-after-severing-ties-with-the-heritage-foundation",
+      "published_at": "Wed, 19 Nov 2025 04:59:00 -0500",
+      "bullets": [
+        "• Antisemitism task force regroups after severing ties with the Heritage Foundation",
+        "• The foundation's president is facing criticism for defending Tucker Carlson after he hosted far-right influencer, white nationalist and antisemite Nick Fuentes on his podcast",
+        "• The task force formed to address what they described as left-wing antisemitism has reformed independently and broadened its focus "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.893
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Antisemitism task force regroups after severing ties with the Heritage Foundation",
+          "• The foundation's president is facing criticism for defending Tucker Carlson after he hosted far-right influencer, white nationalist and antisemite Nick Fuentes on his podcast"
+        ],
+        "hopeful_bullets": [
+          "• The task force formed to address what they described as left-wing antisemitism has reformed independently and broadened its focus "
+        ],
+        "stakes_bullets": [
+          "• Antisemitism task force regroups after severing ties with the Heritage Foundation",
+          "• The foundation's president is facing criticism for defending Tucker Carlson after he hosted far-right influencer, white nationalist and antisemite Nick Fuentes on his podcast",
+          "• The task force formed to address what they described as left-wing antisemitism has reformed independently and broadened its focus "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "58e5fa5a8cbe"
+    },
+    {
+      "id": "a3930afa3a49",
+      "title": "Texas appeals ruling that blocked the use of a Trump-backed voting map",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/11/19/nx-s1-5612636/texas-appeals-ruling-that-blocked-the-use-of-a-trump-backed-voting-map",
+      "published_at": "Wed, 19 Nov 2025 04:58:15 -0500",
+      "bullets": [
+        "• A federal court in Texas dealt a blow to President Trump's effort to reshape the midterm elections in favor of Republicans",
+        "• A three-judge panel on Tuesday blocked the redistricting that Texas Republicans passed this summer",
+        "• They were aiming to improve the GOP's chances of winning five more seats in the U.S",
+        "• House "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A federal court in Texas dealt a blow to President Trump's effort to reshape the midterm elections in favor of Republicans",
+          "• A three-judge panel on Tuesday blocked the redistricting that Texas Republicans passed this summer"
+        ],
+        "hopeful_bullets": [
+          "• They were aiming to improve the GOP's chances of winning five more seats in the U.S"
+        ],
+        "stakes_bullets": [
+          "• A federal court in Texas dealt a blow to President Trump's effort to reshape the midterm elections in favor of Republicans",
+          "• A three-judge panel on Tuesday blocked the redistricting that Texas Republicans passed this summer",
+          "• They were aiming to improve the GOP's chances of winning five more seats in the U.S"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a70bbfba027a"
     },
     {
       "id": "9bd91f621cd2",
@@ -4863,6 +4930,39 @@
       "cluster_id": "7b820ed0946f"
     },
     {
+      "id": "d8aa48010a29",
+      "title": "'Landmark partnership': Singapore's SGX ties up with Nasdaq for dual listings to boost stock market",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/20/singapore-mas-sgx-nasdaq-partner-for-dual-listings.html",
+      "published_at": "Thu, 20 Nov 2025 05:50:23 GMT",
+      "bullets": [
+        "• Singapore Exchange has tied up with the Nasdaq to simplify dual listings in the U.S",
+        "• and Singapore",
+        "• The country's bourse has introduced a \"Global Listing Board\" for companies with a market capitalization of more than $1.5 billion",
+        "• The \"Landmark partnership\" is aimed at enabling firms to \"access global capital, investors and liquidity\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Singapore Exchange has tied up with the Nasdaq to simplify dual listings in the U.S",
+          "• and Singapore"
+        ],
+        "hopeful_bullets": [
+          "• Singapore Exchange has tied up with the Nasdaq to simplify dual listings in the U.S",
+          "• and Singapore"
+        ],
+        "stakes_bullets": [
+          "• The country's bourse has introduced a \"Global Listing Board\" for companies with a market capitalization of more than $1.5 billion"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ec4448803449"
+    },
+    {
       "id": "5a11956d7d50",
       "title": "‘Heal and Rock Again’: Dale Bozzio’s Son Shares Fundraiser for Singer’s Surgery",
       "outlet": "Music News",
@@ -4895,37 +4995,72 @@
       "cluster_id": "9e772c2e25f4"
     },
     {
-      "id": "d8aa48010a29",
-      "title": "'Landmark partnership': Singapore's SGX ties up with Nasdaq for dual listings to boost stock market",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/20/singapore-mas-sgx-nasdaq-partner-for-dual-listings.html",
-      "published_at": "Thu, 20 Nov 2025 05:26:59 GMT",
+      "id": "7a66b272fc15",
+      "title": "Trump and Mamdani to meet in Oval Office on Friday after months of bickering",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/20/donald-trump-zohran-mamdani-nyc-mayor-elect-meeting",
+      "published_at": "Thu, 20 Nov 2025 05:15:49 GMT",
       "bullets": [
-        "• Singapore Exchange has tied up with the Nasdaq to simplify dual listings in the U.S",
-        "• and Singapore",
-        "• The country's bourse has introduced a \"Global Listing Board\" for companies with a market capitalization of more than $1.5 billion",
-        "• The \"Landmark partnership\" is aimed at enabling firms to \"access global capital, investors and liquidity\""
+        "• Donald Trump has promised to meet with New York City mayor-elect Mamdani",
+        "• The pair have been feuding for months over the issue of immigration",
+        "• Trump has called for the meeting to take place in Washington, D.C., on Friday "
       ],
-      "category": "Business",
+      "category": "US",
       "sentiment": {
-        "label": "positive",
-        "score": 0.999
+        "label": "negative",
+        "score": 0.888
       },
       "moods": {
         "brief_bullets": [
-          "• Singapore Exchange has tied up with the Nasdaq to simplify dual listings in the U.S",
-          "• and Singapore"
+          "• Donald Trump has promised to meet with New York City mayor-elect Mamdani",
+          "• The pair have been feuding for months over the issue of immigration"
         ],
         "hopeful_bullets": [
-          "• Singapore Exchange has tied up with the Nasdaq to simplify dual listings in the U.S",
-          "• and Singapore"
+          "• Donald Trump has promised to meet with New York City mayor-elect Mamdani",
+          "• The pair have been feuding for months over the issue of immigration"
         ],
         "stakes_bullets": [
-          "• The country's bourse has introduced a \"Global Listing Board\" for companies with a market capitalization of more than $1.5 billion"
+          "• Donald Trump has promised to meet with New York City mayor-elect Mamdani",
+          "• The pair have been feuding for months over the issue of immigration",
+          "• Trump has called for the meeting to take place in Washington, D.C., on Friday "
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "ec4448803449"
+      "read_minutes": 2,
+      "cluster_id": "98e2256be066"
+    },
+    {
+      "id": "5219ee1b1b7d",
+      "title": "Study: Kids’ drip paintings more like Pollock’s than those of adults",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2025/11/study-kids-drip-paintings-more-like-pollocks-than-adults/",
+      "published_at": "Thu, 20 Nov 2025 05:00:26 +0000",
+      "bullets": [
+        "• A new study has found that children’s splatter paintings with fractal patterns resemble those of Pollock",
+        "• The study was published in the journal Frontiers in Physics in 2006",
+        "• It was commissioned by the University of Oregon to study the patterns of fractal paintings "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.829
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A new study has found that children’s splatter paintings with fractal patterns resemble those of Pollock",
+          "• The study was published in the journal Frontiers in Physics in 2006"
+        ],
+        "hopeful_bullets": [
+          "• A new study has found that children’s splatter paintings with fractal patterns resemble those of Pollock",
+          "• The study was published in the journal Frontiers in Physics in 2006"
+        ],
+        "stakes_bullets": [
+          "• A new study has found that children’s splatter paintings with fractal patterns resemble those of Pollock",
+          "• The study was published in the journal Frontiers in Physics in 2006",
+          "• It was commissioned by the University of Oregon to study the patterns of fractal paintings "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ceef484cb26d"
     },
     {
       "id": "a5de57264a40",
@@ -7114,6 +7249,75 @@
       "cluster_id": "b70fd23055da"
     },
     {
+      "id": "40f38107a55e",
+      "title": "China's astronauts land safely after space debris collision",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/15/nx-s1-5608381/chinas-astronauts-land-safely-after-space-debris-collision",
+      "published_at": "Sat, 15 Nov 2025 17:05:26 -0500",
+      "bullets": [
+        "• China's astronauts land safely after space debris collision",
+        "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft",
+        "• NPR's Emily Feng reports on their journey home",
+        "• The three astronauts took off from China's Gansu Province this past April "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.865
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China's astronauts land safely after space debris collision",
+          "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft"
+        ],
+        "hopeful_bullets": [
+          "• China's astronauts land safely after space debris collision",
+          "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft"
+        ],
+        "stakes_bullets": [
+          "• China's astronauts land safely after space debris collision",
+          "• They'd had to extend their stay on China's space station by more than a week due to space debris hitting and damaging their spacecraft",
+          "• NPR's Emily Feng reports on their journey home"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "120a19dd962b"
+    },
+    {
+      "id": "ecbd4fbdfdd1",
+      "title": "As funding falters, young brain scientists rethink careers in research",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/11/15/nx-s1-5609389/neuroscience-funding-falters-trump-careers-autism-alzheimers",
+      "published_at": "Sat, 15 Nov 2025 07:00:00 -0500",
+      "bullets": [
+        "• As funding falters, young brain scientists rethink careers in research",
+        "• U.S",
+        "• has been a world leader in brain science for decades, says John Morrison, president of SfN",
+        "• National Institutes of Health and National Science Foundation have been buffeted by cuts, policy changes "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• As funding falters, young brain scientists rethink careers in research",
+          "• U.S"
+        ],
+        "hopeful_bullets": [
+          "• As funding falters, young brain scientists rethink careers in research",
+          "• U.S"
+        ],
+        "stakes_bullets": [
+          "• has been a world leader in brain science for decades, says John Morrison, president of SfN",
+          "• National Institutes of Health and National Science Foundation have been buffeted by cuts, policy changes "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "b04269945ee5"
+    },
+    {
       "id": "609febe0b871",
       "title": "TVC15: Luke Skywalker (Death Star Escape) (VC39)",
       "outlet": "Jedi Temple Archives",
@@ -7712,6 +7916,38 @@
       },
       "read_minutes": 10,
       "cluster_id": "89f9d3c2dcd9"
+    },
+    {
+      "id": "e7277dcb5c62",
+      "title": "Deal restores Cornell's federal grants, reviving research on infant artificial heart",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/17/nx-s1-5607097/deal-restores-cornells-federal-grants-reviving-research-on-infant-artificial-heart",
+      "published_at": "Mon, 17 Nov 2025 04:53:30 -0500",
+      "bullets": [
+        "• Deal restores Cornell's federal grants, reviving research on infant artificial heart",
+        "• For one scientist, that means resuming work on an implantable artificial heart for babies and toddlers",
+        "• James Antaki was among the researchers who had their federal grants canceled by the Trump administration "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.961
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Deal restores Cornell's federal grants, reviving research on infant artificial heart",
+          "• For one scientist, that means resuming work on an implantable artificial heart for babies and toddlers"
+        ],
+        "hopeful_bullets": [
+          "• Deal restores Cornell's federal grants, reviving research on infant artificial heart",
+          "• For one scientist, that means resuming work on an implantable artificial heart for babies and toddlers"
+        ],
+        "stakes_bullets": [
+          "• For one scientist, that means resuming work on an implantable artificial heart for babies and toddlers"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "757771b70fe9"
     },
     {
       "id": "234ad8f6ea3d",
@@ -9389,6 +9625,24 @@
       ]
     },
     {
+      "id": "98e2256be066",
+      "topic": "friday mamdani meet office",
+      "keywords": [
+        "friday",
+        "mamdani",
+        "meet",
+        "office",
+        "oval",
+        "trump"
+      ],
+      "item_ids": [
+        "7a66b272fc15"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "a86b1f4d95cc",
       "topic": "bill epstein file release",
       "keywords": [
@@ -9530,24 +9784,6 @@
       ],
       "item_ids": [
         "2bb16cbe81f0"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "97b0cc584351",
-      "topic": "coming end fealty remarkable",
-      "keywords": [
-        "coming",
-        "end",
-        "fealty",
-        "remarkable",
-        "run",
-        "trump"
-      ],
-      "item_ids": [
-        "57e769bd7b0e"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -10252,6 +10488,24 @@
       ]
     },
     {
+      "id": "ceef484cb26d",
+      "topic": "drip kids like painting",
+      "keywords": [
+        "drip",
+        "kids",
+        "like",
+        "painting",
+        "pollock",
+        "study"
+      ],
+      "item_ids": [
+        "5219ee1b1b7d"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
       "id": "294589573c6c",
       "topic": "bubble ceo face hugging",
       "keywords": [
@@ -10405,24 +10659,6 @@
       ],
       "item_ids": [
         "df80dfbeaceb"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "7e0d62a00cc2",
-      "topic": "avoid exploited human louvre",
-      "keywords": [
-        "avoid",
-        "exploited",
-        "human",
-        "louvre",
-        "psychology",
-        "thieve"
-      ],
-      "item_ids": [
-        "3e7dd958c1ad"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -10696,6 +10932,78 @@
       ]
     },
     {
+      "id": "757771b70fe9",
+      "topic": "cornell deal federal grant",
+      "keywords": [
+        "cornell",
+        "deal",
+        "federal",
+        "grant",
+        "restore",
+        "reviving"
+      ],
+      "item_ids": [
+        "e7277dcb5c62"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "120a19dd962b",
+      "topic": "astronaut china debri land",
+      "keywords": [
+        "astronaut",
+        "china",
+        "debri",
+        "land",
+        "safely",
+        "space"
+      ],
+      "item_ids": [
+        "40f38107a55e"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "b04269945ee5",
+      "topic": "brain falter funding rethink",
+      "keywords": [
+        "brain",
+        "falter",
+        "funding",
+        "rethink",
+        "scientist",
+        "young"
+      ],
+      "item_ids": [
+        "ecbd4fbdfdd1"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "4d038b0f142a",
+      "topic": "ground losing npr poll",
+      "keywords": [
+        "ground",
+        "losing",
+        "npr",
+        "poll",
+        "republican",
+        "voter"
+      ],
+      "item_ids": [
+        "9addcf29e2ea"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "98632c994f70",
       "topic": "bill epstein house release",
       "keywords": [
@@ -10732,6 +11040,24 @@
       ]
     },
     {
+      "id": "c29bc6c62774",
+      "topic": "chicago nonprofit resisting small",
+      "keywords": [
+        "chicago",
+        "nonprofit",
+        "resisting",
+        "small",
+        "trump",
+        "war"
+      ],
+      "item_ids": [
+        "be6fc8c3f257"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "f0699e4e3af6",
       "topic": "advantage biggest congres control",
       "keywords": [
@@ -10744,6 +11070,42 @@
       ],
       "item_ids": [
         "08192b918b07"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "58e5fa5a8cbe",
+      "topic": "antisemitism force regroup severing",
+      "keywords": [
+        "antisemitism",
+        "force",
+        "regroup",
+        "severing",
+        "task",
+        "ties"
+      ],
+      "item_ids": [
+        "967cf6729e3b"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "a70bbfba027a",
+      "topic": "appeal blocked ruling texa",
+      "keywords": [
+        "appeal",
+        "blocked",
+        "ruling",
+        "texa",
+        "trump",
+        "use"
+      ],
+      "item_ids": [
+        "a3930afa3a49"
       ],
       "outlets": [
         "NPR Topics: Politics"
