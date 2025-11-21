@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T10:02:28Z",
+  "generated_at": "2025-11-21T10:19:53Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -530,38 +530,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "0fdabbdc3ac3"
-    },
-    {
-      "id": "3f14011073ee",
-      "title": "How City Leaders in New York Plan to Help Co-Op Buildings Reduce Emissions",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/19112025/new-york-city-co-op-apartment-electrification/",
-      "published_at": "Wed, 19 Nov 2025 10:00:00 +0000",
-      "bullets": [
-        "• The International Tailoring Company Building in New York City is undergoing a major overhaul of its heating and cooling systems",
-        "• The system is designed to reduce greenhouse gas emissions in order to meet the requirements of the city’s new law",
-        "• The project is the first of its kind in the U.S",
-        "• to implement the system "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The International Tailoring Company Building in New York City is undergoing a major overhaul of its heating and cooling systems",
-          "• The system is designed to reduce greenhouse gas emissions in order to meet the requirements of the city’s new law"
-        ],
-        "hopeful_bullets": [
-          "• The system is designed to reduce greenhouse gas emissions in order to meet the requirements of the city’s new law"
-        ],
-        "stakes_bullets": [
-          "• The system is designed to reduce greenhouse gas emissions in order to meet the requirements of the city’s new law"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "941619c6dcfe"
     },
     {
       "id": "f5a7112566f9",
@@ -6495,6 +6463,103 @@
       "cluster_id": "3a6bceb00ae6"
     },
     {
+      "id": "0a310136e4f5",
+      "title": "International Effort to Curb Emissions of a Climate Super Pollutant Falls Short, UN Report Reveals",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/21112025/international-effort-to-curb-methane-emissions-falls-short/",
+      "published_at": "Fri, 21 Nov 2025 10:00:00 +0000",
+      "bullets": [
+        "• Report shows methane emissions continue to climb at a troubling pace",
+        "• Methane is a potent greenhouse gas and the second leading driver of climate change after carbon dioxide",
+        "• The U.N",
+        "• report was the first assessment of the Global Methane Pledge, an effort to curb methane emissions "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Report shows methane emissions continue to climb at a troubling pace",
+          "• Methane is a potent greenhouse gas and the second leading driver of climate change after carbon dioxide"
+        ],
+        "hopeful_bullets": [
+          "• Report shows methane emissions continue to climb at a troubling pace",
+          "• Methane is a potent greenhouse gas and the second leading driver of climate change after carbon dioxide"
+        ],
+        "stakes_bullets": [
+          "• Methane is a potent greenhouse gas and the second leading driver of climate change after carbon dioxide"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "19c9854ac1e8"
+    },
+    {
+      "id": "40dacd57907c",
+      "title": "Global investors battle between long- and short-term wins amid Nvidia volatility",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/21/global-investors-weigh-long-and-short-term-wins-amid-nvidia-volatility.html",
+      "published_at": "Fri, 21 Nov 2025 09:36:49 GMT",
+      "bullets": [
+        "• AI darling Nvidia buoyed an otherwise deflated market when it reported strong earnings after the bell on Wednesday",
+        "• However, the rally quickly reversed on Thursday with Nvidia ending the trading session 3% lower",
+        "• Asia-Pacific markets fell Friday, led by tech heavyweight SoftBank, which plunged more than 10% "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• AI darling Nvidia buoyed an otherwise deflated market when it reported strong earnings after the bell on Wednesday",
+          "• However, the rally quickly reversed on Thursday with Nvidia ending the trading session 3% lower"
+        ],
+        "hopeful_bullets": [
+          "• AI darling Nvidia buoyed an otherwise deflated market when it reported strong earnings after the bell on Wednesday"
+        ],
+        "stakes_bullets": [
+          "• Asia-Pacific markets fell Friday, led by tech heavyweight SoftBank, which plunged more than 10% "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "b8f0388e9886"
+    },
+    {
+      "id": "89dd5f244f34",
+      "title": "Pupils abducted from Catholic school in fresh Nigeria attack",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj4qxvy74qyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 21 Nov 2025 09:29:20 GMT",
+      "bullets": [
+        "• Pupils abducted from Catholic school in Niger state",
+        "• Second school attack in less than a week",
+        "• Nigeria has faced renewed attacks by armed groups in recent days",
+        "• President Bola Tinubu has been forced to postpone planned foreign trips to Nigeria "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Pupils abducted from Catholic school in Niger state",
+          "• Second school attack in less than a week"
+        ],
+        "hopeful_bullets": [
+          "• Pupils abducted from Catholic school in Niger state",
+          "• Second school attack in less than a week"
+        ],
+        "stakes_bullets": [
+          "• President Bola Tinubu has been forced to postpone planned foreign trips to Nigeria "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "3600ede84db7"
+    },
+    {
       "id": "f5790d865b50",
       "title": "Cop30 draft text omits mention of fossil fuel phase-out roadmap",
       "outlet": "Environment | The Guardian",
@@ -6527,37 +6592,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "8f21f3111300"
-    },
-    {
-      "id": "f1235c53087e",
-      "title": "South African women call purple protest over gender violence",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn979g302l9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 21 Nov 2025 09:07:05 GMT",
-      "bullets": [
-        "• Campaign began with a viral social media movement and will culminate in a nationwide \"shutdown\" on Friday",
-        "• South Africa experiences some of the world's highest levels of GBV, with the rate at which women are killed five times higher than the global average "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Campaign began with a viral social media movement and will culminate in a nationwide \"shutdown\" on Friday",
-          "• South Africa experiences some of the world's highest levels of GBV, with the rate at which women are killed five times higher than the global average "
-        ],
-        "hopeful_bullets": [
-          "• Campaign began with a viral social media movement and will culminate in a nationwide \"shutdown\" on Friday",
-          "• South Africa experiences some of the world's highest levels of GBV, with the rate at which women are killed five times higher than the global average "
-        ],
-        "stakes_bullets": [
-          "• Campaign began with a viral social media movement and will culminate in a nationwide \"shutdown\" on Friday"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "00ddd4b792b2"
     },
     {
       "id": "8b0b91403ba4",
@@ -6792,38 +6826,6 @@
       "cluster_id": "bbdd4ea864d1"
     },
     {
-      "id": "8eb122f16610",
-      "title": "Japan announces $135 billion stimulus, NHK reports, in bid to support economy and consumers",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/21/japans-cabinet-announces-135-billion-stimulus-package-nhk.html",
-      "published_at": "Fri, 21 Nov 2025 07:42:55 GMT",
-      "bullets": [
-        "• Japan's cabinet approves a stimulus package totaling 21.3 trillion yen ($135.5 billion) This stimulus package is the largest since the Covid-19 pandemic, according to local media",
-        "• The support measures will kick in January, amounting to about 7,000 yen for a standard household over a three-month period "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.844
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's cabinet approves a stimulus package totaling 21.3 trillion yen ($135.5 billion) This stimulus package is the largest since the Covid-19 pandemic, according to local media",
-          "• The support measures will kick in January, amounting to about 7,000 yen for a standard household over a three-month period "
-        ],
-        "hopeful_bullets": [
-          "• Japan's cabinet approves a stimulus package totaling 21.3 trillion yen ($135.5 billion) This stimulus package is the largest since the Covid-19 pandemic, according to local media",
-          "• The support measures will kick in January, amounting to about 7,000 yen for a standard household over a three-month period "
-        ],
-        "stakes_bullets": [
-          "• Japan's cabinet approves a stimulus package totaling 21.3 trillion yen ($135.5 billion) This stimulus package is the largest since the Covid-19 pandemic, according to local media",
-          "• The support measures will kick in January, amounting to about 7,000 yen for a standard household over a three-month period "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "631fb449af24"
-    },
-    {
       "id": "8928c7e88ad8",
       "title": "Men posing as India's central bank officials pull off $800,000 heist",
       "outlet": "BBC News",
@@ -6831,9 +6833,9 @@
       "published_at": "Fri, 21 Nov 2025 07:24:28 GMT",
       "bullets": [
         "• Men posing as India's central bank officials pull off $800,000 heist",
-        "• Armed men stopped a cash-transport van on a busy road as it was moving money between bank branches",
-        "• The van was carrying a driver, a cash custodian and two armed guards",
-        "• The gang told the driver to leave their weapons in the van and get into an SUV "
+        "• Armed men stopped a cash transport van on a busy road as it was moving money between bank branches",
+        "• The gang told the cash custodian and guards to leave their weapons in the van and get into an SUV",
+        "• The driver was instructed to continue driving with the cash, police said "
       ],
       "category": "World",
       "sentiment": {
@@ -6843,15 +6845,15 @@
       "moods": {
         "brief_bullets": [
           "• Men posing as India's central bank officials pull off $800,000 heist",
-          "• Armed men stopped a cash-transport van on a busy road as it was moving money between bank branches"
+          "• Armed men stopped a cash transport van on a busy road as it was moving money between bank branches"
         ],
         "hopeful_bullets": [
           "• Men posing as India's central bank officials pull off $800,000 heist",
-          "• Armed men stopped a cash-transport van on a busy road as it was moving money between bank branches"
+          "• Armed men stopped a cash transport van on a busy road as it was moving money between bank branches"
         ],
         "stakes_bullets": [
           "• Men posing as India's central bank officials pull off $800,000 heist",
-          "• Armed men stopped a cash-transport van on a busy road as it was moving money between bank branches"
+          "• Armed men stopped a cash transport van on a busy road as it was moving money between bank branches"
         ]
       },
       "read_minutes": 2,
@@ -9160,75 +9162,6 @@
       "cluster_id": "ff62cca1472c"
     },
     {
-      "id": "bc740098b767",
-      "title": "Theater counts: Predator: Badlands lands in 3,725 theaters in opening weekend rollout",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260240830-Theater-counts-Predator-Badlands-lands-in-3-725-theaters-in-opening-weekend-rollout",
-      "published_at": null,
-      "bullets": [
-        "• New film, \"Predator: Badlands,\" debuts in 3,725 theaters this weekend",
-        "• The film is set to be the first time it has been released since 1987",
-        "• It's directed by the same director who directed the original version of the film",
-        "• The movie is based on the story of a young girl who was born in the early 1900s "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New film, \"Predator: Badlands,\" debuts in 3,725 theaters this weekend",
-          "• The film is set to be the first time it has been released since 1987"
-        ],
-        "hopeful_bullets": [
-          "• New film, \"Predator: Badlands,\" debuts in 3,725 theaters this weekend",
-          "• The film is set to be the first time it has been released since 1987"
-        ],
-        "stakes_bullets": [
-          "• New film, \"Predator: Badlands,\" debuts in 3,725 theaters this weekend",
-          "• The film is set to be the first time it has been released since 1987",
-          "• It's directed by the same director who directed the original version of the film"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "cd7dc6d5bfc4"
-    },
-    {
-      "id": "3f34aedec4e5",
-      "title": "The Numbers Business Report: 2026 Q3 Box Office Prediction",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260230830-Numbers-Business-Report-2026-Q3-Box-Office-Prediction-The",
-      "published_at": null,
-      "bullets": [
-        "• The Numbers Business Report: 2026 Q3 Box Office Prediction",
-        "• July’s releases dominate the third quarter at the box office, led by major franchise continuations and the highly anticipated Christopher Nolan film, The Odyssey",
-        "• Other notable franchise releases include the live-action Moana, a sixth Insidious movie, Clayface joining the DC Universe, a reboot of the Resident Evil franchise "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.754
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Numbers Business Report: 2026 Q3 Box Office Prediction",
-          "• July’s releases dominate the third quarter at the box office, led by major franchise continuations and the highly anticipated Christopher Nolan film, The Odyssey"
-        ],
-        "hopeful_bullets": [
-          "• The Numbers Business Report: 2026 Q3 Box Office Prediction",
-          "• July’s releases dominate the third quarter at the box office, led by major franchise continuations and the highly anticipated Christopher Nolan film, The Odyssey"
-        ],
-        "stakes_bullets": [
-          "• The Numbers Business Report: 2026 Q3 Box Office Prediction",
-          "• July’s releases dominate the third quarter at the box office, led by major franchise continuations and the highly anticipated Christopher Nolan film, The Odyssey",
-          "• Other notable franchise releases include the live-action Moana, a sixth Insidious movie, Clayface joining the DC Universe, a reboot of the Resident Evil franchise "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6fce325fa1e4"
-    },
-    {
       "id": "6b6ad74c1b8c",
       "title": "Weekend projections: Paramount claims top spot for Regretting You on exceptionally quiet weekend",
       "outlet": "The Numbers",
@@ -9336,6 +9269,24 @@
       ]
     },
     {
+      "id": "3600ede84db7",
+      "topic": "abducted catholic fresh nigeria",
+      "keywords": [
+        "abducted",
+        "catholic",
+        "fresh",
+        "nigeria",
+        "pupil",
+        "school"
+      ],
+      "item_ids": [
+        "89dd5f244f34"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "87aba77f9b2f",
       "topic": "countrie diversity infringing policie",
       "keywords": [
@@ -9348,24 +9299,6 @@
       ],
       "item_ids": [
         "9674ed9f8a24"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "00ddd4b792b2",
-      "topic": "african call protest purple",
-      "keywords": [
-        "african",
-        "call",
-        "protest",
-        "purple",
-        "south",
-        "women"
-      ],
-      "item_ids": [
-        "f1235c53087e"
       ],
       "outlets": [
         "BBC News"
@@ -9992,6 +9925,24 @@
       ]
     },
     {
+      "id": "b8f0388e9886",
+      "topic": "battle between global investor",
+      "keywords": [
+        "battle",
+        "between",
+        "global",
+        "investor",
+        "long",
+        "short"
+      ],
+      "item_ids": [
+        "40dacd57907c"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "9aafd58b5035",
       "topic": "fueled nvidia rout sink",
       "keywords": [
@@ -10094,24 +10045,6 @@
       ],
       "item_ids": [
         "39c1b7231dde"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "631fb449af24",
-      "topic": "135 announce billion japan",
-      "keywords": [
-        "135",
-        "announce",
-        "billion",
-        "japan",
-        "nhk",
-        "stimulu"
-      ],
-      "item_ids": [
-        "8eb122f16610"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -11453,6 +11386,24 @@
       ]
     },
     {
+      "id": "19c9854ac1e8",
+      "topic": "climate curb effort emission",
+      "keywords": [
+        "climate",
+        "curb",
+        "effort",
+        "emission",
+        "international",
+        "super"
+      ],
+      "item_ids": [
+        "0a310136e4f5"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "2c28d5969c50",
       "topic": "california finally landfill methane",
       "keywords": [
@@ -11612,24 +11563,6 @@
       ]
     },
     {
-      "id": "941619c6dcfe",
-      "topic": "building city help leader",
-      "keywords": [
-        "building",
-        "city",
-        "help",
-        "leader",
-        "plan",
-        "york"
-      ],
-      "item_ids": [
-        "3f14011073ee"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
       "id": "683e45b155a3",
       "topic": "count good onto theater",
       "keywords": [
@@ -11748,42 +11681,6 @@
       ],
       "item_ids": [
         "78564afcfa15"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "cd7dc6d5bfc4",
-      "topic": "725 badland count land",
-      "keywords": [
-        "725",
-        "badland",
-        "count",
-        "land",
-        "predator",
-        "theater"
-      ],
-      "item_ids": [
-        "bc740098b767"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "6fce325fa1e4",
-      "topic": "2026 box busines number",
-      "keywords": [
-        "2026",
-        "box",
-        "busines",
-        "number",
-        "office",
-        "report"
-      ],
-      "item_ids": [
-        "3f34aedec4e5"
       ],
       "outlets": [
         "The Numbers"
