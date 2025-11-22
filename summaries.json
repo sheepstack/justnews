@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T22:18:54Z",
+  "generated_at": "2025-11-22T23:00:57Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -67,6 +67,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "953b2d0596d8"
+    },
+    {
+      "id": "72e19918bc7d",
+      "title": "Trump administration seeks to roll back protections for imperiled species and habitat",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/19/g-s1-98459/trump-administration-endangered-species-act-blanket-rule",
+      "published_at": "Wed, 19 Nov 2025 18:46:37 -0500",
+      "bullets": [
+        "• The world's best-known animal species is now extinct in the U.S",
+        "• It is the first time in the world's history that it has been allowed to be allowed to live in the United States",
+        "• The world has never seen this type of animal species have died of natural causes "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The world's best-known animal species is now extinct in the U.S",
+          "• It is the first time in the world's history that it has been allowed to be allowed to live in the United States"
+        ],
+        "hopeful_bullets": [
+          "• The world's best-known animal species is now extinct in the U.S",
+          "• It is the first time in the world's history that it has been allowed to be allowed to live in the United States"
+        ],
+        "stakes_bullets": [
+          "• The world has never seen this type of animal species have died of natural causes "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "894efc6d884a"
     },
     {
       "id": "e9ae3c69b67f",
@@ -1125,6 +1157,41 @@
       "cluster_id": "d26a3bf750aa"
     },
     {
+      "id": "cf363c5ae463",
+      "title": "Fire prompts evacuations at U.N. climate talks in Brazil; 13 suffer smoke inhalation",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/20/g-s1-98669/fire-united-nations-climate-talks-brazil-cop30",
+      "published_at": "Thu, 20 Nov 2025 19:35:12 -0500",
+      "bullets": [
+        "• Fire prompts evacuations at U.N",
+        "• climate talks in Brazil; 13 suffer smoke inhalation",
+        "• Video shows huge flames in one of the pavilions, which are reinforced canvas or fabric structures",
+        "• It wasn't clear when the conference, known as COP30, would resume "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fire prompts evacuations at U.N",
+          "• climate talks in Brazil; 13 suffer smoke inhalation"
+        ],
+        "hopeful_bullets": [
+          "• Fire prompts evacuations at U.N",
+          "• climate talks in Brazil; 13 suffer smoke inhalation"
+        ],
+        "stakes_bullets": [
+          "• Fire prompts evacuations at U.N",
+          "• climate talks in Brazil; 13 suffer smoke inhalation",
+          "• Video shows huge flames in one of the pavilions, which are reinforced canvas or fabric structures"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4b9c817677f0"
+    },
+    {
       "id": "d218c374acf7",
       "title": "Lawsuit halts Texas’ $3 billion dementia fund",
       "outlet": "The Texas Tribune",
@@ -1721,6 +1788,41 @@
       "cluster_id": "0670de235812"
     },
     {
+      "id": "12c9fc873dc8",
+      "title": "'Nightmare Obscura' author explains how to take control of your dreams",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/20/nx-s1-5609173/nightmare-obscura-author-explains-how-to-take-control-of-your-dreams",
+      "published_at": "Thu, 20 Nov 2025 11:41:44 -0500",
+      "bullets": [
+        "• 'Nightmare Obscura' author explains how to take control of your dreams",
+        "• Michelle Carr has spent years researching dreaming",
+        "• She explains how sensory inputs like light, sound and vibration can influence the subconscious",
+        "• She says some of the most vivid dreams keep some of them up at night "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 'Nightmare Obscura' author explains how to take control of your dreams",
+          "• Michelle Carr has spent years researching dreaming"
+        ],
+        "hopeful_bullets": [
+          "• 'Nightmare Obscura' author explains how to take control of your dreams",
+          "• Michelle Carr has spent years researching dreaming"
+        ],
+        "stakes_bullets": [
+          "• 'Nightmare Obscura' author explains how to take control of your dreams",
+          "• Michelle Carr has spent years researching dreaming",
+          "• She explains how sensory inputs like light, sound and vibration can influence the subconscious"
+        ]
+      },
+      "read_minutes": 29,
+      "cluster_id": "1ab1ac323c3b"
+    },
+    {
       "id": "cfa6bafba266",
       "title": "Trump officials reveal plan to roll back regulations in Endangered Species Act",
       "outlet": "Environment | The Guardian",
@@ -1784,41 +1886,6 @@
       "cluster_id": "efdf68d3e6b0"
     },
     {
-      "id": "36b0fe2efd2f",
-      "title": "As Seas Rise, So Do the Risks From Toxic Sites",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/20112025/sea-level-rise-toxic-site-risks/",
-      "published_at": "Thu, 20 Nov 2025 10:00:00 +0000",
-      "bullets": [
-        "• Luna Angulo was just 12 when a massive explosion rocked Chevron’s accident-prone Richmond refinery",
-        "• Towering clouds of black smoke darkened the skies for hours that summer day in 2012, forcing 15,000 residents to seek medical care",
-        "• The catastrophic fire haunts the collective memory of this working-class town",
-        "• It also turned a generation of young people into climate activists "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Luna Angulo was just 12 when a massive explosion rocked Chevron’s accident-prone Richmond refinery",
-          "• Towering clouds of black smoke darkened the skies for hours that summer day in 2012, forcing 15,000 residents to seek medical care"
-        ],
-        "hopeful_bullets": [
-          "• Luna Angulo was just 12 when a massive explosion rocked Chevron’s accident-prone Richmond refinery",
-          "• Towering clouds of black smoke darkened the skies for hours that summer day in 2012, forcing 15,000 residents to seek medical care"
-        ],
-        "stakes_bullets": [
-          "• Luna Angulo was just 12 when a massive explosion rocked Chevron’s accident-prone Richmond refinery",
-          "• Towering clouds of black smoke darkened the skies for hours that summer day in 2012, forcing 15,000 residents to seek medical care",
-          "• The catastrophic fire haunts the collective memory of this working-class town"
-        ]
-      },
-      "read_minutes": 15,
-      "cluster_id": "e469c2385c78"
-    },
-    {
       "id": "bb9565a0b583",
       "title": "The Cambodian women rising up to protect their communal land",
       "outlet": "Positive News",
@@ -1851,6 +1918,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "d219184e450f"
+    },
+    {
+      "id": "df6170bc8a63",
+      "title": "Eating just a handful of plastic can be fatal for marine animals, a study finds",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/20/nx-s1-5611148/plastic-pollution-ocean-animals-seabirds-turtles-research",
+      "published_at": "Thu, 20 Nov 2025 05:15:00 -0500",
+      "bullets": [
+        "• Eating just a handful of plastic can be fatal for marine animals, a study finds",
+        "• Less than three sugar cubes' worth of plastic could kill an Atlantic puffin, two baseballs' worth would do in a sea turtle",
+        "• The equivalent of a soccer ball is enough to off a seal or dolphin "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Eating just a handful of plastic can be fatal for marine animals, a study finds",
+          "• Less than three sugar cubes' worth of plastic could kill an Atlantic puffin, two baseballs' worth would do in a sea turtle"
+        ],
+        "hopeful_bullets": [
+          "• Eating just a handful of plastic can be fatal for marine animals, a study finds",
+          "• Less than three sugar cubes' worth of plastic could kill an Atlantic puffin, two baseballs' worth would do in a sea turtle"
+        ],
+        "stakes_bullets": [
+          "• Less than three sugar cubes' worth of plastic could kill an Atlantic puffin, two baseballs' worth would do in a sea turtle"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "96a9cfd75d11"
     },
     {
       "id": "40d02e1dfb09",
@@ -2383,6 +2482,335 @@
       "cluster_id": "077fbd269b7a"
     },
     {
+      "id": "d4886ab79918",
+      "title": "69 Years Later, John Wayne’s Western Masterpiece Still Delivers the Greatest Performance of His Career",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/john-wayne-the-searchers-greatest-performance-career/",
+      "published_at": "Sat, 22 Nov 2025 22:50:11 GMT",
+      "bullets": [
+        "• The Western genre came to define John Wayne, and he embraced the archetype and the power it had over audiences",
+        "• Wayne started to explore different character traits, philosophies, and personalities with his characters as his career went on",
+        "• The more complex these characters were, the more interesting the films and the more popular John Wayne became "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Western genre came to define John Wayne, and he embraced the archetype and the power it had over audiences",
+          "• Wayne started to explore different character traits, philosophies, and personalities with his characters as his career went on"
+        ],
+        "hopeful_bullets": [
+          "• The Western genre came to define John Wayne, and he embraced the archetype and the power it had over audiences",
+          "• Wayne started to explore different character traits, philosophies, and personalities with his characters as his career went on"
+        ],
+        "stakes_bullets": [
+          "• The Western genre came to define John Wayne, and he embraced the archetype and the power it had over audiences",
+          "• Wayne started to explore different character traits, philosophies, and personalities with his characters as his career went on",
+          "• The more complex these characters were, the more interesting the films and the more popular John Wayne became "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "e79d914d9149"
+    },
+    {
+      "id": "ae02684472b9",
+      "title": "Watch Billy Corgan, Lyric Opera of Chicago Perform ‘Tonight, Tonight’ and ‘Bullet With Butterfly Wings’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/billy-corgan-lyric-opera-chicago-perform-tonight-tonight-1235471055/",
+      "published_at": "Sat, 22 Nov 2025 22:44:32 +0000",
+      "bullets": [
+        "• Billy Corgan teamed up with the Lyric Opera of Chicago for the opera concert series A Night of Mellon Collie and Infinite Sadness",
+        "• The set list featured the album’s big hits “Tonight, Tonight,” “1979” and “Bullet With Butterfly Wings”"
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Billy Corgan teamed up with the Lyric Opera of Chicago for the opera concert series A Night of Mellon Collie and Infinite Sadness",
+          "• The set list featured the album’s big hits “Tonight, Tonight,” “1979” and “Bullet With Butterfly Wings”"
+        ],
+        "hopeful_bullets": [
+          "• The set list featured the album’s big hits “Tonight, Tonight,” “1979” and “Bullet With Butterfly Wings”"
+        ],
+        "stakes_bullets": [
+          "• Billy Corgan teamed up with the Lyric Opera of Chicago for the opera concert series A Night of Mellon Collie and Infinite Sadness"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "60552c409f72"
+    },
+    {
+      "id": "72bde3807c0c",
+      "title": "As Rick And Morty Ends, Crazy New Story Details Emerge",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/rick-and-morty-end-issue-3-solicitation/",
+      "published_at": "Sat, 22 Nov 2025 22:28:40 GMT",
+      "bullets": [
+        "• Oni Press has released the solicitation for the third issue of Rick and Morty: The End",
+        "• The series is the last issue of the series, and it will launch next month",
+        "• Rick is forced to take on the Vindicators in an intergalactic battle "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.969
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Oni Press has released the solicitation for the third issue of Rick and Morty: The End",
+          "• The series is the last issue of the series, and it will launch next month"
+        ],
+        "hopeful_bullets": [
+          "• Oni Press has released the solicitation for the third issue of Rick and Morty: The End",
+          "• The series is the last issue of the series, and it will launch next month"
+        ],
+        "stakes_bullets": [
+          "• The series is the last issue of the series, and it will launch next month"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3dd2d7fd6d45"
+    },
+    {
+      "id": "2e6828dea8ea",
+      "title": "Jair Bolsonaro arrested after being deemed a flight risk",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8qdm5zg10o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 22 Nov 2025 22:25:44 GMT",
+      "bullets": [
+        "• Jair Bolsonaro was found guilty of plotting a military coup in September",
+        "• He was sentenced to more than 27 years in prison, but he remains under house arrest",
+        "• Supreme Court Justice Alexandre de Moraes said the move to detain the 70-year-old was a preventative measure "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.913
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jair Bolsonaro was found guilty of plotting a military coup in September",
+          "• He was sentenced to more than 27 years in prison, but he remains under house arrest"
+        ],
+        "hopeful_bullets": [
+          "• Jair Bolsonaro was found guilty of plotting a military coup in September",
+          "• He was sentenced to more than 27 years in prison, but he remains under house arrest"
+        ],
+        "stakes_bullets": [
+          "• Jair Bolsonaro was found guilty of plotting a military coup in September",
+          "• He was sentenced to more than 27 years in prison, but he remains under house arrest",
+          "• Supreme Court Justice Alexandre de Moraes said the move to detain the 70-year-old was a preventative measure "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "77fcef691682"
+    },
+    {
+      "id": "9883d15a0993",
+      "title": "10 X-Men Villains Who Deserve to Return in Avengers: Doomsday",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/x-men-villains-return-avengers-doomsday/",
+      "published_at": "Sat, 22 Nov 2025 22:25:11 GMT",
+      "bullets": [
+        "• Several of the X-Men's most iconic villains are set to return for the final installment of the MCU's Multiverse Saga",
+        "• Doctor Doom is the big bad, but these ten villains can outdo him as the main enemy of the next MCU film "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.865
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Several of the X-Men's most iconic villains are set to return for the final installment of the MCU's Multiverse Saga",
+          "• Doctor Doom is the big bad, but these ten villains can outdo him as the main enemy of the next MCU film "
+        ],
+        "hopeful_bullets": [
+          "• Several of the X-Men's most iconic villains are set to return for the final installment of the MCU's Multiverse Saga",
+          "• Doctor Doom is the big bad, but these ten villains can outdo him as the main enemy of the next MCU film "
+        ],
+        "stakes_bullets": [
+          "• Several of the X-Men's most iconic villains are set to return for the final installment of the MCU's Multiverse Saga",
+          "• Doctor Doom is the big bad, but these ten villains can outdo him as the main enemy of the next MCU film "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "2a90f41719e7"
+    },
+    {
+      "id": "76c4e4a57b3f",
+      "title": "The Simpsons Season 14 Changed Sitcoms Forever & Fans Still Aren't Over It",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-simpsons-season-14-started-digital-era/",
+      "published_at": "Sat, 22 Nov 2025 22:25:11 GMT",
+      "bullets": [
+        "• By the time The Simpsons reached its fourteenth season in 2002, television was already changing",
+        "• Viewers began to recognize the transition from the hand-drawn art of twentieth-century television to computer-generated imagery in the twenty-first century",
+        "• The show that was once celebrated for its warm and handmade texture continues into the fully digital era "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• By the time The Simpsons reached its fourteenth season in 2002, television was already changing",
+          "• Viewers began to recognize the transition from the hand-drawn art of twentieth-century television to computer-generated imagery in the twenty-first century"
+        ],
+        "hopeful_bullets": [
+          "• By the time The Simpsons reached its fourteenth season in 2002, television was already changing",
+          "• Viewers began to recognize the transition from the hand-drawn art of twentieth-century television to computer-generated imagery in the twenty-first century"
+        ],
+        "stakes_bullets": [
+          "• By the time The Simpsons reached its fourteenth season in 2002, television was already changing",
+          "• Viewers began to recognize the transition from the hand-drawn art of twentieth-century television to computer-generated imagery in the twenty-first century",
+          "• The show that was once celebrated for its warm and handmade texture continues into the fully digital era "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "d6a5c7ee5227"
+    },
+    {
+      "id": "739fbe66ef59",
+      "title": "UN climate talks fail to secure new fossil fuel promises",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 22 Nov 2025 22:19:16 GMT",
+      "bullets": [
+        "• UN climate summit COP30 in Belém, Brazil ends with deal that contains no direct reference to fossil fuels",
+        "• UK and EU wanted to commit the world to stop using using using oil, coal and gas at a faster pace",
+        "• Oil-producing nations held the line that they should be allowed to use fossil fuel resources to grow their economies "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• UN climate summit COP30 in Belém, Brazil ends with deal that contains no direct reference to fossil fuels",
+          "• UK and EU wanted to commit the world to stop using using using oil, coal and gas at a faster pace"
+        ],
+        "hopeful_bullets": [
+          "• UN climate summit COP30 in Belém, Brazil ends with deal that contains no direct reference to fossil fuels",
+          "• UK and EU wanted to commit the world to stop using using using oil, coal and gas at a faster pace"
+        ],
+        "stakes_bullets": [
+          "• UN climate summit COP30 in Belém, Brazil ends with deal that contains no direct reference to fossil fuels",
+          "• UK and EU wanted to commit the world to stop using using using oil, coal and gas at a faster pace",
+          "• Oil-producing nations held the line that they should be allowed to use fossil fuel resources to grow their economies "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "91f37a9ffc91"
+    },
+    {
+      "id": "b86e4e841844",
+      "title": "COP30 Backpedals on Climate Action",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/22112025/cop30-backpedals-on-climate-action/",
+      "published_at": "Sat, 22 Nov 2025 22:17:41 +0000",
+      "bullets": [
+        "• COP30 could go down in history “as the deadliest talk show ever,” expert says",
+        "• Negotiators retreated from meaningful climate action by failing to specifically mention need to stop using fossil fuels",
+        "• Draft text released Nov",
+        "• 18 clearly spelled out need to transition away from fossil fuels, but in final version watered down "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• COP30 could go down in history “as the deadliest talk show ever,” expert says",
+          "• Negotiators retreated from meaningful climate action by failing to specifically mention need to stop using fossil fuels"
+        ],
+        "hopeful_bullets": [
+          "• COP30 could go down in history “as the deadliest talk show ever,” expert says",
+          "• Negotiators retreated from meaningful climate action by failing to specifically mention need to stop using fossil fuels"
+        ],
+        "stakes_bullets": [
+          "• COP30 could go down in history “as the deadliest talk show ever,” expert says"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "813e01403430"
+    },
+    {
+      "id": "8e9761449a1d",
+      "title": "Cop30 live: Fury, confusion and gratitude as climate deal reached in Belém",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/live/2025/nov/22/cop30-climate-talks-deal-overtime-live-news",
+      "published_at": "Sat, 22 Nov 2025 22:15:46 GMT",
+      "bullets": [
+        "• Nations agreed to tripled funding for adaptation but goal of roughly $120bn a year was pushed back five years to 2035",
+        "• Fossil fuels were not mentioned in the key final decision – petrostates including Saudi Arabia and allies fought fiercely to keep that out "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.958
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nations agreed to tripled funding for adaptation but goal of roughly $120bn a year was pushed back five years to 2035",
+          "• Fossil fuels were not mentioned in the key final decision – petrostates including Saudi Arabia and allies fought fiercely to keep that out "
+        ],
+        "hopeful_bullets": [
+          "• Nations agreed to tripled funding for adaptation but goal of roughly $120bn a year was pushed back five years to 2035",
+          "• Fossil fuels were not mentioned in the key final decision – petrostates including Saudi Arabia and allies fought fiercely to keep that out "
+        ],
+        "stakes_bullets": [
+          "• Nations agreed to tripled funding for adaptation but goal of roughly $120bn a year was pushed back five years to 2035",
+          "• Fossil fuels were not mentioned in the key final decision – petrostates including Saudi Arabia and allies fought fiercely to keep that out "
+        ]
+      },
+      "read_minutes": 16,
+      "cluster_id": "e69b28287978"
+    },
+    {
+      "id": "de5460841a3a",
+      "title": "The Official Best Crunchyroll Anime of 2025 Finally Fixes an Outdated Trope Fans Hate",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/gachiakuta-riyo-reaper-gun-anime-worst-trope/",
+      "published_at": "Sat, 22 Nov 2025 22:15:11 GMT",
+      "bullets": [
+        "• Gachiakuta is currently the most-watched shonen anime on Crunchyroll after the final season of My Hero Academia",
+        "• The anime genre has an abundance of fantasy series with supernatural abilities",
+        "• The most recent arc hands a victory to a character using a plain old gun "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Gachiakuta is currently the most-watched shonen anime on Crunchyroll after the final season of My Hero Academia",
+          "• The anime genre has an abundance of fantasy series with supernatural abilities"
+        ],
+        "hopeful_bullets": [
+          "• Gachiakuta is currently the most-watched shonen anime on Crunchyroll after the final season of My Hero Academia",
+          "• The anime genre has an abundance of fantasy series with supernatural abilities"
+        ],
+        "stakes_bullets": [
+          "• Gachiakuta is currently the most-watched shonen anime on Crunchyroll after the final season of My Hero Academia",
+          "• The anime genre has an abundance of fantasy series with supernatural abilities",
+          "• The most recent arc hands a victory to a character using a plain old gun "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "2557db40c0b6"
+    },
+    {
       "id": "88f7fbfd9dc7",
       "title": "Russell Crowe's New Historical Thriller Is the Perfect Oppenheimer Replacement",
       "outlet": "CBR",
@@ -2415,38 +2843,38 @@
       "cluster_id": "232ea2917a91"
     },
     {
-      "id": "739fbe66ef59",
-      "title": "UN climate talks fail to secure new fossil fuel promises",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 22 Nov 2025 21:30:46 GMT",
+      "id": "1290945a95c2",
+      "title": "End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/nov/22/cop30-deal-inches-closer-to-end-of-fossil-fuel-era-after-bitter-standoff",
+      "published_at": "Sat, 22 Nov 2025 21:52:41 GMT",
       "bullets": [
-        "• UN climate summit COP30 in Belém, Brazil, ends with deal that contains no direct reference to fossil fuels",
-        "• UK and EU wanted the meeting to commit the world to stop using using using oil, coal and gas at a faster pace",
-        "• Oil-producing nations held the line that they should be allowed to use fossil fuel resources to grow their economies "
+        "• Developing countries reach agreement on phase-out of fossil fuel era, but not enough to stave off the ravages of climate breakdown",
+        "• Agreement among 194 countries, excluding the US, was reached in an all-night session into Saturday morning",
+        "• Developed countries should receive $120bn (£92bn) a year for adaptation "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.96
       },
       "moods": {
         "brief_bullets": [
-          "• UN climate summit COP30 in Belém, Brazil, ends with deal that contains no direct reference to fossil fuels",
-          "• UK and EU wanted the meeting to commit the world to stop using using using oil, coal and gas at a faster pace"
+          "• Developing countries reach agreement on phase-out of fossil fuel era, but not enough to stave off the ravages of climate breakdown",
+          "• Agreement among 194 countries, excluding the US, was reached in an all-night session into Saturday morning"
         ],
         "hopeful_bullets": [
-          "• UN climate summit COP30 in Belém, Brazil, ends with deal that contains no direct reference to fossil fuels",
-          "• UK and EU wanted the meeting to commit the world to stop using using using oil, coal and gas at a faster pace"
+          "• Developing countries reach agreement on phase-out of fossil fuel era, but not enough to stave off the ravages of climate breakdown",
+          "• Agreement among 194 countries, excluding the US, was reached in an all-night session into Saturday morning"
         ],
         "stakes_bullets": [
-          "• UN climate summit COP30 in Belém, Brazil, ends with deal that contains no direct reference to fossil fuels",
-          "• UK and EU wanted the meeting to commit the world to stop using using using oil, coal and gas at a faster pace",
-          "• Oil-producing nations held the line that they should be allowed to use fossil fuel resources to grow their economies "
+          "• Developing countries reach agreement on phase-out of fossil fuel era, but not enough to stave off the ravages of climate breakdown",
+          "• Agreement among 194 countries, excluding the US, was reached in an all-night session into Saturday morning",
+          "• Developed countries should receive $120bn (£92bn) a year for adaptation "
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "91f37a9ffc91"
+      "read_minutes": 5,
+      "cluster_id": "ae322bc9a661"
     },
     {
       "id": "259351464981",
@@ -2480,38 +2908,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "20a6b32dac26"
-    },
-    {
-      "id": "8e9761449a1d",
-      "title": "Cop30 live: Fury, confusion and gratitude as climate deal reached in Belém",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/live/2025/nov/22/cop30-climate-talks-deal-overtime-live-news",
-      "published_at": "Sat, 22 Nov 2025 21:28:38 GMT",
-      "bullets": [
-        "• Nations agreed to tripled funding for adaptation but goal of roughly $120bn a year was pushed back five years to 2035",
-        "• Fossil fuels were not mentioned in the key final decision – petrostates including Saudi Arabia and allies fought fiercely to keep that out "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.958
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nations agreed to tripled funding for adaptation but goal of roughly $120bn a year was pushed back five years to 2035",
-          "• Fossil fuels were not mentioned in the key final decision – petrostates including Saudi Arabia and allies fought fiercely to keep that out "
-        ],
-        "hopeful_bullets": [
-          "• Nations agreed to tripled funding for adaptation but goal of roughly $120bn a year was pushed back five years to 2035",
-          "• Fossil fuels were not mentioned in the key final decision – petrostates including Saudi Arabia and allies fought fiercely to keep that out "
-        ],
-        "stakes_bullets": [
-          "• Nations agreed to tripled funding for adaptation but goal of roughly $120bn a year was pushed back five years to 2035",
-          "• Fossil fuels were not mentioned in the key final decision – petrostates including Saudi Arabia and allies fought fiercely to keep that out "
-        ]
-      },
-      "read_minutes": 13,
-      "cluster_id": "e69b28287978"
     },
     {
       "id": "8f74f0148142",
@@ -2781,106 +3177,6 @@
       "cluster_id": "8353a1345728"
     },
     {
-      "id": "94505266cf42",
-      "title": "2026 Will Be a Great Year For The Most Popular Anime Genre",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/chainsaw-man-jjk-2026-great-year-most-popular-anime-genre/",
-      "published_at": "Sat, 22 Nov 2025 20:15:11 GMT",
-      "bullets": [
-        "• Both Jujutsu Kaisen and Hell's Paradise are releasing new seasons in Winter 2026",
-        "• The two biggest anime releasing in the winter 2026 season are both new seasons of popular dark Shonen anime",
-        "• The former adapting the long-awaited Culling Games Arc will be released over the course of the year "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Both Jujutsu Kaisen and Hell's Paradise are releasing new seasons in Winter 2026",
-          "• The two biggest anime releasing in the winter 2026 season are both new seasons of popular dark Shonen anime"
-        ],
-        "hopeful_bullets": [
-          "• Both Jujutsu Kaisen and Hell's Paradise are releasing new seasons in Winter 2026",
-          "• The two biggest anime releasing in the winter 2026 season are both new seasons of popular dark Shonen anime"
-        ],
-        "stakes_bullets": [
-          "• The former adapting the long-awaited Culling Games Arc will be released over the course of the year "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "7a794a788bce"
-    },
-    {
-      "id": "4d1430c87d79",
-      "title": "Blokees’ Newest Transformers Toy Highlights One of Megatron’s Darkest Designs",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/newest-transformers-toy-megatron-darkest-designs/",
-      "published_at": "Sat, 22 Nov 2025 20:00:11 GMT",
-      "bullets": [
-        "• Chinese company Blokees has released a new Transformers toy based on the Decepticon's design from the 2011 film",
-        "• The release date for the Megatron toy is unknown, but it should be out in time for the film's anniversary",
-        "• The toy is based on how he appears in the movie Transformers: Dark of the Moon "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.97
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Chinese company Blokees has released a new Transformers toy based on the Decepticon's design from the 2011 film",
-          "• The release date for the Megatron toy is unknown, but it should be out in time for the film's anniversary"
-        ],
-        "hopeful_bullets": [
-          "• Chinese company Blokees has released a new Transformers toy based on the Decepticon's design from the 2011 film",
-          "• The release date for the Megatron toy is unknown, but it should be out in time for the film's anniversary"
-        ],
-        "stakes_bullets": [
-          "• Chinese company Blokees has released a new Transformers toy based on the Decepticon's design from the 2011 film",
-          "• The release date for the Megatron toy is unknown, but it should be out in time for the film's anniversary",
-          "• The toy is based on how he appears in the movie Transformers: Dark of the Moon "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "37e7c0d8395e"
-    },
-    {
-      "id": "1cf4ad1d93a1",
-      "title": "10 Darkest Western Movies of the 21st Century",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/darkest-western-movies-21st-century-list/",
-      "published_at": "Sat, 22 Nov 2025 20:00:11 GMT",
-      "bullets": [
-        "• Since the '70s, movies like The Searchers have shown the dark side of the Westerns",
-        "• The new film is about a group of men who are left fighting for their lives in the desert",
-        "• The film is set to be the latest in a long line of classic Westerns to be released "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Since the '70s, movies like The Searchers have shown the dark side of the Westerns",
-          "• The new film is about a group of men who are left fighting for their lives in the desert"
-        ],
-        "hopeful_bullets": [
-          "• Since the '70s, movies like The Searchers have shown the dark side of the Westerns",
-          "• The new film is about a group of men who are left fighting for their lives in the desert"
-        ],
-        "stakes_bullets": [
-          "• Since the '70s, movies like The Searchers have shown the dark side of the Westerns",
-          "• The new film is about a group of men who are left fighting for their lives in the desert",
-          "• The film is set to be the latest in a long line of classic Westerns to be released "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "629cc63382b0"
-    },
-    {
       "id": "616556e39141",
       "title": "Tatiana Schlossberg, granddaughter of JFK, announces terminal cancer diagnosis",
       "outlet": "US news | The Guardian",
@@ -2948,74 +3244,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "6b6d2dad1190"
-    },
-    {
-      "id": "f9efe3841f92",
-      "title": "If You Want to Be an Anime Expert, Watch These 10 Essential Series",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/must-watch-anime-every-fan-should-see/",
-      "published_at": "Sat, 22 Nov 2025 19:15:11 GMT",
-      "bullets": [
-        "• The medium has evolved from a small number of titles that have transformed the way people look at and create animation",
-        "• Watching these anime gives a clearer picture of where the medium has been, and why so many stories today still travel paths laid out by some of the industry’s first works",
-        "• Dragon Ball Z and Sailor Moon depict the map of modern anime "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The medium has evolved from a small number of titles that have transformed the way people look at and create animation",
-          "• Watching these anime gives a clearer picture of where the medium has been, and why so many stories today still travel paths laid out by some of the industry’s first works"
-        ],
-        "hopeful_bullets": [
-          "• The medium has evolved from a small number of titles that have transformed the way people look at and create animation",
-          "• Watching these anime gives a clearer picture of where the medium has been, and why so many stories today still travel paths laid out by some of the industry’s first works"
-        ],
-        "stakes_bullets": [
-          "• The medium has evolved from a small number of titles that have transformed the way people look at and create animation",
-          "• Watching these anime gives a clearer picture of where the medium has been, and why so many stories today still travel paths laid out by some of the industry’s first works",
-          "• Dragon Ball Z and Sailor Moon depict the map of modern anime "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "c7c64b31c5bd"
-    },
-    {
-      "id": "429865b9c47f",
-      "title": "8 Gilmore Girls Episodes That Are Perfect From Start to Finish",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/perfect-gilmore-girls-episodes-list/",
-      "published_at": "Sat, 22 Nov 2025 19:00:11 GMT",
-      "bullets": [
-        "• There are valid reasons why Gilmore Girls continues to be one of the most beloved shows of the 2000s",
-        "• The unique and endearing bond between Lorelai and Rory is unmatched",
-        "• From the endearing installments to the serious plot points, several episodes are perfect from start to finish "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• There are valid reasons why Gilmore Girls continues to be one of the most beloved shows of the 2000s",
-          "• The unique and endearing bond between Lorelai and Rory is unmatched"
-        ],
-        "hopeful_bullets": [
-          "• There are valid reasons why Gilmore Girls continues to be one of the most beloved shows of the 2000s",
-          "• The unique and endearing bond between Lorelai and Rory is unmatched"
-        ],
-        "stakes_bullets": [
-          "• There are valid reasons why Gilmore Girls continues to be one of the most beloved shows of the 2000s",
-          "• The unique and endearing bond between Lorelai and Rory is unmatched",
-          "• From the endearing installments to the serious plot points, several episodes are perfect from start to finish "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "e95a1aeb3e48"
     },
     {
       "id": "8a1065abac3c",
@@ -3153,40 +3381,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "2cef141436cc"
-    },
-    {
-      "id": "1290945a95c2",
-      "title": "End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/22/cop30-deal-inches-closer-to-end-of-fossil-fuel-era-after-bitter-standoff",
-      "published_at": "Sat, 22 Nov 2025 17:45:18 GMT",
-      "bullets": [
-        "• Developing countries reach agreement on phase-out of fossil fuel era, but not enough to stave off the ravages of climate breakdown",
-        "• Agreement among 194 countries, excluding the US, was reached in an all-night session into Saturday morning",
-        "• Developed countries should receive $120bn (£92bn) a year for adaptation "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.96
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Developing countries reach agreement on phase-out of fossil fuel era, but not enough to stave off the ravages of climate breakdown",
-          "• Agreement among 194 countries, excluding the US, was reached in an all-night session into Saturday morning"
-        ],
-        "hopeful_bullets": [
-          "• Developing countries reach agreement on phase-out of fossil fuel era, but not enough to stave off the ravages of climate breakdown",
-          "• Agreement among 194 countries, excluding the US, was reached in an all-night session into Saturday morning"
-        ],
-        "stakes_bullets": [
-          "• Developing countries reach agreement on phase-out of fossil fuel era, but not enough to stave off the ravages of climate breakdown",
-          "• Agreement among 194 countries, excluding the US, was reached in an all-night session into Saturday morning",
-          "• Developed countries should receive $120bn (£92bn) a year for adaptation "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "ae322bc9a661"
     },
     {
       "id": "c39d610858a7",
@@ -3518,40 +3712,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "57c826b36da6"
-    },
-    {
-      "id": "2e6828dea8ea",
-      "title": "Jair Bolsonaro arrested after being deemed a flight risk",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8qdm5zg10o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 22 Nov 2025 14:34:29 GMT",
-      "bullets": [
-        "• Jair Bolsonaro was found guilty of plotting a military coup in September",
-        "• He was sentenced to more than 27 years in prison, but he remains under house arrest",
-        "• Supreme Court Justice Alexandre de Moraes said the move to detain the 70-year-old was a preventative measure "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.913
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jair Bolsonaro was found guilty of plotting a military coup in September",
-          "• He was sentenced to more than 27 years in prison, but he remains under house arrest"
-        ],
-        "hopeful_bullets": [
-          "• Jair Bolsonaro was found guilty of plotting a military coup in September",
-          "• He was sentenced to more than 27 years in prison, but he remains under house arrest"
-        ],
-        "stakes_bullets": [
-          "• Jair Bolsonaro was found guilty of plotting a military coup in September",
-          "• He was sentenced to more than 27 years in prison, but he remains under house arrest",
-          "• Supreme Court Justice Alexandre de Moraes said the move to detain the 70-year-old was a preventative measure "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "77fcef691682"
     },
     {
       "id": "c509981ee9e7",
@@ -4810,6 +4970,109 @@
       "cluster_id": "21b3d4c22a79"
     },
     {
+      "id": "076757ba5090",
+      "title": "Trump and New York City Mayor-elect Zohran Mamdani's cordial meeting",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/11/22/nx-s1-5617205/trump-and-new-york-city-mayor-elect-zohran-mamdanis-cordial-meeting",
+      "published_at": "Sat, 22 Nov 2025 07:44:35 -0500",
+      "bullets": [
+        "• President Trump met New York City Mayor-elect Zohran Mamdani at the White House Friday",
+        "• The two men showered each other with praise and complimented each other on their political victories",
+        "• It was a remarkable show of mutual regard after weeks of vicious personal attacks "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Trump met New York City Mayor-elect Zohran Mamdani at the White House Friday",
+          "• The two men showered each other with praise and complimented each other on their political victories"
+        ],
+        "hopeful_bullets": [
+          "• President Trump met New York City Mayor-elect Zohran Mamdani at the White House Friday",
+          "• The two men showered each other with praise and complimented each other on their political victories"
+        ],
+        "stakes_bullets": [
+          "• President Trump met New York City Mayor-elect Zohran Mamdani at the White House Friday",
+          "• The two men showered each other with praise and complimented each other on their political victories",
+          "• It was a remarkable show of mutual regard after weeks of vicious personal attacks "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "086e2e5ffdc9"
+    },
+    {
+      "id": "c73c6a639a61",
+      "title": "Texas Democratic Congressman Lloyd Doggett examines redistricting in his state",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/11/22/nx-s1-5615182/texas-democratic-congressman-lloyd-doggett-examines-redistricting-in-his-state",
+      "published_at": "Sat, 22 Nov 2025 07:44:22 -0500",
+      "bullets": [
+        "• Texas Democratic Congressman Lloyd Doggett examines redistricting in his state",
+        "• The U.S",
+        "• Supreme Court issued an order that keeps in place newly passed voting map that favors Republicans",
+        "• The order blocks a lower court ruling that had found that the districts were racially gerrymandered, which is illegal "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.968
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Texas Democratic Congressman Lloyd Doggett examines redistricting in his state",
+          "• The U.S"
+        ],
+        "hopeful_bullets": [
+          "• Texas Democratic Congressman Lloyd Doggett examines redistricting in his state",
+          "• The U.S"
+        ],
+        "stakes_bullets": [
+          "• Texas Democratic Congressman Lloyd Doggett examines redistricting in his state",
+          "• The U.S",
+          "• Supreme Court issued an order that keeps in place newly passed voting map that favors Republicans"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "62ab44d2a999"
+    },
+    {
+      "id": "3b0c8c4d673b",
+      "title": "Week in Politics: Trump's Russia-Ukraine peace plan; upcoming Epstein files release",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/11/22/nx-s1-5612808/week-in-politics-trumps-russia-ukraine-peace-plan-upcoming-epstein-files-release",
+      "published_at": "Sat, 22 Nov 2025 07:43:58 -0500",
+      "bullets": [
+        "• Week in Politics: Trump's Russia-Ukraine peace plan; upcoming Epstein files release",
+        "• We take a look at President Trump's peace plan to end the war between Russia and Ukraine",
+        "• We also look at what we can expect now that he has signed the bill to release the Jeffrey Epstein files "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Week in Politics: Trump's Russia-Ukraine peace plan; upcoming Epstein files release",
+          "• We take a look at President Trump's peace plan to end the war between Russia and Ukraine"
+        ],
+        "hopeful_bullets": [
+          "• Week in Politics: Trump's Russia-Ukraine peace plan; upcoming Epstein files release",
+          "• We take a look at President Trump's peace plan to end the war between Russia and Ukraine"
+        ],
+        "stakes_bullets": [
+          "• Week in Politics: Trump's Russia-Ukraine peace plan; upcoming Epstein files release",
+          "• We take a look at President Trump's peace plan to end the war between Russia and Ukraine",
+          "• We also look at what we can expect now that he has signed the bill to release the Jeffrey Epstein files "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "edd09fa0ba01"
+    },
+    {
       "id": "77992b6039aa",
       "title": "Meet the peace activist who persuaded France's Macron to recognize a Palestinian state",
       "outlet": "NPR Topics: News",
@@ -5608,6 +5871,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "bc7dc2da6197"
+    },
+    {
+      "id": "ef58eea753e9",
+      "title": "Disaster and insurance costs are rising. The middle class is struggling to hang on",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/17/nx-s1-5546761/home-insurance-florida-climate-disaster-cop30",
+      "published_at": "Mon, 17 Nov 2025 05:27:00 -0500",
+      "bullets": [
+        "• Hurricane Ian hit Fort Myers Beach, Florida, three years ago",
+        "• New houses and businesses are going up next to vacant lots and shells of buildings gutted by the storm",
+        "• Sky-high costs for construction and property insurance now threaten to squeeze out a lot of family-run hotels "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hurricane Ian hit Fort Myers Beach, Florida, three years ago",
+          "• New houses and businesses are going up next to vacant lots and shells of buildings gutted by the storm"
+        ],
+        "hopeful_bullets": [
+          "• Hurricane Ian hit Fort Myers Beach, Florida, three years ago",
+          "• New houses and businesses are going up next to vacant lots and shells of buildings gutted by the storm"
+        ],
+        "stakes_bullets": [
+          "• Sky-high costs for construction and property insurance now threaten to squeeze out a lot of family-run hotels "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "42acc176f7b0"
     },
     {
       "id": "234ad8f6ea3d",
@@ -7304,38 +7599,6 @@
       "cluster_id": "a16e69638128"
     },
     {
-      "id": "abef25a608eb",
-      "title": "Upcoming John Lennon and Yoko Ono Doc Will Focus on Couple’s Interview Given the ‘Afternoon Before He Was Killed’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/steven-soderbergh-john-lennon-yoko-ono-documentary-1235470466/",
-      "published_at": "Fri, 21 Nov 2025 16:21:06 +0000",
-      "bullets": [
-        "• John Lennon and Yoko Ono's last interview will be the focus of a new documentary",
-        "• Steven Soderbergh's film will focus on the interview given the 'Afternoon Before He Was Killed' at the time of Lennon’s death "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.845
-      },
-      "moods": {
-        "brief_bullets": [
-          "• John Lennon and Yoko Ono's last interview will be the focus of a new documentary",
-          "• Steven Soderbergh's film will focus on the interview given the 'Afternoon Before He Was Killed' at the time of Lennon’s death "
-        ],
-        "hopeful_bullets": [
-          "• John Lennon and Yoko Ono's last interview will be the focus of a new documentary",
-          "• Steven Soderbergh's film will focus on the interview given the 'Afternoon Before He Was Killed' at the time of Lennon’s death "
-        ],
-        "stakes_bullets": [
-          "• John Lennon and Yoko Ono's last interview will be the focus of a new documentary",
-          "• Steven Soderbergh's film will focus on the interview given the 'Afternoon Before He Was Killed' at the time of Lennon’s death "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "b609c3f4c537"
-    },
-    {
       "id": "4f2c80ddf441",
       "title": "EC’s Tortured Hearts is coming for Valentine’s Day",
       "outlet": "Wicked Horror",
@@ -7733,6 +7996,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "ade6fda92fdb"
+    },
+    {
+      "id": "c6b9f533abe3",
+      "title": "Brain scientists are seeking weight-loss drugs without the nausea",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/11/21/nx-s1-5615168/glp-1-weight-loss-drugs-brain-nausea-wegovy-ozempic",
+      "published_at": "Fri, 21 Nov 2025 06:00:00 -0500",
+      "bullets": [
+        "• Brain scientists are seeking weight-loss drugs without the nausea and vomiting side effects",
+        "• They found a way to direct GLP-1 to the area involved in feeling full, while keeping the drug out of the vomit center",
+        "• When the researchers did this, mice no longer felt sick, but they also didn't get thin "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.812
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Brain scientists are seeking weight-loss drugs without the nausea and vomiting side effects",
+          "• They found a way to direct GLP-1 to the area involved in feeling full, while keeping the drug out of the vomit center"
+        ],
+        "hopeful_bullets": [
+          "• Brain scientists are seeking weight-loss drugs without the nausea and vomiting side effects",
+          "• They found a way to direct GLP-1 to the area involved in feeling full, while keeping the drug out of the vomit center"
+        ],
+        "stakes_bullets": [
+          "• Brain scientists are seeking weight-loss drugs without the nausea and vomiting side effects"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "1d9eb12acdd4"
     },
     {
       "id": "d54c64da496b",
@@ -9016,6 +9311,24 @@
   ],
   "clusters": [
     {
+      "id": "91f37a9ffc91",
+      "topic": "climate fail fossil fuel",
+      "keywords": [
+        "climate",
+        "fail",
+        "fossil",
+        "fuel",
+        "secure",
+        "talk"
+      ],
+      "item_ids": [
+        "739fbe66ef59"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "6b6d2dad1190",
       "topic": "allie concern end plan",
       "keywords": [
@@ -9046,24 +9359,6 @@
       ],
       "item_ids": [
         "55f3992c1127"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "91f37a9ffc91",
-      "topic": "climate fail fossil fuel",
-      "keywords": [
-        "climate",
-        "fail",
-        "fossil",
-        "fuel",
-        "secure",
-        "talk"
-      ],
-      "item_ids": [
-        "739fbe66ef59"
       ],
       "outlets": [
         "BBC News"
@@ -9286,24 +9581,6 @@
       ]
     },
     {
-      "id": "be4e5712185f",
-      "topic": "ankle arrested bolsonaro jair",
-      "keywords": [
-        "ankle",
-        "arrested",
-        "bolsonaro",
-        "jair",
-        "tag",
-        "tampering"
-      ],
-      "item_ids": [
-        "7d77617644b6"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
       "id": "ae322bc9a661",
       "topic": "closer end era fossil",
       "keywords": [
@@ -9316,6 +9593,24 @@
       ],
       "item_ids": [
         "1290945a95c2"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
+      "id": "be4e5712185f",
+      "topic": "ankle arrested bolsonaro jair",
+      "keywords": [
+        "ankle",
+        "arrested",
+        "bolsonaro",
+        "jair",
+        "tag",
+        "tampering"
+      ],
+      "item_ids": [
+        "7d77617644b6"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -10598,6 +10893,96 @@
       ]
     },
     {
+      "id": "1d9eb12acdd4",
+      "topic": "brain drug loss scientist",
+      "keywords": [
+        "brain",
+        "drug",
+        "loss",
+        "scientist",
+        "seeking",
+        "weight"
+      ],
+      "item_ids": [
+        "c6b9f533abe3"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "4b9c817677f0",
+      "topic": "brazil climate evacuation fire",
+      "keywords": [
+        "brazil",
+        "climate",
+        "evacuation",
+        "fire",
+        "prompt",
+        "talk"
+      ],
+      "item_ids": [
+        "cf363c5ae463"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "1ab1ac323c3b",
+      "topic": "author control explain nightmare",
+      "keywords": [
+        "author",
+        "control",
+        "explain",
+        "nightmare",
+        "obscura",
+        "take"
+      ],
+      "item_ids": [
+        "12c9fc873dc8"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "96a9cfd75d11",
+      "topic": "eating fatal handful just",
+      "keywords": [
+        "eating",
+        "fatal",
+        "handful",
+        "just",
+        "marine",
+        "plastic"
+      ],
+      "item_ids": [
+        "df6170bc8a63"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "894efc6d884a",
+      "topic": "administration back protection roll",
+      "keywords": [
+        "administration",
+        "back",
+        "protection",
+        "roll",
+        "seek",
+        "trump"
+      ],
+      "item_ids": [
+        "72e19918bc7d"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
       "id": "0cd1449ac788",
       "topic": "heard help twangy voice",
       "keywords": [
@@ -10650,6 +11035,24 @@
       ]
     },
     {
+      "id": "42acc176f7b0",
+      "topic": "clas cost disaster insurance",
+      "keywords": [
+        "clas",
+        "cost",
+        "disaster",
+        "insurance",
+        "middle",
+        "rising"
+      ],
+      "item_ids": [
+        "ef58eea753e9"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
       "id": "21b3d4c22a79",
       "topic": "greene led look marjorie",
       "keywords": [
@@ -10662,6 +11065,60 @@
       ],
       "item_ids": [
         "228f389efe5a"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "086e2e5ffdc9",
+      "topic": "city elect mayor trump",
+      "keywords": [
+        "city",
+        "elect",
+        "mayor",
+        "trump",
+        "york",
+        "zohran"
+      ],
+      "item_ids": [
+        "076757ba5090"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "62ab44d2a999",
+      "topic": "congressman democratic doggett examine",
+      "keywords": [
+        "congressman",
+        "democratic",
+        "doggett",
+        "examine",
+        "lloyd",
+        "texa"
+      ],
+      "item_ids": [
+        "c73c6a639a61"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "edd09fa0ba01",
+      "topic": "peace politic russia trump",
+      "keywords": [
+        "peace",
+        "politic",
+        "russia",
+        "trump",
+        "ukraine",
+        "week"
+      ],
+      "item_ids": [
+        "3b0c8c4d673b"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11018,6 +11475,22 @@
       ]
     },
     {
+      "id": "813e01403430",
+      "topic": "action backpedal climate cop30",
+      "keywords": [
+        "action",
+        "backpedal",
+        "climate",
+        "cop30"
+      ],
+      "item_ids": [
+        "b86e4e841844"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "cee21e987c57",
       "topic": "carnivore coming ecosystem impact",
       "keywords": [
@@ -11172,23 +11645,6 @@
       ],
       "item_ids": [
         "65366b9cce0e"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "e469c2385c78",
-      "topic": "rise risk seas site",
-      "keywords": [
-        "rise",
-        "risk",
-        "seas",
-        "site",
-        "toxic"
-      ],
-      "item_ids": [
-        "36b0fe2efd2f"
       ],
       "outlets": [
         "Inside Climate News"
@@ -12916,6 +13372,96 @@
       ]
     },
     {
+      "id": "e79d914d9149",
+      "topic": "john later masterpiece wayne",
+      "keywords": [
+        "john",
+        "later",
+        "masterpiece",
+        "wayne",
+        "western",
+        "year"
+      ],
+      "item_ids": [
+        "d4886ab79918"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "3dd2d7fd6d45",
+      "topic": "crazy detail ends morty",
+      "keywords": [
+        "crazy",
+        "detail",
+        "ends",
+        "morty",
+        "rick",
+        "story"
+      ],
+      "item_ids": [
+        "72bde3807c0c"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "2a90f41719e7",
+      "topic": "avenger deserve doomsday men",
+      "keywords": [
+        "avenger",
+        "deserve",
+        "doomsday",
+        "men",
+        "return",
+        "villain"
+      ],
+      "item_ids": [
+        "9883d15a0993"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "d6a5c7ee5227",
+      "topic": "changed fans forever season",
+      "keywords": [
+        "changed",
+        "fans",
+        "forever",
+        "season",
+        "simpson",
+        "sitcom"
+      ],
+      "item_ids": [
+        "76c4e4a57b3f"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "2557db40c0b6",
+      "topic": "2025 anime best crunchyroll",
+      "keywords": [
+        "2025",
+        "anime",
+        "best",
+        "crunchyroll",
+        "finally",
+        "official"
+      ],
+      "item_ids": [
+        "de5460841a3a"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "232ea2917a91",
       "topic": "crowe historical oppenheimer perfect",
       "keywords": [
@@ -12998,95 +13544,6 @@
       ],
       "item_ids": [
         "7277fbb7d858"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "7a794a788bce",
-      "topic": "2026 anime great most",
-      "keywords": [
-        "2026",
-        "anime",
-        "great",
-        "most",
-        "popular",
-        "year"
-      ],
-      "item_ids": [
-        "94505266cf42"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "37e7c0d8395e",
-      "topic": "blokee highlight megatron newest",
-      "keywords": [
-        "blokee",
-        "highlight",
-        "megatron",
-        "newest",
-        "toy",
-        "transformer"
-      ],
-      "item_ids": [
-        "4d1430c87d79"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "629cc63382b0",
-      "topic": "21st century darkest movie",
-      "keywords": [
-        "21st",
-        "century",
-        "darkest",
-        "movie",
-        "western"
-      ],
-      "item_ids": [
-        "1cf4ad1d93a1"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "c7c64b31c5bd",
-      "topic": "anime essential expert these",
-      "keywords": [
-        "anime",
-        "essential",
-        "expert",
-        "these",
-        "want",
-        "watch"
-      ],
-      "item_ids": [
-        "f9efe3841f92"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "e95a1aeb3e48",
-      "topic": "episode finish gilmore girl",
-      "keywords": [
-        "episode",
-        "finish",
-        "gilmore",
-        "girl",
-        "perfect",
-        "start"
-      ],
-      "item_ids": [
-        "429865b9c47f"
       ],
       "outlets": [
         "CBR"
@@ -13271,6 +13728,24 @@
       ]
     },
     {
+      "id": "60552c409f72",
+      "topic": "billy chicago corgan lyric",
+      "keywords": [
+        "billy",
+        "chicago",
+        "corgan",
+        "lyric",
+        "opera",
+        "watch"
+      ],
+      "item_ids": [
+        "ae02684472b9"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "8353a1345728",
       "topic": "jellybean johnson minneapoli musician",
       "keywords": [
@@ -13427,24 +13902,6 @@
       ],
       "item_ids": [
         "442cf6b55570"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "b609c3f4c537",
-      "topic": "doc john lennon ono",
-      "keywords": [
-        "doc",
-        "john",
-        "lennon",
-        "ono",
-        "upcoming",
-        "yoko"
-      ],
-      "item_ids": [
-        "abef25a608eb"
       ],
       "outlets": [
         "Music News"
