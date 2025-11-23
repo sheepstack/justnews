@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-23T21:02:38Z",
+  "generated_at": "2025-11-23T21:19:53Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2186,6 +2186,40 @@
       "cluster_id": "f2bfdbda393f"
     },
     {
+      "id": "f02975e9b3e3",
+      "title": "Predator: Badlands Sets Up a New Alien vs. Predator Movie",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/predator-badlands-alien-vs-predator-sequel-setup/",
+      "published_at": "Sun, 23 Nov 2025 21:00:12 GMT",
+      "bullets": [
+        "• The film marks the first time in seven years that the Predator franchise has made it to the big screen",
+        "• Director Dan Trachtenberg returns after the Hulu original films Prey and Predator: Killer of Killers",
+        "• The movie potentially sets up one of the biggest cinematic crossovers of all time "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The film marks the first time in seven years that the Predator franchise has made it to the big screen",
+          "• Director Dan Trachtenberg returns after the Hulu original films Prey and Predator: Killer of Killers"
+        ],
+        "hopeful_bullets": [
+          "• The film marks the first time in seven years that the Predator franchise has made it to the big screen",
+          "• Director Dan Trachtenberg returns after the Hulu original films Prey and Predator: Killer of Killers"
+        ],
+        "stakes_bullets": [
+          "• The film marks the first time in seven years that the Predator franchise has made it to the big screen",
+          "• Director Dan Trachtenberg returns after the Hulu original films Prey and Predator: Killer of Killers",
+          "• The movie potentially sets up one of the biggest cinematic crossovers of all time "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "f51c475f3ffa"
+    },
+    {
       "id": "e65c3363a170",
       "title": "10 Pivotal Roles Sabrina Carpenter Could Play In the MCU",
       "outlet": "CBR",
@@ -2841,41 +2875,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "b7c5fa0b4836"
-    },
-    {
-      "id": "3933fe030ae5",
-      "title": "Mike Flanagan's New Stephen King Show Gets Praise From Matthew Lillard",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/mike-flanagan-stephen-king-carrie-reboot-matthew-lillard-praise/",
-      "published_at": "Sun, 23 Nov 2025 18:00:11 GMT",
-      "bullets": [
-        "• Mike Flanagan has adapted several Stephen King stories",
-        "• The filmmaker will tackle one of his classics next",
-        "• The upcoming Carrie reboot will be a limited television series",
-        "• Matthew Lillard praised Flanagan for being a great collaborator and storyteller",
-        "• The actor said, \"Flanagan, I love him as a man\""
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mike Flanagan has adapted several Stephen King stories",
-          "• The filmmaker will tackle one of his classics next"
-        ],
-        "hopeful_bullets": [
-          "• Mike Flanagan has adapted several Stephen King stories",
-          "• The filmmaker will tackle one of his classics next"
-        ],
-        "stakes_bullets": [
-          "• The filmmaker will tackle one of his classics next",
-          "• The upcoming Carrie reboot will be a limited television series"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "9e34fa8fd541"
     },
     {
       "id": "df460b700192",
@@ -9300,6 +9299,37 @@
       "cluster_id": "cb5c7cd26a83"
     },
     {
+      "id": "3a51f31061b8",
+      "title": "Weekend projections: Predator: Badlands projected to hit $40 million on debut",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260260830-Weekend-projections-Predator-Badlands-projected-to-hit-40-million-on-debut",
+      "published_at": null,
+      "bullets": [
+        "• The Predator: Badlands will open with around $40 million this weekend, according to 20th Century Studios (aka Disney) If that number holds up, it’ll be the best debut (ignoring inflation) for any film in the Predator franchise, beating 2004’s AVP: Alien vs",
+        "• Predator",
+        "• Disney are claiming this as the “strongest global opening … at current rates, surpassing The Predator's $73.5M”"
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Predator: Badlands will open with around $40 million this weekend, according to 20th Century Studios (aka Disney) If that number holds up, it’ll be the best debut (ignoring inflation) for any film in the Predator franchise, beating 2004’s AVP: Alien vs",
+          "• Predator"
+        ],
+        "hopeful_bullets": [
+          "• Disney are claiming this as the “strongest global opening … at current rates, surpassing The Predator's $73.5M”"
+        ],
+        "stakes_bullets": [
+          "• The Predator: Badlands will open with around $40 million this weekend, according to 20th Century Studios (aka Disney) If that number holds up, it’ll be the best debut (ignoring inflation) for any film in the Predator franchise, beating 2004’s AVP: Alien vs"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d390c61f3913"
+    },
+    {
       "id": "78564afcfa15",
       "title": "Weekend prediction: Predator: Badlands shoots for $30-million-plus opening",
       "outlet": "The Numbers",
@@ -11883,6 +11913,24 @@
       ]
     },
     {
+      "id": "d390c61f3913",
+      "topic": "badland hit predator projected",
+      "keywords": [
+        "badland",
+        "hit",
+        "predator",
+        "projected",
+        "projection",
+        "weekend"
+      ],
+      "item_ids": [
+        "3a51f31061b8"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
       "id": "ff62cca1472c",
       "topic": "badland million predator prediction",
       "keywords": [
@@ -13426,6 +13474,23 @@
       ]
     },
     {
+      "id": "f51c475f3ffa",
+      "topic": "alien badland movie predator",
+      "keywords": [
+        "alien",
+        "badland",
+        "movie",
+        "predator",
+        "sets"
+      ],
+      "item_ids": [
+        "f02975e9b3e3"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "e32e90262842",
       "topic": "carpenter mcu pivotal play",
       "keywords": [
@@ -13580,24 +13645,6 @@
       ],
       "item_ids": [
         "ab797351b30a"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "9e34fa8fd541",
-      "topic": "flanagan gets king mike",
-      "keywords": [
-        "flanagan",
-        "gets",
-        "king",
-        "mike",
-        "show",
-        "stephen"
-      ],
-      "item_ids": [
-        "3933fe030ae5"
       ],
       "outlets": [
         "CBR"
