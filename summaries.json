@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-23T11:16:43Z",
+  "generated_at": "2025-11-23T11:54:10Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2316,6 +2316,72 @@
       "cluster_id": "f2bfdbda393f"
     },
     {
+      "id": "c2098ebdff19",
+      "title": "Charlotte activists met the immigration crackdown with ‘bless your heart’ resistance",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/23/activists-immigration-charlotte-north-carolina",
+      "published_at": "Sun, 23 Nov 2025 11:00:07 GMT",
+      "bullets": [
+        "• Homeland Security official: “Every day, DHS enforces the laws of the nation across the country",
+        "• We do not discuss future or potential operations.” The sheriff’s statement contradicts the federal government‘s statement",
+        "• ‘The operation is not over and it is not ending anytime soon.’"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Homeland Security official: “Every day, DHS enforces the laws of the nation across the country",
+          "• We do not discuss future or potential operations.” The sheriff’s statement contradicts the federal government‘s statement"
+        ],
+        "hopeful_bullets": [
+          "• Homeland Security official: “Every day, DHS enforces the laws of the nation across the country",
+          "• We do not discuss future or potential operations.” The sheriff’s statement contradicts the federal government‘s statement"
+        ],
+        "stakes_bullets": [
+          "• Homeland Security official: “Every day, DHS enforces the laws of the nation across the country",
+          "• We do not discuss future or potential operations.” The sheriff’s statement contradicts the federal government‘s statement",
+          "• ‘The operation is not over and it is not ending anytime soon.’"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "0e70d57c7861"
+    },
+    {
+      "id": "7110122d0982",
+      "title": "China has brought millions out of poverty. The US has not – by choice",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/nov/23/china-us-poverty-income-inequality",
+      "published_at": "Sun, 23 Nov 2025 11:00:06 GMT",
+      "bullets": [
+        "• More than 4 million Americans – 1.25% of the population – must make ends meet with less than $3 a day, more than three times as many as 35 years ago",
+        "• Per head, the US's economic output is six times China’s, but there seem to be more abjectly poor Americans than Chinese than Chinese "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• More than 4 million Americans – 1.25% of the population – must make ends meet with less than $3 a day, more than three times as many as 35 years ago",
+          "• Per head, the US's economic output is six times China’s, but there seem to be more abjectly poor Americans than Chinese than Chinese "
+        ],
+        "hopeful_bullets": [
+          "• More than 4 million Americans – 1.25% of the population – must make ends meet with less than $3 a day, more than three times as many as 35 years ago",
+          "• Per head, the US's economic output is six times China’s, but there seem to be more abjectly poor Americans than Chinese than Chinese "
+        ],
+        "stakes_bullets": [
+          "• More than 4 million Americans – 1.25% of the population – must make ends meet with less than $3 a day, more than three times as many as 35 years ago",
+          "• Per head, the US's economic output is six times China’s, but there seem to be more abjectly poor Americans than Chinese than Chinese "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "41fdebbad7cd"
+    },
+    {
       "id": "b73b9049bb64",
       "title": "9 Best Espresso Machines for Home (2025), Tested by Coffee Pros",
       "outlet": "WIRED",
@@ -2776,6 +2842,73 @@
       },
       "read_minutes": 1,
       "cluster_id": "3ab1e3f2acbc"
+    },
+    {
+      "id": "3ca3ef90a4d5",
+      "title": "Women experience hair loss too. Here's what can help",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/23/nx-s1-5617212/hair-loss-alopecia-female-treatments",
+      "published_at": "Sun, 23 Nov 2025 06:00:00 -0500",
+      "bullets": [
+        "• Some estimates say half of all women experience hair loss in their lifetime",
+        "• Each strand goes through a cycle of growth, transition, and rest",
+        "• Not every hair loss remedy works for every person — or every type of hair loss",
+        "• You might have a clump in your hair "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Some estimates say half of all women experience hair loss in their lifetime",
+          "• Each strand goes through a cycle of growth, transition, and rest"
+        ],
+        "hopeful_bullets": [
+          "• Each strand goes through a cycle of growth, transition, and rest"
+        ],
+        "stakes_bullets": [
+          "• Some estimates say half of all women experience hair loss in their lifetime",
+          "• Each strand goes through a cycle of growth, transition, and rest",
+          "• Not every hair loss remedy works for every person — or every type of hair loss"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "6e4065b55209"
+    },
+    {
+      "id": "4790b18bc474",
+      "title": "In DR Congo, exhibit reveals nostalgia for former dictator Mobutu",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/23/nx-s1-5594860/dr-congo-dictator-mobutu",
+      "published_at": "Sun, 23 Nov 2025 06:00:00 -0500",
+      "bullets": [
+        "• In DR Congo, exhibit reveals nostalgia for former dictator Mobutu Sese Seko",
+        "• In today's Congo, there's a growing sense of nostalgia for the comparatively peaceful years of his reign",
+        "• An exhibit celebrating the former dictator's life opened recently in the capital Kinshasa "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In DR Congo, exhibit reveals nostalgia for former dictator Mobutu Sese Seko",
+          "• In today's Congo, there's a growing sense of nostalgia for the comparatively peaceful years of his reign"
+        ],
+        "hopeful_bullets": [
+          "• In today's Congo, there's a growing sense of nostalgia for the comparatively peaceful years of his reign"
+        ],
+        "stakes_bullets": [
+          "• In DR Congo, exhibit reveals nostalgia for former dictator Mobutu Sese Seko",
+          "• In today's Congo, there's a growing sense of nostalgia for the comparatively peaceful years of his reign",
+          "• An exhibit celebrating the former dictator's life opened recently in the capital Kinshasa "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "bb6ea9c1d84c"
     },
     {
       "id": "6e1324ba7a80",
@@ -4340,40 +4473,6 @@
       "cluster_id": "871c415b0abc"
     },
     {
-      "id": "d92e9de0c07b",
-      "title": "Santa Monica’s shine has dimmed – can a bold reset revive the beach city’s fortunes?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/22/santa-monica-crime-safety",
-      "published_at": "Sat, 22 Nov 2025 16:00:43 GMT",
-      "bullets": [
-        "• Santa Monica is struggling with an uptick in petty crime and unprecedented numbers of empty storefronts and offices",
-        "• Community services, including a well-regarded library system, have dwindled",
-        "• Housing prices have soared beyond the reach of most middle-class families",
-        "• The budget is in such a hole that the city council recently declared a state of financial distress "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Santa Monica is struggling with an uptick in petty crime and unprecedented numbers of empty storefronts and offices",
-          "• Community services, including a well-regarded library system, have dwindled"
-        ],
-        "hopeful_bullets": [
-          "• Community services, including a well-regarded library system, have dwindled"
-        ],
-        "stakes_bullets": [
-          "• Santa Monica is struggling with an uptick in petty crime and unprecedented numbers of empty storefronts and offices",
-          "• Community services, including a well-regarded library system, have dwindled",
-          "• Housing prices have soared beyond the reach of most middle-class families"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "b4e5f2e65bb3"
-    },
-    {
       "id": "5611dc5f98a1",
       "title": "U.N. climate talks end without agreement on phasing out fossil fuels",
       "outlet": "NPR Topics: News",
@@ -4442,38 +4541,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "572880e9a89d"
-    },
-    {
-      "id": "f6a645230691",
-      "title": "Trump to end temporary protected status for Somali immigrants in Minnesota",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/22/trump-temporary-protected-status-somali-immigrants",
-      "published_at": "Sat, 22 Nov 2025 15:08:15 GMT",
-      "bullets": [
-        "• The president announced his decision on his social media site, suggesting that Minnesota was “a hub of fraudulent money laundering activity” Congress created the program granting temporary protective status (TPS) in 1990",
-        "• It was meant to prevent deportations of people to countries suffering from natural disasters, civil strife or other dangerous conditions "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The president announced his decision on his social media site, suggesting that Minnesota was “a hub of fraudulent money laundering activity” Congress created the program granting temporary protective status (TPS) in 1990",
-          "• It was meant to prevent deportations of people to countries suffering from natural disasters, civil strife or other dangerous conditions "
-        ],
-        "hopeful_bullets": [
-          "• The president announced his decision on his social media site, suggesting that Minnesota was “a hub of fraudulent money laundering activity” Congress created the program granting temporary protective status (TPS) in 1990",
-          "• It was meant to prevent deportations of people to countries suffering from natural disasters, civil strife or other dangerous conditions "
-        ],
-        "stakes_bullets": [
-          "• The president announced his decision on his social media site, suggesting that Minnesota was “a hub of fraudulent money laundering activity” Congress created the program granting temporary protective status (TPS) in 1990",
-          "• It was meant to prevent deportations of people to countries suffering from natural disasters, civil strife or other dangerous conditions "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "678372809912"
     },
     {
       "id": "9db6abd6406a",
@@ -5005,40 +5072,6 @@
       "cluster_id": "894af47ec551"
     },
     {
-      "id": "1802ad4483aa",
-      "title": "The 44 Best Movies on Netflix, WIRED’s Picks (December 2025)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/netflix-best-movies-this-week/",
-      "published_at": "Sat, 22 Nov 2025 12:00:00 +0000",
-      "bullets": [
-        "• A House of Dynamite is a political thriller starring Idris Elba, Rebecca Ferguson, Tracy Letts, and Anthony Ramos",
-        "• Kathryn Bigelow's film explores the same nightmarish 18 minutes after an unidentified missile is detected",
-        "• The film that pissed off the Pentagon is absolutely not for the faint-hearted "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.979
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A House of Dynamite is a political thriller starring Idris Elba, Rebecca Ferguson, Tracy Letts, and Anthony Ramos",
-          "• Kathryn Bigelow's film explores the same nightmarish 18 minutes after an unidentified missile is detected"
-        ],
-        "hopeful_bullets": [
-          "• A House of Dynamite is a political thriller starring Idris Elba, Rebecca Ferguson, Tracy Letts, and Anthony Ramos",
-          "• Kathryn Bigelow's film explores the same nightmarish 18 minutes after an unidentified missile is detected"
-        ],
-        "stakes_bullets": [
-          "• A House of Dynamite is a political thriller starring Idris Elba, Rebecca Ferguson, Tracy Letts, and Anthony Ramos",
-          "• Kathryn Bigelow's film explores the same nightmarish 18 minutes after an unidentified missile is detected",
-          "• The film that pissed off the Pentagon is absolutely not for the faint-hearted "
-        ]
-      },
-      "read_minutes": 26,
-      "cluster_id": "f7040cdfaf5a"
-    },
-    {
       "id": "81ce9f419f80",
       "title": "The Climate Impact of Owning a Dog",
       "outlet": "WIRED",
@@ -5071,6 +5104,40 @@
       },
       "read_minutes": 9,
       "cluster_id": "38fae54bee9e"
+    },
+    {
+      "id": "1802ad4483aa",
+      "title": "The 44 Best Movies on Netflix, WIRED’s Picks (December 2025)",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/netflix-best-movies-this-week/",
+      "published_at": "Sat, 22 Nov 2025 12:00:00 +0000",
+      "bullets": [
+        "• A House of Dynamite is a political thriller starring Idris Elba, Rebecca Ferguson, Tracy Letts, and Anthony Ramos",
+        "• Kathryn Bigelow's film explores the same nightmarish 18 minutes after an unidentified missile is detected",
+        "• The film that pissed off the Pentagon is absolutely not for the faint-hearted "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A House of Dynamite is a political thriller starring Idris Elba, Rebecca Ferguson, Tracy Letts, and Anthony Ramos",
+          "• Kathryn Bigelow's film explores the same nightmarish 18 minutes after an unidentified missile is detected"
+        ],
+        "hopeful_bullets": [
+          "• A House of Dynamite is a political thriller starring Idris Elba, Rebecca Ferguson, Tracy Letts, and Anthony Ramos",
+          "• Kathryn Bigelow's film explores the same nightmarish 18 minutes after an unidentified missile is detected"
+        ],
+        "stakes_bullets": [
+          "• A House of Dynamite is a political thriller starring Idris Elba, Rebecca Ferguson, Tracy Letts, and Anthony Ramos",
+          "• Kathryn Bigelow's film explores the same nightmarish 18 minutes after an unidentified missile is detected",
+          "• The film that pissed off the Pentagon is absolutely not for the faint-hearted "
+        ]
+      },
+      "read_minutes": 26,
+      "cluster_id": "f7040cdfaf5a"
     },
     {
       "id": "6ad5eb12bf8a",
@@ -5443,43 +5510,9 @@
       "cluster_id": "edd09fa0ba01"
     },
     {
-      "id": "77992b6039aa",
-      "title": "Meet the peace activist who persuaded France's Macron to recognize a Palestinian state",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/22/nx-s1-5609253/france-macron-adviser-palestinian-state",
-      "published_at": "Sat, 22 Nov 2025 06:00:00 -0500",
-      "bullets": [
-        "• Ofer Bronchtein was brought to tears as French President Emmanuel Macron delivered his speech to the United Nations General Assembly in New York in September",
-        "• The Israeli and U.S",
-        "• governments opposed the move",
-        "• Israeli Prime Minister Benjamin Netanyahu said world leaders who recognized Palestinian statehood were granting a \"tremendous reward\" to the Palestinian militant group Hamas after its Oct",
-        "• 7, 2023, attack "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.84
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ofer Bronchtein was brought to tears as French President Emmanuel Macron delivered his speech to the United Nations General Assembly in New York in September",
-          "• The Israeli and U.S"
-        ],
-        "hopeful_bullets": [
-          "• Ofer Bronchtein was brought to tears as French President Emmanuel Macron delivered his speech to the United Nations General Assembly in New York in September",
-          "• The Israeli and U.S"
-        ],
-        "stakes_bullets": [
-          "• Israeli Prime Minister Benjamin Netanyahu said world leaders who recognized Palestinian statehood were granting a \"tremendous reward\" to the Palestinian militant group Hamas after its Oct"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "f2e4ed6f0818"
-    },
-    {
       "id": "8d97ef0e22b2",
       "title": "How Marjorie Taylor Greene went from a top Trump ally to choosing to resign",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/11/22/g-s1-98793/marjorie-taylor-greene-resignation",
       "published_at": "Sat, 22 Nov 2025 05:00:00 -0500",
       "bullets": [
@@ -5488,7 +5521,7 @@
         "• Greene's split with President Trump widened in recent weeks as she pushed for the release of documents related to convicted sex offender Jeffrey Epstein",
         "• Greene said it would not be fair to her northwest Georgia district to have them \"endure a hurtful and hateful primary against me\""
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.99
@@ -9839,6 +9872,42 @@
       ]
     },
     {
+      "id": "0e70d57c7861",
+      "topic": "activist bles charlotte crackdown",
+      "keywords": [
+        "activist",
+        "bles",
+        "charlotte",
+        "crackdown",
+        "immigration",
+        "met"
+      ],
+      "item_ids": [
+        "c2098ebdff19"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "41fdebbad7cd",
+      "topic": "brought china choice million",
+      "keywords": [
+        "brought",
+        "china",
+        "choice",
+        "million",
+        "out",
+        "poverty"
+      ],
+      "item_ids": [
+        "7110122d0982"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "6093bdb3ace8",
       "topic": "glance gone greene marjorie",
       "keywords": [
@@ -9964,42 +10033,6 @@
       ]
     },
     {
-      "id": "b4e5f2e65bb3",
-      "topic": "bold dimmed monica reset",
-      "keywords": [
-        "bold",
-        "dimmed",
-        "monica",
-        "reset",
-        "santa",
-        "shine"
-      ],
-      "item_ids": [
-        "d92e9de0c07b"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "678372809912",
-      "topic": "end protected somali statu",
-      "keywords": [
-        "end",
-        "protected",
-        "somali",
-        "statu",
-        "temporary",
-        "trump"
-      ],
-      "item_ids": [
-        "f6a645230691"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "a2958f5c8d72",
       "topic": "court expand fast rule",
       "keywords": [
@@ -10015,6 +10048,42 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "6e4065b55209",
+      "topic": "experience hair here loss",
+      "keywords": [
+        "experience",
+        "hair",
+        "here",
+        "loss",
+        "too",
+        "women"
+      ],
+      "item_ids": [
+        "3ca3ef90a4d5"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "bb6ea9c1d84c",
+      "topic": "congo dictator exhibit former",
+      "keywords": [
+        "congo",
+        "dictator",
+        "exhibit",
+        "former",
+        "nostalgia",
+        "reveal"
+      ],
+      "item_ids": [
+        "4790b18bc474"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -10161,42 +10230,6 @@
       ]
     },
     {
-      "id": "f2e4ed6f0818",
-      "topic": "activist france macron meet",
-      "keywords": [
-        "activist",
-        "france",
-        "macron",
-        "meet",
-        "peace",
-        "persuaded"
-      ],
-      "item_ids": [
-        "77992b6039aa"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "16c8564c7607",
-      "topic": "greene marjorie taylor top",
-      "keywords": [
-        "greene",
-        "marjorie",
-        "taylor",
-        "top",
-        "trump",
-        "went"
-      ],
-      "item_ids": [
-        "8d97ef0e22b2"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "4f28c8f97033",
       "topic": "blackout center data expansion",
       "keywords": [
@@ -10269,24 +10302,6 @@
       ]
     },
     {
-      "id": "1eb08a47f7db",
-      "topic": "brushing bubble google off",
-      "keywords": [
-        "brushing",
-        "bubble",
-        "google",
-        "off",
-        "warning",
-        "week"
-      ],
-      "item_ids": [
-        "216ac9f06d6d"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "c4e810b984ed",
       "topic": "000 gets month much",
       "keywords": [
@@ -10323,6 +10338,24 @@
       ]
     },
     {
+      "id": "1eb08a47f7db",
+      "topic": "brushing bubble google off",
+      "keywords": [
+        "brushing",
+        "bubble",
+        "google",
+        "off",
+        "warning",
+        "week"
+      ],
+      "item_ids": [
+        "216ac9f06d6d"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "2cef141436cc",
       "topic": "cheat crackdown crypto irs",
       "keywords": [
@@ -10341,24 +10374,6 @@
       ]
     },
     {
-      "id": "aa920dd9bf6c",
-      "topic": "000 170 got man",
-      "keywords": [
-        "000",
-        "170",
-        "got",
-        "man",
-        "old",
-        "year"
-      ],
-      "item_ids": [
-        "8698103e3daa"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "90ad032c5cd0",
       "topic": "amazon chart google nvidia",
       "keywords": [
@@ -10371,6 +10386,24 @@
       ],
       "item_ids": [
         "84f15213dd45"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "aa920dd9bf6c",
+      "topic": "000 170 got man",
+      "keywords": [
+        "000",
+        "170",
+        "got",
+        "man",
+        "old",
+        "year"
+      ],
+      "item_ids": [
+        "8698103e3daa"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10521,6 +10554,22 @@
       ]
     },
     {
+      "id": "38fae54bee9e",
+      "topic": "climate dog impact owning",
+      "keywords": [
+        "climate",
+        "dog",
+        "impact",
+        "owning"
+      ],
+      "item_ids": [
+        "81ce9f419f80"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "f7040cdfaf5a",
       "topic": "best december movie netflix",
       "keywords": [
@@ -10533,22 +10582,6 @@
       ],
       "item_ids": [
         "1802ad4483aa"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "38fae54bee9e",
-      "topic": "climate dog impact owning",
-      "keywords": [
-        "climate",
-        "dog",
-        "impact",
-        "owning"
-      ],
-      "item_ids": [
-        "81ce9f419f80"
       ],
       "outlets": [
         "WIRED"
@@ -11337,6 +11370,24 @@
       ],
       "item_ids": [
         "3b0c8c4d673b"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "16c8564c7607",
+      "topic": "greene marjorie taylor top",
+      "keywords": [
+        "greene",
+        "marjorie",
+        "taylor",
+        "top",
+        "trump",
+        "went"
+      ],
+      "item_ids": [
+        "8d97ef0e22b2"
       ],
       "outlets": [
         "NPR Topics: Politics"
