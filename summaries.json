@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-23T22:58:34Z",
+  "generated_at": "2025-11-23T23:16:29Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2422,6 +2422,39 @@
       },
       "read_minutes": 6,
       "cluster_id": "d69f3c60dcff"
+    },
+    {
+      "id": "1df663a1113a",
+      "title": "Rubio hails 'tremendous progress' at Ukraine peace talks",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce3zwy808dpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 23 Nov 2025 22:00:11 GMT",
+      "bullets": [
+        "• Russia-Ukraine peace plan has been reached in Geneva, says President of Ukraine",
+        "• But there is still work to be done to reach an agreement with Russia and Ukraine",
+        "• Russia and the UK have been working on a plan to end the conflict in Ukraine "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Russia-Ukraine peace plan has been reached in Geneva, says President of Ukraine",
+          "• But there is still work to be done to reach an agreement with Russia and Ukraine"
+        ],
+        "hopeful_bullets": [
+          "• Russia-Ukraine peace plan has been reached in Geneva, says President of Ukraine",
+          "• But there is still work to be done to reach an agreement with Russia and Ukraine"
+        ],
+        "stakes_bullets": [
+          "• Russia-Ukraine peace plan has been reached in Geneva, says President of Ukraine",
+          "• Russia and the UK have been working on a plan to end the conflict in Ukraine "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "069d52f6d39a"
     },
     {
       "id": "f0243f172b13",
@@ -5096,40 +5129,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "60552c409f72"
-    },
-    {
-      "id": "739fbe66ef59",
-      "title": "UN climate talks fail to secure new fossil fuel promises",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 22 Nov 2025 22:38:19 GMT",
-      "bullets": [
-        "• UN climate summit COP30 in Belém, Brazil, ends with no direct reference to fossil fuels",
-        "• UK and EU wanted to commit world to stop using using using oil, coal and gas at a faster pace",
-        "• Oil-producing nations held the line that they should be allowed to use fossil fuel resources to grow their economies "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• UN climate summit COP30 in Belém, Brazil, ends with no direct reference to fossil fuels",
-          "• UK and EU wanted to commit world to stop using using using oil, coal and gas at a faster pace"
-        ],
-        "hopeful_bullets": [
-          "• UN climate summit COP30 in Belém, Brazil, ends with no direct reference to fossil fuels",
-          "• UK and EU wanted to commit world to stop using using using oil, coal and gas at a faster pace"
-        ],
-        "stakes_bullets": [
-          "• UN climate summit COP30 in Belém, Brazil, ends with no direct reference to fossil fuels",
-          "• UK and EU wanted to commit world to stop using using using oil, coal and gas at a faster pace",
-          "• Oil-producing nations held the line that they should be allowed to use fossil fuel resources to grow their economies "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "91f37a9ffc91"
     },
     {
       "id": "b86e4e841844",
@@ -9369,6 +9368,24 @@
   ],
   "clusters": [
     {
+      "id": "069d52f6d39a",
+      "topic": "hail peace progres rubio",
+      "keywords": [
+        "hail",
+        "peace",
+        "progres",
+        "rubio",
+        "tremendou",
+        "ukraine"
+      ],
+      "item_ids": [
+        "1df663a1113a"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "5644b8fcffa9",
       "topic": "first hezbollah israel kill",
       "keywords": [
@@ -9528,24 +9545,6 @@
       ],
       "item_ids": [
         "d28863895c22"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "91f37a9ffc91",
-      "topic": "climate fail fossil fuel",
-      "keywords": [
-        "climate",
-        "fail",
-        "fossil",
-        "fuel",
-        "secure",
-        "talk"
-      ],
-      "item_ids": [
-        "739fbe66ef59"
       ],
       "outlets": [
         "BBC News"
