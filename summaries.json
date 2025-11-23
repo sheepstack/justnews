@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-23T17:25:07Z",
+  "generated_at": "2025-11-23T17:55:08Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -1236,12 +1236,12 @@
       "bullets": [
         "• New horror film, \"Grimmwood,\" is coming out soon",
         "• The film follows the mysterious death of a man who appears to be haunted by a mysterious curse",
-        "• It is the first of its kind to be produced by Blood Pact Films and is set to be released soon "
+        "• It is the first of its kind to be produced by Blood Pact Films "
       ],
       "category": "Horror",
       "sentiment": {
         "label": "positive",
-        "score": 0.975
+        "score": 0.991
       },
       "moods": {
         "brief_bullets": [
@@ -1255,7 +1255,7 @@
         "stakes_bullets": [
           "• New horror film, \"Grimmwood,\" is coming out soon",
           "• The film follows the mysterious death of a man who appears to be haunted by a mysterious curse",
-          "• It is the first of its kind to be produced by Blood Pact Films and is set to be released soon "
+          "• It is the first of its kind to be produced by Blood Pact Films "
         ]
       },
       "read_minutes": 1,
@@ -2220,6 +2220,72 @@
       "cluster_id": "f2bfdbda393f"
     },
     {
+      "id": "4d325f7264ba",
+      "title": "Donald Glover Says He Had a Stroke During His Childish Gambino Tour: ‘They Found a Hole in My Heart’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/donald-glover-stroke-childish-gambino-tour-health-1235471131/",
+      "published_at": "Sun, 23 Nov 2025 17:51:05 +0000",
+      "bullets": [
+        "• Donald Glover says he suffered a stroke during his Childish Gambino tour in 2024",
+        "• He shared the news on Saturday while performing at Camp Flog Gnaw at Dodger Stadium in Los Angeles",
+        "• He said he was in the midst of his tour and was “having lots of fun”"
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.82
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Glover says he suffered a stroke during his Childish Gambino tour in 2024",
+          "• He shared the news on Saturday while performing at Camp Flog Gnaw at Dodger Stadium in Los Angeles"
+        ],
+        "hopeful_bullets": [
+          "• Donald Glover says he suffered a stroke during his Childish Gambino tour in 2024",
+          "• He shared the news on Saturday while performing at Camp Flog Gnaw at Dodger Stadium in Los Angeles"
+        ],
+        "stakes_bullets": [
+          "• Donald Glover says he suffered a stroke during his Childish Gambino tour in 2024",
+          "• He shared the news on Saturday while performing at Camp Flog Gnaw at Dodger Stadium in Los Angeles",
+          "• He said he was in the midst of his tour and was “having lots of fun”"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "2608eb82ac17"
+    },
+    {
+      "id": "32c8fc4a5c1b",
+      "title": "One Piece Drops Action-Packed Preview as Egghead Arc Officially Comes to an End",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/one-piece-egghead-arc-officially-comes-to-an-end/",
+      "published_at": "Sun, 23 Nov 2025 17:24:47 GMT",
+      "bullets": [
+        "• One Piece Episode 1151 will close out the \"Egghead Island\" arc with an explosive anime finale",
+        "• Toei Animation has released a new preview for the One Piece TV series",
+        "• The long-awaited finale marks the end of an era for One Piece "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.703
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One Piece Episode 1151 will close out the \"Egghead Island\" arc with an explosive anime finale",
+          "• Toei Animation has released a new preview for the One Piece TV series"
+        ],
+        "hopeful_bullets": [
+          "• One Piece Episode 1151 will close out the \"Egghead Island\" arc with an explosive anime finale",
+          "• Toei Animation has released a new preview for the One Piece TV series"
+        ],
+        "stakes_bullets": [
+          "• One Piece Episode 1151 will close out the \"Egghead Island\" arc with an explosive anime finale"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e4c578ca16a9"
+    },
+    {
       "id": "9beae7125b09",
       "title": "Say Hello to Your Next Favorite Fantasy Series",
       "outlet": "CBR",
@@ -2253,6 +2319,68 @@
       },
       "read_minutes": 5,
       "cluster_id": "08865fed73ce"
+    },
+    {
+      "id": "a42b0749ec58",
+      "title": "Israel says it killed top Hezbollah official in first attack on Beirut in months",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn81j54xjx1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 23 Nov 2025 17:14:48 GMT",
+      "bullets": [
+        "• Israel says it killed top Hezbollah official in first attack on Beirut in months",
+        "• At least five people killed and 28 wounded in the strike, which hit an apartment building in the densely populated Dahieh district",
+        "• It comes as Israel has escalated its campaign on people and targets it says are linked to Hezbollah "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Israel says it killed top Hezbollah official in first attack on Beirut in months",
+          "• At least five people killed and 28 wounded in the strike, which hit an apartment building in the densely populated Dahieh district"
+        ],
+        "hopeful_bullets": [
+          "• Israel says it killed top Hezbollah official in first attack on Beirut in months",
+          "• At least five people killed and 28 wounded in the strike, which hit an apartment building in the densely populated Dahieh district"
+        ],
+        "stakes_bullets": [
+          "• Israel says it killed top Hezbollah official in first attack on Beirut in months",
+          "• At least five people killed and 28 wounded in the strike, which hit an apartment building in the densely populated Dahieh district",
+          "• It comes as Israel has escalated its campaign on people and targets it says are linked to Hezbollah "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b6d95d29f0b8"
+    },
+    {
+      "id": "7083c8af1b8a",
+      "title": "G20 summit boycotted by US closes in South Africa",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg130704zro?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 23 Nov 2025 17:07:11 GMT",
+      "bullets": [
+        "• G20 summit boycotted by US closes in South Africa, with joint declaration committing to \"multilateral co-operation\" US President Donald Trump chose to abstain from the G20 because of a widely discredited claim that South Africa's white minority is the victim of large-scale killings and land grabs "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• G20 summit boycotted by US closes in South Africa, with joint declaration committing to \"multilateral co-operation\" US President Donald Trump chose to abstain from the G20 because of a widely discredited claim that South Africa's white minority is the victim of large-scale killings and land grabs "
+        ],
+        "hopeful_bullets": [
+          "• G20 summit boycotted by US closes in South Africa, with joint declaration committing to \"multilateral co-operation\" US President Donald Trump chose to abstain from the G20 because of a widely discredited claim that South Africa's white minority is the victim of large-scale killings and land grabs "
+        ],
+        "stakes_bullets": [
+          "• G20 summit boycotted by US closes in South Africa, with joint declaration committing to \"multilateral co-operation\" US President Donald Trump chose to abstain from the G20 because of a widely discredited claim that South Africa's white minority is the victim of large-scale killings and land grabs "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c6e4435e83bd"
     },
     {
       "id": "8219c4d336ce",
@@ -2388,6 +2516,39 @@
       "cluster_id": "b2d73fde0fd6"
     },
     {
+      "id": "28eb31369277",
+      "title": "'Wicked: For Good' soars to $150 million domestic opening",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/23/universals-wicked-for-good-soars-to-150-million-domestic-opening.html",
+      "published_at": "Sun, 23 Nov 2025 16:57:29 GMT",
+      "bullets": [
+        "• Universal's \"Wicked: For Good\" snared an estimated $150 million from domestic ticket sales",
+        "• The film's haul sets the record for the biggest opening weekend of a Broadway adaptation",
+        "• With additional ticket sales from international markets, the film is set to reach a $226 million global haul "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Universal's \"Wicked: For Good\" snared an estimated $150 million from domestic ticket sales",
+          "• The film's haul sets the record for the biggest opening weekend of a Broadway adaptation"
+        ],
+        "hopeful_bullets": [
+          "• The film's haul sets the record for the biggest opening weekend of a Broadway adaptation"
+        ],
+        "stakes_bullets": [
+          "• Universal's \"Wicked: For Good\" snared an estimated $150 million from domestic ticket sales",
+          "• The film's haul sets the record for the biggest opening weekend of a Broadway adaptation",
+          "• With additional ticket sales from international markets, the film is set to reach a $226 million global haul "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4dfc2a38e4b2"
+    },
+    {
       "id": "afcb46f7fb3d",
       "title": "Microsoft faces uphill climb to turn enterprise dominance into widespread AI chatbot adoption",
       "outlet": "US Top News and Analysis",
@@ -2489,39 +2650,6 @@
       "cluster_id": "7fff0abeca1b"
     },
     {
-      "id": "28eb31369277",
-      "title": "'Wicked: For Good' soars to $150 million domestic opening",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/23/universals-wicked-for-good-soars-to-150-million-domestic-opening.html",
-      "published_at": "Sun, 23 Nov 2025 16:14:41 GMT",
-      "bullets": [
-        "• Universal's \"Wicked: For Good\" snared an estimated $150 million from domestic ticket sales",
-        "• The film's haul sets the record for the biggest opening weekend of a Broadway adaptation",
-        "• With additional ticket sales from international markets, the film is set to reach a $226 million global haul "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Universal's \"Wicked: For Good\" snared an estimated $150 million from domestic ticket sales",
-          "• The film's haul sets the record for the biggest opening weekend of a Broadway adaptation"
-        ],
-        "hopeful_bullets": [
-          "• The film's haul sets the record for the biggest opening weekend of a Broadway adaptation"
-        ],
-        "stakes_bullets": [
-          "• Universal's \"Wicked: For Good\" snared an estimated $150 million from domestic ticket sales",
-          "• The film's haul sets the record for the biggest opening weekend of a Broadway adaptation",
-          "• With additional ticket sales from international markets, the film is set to reach a $226 million global haul "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4dfc2a38e4b2"
-    },
-    {
       "id": "50201cbc5fa6",
       "title": "Wicked: For Good Steals Major Box Office Record From Guy Ritchie's Live-Action Hit",
       "outlet": "CBR",
@@ -2552,41 +2680,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "1661ea5bb03c"
-    },
-    {
-      "id": "a42b0749ec58",
-      "title": "Israel targets key Hezbollah official in first attack on Beirut in months",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn81j54xjx1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 23 Nov 2025 16:07:08 GMT",
-      "bullets": [
-        "• Israel targets Hezbollah's chief of staff in first attack on Beirut in months",
-        "• At least five people killed and 28 wounded in the strike, officials say",
-        "• Israeli media reports identify him as Ali Tabtai, the group's number two",
-        "• Israeli officials say Hezbollah has been trying to rebuild its military capabilities "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Israel targets Hezbollah's chief of staff in first attack on Beirut in months",
-          "• At least five people killed and 28 wounded in the strike, officials say"
-        ],
-        "hopeful_bullets": [
-          "• Israel targets Hezbollah's chief of staff in first attack on Beirut in months",
-          "• At least five people killed and 28 wounded in the strike, officials say"
-        ],
-        "stakes_bullets": [
-          "• Israel targets Hezbollah's chief of staff in first attack on Beirut in months",
-          "• At least five people killed and 28 wounded in the strike, officials say",
-          "• Israeli media reports identify him as Ali Tabtai, the group's number two"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1d87e8921547"
     },
     {
       "id": "7e18a23a11a1",
@@ -2727,38 +2820,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "f0b7976cce86"
-    },
-    {
-      "id": "c8096ea18cdf",
-      "title": "10 Fantasy Movies With No Weak Scenes",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-fantasy-movies-no-weak-scenes-list/",
-      "published_at": "Sun, 23 Nov 2025 16:00:12 GMT",
-      "bullets": [
-        "• Some of the greatest of all time are packed full of perfect scenes, from start to finish",
-        "• The fantasy genre has many exciting years ahead, especially as major franchises return to the big screen",
-        "• What makes a perfect scene is up to interpretation, with some scenes working because they serve a great narrative purpose "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Some of the greatest of all time are packed full of perfect scenes, from start to finish",
-          "• The fantasy genre has many exciting years ahead, especially as major franchises return to the big screen"
-        ],
-        "hopeful_bullets": [
-          "• Some of the greatest of all time are packed full of perfect scenes, from start to finish",
-          "• The fantasy genre has many exciting years ahead, especially as major franchises return to the big screen"
-        ],
-        "stakes_bullets": [
-          "• What makes a perfect scene is up to interpretation, with some scenes working because they serve a great narrative purpose "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "4024c9f61d60"
     },
     {
       "id": "55de47752cc4",
@@ -4952,40 +5013,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "2cef141436cc"
-    },
-    {
-      "id": "62f7cdb2c9e1",
-      "title": "How Greene went from Maga loyalist to quitting Congress",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwywjz202r7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 22 Nov 2025 17:43:11 GMT",
-      "bullets": [
-        "• Marjorie Taylor Greene came into Congress as one of Donald Trump's staunchest defenders",
-        "• Sworn into office just days before 6 January 2021 attack on US Capitol",
-        "• She has since been branded a 'traitor' by the president, who she once supported "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.574
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Marjorie Taylor Greene came into Congress as one of Donald Trump's staunchest defenders",
-          "• Sworn into office just days before 6 January 2021 attack on US Capitol"
-        ],
-        "hopeful_bullets": [
-          "• Marjorie Taylor Greene came into Congress as one of Donald Trump's staunchest defenders",
-          "• Sworn into office just days before 6 January 2021 attack on US Capitol"
-        ],
-        "stakes_bullets": [
-          "• Marjorie Taylor Greene came into Congress as one of Donald Trump's staunchest defenders",
-          "• Sworn into office just days before 6 January 2021 attack on US Capitol",
-          "• She has since been branded a 'traitor' by the president, who she once supported "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "9e56c5cc3f20"
     },
     {
       "id": "3b44db73c5e2",
@@ -7547,40 +7574,6 @@
       "cluster_id": "40c95c647bcf"
     },
     {
-      "id": "779dc1e47c83",
-      "title": "Robert Plant Sings Led Zeppelin, Moby Grape Classics at NPR’s Tiny Desk",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/robert-plant-suzi-dian-saving-gace-npr-tiny-desk-concert-1235470609/",
-      "published_at": "Fri, 21 Nov 2025 18:29:31 +0000",
-      "bullets": [
-        "• Robert Plant and Suzi Dian performed songs from their Saving Grace album behind NPR's Tiny Desk",
-        "• The pair were joined by four musicians who accompanied them on guitar, cello, drums, banjo, and cuatro",
-        "• Plant and Dian closed their set with the only track that’s not on Saving Grace, “Gallows Pole”"
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.91
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Robert Plant and Suzi Dian performed songs from their Saving Grace album behind NPR's Tiny Desk",
-          "• The pair were joined by four musicians who accompanied them on guitar, cello, drums, banjo, and cuatro"
-        ],
-        "hopeful_bullets": [
-          "• Robert Plant and Suzi Dian performed songs from their Saving Grace album behind NPR's Tiny Desk",
-          "• The pair were joined by four musicians who accompanied them on guitar, cello, drums, banjo, and cuatro"
-        ],
-        "stakes_bullets": [
-          "• Robert Plant and Suzi Dian performed songs from their Saving Grace album behind NPR's Tiny Desk",
-          "• The pair were joined by four musicians who accompanied them on guitar, cello, drums, banjo, and cuatro",
-          "• Plant and Dian closed their set with the only track that’s not on Saving Grace, “Gallows Pole”"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "cb210c40e992"
-    },
-    {
       "id": "165043749690",
       "title": "Five Desert Horror Movies to Stream on Screambox This Week Including ‘Killer Rental’",
       "outlet": "Bloody Disgusting!",
@@ -9140,6 +9133,256 @@
       "cluster_id": "8a1f3b14891e"
     },
     {
+      "id": "b22e7e3a48e1",
+      "title": "The Numbers Business Report rolls out our full predictions for 2026 at the box office",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260330830-Numbers-Business-Report-rolls-out-our-full-predictions-for-2026-at-the-box-office-The",
+      "published_at": null,
+      "bullets": [
+        "• The Numbers Business Report rolls out our full predictions for 2026 at the box office",
+        "• To qualify as a wide release in our OpusData database and here on The Numbers website, a movie needs to play in 600 domestic theaters",
+        "• Today, getting a movie into 600 theaters isn’t nearly the same logistical challenge "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.754
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Numbers Business Report rolls out our full predictions for 2026 at the box office",
+          "• To qualify as a wide release in our OpusData database and here on The Numbers website, a movie needs to play in 600 domestic theaters"
+        ],
+        "hopeful_bullets": [
+          "• The Numbers Business Report rolls out our full predictions for 2026 at the box office",
+          "• To qualify as a wide release in our OpusData database and here on The Numbers website, a movie needs to play in 600 domestic theaters"
+        ],
+        "stakes_bullets": [
+          "• The Numbers Business Report rolls out our full predictions for 2026 at the box office",
+          "• To qualify as a wide release in our OpusData database and here on The Numbers website, a movie needs to play in 600 domestic theaters",
+          "• Today, getting a movie into 600 theaters isn’t nearly the same logistical challenge "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "87d3679fb736"
+    },
+    {
+      "id": "9bd27e9cb2ff",
+      "title": "Weekend predictions: Wicked on target for the best opening of 2025",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260320830-Weekend-predictions-Wicked-on-target-for-the-best-opening-of-2025",
+      "published_at": null,
+      "bullets": [
+        "• Wicked: For Good will easily beat Wicked’s $112.5-million debut this time last year, but the real question is whether it can top A Minecraft Movie's $162.8 million to claim the crown as having the biggest weekend of the year "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Wicked: For Good will easily beat Wicked’s $112.5-million debut this time last year, but the real question is whether it can top A Minecraft Movie's $162.8 million to claim the crown as having the biggest weekend of the year "
+        ],
+        "hopeful_bullets": [
+          "• Wicked: For Good will easily beat Wicked’s $112.5-million debut this time last year, but the real question is whether it can top A Minecraft Movie's $162.8 million to claim the crown as having the biggest weekend of the year "
+        ],
+        "stakes_bullets": [
+          "• Wicked: For Good will easily beat Wicked’s $112.5-million debut this time last year, but the real question is whether it can top A Minecraft Movie's $162.8 million to claim the crown as having the biggest weekend of the year "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "826cfc1e2353"
+    },
+    {
+      "id": "8820c287b772",
+      "title": "Theater counts: Wicked: For Good twirls onto the big screen, launching in 4,115 theaters",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260310830-Theater-counts-Wicked-For-Good-twirls-onto-the-big-screen-launching-in-4-115-theaters",
+      "published_at": null,
+      "bullets": [
+        "• Now You See Me Now You Don't grabbed the box office honors with a three-day haul of just over $21 million, outperforming second-place finisher, The Running Man, picking up $16.5 million in its opening foray",
+        "• Neither film will get close to touching the top spot for a second weekend "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.632
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Now You See Me Now You Don't grabbed the box office honors with a three-day haul of just over $21 million, outperforming second-place finisher, The Running Man, picking up $16.5 million in its opening foray",
+          "• Neither film will get close to touching the top spot for a second weekend "
+        ],
+        "hopeful_bullets": [
+          "• Now You See Me Now You Don't grabbed the box office honors with a three-day haul of just over $21 million, outperforming second-place finisher, The Running Man, picking up $16.5 million in its opening foray",
+          "• Neither film will get close to touching the top spot for a second weekend "
+        ],
+        "stakes_bullets": [
+          "• Neither film will get close to touching the top spot for a second weekend "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "683e45b155a3"
+    },
+    {
+      "id": "a3516a02e15f",
+      "title": "Ticket prices increased 5% in Q3 vs. 2024",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260300830-Ticket-prices-increased-5-in-Q3-vs-2024",
+      "published_at": null,
+      "bullets": [
+        "• In Q3, despite a decline in overall box office performance compared to 2024, the average ticket price reached $11.79, with an annual inflation rate of 5%, consistent with the second quarter",
+        "• While attendance fell year over year, average ticket prices continued to rise due to ongoing pricing strategies and the expansion of premium formats "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.903
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In Q3, despite a decline in overall box office performance compared to 2024, the average ticket price reached $11.79, with an annual inflation rate of 5%, consistent with the second quarter",
+          "• While attendance fell year over year, average ticket prices continued to rise due to ongoing pricing strategies and the expansion of premium formats "
+        ],
+        "hopeful_bullets": [
+          "• In Q3, despite a decline in overall box office performance compared to 2024, the average ticket price reached $11.79, with an annual inflation rate of 5%, consistent with the second quarter",
+          "• While attendance fell year over year, average ticket prices continued to rise due to ongoing pricing strategies and the expansion of premium formats "
+        ],
+        "stakes_bullets": [
+          "• In Q3, despite a decline in overall box office performance compared to 2024, the average ticket price reached $11.79, with an annual inflation rate of 5%, consistent with the second quarter",
+          "• While attendance fell year over year, average ticket prices continued to rise due to ongoing pricing strategies and the expansion of premium formats "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a426075db24b"
+    },
+    {
+      "id": "7cec4c248f59",
+      "title": "Weekend projections: third time’s the charm for Now You See Me franchise",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260290830-Weekend-projections-third-times-the-charm-for-Now-You-See-Me-franchise",
+      "published_at": null,
+      "bullets": [
+        "• Now You See: Now You Don’t is coming in well ahead of our Friday-morning prediction",
+        "• The Running Man is also landing a little higher than expected based on its Thursday previews, and this weekend’s third new wide release, Keeper is also beating expectations "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Now You See: Now You Don’t is coming in well ahead of our Friday-morning prediction",
+          "• The Running Man is also landing a little higher than expected based on its Thursday previews, and this weekend’s third new wide release, Keeper is also beating expectations "
+        ],
+        "hopeful_bullets": [
+          "• Now You See: Now You Don’t is coming in well ahead of our Friday-morning prediction",
+          "• The Running Man is also landing a little higher than expected based on its Thursday previews, and this weekend’s third new wide release, Keeper is also beating expectations "
+        ],
+        "stakes_bullets": [
+          "• The Running Man is also landing a little higher than expected based on its Thursday previews, and this weekend’s third new wide release, Keeper is also beating expectations "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e7663f4e1cf1"
+    },
+    {
+      "id": "8326de889293",
+      "title": "Weekend predictions: Now You See Me looking to steal weekend from Running Man and Predator",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260280830-Weekend-predictions-Now-You-See-Me-looking-to-steal-weekend-from-Running-Man-and-Predator",
+      "published_at": null,
+      "bullets": [
+        "• Now You See Me: Now You Don’t goes into the weekend as a very marginal favorite to take the box office crown",
+        "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.943
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Now You See Me: Now You Don’t goes into the weekend as a very marginal favorite to take the box office crown",
+          "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
+        ],
+        "hopeful_bullets": [
+          "• Now You See Me: Now You Don’t goes into the weekend as a very marginal favorite to take the box office crown",
+          "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
+        ],
+        "stakes_bullets": [
+          "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0a18fcef00e3"
+    },
+    {
+      "id": "0cd8a2772863",
+      "title": "Theater counts: Predator: Badlands retains top footprint, staying widest release for its second weekend",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260270830-Theater-counts-Predator-Badlands-retains-top-footprint-staying-widest-release-for-its-second-weekend",
+      "published_at": null,
+      "bullets": [
+        "• The Running Man is the second adaptation of the Stephen King novel after the 1987 film of the same name",
+        "• The latest in the Now You See Me franchise follows the return of the Four Horsemen in their boldest heist yet, stealing a priceless diamond from a powerful criminal empire "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Running Man is the second adaptation of the Stephen King novel after the 1987 film of the same name",
+          "• The latest in the Now You See Me franchise follows the return of the Four Horsemen in their boldest heist yet, stealing a priceless diamond from a powerful criminal empire "
+        ],
+        "hopeful_bullets": [
+          "• The Running Man is the second adaptation of the Stephen King novel after the 1987 film of the same name",
+          "• The latest in the Now You See Me franchise follows the return of the Four Horsemen in their boldest heist yet, stealing a priceless diamond from a powerful criminal empire "
+        ],
+        "stakes_bullets": [
+          "• The Running Man is the second adaptation of the Stephen King novel after the 1987 film of the same name",
+          "• The latest in the Now You See Me franchise follows the return of the Four Horsemen in their boldest heist yet, stealing a priceless diamond from a powerful criminal empire "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "cb5c7cd26a83"
+    },
+    {
+      "id": "3a51f31061b8",
+      "title": "Weekend projections: Predator: Badlands projected to hit $40 million on debut",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260260830-Weekend-projections-Predator-Badlands-projected-to-hit-40-million-on-debut",
+      "published_at": null,
+      "bullets": [
+        "• The Predator: Badlands will open with around $40 million this weekend, according to 20th Century Studios (aka Disney) If that number holds up, it’ll be the best debut (ignoring inflation) for any film in the Predator franchise, beating 2004’s AVP: Alien vs",
+        "• Predator",
+        "• Disney are claiming this as the “strongest global opening … at current rates, surpassing The Predator's $73.5M”"
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Predator: Badlands will open with around $40 million this weekend, according to 20th Century Studios (aka Disney) If that number holds up, it’ll be the best debut (ignoring inflation) for any film in the Predator franchise, beating 2004’s AVP: Alien vs",
+          "• Predator"
+        ],
+        "hopeful_bullets": [
+          "• Disney are claiming this as the “strongest global opening … at current rates, surpassing The Predator's $73.5M”"
+        ],
+        "stakes_bullets": [
+          "• The Predator: Badlands will open with around $40 million this weekend, according to 20th Century Studios (aka Disney) If that number holds up, it’ll be the best debut (ignoring inflation) for any film in the Predator franchise, beating 2004’s AVP: Alien vs"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d390c61f3913"
+    },
+    {
       "id": "78564afcfa15",
       "title": "Weekend prediction: Predator: Badlands shoots for $30-million-plus opening",
       "outlet": "The Numbers",
@@ -9211,15 +9454,15 @@
   ],
   "clusters": [
     {
-      "id": "1d87e8921547",
-      "topic": "first hezbollah israel key",
+      "id": "b6d95d29f0b8",
+      "topic": "first hezbollah israel killed",
       "keywords": [
         "first",
         "hezbollah",
         "israel",
-        "key",
+        "killed",
         "official",
-        "target"
+        "top"
       ],
       "item_ids": [
         "a42b0749ec58"
@@ -9241,6 +9484,24 @@
       ],
       "item_ids": [
         "7e18a23a11a1"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "c6e4435e83bd",
+      "topic": "africa boycotted close g20",
+      "keywords": [
+        "africa",
+        "boycotted",
+        "close",
+        "g20",
+        "south",
+        "summit"
+      ],
+      "item_ids": [
+        "7083c8af1b8a"
       ],
       "outlets": [
         "BBC News"
@@ -9367,24 +9628,6 @@
       ],
       "item_ids": [
         "2e6828dea8ea"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "9e56c5cc3f20",
-      "topic": "congres greene loyalist maga",
-      "keywords": [
-        "congres",
-        "greene",
-        "loyalist",
-        "maga",
-        "quitting",
-        "went"
-      ],
-      "item_ids": [
-        "62f7cdb2c9e1"
       ],
       "outlets": [
         "BBC News"
@@ -11667,6 +11910,148 @@
       ]
     },
     {
+      "id": "87d3679fb736",
+      "topic": "busines full number out",
+      "keywords": [
+        "busines",
+        "full",
+        "number",
+        "out",
+        "report",
+        "roll"
+      ],
+      "item_ids": [
+        "b22e7e3a48e1"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "826cfc1e2353",
+      "topic": "best opening prediction target",
+      "keywords": [
+        "best",
+        "opening",
+        "prediction",
+        "target",
+        "weekend",
+        "wicked"
+      ],
+      "item_ids": [
+        "9bd27e9cb2ff"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "683e45b155a3",
+      "topic": "count good onto theater",
+      "keywords": [
+        "count",
+        "good",
+        "onto",
+        "theater",
+        "twirl",
+        "wicked"
+      ],
+      "item_ids": [
+        "8820c287b772"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "a426075db24b",
+      "topic": "2024 increased price ticket",
+      "keywords": [
+        "2024",
+        "increased",
+        "price",
+        "ticket"
+      ],
+      "item_ids": [
+        "a3516a02e15f"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "e7663f4e1cf1",
+      "topic": "charm now projection third",
+      "keywords": [
+        "charm",
+        "now",
+        "projection",
+        "third",
+        "time",
+        "weekend"
+      ],
+      "item_ids": [
+        "7cec4c248f59"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "0a18fcef00e3",
+      "topic": "looking now prediction see",
+      "keywords": [
+        "looking",
+        "now",
+        "prediction",
+        "see",
+        "steal",
+        "weekend"
+      ],
+      "item_ids": [
+        "8326de889293"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "cb5c7cd26a83",
+      "topic": "badland count predator retain",
+      "keywords": [
+        "badland",
+        "count",
+        "predator",
+        "retain",
+        "theater",
+        "top"
+      ],
+      "item_ids": [
+        "0cd8a2772863"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "d390c61f3913",
+      "topic": "badland hit predator projected",
+      "keywords": [
+        "badland",
+        "hit",
+        "predator",
+        "projected",
+        "projection",
+        "weekend"
+      ],
+      "item_ids": [
+        "3a51f31061b8"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
       "id": "ff62cca1472c",
       "topic": "badland million predator prediction",
       "keywords": [
@@ -13228,6 +13613,24 @@
       ]
     },
     {
+      "id": "e4c578ca16a9",
+      "topic": "action drop egghead packed",
+      "keywords": [
+        "action",
+        "drop",
+        "egghead",
+        "packed",
+        "piece",
+        "preview"
+      ],
+      "item_ids": [
+        "32c8fc4a5c1b"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "08865fed73ce",
       "topic": "fantasy favorite hello next",
       "keywords": [
@@ -13382,22 +13785,6 @@
       ],
       "item_ids": [
         "9eed1ceb0337"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "4024c9f61d60",
-      "topic": "fantasy movie scene weak",
-      "keywords": [
-        "fantasy",
-        "movie",
-        "scene",
-        "weak"
-      ],
-      "item_ids": [
-        "c8096ea18cdf"
       ],
       "outlets": [
         "CBR"
@@ -13582,6 +13969,24 @@
       ]
     },
     {
+      "id": "2608eb82ac17",
+      "topic": "childish donald during gambino",
+      "keywords": [
+        "childish",
+        "donald",
+        "during",
+        "gambino",
+        "glover",
+        "stroke"
+      ],
+      "item_ids": [
+        "4d325f7264ba"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "7b9acaa21b6a",
       "topic": "inside masego sono sound",
       "keywords": [
@@ -13738,24 +14143,6 @@
       ],
       "item_ids": [
         "b0305d1ce711"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "cb210c40e992",
-      "topic": "led moby plant robert",
-      "keywords": [
-        "led",
-        "moby",
-        "plant",
-        "robert",
-        "sing",
-        "zeppelin"
-      ],
-      "item_ids": [
-        "779dc1e47c83"
       ],
       "outlets": [
         "Music News"
