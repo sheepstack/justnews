@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-24T08:16:38Z",
+  "generated_at": "2025-11-24T09:10:58Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -67,6 +67,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "953b2d0596d8"
+    },
+    {
+      "id": "72e19918bc7d",
+      "title": "Trump administration seeks to roll back protections for imperiled species and habitat",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/19/g-s1-98459/trump-administration-endangered-species-act-blanket-rule",
+      "published_at": "Wed, 19 Nov 2025 18:46:37 -0500",
+      "bullets": [
+        "• The world's best-known animal species is now extinct in the U.S",
+        "• It is the first time in the world's history that it has been allowed to be allowed to live in the United States",
+        "• The world has never seen this type of animal species have died of natural causes "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The world's best-known animal species is now extinct in the U.S",
+          "• It is the first time in the world's history that it has been allowed to be allowed to live in the United States"
+        ],
+        "hopeful_bullets": [
+          "• The world's best-known animal species is now extinct in the U.S",
+          "• It is the first time in the world's history that it has been allowed to be allowed to live in the United States"
+        ],
+        "stakes_bullets": [
+          "• The world has never seen this type of animal species have died of natural causes "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "894efc6d884a"
     },
     {
       "id": "e9ae3c69b67f",
@@ -3342,42 +3374,6 @@
       "cluster_id": "3d9de763764e"
     },
     {
-      "id": "9c9581651888",
-      "title": "'Stakes are high.' With shutdown over, airlines predict record numbers of travelers this Thanksgiving",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/23/thanksgiving-air-travel-after-shutdown.html",
-      "published_at": "Sun, 23 Nov 2025 13:00:01 GMT",
-      "bullets": [
-        "• Airlines for America predicts another record Thanksgiving holiday travel period",
-        "• The busiest days are expected to be the Sunday after Thanksgiving, followed by the Monday after Thanksgiving",
-        "• Airline executives have expressed relief after the government shutdown ended Nov",
-        "• 12",
-        "• Shortages of air traffic controllers, who were required to work without their regular pay, delayed and canceled flights "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Airlines for America predicts another record Thanksgiving holiday travel period",
-          "• The busiest days are expected to be the Sunday after Thanksgiving, followed by the Monday after Thanksgiving"
-        ],
-        "hopeful_bullets": [
-          "• Airlines for America predicts another record Thanksgiving holiday travel period",
-          "• Airline executives have expressed relief after the government shutdown ended Nov"
-        ],
-        "stakes_bullets": [
-          "• The busiest days are expected to be the Sunday after Thanksgiving, followed by the Monday after Thanksgiving",
-          "• Airline executives have expressed relief after the government shutdown ended Nov",
-          "• Shortages of air traffic controllers, who were required to work without their regular pay, delayed and canceled flights "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "43b6434d200c"
-    },
-    {
       "id": "1b0d9e7e4dcf",
       "title": "9 Best Chromebooks of 2025: All the Latest Models, Tested",
       "outlet": "WIRED",
@@ -3973,41 +3969,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "bb6ea9c1d84c"
-    },
-    {
-      "id": "515fcfea0037",
-      "title": "Scholars say most of what we believe about Vikings is wrong",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251122044340.htm",
-      "published_at": "Sun, 23 Nov 2025 03:34:17 EST",
-      "bullets": [
-        "• Scholars say most of what we believe about Vikings is wrong",
-        "• Ideas about Vikings and Norse mythology come mostly from much later medieval sources",
-        "• Over centuries, writers, politicians, and artists reshaped these stories to reflect their own worldviews",
-        "• Pop culture and neo-paganism continue to amplify selective versions of this past "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scholars say most of what we believe about Vikings is wrong",
-          "• Ideas about Vikings and Norse mythology come mostly from much later medieval sources"
-        ],
-        "hopeful_bullets": [
-          "• Scholars say most of what we believe about Vikings is wrong",
-          "• Ideas about Vikings and Norse mythology come mostly from much later medieval sources"
-        ],
-        "stakes_bullets": [
-          "• Scholars say most of what we believe about Vikings is wrong",
-          "• Ideas about Vikings and Norse mythology come mostly from much later medieval sources",
-          "• Over centuries, writers, politicians, and artists reshaped these stories to reflect their own worldviews"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "068d87d716af"
     },
     {
       "id": "b9a6501f1999",
@@ -5275,8 +5236,75 @@
       "cluster_id": "ba644bb6dfa3"
     },
     {
+      "id": "fc873bccdf88",
+      "title": "European defense stocks slide as U.S., Ukraine make progress on peace plan",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/24/europe-defense-stocks-fall-as-us-ukraine-make-progress-on-peace-plan.html",
+      "published_at": "Mon, 24 Nov 2025 08:35:45 GMT",
+      "bullets": [
+        "• The Stoxx Europe Aerospace and Defense index was 0.8% lower at the start of the trading session",
+        "• Germany's Rheinmetall, Hensoldt, Renk and Sweden's Saab were all trading toward the bottom of the pan-European index",
+        "• The U.S",
+        "• and Ukraine agreed that the consultations were \"highly productive\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.898
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Stoxx Europe Aerospace and Defense index was 0.8% lower at the start of the trading session",
+          "• Germany's Rheinmetall, Hensoldt, Renk and Sweden's Saab were all trading toward the bottom of the pan-European index"
+        ],
+        "hopeful_bullets": [
+          "• The Stoxx Europe Aerospace and Defense index was 0.8% lower at the start of the trading session",
+          "• Germany's Rheinmetall, Hensoldt, Renk and Sweden's Saab were all trading toward the bottom of the pan-European index"
+        ],
+        "stakes_bullets": [
+          "• The Stoxx Europe Aerospace and Defense index was 0.8% lower at the start of the trading session",
+          "• Germany's Rheinmetall, Hensoldt, Renk and Sweden's Saab were all trading toward the bottom of the pan-European index",
+          "• The U.S"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e7b82374e244"
+    },
+    {
+      "id": "f45683f5fbe7",
+      "title": "At age 16, he spent $23 to buy a website domain. 9 years later, his blue-collar business brings in $1.3 million a year",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/24/this-26-year-olds-blue-collar-business-brings-in-1point3-million-a-year.html",
+      "published_at": "Mon, 24 Nov 2025 07:50:20 GMT",
+      "bullets": [
+        "• Zames Chew, 26, runs the Singapore-based handyman service Repair.sg, alongside his 24-year-old brother and co-founder, Amos Chew",
+        "• Chew: \"When I was younger, my dream was always to work in big tech\" Chew spent 30 Singapore dollars (about $23) to buy a website domain name at age 16 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Zames Chew, 26, runs the Singapore-based handyman service Repair.sg, alongside his 24-year-old brother and co-founder, Amos Chew",
+          "• Chew: \"When I was younger, my dream was always to work in big tech\" Chew spent 30 Singapore dollars (about $23) to buy a website domain name at age 16 "
+        ],
+        "hopeful_bullets": [
+          "• Zames Chew, 26, runs the Singapore-based handyman service Repair.sg, alongside his 24-year-old brother and co-founder, Amos Chew",
+          "• Chew: \"When I was younger, my dream was always to work in big tech\" Chew spent 30 Singapore dollars (about $23) to buy a website domain name at age 16 "
+        ],
+        "stakes_bullets": [
+          "• Zames Chew, 26, runs the Singapore-based handyman service Repair.sg, alongside his 24-year-old brother and co-founder, Amos Chew",
+          "• Chew: \"When I was younger, my dream was always to work in big tech\" Chew spent 30 Singapore dollars (about $23) to buy a website domain name at age 16 "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "4f64a203ac9a"
+    },
+    {
       "id": "644be5970a26",
-      "title": "Taskforce calls for UK nuclear regulation reset in UK to speed construction",
+      "title": "Taskforce calls for UK nuclear regulation reset to speed construction",
       "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/environment/2025/nov/24/new-nuclear-reactors-regulations-uk-government-taskforce",
       "published_at": "Mon, 24 Nov 2025 07:26:44 GMT",
@@ -5287,7 +5315,7 @@
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.945
+        "score": 0.964
       },
       "moods": {
         "brief_bullets": [
@@ -5435,38 +5463,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "7726c5bfefa4"
-    },
-    {
-      "id": "f45683f5fbe7",
-      "title": "At age 16, he spent $23 to buy a website domain. 9 years later, his blue-collar business brings in $1.3 million a year",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/24/this-26-year-olds-blue-collar-business-brings-in-1point3-million-a-year.html",
-      "published_at": "Mon, 24 Nov 2025 06:42:01 GMT",
-      "bullets": [
-        "• Zames Chew, 26, runs the Singapore-based handyman service Repair.sg, alongside his 24-year-old brother and co-founder, Amos Chew",
-        "• Chew: \"When I was younger, my dream was always to work in big tech\" Chew spent 30 Singapore dollars (about $23) to buy a website domain name at age 16 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.979
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Zames Chew, 26, runs the Singapore-based handyman service Repair.sg, alongside his 24-year-old brother and co-founder, Amos Chew",
-          "• Chew: \"When I was younger, my dream was always to work in big tech\" Chew spent 30 Singapore dollars (about $23) to buy a website domain name at age 16 "
-        ],
-        "hopeful_bullets": [
-          "• Zames Chew, 26, runs the Singapore-based handyman service Repair.sg, alongside his 24-year-old brother and co-founder, Amos Chew",
-          "• Chew: \"When I was younger, my dream was always to work in big tech\" Chew spent 30 Singapore dollars (about $23) to buy a website domain name at age 16 "
-        ],
-        "stakes_bullets": [
-          "• Zames Chew, 26, runs the Singapore-based handyman service Repair.sg, alongside his 24-year-old brother and co-founder, Amos Chew",
-          "• Chew: \"When I was younger, my dream was always to work in big tech\" Chew spent 30 Singapore dollars (about $23) to buy a website domain name at age 16 "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "4f64a203ac9a"
     },
     {
       "id": "33bcda6b2665",
@@ -5992,6 +5988,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "c9681fa69a3c"
+    },
+    {
+      "id": "8b9f98a467a4",
+      "title": "Global surge in ultra-processed foods sparks urgent health warning",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251124025654.htm",
+      "published_at": "Mon, 24 Nov 2025 03:07:46 EST",
+      "bullets": [
+        "• Global surge in ultra-processed foods sparks urgent health warning",
+        "• New research links them to worsening health outcomes around the world",
+        "• Scientists say only bold, coordinated policy action can shift food systems toward healthier options",
+        "• The Lancet Series stresses that improving diets cannot fall solely on individual behavior "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Global surge in ultra-processed foods sparks urgent health warning",
+          "• New research links them to worsening health outcomes around the world"
+        ],
+        "hopeful_bullets": [
+          "• Global surge in ultra-processed foods sparks urgent health warning"
+        ],
+        "stakes_bullets": [
+          "• Scientists say only bold, coordinated policy action can shift food systems toward healthier options"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "6be50f2b8f01"
     },
     {
       "id": "937cef69fedb",
@@ -10006,6 +10034,24 @@
       ]
     },
     {
+      "id": "e7b82374e244",
+      "topic": "defense european make slide",
+      "keywords": [
+        "defense",
+        "european",
+        "make",
+        "slide",
+        "stock",
+        "ukraine"
+      ],
+      "item_ids": [
+        "fc873bccdf88"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "b7c5fa0b4836",
       "topic": "2026 believe bessent recession",
       "keywords": [
@@ -10060,24 +10106,6 @@
       ]
     },
     {
-      "id": "4f64a203ac9a",
-      "topic": "age buy domain spent",
-      "keywords": [
-        "age",
-        "buy",
-        "domain",
-        "spent",
-        "website",
-        "year"
-      ],
-      "item_ids": [
-        "f45683f5fbe7"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "c4e810b984ed",
       "topic": "000 gets month much",
       "keywords": [
@@ -10108,6 +10136,24 @@
       ],
       "item_ids": [
         "8d73ca23036c"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "4f64a203ac9a",
+      "topic": "age buy domain spent",
+      "keywords": [
+        "age",
+        "buy",
+        "domain",
+        "spent",
+        "website",
+        "year"
+      ],
+      "item_ids": [
+        "f45683f5fbe7"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10162,24 +10208,6 @@
       ],
       "item_ids": [
         "afcb46f7fb3d"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "43b6434d200c",
-      "topic": "airline high predict record",
-      "keywords": [
-        "airline",
-        "high",
-        "predict",
-        "record",
-        "shutdown",
-        "stake"
-      ],
-      "item_ids": [
-        "9c9581651888"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10733,6 +10761,24 @@
       ]
     },
     {
+      "id": "6be50f2b8f01",
+      "topic": "food global processed spark",
+      "keywords": [
+        "food",
+        "global",
+        "processed",
+        "spark",
+        "surge",
+        "ultra"
+      ],
+      "item_ids": [
+        "8b9f98a467a4"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "9ecad36e00da",
       "topic": "decade discovery fat metabolism",
       "keywords": [
@@ -10894,24 +10940,6 @@
       ]
     },
     {
-      "id": "068d87d716af",
-      "topic": "believe most say scholar",
-      "keywords": [
-        "believe",
-        "most",
-        "say",
-        "scholar",
-        "viking",
-        "wrong"
-      ],
-      "item_ids": [
-        "515fcfea0037"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
       "id": "2f64270c7362",
       "topic": "answer get goosebump podcast",
       "keywords": [
@@ -11014,6 +11042,24 @@
       ],
       "item_ids": [
         "df6170bc8a63"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "894efc6d884a",
+      "topic": "administration back protection roll",
+      "keywords": [
+        "administration",
+        "back",
+        "protection",
+        "roll",
+        "seek",
+        "trump"
+      ],
+      "item_ids": [
+        "72e19918bc7d"
       ],
       "outlets": [
         "NPR Topics: Science"
