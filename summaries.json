@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-24T05:12:21Z",
+  "generated_at": "2025-11-24T06:04:04Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -1091,6 +1091,41 @@
       },
       "read_minutes": 4,
       "cluster_id": "d26a3bf750aa"
+    },
+    {
+      "id": "cf363c5ae463",
+      "title": "Fire prompts evacuations at U.N. climate talks in Brazil; 13 suffer smoke inhalation",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/20/g-s1-98669/fire-united-nations-climate-talks-brazil-cop30",
+      "published_at": "Thu, 20 Nov 2025 19:35:12 -0500",
+      "bullets": [
+        "• Fire prompts evacuations at U.N",
+        "• climate talks in Brazil; 13 suffer smoke inhalation",
+        "• Video shows huge flames in one of the pavilions, which are reinforced canvas or fabric structures",
+        "• It wasn't clear when the conference, known as COP30, would resume "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fire prompts evacuations at U.N",
+          "• climate talks in Brazil; 13 suffer smoke inhalation"
+        ],
+        "hopeful_bullets": [
+          "• Fire prompts evacuations at U.N",
+          "• climate talks in Brazil; 13 suffer smoke inhalation"
+        ],
+        "stakes_bullets": [
+          "• Fire prompts evacuations at U.N",
+          "• climate talks in Brazil; 13 suffer smoke inhalation",
+          "• Video shows huge flames in one of the pavilions, which are reinforced canvas or fabric structures"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4b9c817677f0"
     },
     {
       "id": "d218c374acf7",
@@ -2538,39 +2573,6 @@
       "cluster_id": "07b79b580b49"
     },
     {
-      "id": "28eb31369277",
-      "title": "'Wicked: For Good' soars to $150 million domestic opening",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/23/universals-wicked-for-good-soars-to-150-million-domestic-opening.html",
-      "published_at": "Sun, 23 Nov 2025 18:39:24 GMT",
-      "bullets": [
-        "• Universal's \"Wicked: For Good\" snared an estimated $150 million from domestic ticket sales",
-        "• The film's haul sets the record for the biggest opening weekend of a Broadway adaptation",
-        "• With additional ticket sales from international markets, the film is set to reach a $226 million global haul "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Universal's \"Wicked: For Good\" snared an estimated $150 million from domestic ticket sales",
-          "• The film's haul sets the record for the biggest opening weekend of a Broadway adaptation"
-        ],
-        "hopeful_bullets": [
-          "• The film's haul sets the record for the biggest opening weekend of a Broadway adaptation"
-        ],
-        "stakes_bullets": [
-          "• Universal's \"Wicked: For Good\" snared an estimated $150 million from domestic ticket sales",
-          "• The film's haul sets the record for the biggest opening weekend of a Broadway adaptation",
-          "• With additional ticket sales from international markets, the film is set to reach a $226 million global haul "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4dfc2a38e4b2"
-    },
-    {
       "id": "86193c8c92df",
       "title": "The Craziest, Goriest Thanksgiving Films Ever Released",
       "outlet": "HorrorFix",
@@ -2735,40 +2737,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "1e17d177200e"
-    },
-    {
-      "id": "7e18a23a11a1",
-      "title": "Fifty children escape after mass school abduction in Nigeria",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpwk5qzzppzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 23 Nov 2025 17:53:05 GMT",
-      "bullets": [
-        "• Fifty children escape after mass school abduction in Nigeria's Niger State on Friday",
-        "• Military-led search and rescue operation is under way for remaining 265 children and 12 teachers",
-        "• 38 people abducted from a church service in Kwara state last week were freed on Sunday "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.617
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Fifty children escape after mass school abduction in Nigeria's Niger State on Friday",
-          "• Military-led search and rescue operation is under way for remaining 265 children and 12 teachers"
-        ],
-        "hopeful_bullets": [
-          "• Fifty children escape after mass school abduction in Nigeria's Niger State on Friday",
-          "• Military-led search and rescue operation is under way for remaining 265 children and 12 teachers"
-        ],
-        "stakes_bullets": [
-          "• Fifty children escape after mass school abduction in Nigeria's Niger State on Friday",
-          "• Military-led search and rescue operation is under way for remaining 265 children and 12 teachers",
-          "• 38 people abducted from a church service in Kwara state last week were freed on Sunday "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "7ec5348d3cc2"
     },
     {
       "id": "4d325f7264ba",
@@ -4767,6 +4735,39 @@
       "cluster_id": "f2bfdbda393f"
     },
     {
+      "id": "5611dc5f98a1",
+      "title": "U.N. climate talks end without agreement on phasing out fossil fuels",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/22/nx-s1-5615207/u-n-climate-talks-end-cop30-brazil",
+      "published_at": "Sat, 22 Nov 2025 15:59:57 -0500",
+      "bullets": [
+        "• U.N",
+        "• conference in Brazil ends without agreement on phasing out fossil fuels",
+        "• More than 30 countries failed to agree on a plan to reduce the use of fossil fuels in the world's most populous countries",
+        "• The world's biggest oil and gas expatriates want to reduce their use of the fossil fuel "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.N",
+          "• conference in Brazil ends without agreement on phasing out fossil fuels"
+        ],
+        "hopeful_bullets": [
+          "• More than 30 countries failed to agree on a plan to reduce the use of fossil fuels in the world's most populous countries",
+          "• The world's biggest oil and gas expatriates want to reduce their use of the fossil fuel "
+        ],
+        "stakes_bullets": [
+          "• More than 30 countries failed to agree on a plan to reduce the use of fossil fuels in the world's most populous countries"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "3561d513c27a"
+    },
+    {
       "id": "9db6abd6406a",
       "title": "13 Best MagSafe Power Banks for iPhones (2025), Tested and Reviewed",
       "outlet": "WIRED",
@@ -5570,6 +5571,139 @@
       "cluster_id": "ba644bb6dfa3"
     },
     {
+      "id": "c009d39ababb",
+      "title": "10 Worst Anime Endings That Beat Game of Thrones’ Final Season",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/worst-anime-endings-game-of-thrones-bad/",
+      "published_at": "Mon, 24 Nov 2025 05:24:27 GMT",
+      "bullets": [
+        "• A disappointing ending is one of the easiest ways to destroy an anime’s reputation",
+        "• It doesn’t matter if an anime turns out winners for multiple seasons",
+        "• All this goodwill can be ruined and fans will loathe the idea of revisiting a series if it doesn't stick its ending "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A disappointing ending is one of the easiest ways to destroy an anime’s reputation",
+          "• It doesn’t matter if an anime turns out winners for multiple seasons"
+        ],
+        "hopeful_bullets": [
+          "• It doesn’t matter if an anime turns out winners for multiple seasons"
+        ],
+        "stakes_bullets": [
+          "• All this goodwill can be ruined and fans will loathe the idea of revisiting a series if it doesn't stick its ending "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "92d320b10ef0"
+    },
+    {
+      "id": "7e18a23a11a1",
+      "title": "Fifty children escape after mass school abduction in Nigeria",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpwk5qzzppzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 24 Nov 2025 05:22:48 GMT",
+      "bullets": [
+        "• Fifty children escape after mass school abduction in Nigeria",
+        "• Military-led search and rescue operation under way for remaining 265 children and 12 teachers",
+        "• Nigerian President Bola Tinubu has ordered the recruitment of an additional 30,000 police officers",
+        "• 38 people abducted from a church service in Kwara state last week were freed "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.609
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fifty children escape after mass school abduction in Nigeria",
+          "• Military-led search and rescue operation under way for remaining 265 children and 12 teachers"
+        ],
+        "hopeful_bullets": [
+          "• Fifty children escape after mass school abduction in Nigeria",
+          "• Military-led search and rescue operation under way for remaining 265 children and 12 teachers"
+        ],
+        "stakes_bullets": [
+          "• Fifty children escape after mass school abduction in Nigeria",
+          "• Military-led search and rescue operation under way for remaining 265 children and 12 teachers",
+          "• Nigerian President Bola Tinubu has ordered the recruitment of an additional 30,000 police officers"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "7ec5348d3cc2"
+    },
+    {
+      "id": "8574a63dae5a",
+      "title": "Chinese consumer brands flood into Africa as old investment model fades and exports jump 28%",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/24/china-africa-expansion-shifts-infrastructure-resource-mining-consumer-goods-investment.html",
+      "published_at": "Mon, 24 Nov 2025 05:20:31 GMT",
+      "bullets": [
+        "• China's investments in Africa's resource-intensive sectors have declined by roughly 40% since 2015 peak",
+        "• China's exports to Africa have surged by 28% year-on-year over the first three quarters of 2025",
+        "• Most of those products are higher-value-added manufactured goods such as electronics, plastics and textiles "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.877
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China's investments in Africa's resource-intensive sectors have declined by roughly 40% since 2015 peak",
+          "• China's exports to Africa have surged by 28% year-on-year over the first three quarters of 2025"
+        ],
+        "hopeful_bullets": [
+          "• China's exports to Africa have surged by 28% year-on-year over the first three quarters of 2025"
+        ],
+        "stakes_bullets": [
+          "• China's investments in Africa's resource-intensive sectors have declined by roughly 40% since 2015 peak",
+          "• China's exports to Africa have surged by 28% year-on-year over the first three quarters of 2025",
+          "• Most of those products are higher-value-added manufactured goods such as electronics, plastics and textiles "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "ec3596289c01"
+    },
+    {
+      "id": "1df663a1113a",
+      "title": "US and Ukraine signal peace plan progress after Geneva talks",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce3zwy808dpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 24 Nov 2025 04:57:45 GMT",
+      "bullets": [
+        "• US and Ukraine signal peace plan progress after Geneva talks",
+        "• US Secretary of State Marco Rubio said there had been a \"tremendous amount of progress\" on honing plan",
+        "• Russia cautiously welcomed plan, but not by leaders in Kyiv and Europe who see it favourable to Kremlin "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US and Ukraine signal peace plan progress after Geneva talks",
+          "• US Secretary of State Marco Rubio said there had been a \"tremendous amount of progress\" on honing plan"
+        ],
+        "hopeful_bullets": [
+          "• US and Ukraine signal peace plan progress after Geneva talks",
+          "• US Secretary of State Marco Rubio said there had been a \"tremendous amount of progress\" on honing plan"
+        ],
+        "stakes_bullets": [
+          "• US and Ukraine signal peace plan progress after Geneva talks",
+          "• US Secretary of State Marco Rubio said there had been a \"tremendous amount of progress\" on honing plan",
+          "• Russia cautiously welcomed plan, but not by leaders in Kyiv and Europe who see it favourable to Kremlin "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "74a672872d97"
+    },
+    {
       "id": "cdcf3eaf2b35",
       "title": "Zootopia Versions of Classic Comic Characters",
       "outlet": "CBR",
@@ -5866,41 +6000,6 @@
       "cluster_id": "f5a397fe5210"
     },
     {
-      "id": "5ec733b14d62",
-      "title": "7 Hidden Details in The Nightmare Before Christmas Fans Still Miss",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/the-nightmare-before-christmas-hidden-details-list/",
-      "published_at": "Mon, 24 Nov 2025 03:25:11 GMT",
-      "bullets": [
-        "• Tim Burton's stop-motion musical The Nightmare Before Christmas was released in 1993",
-        "• The darkly festive tale has earned a devoted fan base and become a cherished holiday tradition",
-        "• An extraordinary amount of craftsmanship went into bringing this masterpiece to life",
-        "• Mickey Mouse appears several times in the film "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tim Burton's stop-motion musical The Nightmare Before Christmas was released in 1993",
-          "• The darkly festive tale has earned a devoted fan base and become a cherished holiday tradition"
-        ],
-        "hopeful_bullets": [
-          "• Tim Burton's stop-motion musical The Nightmare Before Christmas was released in 1993",
-          "• The darkly festive tale has earned a devoted fan base and become a cherished holiday tradition"
-        ],
-        "stakes_bullets": [
-          "• Tim Burton's stop-motion musical The Nightmare Before Christmas was released in 1993",
-          "• The darkly festive tale has earned a devoted fan base and become a cherished holiday tradition",
-          "• An extraordinary amount of craftsmanship went into bringing this masterpiece to life"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "e06973b073f9"
-    },
-    {
       "id": "1dfeb017581e",
       "title": "TVC15: MagnaGuard (VC18)",
       "outlet": "Jedi Temple Archives",
@@ -5971,9 +6070,8 @@
       "url": "https://www.theguardian.com/environment/2025/nov/24/experts-dismiss-coalition-claims-bowen-cannot-remain-minister-cop31-negotiations",
       "published_at": "Mon, 24 Nov 2025 02:53:47 GMT",
       "bullets": [
-        "• Australia failed in its bid to co-host the Cop31 climate summit with Pacific nations next year after Turkey refused to withdraw from the consensus process despite limited support",
-        "• Climate change and energy minister Chris Bowen was appointed vice-president and \"president of negotiations\" The Coalition has attacked Bowen over his appointment, claiming he would be a ‘part-time minister’ while Australians faced inflated energy prices",
-        "• Climate experts say it is not unusual for a minister to stay in their domestic role while serving as the president overseeing the annual global climate summit "
+        "• Australia failed in bid to co-host the Cop31 climate summit with Pacific nations next year",
+        "• Climate change and energy minister Chris Bowen will be appointed vice-president and \"president of negotiations\" Experts have dismissed claims he cannot remain a senior minister while playing a leading role in international climate negotiations "
       ],
       "category": "Environment",
       "sentiment": {
@@ -5982,20 +6080,18 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Australia failed in its bid to co-host the Cop31 climate summit with Pacific nations next year after Turkey refused to withdraw from the consensus process despite limited support",
-          "• Climate change and energy minister Chris Bowen was appointed vice-president and \"president of negotiations\" The Coalition has attacked Bowen over his appointment, claiming he would be a ‘part-time minister’ while Australians faced inflated energy prices"
+          "• Australia failed in bid to co-host the Cop31 climate summit with Pacific nations next year",
+          "• Climate change and energy minister Chris Bowen will be appointed vice-president and \"president of negotiations\" Experts have dismissed claims he cannot remain a senior minister while playing a leading role in international climate negotiations "
         ],
         "hopeful_bullets": [
-          "• Australia failed in its bid to co-host the Cop31 climate summit with Pacific nations next year after Turkey refused to withdraw from the consensus process despite limited support",
-          "• Climate change and energy minister Chris Bowen was appointed vice-president and \"president of negotiations\" The Coalition has attacked Bowen over his appointment, claiming he would be a ‘part-time minister’ while Australians faced inflated energy prices"
+          "• Australia failed in bid to co-host the Cop31 climate summit with Pacific nations next year",
+          "• Climate change and energy minister Chris Bowen will be appointed vice-president and \"president of negotiations\" Experts have dismissed claims he cannot remain a senior minister while playing a leading role in international climate negotiations "
         ],
         "stakes_bullets": [
-          "• Australia failed in its bid to co-host the Cop31 climate summit with Pacific nations next year after Turkey refused to withdraw from the consensus process despite limited support",
-          "• Climate change and energy minister Chris Bowen was appointed vice-president and \"president of negotiations\" The Coalition has attacked Bowen over his appointment, claiming he would be a ‘part-time minister’ while Australians faced inflated energy prices",
-          "• Climate experts say it is not unusual for a minister to stay in their domestic role while serving as the president overseeing the annual global climate summit "
+          "• Climate change and energy minister Chris Bowen will be appointed vice-president and \"president of negotiations\" Experts have dismissed claims he cannot remain a senior minister while playing a leading role in international climate negotiations "
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 4,
       "cluster_id": "af5ee46c50f5"
     },
     {
@@ -6025,37 +6121,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "ee729877b695"
-    },
-    {
-      "id": "1df663a1113a",
-      "title": "US hails 'tremendous progress' at Ukraine peace talks",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce3zwy808dpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 24 Nov 2025 02:02:10 GMT",
-      "bullets": [
-        "• US Secretary of State Marco Rubio hails 'tremendous progress' at Ukraine peace talks",
-        "• Rubio: \"There's still some work to be done\" in talks to finalise US-proposed peace plan to end Russia-Ukraine war",
-        "• Ukraine and European allies had expressed concern over the leaked proposals "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US Secretary of State Marco Rubio hails 'tremendous progress' at Ukraine peace talks",
-          "• Rubio: \"There's still some work to be done\" in talks to finalise US-proposed peace plan to end Russia-Ukraine war"
-        ],
-        "hopeful_bullets": [
-          "• US Secretary of State Marco Rubio hails 'tremendous progress' at Ukraine peace talks"
-        ],
-        "stakes_bullets": [
-          "• Rubio: \"There's still some work to be done\" in talks to finalise US-proposed peace plan to end Russia-Ukraine war"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "316e0018260c"
     },
     {
       "id": "24ecd8d6f586",
@@ -8013,6 +8078,38 @@
       "cluster_id": "ade6fda92fdb"
     },
     {
+      "id": "c6b9f533abe3",
+      "title": "Brain scientists are seeking weight-loss drugs without the nausea",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/11/21/nx-s1-5615168/glp-1-weight-loss-drugs-brain-nausea-wegovy-ozempic",
+      "published_at": "Fri, 21 Nov 2025 06:00:00 -0500",
+      "bullets": [
+        "• Brain scientists are seeking weight-loss drugs without the nausea and vomiting side effects",
+        "• They found a way to direct GLP-1 to the area involved in feeling full, while keeping the drug out of the vomit center",
+        "• When the researchers did this, mice no longer felt sick, but they also didn't get thin "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.812
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Brain scientists are seeking weight-loss drugs without the nausea and vomiting side effects",
+          "• They found a way to direct GLP-1 to the area involved in feeling full, while keeping the drug out of the vomit center"
+        ],
+        "hopeful_bullets": [
+          "• Brain scientists are seeking weight-loss drugs without the nausea and vomiting side effects",
+          "• They found a way to direct GLP-1 to the area involved in feeling full, while keeping the drug out of the vomit center"
+        ],
+        "stakes_bullets": [
+          "• Brain scientists are seeking weight-loss drugs without the nausea and vomiting side effects"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "1d9eb12acdd4"
+    },
+    {
       "id": "d54c64da496b",
       "title": "What went right this week: the good news that matters",
       "outlet": "Positive News",
@@ -9126,100 +9223,6 @@
       "cluster_id": "a426075db24b"
     },
     {
-      "id": "7cec4c248f59",
-      "title": "Weekend projections: third time’s the charm for Now You See Me franchise",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260290830-Weekend-projections-third-times-the-charm-for-Now-You-See-Me-franchise",
-      "published_at": null,
-      "bullets": [
-        "• Now You See: Now You Don’t is coming in well ahead of our Friday-morning prediction",
-        "• The Running Man is also landing a little higher than expected based on its Thursday previews, and this weekend’s third new wide release, Keeper is also beating expectations "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Now You See: Now You Don’t is coming in well ahead of our Friday-morning prediction",
-          "• The Running Man is also landing a little higher than expected based on its Thursday previews, and this weekend’s third new wide release, Keeper is also beating expectations "
-        ],
-        "hopeful_bullets": [
-          "• Now You See: Now You Don’t is coming in well ahead of our Friday-morning prediction",
-          "• The Running Man is also landing a little higher than expected based on its Thursday previews, and this weekend’s third new wide release, Keeper is also beating expectations "
-        ],
-        "stakes_bullets": [
-          "• The Running Man is also landing a little higher than expected based on its Thursday previews, and this weekend’s third new wide release, Keeper is also beating expectations "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e7663f4e1cf1"
-    },
-    {
-      "id": "8326de889293",
-      "title": "Weekend predictions: Now You See Me looking to steal weekend from Running Man and Predator",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260280830-Weekend-predictions-Now-You-See-Me-looking-to-steal-weekend-from-Running-Man-and-Predator",
-      "published_at": null,
-      "bullets": [
-        "• Now You See Me: Now You Don’t goes into the weekend as a very marginal favorite to take the box office crown",
-        "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.943
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Now You See Me: Now You Don’t goes into the weekend as a very marginal favorite to take the box office crown",
-          "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
-        ],
-        "hopeful_bullets": [
-          "• Now You See Me: Now You Don’t goes into the weekend as a very marginal favorite to take the box office crown",
-          "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
-        ],
-        "stakes_bullets": [
-          "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0a18fcef00e3"
-    },
-    {
-      "id": "0cd8a2772863",
-      "title": "Theater counts: Predator: Badlands retains top footprint, staying widest release for its second weekend",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260270830-Theater-counts-Predator-Badlands-retains-top-footprint-staying-widest-release-for-its-second-weekend",
-      "published_at": null,
-      "bullets": [
-        "• The Running Man is the second adaptation of the Stephen King novel after the 1987 film of the same name",
-        "• The latest in the Now You See Me franchise follows the return of the Four Horsemen in their boldest heist yet, stealing a priceless diamond from a powerful criminal empire "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Running Man is the second adaptation of the Stephen King novel after the 1987 film of the same name",
-          "• The latest in the Now You See Me franchise follows the return of the Four Horsemen in their boldest heist yet, stealing a priceless diamond from a powerful criminal empire "
-        ],
-        "hopeful_bullets": [
-          "• The Running Man is the second adaptation of the Stephen King novel after the 1987 film of the same name",
-          "• The latest in the Now You See Me franchise follows the return of the Four Horsemen in their boldest heist yet, stealing a priceless diamond from a powerful criminal empire "
-        ],
-        "stakes_bullets": [
-          "• The Running Man is the second adaptation of the Stephen King novel after the 1987 film of the same name",
-          "• The latest in the Now You See Me franchise follows the return of the Four Horsemen in their boldest heist yet, stealing a priceless diamond from a powerful criminal empire "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "cb5c7cd26a83"
-    },
-    {
       "id": "3a51f31061b8",
       "title": "Weekend projections: Predator: Badlands projected to hit $40 million on debut",
       "outlet": "The Numbers",
@@ -9287,14 +9290,14 @@
   ],
   "clusters": [
     {
-      "id": "316e0018260c",
-      "topic": "hail peace progres talk",
+      "id": "74a672872d97",
+      "topic": "geneva peace plan progres",
       "keywords": [
-        "hail",
+        "geneva",
         "peace",
+        "plan",
         "progres",
-        "talk",
-        "tremendou",
+        "signal",
         "ukraine"
       ],
       "item_ids": [
@@ -10024,6 +10027,24 @@
       ]
     },
     {
+      "id": "ec3596289c01",
+      "topic": "africa brand chinese consumer",
+      "keywords": [
+        "africa",
+        "brand",
+        "chinese",
+        "consumer",
+        "flood",
+        "old"
+      ],
+      "item_ids": [
+        "8574a63dae5a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "26e997132754",
       "topic": "halted internal meta research",
       "keywords": [
@@ -10096,24 +10117,6 @@
       ]
     },
     {
-      "id": "5764d7dd010f",
-      "topic": "climb enterprise face microsoft",
-      "keywords": [
-        "climb",
-        "enterprise",
-        "face",
-        "microsoft",
-        "turn",
-        "uphill"
-      ],
-      "item_ids": [
-        "afcb46f7fb3d"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "c4e810b984ed",
       "topic": "000 gets month much",
       "keywords": [
@@ -10150,6 +10153,24 @@
       ]
     },
     {
+      "id": "5764d7dd010f",
+      "topic": "climb enterprise face microsoft",
+      "keywords": [
+        "climb",
+        "enterprise",
+        "face",
+        "microsoft",
+        "turn",
+        "uphill"
+      ],
+      "item_ids": [
+        "afcb46f7fb3d"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "43b6434d200c",
       "topic": "airline high predict record",
       "keywords": [
@@ -10162,24 +10183,6 @@
       ],
       "item_ids": [
         "9c9581651888"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "4dfc2a38e4b2",
-      "topic": "150 domestic good million",
-      "keywords": [
-        "150",
-        "domestic",
-        "good",
-        "million",
-        "soar",
-        "wicked"
-      ],
-      "item_ids": [
-        "28eb31369277"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10925,6 +10928,60 @@
       ],
       "item_ids": [
         "588491243593"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "3561d513c27a",
+      "topic": "agreement climate end phasing",
+      "keywords": [
+        "agreement",
+        "climate",
+        "end",
+        "phasing",
+        "talk",
+        "without"
+      ],
+      "item_ids": [
+        "5611dc5f98a1"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "1d9eb12acdd4",
+      "topic": "brain drug loss scientist",
+      "keywords": [
+        "brain",
+        "drug",
+        "loss",
+        "scientist",
+        "seeking",
+        "weight"
+      ],
+      "item_ids": [
+        "c6b9f533abe3"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "4b9c817677f0",
+      "topic": "brazil climate evacuation fire",
+      "keywords": [
+        "brazil",
+        "climate",
+        "evacuation",
+        "fire",
+        "prompt",
+        "talk"
+      ],
+      "item_ids": [
+        "cf363c5ae463"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11734,60 +11791,6 @@
       ],
       "item_ids": [
         "a3516a02e15f"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "e7663f4e1cf1",
-      "topic": "charm now projection third",
-      "keywords": [
-        "charm",
-        "now",
-        "projection",
-        "third",
-        "time",
-        "weekend"
-      ],
-      "item_ids": [
-        "7cec4c248f59"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "0a18fcef00e3",
-      "topic": "looking now prediction see",
-      "keywords": [
-        "looking",
-        "now",
-        "prediction",
-        "see",
-        "steal",
-        "weekend"
-      ],
-      "item_ids": [
-        "8326de889293"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "cb5c7cd26a83",
-      "topic": "badland count predator retain",
-      "keywords": [
-        "badland",
-        "count",
-        "predator",
-        "retain",
-        "theater",
-        "top"
-      ],
-      "item_ids": [
-        "0cd8a2772863"
       ],
       "outlets": [
         "The Numbers"
@@ -13370,6 +13373,24 @@
       ]
     },
     {
+      "id": "92d320b10ef0",
+      "topic": "anime beat ending game",
+      "keywords": [
+        "anime",
+        "beat",
+        "ending",
+        "game",
+        "throne",
+        "worst"
+      ],
+      "item_ids": [
+        "c009d39ababb"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "63e3bd4385a7",
       "topic": "character classic comic version",
       "keywords": [
@@ -13524,24 +13545,6 @@
       ],
       "item_ids": [
         "e31b3aca0156"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "e06973b073f9",
-      "topic": "before christma detail fans",
-      "keywords": [
-        "before",
-        "christma",
-        "detail",
-        "fans",
-        "hidden",
-        "nightmare"
-      ],
-      "item_ids": [
-        "5ec733b14d62"
       ],
       "outlets": [
         "CBR"
