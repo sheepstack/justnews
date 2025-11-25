@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-25T07:14:09Z",
+  "generated_at": "2025-11-25T08:01:16Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -532,6 +532,71 @@
       "cluster_id": "6cc9daf95221"
     },
     {
+      "id": "c4cc448d2a99",
+      "title": "Asia-Pacific markets trade mixed after Wall Street's tech stocks rebound",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/25/asia-pacific-markets-tuesday-today-ai-tech-recovery-nikkei-225-hang-seng-index-kospi.html",
+      "published_at": "Tue, 25 Nov 2025 07:09:52 GMT",
+      "bullets": [
+        "• Japan's benchmark Nikkei 225 index closed flat at 48,659.52, Japan's Topix index fell 0.21% to end at 3,290.89",
+        "• Australia's ASX/S&P 200 closed 0.14% higher in volatile trading "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Japan's benchmark Nikkei 225 index closed flat at 48,659.52, Japan's Topix index fell 0.21% to end at 3,290.89",
+          "• Australia's ASX/S&P 200 closed 0.14% higher in volatile trading "
+        ],
+        "hopeful_bullets": [
+          "• Japan's benchmark Nikkei 225 index closed flat at 48,659.52, Japan's Topix index fell 0.21% to end at 3,290.89",
+          "• Australia's ASX/S&P 200 closed 0.14% higher in volatile trading "
+        ],
+        "stakes_bullets": [
+          "• Japan's benchmark Nikkei 225 index closed flat at 48,659.52, Japan's Topix index fell 0.21% to end at 3,290.89",
+          "• Australia's ASX/S&P 200 closed 0.14% higher in volatile trading "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6e0a301b4457"
+    },
+    {
+      "id": "20ea1825893e",
+      "title": "Europe set for dour open as markets shrug off Wall Street rebound",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/25/european-markets-on-nov-25-2025-stoxx-600-ftse-dax-cac.html",
+      "published_at": "Tue, 25 Nov 2025 07:07:46 GMT",
+      "bullets": [
+        "• European markets expected to open flat to lower on Tuesday",
+        "• U.K.'s FTSE seen opening slightly lower, Germany's DAX down 0.2% and France's CAC 40 0.42% down",
+        "• Markets are pricing in a more than 80% chance of a quarter percentage point cut from the Fed in December "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• European markets expected to open flat to lower on Tuesday",
+          "• U.K.'s FTSE seen opening slightly lower, Germany's DAX down 0.2% and France's CAC 40 0.42% down"
+        ],
+        "hopeful_bullets": [
+          "• European markets expected to open flat to lower on Tuesday",
+          "• U.K.'s FTSE seen opening slightly lower, Germany's DAX down 0.2% and France's CAC 40 0.42% down"
+        ],
+        "stakes_bullets": [
+          "• European markets expected to open flat to lower on Tuesday",
+          "• Markets are pricing in a more than 80% chance of a quarter percentage point cut from the Fed in December "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d3ebde15c77a"
+    },
+    {
       "id": "a1472ab5e155",
       "title": "’Tis the season to be resourceful. How to cut waste this Christmas",
       "outlet": "Positive News",
@@ -629,40 +694,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "773f1f0fc2b6"
-    },
-    {
-      "id": "20ea1825893e",
-      "title": "Europe set for dour open as markets shrug off Wall Street rebound",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/25/european-markets-on-nov-25-2025-stoxx-600-ftse-dax-cac.html",
-      "published_at": "Tue, 25 Nov 2025 06:26:46 GMT",
-      "bullets": [
-        "• European markets expected to open flat to lower on Tuesday",
-        "• European markets shrugged off Wall Street's rebound at the start of the week",
-        "• U.K",
-        "• FTSE seen opening slightly lower, Germany's DAX down 0.2% and France's CAC 40 down",
-        "• Markets are pricing in a more than 80% chance of a rate cut from the Fed in December "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• European markets expected to open flat to lower on Tuesday",
-          "• European markets shrugged off Wall Street's rebound at the start of the week"
-        ],
-        "hopeful_bullets": [
-          "• European markets shrugged off Wall Street's rebound at the start of the week"
-        ],
-        "stakes_bullets": [
-          "• European markets expected to open flat to lower on Tuesday",
-          "• Markets are pricing in a more than 80% chance of a rate cut from the Fed in December "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "d3ebde15c77a"
     },
     {
       "id": "da2928c8427a",
@@ -798,39 +829,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "0a65774e7336"
-    },
-    {
-      "id": "c4cc448d2a99",
-      "title": "Asia-Pacific markets trade mixed after Wall Street's tech stocks rebound",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/25/asia-pacific-markets-tuesday-today-ai-tech-recovery-nikkei-225-hang-seng-index-kospi.html",
-      "published_at": "Tue, 25 Nov 2025 05:13:28 GMT",
-      "bullets": [
-        "• Japan's benchmark Nikkei 225 index was up 0.15% in early trading, while the Topix index erased earlier gains to fall 0.1%",
-        "• China's Hang Seng index rose 0.64% and the HSE Tech index advanced 1.22%",
-        "• Australia's ASX/S&P 200 added 0.14% Tuesday "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's benchmark Nikkei 225 index was up 0.15% in early trading, while the Topix index erased earlier gains to fall 0.1%",
-          "• China's Hang Seng index rose 0.64% and the HSE Tech index advanced 1.22%"
-        ],
-        "hopeful_bullets": [
-          "• Japan's benchmark Nikkei 225 index was up 0.15% in early trading, while the Topix index erased earlier gains to fall 0.1%"
-        ],
-        "stakes_bullets": [
-          "• Japan's benchmark Nikkei 225 index was up 0.15% in early trading, while the Topix index erased earlier gains to fall 0.1%",
-          "• China's Hang Seng index rose 0.64% and the HSE Tech index advanced 1.22%",
-          "• Australia's ASX/S&P 200 added 0.14% Tuesday "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "6e0a301b4457"
     },
     {
       "id": "e99658a6d421",
@@ -1365,6 +1363,42 @@
       "cluster_id": "1011c7083573"
     },
     {
+      "id": "70da6dfdc66e",
+      "title": "A rare 'Superman No. 1' comic book found in an attic fetches $9.12M",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/25/g-s1-99204/superman-comic-book-fetches-9-million",
+      "published_at": "Tue, 25 Nov 2025 02:03:03 -0500",
+      "bullets": [
+        "• A rare 'Superman No",
+        "• 1' comic book found in an attic fetches $9.12M at auction",
+        "• It is the most expensive comic book ever sold",
+        "• The comic book was unearthed by three brothers cleaning out their late mother's attic",
+        "• She had told them she had a valuable comic book collection hidden away "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.935
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A rare 'Superman No",
+          "• 1' comic book found in an attic fetches $9.12M at auction"
+        ],
+        "hopeful_bullets": [
+          "• A rare 'Superman No",
+          "• 1' comic book found in an attic fetches $9.12M at auction"
+        ],
+        "stakes_bullets": [
+          "• A rare 'Superman No",
+          "• 1' comic book found in an attic fetches $9.12M at auction",
+          "• It is the most expensive comic book ever sold"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "989aca888d83"
+    },
+    {
       "id": "7d045f8953bd",
       "title": "Trump news at a glance: James Comey, Letitia James welcome judge’s decision to toss criminal cases",
       "outlet": "US news | The Guardian",
@@ -1395,6 +1429,39 @@
       },
       "read_minutes": 4,
       "cluster_id": "9d1905fb356f"
+    },
+    {
+      "id": "e856e32eab13",
+      "title": "Cocoa and tea may protect your heart from the hidden damage of sitting",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251124094325.htm",
+      "published_at": "Tue, 25 Nov 2025 01:51:42 EST",
+      "bullets": [
+        "• Scientists found that high-flavanol foods can prevent the decline in blood vessel function that occurs after prolonged sitting",
+        "• Even physically fit men werenât protected unless they had consumed flavanols beforehand",
+        "• A cocoa drink rich in these compounds kept arteries functioning normally",
+        "• Eating berries, apples, tea, and certain cocoa products could offer a simple way to protect long-term vascular health "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists found that high-flavanol foods can prevent the decline in blood vessel function that occurs after prolonged sitting",
+          "• Even physically fit men werenât protected unless they had consumed flavanols beforehand"
+        ],
+        "hopeful_bullets": [
+          "• Scientists found that high-flavanol foods can prevent the decline in blood vessel function that occurs after prolonged sitting",
+          "• Even physically fit men werenât protected unless they had consumed flavanols beforehand"
+        ],
+        "stakes_bullets": [
+          "• Eating berries, apples, tea, and certain cocoa products could offer a simple way to protect long-term vascular health "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "2c23c057fef4"
     },
     {
       "id": "fb963b35301b",
@@ -3923,6 +3990,37 @@
       "cluster_id": "0e9f621f1179"
     },
     {
+      "id": "2c0e3dcfcb2c",
+      "title": "This glowing particle in a laser trap may reveal how lightning begins",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251124231904.htm",
+      "published_at": "Mon, 24 Nov 2025 23:57:11 EST",
+      "bullets": [
+        "• Researchers at Institute of Science and Technology Austria capture aerosol particles with laser beams of light",
+        "• Laser beams capture and charge aerosols, which glow in their electrical state, revealing how electrons are kicked away and how the particle sometimes releases sudden bursts of charge",
+        "• Technique could help explain how lightning gets its initial spark "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.792
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Researchers at Institute of Science and Technology Austria capture aerosol particles with laser beams of light",
+          "• Laser beams capture and charge aerosols, which glow in their electrical state, revealing how electrons are kicked away and how the particle sometimes releases sudden bursts of charge"
+        ],
+        "hopeful_bullets": [
+          "• Technique could help explain how lightning gets its initial spark "
+        ],
+        "stakes_bullets": [
+          "• Technique could help explain how lightning gets its initial spark "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "302fdec548d5"
+    },
+    {
       "id": "3c1706687845",
       "title": "Joni Mitchell Will Receive Lifetime Achievement Award at 2026 Juno Awards",
       "outlet": "Music News",
@@ -4022,6 +4120,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "75533d3da9db"
+    },
+    {
+      "id": "a4994f39c531",
+      "title": "This tiny plant survived the vacuum of space and still grows",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251124231900.htm",
+      "published_at": "Mon, 24 Nov 2025 23:27:16 EST",
+      "bullets": [
+        "• Moss spores survived an extended stay on the outside of the ISS and remained capable of germinating once back on Earth",
+        "• Their resilience to vacuum, extreme temperatures, and UV radiation surprised the researchers who expected them to perish",
+        "• The study hints at the potential for simple plants to support agriculture beyond our planet "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Moss spores survived an extended stay on the outside of the ISS and remained capable of germinating once back on Earth",
+          "• Their resilience to vacuum, extreme temperatures, and UV radiation surprised the researchers who expected them to perish"
+        ],
+        "hopeful_bullets": [
+          "• Moss spores survived an extended stay on the outside of the ISS and remained capable of germinating once back on Earth",
+          "• Their resilience to vacuum, extreme temperatures, and UV radiation surprised the researchers who expected them to perish"
+        ],
+        "stakes_bullets": [
+          "• Their resilience to vacuum, extreme temperatures, and UV radiation surprised the researchers who expected them to perish",
+          "• The study hints at the potential for simple plants to support agriculture beyond our planet "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "13d03de696ef"
     },
     {
       "id": "180d478f2f43",
@@ -7087,40 +7218,6 @@
       "cluster_id": "620867261431"
     },
     {
-      "id": "381b99a4eb8b",
-      "title": "Record sargassum piles trap sea turtle hatchlings on Florida beaches",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251123115439.htm",
-      "published_at": "Mon, 24 Nov 2025 06:37:28 EST",
-      "bullets": [
-        "• Record sargassum piles trap sea turtle hatchlings on Florida beaches",
-        "• Researchers say they are creating new obstacles for hatchlings to get to the sea",
-        "• The thick layer of sargasum is slowing the hatchling's journey to the ocean "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Record sargassum piles trap sea turtle hatchlings on Florida beaches",
-          "• Researchers say they are creating new obstacles for hatchlings to get to the sea"
-        ],
-        "hopeful_bullets": [
-          "• Record sargassum piles trap sea turtle hatchlings on Florida beaches",
-          "• The thick layer of sargasum is slowing the hatchling's journey to the ocean "
-        ],
-        "stakes_bullets": [
-          "• Record sargassum piles trap sea turtle hatchlings on Florida beaches",
-          "• Researchers say they are creating new obstacles for hatchlings to get to the sea",
-          "• The thick layer of sargasum is slowing the hatchling's journey to the ocean "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "38ac425bf608"
-    },
-    {
       "id": "bb3f0e221e8f",
       "title": "He left Gaza and fled to Europe on a jet ski. Now he hopes to bring his family",
       "outlet": "NPR Topics: News",
@@ -7157,7 +7254,7 @@
     {
       "id": "d62bde209627",
       "title": "A bowhead whale's DNA offers clues to fight cancer",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/11/24/nx-s1-5612550/bowhead-whale-cancer-dna-longevity",
       "published_at": "Mon, 24 Nov 2025 06:00:00 -0500",
       "bullets": [
@@ -7165,7 +7262,7 @@
         "• Large animals have lots of cells, which in theory should mean more chances to develop cancer",
         "• And yet, long-lived organisms have more time to acquire the mutations needed to transform healthy cells into cancerous ones "
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "negative",
         "score": 0.859
@@ -7187,40 +7284,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "20bfd5db08ae"
-    },
-    {
-      "id": "95fabb5847db",
-      "title": "CRISPR wheat that makes its own fertilizer",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251123115435.htm",
-      "published_at": "Mon, 24 Nov 2025 05:00:24 EST",
-      "bullets": [
-        "• CRISPR-enhanced wheat helps soil bacteria generate natural fertilizer, promising cleaner, cheaper, more sustainable farming",
-        "• Breakthrough could cut fertilizer use, reduce pollution, and increase yields for farmers worldwide",
-        "• Development that could lower global air and water pollution and reduce farming expenses "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• CRISPR-enhanced wheat helps soil bacteria generate natural fertilizer, promising cleaner, cheaper, more sustainable farming",
-          "• Breakthrough could cut fertilizer use, reduce pollution, and increase yields for farmers worldwide"
-        ],
-        "hopeful_bullets": [
-          "• CRISPR-enhanced wheat helps soil bacteria generate natural fertilizer, promising cleaner, cheaper, more sustainable farming",
-          "• Breakthrough could cut fertilizer use, reduce pollution, and increase yields for farmers worldwide",
-          "• Development that could lower global air and water pollution and reduce farming expenses "
-        ],
-        "stakes_bullets": [
-          "• Breakthrough could cut fertilizer use, reduce pollution, and increase yields for farmers worldwide",
-          "• Development that could lower global air and water pollution and reduce farming expenses "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "473aee1d0073"
     },
     {
       "id": "55b29dd4a51e",
@@ -7287,37 +7350,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "8730817f33c5"
-    },
-    {
-      "id": "c104584a0748",
-      "title": "What 96,000 adults taught scientists about preventing constipation",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251123115437.htm",
-      "published_at": "Mon, 24 Nov 2025 04:26:37 EST",
-      "bullets": [
-        "• Researchers from Mass General Brigham conducted a new study examining whether five widely followed diets could help prevent chronic constipation in middle and older-age adults",
-        "• Researchers monitored more than 96,000 participants for several years to see how long-term eating habits influenced the likelihood of developing this persistent gastrointestinal issue",
-        "• The findings appear in Gastroenterology "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.893
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers from Mass General Brigham conducted a new study examining whether five widely followed diets could help prevent chronic constipation in middle and older-age adults",
-          "• Researchers monitored more than 96,000 participants for several years to see how long-term eating habits influenced the likelihood of developing this persistent gastrointestinal issue"
-        ],
-        "hopeful_bullets": [
-          "• Researchers from Mass General Brigham conducted a new study examining whether five widely followed diets could help prevent chronic constipation in middle and older-age adults"
-        ],
-        "stakes_bullets": [
-          "• Researchers from Mass General Brigham conducted a new study examining whether five widely followed diets could help prevent chronic constipation in middle and older-age adults"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "0fbbea1a57d5"
     },
     {
       "id": "1dfeb017581e",
@@ -9850,6 +9882,24 @@
       ]
     },
     {
+      "id": "989aca888d83",
+      "topic": "attic book comic found",
+      "keywords": [
+        "attic",
+        "book",
+        "comic",
+        "found",
+        "rare",
+        "superman"
+      ],
+      "item_ids": [
+        "70da6dfdc66e"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "875758d4b599",
       "topic": "100 damaged home houston",
       "keywords": [
@@ -10006,24 +10056,6 @@
       ],
       "item_ids": [
         "bb3f0e221e8f"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "20bfd5db08ae",
-      "topic": "bowhead clue dna fight",
-      "keywords": [
-        "bowhead",
-        "clue",
-        "dna",
-        "fight",
-        "offer",
-        "whale"
-      ],
-      "item_ids": [
-        "d62bde209627"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10868,6 +10900,60 @@
       ]
     },
     {
+      "id": "302fdec548d5",
+      "topic": "glowing laser lightning particle",
+      "keywords": [
+        "glowing",
+        "laser",
+        "lightning",
+        "particle",
+        "reveal",
+        "trap"
+      ],
+      "item_ids": [
+        "2c0e3dcfcb2c"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "13d03de696ef",
+      "topic": "plant space still survived",
+      "keywords": [
+        "plant",
+        "space",
+        "still",
+        "survived",
+        "tiny",
+        "vacuum"
+      ],
+      "item_ids": [
+        "a4994f39c531"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "2c23c057fef4",
+      "topic": "cocoa damage heart hidden",
+      "keywords": [
+        "cocoa",
+        "damage",
+        "heart",
+        "hidden",
+        "protect",
+        "tea"
+      ],
+      "item_ids": [
+        "e856e32eab13"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "70494c10b9de",
       "topic": "find hidden lets scientist",
       "keywords": [
@@ -10994,56 +11080,21 @@
       ]
     },
     {
-      "id": "38ac425bf608",
-      "topic": "pile record sargassum sea",
+      "id": "20bfd5db08ae",
+      "topic": "bowhead clue dna fight",
       "keywords": [
-        "pile",
-        "record",
-        "sargassum",
-        "sea",
-        "trap",
-        "turtle"
+        "bowhead",
+        "clue",
+        "dna",
+        "fight",
+        "offer",
+        "whale"
       ],
       "item_ids": [
-        "381b99a4eb8b"
+        "d62bde209627"
       ],
       "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "0fbbea1a57d5",
-      "topic": "000 adult constipation preventing",
-      "keywords": [
-        "000",
-        "adult",
-        "constipation",
-        "preventing",
-        "scientist",
-        "taught"
-      ],
-      "item_ids": [
-        "c104584a0748"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "473aee1d0073",
-      "topic": "crispr fertilizer make own",
-      "keywords": [
-        "crispr",
-        "fertilizer",
-        "make",
-        "own",
-        "wheat"
-      ],
-      "item_ids": [
-        "95fabb5847db"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
+        "NPR Topics: Science"
       ]
     },
     {
