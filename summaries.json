@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-26T10:07:10Z",
+  "generated_at": "2025-11-26T10:54:07Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -36,38 +36,139 @@
       "cluster_id": "edd5409bb9c9"
     },
     {
-      "id": "46efe3fb0ce0",
-      "title": "European stocks open higher as Fed rate cut expectations rise; UK budget ahead",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/26/european-markets-on-novpoint26-2025-stoxx-600-ftse-fed-autumn-budget.html",
-      "published_at": "Wed, 26 Nov 2025 09:35:31 GMT",
+      "id": "8b6a634b87e4",
+      "title": "Boeing's Next Starliner Flight Will Only Be Allowed to Carry Cargo",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/boeings-next-starliner-flight-will-only-be-allowed-to-carry-cargo/",
+      "published_at": "Wed, 26 Nov 2025 10:00:00 +0000",
       "bullets": [
-        "• The pan-European Stoxx 600 was 0.3% higher by 8:34 a.m",
-        "• in London",
-        "• Most sectors and major regional bourses in positive territory",
-        "• Regional indexes are following their counterparts on Wall Street and in the Asia-Pacific region "
+        "• Next year will be April 2026 to launch the first flight of the Starliner",
+        "• The plan is to carry out six flights to the space station",
+        "• Boeing and SpaceX have agreed to work together to prepare the system for the next flight",
+        "• The first flight will take place in March 2015 "
       ],
-      "category": "Business",
+      "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 0.918
+        "label": "negative",
+        "score": 0.761
       },
       "moods": {
         "brief_bullets": [
-          "• The pan-European Stoxx 600 was 0.3% higher by 8:34 a.m",
-          "• in London"
+          "• Next year will be April 2026 to launch the first flight of the Starliner",
+          "• The plan is to carry out six flights to the space station"
         ],
         "hopeful_bullets": [
-          "• Regional indexes are following their counterparts on Wall Street and in the Asia-Pacific region "
+          "• Next year will be April 2026 to launch the first flight of the Starliner",
+          "• The plan is to carry out six flights to the space station"
         ],
         "stakes_bullets": [
-          "• The pan-European Stoxx 600 was 0.3% higher by 8:34 a.m",
-          "• in London",
-          "• Most sectors and major regional bourses in positive territory"
+          "• Next year will be April 2026 to launch the first flight of the Starliner",
+          "• The plan is to carry out six flights to the space station",
+          "• The first flight will take place in March 2015 "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "f05afa266a2a"
+      "cluster_id": "e4a3e63e1a0b"
+    },
+    {
+      "id": "b8fc9624750e",
+      "title": "Members of America’s Largest Power Grid Can’t Agree on How to Power Data Centers",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/26112025/pjm-interconnection-members-cant-agree-on-data-centers/",
+      "published_at": "Wed, 26 Nov 2025 10:00:00 +0000",
+      "bullets": [
+        "• Members of PJM Interconnection couldn't agree on how to handle power demand from data centers",
+        "• Data center demand is expected to reach 30 gigawatts by 2030",
+        "• Data centers have already driven double-digit increases in electricity prices in New Jersey "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Members of PJM Interconnection couldn't agree on how to handle power demand from data centers",
+          "• Data center demand is expected to reach 30 gigawatts by 2030"
+        ],
+        "hopeful_bullets": [
+          "• Members of PJM Interconnection couldn't agree on how to handle power demand from data centers",
+          "• Data center demand is expected to reach 30 gigawatts by 2030"
+        ],
+        "stakes_bullets": [
+          "• Members of PJM Interconnection couldn't agree on how to handle power demand from data centers",
+          "• Data center demand is expected to reach 30 gigawatts by 2030",
+          "• Data centers have already driven double-digit increases in electricity prices in New Jersey "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "b65189987ba0"
+    },
+    {
+      "id": "030064faf73e",
+      "title": "Maine’s First Major Data Center Project Touts Green Innovation",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/26112025/maine-data-center-green-innovation/",
+      "published_at": "Wed, 26 Nov 2025 09:55:00 +0000",
+      "bullets": [
+        "• The former Loring Air Force Base in Limestone, Maine, could host the state’s first large-scale data center",
+        "• The 450-acre site would host the giant server farm as part of a plan still in its early stages to reinvent part of the base as a hub for green technology "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.578
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The former Loring Air Force Base in Limestone, Maine, could host the state’s first large-scale data center",
+          "• The 450-acre site would host the giant server farm as part of a plan still in its early stages to reinvent part of the base as a hub for green technology "
+        ],
+        "hopeful_bullets": [
+          "• The former Loring Air Force Base in Limestone, Maine, could host the state’s first large-scale data center",
+          "• The 450-acre site would host the giant server farm as part of a plan still in its early stages to reinvent part of the base as a hub for green technology "
+        ],
+        "stakes_bullets": [
+          "• The former Loring Air Force Base in Limestone, Maine, could host the state’s first large-scale data center",
+          "• The 450-acre site would host the giant server farm as part of a plan still in its early stages to reinvent part of the base as a hub for green technology "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "b80c25abc4bf"
+    },
+    {
+      "id": "ebe5734f7db6",
+      "title": "County Planning Commission in Virginia Delays Vote Again on Proposed Gas Plant That Aims to Link to PJM Grid",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/26112025/virginia-fluvanna-county-planning-commission-proposed-gas-plant-pjm/",
+      "published_at": "Wed, 26 Nov 2025 09:50:00 +0000",
+      "bullets": [
+        "• Plant would feed into PJM Interconnection, a pivotal electrical grid in the U.S",
+        "• Tenaska asked for the delay in part because some commission members indicated they wanted more review time",
+        "• Plant would be an advisory to the County Board of Supervisors, which has final approval "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Plant would feed into PJM Interconnection, a pivotal electrical grid in the U.S",
+          "• Tenaska asked for the delay in part because some commission members indicated they wanted more review time"
+        ],
+        "hopeful_bullets": [
+          "• Plant would feed into PJM Interconnection, a pivotal electrical grid in the U.S",
+          "• Tenaska asked for the delay in part because some commission members indicated they wanted more review time"
+        ],
+        "stakes_bullets": [
+          "• Plant would feed into PJM Interconnection, a pivotal electrical grid in the U.S",
+          "• Tenaska asked for the delay in part because some commission members indicated they wanted more review time",
+          "• Plant would be an advisory to the County Board of Supervisors, which has final approval "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "e301a7cfc28a"
     },
     {
       "id": "a8c19a20cf49",
@@ -204,39 +305,6 @@
       "cluster_id": "d7acfefd6e48"
     },
     {
-      "id": "50c587e66684",
-      "title": "Taiwan's President Lai lashes out against Beijing, pledges $40 billion in additional defense budget",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/26/taiwan-president-lai-china-japan-xi-trump-defense.html",
-      "published_at": "Wed, 26 Nov 2025 08:18:26 GMT",
-      "bullets": [
-        "• President Lai Ching-te: China has increased military drills and so-called \"gray-zone harassment\" around Taiwan",
-        "• Beijing has intensified its \"infiltration and influence campaign,\" he said",
-        "• Taiwan will introduce a supplementary defense budget of $40 billion, Lai said "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.968
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Lai Ching-te: China has increased military drills and so-called \"gray-zone harassment\" around Taiwan",
-          "• Beijing has intensified its \"infiltration and influence campaign,\" he said"
-        ],
-        "hopeful_bullets": [
-          "• President Lai Ching-te: China has increased military drills and so-called \"gray-zone harassment\" around Taiwan",
-          "• Beijing has intensified its \"infiltration and influence campaign,\" he said"
-        ],
-        "stakes_bullets": [
-          "• President Lai Ching-te: China has increased military drills and so-called \"gray-zone harassment\" around Taiwan",
-          "• Taiwan will introduce a supplementary defense budget of $40 billion, Lai said "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "17b589c5cc81"
-    },
-    {
       "id": "650fd1e0b61a",
       "title": "Israel confirms Hamas and PIJ returned body of Gaza hostage Dror Or",
       "outlet": "BBC News",
@@ -269,37 +337,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "1189870e14c4"
-    },
-    {
-      "id": "9d0fd8120950",
-      "title": "Asia-Pacific markets track Wall Street gains on rising Fed rate-cut expectations",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/26/asia-pacific-markets-live-nikkei-225-hang-seng-csi300-.html",
-      "published_at": "Wed, 26 Nov 2025 08:02:16 GMT",
-      "bullets": [
-        "• Japan's benchmark Nikkei 225 jumped 1.85% to close at 49,559.07, led by utilities, real estate and financials sectors",
-        "• Markets are pricing in a more than 84% chance that the Fed would cut rates in December "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.919
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's benchmark Nikkei 225 jumped 1.85% to close at 49,559.07, led by utilities, real estate and financials sectors",
-          "• Markets are pricing in a more than 84% chance that the Fed would cut rates in December "
-        ],
-        "hopeful_bullets": [
-          "• Japan's benchmark Nikkei 225 jumped 1.85% to close at 49,559.07, led by utilities, real estate and financials sectors",
-          "• Markets are pricing in a more than 84% chance that the Fed would cut rates in December "
-        ],
-        "stakes_bullets": [
-          "• Markets are pricing in a more than 84% chance that the Fed would cut rates in December "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d3a8563eaf07"
     },
     {
       "id": "3861b342f04c",
@@ -368,39 +405,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "32127edaa1db"
-    },
-    {
-      "id": "5008e9bea542",
-      "title": "Australia's consumer inflation accelerates to 3.8% in October, overshooting estimates",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/26/australia-inflation-cpi-in-october-estimates-beat.html",
-      "published_at": "Wed, 26 Nov 2025 07:15:37 GMT",
-      "bullets": [
-        "• Consumer price index rose 3.8% in October, year on year, marking its fastest pace since April",
-        "• That was higher than economists' average estimate for a 3.6% rise in a Reuters poll",
-        "• The largest contributor to consumer inflation was the housing sector that saw price growth of 5.9%",
-        "• Electricity costs surged 37.1% as households used up government rebates for power bills "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.696
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Consumer price index rose 3.8% in October, year on year, marking its fastest pace since April",
-          "• That was higher than economists' average estimate for a 3.6% rise in a Reuters poll"
-        ],
-        "hopeful_bullets": [
-          "• The largest contributor to consumer inflation was the housing sector that saw price growth of 5.9%",
-          "• Electricity costs surged 37.1% as households used up government rebates for power bills "
-        ],
-        "stakes_bullets": [
-          "• Electricity costs surged 37.1% as households used up government rebates for power bills "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "be76aa7dae43"
     },
     {
       "id": "29223d8775ba",
@@ -575,31 +579,31 @@
       "url": "https://www.wired.com/story/top-walmart-promo-codes/",
       "published_at": "Wed, 26 Nov 2025 06:30:00 +0000",
       "bullets": [
-        "• Save $10 off your next purchase with our Walmart coupon code, TRIPLE10",
-        "• Walmart has thousands of flash deals that change weekly, with up to 65% off tech, appliances, end-of-season and holiday items",
-        "• You can also enjoy great benefits with Walmart+"
+        "• Walmart will open at 6 a.m",
+        "• local time on Black Friday, although stores will be closed on Thanksgiving Day",
+        "• With our limited-time Walmart coupon code, you can take $10 off your next purchase now until the end of the year",
+        "• Discounts include Apple AirPods 4, now $69 (originally $130) and the Dreo HEPA Air Purifier "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 0.998
+        "label": "negative",
+        "score": 0.988
       },
       "moods": {
         "brief_bullets": [
-          "• Save $10 off your next purchase with our Walmart coupon code, TRIPLE10",
-          "• Walmart has thousands of flash deals that change weekly, with up to 65% off tech, appliances, end-of-season and holiday items"
+          "• Walmart will open at 6 a.m",
+          "• local time on Black Friday, although stores will be closed on Thanksgiving Day"
         ],
         "hopeful_bullets": [
-          "• Save $10 off your next purchase with our Walmart coupon code, TRIPLE10",
-          "• Walmart has thousands of flash deals that change weekly, with up to 65% off tech, appliances, end-of-season and holiday items"
+          "• Walmart will open at 6 a.m",
+          "• local time on Black Friday, although stores will be closed on Thanksgiving Day"
         ],
         "stakes_bullets": [
-          "• Save $10 off your next purchase with our Walmart coupon code, TRIPLE10",
-          "• Walmart has thousands of flash deals that change weekly, with up to 65% off tech, appliances, end-of-season and holiday items",
-          "• You can also enjoy great benefits with Walmart+"
+          "• Walmart will open at 6 a.m",
+          "• local time on Black Friday, although stores will be closed on Thanksgiving Day"
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "7a1bf2cf5eca"
     },
     {
@@ -763,36 +767,72 @@
       "cluster_id": "bdeeb1482be2"
     },
     {
-      "id": "b69a3f2e64ad",
-      "title": "HBO Max Promo Code: 50% Off | November 2025",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/max-promo-code/",
-      "published_at": "Wed, 26 Nov 2025 06:00:00 +0000",
+      "id": "35863ee4867f",
+      "title": "How the turkey trotted its way onto our Thanksgiving tables — and into our lexicon",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/26/nx-s1-5612661/turkey-word-origin-thanksgiving",
+      "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
       "bullets": [
-        "• HBO Max Black Friday sales are here, with plans starting at just $3 per month for 12 months",
-        "• That’s 70% less, with access to the DC Universe, Harry Potter, and so much more",
-        "• WIRED has the perfect promo codes to help you save on these sometimes-pricey subscription plans "
+        "• This year, 30 million Americans are expected to eat about 30 million of them on Thanksgiving",
+        "• The turkey's early history is shrouded in uncertainty, historians and etymologists say",
+        "• The species of turkey that we know today, meleagris gallopavo, was domesticated in the Americas centuries before Europeans "
       ],
-      "category": "Technology",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.988
       },
       "moods": {
         "brief_bullets": [
-          "• HBO Max Black Friday sales are here, with plans starting at just $3 per month for 12 months",
-          "• That’s 70% less, with access to the DC Universe, Harry Potter, and so much more"
+          "• This year, 30 million Americans are expected to eat about 30 million of them on Thanksgiving",
+          "• The turkey's early history is shrouded in uncertainty, historians and etymologists say"
         ],
         "hopeful_bullets": [
-          "• WIRED has the perfect promo codes to help you save on these sometimes-pricey subscription plans "
+          "• This year, 30 million Americans are expected to eat about 30 million of them on Thanksgiving",
+          "• The turkey's early history is shrouded in uncertainty, historians and etymologists say"
         ],
         "stakes_bullets": [
-          "• HBO Max Black Friday sales are here, with plans starting at just $3 per month for 12 months",
-          "• WIRED has the perfect promo codes to help you save on these sometimes-pricey subscription plans "
+          "• This year, 30 million Americans are expected to eat about 30 million of them on Thanksgiving"
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "c73f6e93ada5"
+      "cluster_id": "954bdce0a552"
+    },
+    {
+      "id": "02062fa3096c",
+      "title": "The U.S. produces a lot of food waste. This place wants to address it",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/26/g-s1-99287/the-u-s-produces-a-lot-of-food-waste-this-place-wants-to-address-it",
+      "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• The U.S",
+        "• produces a lot of food waste",
+        "• Americans toss out some 30-40% of the food produced",
+        "• The EPA says that methane is some 28 times more potent than carbon dioxide at trapping heat in the atmosphere",
+        "• Experts say the holiday season compounds the problem "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The U.S",
+          "• produces a lot of food waste"
+        ],
+        "hopeful_bullets": [
+          "• The U.S",
+          "• produces a lot of food waste"
+        ],
+        "stakes_bullets": [
+          "• The U.S",
+          "• produces a lot of food waste",
+          "• Americans toss out some 30-40% of the food produced"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "57c1f5751537"
     },
     {
       "id": "daabef0734e9",
@@ -825,6 +865,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "cc91a59b5bb0"
+    },
+    {
+      "id": "f5f9b8416f3b",
+      "title": "Pope Leo XIV to visit Turkey and Lebanon on first foreign trip",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/26/g-s1-99448/pope-leo-xiv-first-foreign-trip",
+      "published_at": "Wed, 26 Nov 2025 04:55:34 -0500",
+      "bullets": [
+        "• Pope Leo XIV is embarking on his first foreign trip, a pilgrimage to Turkey and Lebanon",
+        "• The trip is being covered closely by U.S",
+        "• media, with all major networks — ABC, CBS, NBC and Fox as well as CNN and the BBC — inside Leo's travelling pool",
+        "• Leo is fulfilling a trip Pope Francis planned to make, to mark an important anniversary with the Orthodox church in Turkey "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Pope Leo XIV is embarking on his first foreign trip, a pilgrimage to Turkey and Lebanon",
+          "• The trip is being covered closely by U.S"
+        ],
+        "hopeful_bullets": [
+          "• Pope Leo XIV is embarking on his first foreign trip, a pilgrimage to Turkey and Lebanon",
+          "• The trip is being covered closely by U.S"
+        ],
+        "stakes_bullets": [
+          "• Pope Leo XIV is embarking on his first foreign trip, a pilgrimage to Turkey and Lebanon",
+          "• Leo is fulfilling a trip Pope Francis planned to make, to mark an important anniversary with the Orthodox church in Turkey "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "7aff385fd470"
     },
     {
       "id": "0de29a53757e",
@@ -1561,6 +1635,41 @@
       "cluster_id": "a306ae799fd8"
     },
     {
+      "id": "fc0ac9ef2fc0",
+      "title": "‘Rush Hour 4’ revived after Trump urged Paramount Skydance to resurrect franchise: Reports",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/25/trump-pushed-paramount-revive-rush-hour-4-reports-say.html",
+      "published_at": "Wed, 26 Nov 2025 02:33:04 GMT",
+      "bullets": [
+        "• Paramount has secured funding for \"Rush Hour 4\" and struck a distribution arrangement with Warner Bros",
+        "• Discovery",
+        "• The project had been in limbo for years, but had balked at working with director Brett Ratner",
+        "• Ratner's career collapsed in 2017 after several female actors accused him of sexual misconduct "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Paramount has secured funding for \"Rush Hour 4\" and struck a distribution arrangement with Warner Bros",
+          "• Discovery"
+        ],
+        "hopeful_bullets": [
+          "• Paramount has secured funding for \"Rush Hour 4\" and struck a distribution arrangement with Warner Bros",
+          "• Discovery"
+        ],
+        "stakes_bullets": [
+          "• Paramount has secured funding for \"Rush Hour 4\" and struck a distribution arrangement with Warner Bros",
+          "• Discovery",
+          "• The project had been in limbo for years, but had balked at working with director Brett Ratner"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d35ef079e3ff"
+    },
+    {
       "id": "c0c591ca88e7",
       "title": "Minnesotans gear up to fight Trump ending Somalis’ temporary protected status",
       "outlet": "US news | The Guardian",
@@ -1593,6 +1702,42 @@
       },
       "read_minutes": 3,
       "cluster_id": "3a9a0d630c87"
+    },
+    {
+      "id": "4326361258e0",
+      "title": "FBI seeks to interview Sen. Mark Kelly, other Democrats Trump accused of seditious behavior",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/25/trump-fbi-mark-kelly-democrats-pentagon-video.html",
+      "published_at": "Wed, 26 Nov 2025 02:08:10 GMT",
+      "bullets": [
+        "• The FBI is seeking to interview Sen",
+        "• Mark Kelly of Arizona and five other congressional Democrats",
+        "• They appear in a video encouraging members of the U.S",
+        "• military to refuse to follow illegal orders",
+        "• President Trump last week blasted the video, accusing Kelly and the other lawmakers of \"seditious behavior\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The FBI is seeking to interview Sen",
+          "• Mark Kelly of Arizona and five other congressional Democrats"
+        ],
+        "hopeful_bullets": [
+          "• The FBI is seeking to interview Sen",
+          "• Mark Kelly of Arizona and five other congressional Democrats"
+        ],
+        "stakes_bullets": [
+          "• The FBI is seeking to interview Sen",
+          "• Mark Kelly of Arizona and five other congressional Democrats",
+          "• They appear in a video encouraging members of the U.S"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "54dc6ea697e6"
     },
     {
       "id": "4c8661f579db",
@@ -1824,6 +1969,37 @@
       },
       "read_minutes": 2,
       "cluster_id": "7ec61acab902"
+    },
+    {
+      "id": "39265f1ddda2",
+      "title": "Workday stock slips on light quarterly margin guidance",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/25/workday-wday-q3-earnings-report-2026.html",
+      "published_at": "Wed, 26 Nov 2025 00:56:12 GMT",
+      "bullets": [
+        "• Workday shares slid more than 5% in extended trading Tuesday after the company issued quarterly margin guidance that came in below Wall Street projections",
+        "• The finance and human resources software maker forecast a fourth-quarter adjusted operating margin of at least 28.5% and $2.355 billion in subscription revenue "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Workday shares slid more than 5% in extended trading Tuesday after the company issued quarterly margin guidance that came in below Wall Street projections",
+          "• The finance and human resources software maker forecast a fourth-quarter adjusted operating margin of at least 28.5% and $2.355 billion in subscription revenue "
+        ],
+        "hopeful_bullets": [
+          "• Workday shares slid more than 5% in extended trading Tuesday after the company issued quarterly margin guidance that came in below Wall Street projections",
+          "• The finance and human resources software maker forecast a fourth-quarter adjusted operating margin of at least 28.5% and $2.355 billion in subscription revenue "
+        ],
+        "stakes_bullets": [
+          "• The finance and human resources software maker forecast a fourth-quarter adjusted operating margin of at least 28.5% and $2.355 billion in subscription revenue "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "300407fe835c"
     },
     {
       "id": "2cd567e0f131",
@@ -2689,6 +2865,38 @@
       "cluster_id": "9bf0e90d1be3"
     },
     {
+      "id": "841481650450",
+      "title": "Dell misses on revenue, offers strong forecast driven by AI sales",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/25/dell-earnings-report-q3-2026.html",
+      "published_at": "Tue, 25 Nov 2025 22:47:02 GMT",
+      "bullets": [
+        "• The company is an important bellwether for the health of the AI infrastructure industry as one of the top vendors for systems based around Nvidia's graphics processors",
+        "• The company raised its full-year revenue guidance to $111.7 billion from $107 billion",
+        "• Overall revenue in the quarter rose 11% on an annual basis "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.974
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The company is an important bellwether for the health of the AI infrastructure industry as one of the top vendors for systems based around Nvidia's graphics processors",
+          "• The company raised its full-year revenue guidance to $111.7 billion from $107 billion"
+        ],
+        "hopeful_bullets": [
+          "• The company is an important bellwether for the health of the AI infrastructure industry as one of the top vendors for systems based around Nvidia's graphics processors",
+          "• The company raised its full-year revenue guidance to $111.7 billion from $107 billion"
+        ],
+        "stakes_bullets": [
+          "• The company raised its full-year revenue guidance to $111.7 billion from $107 billion"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "30f6b64c1c94"
+    },
+    {
       "id": "94788d9319fa",
       "title": "There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests",
       "outlet": "Ars Technica - All content",
@@ -2856,36 +3064,38 @@
       "cluster_id": "51a2d97ec1f3"
     },
     {
-      "id": "295890d29cb7",
-      "title": "Trump pardons Thanksgiving turkeys, blasts Biden and says Ukraine peace deal is ‘very close’",
+      "id": "97add4eb9567",
+      "title": "A third high-profile tech leader is leaving GM as part of a software-product restructuring",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/25/trump-turkey-pardon-biden-ukraine-2025.html",
-      "published_at": "Tue, 25 Nov 2025 21:33:45 GMT",
+      "url": "https://www.cnbc.com/2025/11/25/gm-software-leader-baris-cetinok-leaving.html",
+      "published_at": "Tue, 25 Nov 2025 21:30:02 GMT",
       "bullets": [
-        "• President Donald Trump pardons two turkeys in the Rose Garden ceremony",
-        "• The birds were raised on a small farm in Wayne County, North Carolina",
-        "• Trump also suggested a U.S.-brokered peace deal between Ukraine and Russia could come to fruition "
+        "• Baris Cetinok, GM's senior vice president of software and services product management, will depart Dec",
+        "• 12",
+        "• He is the third tech-turned-auto executive to leave GM in roughly a month amid a restructuring of its software and product businesses",
+        "• GM: \"With hardware and software engineering unified under Global Product, we're integrating product management with engineering\""
       ],
       "category": "Business",
       "sentiment": {
-        "label": "positive",
-        "score": 0.651
+        "label": "negative",
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• President Donald Trump pardons two turkeys in the Rose Garden ceremony",
-          "• The birds were raised on a small farm in Wayne County, North Carolina"
+          "• Baris Cetinok, GM's senior vice president of software and services product management, will depart Dec",
+          "• 12"
         ],
         "hopeful_bullets": [
-          "• President Donald Trump pardons two turkeys in the Rose Garden ceremony",
-          "• The birds were raised on a small farm in Wayne County, North Carolina"
+          "• Baris Cetinok, GM's senior vice president of software and services product management, will depart Dec",
+          "• 12"
         ],
         "stakes_bullets": [
-          "• Trump also suggested a U.S.-brokered peace deal between Ukraine and Russia could come to fruition "
+          "• Baris Cetinok, GM's senior vice president of software and services product management, will depart Dec",
+          "• He is the third tech-turned-auto executive to leave GM in roughly a month amid a restructuring of its software and product businesses"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "48fffd1b66eb"
+      "read_minutes": 2,
+      "cluster_id": "9195a34acf0d"
     },
     {
       "id": "ad347a48ea91",
@@ -3357,6 +3567,40 @@
       "cluster_id": "3fe263c5f2c7"
     },
     {
+      "id": "0879adedb112",
+      "title": "IRS releases guidance for Trump's tips, overtime deductions. What workers need to know",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/25/irs-guidance-trump-tips-overtime-deductions.html",
+      "published_at": "Tue, 25 Nov 2025 19:48:02 GMT",
+      "bullets": [
+        "• The IRS has released guidance for workers who can claim the federal deduction for tips and overtime pay",
+        "• The tip provision allows certain workers to deduct up to $25,000 in \"qualified tips\" from 2025 through 2028",
+        "• The tax break phases out once modified adjusted gross income exceeds $150,000 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The IRS has released guidance for workers who can claim the federal deduction for tips and overtime pay",
+          "• The tip provision allows certain workers to deduct up to $25,000 in \"qualified tips\" from 2025 through 2028"
+        ],
+        "hopeful_bullets": [
+          "• The IRS has released guidance for workers who can claim the federal deduction for tips and overtime pay",
+          "• The tip provision allows certain workers to deduct up to $25,000 in \"qualified tips\" from 2025 through 2028"
+        ],
+        "stakes_bullets": [
+          "• The IRS has released guidance for workers who can claim the federal deduction for tips and overtime pay",
+          "• The tip provision allows certain workers to deduct up to $25,000 in \"qualified tips\" from 2025 through 2028",
+          "• The tax break phases out once modified adjusted gross income exceeds $150,000 "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "30e112bbb077"
+    },
+    {
       "id": "49ab78fca810",
       "title": "‘Scream’ Meets ‘Barbie’ in Lindy Ryan’s Upcoming Slasher Novel ‘Dollface’",
       "outlet": "Bloody Disgusting!",
@@ -3587,38 +3831,6 @@
       "cluster_id": "28853d81436e"
     },
     {
-      "id": "46db8700d891",
-      "title": "Why rural Wisconsin is blocking the AI data center boom: 'Horses are skittish'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/25/microsoft-ai-data-center-rejection-vs-support.html",
-      "published_at": "Tue, 25 Nov 2025 18:33:31 GMT",
-      "bullets": [
-        "• Microsoft sought to rezone 244 acres of agricultural land for a data center in Caledonia, Wisconsin",
-        "• In September, 40 of the 49 people who spoke before the village's planning commission opposed the plan",
-        "• Microsoft walked away, pledging to find another location in the region "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Microsoft sought to rezone 244 acres of agricultural land for a data center in Caledonia, Wisconsin",
-          "• In September, 40 of the 49 people who spoke before the village's planning commission opposed the plan"
-        ],
-        "hopeful_bullets": [
-          "• Microsoft sought to rezone 244 acres of agricultural land for a data center in Caledonia, Wisconsin",
-          "• In September, 40 of the 49 people who spoke before the village's planning commission opposed the plan"
-        ],
-        "stakes_bullets": [
-          "• In September, 40 of the 49 people who spoke before the village's planning commission opposed the plan"
-        ]
-      },
-      "read_minutes": 15,
-      "cluster_id": "6b339d10be9c"
-    },
-    {
       "id": "88e68f928d0d",
       "title": "Public Playtest Available Now for Brazilian Folk Horror Fishing Game ‘Drowned Lake’ [Trailer]",
       "outlet": "Bloody Disgusting!",
@@ -3652,6 +3864,37 @@
       },
       "read_minutes": 1,
       "cluster_id": "f63e4fc04f0b"
+    },
+    {
+      "id": "84f81857ae7f",
+      "title": "Binance sued by Oct. 7 victims' families for allegedly aiding Hamas through crypto exchange",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/25/binance-trump-crypto-lawsuit-pardon.html",
+      "published_at": "Tue, 25 Nov 2025 18:21:07 GMT",
+      "bullets": [
+        "• Dozens of families of the victims of Hamas attacks in Israel sue Binance",
+        "• They allege the top cryptocurrency trading platform knowingly helped transfer hundreds of millions of dollars in support of terrorist activities",
+        "• Binance founder Changpeng Zhao was pardoned last month after pleading guilty to failing to combat money laundering on the crypto exchange "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dozens of families of the victims of Hamas attacks in Israel sue Binance",
+          "• They allege the top cryptocurrency trading platform knowingly helped transfer hundreds of millions of dollars in support of terrorist activities"
+        ],
+        "hopeful_bullets": [
+          "• They allege the top cryptocurrency trading platform knowingly helped transfer hundreds of millions of dollars in support of terrorist activities"
+        ],
+        "stakes_bullets": [
+          "• Binance founder Changpeng Zhao was pardoned last month after pleading guilty to failing to combat money laundering on the crypto exchange "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a853e70779a9"
     },
     {
       "id": "8ac60a65f15a",
@@ -3819,39 +4062,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "81f7f2dd4c62"
-    },
-    {
-      "id": "e7013cd94095",
-      "title": "Sellers are taking their homes off the market at the fastest pace in nearly a decade",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/25/home-sellers-delisting-redfin.html",
-      "published_at": "Tue, 25 Nov 2025 17:03:37 GMT",
-      "bullets": [
-        "• 85,000 U.S",
-        "• sellers took their homes off the market in September, up 28% from September 2024",
-        "• Redfin: 70% of listings in September were on the market for 60 days or longer",
-        "• Some sellers are lowering prices — even multiple times — to $25,000 in cumulative price cuts "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 85,000 U.S",
-          "• sellers took their homes off the market in September, up 28% from September 2024"
-        ],
-        "hopeful_bullets": [
-          "• 85,000 U.S",
-          "• sellers took their homes off the market in September, up 28% from September 2024"
-        ],
-        "stakes_bullets": [
-          "• Some sellers are lowering prices — even multiple times — to $25,000 in cumulative price cuts "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f80f438a2b42"
     },
     {
       "id": "d245c2550b53",
@@ -4023,10 +4233,10 @@
       "url": "https://www.npr.org/2025/11/25/nx-s1-5620714/galapagos-tortoise-gramma-san-diego-zoo-dies-age-141",
       "published_at": "Tue, 25 Nov 2025 16:35:44 -0500",
       "bullets": [
-        "• Gramma the Galápagos tortoise was born in 1884",
+        "• Gramma the Galápagos tortoise was born on the volcanic chain of Pacific islands in 1884",
         "• She lived through the fall of empires, two world wars and more than 20 U.S",
         "• presidents",
-        "• The tortoise, who lived at the San Diego Zoo, died Thursday at 141 "
+        "• The tortoise, who lived for a century at the San Diego Zoo, died Thursday at 141 "
       ],
       "category": "General",
       "sentiment": {
@@ -4035,15 +4245,15 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Gramma the Galápagos tortoise was born in 1884",
+          "• Gramma the Galápagos tortoise was born on the volcanic chain of Pacific islands in 1884",
           "• She lived through the fall of empires, two world wars and more than 20 U.S"
         ],
         "hopeful_bullets": [
-          "• Gramma the Galápagos tortoise was born in 1884",
+          "• Gramma the Galápagos tortoise was born on the volcanic chain of Pacific islands in 1884",
           "• She lived through the fall of empires, two world wars and more than 20 U.S"
         ],
         "stakes_bullets": [
-          "• Gramma the Galápagos tortoise was born in 1884",
+          "• Gramma the Galápagos tortoise was born on the volcanic chain of Pacific islands in 1884",
           "• She lived through the fall of empires, two world wars and more than 20 U.S",
           "• presidents"
         ]
@@ -4119,37 +4329,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "1a772f303859"
-    },
-    {
-      "id": "f5093760ad41",
-      "title": "When private equity invests in youth sports facilities",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/25/nx-s1-5616428/when-private-equity-invests-in-youth-sports-facilities",
-      "published_at": "Tue, 25 Nov 2025 16:06:56 -0500",
-      "bullets": [
-        "• A new report from The Lever examines how restrictive streaming practices have become widespread in youth hockey and increasingly in many youth sports held at corporate-owned facilities",
-        "• Connecticut Senator Chris Murphy says a private equity company had bought up a bunch of ice rinks, installed video cameras, and all of them charged subscription fees to access their footage "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.953
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A new report from The Lever examines how restrictive streaming practices have become widespread in youth hockey and increasingly in many youth sports held at corporate-owned facilities",
-          "• Connecticut Senator Chris Murphy says a private equity company had bought up a bunch of ice rinks, installed video cameras, and all of them charged subscription fees to access their footage "
-        ],
-        "hopeful_bullets": [
-          "• A new report from The Lever examines how restrictive streaming practices have become widespread in youth hockey and increasingly in many youth sports held at corporate-owned facilities",
-          "• Connecticut Senator Chris Murphy says a private equity company had bought up a bunch of ice rinks, installed video cameras, and all of them charged subscription fees to access their footage "
-        ],
-        "stakes_bullets": [
-          "• Connecticut Senator Chris Murphy says a private equity company had bought up a bunch of ice rinks, installed video cameras, and all of them charged subscription fees to access their footage "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "b857588e3eba"
     },
     {
       "id": "cff342af1f3c",
@@ -4319,7 +4498,7 @@
     {
       "id": "8937e6429efe",
       "title": "The case against Comey failed because of Trump's prosecutor. Who is she?",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/11/25/nx-s1-5620636/lindsey-halligan-us-attorney-unlawful-comey-james",
       "published_at": "Tue, 25 Nov 2025 13:43:33 -0500",
       "bullets": [
@@ -4329,7 +4508,7 @@
         "• A federal judge ruled in dual opinions that Halligan's appointment was unlawful",
         "• Halligan served as one of President Trump's personal lawyers after his first term "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.996
@@ -4354,7 +4533,7 @@
     {
       "id": "b065093a698a",
       "title": "A former U.S. attorney offers 'A Manual for Keeping a Democracy'",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/11/25/nx-s1-5619202/a-former-u-s-attorney-offers-a-manual-for-keeping-a-democracy",
       "published_at": "Tue, 25 Nov 2025 12:29:24 -0500",
       "bullets": [
@@ -4363,7 +4542,7 @@
         "• She resigned in 2017, a day before Trump's first inauguration",
         "• Vance: How her son helped her understand Gen Z's view of defending democracy "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "positive",
         "score": 0.975
@@ -4794,25 +4973,25 @@
       "url": "https://www.npr.org/2025/11/25/nx-s1-5615326/rural-voters-congress-health-care-voting-invest",
       "published_at": "Tue, 25 Nov 2025 08:00:00 -0500",
       "bullets": [
-        "• The Democratic Congressional Campaign Committee says it has a new program dedicated to engaging rural voters",
-        "• Suzan DelBene, who chairs the DCCC, said rural voters see the \"damage\" being done by GOP policies that have led to \"costs going up, health care being gutted,\" she said "
+        "• Democrats plan a new investment in winning rural voters, who've fled the party",
+        "• This is the first time, the Democratic Congressional Campaign Committee says, that it's had a program specifically dedicated to engaging rural voters",
+        "• Suzan DelBene, who chairs the DCCC and represents Washington's 1st Congressional District, said rural voters see the \"damage\" being done by GOP policies "
       ],
       "category": "Politics",
       "sentiment": {
         "label": "negative",
-        "score": 0.984
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
-          "• The Democratic Congressional Campaign Committee says it has a new program dedicated to engaging rural voters",
-          "• Suzan DelBene, who chairs the DCCC, said rural voters see the \"damage\" being done by GOP policies that have led to \"costs going up, health care being gutted,\" she said "
+          "• Democrats plan a new investment in winning rural voters, who've fled the party",
+          "• This is the first time, the Democratic Congressional Campaign Committee says, that it's had a program specifically dedicated to engaging rural voters"
         ],
         "hopeful_bullets": [
-          "• The Democratic Congressional Campaign Committee says it has a new program dedicated to engaging rural voters",
-          "• Suzan DelBene, who chairs the DCCC, said rural voters see the \"damage\" being done by GOP policies that have led to \"costs going up, health care being gutted,\" she said "
+          "• Democrats plan a new investment in winning rural voters, who've fled the party"
         ],
         "stakes_bullets": [
-          "• Suzan DelBene, who chairs the DCCC, said rural voters see the \"damage\" being done by GOP policies that have led to \"costs going up, health care being gutted,\" she said "
+          "• Democrats plan a new investment in winning rural voters, who've fled the party"
         ]
       },
       "read_minutes": 4,
@@ -4851,38 +5030,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "4eb08692267f"
-    },
-    {
-      "id": "49f277b4acde",
-      "title": "A tradition for turkeys: Another presidential pardon",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/25/nx-s1-5620579/turkey-presidential-pardon",
-      "published_at": "Tue, 25 Nov 2025 06:31:43 -0500",
-      "bullets": [
-        "• Two turkeys will be pardoned at the White House in Washington, D.C., for the first time in 20 years",
-        "• They will be sent to North Carolina State University in 2022 for \"Chocolate\" and \"Chip\" People have been sending turkeys to presidents since the late 19th century, but they were always meant to be eaten "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.92
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Two turkeys will be pardoned at the White House in Washington, D.C., for the first time in 20 years",
-          "• They will be sent to North Carolina State University in 2022 for \"Chocolate\" and \"Chip\" People have been sending turkeys to presidents since the late 19th century, but they were always meant to be eaten "
-        ],
-        "hopeful_bullets": [
-          "• Two turkeys will be pardoned at the White House in Washington, D.C., for the first time in 20 years",
-          "• They will be sent to North Carolina State University in 2022 for \"Chocolate\" and \"Chip\" People have been sending turkeys to presidents since the late 19th century, but they were always meant to be eaten "
-        ],
-        "stakes_bullets": [
-          "• Two turkeys will be pardoned at the White House in Washington, D.C., for the first time in 20 years",
-          "• They will be sent to North Carolina State University in 2022 for \"Chocolate\" and \"Chip\" People have been sending turkeys to presidents since the late 19th century, but they were always meant to be eaten "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b99e3e7ca619"
     },
     {
       "id": "1c7af75914b4",
@@ -4950,42 +5097,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "647cd1a2f62d"
-    },
-    {
-      "id": "1da3f2872cd3",
-      "title": "Utah Gov. Cox appealed for civility after Charlie Kirk's murder. Did America listen?",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/11/25/nx-s1-5615342/spencer-cox-utah-trump-charlie-kirk-civility",
-      "published_at": "Tue, 25 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• Utah Gov",
-        "• Spencer Cox called for civility after Charlie Kirk’s murder",
-        "• Cox: \"Politics is replacing religion\" in the U.S",
-        "• He says people heard and embraced his message in September",
-        "• NPR sat with Cox for a conversation on the state of the country "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.856
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Utah Gov",
-          "• Spencer Cox called for civility after Charlie Kirk’s murder"
-        ],
-        "hopeful_bullets": [
-          "• Utah Gov",
-          "• Spencer Cox called for civility after Charlie Kirk’s murder"
-        ],
-        "stakes_bullets": [
-          "• Utah Gov",
-          "• Spencer Cox called for civility after Charlie Kirk’s murder",
-          "• Cox: \"Politics is replacing religion\" in the U.S"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2fdf0f57393f"
     },
     {
       "id": "f111cd04c395",
@@ -5583,41 +5694,6 @@
       "cluster_id": "d26a3bf750aa"
     },
     {
-      "id": "cf363c5ae463",
-      "title": "Fire prompts evacuations at U.N. climate talks in Brazil; 13 suffer smoke inhalation",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/20/g-s1-98669/fire-united-nations-climate-talks-brazil-cop30",
-      "published_at": "Thu, 20 Nov 2025 19:35:12 -0500",
-      "bullets": [
-        "• Fire prompts evacuations at U.N",
-        "• climate talks in Brazil; 13 suffer smoke inhalation",
-        "• Video shows huge flames in one of the pavilions, which are reinforced canvas or fabric structures",
-        "• It wasn't clear when the conference, known as COP30, would resume "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Fire prompts evacuations at U.N",
-          "• climate talks in Brazil; 13 suffer smoke inhalation"
-        ],
-        "hopeful_bullets": [
-          "• Fire prompts evacuations at U.N",
-          "• climate talks in Brazil; 13 suffer smoke inhalation"
-        ],
-        "stakes_bullets": [
-          "• Fire prompts evacuations at U.N",
-          "• climate talks in Brazil; 13 suffer smoke inhalation",
-          "• Video shows huge flames in one of the pavilions, which are reinforced canvas or fabric structures"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4b9c817677f0"
-    },
-    {
       "id": "e4206df3c9c7",
       "title": "In Case You Missed It: RUFUS Coming November 25 – Request Your Review Screener Today! ﻿",
       "outlet": "HorrorFix",
@@ -5847,40 +5923,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "0670de235812"
-    },
-    {
-      "id": "12c9fc873dc8",
-      "title": "'Nightmare Obscura' author explains how to take control of your dreams",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/20/nx-s1-5609173/nightmare-obscura-author-explains-how-to-take-control-of-your-dreams",
-      "published_at": "Thu, 20 Nov 2025 11:41:44 -0500",
-      "bullets": [
-        "• 'Nightmare Obscura' author Michelle Carr explains how to take control of your dreams",
-        "• She explains how sensory inputs like light, sound and vibration can influence the subconscious",
-        "• Carr: Dream engineering is a way to control the subconscious's dreams "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 'Nightmare Obscura' author Michelle Carr explains how to take control of your dreams",
-          "• She explains how sensory inputs like light, sound and vibration can influence the subconscious"
-        ],
-        "hopeful_bullets": [
-          "• 'Nightmare Obscura' author Michelle Carr explains how to take control of your dreams",
-          "• She explains how sensory inputs like light, sound and vibration can influence the subconscious"
-        ],
-        "stakes_bullets": [
-          "• 'Nightmare Obscura' author Michelle Carr explains how to take control of your dreams",
-          "• She explains how sensory inputs like light, sound and vibration can influence the subconscious",
-          "• Carr: Dream engineering is a way to control the subconscious's dreams "
-        ]
-      },
-      "read_minutes": 29,
-      "cluster_id": "1ab1ac323c3b"
     },
     {
       "id": "cfa6bafba266",
@@ -6572,75 +6614,6 @@
       "cluster_id": "5ef6ac2c9c78"
     },
     {
-      "id": "bc7b58a9b513",
-      "title": "How China Silences Environmental Reporters Beyond Its Borders",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/23112025/china-environmental-journalism-suppression-africa/",
-      "published_at": "Sun, 23 Nov 2025 10:00:00 +0000",
-      "bullets": [
-        "• Zimbabwe journalist Tawanda Majoni is one of the country's most respected journalists",
-        "• He was questioned by a notorious police unit notorious for abductions, torture and killings",
-        "• Majoni was accused of \"inciting rebellion,\" a treasonous offense",
-        "• He fled the country, haunted by memories of slain colleagues "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.979
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Zimbabwe journalist Tawanda Majoni is one of the country's most respected journalists",
-          "• He was questioned by a notorious police unit notorious for abductions, torture and killings"
-        ],
-        "hopeful_bullets": [
-          "• Zimbabwe journalist Tawanda Majoni is one of the country's most respected journalists",
-          "• He was questioned by a notorious police unit notorious for abductions, torture and killings"
-        ],
-        "stakes_bullets": [
-          "• Zimbabwe journalist Tawanda Majoni is one of the country's most respected journalists",
-          "• He was questioned by a notorious police unit notorious for abductions, torture and killings",
-          "• Majoni was accused of \"inciting rebellion,\" a treasonous offense"
-        ]
-      },
-      "read_minutes": 23,
-      "cluster_id": "a22afd730837"
-    },
-    {
-      "id": "c69155459459",
-      "title": "Anticipation, Then Handwringing, at the UN Climate Talks",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/23112025/icn-sunday-morning-un-cop30-handwringing/",
-      "published_at": "Sun, 23 Nov 2025 09:50:00 +0000",
-      "bullets": [
-        "• COP30 has wound down in Belém, Brazil",
-        "• Bob explains what happened at COP30, both within the formal proceedings and adjacent to them",
-        "• ICN Sunday Morning is now available as a podcast! Listen and subscribe on Spotify, Apple Podcasts, Amazon Music and iHeart "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• COP30 has wound down in Belém, Brazil",
-          "• Bob explains what happened at COP30, both within the formal proceedings and adjacent to them"
-        ],
-        "hopeful_bullets": [
-          "• COP30 has wound down in Belém, Brazil",
-          "• Bob explains what happened at COP30, both within the formal proceedings and adjacent to them"
-        ],
-        "stakes_bullets": [
-          "• COP30 has wound down in Belém, Brazil",
-          "• Bob explains what happened at COP30, both within the formal proceedings and adjacent to them",
-          "• ICN Sunday Morning is now available as a podcast! Listen and subscribe on Spotify, Apple Podcasts, Amazon Music and iHeart "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8e879b4b1241"
-    },
-    {
       "id": "be2322f64436",
       "title": "TVC15: Bastila Shan (VC69)",
       "outlet": "Jedi Temple Archives",
@@ -6742,39 +6715,6 @@
       },
       "read_minutes": 40,
       "cluster_id": "077fbd269b7a"
-    },
-    {
-      "id": "b86e4e841844",
-      "title": "COP30 Backpedals on Climate Action",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/22112025/cop30-backpedals-on-climate-action/",
-      "published_at": "Sat, 22 Nov 2025 22:17:41 +0000",
-      "bullets": [
-        "• COP30 could go down in history “as the deadliest talk show ever,” expert says",
-        "• Negotiators retreated from meaningful climate action by failing to specifically mention need to stop using fossil fuels",
-        "• Draft text released Nov",
-        "• 18 clearly spelled out need to transition away from fossil fuels, but in final version watered down "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• COP30 could go down in history “as the deadliest talk show ever,” expert says",
-          "• Negotiators retreated from meaningful climate action by failing to specifically mention need to stop using fossil fuels"
-        ],
-        "hopeful_bullets": [
-          "• COP30 could go down in history “as the deadliest talk show ever,” expert says",
-          "• Negotiators retreated from meaningful climate action by failing to specifically mention need to stop using fossil fuels"
-        ],
-        "stakes_bullets": [
-          "• COP30 could go down in history “as the deadliest talk show ever,” expert says"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "813e01403430"
     },
     {
       "id": "c39d610858a7",
@@ -9557,6 +9497,24 @@
       ]
     },
     {
+      "id": "3a09a8b990ab",
+      "topic": "australia challenge court high",
+      "keywords": [
+        "australia",
+        "challenge",
+        "court",
+        "high",
+        "launch",
+        "teen"
+      ],
+      "item_ids": [
+        "fc71cf22642d"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "8fbd0f557949",
       "topic": "femicide italian make parliament",
       "keywords": [
@@ -9587,24 +9545,6 @@
       ],
       "item_ids": [
         "57d0691aa4c2"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "d7acfefd6e48",
-      "topic": "four nigerian released schoolgirl",
-      "keywords": [
-        "four",
-        "nigerian",
-        "released",
-        "schoolgirl",
-        "twenty",
-        "week"
-      ],
-      "item_ids": [
-        "8da535bb090f"
       ],
       "outlets": [
         "BBC News"
@@ -9647,6 +9587,24 @@
       ]
     },
     {
+      "id": "d7acfefd6e48",
+      "topic": "four nigerian released schoolgirl",
+      "keywords": [
+        "four",
+        "nigerian",
+        "released",
+        "schoolgirl",
+        "twenty",
+        "week"
+      ],
+      "item_ids": [
+        "8da535bb090f"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "1189870e14c4",
       "topic": "body confirm hama israel",
       "keywords": [
@@ -9659,24 +9617,6 @@
       ],
       "item_ids": [
         "650fd1e0b61a"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "3a09a8b990ab",
-      "topic": "australia challenge court high",
-      "keywords": [
-        "australia",
-        "challenge",
-        "court",
-        "high",
-        "launch",
-        "teen"
-      ],
-      "item_ids": [
-        "fc71cf22642d"
       ],
       "outlets": [
         "BBC News"
@@ -10079,6 +10019,60 @@
       ]
     },
     {
+      "id": "954bdce0a552",
+      "topic": "onto table thanksgiving trotted",
+      "keywords": [
+        "onto",
+        "table",
+        "thanksgiving",
+        "trotted",
+        "turkey",
+        "way"
+      ],
+      "item_ids": [
+        "35863ee4867f"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "57c1f5751537",
+      "topic": "food lot place produce",
+      "keywords": [
+        "food",
+        "lot",
+        "place",
+        "produce",
+        "want",
+        "waste"
+      ],
+      "item_ids": [
+        "02062fa3096c"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "7aff385fd470",
+      "topic": "lebanon leo pope turkey",
+      "keywords": [
+        "lebanon",
+        "leo",
+        "pope",
+        "turkey",
+        "visit",
+        "xiv"
+      ],
+      "item_ids": [
+        "f5f9b8416f3b"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "5427b755d695",
       "topic": "crime femicide italy now",
       "keywords": [
@@ -10205,60 +10199,6 @@
       ]
     },
     {
-      "id": "b857588e3eba",
-      "topic": "equity facilitie invest private",
-      "keywords": [
-        "equity",
-        "facilitie",
-        "invest",
-        "private",
-        "sport",
-        "youth"
-      ],
-      "item_ids": [
-        "f5093760ad41"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "b8b1841b8028",
-      "topic": "against because case comey",
-      "keywords": [
-        "against",
-        "because",
-        "case",
-        "comey",
-        "failed",
-        "trump"
-      ],
-      "item_ids": [
-        "8937e6429efe"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "a3fc22a39261",
-      "topic": "attorney democracy former keeping",
-      "keywords": [
-        "attorney",
-        "democracy",
-        "former",
-        "keeping",
-        "manual",
-        "offer"
-      ],
-      "item_ids": [
-        "b065093a698a"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "3f06d85ff6f7",
       "topic": "broad china rout sink",
       "keywords": [
@@ -10364,18 +10304,18 @@
       ]
     },
     {
-      "id": "671e187f3948",
-      "topic": "ahead chip generation google",
+      "id": "9bf0e90d1be3",
+      "topic": "fall guidance inc layoff",
       "keywords": [
-        "ahead",
-        "chip",
-        "generation",
-        "google",
-        "gpus",
-        "nvidia"
+        "fall",
+        "guidance",
+        "inc",
+        "layoff",
+        "share",
+        "weak"
       ],
       "item_ids": [
-        "28421c03bae1"
+        "04f24762ea2e"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10400,147 +10340,165 @@
       ]
     },
     {
-      "id": "17b589c5cc81",
-      "topic": "against lai lashe out",
+      "id": "30f6b64c1c94",
+      "topic": "dell forecast misse offer",
       "keywords": [
-        "against",
-        "lai",
-        "lashe",
-        "out",
-        "president",
-        "taiwan"
+        "dell",
+        "forecast",
+        "misse",
+        "offer",
+        "revenue",
+        "strong"
       ],
       "item_ids": [
-        "50c587e66684"
+        "841481650450"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "f80f438a2b42",
-      "topic": "fastest home market off",
+      "id": "671e187f3948",
+      "topic": "ahead chip generation google",
       "keywords": [
-        "fastest",
-        "home",
-        "market",
-        "off",
-        "seller",
-        "taking"
+        "ahead",
+        "chip",
+        "generation",
+        "google",
+        "gpus",
+        "nvidia"
       ],
       "item_ids": [
-        "e7013cd94095"
+        "28421c03bae1"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "f05afa266a2a",
-      "topic": "european fed higher open",
+      "id": "a853e70779a9",
+      "topic": "allegedly binance familie oct",
       "keywords": [
-        "european",
-        "fed",
-        "higher",
-        "open",
-        "rate",
-        "stock"
+        "allegedly",
+        "binance",
+        "familie",
+        "oct",
+        "sued",
+        "victim"
       ],
       "item_ids": [
-        "46efe3fb0ce0"
+        "84f81857ae7f"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "9bf0e90d1be3",
-      "topic": "fall guidance inc layoff",
+      "id": "300407fe835c",
+      "topic": "light margin quarterly slip",
       "keywords": [
-        "fall",
+        "light",
+        "margin",
+        "quarterly",
+        "slip",
+        "stock",
+        "workday"
+      ],
+      "item_ids": [
+        "39265f1ddda2"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "9195a34acf0d",
+      "topic": "high leader leaving profile",
+      "keywords": [
+        "high",
+        "leader",
+        "leaving",
+        "profile",
+        "tech",
+        "third"
+      ],
+      "item_ids": [
+        "97add4eb9567"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "54dc6ea697e6",
+      "topic": "fbi interview kelly mark",
+      "keywords": [
+        "fbi",
+        "interview",
+        "kelly",
+        "mark",
+        "seek",
+        "sen"
+      ],
+      "item_ids": [
+        "4326361258e0"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "30e112bbb077",
+      "topic": "guidance irs overtime release",
+      "keywords": [
         "guidance",
-        "inc",
-        "layoff",
-        "share",
-        "weak"
+        "irs",
+        "overtime",
+        "release",
+        "tips",
+        "trump"
       ],
       "item_ids": [
-        "04f24762ea2e"
+        "0879adedb112"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "48fffd1b66eb",
-      "topic": "biden blast pardon thanksgiving",
+      "id": "d35ef079e3ff",
+      "topic": "hour paramount revived rush",
       "keywords": [
-        "biden",
-        "blast",
-        "pardon",
-        "thanksgiving",
+        "hour",
+        "paramount",
+        "revived",
+        "rush",
         "trump",
-        "turkey"
+        "urged"
       ],
       "item_ids": [
-        "295890d29cb7"
+        "fc0ac9ef2fc0"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "6b339d10be9c",
-      "topic": "blocking boom center data",
+      "id": "e4a3e63e1a0b",
+      "topic": "allowed boeing flight next",
       "keywords": [
-        "blocking",
-        "boom",
-        "center",
-        "data",
-        "rural",
-        "wisconsin"
+        "allowed",
+        "boeing",
+        "flight",
+        "next",
+        "only",
+        "starliner"
       ],
       "item_ids": [
-        "46db8700d891"
+        "8b6a634b87e4"
       ],
       "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "be76aa7dae43",
-      "topic": "accelerate australia consumer inflation",
-      "keywords": [
-        "accelerate",
-        "australia",
-        "consumer",
-        "inflation",
-        "october",
-        "overshooting"
-      ],
-      "item_ids": [
-        "5008e9bea542"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "d3a8563eaf07",
-      "topic": "asia market pacific street",
-      "keywords": [
-        "asia",
-        "market",
-        "pacific",
-        "street",
-        "track",
-        "wall"
-      ],
-      "item_ids": [
-        "9d0fd8120950"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
       ]
     },
     {
@@ -10665,24 +10623,6 @@
       ],
       "item_ids": [
         "2f8b94167c61"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "c73f6e93ada5",
-      "topic": "code hbo max november",
-      "keywords": [
-        "code",
-        "hbo",
-        "max",
-        "november",
-        "off",
-        "promo"
-      ],
-      "item_ids": [
-        "b69a3f2e64ad"
       ],
       "outlets": [
         "WIRED"
@@ -11350,42 +11290,6 @@
       ]
     },
     {
-      "id": "4b9c817677f0",
-      "topic": "brazil climate evacuation fire",
-      "keywords": [
-        "brazil",
-        "climate",
-        "evacuation",
-        "fire",
-        "prompt",
-        "talk"
-      ],
-      "item_ids": [
-        "cf363c5ae463"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "1ab1ac323c3b",
-      "topic": "author control explain nightmare",
-      "keywords": [
-        "author",
-        "control",
-        "explain",
-        "nightmare",
-        "obscura",
-        "take"
-      ],
-      "item_ids": [
-        "12c9fc873dc8"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "1a772f303859",
       "topic": "constituent decision greene rep",
       "keywords": [
@@ -11422,6 +11326,42 @@
       ]
     },
     {
+      "id": "b8b1841b8028",
+      "topic": "against because case comey",
+      "keywords": [
+        "against",
+        "because",
+        "case",
+        "comey",
+        "failed",
+        "trump"
+      ],
+      "item_ids": [
+        "8937e6429efe"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "a3fc22a39261",
+      "topic": "attorney democracy former keeping",
+      "keywords": [
+        "attorney",
+        "democracy",
+        "former",
+        "keeping",
+        "manual",
+        "offer"
+      ],
+      "item_ids": [
+        "b065093a698a"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "642c7a69da8e",
       "topic": "democrat investment plan rural",
       "keywords": [
@@ -11434,41 +11374,6 @@
       ],
       "item_ids": [
         "688c39fcac12"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "b99e3e7ca619",
-      "topic": "another pardon presidential tradition",
-      "keywords": [
-        "another",
-        "pardon",
-        "presidential",
-        "tradition",
-        "turkey"
-      ],
-      "item_ids": [
-        "49f277b4acde"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "2fdf0f57393f",
-      "topic": "appealed charlie civility cox",
-      "keywords": [
-        "appealed",
-        "charlie",
-        "civility",
-        "cox",
-        "gov",
-        "utah"
-      ],
-      "item_ids": [
-        "1da3f2872cd3"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11807,6 +11712,60 @@
       ]
     },
     {
+      "id": "b65189987ba0",
+      "topic": "agree america grid largest",
+      "keywords": [
+        "agree",
+        "america",
+        "grid",
+        "largest",
+        "member",
+        "power"
+      ],
+      "item_ids": [
+        "b8fc9624750e"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "b80c25abc4bf",
+      "topic": "center data first maine",
+      "keywords": [
+        "center",
+        "data",
+        "first",
+        "maine",
+        "major",
+        "project"
+      ],
+      "item_ids": [
+        "030064faf73e"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "e301a7cfc28a",
+      "topic": "commission county delay planning",
+      "keywords": [
+        "commission",
+        "county",
+        "delay",
+        "planning",
+        "virginia",
+        "vote"
+      ],
+      "item_ids": [
+        "ebe5734f7db6"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "7a7801c53344",
       "topic": "alabama delay hike power",
       "keywords": [
@@ -11926,57 +11885,6 @@
       ],
       "item_ids": [
         "9bb6ef795835"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "a22afd730837",
-      "topic": "beyond border china environmental",
-      "keywords": [
-        "beyond",
-        "border",
-        "china",
-        "environmental",
-        "reporter",
-        "silence"
-      ],
-      "item_ids": [
-        "bc7b58a9b513"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "8e879b4b1241",
-      "topic": "anticipation climate handwringing talk",
-      "keywords": [
-        "anticipation",
-        "climate",
-        "handwringing",
-        "talk",
-        "then"
-      ],
-      "item_ids": [
-        "c69155459459"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "813e01403430",
-      "topic": "action backpedal climate cop30",
-      "keywords": [
-        "action",
-        "backpedal",
-        "climate",
-        "cop30"
-      ],
-      "item_ids": [
-        "b86e4e841844"
       ],
       "outlets": [
         "Inside Climate News"
