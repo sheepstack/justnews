@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-26T06:01:35Z",
+  "generated_at": "2025-11-26T06:20:58Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -974,8 +974,9 @@
       "published_at": "Wed, 26 Nov 2025 02:01:07 GMT",
       "bullets": [
         "• Parking inspector and his wife arrested on suspicion of embezzling €1m from parking meters",
-        "• Police say they took coins from meters in Kempten, Germany, and deposited them in bank accounts",
-        "• The inspector faces charges relating to 720 alleged incidents of theft, while his wife faces charges of aiding and abetting theft "
+        "• The couple are thought to have taken coins from meters in Kempten, Germany",
+        "• The inspector faces charges relating to 720 alleged incidents of theft",
+        "• His wife faces charges of aiding and abetting theft, also in 720 cases "
       ],
       "category": "World",
       "sentiment": {
@@ -985,14 +986,16 @@
       "moods": {
         "brief_bullets": [
           "• Parking inspector and his wife arrested on suspicion of embezzling €1m from parking meters",
-          "• Police say they took coins from meters in Kempten, Germany, and deposited them in bank accounts"
+          "• The couple are thought to have taken coins from meters in Kempten, Germany"
         ],
         "hopeful_bullets": [
           "• Parking inspector and his wife arrested on suspicion of embezzling €1m from parking meters",
-          "• Police say they took coins from meters in Kempten, Germany, and deposited them in bank accounts"
+          "• The couple are thought to have taken coins from meters in Kempten, Germany"
         ],
         "stakes_bullets": [
-          "• Police say they took coins from meters in Kempten, Germany, and deposited them in bank accounts"
+          "• Parking inspector and his wife arrested on suspicion of embezzling €1m from parking meters",
+          "• The couple are thought to have taken coins from meters in Kempten, Germany",
+          "• The inspector faces charges relating to 720 alleged incidents of theft"
         ]
       },
       "read_minutes": 1,
@@ -1658,6 +1661,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "7a7801c53344"
+    },
+    {
+      "id": "4ca1646daa4d",
+      "title": "In school voucher rules, Texas lets families get more for pre-K but rejects stronger accountability",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17216999/texas-school-vouchers-education-savings-accounts-final-rules",
+      "published_at": "Tue, 25 Nov 2025 23:56:01 +0000",
+      "bullets": [
+        "• The state will release a list of requirements for students with disabilities to be eligible for home-schooled education",
+        "• The list includes $10,000 for each student to receive",
+        "• The state is set to release the list of eligible students to the list in February "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The state will release a list of requirements for students with disabilities to be eligible for home-schooled education",
+          "• The list includes $10,000 for each student to receive"
+        ],
+        "hopeful_bullets": [
+          "• The state will release a list of requirements for students with disabilities to be eligible for home-schooled education",
+          "• The list includes $10,000 for each student to receive"
+        ],
+        "stakes_bullets": [
+          "• The state will release a list of requirements for students with disabilities to be eligible for home-schooled education"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8b00341fe9d4"
     },
     {
       "id": "92953b857ca6",
@@ -14382,6 +14417,24 @@
       ],
       "outlets": [
         "RSS: News"
+      ]
+    },
+    {
+      "id": "8b00341fe9d4",
+      "topic": "familie lets rule school",
+      "keywords": [
+        "familie",
+        "lets",
+        "rule",
+        "school",
+        "texa",
+        "voucher"
+      ],
+      "item_ids": [
+        "4ca1646daa4d"
+      ],
+      "outlets": [
+        "The Texas Tribune"
       ]
     },
     {
