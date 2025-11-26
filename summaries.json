@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-26T05:08:36Z",
+  "generated_at": "2025-11-26T06:01:35Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -34,6 +34,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "edd5409bb9c9"
+    },
+    {
+      "id": "50c587e66684",
+      "title": "Taiwan's President Lai lashes out against Beijing, pledging $40 billion in additional defense budget",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/26/taiwan-president-lai-china-japan-xi-trump-defense.html",
+      "published_at": "Wed, 26 Nov 2025 05:24:31 GMT",
+      "bullets": [
+        "• President Lai Ching-te: China has increased military drills and so-called \"gray-zone harassment\" around Taiwan",
+        "• Beijing has intensified its \"infiltration and influence campaign,\" Lai said",
+        "• Taiwan will introduce a supplementary defense budget of 1.25 trillion Taiwanese dollars ($40 billion)"
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Lai Ching-te: China has increased military drills and so-called \"gray-zone harassment\" around Taiwan",
+          "• Beijing has intensified its \"infiltration and influence campaign,\" Lai said"
+        ],
+        "hopeful_bullets": [
+          "• President Lai Ching-te: China has increased military drills and so-called \"gray-zone harassment\" around Taiwan",
+          "• Beijing has intensified its \"infiltration and influence campaign,\" Lai said"
+        ],
+        "stakes_bullets": [
+          "• President Lai Ching-te: China has increased military drills and so-called \"gray-zone harassment\" around Taiwan",
+          "• Taiwan will introduce a supplementary defense budget of 1.25 trillion Taiwanese dollars ($40 billion)"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "17b589c5cc81"
     },
     {
       "id": "daabef0734e9",
@@ -198,6 +231,40 @@
       },
       "read_minutes": 5,
       "cluster_id": "f58052a34fcf"
+    },
+    {
+      "id": "f7990419e35e",
+      "title": "TVC15: Jango Fett (VC34)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-25-tvc15-jango-fett-vc34/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-jango-fett-vc34",
+      "published_at": "Wed, 26 Nov 2025 04:13:05 +0000",
+      "bullets": [
+        "• The Vintage Collection is celebrating the 15th anniversary of the release of Jango Fett",
+        "• Has updated the figure to meet the latest collector-focused action figure lines",
+        "• Time has taken a toll on this figure, and all-new tooling is needed "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.884
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Vintage Collection is celebrating the 15th anniversary of the release of Jango Fett",
+          "• Has updated the figure to meet the latest collector-focused action figure lines"
+        ],
+        "hopeful_bullets": [
+          "• The Vintage Collection is celebrating the 15th anniversary of the release of Jango Fett",
+          "• Has updated the figure to meet the latest collector-focused action figure lines"
+        ],
+        "stakes_bullets": [
+          "• The Vintage Collection is celebrating the 15th anniversary of the release of Jango Fett",
+          "• Has updated the figure to meet the latest collector-focused action figure lines",
+          "• Time has taken a toll on this figure, and all-new tooling is needed "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f30b4eeee04b"
     },
     {
       "id": "9d0fd8120950",
@@ -1593,38 +1660,6 @@
       "cluster_id": "7a7801c53344"
     },
     {
-      "id": "4ca1646daa4d",
-      "title": "In school voucher rules, Texas lets families get more for pre-K but rejects stronger accountability",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17216999/texas-school-vouchers-education-savings-accounts-final-rules",
-      "published_at": "Tue, 25 Nov 2025 23:56:01 +0000",
-      "bullets": [
-        "• The state will release a list of requirements for students with disabilities to be eligible for home-schooled education",
-        "• The list includes $10,000 for each student to receive",
-        "• The state is set to release the list of eligible students to the list in February "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The state will release a list of requirements for students with disabilities to be eligible for home-schooled education",
-          "• The list includes $10,000 for each student to receive"
-        ],
-        "hopeful_bullets": [
-          "• The state will release a list of requirements for students with disabilities to be eligible for home-schooled education",
-          "• The list includes $10,000 for each student to receive"
-        ],
-        "stakes_bullets": [
-          "• The state will release a list of requirements for students with disabilities to be eligible for home-schooled education"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "8b00341fe9d4"
-    },
-    {
       "id": "92953b857ca6",
       "title": "Judge orders Trump administration to provide bond hearings to detained migrants",
       "outlet": "US news | The Guardian",
@@ -1755,40 +1790,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "709c8341b5f3"
-    },
-    {
-      "id": "c13ceeeef748",
-      "title": "Manhattan condo values fell over the past decade. Here's why rents are still rising",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/25/as-manhattans-condo-market-wavers-rents-are-still-rising-.html",
-      "published_at": "Tue, 25 Nov 2025 23:20:03 GMT",
-      "bullets": [
-        "• In November 2015, 1 square foot of space in Manhattan cost $1,562; by fall 2025, prices had fallen to",
-        "• 1 in 3 condos sold in Manhattan sold at a loss, according to luxury real estate firm Brown Harris Stevens",
-        "• Experts say many first-time buyers are shut out of this high-end market "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In November 2015, 1 square foot of space in Manhattan cost $1,562; by fall 2025, prices had fallen to",
-          "• 1 in 3 condos sold in Manhattan sold at a loss, according to luxury real estate firm Brown Harris Stevens"
-        ],
-        "hopeful_bullets": [
-          "• In November 2015, 1 square foot of space in Manhattan cost $1,562; by fall 2025, prices had fallen to",
-          "• 1 in 3 condos sold in Manhattan sold at a loss, according to luxury real estate firm Brown Harris Stevens"
-        ],
-        "stakes_bullets": [
-          "• In November 2015, 1 square foot of space in Manhattan cost $1,562; by fall 2025, prices had fallen to",
-          "• 1 in 3 condos sold in Manhattan sold at a loss, according to luxury real estate firm Brown Harris Stevens",
-          "• Experts say many first-time buyers are shut out of this high-end market "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ecfd48bb29f3"
     },
     {
       "id": "28421c03bae1",
@@ -2125,7 +2126,7 @@
     },
     {
       "id": "a6e6dcef4030",
-      "title": "Trump envoy reportedly told Kremlin official that Ukraine must cede land for peace deal",
+      "title": "Trump envoy Witkoff reportedly advised Kremlin official on Ukraine peace deal",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/nov/25/trump-envoy-on-russia-ukraine-peace-deal",
       "published_at": "Tue, 25 Nov 2025 21:47:54 GMT",
@@ -2136,7 +2137,7 @@
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.975
+        "score": 0.968
       },
       "moods": {
         "brief_bullets": [
@@ -2153,7 +2154,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "44c00d4a6b6c"
+      "cluster_id": "c00d6287b239"
     },
     {
       "id": "295890d29cb7",
@@ -4987,6 +4988,40 @@
       "cluster_id": "8f8fd887cb37"
     },
     {
+      "id": "0892590639ac",
+      "title": "TVC15: AT-RT Driver (VC46)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-24-tvc15-at-rt-driver-vc46/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-at-rt-driver-vc46",
+      "published_at": "Tue, 25 Nov 2025 02:46:25 +0000",
+      "bullets": [
+        "• At the time of its announcement, collectors were puzzled to see Hasbro reimagine the AT-RT Driver",
+        "• The 2005 Revenge Of The Sith figure is a super-articulated offering, albeit a little too boxy and clunky",
+        "• Hasbro used the opportunity to streamline some of this character’s features for The Vintage Collection "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At the time of its announcement, collectors were puzzled to see Hasbro reimagine the AT-RT Driver",
+          "• The 2005 Revenge Of The Sith figure is a super-articulated offering, albeit a little too boxy and clunky"
+        ],
+        "hopeful_bullets": [
+          "• At the time of its announcement, collectors were puzzled to see Hasbro reimagine the AT-RT Driver",
+          "• The 2005 Revenge Of The Sith figure is a super-articulated offering, albeit a little too boxy and clunky"
+        ],
+        "stakes_bullets": [
+          "• At the time of its announcement, collectors were puzzled to see Hasbro reimagine the AT-RT Driver",
+          "• The 2005 Revenge Of The Sith figure is a super-articulated offering, albeit a little too boxy and clunky",
+          "• Hasbro used the opportunity to streamline some of this character’s features for The Vintage Collection "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c6aef76d7482"
+    },
+    {
       "id": "e856e32eab13",
       "title": "Cocoa and tea may protect your heart from the hidden damage of sitting",
       "outlet": "All Top News -- ScienceDaily",
@@ -5680,6 +5715,40 @@
       "cluster_id": "1eab7cfe9eb7"
     },
     {
+      "id": "172883843153",
+      "title": "Amazon Kicks Off Black Friday With Plenty Of Deals",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-20-amazon-kicks-off-black-friday-with-plenty-of-deals/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-kicks-off-black-friday-with-plenty-of-deals",
+      "published_at": "Thu, 20 Nov 2025 13:07:05 +0000",
+      "bullets": [
+        "• Amazon has listed Black Friday deals in both The Vintage Collection & The Black Series",
+        "• We’ve added itemized listings in our deal center at the top of the page",
+        "• You can browse the complete listings here: Category: Online Promotions"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon has listed Black Friday deals in both The Vintage Collection & The Black Series",
+          "• We’ve added itemized listings in our deal center at the top of the page"
+        ],
+        "hopeful_bullets": [
+          "• Amazon has listed Black Friday deals in both The Vintage Collection & The Black Series",
+          "• We’ve added itemized listings in our deal center at the top of the page"
+        ],
+        "stakes_bullets": [
+          "• Amazon has listed Black Friday deals in both The Vintage Collection & The Black Series",
+          "• We’ve added itemized listings in our deal center at the top of the page",
+          "• You can browse the complete listings here: Category: Online Promotions"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0670de235812"
+    },
+    {
       "id": "12c9fc873dc8",
       "title": "'Nightmare Obscura' author explains how to take control of your dreams",
       "outlet": "NPR Topics: Science",
@@ -5809,6 +5878,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "d219184e450f"
+    },
+    {
+      "id": "40d02e1dfb09",
+      "title": "TVC15: Obi-Wan Kenobi (VC76)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-19-tvc15-obi-wan-kenobi-vc76/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-obi-wan-kenobi-vc76",
+      "published_at": "Thu, 20 Nov 2025 01:28:31 +0000",
+      "bullets": [
+        "• Obi-Wan Kenobi might be the worst figure in the first run of The Vintage Collection",
+        "• Hasbro designed MULTIPLE ALL-NEW VERSIONS of Obi-wan Kenobi from Episode I in the simpler 5POA lines",
+        "• So, why didn’t they update this 2009 sculpted figure for 2012?"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Obi-Wan Kenobi might be the worst figure in the first run of The Vintage Collection",
+          "• Hasbro designed MULTIPLE ALL-NEW VERSIONS of Obi-wan Kenobi from Episode I in the simpler 5POA lines"
+        ],
+        "hopeful_bullets": [
+          "• Obi-Wan Kenobi might be the worst figure in the first run of The Vintage Collection",
+          "• Hasbro designed MULTIPLE ALL-NEW VERSIONS of Obi-wan Kenobi from Episode I in the simpler 5POA lines"
+        ],
+        "stakes_bullets": [
+          "• Obi-Wan Kenobi might be the worst figure in the first run of The Vintage Collection",
+          "• Hasbro designed MULTIPLE ALL-NEW VERSIONS of Obi-wan Kenobi from Episode I in the simpler 5POA lines",
+          "• So, why didn’t they update this 2009 sculpted figure for 2012?"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7e22246e129d"
     },
     {
       "id": "c690784022a8",
@@ -6472,6 +6575,41 @@
       "cluster_id": "8e879b4b1241"
     },
     {
+      "id": "be2322f64436",
+      "title": "TVC15: Bastila Shan (VC69)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-22-tvc15-bastila-shan-vc69/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-bastila-shan-vc69",
+      "published_at": "Sun, 23 Nov 2025 01:06:31 +0000",
+      "bullets": [
+        "• Bastila Shan won the Fans’ Choice Poll years before its release",
+        "• Hasbro should redo the figure based on the digital rendering of the 6-inch figure",
+        "• Once shipped, collectors had buyer’s remorse",
+        "• The likeness didn’t match the video game character, and finding it at retail proved difficult "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Bastila Shan won the Fans’ Choice Poll years before its release",
+          "• Hasbro should redo the figure based on the digital rendering of the 6-inch figure"
+        ],
+        "hopeful_bullets": [
+          "• Bastila Shan won the Fans’ Choice Poll years before its release",
+          "• Hasbro should redo the figure based on the digital rendering of the 6-inch figure"
+        ],
+        "stakes_bullets": [
+          "• Bastila Shan won the Fans’ Choice Poll years before its release",
+          "• Hasbro should redo the figure based on the digital rendering of the 6-inch figure",
+          "• Once shipped, collectors had buyer’s remorse"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "057c24818433"
+    },
+    {
       "id": "eb57e9ca09a9",
       "title": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -6638,6 +6776,40 @@
       },
       "read_minutes": 6,
       "cluster_id": "3561d513c27a"
+    },
+    {
+      "id": "231afac8800e",
+      "title": "TVC15: (Twin Pod) Cloud Car Pilot (VC11)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-21-tvc15-twin-pod-cloud-car-pilot-vc11/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-twin-pod-cloud-car-pilot-vc11",
+      "published_at": "Sat, 22 Nov 2025 02:34:26 +0000",
+      "bullets": [
+        "• We're celebrating the 15th Anniversary of The Vintage Collection",
+        "• The Cloud Car Pilot is the definitive modern counterpart to the 1982 Kenner action figure",
+        "• Hasbro also released the Bespin Cloud Car alongside it, albeit in a different line look "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• We're celebrating the 15th Anniversary of The Vintage Collection",
+          "• The Cloud Car Pilot is the definitive modern counterpart to the 1982 Kenner action figure"
+        ],
+        "hopeful_bullets": [
+          "• We're celebrating the 15th Anniversary of The Vintage Collection",
+          "• The Cloud Car Pilot is the definitive modern counterpart to the 1982 Kenner action figure"
+        ],
+        "stakes_bullets": [
+          "• We're celebrating the 15th Anniversary of The Vintage Collection",
+          "• The Cloud Car Pilot is the definitive modern counterpart to the 1982 Kenner action figure",
+          "• Hasbro also released the Bespin Cloud Car alongside it, albeit in a different line look "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6a4e50e21e9c"
     },
     {
       "id": "f216a779aac4",
@@ -7832,6 +8004,38 @@
       "cluster_id": "20bfd5db08ae"
     },
     {
+      "id": "1dfeb017581e",
+      "title": "TVC15: MagnaGuard (VC18)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-23-tvc15-magnaguard-vc18/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-magnaguard-vc18",
+      "published_at": "Mon, 24 Nov 2025 03:18:02 +0000",
+      "bullets": [
+        "• Hasbro released only three waves of The Vintage Collection in 2010",
+        "• Sadly, Hasbro seized on the opportunity to reissue this figure or repaint it to give us the other MagnaGuard colors (gray, blue, and others are yet to be produced)"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro released only three waves of The Vintage Collection in 2010",
+          "• Sadly, Hasbro seized on the opportunity to reissue this figure or repaint it to give us the other MagnaGuard colors (gray, blue, and others are yet to be produced)"
+        ],
+        "hopeful_bullets": [
+          "• Hasbro released only three waves of The Vintage Collection in 2010",
+          "• Sadly, Hasbro seized on the opportunity to reissue this figure or repaint it to give us the other MagnaGuard colors (gray, blue, and others are yet to be produced)"
+        ],
+        "stakes_bullets": [
+          "• Hasbro released only three waves of The Vintage Collection in 2010",
+          "• Sadly, Hasbro seized on the opportunity to reissue this figure or repaint it to give us the other MagnaGuard colors (gray, blue, and others are yet to be produced)"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c9681fa69a3c"
+    },
+    {
       "id": "d68c44282569",
       "title": "Donald Glover Suffered a Stroke Last Year",
       "outlet": "RSS: News",
@@ -8128,6 +8332,73 @@
       "cluster_id": "26f18df82ccd"
     },
     {
+      "id": "6da761115ad3",
+      "title": "Hot Toys 212th Attack Battalion Clone Trooper (Deluxe Version) (MMS852) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-21-hot-toys-212th-attack-battalion-clone-trooper-deluxe-version-mms852-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-212th-attack-battalion-clone-trooper-deluxe-version-mms852-1-6-scale-figure",
+      "published_at": "Fri, 21 Nov 2025 13:38:06 +0000",
+      "bullets": [
+        "• The 212th Attack Battalion descended upon the war-torn terrain of Utapau under the leadership of Jedi General Obi-Wan Kenobi and Clone Commander Cody",
+        "• The battalion played a pivotal role in the Republic’s final stand against the Separatists",
+        "• Following the issuance of Order 66, the battalion turned against their Jedi General "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.946
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The 212th Attack Battalion descended upon the war-torn terrain of Utapau under the leadership of Jedi General Obi-Wan Kenobi and Clone Commander Cody",
+          "• The battalion played a pivotal role in the Republic’s final stand against the Separatists"
+        ],
+        "hopeful_bullets": [
+          "• The battalion played a pivotal role in the Republic’s final stand against the Separatists",
+          "• Following the issuance of Order 66, the battalion turned against their Jedi General "
+        ],
+        "stakes_bullets": [
+          "• The 212th Attack Battalion descended upon the war-torn terrain of Utapau under the leadership of Jedi General Obi-Wan Kenobi and Clone Commander Cody"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4ac8e3dda59b"
+    },
+    {
+      "id": "ab4ddf823230",
+      "title": "Hot Toys 212th Attack Battalion Clone Trooper (MMS851) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-21-hot-toys-212th-attack-battalion-clone-trooper-mms851-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-212th-attack-battalion-clone-trooper-mms851-1-6-scale-figure",
+      "published_at": "Fri, 21 Nov 2025 13:36:55 +0000",
+      "bullets": [
+        "• Hot Toys has added a few new clone troopers to The Grand Army of the Republic",
+        "• The 212th Attack Battalion Clone Trooper is modeled after the iconic unit",
+        "• The figure features a finely crafted helmeted head with battle weathering",
+        "• The included blaster carbine and rifle bring the infantry to life "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hot Toys has added a few new clone troopers to The Grand Army of the Republic",
+          "• The 212th Attack Battalion Clone Trooper is modeled after the iconic unit"
+        ],
+        "hopeful_bullets": [
+          "• Hot Toys has added a few new clone troopers to The Grand Army of the Republic",
+          "• The 212th Attack Battalion Clone Trooper is modeled after the iconic unit"
+        ],
+        "stakes_bullets": [
+          "• Hot Toys has added a few new clone troopers to The Grand Army of the Republic",
+          "• The 212th Attack Battalion Clone Trooper is modeled after the iconic unit",
+          "• The figure features a finely crafted helmeted head with battle weathering"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4ac8e3dda59b"
+    },
+    {
       "id": "c6b9f533abe3",
       "title": "Brain scientists are seeking weight-loss drugs without the nausea",
       "outlet": "NPR Topics: Science",
@@ -8190,6 +8461,37 @@
       },
       "read_minutes": 7,
       "cluster_id": "34b58de9759e"
+    },
+    {
+      "id": "c6c514cc9d89",
+      "title": "TVC15: B-Wing Pilot (Keyan Farlander) (VC63)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-20-tvc15-b-wing-pilot-keyan-farlander-vc63/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-b-wing-pilot-keyan-farlander-vc63",
+      "published_at": "Fri, 21 Nov 2025 04:36:29 +0000",
+      "bullets": [
+        "• Hasbro developed the “Revenge Of The Jedi” promotion and re-released a bunch of chase action figures with the ‘Revenge” entertainment logos",
+        "• It was the best of times for the collecting community, and this figure got swept up in the pandemonium because the event was more interesting than the figures released "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro developed the “Revenge Of The Jedi” promotion and re-released a bunch of chase action figures with the ‘Revenge” entertainment logos",
+          "• It was the best of times for the collecting community, and this figure got swept up in the pandemonium because the event was more interesting than the figures released "
+        ],
+        "hopeful_bullets": [
+          "• Hasbro developed the “Revenge Of The Jedi” promotion and re-released a bunch of chase action figures with the ‘Revenge” entertainment logos",
+          "• It was the best of times for the collecting community, and this figure got swept up in the pandemonium because the event was more interesting than the figures released "
+        ],
+        "stakes_bullets": [
+          "• It was the best of times for the collecting community, and this figure got swept up in the pandemonium because the event was more interesting than the figures released "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "d29daa5ab72c"
     },
     {
       "id": "83955d2d0c9f",
@@ -9692,15 +9994,15 @@
       ]
     },
     {
-      "id": "44c00d4a6b6c",
-      "topic": "envoy kremlin official reportedly",
+      "id": "c00d6287b239",
+      "topic": "advised envoy kremlin reportedly",
       "keywords": [
+        "advised",
         "envoy",
         "kremlin",
-        "official",
         "reportedly",
-        "told",
-        "trump"
+        "trump",
+        "witkoff"
       ],
       "item_ids": [
         "a6e6dcef4030"
@@ -10049,6 +10351,24 @@
       ]
     },
     {
+      "id": "17b589c5cc81",
+      "topic": "against lai lashe out",
+      "keywords": [
+        "against",
+        "lai",
+        "lashe",
+        "out",
+        "president",
+        "taiwan"
+      ],
+      "item_ids": [
+        "50c587e66684"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "f80f438a2b42",
       "topic": "fastest home market off",
       "keywords": [
@@ -10169,24 +10489,6 @@
       ],
       "item_ids": [
         "4326361258e0"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "ecfd48bb29f3",
-      "topic": "condo decade fell manhattan",
-      "keywords": [
-        "condo",
-        "decade",
-        "fell",
-        "manhattan",
-        "past",
-        "value"
-      ],
-      "item_ids": [
-        "c13ceeeef748"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -12690,6 +12992,158 @@
       ]
     },
     {
+      "id": "f30b4eeee04b",
+      "topic": "fett jango tvc15 vc34",
+      "keywords": [
+        "fett",
+        "jango",
+        "tvc15",
+        "vc34"
+      ],
+      "item_ids": [
+        "f7990419e35e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "c6aef76d7482",
+      "topic": "driver tvc15 vc46",
+      "keywords": [
+        "driver",
+        "tvc15",
+        "vc46"
+      ],
+      "item_ids": [
+        "0892590639ac"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "c9681fa69a3c",
+      "topic": "magnaguard tvc15 vc18",
+      "keywords": [
+        "magnaguard",
+        "tvc15",
+        "vc18"
+      ],
+      "item_ids": [
+        "1dfeb017581e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "057c24818433",
+      "topic": "bastila shan tvc15 vc69",
+      "keywords": [
+        "bastila",
+        "shan",
+        "tvc15",
+        "vc69"
+      ],
+      "item_ids": [
+        "be2322f64436"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "6a4e50e21e9c",
+      "topic": "car cloud pilot pod",
+      "keywords": [
+        "car",
+        "cloud",
+        "pilot",
+        "pod",
+        "tvc15",
+        "twin"
+      ],
+      "item_ids": [
+        "231afac8800e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "4ac8e3dda59b",
+      "topic": "212th attack battalion clone",
+      "keywords": [
+        "212th",
+        "attack",
+        "battalion",
+        "clone",
+        "hot",
+        "toys"
+      ],
+      "item_ids": [
+        "6da761115ad3",
+        "ab4ddf823230"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "d29daa5ab72c",
+      "topic": "farlander keyan pilot tvc15",
+      "keywords": [
+        "farlander",
+        "keyan",
+        "pilot",
+        "tvc15",
+        "vc63",
+        "wing"
+      ],
+      "item_ids": [
+        "c6c514cc9d89"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "0670de235812",
+      "topic": "amazon black friday kick",
+      "keywords": [
+        "amazon",
+        "black",
+        "friday",
+        "kick",
+        "off",
+        "plenty"
+      ],
+      "item_ids": [
+        "172883843153"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "7e22246e129d",
+      "topic": "kenobi obi tvc15 vc76",
+      "keywords": [
+        "kenobi",
+        "obi",
+        "tvc15",
+        "vc76",
+        "wan"
+      ],
+      "item_ids": [
+        "40d02e1dfb09"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
       "id": "4d68b7d6cb41",
       "topic": "eclipse favorite revealed rotj",
       "keywords": [
@@ -13928,24 +14382,6 @@
       ],
       "outlets": [
         "RSS: News"
-      ]
-    },
-    {
-      "id": "8b00341fe9d4",
-      "topic": "familie lets rule school",
-      "keywords": [
-        "familie",
-        "lets",
-        "rule",
-        "school",
-        "texa",
-        "voucher"
-      ],
-      "item_ids": [
-        "4ca1646daa4d"
-      ],
-      "outlets": [
-        "The Texas Tribune"
       ]
     },
     {
