@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-27T14:13:26Z",
+  "generated_at": "2025-11-27T15:01:45Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -34,6 +34,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "edd5409bb9c9"
+    },
+    {
+      "id": "97b4fd99378e",
+      "title": "TVC15: Yoda (VC20)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-26-tvc15-yoda-vc20/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-yoda-vc20",
+      "published_at": "Wed, 26 Nov 2025 23:43:28 +0000",
+      "bullets": [
+        "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
+        "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith",
+        "• The 3.75-inch super-articulated collecting community mocked them as “swelbows”"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
+          "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith"
+        ],
+        "hopeful_bullets": [
+          "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
+          "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith"
+        ],
+        "stakes_bullets": [
+          "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
+          "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith",
+          "• The 3.75-inch super-articulated collecting community mocked them as “swelbows”"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "404906aa0c7b"
     },
     {
       "id": "3bc1bda99208",
@@ -1156,76 +1190,6 @@
       "cluster_id": "cab877637d6d"
     },
     {
-      "id": "b898d06f5b08",
-      "title": "Tech firm’s new CTO gets indicted; company then claims he was never CTO",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/11/tech-firms-new-cto-gets-indicted-company-then-claims-he-was-never-cto/",
-      "published_at": "Wed, 26 Nov 2025 15:23:12 +0000",
-      "bullets": [
-        "• Four people were arrested and charged with a conspiracy to illegally export Nvidia chips to China",
-        "• One of the arrestees, Brian Raymond, was the chief technology officer of an AI company called Corvex",
-        "• But a spokesperson for the company says Raymond had never been the CTO",
-        "• The company itself described Raymond as its CTO in a press release and filings to the SEC "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Four people were arrested and charged with a conspiracy to illegally export Nvidia chips to China",
-          "• One of the arrestees, Brian Raymond, was the chief technology officer of an AI company called Corvex"
-        ],
-        "hopeful_bullets": [
-          "• Four people were arrested and charged with a conspiracy to illegally export Nvidia chips to China",
-          "• One of the arrestees, Brian Raymond, was the chief technology officer of an AI company called Corvex"
-        ],
-        "stakes_bullets": [
-          "• Four people were arrested and charged with a conspiracy to illegally export Nvidia chips to China",
-          "• One of the arrestees, Brian Raymond, was the chief technology officer of an AI company called Corvex",
-          "• But a spokesperson for the company says Raymond had never been the CTO"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "21618f16dc05"
-    },
-    {
-      "id": "895fd8b65cd2",
-      "title": "2 National Guard members in critical condition after 'targeted' attack in D.C., authorities say",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/26/nx-s1-5622038/national-guard-shooting-washington-dc",
-      "published_at": "Wed, 26 Nov 2025 15:20:48 -0500",
-      "bullets": [
-        "• 2 National Guard members in critical condition after 'targeted' attack in D.C., authorities say",
-        "• President Trump calls the shooting a \"monstrous, ambush style attack,\" adding that the suspect was a \"foreigner\" who came to the U.S",
-        "• from Afghanistan in September 2021",
-        "• The suspect's name was not disclosed "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 2 National Guard members in critical condition after 'targeted' attack in D.C., authorities say",
-          "• President Trump calls the shooting a \"monstrous, ambush style attack,\" adding that the suspect was a \"foreigner\" who came to the U.S"
-        ],
-        "hopeful_bullets": [
-          "• 2 National Guard members in critical condition after 'targeted' attack in D.C., authorities say",
-          "• President Trump calls the shooting a \"monstrous, ambush style attack,\" adding that the suspect was a \"foreigner\" who came to the U.S"
-        ],
-        "stakes_bullets": [
-          "• 2 National Guard members in critical condition after 'targeted' attack in D.C., authorities say",
-          "• President Trump calls the shooting a \"monstrous, ambush style attack,\" adding that the suspect was a \"foreigner\" who came to the U.S",
-          "• from Afghanistan in September 2021"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "83a825e22b32"
-    },
-    {
       "id": "57a848eab8c1",
       "title": "Warner Joins Forces With AI Song Generator, Suno, That It Was Suing",
       "outlet": "RSS: News",
@@ -1385,40 +1349,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "49a25cda24a8"
-    },
-    {
-      "id": "ea82bac40e4a",
-      "title": "Many genes associated with dog behavior influence human personalities, too",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/science/2025/11/many-genes-associated-with-dog-behavior-influence-human-personalities-too/",
-      "published_at": "Wed, 26 Nov 2025 12:30:15 +0000",
-      "bullets": [
-        "• Researchers used data from over 1,000 Golden Retriever owners to identify genes associated with behaviors",
-        "• A high percentage of these genes correspond to regions of the human genome that have been associated with behavioral differences as well",
-        "• The study was done by a team of researchers at the University of Cambridge "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.941
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers used data from over 1,000 Golden Retriever owners to identify genes associated with behaviors",
-          "• A high percentage of these genes correspond to regions of the human genome that have been associated with behavioral differences as well"
-        ],
-        "hopeful_bullets": [
-          "• Researchers used data from over 1,000 Golden Retriever owners to identify genes associated with behaviors",
-          "• A high percentage of these genes correspond to regions of the human genome that have been associated with behavioral differences as well"
-        ],
-        "stakes_bullets": [
-          "• Researchers used data from over 1,000 Golden Retriever owners to identify genes associated with behaviors",
-          "• A high percentage of these genes correspond to regions of the human genome that have been associated with behavioral differences as well",
-          "• The study was done by a team of researchers at the University of Cambridge "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4af5095c1ba1"
     },
     {
       "id": "4544b2c70f4d",
@@ -1949,6 +1879,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "954bdce0a552"
+    },
+    {
+      "id": "f7990419e35e",
+      "title": "TVC15: Jango Fett (VC34)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-25-tvc15-jango-fett-vc34/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-jango-fett-vc34",
+      "published_at": "Wed, 26 Nov 2025 04:13:05 +0000",
+      "bullets": [
+        "• Jango Fett is far from perfect, but Hasbro enhanced the existing tooling and added new features",
+        "• Time has taken a toll on this figure, however, and all-new tooling is needed at this point",
+        "• We will patiently await their next take on this classic Prequel Trilogy character "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.938
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jango Fett is far from perfect, but Hasbro enhanced the existing tooling and added new features",
+          "• Time has taken a toll on this figure, however, and all-new tooling is needed at this point"
+        ],
+        "hopeful_bullets": [
+          "• Jango Fett is far from perfect, but Hasbro enhanced the existing tooling and added new features",
+          "• Time has taken a toll on this figure, however, and all-new tooling is needed at this point"
+        ],
+        "stakes_bullets": [
+          "• We will patiently await their next take on this classic Prequel Trilogy character "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "f30b4eeee04b"
     },
     {
       "id": "58f958fb6a18",
@@ -3763,6 +3725,40 @@
       "cluster_id": "69c6dfb6399c"
     },
     {
+      "id": "0892590639ac",
+      "title": "TVC15: AT-RT Driver (VC46)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-24-tvc15-at-rt-driver-vc46/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-at-rt-driver-vc46",
+      "published_at": "Tue, 25 Nov 2025 02:46:25 +0000",
+      "bullets": [
+        "• At the time of its announcement, collectors were puzzled to see Hasbro reimagine the AT-RT Driver",
+        "• The 2005 Revenge Of The Sith figure is a super-articulated offering, albeit a little too boxy and clunky",
+        "• Hasbro used the opportunity to streamline some of this character’s features for The Vintage Collection "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At the time of its announcement, collectors were puzzled to see Hasbro reimagine the AT-RT Driver",
+          "• The 2005 Revenge Of The Sith figure is a super-articulated offering, albeit a little too boxy and clunky"
+        ],
+        "hopeful_bullets": [
+          "• At the time of its announcement, collectors were puzzled to see Hasbro reimagine the AT-RT Driver",
+          "• The 2005 Revenge Of The Sith figure is a super-articulated offering, albeit a little too boxy and clunky"
+        ],
+        "stakes_bullets": [
+          "• At the time of its announcement, collectors were puzzled to see Hasbro reimagine the AT-RT Driver",
+          "• The 2005 Revenge Of The Sith figure is a super-articulated offering, albeit a little too boxy and clunky",
+          "• Hasbro used the opportunity to streamline some of this character’s features for The Vintage Collection "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c6aef76d7482"
+    },
+    {
       "id": "1447abbd680d",
       "title": "A Rare Recusal by Texas Oil and Gas Regulator Up for Re-election",
       "outlet": "Inside Climate News",
@@ -3997,6 +3993,268 @@
       "cluster_id": "8af4054e818a"
     },
     {
+      "id": "e634e5a0977f",
+      "title": "Routine Launches On Xbox Game Pass December 4",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/xbox-game-pass-free-routine-day-one/",
+      "published_at": "Thu, 27 Nov 2025 14:55:11 GMT",
+      "bullets": [
+        "• Routine will be available beginning December 4 on Xbox Game Pass",
+        "• The first-person survival horror science-fiction game drops players into the shoes of an unnamed protagonist who must traverse a crumbling lunar base",
+        "• Routine was announced back in 2012 and was originally planned for 2013 release "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Routine will be available beginning December 4 on Xbox Game Pass",
+          "• The first-person survival horror science-fiction game drops players into the shoes of an unnamed protagonist who must traverse a crumbling lunar base"
+        ],
+        "hopeful_bullets": [
+          "• Routine will be available beginning December 4 on Xbox Game Pass",
+          "• The first-person survival horror science-fiction game drops players into the shoes of an unnamed protagonist who must traverse a crumbling lunar base"
+        ],
+        "stakes_bullets": [
+          "• Routine will be available beginning December 4 on Xbox Game Pass",
+          "• Routine was announced back in 2012 and was originally planned for 2013 release "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "618c8df10000"
+    },
+    {
+      "id": "86338460f9c0",
+      "title": "Transformers Fans Get First-Look Reveal at New Dinobot Combiner",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/transformers-dinobot-combiner-volcanicus-first-look/",
+      "published_at": "Thu, 27 Nov 2025 14:30:12 GMT",
+      "bullets": [
+        "• Laser Cat JGM-SKP02 Mini-Asura figure is a combined form of five super deformed Dinobots from the company",
+        "• The toy is one of many new and upcoming toys based on the Dinobot Combiner Volcanicus, who's become more prominent in recent years "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Laser Cat JGM-SKP02 Mini-Asura figure is a combined form of five super deformed Dinobots from the company",
+          "• The toy is one of many new and upcoming toys based on the Dinobot Combiner Volcanicus, who's become more prominent in recent years "
+        ],
+        "hopeful_bullets": [
+          "• Laser Cat JGM-SKP02 Mini-Asura figure is a combined form of five super deformed Dinobots from the company",
+          "• The toy is one of many new and upcoming toys based on the Dinobot Combiner Volcanicus, who's become more prominent in recent years "
+        ],
+        "stakes_bullets": [
+          "• Laser Cat JGM-SKP02 Mini-Asura figure is a combined form of five super deformed Dinobots from the company",
+          "• The toy is one of many new and upcoming toys based on the Dinobot Combiner Volcanicus, who's become more prominent in recent years "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "55b282a9b5e1"
+    },
+    {
+      "id": "9fd455b8c1df",
+      "title": "Lioness Season 3 Can Continue an Epic Taylor Sheridan Trend Thanks to Yellowstone",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/lioness-season-3-yellowstone-season-3-highest-rating-trend/",
+      "published_at": "Thu, 27 Nov 2025 14:30:12 GMT",
+      "bullets": [
+        "• Taylor Sheridan’s espionage thriller has officially received the greenlight for Season 3",
+        "• The CIA thriller stars Zoe Saldaña as Joe McNamara, a CIA operative and the leader of the agency's Lioness program",
+        "• The series’ future is in question, its third installment arriving at an inflection point "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Taylor Sheridan’s espionage thriller has officially received the greenlight for Season 3",
+          "• The CIA thriller stars Zoe Saldaña as Joe McNamara, a CIA operative and the leader of the agency's Lioness program"
+        ],
+        "hopeful_bullets": [
+          "• Taylor Sheridan’s espionage thriller has officially received the greenlight for Season 3",
+          "• The CIA thriller stars Zoe Saldaña as Joe McNamara, a CIA operative and the leader of the agency's Lioness program"
+        ],
+        "stakes_bullets": [
+          "• The CIA thriller stars Zoe Saldaña as Joe McNamara, a CIA operative and the leader of the agency's Lioness program"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "5d68fe967c8b"
+    },
+    {
+      "id": "ebc3ff48355f",
+      "title": "South Africa hits back after Trump says US won't invite it for G20 next year",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq8dq47j5y8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 27 Nov 2025 14:24:55 GMT",
+      "bullets": [
+        "• South Africa hits back after US President Donald Trump says US won't invite it for G20 next year",
+        "• President Cyril Ramaphosa says South Africa will not be invited to next year's G20 summit in Florida",
+        "• Members of the G20 do not need an invite but can be barred through visa restrictions "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• South Africa hits back after US President Donald Trump says US won't invite it for G20 next year",
+          "• President Cyril Ramaphosa says South Africa will not be invited to next year's G20 summit in Florida"
+        ],
+        "hopeful_bullets": [
+          "• South Africa hits back after US President Donald Trump says US won't invite it for G20 next year",
+          "• President Cyril Ramaphosa says South Africa will not be invited to next year's G20 summit in Florida"
+        ],
+        "stakes_bullets": [
+          "• President Cyril Ramaphosa says South Africa will not be invited to next year's G20 summit in Florida"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "67908c15fa4d"
+    },
+    {
+      "id": "cf3d5177d8df",
+      "title": "Perfect Dragon Ball Z Sagas With No Bad Episodes",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-dbz-sagas-perfect-anime-arcs/",
+      "published_at": "Thu, 27 Nov 2025 14:15:11 GMT",
+      "bullets": [
+        "• Akira Toriyama’s Dragon Ball is an evergreen hit by cleverly dividing itself into smaller pieces",
+        "• Each series is divided into different sagas that are used to delineate the current obstacles and changing narrative intentions",
+        "• At 291 episodes, Dragon Ball Z is hardly a short series and it's guilty of unnecessary padding, laborious filler, and cyclical storytelling "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Akira Toriyama’s Dragon Ball is an evergreen hit by cleverly dividing itself into smaller pieces",
+          "• Each series is divided into different sagas that are used to delineate the current obstacles and changing narrative intentions"
+        ],
+        "hopeful_bullets": [
+          "• Akira Toriyama’s Dragon Ball is an evergreen hit by cleverly dividing itself into smaller pieces",
+          "• Each series is divided into different sagas that are used to delineate the current obstacles and changing narrative intentions"
+        ],
+        "stakes_bullets": [
+          "• Akira Toriyama’s Dragon Ball is an evergreen hit by cleverly dividing itself into smaller pieces",
+          "• Each series is divided into different sagas that are used to delineate the current obstacles and changing narrative intentions",
+          "• At 291 episodes, Dragon Ball Z is hardly a short series and it's guilty of unnecessary padding, laborious filler, and cyclical storytelling "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "31e32c284dac"
+    },
+    {
+      "id": "3fb4e5d43de0",
+      "title": "6 Best Smart Speakers (2025): Alexa, Google Assistant, Siri",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/best-smart-speakers/",
+      "published_at": "Thu, 27 Nov 2025 14:03:00 +0000",
+      "bullets": [
+        "• There are many smart speakers on the market, with three main brains behind them: Amazon Alexa, Google Assistant, and Apple Siri",
+        "• Overall, Google- and Amazon-powered smart speakers are the way to go, though we prefer Google's ecosystem over Amazon's",
+        "• Amazon's speaker lineup is more vast, but our favorite models are still Google's "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• There are many smart speakers on the market, with three main brains behind them: Amazon Alexa, Google Assistant, and Apple Siri",
+          "• Overall, Google- and Amazon-powered smart speakers are the way to go, though we prefer Google's ecosystem over Amazon's"
+        ],
+        "hopeful_bullets": [
+          "• There are many smart speakers on the market, with three main brains behind them: Amazon Alexa, Google Assistant, and Apple Siri",
+          "• Overall, Google- and Amazon-powered smart speakers are the way to go, though we prefer Google's ecosystem over Amazon's"
+        ],
+        "stakes_bullets": [
+          "• There are many smart speakers on the market, with three main brains behind them: Amazon Alexa, Google Assistant, and Apple Siri",
+          "• Overall, Google- and Amazon-powered smart speakers are the way to go, though we prefer Google's ecosystem over Amazon's",
+          "• Amazon's speaker lineup is more vast, but our favorite models are still Google's "
+        ]
+      },
+      "read_minutes": 25,
+      "cluster_id": "f7ec7c3b8e65"
+    },
+    {
+      "id": "07e6648915b6",
+      "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways",
+      "published_at": "Thu, 27 Nov 2025 14:00:38 GMT",
+      "bullets": [
+        "• Indigenous people have long known that food is medicine, says author of new book Turtle Island: Foods and Traditions of the Indigenous Peoples of North America",
+        "• Long before European arrival, Native groups across North America established robust, thriving societies undergirded by ecologically sound foodways",
+        "• This place-based traditions emphasized sustainable, climate-savvy principles "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Indigenous people have long known that food is medicine, says author of new book Turtle Island: Foods and Traditions of the Indigenous Peoples of North America",
+          "• Long before European arrival, Native groups across North America established robust, thriving societies undergirded by ecologically sound foodways"
+        ],
+        "hopeful_bullets": [
+          "• Indigenous people have long known that food is medicine, says author of new book Turtle Island: Foods and Traditions of the Indigenous Peoples of North America",
+          "• Long before European arrival, Native groups across North America established robust, thriving societies undergirded by ecologically sound foodways"
+        ],
+        "stakes_bullets": [
+          "• Indigenous people have long known that food is medicine, says author of new book Turtle Island: Foods and Traditions of the Indigenous Peoples of North America",
+          "• Long before European arrival, Native groups across North America established robust, thriving societies undergirded by ecologically sound foodways",
+          "• This place-based traditions emphasized sustainable, climate-savvy principles "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "8cee31814b01"
+    },
+    {
+      "id": "fc0314b4994d",
+      "title": "‘How far is it going to escalate?’ Fear Santos gas plan in Beetaloo basin could be start of NT fracking rush",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2025/nov/27/santos-gas-plan-beetaloo-basin-northern-territory-fracking-fears",
+      "published_at": "Thu, 27 Nov 2025 14:00:38 GMT",
+      "bullets": [
+        "• Santos has published plans to drill 12 fracking wells at Tanumbirini Station, a 5,000 sq km cattle station about 340km south-east of Katherine",
+        "• The NT government gave the green light for fracking in the Beetaloo to begin in 2023, after it was satisfied the recommendations of an independent inquiry had been met "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Santos has published plans to drill 12 fracking wells at Tanumbirini Station, a 5,000 sq km cattle station about 340km south-east of Katherine",
+          "• The NT government gave the green light for fracking in the Beetaloo to begin in 2023, after it was satisfied the recommendations of an independent inquiry had been met "
+        ],
+        "hopeful_bullets": [
+          "• Santos has published plans to drill 12 fracking wells at Tanumbirini Station, a 5,000 sq km cattle station about 340km south-east of Katherine",
+          "• The NT government gave the green light for fracking in the Beetaloo to begin in 2023, after it was satisfied the recommendations of an independent inquiry had been met "
+        ],
+        "stakes_bullets": [
+          "• Santos has published plans to drill 12 fracking wells at Tanumbirini Station, a 5,000 sq km cattle station about 340km south-east of Katherine"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e52bb8cc963b"
+    },
+    {
       "id": "60002132ea7e",
       "title": "Zootopia Filmmakers Reveal Which Cult Classic Films to Watch Ahead of Zootopia 2",
       "outlet": "CBR",
@@ -4085,6 +4343,39 @@
       },
       "read_minutes": 5,
       "cluster_id": "460eb2dee84f"
+    },
+    {
+      "id": "cfe906633b05",
+      "title": "With Trump's tax bill set to dent giving by the wealthy, can middle-class donors make up the difference?",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/27/trump-tax-changes-middle-class-donors-giving-gap.html",
+      "published_at": "Thu, 27 Nov 2025 14:00:01 GMT",
+      "bullets": [
+        "• New tax laws risk reducing charitable giving by the wealthy next year, economists and academic experts say",
+        "• The Indiana University Lilly Family School of Philanthropy estimates this cap alone will reduce giving by $4.1 billion annually",
+        "• The bill also limits tax incentives for itemizers, who will only be able to deduct donations in excess of 0.5% of adjusted gross income "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New tax laws risk reducing charitable giving by the wealthy next year, economists and academic experts say",
+          "• The Indiana University Lilly Family School of Philanthropy estimates this cap alone will reduce giving by $4.1 billion annually"
+        ],
+        "hopeful_bullets": [
+          "• The Indiana University Lilly Family School of Philanthropy estimates this cap alone will reduce giving by $4.1 billion annually"
+        ],
+        "stakes_bullets": [
+          "• New tax laws risk reducing charitable giving by the wealthy next year, economists and academic experts say",
+          "• The Indiana University Lilly Family School of Philanthropy estimates this cap alone will reduce giving by $4.1 billion annually",
+          "• The bill also limits tax incentives for itemizers, who will only be able to deduct donations in excess of 0.5% of adjusted gross income "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "4f7b5d32ecfa"
     },
     {
       "id": "bfd9f30b555a",
@@ -4317,6 +4608,38 @@
       "cluster_id": "3802af90cd74"
     },
     {
+      "id": "155231e6ea3b",
+      "title": "TikTok-fueled K-beauty boom triggers a retail race in the U.S.",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/27/k-beauty-tiktok-makeup.html",
+      "published_at": "Thu, 27 Nov 2025 13:00:02 GMT",
+      "bullets": [
+        "• Once a niche reserved for beauty obsessives, K-beauty is breaking fully into the American mainstream",
+        "• It's fueled by TikTok virality, younger and more diverse shoppers, and aggressive expansion from retailers such as Ulta, Sephora, Walmart "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Once a niche reserved for beauty obsessives, K-beauty is breaking fully into the American mainstream",
+          "• It's fueled by TikTok virality, younger and more diverse shoppers, and aggressive expansion from retailers such as Ulta, Sephora, Walmart "
+        ],
+        "hopeful_bullets": [
+          "• Once a niche reserved for beauty obsessives, K-beauty is breaking fully into the American mainstream",
+          "• It's fueled by TikTok virality, younger and more diverse shoppers, and aggressive expansion from retailers such as Ulta, Sephora, Walmart "
+        ],
+        "stakes_bullets": [
+          "• Once a niche reserved for beauty obsessives, K-beauty is breaking fully into the American mainstream",
+          "• It's fueled by TikTok virality, younger and more diverse shoppers, and aggressive expansion from retailers such as Ulta, Sephora, Walmart "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "a1ddcd08cfe9"
+    },
+    {
       "id": "427b70acf1d5",
       "title": "The Dell 14 Plus Just Hit a New Rock Bottom Price (2025)",
       "outlet": "WIRED",
@@ -4515,6 +4838,40 @@
       "cluster_id": "55db30edbe92"
     },
     {
+      "id": "39db2fac20f5",
+      "title": "Blast from the past: 15 movie gems of 1985",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/culture/2025/11/blast-from-the-past-15-movie-gems-of-1985/",
+      "published_at": "Thu, 27 Nov 2025 12:15:18 +0000",
+      "bullets": [
+        "• Martin Scorsese's After Hours is an unlikely mix of screwball comedy and film noir",
+        "• Some of the films first premiered at film festivals or in smaller international markets in 1984, but they were released in the US in 1985",
+        "• After Hours stars Griffin Dunne as a nebbishy computer data entry worker named Paul who meets a young woman named Marcy "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Martin Scorsese's After Hours is an unlikely mix of screwball comedy and film noir",
+          "• Some of the films first premiered at film festivals or in smaller international markets in 1984, but they were released in the US in 1985"
+        ],
+        "hopeful_bullets": [
+          "• Martin Scorsese's After Hours is an unlikely mix of screwball comedy and film noir",
+          "• Some of the films first premiered at film festivals or in smaller international markets in 1984, but they were released in the US in 1985"
+        ],
+        "stakes_bullets": [
+          "• Martin Scorsese's After Hours is an unlikely mix of screwball comedy and film noir",
+          "• Some of the films first premiered at film festivals or in smaller international markets in 1984, but they were released in the US in 1985",
+          "• After Hours stars Griffin Dunne as a nebbishy computer data entry worker named Paul who meets a young woman named Marcy "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "debfe645b4f0"
+    },
+    {
       "id": "db703d4369f7",
       "title": "France to bring in form of military service, 25 years after conscription was phased out",
       "outlet": "BBC News",
@@ -4613,6 +4970,40 @@
       },
       "read_minutes": 3,
       "cluster_id": "14e875fd33e0"
+    },
+    {
+      "id": "bed7e41a0c27",
+      "title": "Four-inch worm hatches in woman’s forehead, wriggles to her eyelid",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/health/2025/11/doctors-pull-4-inch-worm-out-of-womans-eyelid-after-monthlong-incubation/",
+      "published_at": "Thu, 27 Nov 2025 12:00:04 +0000",
+      "bullets": [
+        "• Doctors in Romania pulled an 11 cm (4.3 inch) living, writhing round worm from a woman’s left eyelid",
+        "• The worm likely hatched from a hard lump in her right temple, which she recalled first spotting a month beforehand",
+        "• The woman also noticed that the nodule had vanished just a day before the worm apparently made a squiggly run for her eye "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Doctors in Romania pulled an 11 cm (4.3 inch) living, writhing round worm from a woman’s left eyelid",
+          "• The worm likely hatched from a hard lump in her right temple, which she recalled first spotting a month beforehand"
+        ],
+        "hopeful_bullets": [
+          "• Doctors in Romania pulled an 11 cm (4.3 inch) living, writhing round worm from a woman’s left eyelid",
+          "• The worm likely hatched from a hard lump in her right temple, which she recalled first spotting a month beforehand"
+        ],
+        "stakes_bullets": [
+          "• Doctors in Romania pulled an 11 cm (4.3 inch) living, writhing round worm from a woman’s left eyelid",
+          "• The worm likely hatched from a hard lump in her right temple, which she recalled first spotting a month beforehand",
+          "• The woman also noticed that the nodule had vanished just a day before the worm apparently made a squiggly run for her eye "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "650fd7fec0c5"
     },
     {
       "id": "9a2b6d0a1ff0",
@@ -5014,74 +5405,6 @@
       "cluster_id": "26e181059559"
     },
     {
-      "id": "910bb1d7bb21",
-      "title": "Chinese giants rush to pledge millions after Hong Kong’s deadliest fire since 1948 kills 55",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/27/chinese-firms-rush-to-pledge-millions-in-fire-rescue-as-hong-kong-fire-death-toll-climbs-to-55.html",
-      "published_at": "Thu, 27 Nov 2025 10:26:44 GMT",
-      "bullets": [
-        "• Chinese private firms pledged tens of millions of dollars to support rescue and relief efforts after a deadly residential fire in Hong Kong killed at least 55 people and left hundreds missing",
-        "• Alibaba Group and its affiliate Ant Group together committed 30 million Hong Kong dollars",
-        "• Tencent Holdings, Xiaomi Corp and ByteDance each pledged HK$10 million to aid the rescue efforts "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.894
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Chinese private firms pledged tens of millions of dollars to support rescue and relief efforts after a deadly residential fire in Hong Kong killed at least 55 people and left hundreds missing",
-          "• Alibaba Group and its affiliate Ant Group together committed 30 million Hong Kong dollars"
-        ],
-        "hopeful_bullets": [
-          "• Chinese private firms pledged tens of millions of dollars to support rescue and relief efforts after a deadly residential fire in Hong Kong killed at least 55 people and left hundreds missing"
-        ],
-        "stakes_bullets": [
-          "• Chinese private firms pledged tens of millions of dollars to support rescue and relief efforts after a deadly residential fire in Hong Kong killed at least 55 people and left hundreds missing",
-          "• Alibaba Group and its affiliate Ant Group together committed 30 million Hong Kong dollars",
-          "• Tencent Holdings, Xiaomi Corp and ByteDance each pledged HK$10 million to aid the rescue efforts "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6d4eeec4a46c"
-    },
-    {
-      "id": "664d8d15c3dc",
-      "title": "The Best Artificial Christmas Trees, as Blind-Judged By Interior Designers",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-judged-fake-christmas-trees/",
-      "published_at": "Thu, 27 Nov 2025 10:09:00 +0000",
-      "bullets": [
-        "• We Had Real Interior Designers Pick the Best Fake Christmas Trees",
-        "• 10 volunteer assemblers spent a morning unboxing, building, and fluffing every tree",
-        "• They evaluated each tree based solely on how it looked and felt",
-        "• After the day of testing, we allowed every assembler the chance to take their tree home and set it up "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.933
-      },
-      "moods": {
-        "brief_bullets": [
-          "• We Had Real Interior Designers Pick the Best Fake Christmas Trees",
-          "• 10 volunteer assemblers spent a morning unboxing, building, and fluffing every tree"
-        ],
-        "hopeful_bullets": [
-          "• We Had Real Interior Designers Pick the Best Fake Christmas Trees",
-          "• 10 volunteer assemblers spent a morning unboxing, building, and fluffing every tree"
-        ],
-        "stakes_bullets": [
-          "• We Had Real Interior Designers Pick the Best Fake Christmas Trees",
-          "• 10 volunteer assemblers spent a morning unboxing, building, and fluffing every tree",
-          "• They evaluated each tree based solely on how it looked and felt"
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "77d5333cecc6"
-    },
-    {
       "id": "7dcd1d8a8e1b",
       "title": "Massachusetts Coastal Zone Management Unveils 50-Year Plan to Protect Coastlines from Rising Seas and Extreme Weather",
       "outlet": "Inside Climate News",
@@ -5147,36 +5470,39 @@
       "cluster_id": "ca05b8ea581c"
     },
     {
-      "id": "ebc3ff48355f",
-      "title": "South Africa hits back after Trump says US won't invite it for G20 next year",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq8dq47j5y8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 27 Nov 2025 08:49:47 GMT",
+      "id": "b9cbdea05ecc",
+      "title": "Here's what we know about the shooting of 2 National Guard members in D.C.",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/27/nx-s1-5622955/national-guard-shooting-washington-dc-updates",
+      "published_at": "Thu, 27 Nov 2025 08:59:38 -0500",
       "bullets": [
-        "• South Africa hits back after Trump says US won't invite it for G20 next year",
-        "• President Cyril Ramaphosa described the announcement as \"regrettable\" US President Donald Trump said South Africa had refused to hand over the G20 presidency to a US embassy representative at last week's summit in Johannesburg "
+        "• Two West Virginia National Guard members were shot while on patrol in Washington, D.C., on Wednesday afternoon",
+        "• The gunman was admitted into the U.S",
+        "• from Afghanistan in 2021, CIA director says",
+        "• The attack comes as President Trump has deployed the National Guard to several cities around the country "
       ],
-      "category": "World",
+      "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• South Africa hits back after Trump says US won't invite it for G20 next year",
-          "• President Cyril Ramaphosa described the announcement as \"regrettable\" US President Donald Trump said South Africa had refused to hand over the G20 presidency to a US embassy representative at last week's summit in Johannesburg "
+          "• Two West Virginia National Guard members were shot while on patrol in Washington, D.C., on Wednesday afternoon",
+          "• The gunman was admitted into the U.S"
         ],
         "hopeful_bullets": [
-          "• South Africa hits back after Trump says US won't invite it for G20 next year",
-          "• President Cyril Ramaphosa described the announcement as \"regrettable\" US President Donald Trump said South Africa had refused to hand over the G20 presidency to a US embassy representative at last week's summit in Johannesburg "
+          "• Two West Virginia National Guard members were shot while on patrol in Washington, D.C., on Wednesday afternoon",
+          "• The gunman was admitted into the U.S"
         ],
         "stakes_bullets": [
-          "• South Africa hits back after Trump says US won't invite it for G20 next year",
-          "• President Cyril Ramaphosa described the announcement as \"regrettable\" US President Donald Trump said South Africa had refused to hand over the G20 presidency to a US embassy representative at last week's summit in Johannesburg "
+          "• Two West Virginia National Guard members were shot while on patrol in Washington, D.C., on Wednesday afternoon",
+          "• The gunman was admitted into the U.S",
+          "• from Afghanistan in 2021, CIA director says"
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "67908c15fa4d"
+      "read_minutes": 4,
+      "cluster_id": "3ca44417ca12"
     },
     {
       "id": "a5a0bb0c2789",
@@ -5242,39 +5568,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "3407935df816"
-    },
-    {
-      "id": "5b4aa9634fce",
-      "title": "Europe’s slow and steady approach to AI could be its edge",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/27/europes-slow-and-steady-approach-to-ai-could-be-its-edge.html",
-      "published_at": "Thu, 27 Nov 2025 07:52:27 GMT",
-      "bullets": [
-        "• The world is racing to double, if not triple, the entire data center capacity that has been built over the last forty years",
-        "• McKinsey estimates that build-out will cost up to $7 trillion by 2030",
-        "• Europe will \"continue to build at a pretty meaningful rate\" to nearly double existing capacity "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.658
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The world is racing to double, if not triple, the entire data center capacity that has been built over the last forty years",
-          "• McKinsey estimates that build-out will cost up to $7 trillion by 2030"
-        ],
-        "hopeful_bullets": [
-          "• The world is racing to double, if not triple, the entire data center capacity that has been built over the last forty years",
-          "• McKinsey estimates that build-out will cost up to $7 trillion by 2030"
-        ],
-        "stakes_bullets": [
-          "• McKinsey estimates that build-out will cost up to $7 trillion by 2030",
-          "• Europe will \"continue to build at a pretty meaningful rate\" to nearly double existing capacity "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "bf967299620c"
     },
     {
       "id": "e4aed158d66c",
@@ -5470,38 +5763,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "7f573d57f168"
-    },
-    {
-      "id": "78bbbc4b56d4",
-      "title": "Rachel Reeves hands farmers inheritance tax break",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2025/nov/27/rachel-reeves-hands-farmers-inheritance-tax-break",
-      "published_at": "Thu, 27 Nov 2025 06:00:18 GMT",
-      "bullets": [
-        "• Farmers and small business owners will be able to transfer their inheritance tax allowance to each other if one of them dies without having used their allowance",
-        "• Changes could save farmers and business owners £30m next year and £70m a year in the following four years",
-        "• Farmers, who had driven tractors up to the doors of parliament, were protesting outside "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Farmers and small business owners will be able to transfer their inheritance tax allowance to each other if one of them dies without having used their allowance",
-          "• Changes could save farmers and business owners £30m next year and £70m a year in the following four years"
-        ],
-        "hopeful_bullets": [
-          "• Changes could save farmers and business owners £30m next year and £70m a year in the following four years"
-        ],
-        "stakes_bullets": [
-          "• Farmers and small business owners will be able to transfer their inheritance tax allowance to each other if one of them dies without having used their allowance",
-          "• Changes could save farmers and business owners £30m next year and £70m a year in the following four years"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4645735ad6c9"
     },
     {
       "id": "2b0724ab34f4",
@@ -5833,143 +6094,6 @@
       "cluster_id": "aa71adfb684a"
     },
     {
-      "id": "fb233b0b4403",
-      "title": "5 Crime Dramas That Never Had a Bad Season",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/crime-dramas-no-bad-season-list/",
-      "published_at": "Thu, 27 Nov 2025 04:40:11 GMT",
-      "bullets": [
-        "• The series follows financial advisor Marty Byrde, who is forced to move his entire family to the Lake of the Ozarks to continue laundering",
-        "• Ozark debuted on Netflix in 2017, the primary selling point for most viewers was the prospect of Arrested Development's Jason Bateman trying his hand at a 'serious' show "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The series follows financial advisor Marty Byrde, who is forced to move his entire family to the Lake of the Ozarks to continue laundering",
-          "• Ozark debuted on Netflix in 2017, the primary selling point for most viewers was the prospect of Arrested Development's Jason Bateman trying his hand at a 'serious' show "
-        ],
-        "hopeful_bullets": [
-          "• The series follows financial advisor Marty Byrde, who is forced to move his entire family to the Lake of the Ozarks to continue laundering",
-          "• Ozark debuted on Netflix in 2017, the primary selling point for most viewers was the prospect of Arrested Development's Jason Bateman trying his hand at a 'serious' show "
-        ],
-        "stakes_bullets": [
-          "• The series follows financial advisor Marty Byrde, who is forced to move his entire family to the Lake of the Ozarks to continue laundering",
-          "• Ozark debuted on Netflix in 2017, the primary selling point for most viewers was the prospect of Arrested Development's Jason Bateman trying his hand at a 'serious' show "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "c98ab9187b7f"
-    },
-    {
-      "id": "a189e2817644",
-      "title": "Stranger Things Season 5 Rotten Tomatoes Score Sets New Series Low",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/stranger-things-season-5-rotten-tomatoes-score/",
-      "published_at": "Thu, 27 Nov 2025 04:37:07 GMT",
-      "bullets": [
-        "• Rotten Tomatoes has released its rating for Stranger Things Season 5",
-        "• At 85%, it's the show's lowest ever",
-        "• The series still carries a 90% rating as a series",
-        "• The first part of Season 5 debuted today on Netflix "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Rotten Tomatoes has released its rating for Stranger Things Season 5",
-          "• At 85%, it's the show's lowest ever"
-        ],
-        "hopeful_bullets": [
-          "• Rotten Tomatoes has released its rating for Stranger Things Season 5",
-          "• At 85%, it's the show's lowest ever"
-        ],
-        "stakes_bullets": [
-          "• Rotten Tomatoes has released its rating for Stranger Things Season 5",
-          "• At 85%, it's the show's lowest ever",
-          "• The series still carries a 90% rating as a series"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f15820362ca7"
-    },
-    {
-      "id": "bee8ab6dc676",
-      "title": "How Can I Watch Thunderbolts on Streaming?",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/thunderbolts-where-to-stream/",
-      "published_at": "Thu, 27 Nov 2025 04:35:11 GMT",
-      "bullets": [
-        "• Thunderbolts* was released in the United States on May 2 to great reviews from the audience and critics",
-        "• The movie was a box office flop, but that has nothing to do with its quality or the fandom's affection for it",
-        "• It holds an 88% rate of approval on Rotten Tomatoes, which is clear proof of the positive impact of the movie",
-        "• It became the most-streamed movie in the U.S",
-        "• and the third in the world in one day in just one day"
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.969
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Thunderbolts* was released in the United States on May 2 to great reviews from the audience and critics",
-          "• The movie was a box office flop, but that has nothing to do with its quality or the fandom's affection for it"
-        ],
-        "hopeful_bullets": [
-          "• Thunderbolts* was released in the United States on May 2 to great reviews from the audience and critics",
-          "• The movie was a box office flop, but that has nothing to do with its quality or the fandom's affection for it"
-        ],
-        "stakes_bullets": [
-          "• The movie was a box office flop, but that has nothing to do with its quality or the fandom's affection for it",
-          "• It holds an 88% rate of approval on Rotten Tomatoes, which is clear proof of the positive impact of the movie"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "77c64e62dc94"
-    },
-    {
-      "id": "5d704fb85622",
-      "title": "Nintendo Switch Classics Just Got Four New Underrated Retro Games",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/nintendo-switch-classics-four-new-underrated-retro-games-nes-game-boy/",
-      "published_at": "Thu, 27 Nov 2025 04:15:11 GMT",
-      "bullets": [
-        "• Nintendo added four excellent, and underrated, retro games to the Nintendo Switch Online Classics catalog this week",
-        "• The games are part of the Nintendo Classics subscription",
-        "• They come with controller remapping support and the convenience of modern emulation",
-        "• Now, these classics are easier than ever to revisit "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nintendo added four excellent, and underrated, retro games to the Nintendo Switch Online Classics catalog this week",
-          "• The games are part of the Nintendo Classics subscription"
-        ],
-        "hopeful_bullets": [
-          "• Nintendo added four excellent, and underrated, retro games to the Nintendo Switch Online Classics catalog this week",
-          "• The games are part of the Nintendo Classics subscription"
-        ],
-        "stakes_bullets": [
-          "• Nintendo added four excellent, and underrated, retro games to the Nintendo Switch Online Classics catalog this week",
-          "• The games are part of the Nintendo Classics subscription",
-          "• They come with controller remapping support and the convenience of modern emulation"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "44987e7d650c"
-    },
-    {
       "id": "a236ab06669a",
       "title": "Washington DC shooting: Trump calls shooting of national guard members ‘an act of terror’, vows new scrutiny of immigrants – as it happened",
       "outlet": "US news | The Guardian",
@@ -6236,7 +6360,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "83a825e22b32"
+      "cluster_id": "a8a2aec51ff4"
     },
     {
       "id": "b9e92ec32e61",
@@ -6628,37 +6752,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "1eab7cfe9eb7"
-    },
-    {
-      "id": "cfa6bafba266",
-      "title": "Trump officials reveal plan to roll back regulations in Endangered Species Act",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/20/trump-endangered-species-act",
-      "published_at": "Thu, 20 Nov 2025 11:00:06 GMT",
-      "bullets": [
-        "• The proposal is one of many attempts to dismantle critical wildlife protections in order to boost energy extraction and industrial access",
-        "• The Center for Biological Diversity said the proposals were “a death sentence for wolverines, monarchs, but but not monarchs”"
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.981
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The proposal is one of many attempts to dismantle critical wildlife protections in order to boost energy extraction and industrial access",
-          "• The Center for Biological Diversity said the proposals were “a death sentence for wolverines, monarchs, but but not monarchs”"
-        ],
-        "hopeful_bullets": [
-          "• The proposal is one of many attempts to dismantle critical wildlife protections in order to boost energy extraction and industrial access"
-        ],
-        "stakes_bullets": [
-          "• The proposal is one of many attempts to dismantle critical wildlife protections in order to boost energy extraction and industrial access",
-          "• The Center for Biological Diversity said the proposals were “a death sentence for wolverines, monarchs, but but not monarchs”"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "627f35d668e7"
     },
     {
       "id": "bb9565a0b583",
@@ -7189,6 +7282,41 @@
       "cluster_id": "c0be2a41c4c4"
     },
     {
+      "id": "be2322f64436",
+      "title": "TVC15: Bastila Shan (VC69)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-22-tvc15-bastila-shan-vc69/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-bastila-shan-vc69",
+      "published_at": "Sun, 23 Nov 2025 01:06:31 +0000",
+      "bullets": [
+        "• Bastila Shan won the Fans’ Choice Poll years before its release",
+        "• Hasbro should redo the figure based on the digital rendering of the 6-inch figure",
+        "• Once shipped, collectors had buyer’s remorse",
+        "• The likeness didn’t match the video game character, and finding it at retail proved difficult "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Bastila Shan won the Fans’ Choice Poll years before its release",
+          "• Hasbro should redo the figure based on the digital rendering of the 6-inch figure"
+        ],
+        "hopeful_bullets": [
+          "• Bastila Shan won the Fans’ Choice Poll years before its release",
+          "• Hasbro should redo the figure based on the digital rendering of the 6-inch figure"
+        ],
+        "stakes_bullets": [
+          "• Bastila Shan won the Fans’ Choice Poll years before its release",
+          "• Hasbro should redo the figure based on the digital rendering of the 6-inch figure",
+          "• Once shipped, collectors had buyer’s remorse"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "057c24818433"
+    },
+    {
       "id": "eb57e9ca09a9",
       "title": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -7289,6 +7417,40 @@
       },
       "read_minutes": 13,
       "cluster_id": "f2bfdbda393f"
+    },
+    {
+      "id": "231afac8800e",
+      "title": "TVC15: (Twin Pod) Cloud Car Pilot (VC11)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-21-tvc15-twin-pod-cloud-car-pilot-vc11/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-twin-pod-cloud-car-pilot-vc11",
+      "published_at": "Sat, 22 Nov 2025 02:34:26 +0000",
+      "bullets": [
+        "• We're celebrating the 15th Anniversary of The Vintage Collection",
+        "• The Cloud Car Pilot is the definitive modern counterpart to the 1982 Kenner action figure",
+        "• Hasbro also released the Bespin Cloud Car alongside it, albeit in a different line look "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• We're celebrating the 15th Anniversary of The Vintage Collection",
+          "• The Cloud Car Pilot is the definitive modern counterpart to the 1982 Kenner action figure"
+        ],
+        "hopeful_bullets": [
+          "• We're celebrating the 15th Anniversary of The Vintage Collection",
+          "• The Cloud Car Pilot is the definitive modern counterpart to the 1982 Kenner action figure"
+        ],
+        "stakes_bullets": [
+          "• We're celebrating the 15th Anniversary of The Vintage Collection",
+          "• The Cloud Car Pilot is the definitive modern counterpart to the 1982 Kenner action figure",
+          "• Hasbro also released the Bespin Cloud Car alongside it, albeit in a different line look "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6a4e50e21e9c"
     },
     {
       "id": "f216a779aac4",
@@ -7826,6 +7988,38 @@
       "cluster_id": "20bfd5db08ae"
     },
     {
+      "id": "1dfeb017581e",
+      "title": "TVC15: MagnaGuard (VC18)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-23-tvc15-magnaguard-vc18/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-magnaguard-vc18",
+      "published_at": "Mon, 24 Nov 2025 03:18:02 +0000",
+      "bullets": [
+        "• Hasbro released only three waves of The Vintage Collection in 2010",
+        "• Sadly, Hasbro seized on the opportunity to reissue this figure or repaint it to give us the other MagnaGuard colors (gray, blue, and others are yet to be produced)"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro released only three waves of The Vintage Collection in 2010",
+          "• Sadly, Hasbro seized on the opportunity to reissue this figure or repaint it to give us the other MagnaGuard colors (gray, blue, and others are yet to be produced)"
+        ],
+        "hopeful_bullets": [
+          "• Hasbro released only three waves of The Vintage Collection in 2010",
+          "• Sadly, Hasbro seized on the opportunity to reissue this figure or repaint it to give us the other MagnaGuard colors (gray, blue, and others are yet to be produced)"
+        ],
+        "stakes_bullets": [
+          "• Hasbro released only three waves of The Vintage Collection in 2010",
+          "• Sadly, Hasbro seized on the opportunity to reissue this figure or repaint it to give us the other MagnaGuard colors (gray, blue, and others are yet to be produced)"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c9681fa69a3c"
+    },
+    {
       "id": "1b037cbd2fa0",
       "title": "How the Force can Fix the World w/ Stephen Kent – SWR #482",
       "outlet": "The Star Wars Report Podcast",
@@ -8054,6 +8248,73 @@
       "cluster_id": "26f18df82ccd"
     },
     {
+      "id": "6da761115ad3",
+      "title": "Hot Toys 212th Attack Battalion Clone Trooper (Deluxe Version) (MMS852) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-21-hot-toys-212th-attack-battalion-clone-trooper-deluxe-version-mms852-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-212th-attack-battalion-clone-trooper-deluxe-version-mms852-1-6-scale-figure",
+      "published_at": "Fri, 21 Nov 2025 13:38:06 +0000",
+      "bullets": [
+        "• The 212th Attack Battalion descended upon the war-torn terrain of Utapau under the leadership of Jedi General Obi-Wan Kenobi and Clone Commander Cody",
+        "• The battalion played a pivotal role in the Republic’s final stand against the Separatists",
+        "• Following the issuance of Order 66, the battalion turned against their Jedi General "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.946
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The 212th Attack Battalion descended upon the war-torn terrain of Utapau under the leadership of Jedi General Obi-Wan Kenobi and Clone Commander Cody",
+          "• The battalion played a pivotal role in the Republic’s final stand against the Separatists"
+        ],
+        "hopeful_bullets": [
+          "• The battalion played a pivotal role in the Republic’s final stand against the Separatists",
+          "• Following the issuance of Order 66, the battalion turned against their Jedi General "
+        ],
+        "stakes_bullets": [
+          "• The 212th Attack Battalion descended upon the war-torn terrain of Utapau under the leadership of Jedi General Obi-Wan Kenobi and Clone Commander Cody"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4ac8e3dda59b"
+    },
+    {
+      "id": "ab4ddf823230",
+      "title": "Hot Toys 212th Attack Battalion Clone Trooper (MMS851) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-21-hot-toys-212th-attack-battalion-clone-trooper-mms851-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-212th-attack-battalion-clone-trooper-mms851-1-6-scale-figure",
+      "published_at": "Fri, 21 Nov 2025 13:36:55 +0000",
+      "bullets": [
+        "• Hot Toys has added a few new clone troopers to The Grand Army of the Republic",
+        "• The 212th Attack Battalion Clone Trooper is modeled after the iconic unit",
+        "• The figure features a finely crafted helmeted head with battle weathering",
+        "• The included blaster carbine and rifle bring the infantry to life "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hot Toys has added a few new clone troopers to The Grand Army of the Republic",
+          "• The 212th Attack Battalion Clone Trooper is modeled after the iconic unit"
+        ],
+        "hopeful_bullets": [
+          "• Hot Toys has added a few new clone troopers to The Grand Army of the Republic",
+          "• The 212th Attack Battalion Clone Trooper is modeled after the iconic unit"
+        ],
+        "stakes_bullets": [
+          "• Hot Toys has added a few new clone troopers to The Grand Army of the Republic",
+          "• The 212th Attack Battalion Clone Trooper is modeled after the iconic unit",
+          "• The figure features a finely crafted helmeted head with battle weathering"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4ac8e3dda59b"
+    },
+    {
       "id": "d54c64da496b",
       "title": "What went right this week: ‘a future free of cervical cancer’, plus more",
       "outlet": "Positive News",
@@ -8084,6 +8345,37 @@
       },
       "read_minutes": 7,
       "cluster_id": "709ef3019056"
+    },
+    {
+      "id": "c6c514cc9d89",
+      "title": "TVC15: B-Wing Pilot (Keyan Farlander) (VC63)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-20-tvc15-b-wing-pilot-keyan-farlander-vc63/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-b-wing-pilot-keyan-farlander-vc63",
+      "published_at": "Fri, 21 Nov 2025 04:36:29 +0000",
+      "bullets": [
+        "• Hasbro developed the “Revenge Of The Jedi” promotion and re-released a bunch of chase action figures with the ‘Revenge” entertainment logos",
+        "• It was the best of times for the collecting community, and this figure got swept up in the pandemonium because the event was more interesting than the figures released "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro developed the “Revenge Of The Jedi” promotion and re-released a bunch of chase action figures with the ‘Revenge” entertainment logos",
+          "• It was the best of times for the collecting community, and this figure got swept up in the pandemonium because the event was more interesting than the figures released "
+        ],
+        "hopeful_bullets": [
+          "• Hasbro developed the “Revenge Of The Jedi” promotion and re-released a bunch of chase action figures with the ‘Revenge” entertainment logos",
+          "• It was the best of times for the collecting community, and this figure got swept up in the pandemonium because the event was more interesting than the figures released "
+        ],
+        "stakes_bullets": [
+          "• It was the best of times for the collecting community, and this figure got swept up in the pandemonium because the event was more interesting than the figures released "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "d29daa5ab72c"
     },
     {
       "id": "23dc1f21a928",
@@ -8252,6 +8544,108 @@
       },
       "read_minutes": 40,
       "cluster_id": "76c61b84461a"
+    },
+    {
+      "id": "166c7ed022b1",
+      "title": "Why can’t ChatGPT tell time?",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/report/829137/openai-chatgpt-time-date",
+      "published_at": "2025-11-27T09:30:00-05:00",
+      "bullets": [
+        "• ChatGPT, like many chatbots, is pitched as a hyper-competent personal assistant",
+        "• But among the many things that confuse it, one is particularly confounding: It cannot tell time",
+        "• Sometimes, it tells me it can’t do it",
+        "• Sometimes it does provide exactly the correct time "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ChatGPT, like many chatbots, is pitched as a hyper-competent personal assistant",
+          "• But among the many things that confuse it, one is particularly confounding: It cannot tell time"
+        ],
+        "hopeful_bullets": [
+          "• ChatGPT, like many chatbots, is pitched as a hyper-competent personal assistant",
+          "• But among the many things that confuse it, one is particularly confounding: It cannot tell time"
+        ],
+        "stakes_bullets": [
+          "• ChatGPT, like many chatbots, is pitched as a hyper-competent personal assistant",
+          "• But among the many things that confuse it, one is particularly confounding: It cannot tell time",
+          "• Sometimes, it tells me it can’t do it"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "fd2db2028fdb"
+    },
+    {
+      "id": "88c39e211da0",
+      "title": "Around 500 million PCs are holding off upgrading to Windows 11, says Dell",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/831364/dell-windows-11-upgrade-numbers-earnings-call-q3-2025",
+      "published_at": "2025-11-27T09:15:20-05:00",
+      "bullets": [
+        "• Windows users are transitioning to Windows 11 at a slower rate than the upgrade to Windows 10",
+        "• Dell COO Jeffrey Clarke says 500 million PCs capable of running Windows 11 that haven’t been upgraded",
+        "• Microsoft tightened its hardware requirements for Windows 11, leaving behind millions of PCs sold over the past decade "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Windows users are transitioning to Windows 11 at a slower rate than the upgrade to Windows 10",
+          "• Dell COO Jeffrey Clarke says 500 million PCs capable of running Windows 11 that haven’t been upgraded"
+        ],
+        "hopeful_bullets": [
+          "• Windows users are transitioning to Windows 11 at a slower rate than the upgrade to Windows 10",
+          "• Dell COO Jeffrey Clarke says 500 million PCs capable of running Windows 11 that haven’t been upgraded",
+          "• Microsoft tightened its hardware requirements for Windows 11, leaving behind millions of PCs sold over the past decade "
+        ],
+        "stakes_bullets": [
+          "• Microsoft tightened its hardware requirements for Windows 11, leaving behind millions of PCs sold over the past decade "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "43e05b80bb8b"
+    },
+    {
+      "id": "9b68bbe32e7a",
+      "title": "Joachim Trier finds his place",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/entertainment/830079/sentimental-value-joachim-trier-interview",
+      "published_at": "2025-11-27T09:00:00-05:00",
+      "bullets": [
+        "• In 2022, Joachim Trier’s The Worst Person in the World snuck into the Academy Awards with nods for Best International Film and Best Original Screenplay",
+        "• His family-anchored follow-up, Sentimental Value, has been pegged as an Oscar hopeful since its big Grand Prix win at Cannes",
+        "• Gustav Borg (Stellan Skarsgård) plays a negligent father and a filmmaker himself "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.971
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In 2022, Joachim Trier’s The Worst Person in the World snuck into the Academy Awards with nods for Best International Film and Best Original Screenplay",
+          "• His family-anchored follow-up, Sentimental Value, has been pegged as an Oscar hopeful since its big Grand Prix win at Cannes"
+        ],
+        "hopeful_bullets": [
+          "• In 2022, Joachim Trier’s The Worst Person in the World snuck into the Academy Awards with nods for Best International Film and Best Original Screenplay",
+          "• His family-anchored follow-up, Sentimental Value, has been pegged as an Oscar hopeful since its big Grand Prix win at Cannes"
+        ],
+        "stakes_bullets": [
+          "• In 2022, Joachim Trier’s The Worst Person in the World snuck into the Academy Awards with nods for Best International Film and Best Original Screenplay",
+          "• His family-anchored follow-up, Sentimental Value, has been pegged as an Oscar hopeful since its big Grand Prix win at Cannes",
+          "• Gustav Borg (Stellan Skarsgård) plays a negligent father and a filmmaker himself "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "1e490751f6bd"
     },
     {
       "id": "a715add49a49",
@@ -8479,109 +8873,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "a90f7ca1bf60"
-    },
-    {
-      "id": "43ad11eb0046",
-      "title": "The best Black Friday deals we’ve found on TVs, laptops, and more",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
-      "published_at": "2025-11-26T20:19:49-05:00",
-      "bullets": [
-        "• Black Friday is the most anticipated day of the year for bargain hunters",
-        "• Right now, entry-level AirPods 4 are down to a mere $69 at several retailers",
-        "• Meanwhile, Google’s Pixel Watch 4 — the Android watch to beat — is on sale for the first time",
-        "• Some of our favorite streaming services — including Disney Plus, Apple TV, and HBO Max — are steeply discounted "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.686
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Black Friday is the most anticipated day of the year for bargain hunters",
-          "• Right now, entry-level AirPods 4 are down to a mere $69 at several retailers"
-        ],
-        "hopeful_bullets": [
-          "• Black Friday is the most anticipated day of the year for bargain hunters",
-          "• Right now, entry-level AirPods 4 are down to a mere $69 at several retailers"
-        ],
-        "stakes_bullets": [
-          "• Black Friday is the most anticipated day of the year for bargain hunters",
-          "• Right now, entry-level AirPods 4 are down to a mere $69 at several retailers",
-          "• Meanwhile, Google’s Pixel Watch 4 — the Android watch to beat — is on sale for the first time"
-        ]
-      },
-      "read_minutes": 33,
-      "cluster_id": "f9ffaaa52197"
-    },
-    {
-      "id": "33eedc0452e1",
-      "title": "Stranger Things 5 begins with a frantic race to the finish line",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/entertainment/830518/stranger-things-5-review-part-one",
-      "published_at": "2025-11-26T20:00:00-05:00",
-      "bullets": [
-        "• The first season of Stranger Things has been released on Netflix",
-        "• The show's fifth season has already had a lot of time to finish",
-        "• The final season of the series is set to be released on October 31",
-        "• The series is expected to be the first of its six seasons "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The first season of Stranger Things has been released on Netflix",
-          "• The show's fifth season has already had a lot of time to finish"
-        ],
-        "hopeful_bullets": [
-          "• The first season of Stranger Things has been released on Netflix",
-          "• The show's fifth season has already had a lot of time to finish"
-        ],
-        "stakes_bullets": [
-          "• The series is expected to be the first of its six seasons "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "9d2533fb4ec0"
-    },
-    {
-      "id": "60d9814ab570",
-      "title": "Apple TV pulls The Hunt over plagiarism accusation",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/831227/apple-tv-the-hunt-plagiarism",
-      "published_at": "2025-11-26T19:51:20-05:00",
-      "bullets": [
-        "• The French series was supposed to be broadcast on Apple TV on December 3th",
-        "• The series is based on a 1974 novel called The Hunt",
-        "• It is being investigated for plagiarism in the wake of the book being published in the U.S",
-        "• Apple has pulled the series from its schedule "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The French series was supposed to be broadcast on Apple TV on December 3th",
-          "• The series is based on a 1974 novel called The Hunt"
-        ],
-        "hopeful_bullets": [
-          "• The French series was supposed to be broadcast on Apple TV on December 3th",
-          "• The series is based on a 1974 novel called The Hunt"
-        ],
-        "stakes_bullets": [
-          "• The French series was supposed to be broadcast on Apple TV on December 3th",
-          "• The series is based on a 1974 novel called The Hunt",
-          "• It is being investigated for plagiarism in the wake of the book being published in the U.S"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6edccaa3e95a"
     },
     {
       "id": "c41ff758b36a",
@@ -9520,7 +9811,7 @@
       ]
     },
     {
-      "id": "83a825e22b32",
+      "id": "a8a2aec51ff4",
       "topic": "condition critical guard member",
       "keywords": [
         "condition",
@@ -9528,15 +9819,12 @@
         "guard",
         "member",
         "national",
-        "targeted",
         "washington"
       ],
       "item_ids": [
-        "adaeeeb30e07",
-        "895fd8b65cd2"
+        "adaeeeb30e07"
       ],
       "outlets": [
-        "NPR Topics: News",
         "US news | The Guardian"
       ]
     },
@@ -9574,6 +9862,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "3ca44417ca12",
+      "topic": "guard here know member",
+      "keywords": [
+        "guard",
+        "here",
+        "know",
+        "member",
+        "national",
+        "shooting"
+      ],
+      "item_ids": [
+        "b9cbdea05ecc"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9721,6 +10027,42 @@
       ]
     },
     {
+      "id": "a1ddcd08cfe9",
+      "topic": "beauty boom fueled retail",
+      "keywords": [
+        "beauty",
+        "boom",
+        "fueled",
+        "retail",
+        "tiktok",
+        "trigger"
+      ],
+      "item_ids": [
+        "155231e6ea3b"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "4f7b5d32ecfa",
+      "topic": "bill dent giving set",
+      "keywords": [
+        "bill",
+        "dent",
+        "giving",
+        "set",
+        "tax",
+        "trump"
+      ],
+      "item_ids": [
+        "cfe906633b05"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "b838c91f7d71",
       "topic": "activist boaz call capital",
       "keywords": [
@@ -9811,24 +10153,6 @@
       ]
     },
     {
-      "id": "6d4eeec4a46c",
-      "topic": "chinese giant hong million",
-      "keywords": [
-        "chinese",
-        "giant",
-        "hong",
-        "million",
-        "pledge",
-        "rush"
-      ],
-      "item_ids": [
-        "910bb1d7bb21"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "ee78057e61e2",
       "topic": "matter medicare negotiation nordisk",
       "keywords": [
@@ -9883,20 +10207,21 @@
       ]
     },
     {
-      "id": "bf967299620c",
-      "topic": "approach edge europe slow",
+      "id": "f7ec7c3b8e65",
+      "topic": "2025 alexa best google",
       "keywords": [
-        "approach",
-        "edge",
-        "europe",
-        "slow",
-        "steady"
+        "2025",
+        "alexa",
+        "best",
+        "google",
+        "smart",
+        "speaker"
       ],
       "item_ids": [
-        "5b4aa9634fce"
+        "3fb4e5d43de0"
       ],
       "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
       ]
     },
     {
@@ -10062,21 +10387,52 @@
       ]
     },
     {
-      "id": "77d5333cecc6",
-      "topic": "artificial best blind christma",
+      "id": "fd2db2028fdb",
+      "topic": "chatgpt tell time",
       "keywords": [
-        "artificial",
-        "best",
-        "blind",
-        "christma",
-        "judged",
-        "tree"
+        "chatgpt",
+        "tell",
+        "time"
       ],
       "item_ids": [
-        "664d8d15c3dc"
+        "166c7ed022b1"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
+      ]
+    },
+    {
+      "id": "43e05b80bb8b",
+      "topic": "500 around holding million",
+      "keywords": [
+        "500",
+        "around",
+        "holding",
+        "million",
+        "off",
+        "pcs"
+      ],
+      "item_ids": [
+        "88c39e211da0"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "1e490751f6bd",
+      "topic": "find joachim place trier",
+      "keywords": [
+        "find",
+        "joachim",
+        "place",
+        "trier"
+      ],
+      "item_ids": [
+        "9b68bbe32e7a"
+      ],
+      "outlets": [
+        "The Verge"
       ]
     },
     {
@@ -10201,56 +10557,38 @@
       ]
     },
     {
-      "id": "f9ffaaa52197",
-      "topic": "best black deal found",
+      "id": "debfe645b4f0",
+      "topic": "1985 blast gems movie",
       "keywords": [
-        "best",
-        "black",
-        "deal",
-        "found",
-        "friday",
-        "tvs"
+        "1985",
+        "blast",
+        "gems",
+        "movie",
+        "past"
       ],
       "item_ids": [
-        "43ad11eb0046"
+        "39db2fac20f5"
       ],
       "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
-      "id": "9d2533fb4ec0",
-      "topic": "begin finish frantic race",
+      "id": "650fd7fec0c5",
+      "topic": "forehead four hatche inch",
       "keywords": [
-        "begin",
-        "finish",
-        "frantic",
-        "race",
-        "stranger",
-        "thing"
+        "forehead",
+        "four",
+        "hatche",
+        "inch",
+        "woman",
+        "worm"
       ],
       "item_ids": [
-        "33eedc0452e1"
+        "bed7e41a0c27"
       ],
       "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "6edccaa3e95a",
-      "topic": "accusation apple hunt plagiarism",
-      "keywords": [
-        "accusation",
-        "apple",
-        "hunt",
-        "plagiarism",
-        "pull"
-      ],
-      "item_ids": [
-        "60d9814ab570"
-      ],
-      "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
@@ -10392,42 +10730,6 @@
       ],
       "item_ids": [
         "92511730a379"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "21618f16dc05",
-      "topic": "company cto firm gets",
-      "keywords": [
-        "company",
-        "cto",
-        "firm",
-        "gets",
-        "indicted",
-        "tech"
-      ],
-      "item_ids": [
-        "b898d06f5b08"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "4af5095c1ba1",
-      "topic": "associated behavior dog gene",
-      "keywords": [
-        "associated",
-        "behavior",
-        "dog",
-        "gene",
-        "influence",
-        "many"
-      ],
-      "item_ids": [
-        "ea82bac40e4a"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -11072,6 +11374,24 @@
       ]
     },
     {
+      "id": "8cee31814b01",
+      "topic": "all fact food medicine",
+      "keywords": [
+        "all",
+        "fact",
+        "food",
+        "medicine",
+        "native",
+        "need"
+      ],
+      "item_ids": [
+        "07e6648915b6"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "3802af90cd74",
       "topic": "asheville feed flood nature",
       "keywords": [
@@ -11162,18 +11482,18 @@
       ]
     },
     {
-      "id": "627f35d668e7",
-      "topic": "back official plan reveal",
+      "id": "e52bb8cc963b",
+      "topic": "escalate far fear gas",
       "keywords": [
-        "back",
-        "official",
-        "plan",
-        "reveal",
-        "roll",
-        "trump"
+        "escalate",
+        "far",
+        "fear",
+        "gas",
+        "going",
+        "santo"
       ],
       "item_ids": [
-        "cfa6bafba266"
+        "fc0314b4994d"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -11210,24 +11530,6 @@
       ],
       "item_ids": [
         "998906b057d6"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "4645735ad6c9",
-      "topic": "farmer hand inheritance rachel",
-      "keywords": [
-        "farmer",
-        "hand",
-        "inheritance",
-        "rachel",
-        "reeve",
-        "tax"
-      ],
-      "item_ids": [
-        "78bbbc4b56d4"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -12452,6 +12754,138 @@
       ]
     },
     {
+      "id": "404906aa0c7b",
+      "topic": "tvc15 vc20 yoda",
+      "keywords": [
+        "tvc15",
+        "vc20",
+        "yoda"
+      ],
+      "item_ids": [
+        "97b4fd99378e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "f30b4eeee04b",
+      "topic": "fett jango tvc15 vc34",
+      "keywords": [
+        "fett",
+        "jango",
+        "tvc15",
+        "vc34"
+      ],
+      "item_ids": [
+        "f7990419e35e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "c6aef76d7482",
+      "topic": "driver tvc15 vc46",
+      "keywords": [
+        "driver",
+        "tvc15",
+        "vc46"
+      ],
+      "item_ids": [
+        "0892590639ac"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "c9681fa69a3c",
+      "topic": "magnaguard tvc15 vc18",
+      "keywords": [
+        "magnaguard",
+        "tvc15",
+        "vc18"
+      ],
+      "item_ids": [
+        "1dfeb017581e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "057c24818433",
+      "topic": "bastila shan tvc15 vc69",
+      "keywords": [
+        "bastila",
+        "shan",
+        "tvc15",
+        "vc69"
+      ],
+      "item_ids": [
+        "be2322f64436"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "6a4e50e21e9c",
+      "topic": "car cloud pilot pod",
+      "keywords": [
+        "car",
+        "cloud",
+        "pilot",
+        "pod",
+        "tvc15",
+        "twin"
+      ],
+      "item_ids": [
+        "231afac8800e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "4ac8e3dda59b",
+      "topic": "212th attack battalion clone",
+      "keywords": [
+        "212th",
+        "attack",
+        "battalion",
+        "clone",
+        "hot",
+        "toys"
+      ],
+      "item_ids": [
+        "6da761115ad3",
+        "ab4ddf823230"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "d29daa5ab72c",
+      "topic": "farlander keyan pilot tvc15",
+      "keywords": [
+        "farlander",
+        "keyan",
+        "pilot",
+        "tvc15",
+        "vc63",
+        "wing"
+      ],
+      "item_ids": [
+        "c6c514cc9d89"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
       "id": "4d68b7d6cb41",
       "topic": "eclipse favorite revealed rotj",
       "keywords": [
@@ -12979,6 +13413,78 @@
       ]
     },
     {
+      "id": "618c8df10000",
+      "topic": "december game launche pass",
+      "keywords": [
+        "december",
+        "game",
+        "launche",
+        "pass",
+        "routine",
+        "xbox"
+      ],
+      "item_ids": [
+        "e634e5a0977f"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "55b282a9b5e1",
+      "topic": "fans first get look",
+      "keywords": [
+        "fans",
+        "first",
+        "get",
+        "look",
+        "reveal",
+        "transformer"
+      ],
+      "item_ids": [
+        "86338460f9c0"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "5d68fe967c8b",
+      "topic": "continue epic liones season",
+      "keywords": [
+        "continue",
+        "epic",
+        "liones",
+        "season",
+        "sheridan",
+        "taylor"
+      ],
+      "item_ids": [
+        "9fd455b8c1df"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "31e32c284dac",
+      "topic": "bad ball dragon episode",
+      "keywords": [
+        "bad",
+        "ball",
+        "dragon",
+        "episode",
+        "perfect",
+        "saga"
+      ],
+      "item_ids": [
+        "cf3d5177d8df"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "4a399e096537",
       "topic": "classic cult filmmaker reveal",
       "keywords": [
@@ -13080,74 +13586,6 @@
       ],
       "item_ids": [
         "90a8ad72b56e"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "c98ab9187b7f",
-      "topic": "bad crime drama never",
-      "keywords": [
-        "bad",
-        "crime",
-        "drama",
-        "never",
-        "season"
-      ],
-      "item_ids": [
-        "fb233b0b4403"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "f15820362ca7",
-      "topic": "rotten score season stranger",
-      "keywords": [
-        "rotten",
-        "score",
-        "season",
-        "stranger",
-        "thing",
-        "tomatoe"
-      ],
-      "item_ids": [
-        "a189e2817644"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "77c64e62dc94",
-      "topic": "streaming thunderbolt watch",
-      "keywords": [
-        "streaming",
-        "thunderbolt",
-        "watch"
-      ],
-      "item_ids": [
-        "bee8ab6dc676"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "44987e7d650c",
-      "topic": "classic four got just",
-      "keywords": [
-        "classic",
-        "four",
-        "got",
-        "just",
-        "nintendo",
-        "switch"
-      ],
-      "item_ids": [
-        "5d704fb85622"
       ],
       "outlets": [
         "CBR"
