@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-28T11:03:49Z",
+  "generated_at": "2025-11-28T11:23:09Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -1054,6 +1054,40 @@
       },
       "read_minutes": 4,
       "cluster_id": "49a25cda24a8"
+    },
+    {
+      "id": "f853d7f2ad39",
+      "title": "Black Friday car deals are sparser this year, analyst says: 'Buyers may be a little disappointed'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/26/black-friday-car-deals.html",
+      "published_at": "Wed, 26 Nov 2025 12:35:01 GMT",
+      "bullets": [
+        "• Edmunds: Black Friday sales and end-of-year specials are neither plentiful nor generous this year",
+        "• The average manufacturer's suggested retail price on new cars reached $51,345 in October",
+        "• But the actual price paid averaged $49,105, meaning the average discount was $2,240 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Edmunds: Black Friday sales and end-of-year specials are neither plentiful nor generous this year",
+          "• The average manufacturer's suggested retail price on new cars reached $51,345 in October"
+        ],
+        "hopeful_bullets": [
+          "• Edmunds: Black Friday sales and end-of-year specials are neither plentiful nor generous this year",
+          "• The average manufacturer's suggested retail price on new cars reached $51,345 in October"
+        ],
+        "stakes_bullets": [
+          "• Edmunds: Black Friday sales and end-of-year specials are neither plentiful nor generous this year",
+          "• The average manufacturer's suggested retail price on new cars reached $51,345 in October",
+          "• But the actual price paid averaged $49,105, meaning the average discount was $2,240 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8142b5a9adb9"
     },
     {
       "id": "4544b2c70f4d",
@@ -4352,39 +4386,6 @@
       "cluster_id": "650fd7fec0c5"
     },
     {
-      "id": "01a0380b0b99",
-      "title": "How Google put together the pieces for its AI comeback",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/27/how-google-put-together-the-pieces-for-its-ai-comeback.html",
-      "published_at": "Thu, 27 Nov 2025 12:00:01 GMT",
-      "bullets": [
-        "• Google launched Gemini 3, its latest artificial intelligence model, last week",
-        "• Salesforce CEO Marc Benioff: \"Everything is sharper and faster",
-        "• It feels like the world just changed, again\" Shares of Google parent Alphabet surged more than 5% on Monday, adding to last week's gain "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Google launched Gemini 3, its latest artificial intelligence model, last week",
-          "• Salesforce CEO Marc Benioff: \"Everything is sharper and faster"
-        ],
-        "hopeful_bullets": [
-          "• It feels like the world just changed, again\" Shares of Google parent Alphabet surged more than 5% on Monday, adding to last week's gain "
-        ],
-        "stakes_bullets": [
-          "• Google launched Gemini 3, its latest artificial intelligence model, last week",
-          "• Salesforce CEO Marc Benioff: \"Everything is sharper and faster",
-          "• It feels like the world just changed, again\" Shares of Google parent Alphabet surged more than 5% on Monday, adding to last week's gain "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "55affc75b4eb"
-    },
-    {
       "id": "36ec6ca452d6",
       "title": "Wild turkeys off the menu in Maine after ‘forever chemicals’ found in birds",
       "outlet": "Environment | The Guardian",
@@ -4450,38 +4451,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "af05d7d9167e"
-    },
-    {
-      "id": "d13a288425e3",
-      "title": "Alibaba's AI glasses to rival Meta go on sale for $500",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/27/alibaba-quark-ai-glasses-go-on-sale-price-specs.html",
-      "published_at": "Thu, 27 Nov 2025 09:07:07 GMT",
-      "bullets": [
-        "• The Quark AI Glasses, first announced in July, come in two variants — the S1, which starts at 3,799 Chinese yuan ($536) and the G1 at 1,899 yuan",
-        "• The lenses of the glasses are effectively screens and the device has a camera built into the frame",
-        "• Users can use voice control to get the glasses to carry out tasks "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.731
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Quark AI Glasses, first announced in July, come in two variants — the S1, which starts at 3,799 Chinese yuan ($536) and the G1 at 1,899 yuan",
-          "• The lenses of the glasses are effectively screens and the device has a camera built into the frame"
-        ],
-        "hopeful_bullets": [
-          "• The Quark AI Glasses, first announced in July, come in two variants — the S1, which starts at 3,799 Chinese yuan ($536) and the G1 at 1,899 yuan",
-          "• The lenses of the glasses are effectively screens and the device has a camera built into the frame"
-        ],
-        "stakes_bullets": [
-          "• The lenses of the glasses are effectively screens and the device has a camera built into the frame"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ca05b8ea581c"
     },
     {
       "id": "a24407b70549",
@@ -6443,6 +6412,73 @@
       "cluster_id": "b235c16fb40e"
     },
     {
+      "id": "c2281d8cb722",
+      "title": "India economy grows at faster-than-expected 8.2% in September quarter even as tariffs bite",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/28/india-economy-gdp-grows-september-quarter-tariffs-bite-trade-us-modi.html",
+      "published_at": "Fri, 28 Nov 2025 10:42:25 GMT",
+      "bullets": [
+        "• The Indian economy grew faster than expected at an annual rate of 8.2% in the quarter ending in September",
+        "• A Reuters poll of economists had pegged the July-September gross domestic product at 7.3%",
+        "• A deflator measures how inflation affects the value of total output "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.864
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Indian economy grew faster than expected at an annual rate of 8.2% in the quarter ending in September",
+          "• A Reuters poll of economists had pegged the July-September gross domestic product at 7.3%"
+        ],
+        "hopeful_bullets": [
+          "• The Indian economy grew faster than expected at an annual rate of 8.2% in the quarter ending in September",
+          "• A Reuters poll of economists had pegged the July-September gross domestic product at 7.3%"
+        ],
+        "stakes_bullets": [
+          "• The Indian economy grew faster than expected at an annual rate of 8.2% in the quarter ending in September",
+          "• A deflator measures how inflation affects the value of total output "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "36b6b554c813"
+    },
+    {
+      "id": "06696c64ef2a",
+      "title": "Ten killed in deadliest Israeli raid for months in southern Syria",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp89k31krz4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 28 Nov 2025 10:39:06 GMT",
+      "bullets": [
+        "• Children among the dead, state media reports",
+        "• Israel Defense Forces says it targeted Jaama Islamiya militant group",
+        "• Six Israeli soldiers were injured in clashes, state news agency says",
+        "• Israel says it was trying to detain militants who it said \"advanced terror attacks against Israeli civilians\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Children among the dead, state media reports",
+          "• Israel Defense Forces says it targeted Jaama Islamiya militant group"
+        ],
+        "hopeful_bullets": [
+          "• Israel says it was trying to detain militants who it said \"advanced terror attacks against Israeli civilians\""
+        ],
+        "stakes_bullets": [
+          "• Children among the dead, state media reports",
+          "• Israel Defense Forces says it targeted Jaama Islamiya militant group",
+          "• Six Israeli soldiers were injured in clashes, state news agency says"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "91b530039778"
+    },
+    {
       "id": "6aa18ce4ca8f",
       "title": "Weather tracker: Snowfall cuts power in Poland and flooding devastates Sri Lanka",
       "outlet": "Environment | The Guardian",
@@ -6580,6 +6616,38 @@
       "cluster_id": "7554a00756e1"
     },
     {
+      "id": "0b3f3c405aaf",
+      "title": "The Best Black Friday Coffee Deals (2025)",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/best-coffee-espresso-deals-black-friday-2025/",
+      "published_at": "Fri, 28 Nov 2025 10:30:00 +0000",
+      "bullets": [
+        "• The Breville Barista Express is the unparalleled blockbuster of the espresso world, long one of WIRED's top picks and long the best-selling machine of its kind on Amazon",
+        "• The Ninja Luxe Cafe Premier is $150 off on Prime Day "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Breville Barista Express is the unparalleled blockbuster of the espresso world, long one of WIRED's top picks and long the best-selling machine of its kind on Amazon",
+          "• The Ninja Luxe Cafe Premier is $150 off on Prime Day "
+        ],
+        "hopeful_bullets": [
+          "• The Breville Barista Express is the unparalleled blockbuster of the espresso world, long one of WIRED's top picks and long the best-selling machine of its kind on Amazon",
+          "• The Ninja Luxe Cafe Premier is $150 off on Prime Day "
+        ],
+        "stakes_bullets": [
+          "• The Breville Barista Express is the unparalleled blockbuster of the espresso world, long one of WIRED's top picks and long the best-selling machine of its kind on Amazon",
+          "• The Ninja Luxe Cafe Premier is $150 off on Prime Day "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "4b8d6fe16c73"
+    },
+    {
       "id": "3850d1ba4036",
       "title": "Secure Your Home for Less With This Arlo Pro 5S Camera Deal (2025)",
       "outlet": "WIRED",
@@ -6612,38 +6680,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "3e15d5870a00"
-    },
-    {
-      "id": "0b3f3c405aaf",
-      "title": "The Best Black Friday Coffee Deals (2025)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/best-coffee-espresso-deals-black-friday-2025/",
-      "published_at": "Fri, 28 Nov 2025 10:30:00 +0000",
-      "bullets": [
-        "• The Breville Barista Express is the unparalleled blockbuster of the espresso world, long one of WIRED's top picks and long the best-selling machine of its kind on Amazon",
-        "• The Ninja Luxe Cafe Premier is $150 off on Prime Day "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Breville Barista Express is the unparalleled blockbuster of the espresso world, long one of WIRED's top picks and long the best-selling machine of its kind on Amazon",
-          "• The Ninja Luxe Cafe Premier is $150 off on Prime Day "
-        ],
-        "hopeful_bullets": [
-          "• The Breville Barista Express is the unparalleled blockbuster of the espresso world, long one of WIRED's top picks and long the best-selling machine of its kind on Amazon",
-          "• The Ninja Luxe Cafe Premier is $150 off on Prime Day "
-        ],
-        "stakes_bullets": [
-          "• The Breville Barista Express is the unparalleled blockbuster of the espresso world, long one of WIRED's top picks and long the best-selling machine of its kind on Amazon",
-          "• The Ninja Luxe Cafe Premier is $150 off on Prime Day "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "4b8d6fe16c73"
     },
     {
       "id": "ec980d620bf1",
@@ -6822,25 +6858,25 @@
       "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
       "published_at": "Fri, 28 Nov 2025 10:17:27 GMT",
       "bullets": [
-        "• Trump says US will \"permanently pause migration\" from all \"third-world countries\" Comments come a day after an Afghan national was killed in Washington DC",
-        "• US Citizenship and Immigration Services (USCIS) said it would re-examine green cards issued to individuals from 19 countries "
+        "• Trump says US will pause migration from 'third-world countries' Comments come a day after an Afghan national was killed in Washington DC",
+        "• US Citizenship and Immigration Services (USCIS) said it would re-examine green cards issued to those from 19 countries "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.981
+        "score": 0.97
       },
       "moods": {
         "brief_bullets": [
-          "• Trump says US will \"permanently pause migration\" from all \"third-world countries\" Comments come a day after an Afghan national was killed in Washington DC",
-          "• US Citizenship and Immigration Services (USCIS) said it would re-examine green cards issued to individuals from 19 countries "
+          "• Trump says US will pause migration from 'third-world countries' Comments come a day after an Afghan national was killed in Washington DC",
+          "• US Citizenship and Immigration Services (USCIS) said it would re-examine green cards issued to those from 19 countries "
         ],
         "hopeful_bullets": [
-          "• Trump says US will \"permanently pause migration\" from all \"third-world countries\" Comments come a day after an Afghan national was killed in Washington DC",
-          "• US Citizenship and Immigration Services (USCIS) said it would re-examine green cards issued to individuals from 19 countries "
+          "• Trump says US will pause migration from 'third-world countries' Comments come a day after an Afghan national was killed in Washington DC",
+          "• US Citizenship and Immigration Services (USCIS) said it would re-examine green cards issued to those from 19 countries "
         ],
         "stakes_bullets": [
-          "• Trump says US will \"permanently pause migration\" from all \"third-world countries\" Comments come a day after an Afghan national was killed in Washington DC"
+          "• Trump says US will pause migration from 'third-world countries' Comments come a day after an Afghan national was killed in Washington DC"
         ]
       },
       "read_minutes": 3,
@@ -7242,40 +7278,6 @@
       "cluster_id": "54f38ade3c3c"
     },
     {
-      "id": "259860be6249",
-      "title": "'This was preventable': Anger and unanswered questions after Hong Kong fire",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn8e5j20g27o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 28 Nov 2025 08:09:28 GMT",
-      "bullets": [
-        "• At least 128 people have been killed and dozens more critically injured in a fire at a subsidised housing estate in Hong Kong",
-        "• Authorities say substandard mesh and plastic sheets on the windows may have spread the blaze",
-        "• Residents say the fire alarm did not sound when the fire broke out",
-        "• Three people in charge of renovating the blocks are under arrest for manslaughter "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• At least 128 people have been killed and dozens more critically injured in a fire at a subsidised housing estate in Hong Kong",
-          "• Authorities say substandard mesh and plastic sheets on the windows may have spread the blaze"
-        ],
-        "hopeful_bullets": [
-          "• Authorities say substandard mesh and plastic sheets on the windows may have spread the blaze"
-        ],
-        "stakes_bullets": [
-          "• At least 128 people have been killed and dozens more critically injured in a fire at a subsidised housing estate in Hong Kong",
-          "• Authorities say substandard mesh and plastic sheets on the windows may have spread the blaze",
-          "• Residents say the fire alarm did not sound when the fire broke out"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "82d9b85268c0"
-    },
-    {
       "id": "df75d70f6f94",
       "title": "Japan's same-sex marriage ban is constitutional, says Tokyo court",
       "outlet": "BBC News",
@@ -7284,7 +7286,6 @@
       "bullets": [
         "• Japan is the only G7 country that does not fully recognise same-sex couples or offer them clear legal protection",
         "• The ruling was met with disappointment from plaintiffs and their legal team who had gathered outside the Tokyo courthouse",
-        "• The judge who delivered the verdict said laws should first be deliberated in parliament",
         "• Amnesty International described the ruling as a \"damaging step backwards\""
       ],
       "category": "World",
@@ -7304,10 +7305,10 @@
         "stakes_bullets": [
           "• Japan is the only G7 country that does not fully recognise same-sex couples or offer them clear legal protection",
           "• The ruling was met with disappointment from plaintiffs and their legal team who had gathered outside the Tokyo courthouse",
-          "• The judge who delivered the verdict said laws should first be deliberated in parliament"
+          "• Amnesty International described the ruling as a \"damaging step backwards\""
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "86b1a5ad5223"
     },
     {
@@ -8533,6 +8534,40 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "991babf514de",
+      "title": "The best Black Friday deals on AirPods, AirTags, and other Apple gear",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025",
+      "published_at": "2025-11-28T05:45:00-05:00",
+      "bullets": [
+        "• AirPods, Apple TV, Apple Watch, MacBook Pro and Apple Watch all on sale",
+        "• Black Friday brings with the best Apple deals we've seen all year",
+        "• Last-gen models are cheaper than ever right now, with the new ones with better noise-control "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• AirPods, Apple TV, Apple Watch, MacBook Pro and Apple Watch all on sale",
+          "• Black Friday brings with the best Apple deals we've seen all year"
+        ],
+        "hopeful_bullets": [
+          "• AirPods, Apple TV, Apple Watch, MacBook Pro and Apple Watch all on sale",
+          "• Black Friday brings with the best Apple deals we've seen all year"
+        ],
+        "stakes_bullets": [
+          "• AirPods, Apple TV, Apple Watch, MacBook Pro and Apple Watch all on sale",
+          "• Black Friday brings with the best Apple deals we've seen all year",
+          "• Last-gen models are cheaper than ever right now, with the new ones with better noise-control "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "16dc653309f8"
+    },
+    {
       "id": "c7a60b23b3ed",
       "title": "The 148 best Black Friday deals we’ve found so far — a ton of tech is over half off",
       "outlet": "The Verge",
@@ -8828,38 +8863,6 @@
       "cluster_id": "7d4a621b0bab"
     },
     {
-      "id": "ce1714f256db",
-      "title": "How to help your parents with their tech over the holidays",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/827812/tech-support-family-thanksgiving-how-to",
-      "published_at": "2025-11-27T10:00:00-05:00",
-      "bullets": [
-        "• How to make sure your parents' computers and phones are updated for the new year? Make sure they have the latest version of the software on your computer and phone",
-        "• It's important to update your phones and computers with the latest software updates "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.967
-      },
-      "moods": {
-        "brief_bullets": [
-          "• How to make sure your parents' computers and phones are updated for the new year? Make sure they have the latest version of the software on your computer and phone",
-          "• It's important to update your phones and computers with the latest software updates "
-        ],
-        "hopeful_bullets": [
-          "• How to make sure your parents' computers and phones are updated for the new year? Make sure they have the latest version of the software on your computer and phone",
-          "• It's important to update your phones and computers with the latest software updates "
-        ],
-        "stakes_bullets": [
-          "• How to make sure your parents' computers and phones are updated for the new year? Make sure they have the latest version of the software on your computer and phone",
-          "• It's important to update your phones and computers with the latest software updates "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "5b5ad0d137e5"
-    },
-    {
       "id": "c41ff758b36a",
       "title": "CNN Political Briefing",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -9121,69 +9124,6 @@
       "cluster_id": "826cfc1e2353"
     },
     {
-      "id": "8820c287b772",
-      "title": "Theater counts: Wicked: For Good twirls onto the big screen, launching in 4,115 theaters",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260310830-Theater-counts-Wicked-For-Good-twirls-onto-the-big-screen-launching-in-4-115-theaters",
-      "published_at": null,
-      "bullets": [
-        "• Now You See Me Now You Don't grabbed the box office honors with a three-day haul of just over $21 million, outperforming second-place finisher, The Running Man, picking up $16.5 million in its opening foray",
-        "• Neither film will get close to touching the top spot for a second weekend "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.632
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Now You See Me Now You Don't grabbed the box office honors with a three-day haul of just over $21 million, outperforming second-place finisher, The Running Man, picking up $16.5 million in its opening foray",
-          "• Neither film will get close to touching the top spot for a second weekend "
-        ],
-        "hopeful_bullets": [
-          "• Now You See Me Now You Don't grabbed the box office honors with a three-day haul of just over $21 million, outperforming second-place finisher, The Running Man, picking up $16.5 million in its opening foray",
-          "• Neither film will get close to touching the top spot for a second weekend "
-        ],
-        "stakes_bullets": [
-          "• Neither film will get close to touching the top spot for a second weekend "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "683e45b155a3"
-    },
-    {
-      "id": "a3516a02e15f",
-      "title": "Ticket prices increased 5% in Q3 vs. 2024",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260300830-Ticket-prices-increased-5-in-Q3-vs-2024",
-      "published_at": null,
-      "bullets": [
-        "• In Q3, despite a decline in overall box office performance compared to 2024, the average ticket price reached $11.79, with an annual inflation rate of 5%, consistent with the second quarter",
-        "• While attendance fell year over year, average ticket prices continued to rise due to ongoing pricing strategies and the expansion of premium formats "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.903
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In Q3, despite a decline in overall box office performance compared to 2024, the average ticket price reached $11.79, with an annual inflation rate of 5%, consistent with the second quarter",
-          "• While attendance fell year over year, average ticket prices continued to rise due to ongoing pricing strategies and the expansion of premium formats "
-        ],
-        "hopeful_bullets": [
-          "• In Q3, despite a decline in overall box office performance compared to 2024, the average ticket price reached $11.79, with an annual inflation rate of 5%, consistent with the second quarter",
-          "• While attendance fell year over year, average ticket prices continued to rise due to ongoing pricing strategies and the expansion of premium formats "
-        ],
-        "stakes_bullets": [
-          "• In Q3, despite a decline in overall box office performance compared to 2024, the average ticket price reached $11.79, with an annual inflation rate of 5%, consistent with the second quarter",
-          "• While attendance fell year over year, average ticket prices continued to rise due to ongoing pricing strategies and the expansion of premium formats "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a426075db24b"
-    },
-    {
       "id": "7cec4c248f59",
       "title": "Weekend projections: third time’s the charm for Now You See Me franchise",
       "outlet": "The Numbers",
@@ -9213,37 +9153,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "e7663f4e1cf1"
-    },
-    {
-      "id": "8326de889293",
-      "title": "Weekend predictions: Now You See Me looking to steal weekend from Running Man and Predator",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260280830-Weekend-predictions-Now-You-See-Me-looking-to-steal-weekend-from-Running-Man-and-Predator",
-      "published_at": null,
-      "bullets": [
-        "• Now You See Me: Now You Don’t goes into the weekend as a very marginal favorite to take the box office crown",
-        "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.943
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Now You See Me: Now You Don’t goes into the weekend as a very marginal favorite to take the box office crown",
-          "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
-        ],
-        "hopeful_bullets": [
-          "• Now You See Me: Now You Don’t goes into the weekend as a very marginal favorite to take the box office crown",
-          "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
-        ],
-        "stakes_bullets": [
-          "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0a18fcef00e3"
     },
     {
       "id": "0cd8a2772863",
@@ -9329,24 +9238,6 @@
       ]
     },
     {
-      "id": "82d9b85268c0",
-      "topic": "anger hong kong preventable",
-      "keywords": [
-        "anger",
-        "hong",
-        "kong",
-        "preventable",
-        "question",
-        "unanswered"
-      ],
-      "item_ids": [
-        "259860be6249"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "6d0520304f54",
       "topic": "all countrie migration pause",
       "keywords": [
@@ -9407,6 +9298,24 @@
       ]
     },
     {
+      "id": "3bfb59764a3c",
+      "topic": "hike louvre most non",
+      "keywords": [
+        "hike",
+        "louvre",
+        "most",
+        "non",
+        "price",
+        "ticket"
+      ],
+      "item_ids": [
+        "1f92af7a09d7"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "86b1a5ad5223",
       "topic": "ban constitutional japan marriage",
       "keywords": [
@@ -9425,18 +9334,18 @@
       ]
     },
     {
-      "id": "3bfb59764a3c",
-      "topic": "hike louvre most non",
+      "id": "91b530039778",
+      "topic": "deadliest israeli killed month",
       "keywords": [
-        "hike",
-        "louvre",
-        "most",
-        "non",
-        "price",
-        "ticket"
+        "deadliest",
+        "israeli",
+        "killed",
+        "month",
+        "raid",
+        "ten"
       ],
       "item_ids": [
-        "1f92af7a09d7"
+        "06696c64ef2a"
       ],
       "outlets": [
         "BBC News"
@@ -10073,23 +9982,6 @@
       ]
     },
     {
-      "id": "55affc75b4eb",
-      "topic": "comeback google piece put",
-      "keywords": [
-        "comeback",
-        "google",
-        "piece",
-        "put",
-        "together"
-      ],
-      "item_ids": [
-        "01a0380b0b99"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "4f7b5d32ecfa",
       "topic": "bill dent giving set",
       "keywords": [
@@ -10126,18 +10018,18 @@
       ]
     },
     {
-      "id": "ca05b8ea581c",
-      "topic": "500 alibaba glasse meta",
+      "id": "36b6b554c813",
+      "topic": "economy expected faster grow",
       "keywords": [
-        "500",
-        "alibaba",
-        "glasse",
-        "meta",
-        "rival",
-        "sale"
+        "economy",
+        "expected",
+        "faster",
+        "grow",
+        "india",
+        "september"
       ],
       "item_ids": [
-        "d13a288425e3"
+        "c2281d8cb722"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10156,6 +10048,24 @@
       ],
       "item_ids": [
         "fb3b7c33db17"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "8142b5a9adb9",
+      "topic": "black car deal friday",
+      "keywords": [
+        "black",
+        "car",
+        "deal",
+        "friday",
+        "sparser",
+        "year"
+      ],
+      "item_ids": [
+        "f853d7f2ad39"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10215,24 +10125,6 @@
       ]
     },
     {
-      "id": "3e15d5870a00",
-      "topic": "arlo camera home less",
-      "keywords": [
-        "arlo",
-        "camera",
-        "home",
-        "less",
-        "pro",
-        "secure"
-      ],
-      "item_ids": [
-        "3850d1ba4036"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
       "id": "4b8d6fe16c73",
       "topic": "2025 best black coffee",
       "keywords": [
@@ -10247,6 +10139,24 @@
       "item_ids": [
         "0b3f3c405aaf",
         "d6e1db03210a"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "3e15d5870a00",
+      "topic": "arlo camera home less",
+      "keywords": [
+        "arlo",
+        "camera",
+        "home",
+        "less",
+        "pro",
+        "secure"
+      ],
+      "item_ids": [
+        "3850d1ba4036"
       ],
       "outlets": [
         "WIRED"
@@ -10322,6 +10232,24 @@
       ],
       "outlets": [
         "WIRED"
+      ]
+    },
+    {
+      "id": "16dc653309f8",
+      "topic": "airpod airtag best black",
+      "keywords": [
+        "airpod",
+        "airtag",
+        "best",
+        "black",
+        "deal",
+        "friday"
+      ],
+      "item_ids": [
+        "991babf514de"
+      ],
+      "outlets": [
+        "The Verge"
       ]
     },
     {
@@ -10478,22 +10406,6 @@
       ],
       "item_ids": [
         "a63576d92647"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "5b5ad0d137e5",
-      "topic": "help holiday parent tech",
-      "keywords": [
-        "help",
-        "holiday",
-        "parent",
-        "tech"
-      ],
-      "item_ids": [
-        "ce1714f256db"
       ],
       "outlets": [
         "The Verge"
@@ -11713,40 +11625,6 @@
       ]
     },
     {
-      "id": "683e45b155a3",
-      "topic": "count good onto theater",
-      "keywords": [
-        "count",
-        "good",
-        "onto",
-        "theater",
-        "twirl",
-        "wicked"
-      ],
-      "item_ids": [
-        "8820c287b772"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "a426075db24b",
-      "topic": "2024 increased price ticket",
-      "keywords": [
-        "2024",
-        "increased",
-        "price",
-        "ticket"
-      ],
-      "item_ids": [
-        "a3516a02e15f"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
       "id": "e7663f4e1cf1",
       "topic": "charm now projection third",
       "keywords": [
@@ -11759,24 +11637,6 @@
       ],
       "item_ids": [
         "7cec4c248f59"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "0a18fcef00e3",
-      "topic": "looking now prediction see",
-      "keywords": [
-        "looking",
-        "now",
-        "prediction",
-        "see",
-        "steal",
-        "weekend"
-      ],
-      "item_ids": [
-        "8326de889293"
       ],
       "outlets": [
         "The Numbers"
