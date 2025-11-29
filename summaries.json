@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-29T07:10:38Z",
+  "generated_at": "2025-11-29T07:58:03Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -134,41 +134,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "fdea16f820e0"
-    },
-    {
-      "id": "8c1b55813209",
-      "title": "In One Week, Trump Moves to Reshape U.S. Environmental Policy",
-      "outlet": "NYT > Climate and Environment",
-      "url": "https://www.nytimes.com/2025/11/22/climate/trump-environmental-policy-week.html",
-      "published_at": "Wed, 26 Nov 2025 22:56:33 +0000",
-      "bullets": [
-        "• In one week, the Trump administration moved to weaken the Clean Water Act and Endangered Species Act",
-        "• The move could affect everything from the survival of rare whales to the health of the Hudson River",
-        "• If the proposals are finalized and upheld in court, they could reshape U.S",
-        "• environmental policy for years to come "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In one week, the Trump administration moved to weaken the Clean Water Act and Endangered Species Act",
-          "• The move could affect everything from the survival of rare whales to the health of the Hudson River"
-        ],
-        "hopeful_bullets": [
-          "• In one week, the Trump administration moved to weaken the Clean Water Act and Endangered Species Act",
-          "• The move could affect everything from the survival of rare whales to the health of the Hudson River"
-        ],
-        "stakes_bullets": [
-          "• The move could affect everything from the survival of rare whales to the health of the Hudson River",
-          "• If the proposals are finalized and upheld in court, they could reshape U.S",
-          "• environmental policy for years to come "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "4a7281bddecf"
     },
     {
       "id": "dd5d99a235e2",
@@ -4358,6 +4323,103 @@
       "cluster_id": "077fbd269b7a"
     },
     {
+      "id": "7784075973e2",
+      "title": "US halts all asylum claim decisions in wake of National Guard shooting",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 29 Nov 2025 07:14:36 GMT",
+      "bullets": [
+        "• US halts all asylum claims in wake of shooting of two National Guard soldiers in Washington DC",
+        "• President Donald Trump has pledged to \"permanently pause migration\" to the US from all \"third world countries\" The move could face legal challenges and has already prompted pushback from UN agencies "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US halts all asylum claims in wake of shooting of two National Guard soldiers in Washington DC",
+          "• President Donald Trump has pledged to \"permanently pause migration\" to the US from all \"third world countries\" The move could face legal challenges and has already prompted pushback from UN agencies "
+        ],
+        "hopeful_bullets": [
+          "• US halts all asylum claims in wake of shooting of two National Guard soldiers in Washington DC",
+          "• President Donald Trump has pledged to \"permanently pause migration\" to the US from all \"third world countries\" The move could face legal challenges and has already prompted pushback from UN agencies "
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump has pledged to \"permanently pause migration\" to the US from all \"third world countries\" The move could face legal challenges and has already prompted pushback from UN agencies "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "fd405c551c5e"
+    },
+    {
+      "id": "662b08f4e354",
+      "title": "UK MPs push for extra aid and visas as Jamaica reels from Hurricane Melissa",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/nov/29/uk-mps-extra-aid-humanitarian-visas-jamaica-hurricane-melissa-dawn-butler",
+      "published_at": "Sat, 29 Nov 2025 07:00:31 GMT",
+      "bullets": [
+        "• UK has pledged £7.5m emergency funds to Jamaica and other islands affected by the hurricane",
+        "• Many argue that the country has a moral obligation to do more for former Caribbean colonies",
+        "• MPs have written to the home secretary asking for temporary visas and fee waivers "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.959
+      },
+      "moods": {
+        "brief_bullets": [
+          "• UK has pledged £7.5m emergency funds to Jamaica and other islands affected by the hurricane",
+          "• Many argue that the country has a moral obligation to do more for former Caribbean colonies"
+        ],
+        "hopeful_bullets": [
+          "• UK has pledged £7.5m emergency funds to Jamaica and other islands affected by the hurricane",
+          "• Many argue that the country has a moral obligation to do more for former Caribbean colonies"
+        ],
+        "stakes_bullets": [
+          "• UK has pledged £7.5m emergency funds to Jamaica and other islands affected by the hurricane"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "53525b213b8a"
+    },
+    {
+      "id": "d28c9c65d1de",
+      "title": "Airbus A320 recall disrupts global travel after glitch linked to solar flares",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/29/airbus-recall-disrupts-global-travel-a320-jets-grounded-glitch-linked-solar-flares.html",
+      "published_at": "Sat, 29 Nov 2025 06:54:16 GMT",
+      "bullets": [
+        "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
+        "• The directive is among the largest in the 55-year history of Airbus",
+        "• The disruption, linked to solar flares, hit especially hard in Asia, where the single-aisle A320 family anchors short-haul networks "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
+          "• The directive is among the largest in the 55-year history of Airbus"
+        ],
+        "hopeful_bullets": [
+          "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
+          "• The directive is among the largest in the 55-year history of Airbus"
+        ],
+        "stakes_bullets": [
+          "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
+          "• The directive is among the largest in the 55-year history of Airbus",
+          "• The disruption, linked to solar flares, hit especially hard in Asia, where the single-aisle A320 family anchors short-haul networks "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b8638f9a2b43"
+    },
+    {
       "id": "4cdd2666ee68",
       "title": "AI is taking jobs — here’s Coursera CEO's No. 1 tip for grads to stay competitive",
       "outlet": "US Top News and Analysis",
@@ -4399,26 +4461,26 @@
       "url": "https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss",
       "published_at": "Sat, 29 Nov 2025 06:01:25 GMT",
       "bullets": [
-        "• Around 6,000 A320 planes are thought to be affected, half the European firm's global fleet",
+        "• Around 6,000 A320 planes are thought to be affected - half the European firm's global fleet",
         "• Most will be able to fly again after undergoing a quick software update",
         "• UK's aviation regulator said there would be \"some disruption and cancellations to flights\""
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.993
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
-          "• Around 6,000 A320 planes are thought to be affected, half the European firm's global fleet",
+          "• Around 6,000 A320 planes are thought to be affected - half the European firm's global fleet",
           "• Most will be able to fly again after undergoing a quick software update"
         ],
         "hopeful_bullets": [
-          "• Around 6,000 A320 planes are thought to be affected, half the European firm's global fleet",
+          "• Around 6,000 A320 planes are thought to be affected - half the European firm's global fleet",
           "• Most will be able to fly again after undergoing a quick software update"
         ],
         "stakes_bullets": [
-          "• Around 6,000 A320 planes are thought to be affected, half the European firm's global fleet",
+          "• Around 6,000 A320 planes are thought to be affected - half the European firm's global fleet",
           "• Most will be able to fly again after undergoing a quick software update"
         ]
       },
@@ -4491,41 +4553,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "71072c488c31"
-    },
-    {
-      "id": "d28c9c65d1de",
-      "title": "Airbus A320 recall disrupts global travel after glitch linked to solar flares",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/29/airbus-recall-disrupts-global-travel-a320-jets-grounded-glitch-linked-solar-flares.html",
-      "published_at": "Sat, 29 Nov 2025 05:56:15 GMT",
-      "bullets": [
-        "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
-        "• The directive is among the largest in the 55-year history of Airbus",
-        "• Thousands of travelers worldwide were stranded during one of the busiest travel weekends of the year",
-        "• The disruption, linked to solar flares, hit especially hard in Asia, where the single-aisle A320 family anchors networks "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
-          "• The directive is among the largest in the 55-year history of Airbus"
-        ],
-        "hopeful_bullets": [
-          "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
-          "• The directive is among the largest in the 55-year history of Airbus"
-        ],
-        "stakes_bullets": [
-          "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
-          "• The directive is among the largest in the 55-year history of Airbus",
-          "• Thousands of travelers worldwide were stranded during one of the busiest travel weekends of the year"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "b8638f9a2b43"
     },
     {
       "id": "f2ed235452ab",
@@ -5089,38 +5116,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "4be1736f242e"
-    },
-    {
-      "id": "7784075973e2",
-      "title": "US halts all asylum claim decisions in wake of National Guard shooting",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 29 Nov 2025 00:28:11 GMT",
-      "bullets": [
-        "• US halts all asylum claim decisions in wake of National Guard shooting in Washington DC",
-        "• US Citizenship and Immigration Services (USCIS) director Joseph Edlow said the pause would be in place \"until we can ensure that every alien is vetted and screened to the maximum degree possible\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US halts all asylum claim decisions in wake of National Guard shooting in Washington DC",
-          "• US Citizenship and Immigration Services (USCIS) director Joseph Edlow said the pause would be in place \"until we can ensure that every alien is vetted and screened to the maximum degree possible\""
-        ],
-        "hopeful_bullets": [
-          "• US halts all asylum claim decisions in wake of National Guard shooting in Washington DC",
-          "• US Citizenship and Immigration Services (USCIS) director Joseph Edlow said the pause would be in place \"until we can ensure that every alien is vetted and screened to the maximum degree possible\""
-        ],
-        "stakes_bullets": [
-          "• US halts all asylum claim decisions in wake of National Guard shooting in Washington DC",
-          "• US Citizenship and Immigration Services (USCIS) director Joseph Edlow said the pause would be in place \"until we can ensure that every alien is vetted and screened to the maximum degree possible\""
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "fd405c551c5e"
     },
     {
       "id": "e005395634d8",
@@ -6555,37 +6550,37 @@
     },
     {
       "id": "440897a5b3b6",
-      "title": "Zelensky's top adviser resigns after Ukrainian anti-corruption raid on his home",
+      "title": "Zelensky's top adviser resigns after anti-corruption raid on his home",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/ckg9nd2wddno?at_medium=RSS&at_campaign=rss",
       "published_at": "Fri, 28 Nov 2025 17:54:58 GMT",
       "bullets": [
-        "• President Volodymyr Zelensky's chief of staff resigns after anti-corruption raid on his home",
-        "• Yermak, a towering figure with enormous political influence, has come under increasing pressure over scandal",
-        "• He is not accused of any wrongdoing, but has been appointed to head crucial negotiations "
+        "• President of Russia-Ukraine war zone has called for a change of course",
+        "• Russia's President Vladimir Putin to step down as part of a deal to end the conflict",
+        "• Russia has agreed to a deal with the EU to allow Russia to take control of the Ukraine "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• President Volodymyr Zelensky's chief of staff resigns after anti-corruption raid on his home",
-          "• Yermak, a towering figure with enormous political influence, has come under increasing pressure over scandal"
+          "• President of Russia-Ukraine war zone has called for a change of course",
+          "• Russia's President Vladimir Putin to step down as part of a deal to end the conflict"
         ],
         "hopeful_bullets": [
-          "• President Volodymyr Zelensky's chief of staff resigns after anti-corruption raid on his home",
-          "• Yermak, a towering figure with enormous political influence, has come under increasing pressure over scandal"
+          "• President of Russia-Ukraine war zone has called for a change of course",
+          "• Russia's President Vladimir Putin to step down as part of a deal to end the conflict"
         ],
         "stakes_bullets": [
-          "• President Volodymyr Zelensky's chief of staff resigns after anti-corruption raid on his home",
-          "• Yermak, a towering figure with enormous political influence, has come under increasing pressure over scandal",
-          "• He is not accused of any wrongdoing, but has been appointed to head crucial negotiations "
+          "• President of Russia-Ukraine war zone has called for a change of course",
+          "• Russia's President Vladimir Putin to step down as part of a deal to end the conflict",
+          "• Russia has agreed to a deal with the EU to allow Russia to take control of the Ukraine "
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "55ed35df4506"
+      "cluster_id": "83fb35fdf18b"
     },
     {
       "id": "1f77e8f1e62e",
@@ -6653,37 +6648,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "ee63db431461"
-    },
-    {
-      "id": "a5265cf8ee30",
-      "title": "Sri Lanka death toll from floods and landslides reaches 123",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/nov/28/death-toll-sri-lanka-hit-by-rising-flood-waters",
-      "published_at": "Fri, 28 Nov 2025 17:20:06 GMT",
-      "bullets": [
-        "• Helicopters and navy boats pluck people from treetops, roofs and villages cut off by flood waters",
-        "• At least 3,000 homes have been damaged in mudslides and floods, and more than 18,000 people have been moved to temporary shelters "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Helicopters and navy boats pluck people from treetops, roofs and villages cut off by flood waters",
-          "• At least 3,000 homes have been damaged in mudslides and floods, and more than 18,000 people have been moved to temporary shelters "
-        ],
-        "hopeful_bullets": [
-          "• Helicopters and navy boats pluck people from treetops, roofs and villages cut off by flood waters",
-          "• At least 3,000 homes have been damaged in mudslides and floods, and more than 18,000 people have been moved to temporary shelters "
-        ],
-        "stakes_bullets": [
-          "• Helicopters and navy boats pluck people from treetops, roofs and villages cut off by flood waters"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "8579346e6e8e"
     },
     {
       "id": "4a694b984e6d",
@@ -7583,40 +7547,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "21913accaa1c"
-    },
-    {
-      "id": "d548116e7081",
-      "title": "St Vincent opposition party celebrates historic election win",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/nov/28/st-vincent-caribbean-opposition-party-celebrates-historic-election-win",
-      "published_at": "Fri, 28 Nov 2025 11:22:15 GMT",
-      "bullets": [
-        "• The New Democratic party (NDP) in St Vincent and the Grenadines (SVG) is celebrating a historic landslide victory",
-        "• The decisive vote was a crushing defeat for the Unity Labour party (ULP), which has been in power since 2001",
-        "• The outgoing prime minister, Ralph Gonsalves, was the only ULP candidate to hold on to their seat "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The New Democratic party (NDP) in St Vincent and the Grenadines (SVG) is celebrating a historic landslide victory",
-          "• The decisive vote was a crushing defeat for the Unity Labour party (ULP), which has been in power since 2001"
-        ],
-        "hopeful_bullets": [
-          "• The New Democratic party (NDP) in St Vincent and the Grenadines (SVG) is celebrating a historic landslide victory",
-          "• The decisive vote was a crushing defeat for the Unity Labour party (ULP), which has been in power since 2001"
-        ],
-        "stakes_bullets": [
-          "• The New Democratic party (NDP) in St Vincent and the Grenadines (SVG) is celebrating a historic landslide victory",
-          "• The decisive vote was a crushing defeat for the Unity Labour party (ULP), which has been in power since 2001",
-          "• The outgoing prime minister, Ralph Gonsalves, was the only ULP candidate to hold on to their seat "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "558645bcfdeb"
     },
     {
       "id": "e001648f246b",
@@ -8648,6 +8578,75 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "c7a60b23b3ed",
+      "title": "The 194 best Black Friday deals you can still shop — a ton of tech is over half off",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas",
+      "published_at": "2025-11-29T02:25:42-05:00",
+      "bullets": [
+        "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
+        "• There are also great discounts on streaming services like Hulu and HBO Max",
+        "• The best deals are available on Amazon and Google Play for $200,000",
+        "• We'll update our list with more details on the best deals "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
+          "• There are also great discounts on streaming services like Hulu and HBO Max"
+        ],
+        "hopeful_bullets": [
+          "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
+          "• There are also great discounts on streaming services like Hulu and HBO Max"
+        ],
+        "stakes_bullets": [
+          "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
+          "• There are also great discounts on streaming services like Hulu and HBO Max",
+          "• The best deals are available on Amazon and Google Play for $200,000"
+        ]
+      },
+      "read_minutes": 52,
+      "cluster_id": "760708eb2f53"
+    },
+    {
+      "id": "991babf514de",
+      "title": "The best Black Friday deals you can still get on AirTags, iPad, and other Apple gear",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025",
+      "published_at": "2025-11-29T01:59:12-05:00",
+      "bullets": [
+        "• Apple products and services are on sale for the first time this year",
+        "• Last-gen AirPods Pro and Apple Watch Series 11 are among the best deals",
+        "• The best deals include Apple’s new iPhone and iPad line-in-line earbuds "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Apple products and services are on sale for the first time this year",
+          "• Last-gen AirPods Pro and Apple Watch Series 11 are among the best deals"
+        ],
+        "hopeful_bullets": [
+          "• Apple products and services are on sale for the first time this year",
+          "• Last-gen AirPods Pro and Apple Watch Series 11 are among the best deals"
+        ],
+        "stakes_bullets": [
+          "• Apple products and services are on sale for the first time this year",
+          "• Last-gen AirPods Pro and Apple Watch Series 11 are among the best deals",
+          "• The best deals include Apple’s new iPhone and iPad line-in-line earbuds "
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "760708eb2f53"
+    },
+    {
       "id": "b8d3abd9e27c",
       "title": "Philips Hue’s Festavia string lights are nearly $60 off (and still available) for Black Friday",
       "outlet": "The Verge",
@@ -8682,40 +8681,6 @@
       "cluster_id": "7e2898084dab"
     },
     {
-      "id": "c7a60b23b3ed",
-      "title": "The 192 best Black Friday deals you can still shop — a ton of tech is over half off",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas",
-      "published_at": "2025-11-29T01:19:35-05:00",
-      "bullets": [
-        "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
-        "• There are also great discounts on streaming services such as Hulu and HBO Max",
-        "• The best deals are available on Amazon, Apple and other major retailers, including Amazon and Google "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
-          "• There are also great discounts on streaming services such as Hulu and HBO Max"
-        ],
-        "hopeful_bullets": [
-          "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
-          "• There are also great discounts on streaming services such as Hulu and HBO Max"
-        ],
-        "stakes_bullets": [
-          "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
-          "• There are also great discounts on streaming services such as Hulu and HBO Max",
-          "• The best deals are available on Amazon, Apple and other major retailers, including Amazon and Google "
-        ]
-      },
-      "read_minutes": 51,
-      "cluster_id": "c9f835e2a053"
-    },
-    {
       "id": "6bd1bf978ff0",
       "title": "The Verge’s guide to Black Friday 2025",
       "outlet": "The Verge",
@@ -8723,30 +8688,30 @@
       "published_at": "2025-11-29T00:30:59-05:00",
       "bullets": [
         "• Many of the gadgets we recommend to readers have received steep discounts that’ll likely last throughout both events",
-        "• If you didn’t get what you wanted during Amazon Prime Day, now’s your chance",
-        "• We also have tips on how to find the best deals and when to shop "
+        "• We also have tips on how to find the best deals and when to shop",
+        "• The price of Sonos speakers, video game consoles, cameras and other goods continues to climb "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.995
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
           "• Many of the gadgets we recommend to readers have received steep discounts that’ll likely last throughout both events",
-          "• If you didn’t get what you wanted during Amazon Prime Day, now’s your chance"
+          "• We also have tips on how to find the best deals and when to shop"
         ],
         "hopeful_bullets": [
           "• Many of the gadgets we recommend to readers have received steep discounts that’ll likely last throughout both events",
-          "• If you didn’t get what you wanted during Amazon Prime Day, now’s your chance"
+          "• We also have tips on how to find the best deals and when to shop"
         ],
         "stakes_bullets": [
           "• Many of the gadgets we recommend to readers have received steep discounts that’ll likely last throughout both events",
-          "• If you didn’t get what you wanted during Amazon Prime Day, now’s your chance",
-          "• We also have tips on how to find the best deals and when to shop "
+          "• We also have tips on how to find the best deals and when to shop",
+          "• The price of Sonos speakers, video game consoles, cameras and other goods continues to climb "
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 2,
       "cluster_id": "c49786aca1d5"
     },
     {
@@ -8778,7 +8743,7 @@
           "• Right now, you can buy the 13-inch MacBook Air M4 with 256GB of storage at Amazon, Best Buy, and Costco starting around $749 ($250 off) If you prefer a larger display, the base 15-inch Air is also down to an all-time low of $949 ($949)"
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "964acc0309a9"
     },
     {
@@ -8846,7 +8811,7 @@
           "• The 12-inch frame is matching its all-time low of around $199 ($30 off) at Amazon, Best Buy, and Aura's online storefront "
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "c0c769456e90"
     },
     {
@@ -8878,7 +8843,7 @@
           "• These “great for 1080p” gaming PCs are a way around trying to buy pricey PC parts piecemeal during the holidays "
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 1,
       "cluster_id": "55d5dd3fff64"
     },
     {
@@ -8945,40 +8910,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "a867814661f5"
-    },
-    {
-      "id": "aa31d9327a9b",
-      "title": "Here are 40+ deals that are at an all-time low for Black Friday",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/gadgets/832710/black-friday-all-time-low-prices-headphones-gaming-tv-deal-sale-2025",
-      "published_at": "2025-11-28T20:36:46-05:00",
-      "bullets": [
-        "• Here are the lowest prices we’ve seen on wireless earbuds, portable chargers, and more",
-        "• The PlayStation Portal is a handheld that allows you to stream games from your PS5 over the same network or the cloud for certain titles",
-        "• Black Friday is typically when we see the biggest discounts on OLED TVs, great productivity laptops, and productivity laptops "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Here are the lowest prices we’ve seen on wireless earbuds, portable chargers, and more",
-          "• The PlayStation Portal is a handheld that allows you to stream games from your PS5 over the same network or the cloud for certain titles"
-        ],
-        "hopeful_bullets": [
-          "• Here are the lowest prices we’ve seen on wireless earbuds, portable chargers, and more",
-          "• The PlayStation Portal is a handheld that allows you to stream games from your PS5 over the same network or the cloud for certain titles"
-        ],
-        "stakes_bullets": [
-          "• Here are the lowest prices we’ve seen on wireless earbuds, portable chargers, and more",
-          "• The PlayStation Portal is a handheld that allows you to stream games from your PS5 over the same network or the cloud for certain titles",
-          "• Black Friday is typically when we see the biggest discounts on OLED TVs, great productivity laptops, and productivity laptops "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "25abf8205234"
     },
     {
       "id": "c41ff758b36a",
@@ -9469,14 +9400,14 @@
       ]
     },
     {
-      "id": "55ed35df4506",
-      "topic": "adviser anti resign top",
+      "id": "83fb35fdf18b",
+      "topic": "adviser anti corruption resign",
       "keywords": [
         "adviser",
         "anti",
+        "corruption",
         "resign",
         "top",
-        "ukrainian",
         "zelensky"
       ],
       "item_ids": [
@@ -9702,6 +9633,24 @@
       ]
     },
     {
+      "id": "53525b213b8a",
+      "topic": "aid extra jamaica mps",
+      "keywords": [
+        "aid",
+        "extra",
+        "jamaica",
+        "mps",
+        "push",
+        "visa"
+      ],
+      "item_ids": [
+        "662b08f4e354"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "c653e9119eee",
       "topic": "drug hondura leader pardon",
       "keywords": [
@@ -9768,24 +9717,6 @@
       ],
       "item_ids": [
         "d9c0f003ec78"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "558645bcfdeb",
-      "topic": "celebrate election historic opposition",
-      "keywords": [
-        "celebrate",
-        "election",
-        "historic",
-        "opposition",
-        "party",
-        "vincent"
-      ],
-      "item_ids": [
-        "d548116e7081"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -10442,6 +10373,26 @@
       ]
     },
     {
+      "id": "760708eb2f53",
+      "topic": "194 best black deal",
+      "keywords": [
+        "194",
+        "best",
+        "black",
+        "deal",
+        "friday",
+        "get",
+        "still"
+      ],
+      "item_ids": [
+        "c7a60b23b3ed",
+        "991babf514de"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "7e2898084dab",
       "topic": "festavia hue light nearly",
       "keywords": [
@@ -10454,24 +10405,6 @@
       ],
       "item_ids": [
         "b8d3abd9e27c"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "c9f835e2a053",
-      "topic": "192 best black deal",
-      "keywords": [
-        "192",
-        "best",
-        "black",
-        "deal",
-        "friday",
-        "still"
-      ],
-      "item_ids": [
-        "c7a60b23b3ed"
       ],
       "outlets": [
         "The Verge"
@@ -10597,24 +10530,6 @@
       ],
       "item_ids": [
         "2411b71aa2be"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "25abf8205234",
-      "topic": "all black deal here",
-      "keywords": [
-        "all",
-        "black",
-        "deal",
-        "here",
-        "low",
-        "time"
-      ],
-      "item_ids": [
-        "aa31d9327a9b"
       ],
       "outlets": [
         "The Verge"
@@ -11597,42 +11512,6 @@
       ],
       "outlets": [
         "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "8579346e6e8e",
-      "topic": "death flood landslide lanka",
-      "keywords": [
-        "death",
-        "flood",
-        "landslide",
-        "lanka",
-        "sri",
-        "toll"
-      ],
-      "item_ids": [
-        "a5265cf8ee30"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "4a7281bddecf",
-      "topic": "environmental move policy reshape",
-      "keywords": [
-        "environmental",
-        "move",
-        "policy",
-        "reshape",
-        "trump",
-        "week"
-      ],
-      "item_ids": [
-        "8c1b55813209"
-      ],
-      "outlets": [
-        "NYT > Climate and Environment"
       ]
     },
     {
