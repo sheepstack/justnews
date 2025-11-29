@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-29T10:00:48Z",
+  "generated_at": "2025-11-29T10:15:27Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -4257,6 +4257,37 @@
       "cluster_id": "077fbd269b7a"
     },
     {
+      "id": "5c7849809257",
+      "title": "Nigeria blames jihadist groups for wave of kidnappings but others accuse criminal gangs",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgj9dd983xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 29 Nov 2025 09:34:57 GMT",
+      "bullets": [
+        "• Nigeria blames jihadist groups Boko Haram and Islamic State in West Africa Province (Iswap) for wave of abductions in north-western and central Nigeria",
+        "• But analysts tell the BBC they were committed by criminal gangs locally known as \"bandits\" This is the first time the government has stated who it believes is responsible "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.971
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nigeria blames jihadist groups Boko Haram and Islamic State in West Africa Province (Iswap) for wave of abductions in north-western and central Nigeria",
+          "• But analysts tell the BBC they were committed by criminal gangs locally known as \"bandits\" This is the first time the government has stated who it believes is responsible "
+        ],
+        "hopeful_bullets": [
+          "• Nigeria blames jihadist groups Boko Haram and Islamic State in West Africa Province (Iswap) for wave of abductions in north-western and central Nigeria",
+          "• But analysts tell the BBC they were committed by criminal gangs locally known as \"bandits\" This is the first time the government has stated who it believes is responsible "
+        ],
+        "stakes_bullets": [
+          "• But analysts tell the BBC they were committed by criminal gangs locally known as \"bandits\" This is the first time the government has stated who it believes is responsible "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "eb32fd8a1241"
+    },
+    {
       "id": "711ddb04cec4",
       "title": "Planes grounded after Airbus discovers solar radiation could impact systems",
       "outlet": "BBC News",
@@ -5132,28 +5163,26 @@
       "url": "https://www.wired.com/story/black-friday-deals-2025-1/",
       "published_at": "Sat, 29 Nov 2025 00:39:55 +0000",
       "bullets": [
-        "• The 149 Absolute Best Black Friday Deals Worth Your Money list includes the best Black Friday deals on gear we've tested and approved",
+        "• The 149 Absolute Best Black Friday Deals Worth Your Money",
         "• Everything here was hands-on tested by a member of our Reviews team and recommended",
-        "• We track prices through the year, to ensure that any deal we feature actually is a discount "
+        "• The only catch is that it’s a Doorbuster-style sale, meaning once they sell out at this price, this discount will disappear "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 0.999
+        "label": "negative",
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• The 149 Absolute Best Black Friday Deals Worth Your Money list includes the best Black Friday deals on gear we've tested and approved",
+          "• The 149 Absolute Best Black Friday Deals Worth Your Money",
           "• Everything here was hands-on tested by a member of our Reviews team and recommended"
         ],
         "hopeful_bullets": [
-          "• The 149 Absolute Best Black Friday Deals Worth Your Money list includes the best Black Friday deals on gear we've tested and approved",
+          "• The 149 Absolute Best Black Friday Deals Worth Your Money",
           "• Everything here was hands-on tested by a member of our Reviews team and recommended"
         ],
         "stakes_bullets": [
-          "• The 149 Absolute Best Black Friday Deals Worth Your Money list includes the best Black Friday deals on gear we've tested and approved",
-          "• Everything here was hands-on tested by a member of our Reviews team and recommended",
-          "• We track prices through the year, to ensure that any deal we feature actually is a discount "
+          "• The only catch is that it’s a Doorbuster-style sale, meaning once they sell out at this price, this discount will disappear "
         ]
       },
       "read_minutes": 27,
@@ -6427,36 +6456,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "bd24eebdcb03"
-    },
-    {
-      "id": "d5003b46bb5e",
-      "title": "Runaway nuns can stay in Alpine convent if they leave social media",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0l9z176lnlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 28 Nov 2025 18:43:25 GMT",
-      "bullets": [
-        "• Austrian nuns in their 80s who ran away from old people's home have been told they can stay in their former convent \"until further notice\" Church authorities say they can only stay if they stop posting on social media",
-        "• The three nuns say they were taken out of the convent against their will in December 2023 "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Austrian nuns in their 80s who ran away from old people's home have been told they can stay in their former convent \"until further notice\" Church authorities say they can only stay if they stop posting on social media",
-          "• The three nuns say they were taken out of the convent against their will in December 2023 "
-        ],
-        "hopeful_bullets": [
-          "• The three nuns say they were taken out of the convent against their will in December 2023 "
-        ],
-        "stakes_bullets": [
-          "• The three nuns say they were taken out of the convent against their will in December 2023 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "84b392e68cf6"
     },
     {
       "id": "dc7d46f7133c",
@@ -9445,6 +9444,24 @@
       ]
     },
     {
+      "id": "eb32fd8a1241",
+      "topic": "blame group jihadist kidnapping",
+      "keywords": [
+        "blame",
+        "group",
+        "jihadist",
+        "kidnapping",
+        "nigeria",
+        "wave"
+      ],
+      "item_ids": [
+        "5c7849809257"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "e9698f7a5e69",
       "topic": "begin days deadliest hong",
       "keywords": [
@@ -9463,24 +9480,6 @@
       ]
     },
     {
-      "id": "dc8483c7c73f",
-      "topic": "convicted drug hondura pardon",
-      "keywords": [
-        "convicted",
-        "drug",
-        "hondura",
-        "pardon",
-        "president",
-        "trump"
-      ],
-      "item_ids": [
-        "0d72b2fd4d0c"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "fdc472e262d9",
       "topic": "african bissau coup guinea",
       "keywords": [
@@ -9493,6 +9492,24 @@
       ],
       "item_ids": [
         "b41657fd558a"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "dc8483c7c73f",
+      "topic": "convicted drug hondura pardon",
+      "keywords": [
+        "convicted",
+        "drug",
+        "hondura",
+        "pardon",
+        "president",
+        "trump"
+      ],
+      "item_ids": [
+        "0d72b2fd4d0c"
       ],
       "outlets": [
         "BBC News"
@@ -9529,24 +9546,6 @@
       ],
       "item_ids": [
         "06696c64ef2a"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "84b392e68cf6",
-      "topic": "alpine convent leave nuns",
-      "keywords": [
-        "alpine",
-        "convent",
-        "leave",
-        "nuns",
-        "runaway",
-        "stay"
-      ],
-      "item_ids": [
-        "d5003b46bb5e"
       ],
       "outlets": [
         "BBC News"
