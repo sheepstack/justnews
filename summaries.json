@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-29T06:18:15Z",
+  "generated_at": "2025-11-29T07:10:38Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -134,6 +134,41 @@
       },
       "read_minutes": 2,
       "cluster_id": "fdea16f820e0"
+    },
+    {
+      "id": "8c1b55813209",
+      "title": "In One Week, Trump Moves to Reshape U.S. Environmental Policy",
+      "outlet": "NYT > Climate and Environment",
+      "url": "https://www.nytimes.com/2025/11/22/climate/trump-environmental-policy-week.html",
+      "published_at": "Wed, 26 Nov 2025 22:56:33 +0000",
+      "bullets": [
+        "• In one week, the Trump administration moved to weaken the Clean Water Act and Endangered Species Act",
+        "• The move could affect everything from the survival of rare whales to the health of the Hudson River",
+        "• If the proposals are finalized and upheld in court, they could reshape U.S",
+        "• environmental policy for years to come "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.972
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In one week, the Trump administration moved to weaken the Clean Water Act and Endangered Species Act",
+          "• The move could affect everything from the survival of rare whales to the health of the Hudson River"
+        ],
+        "hopeful_bullets": [
+          "• In one week, the Trump administration moved to weaken the Clean Water Act and Endangered Species Act",
+          "• The move could affect everything from the survival of rare whales to the health of the Hudson River"
+        ],
+        "stakes_bullets": [
+          "• The move could affect everything from the survival of rare whales to the health of the Hudson River",
+          "• If the proposals are finalized and upheld in court, they could reshape U.S",
+          "• environmental policy for years to come "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "4a7281bddecf"
     },
     {
       "id": "dd5d99a235e2",
@@ -4323,17 +4358,151 @@
       "cluster_id": "077fbd269b7a"
     },
     {
+      "id": "4cdd2666ee68",
+      "title": "AI is taking jobs — here’s Coursera CEO's No. 1 tip for grads to stay competitive",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/29/coursera-ceos-top-tips-for-grads-to-stay-competitive-as-ai-takes-jobs.html",
+      "published_at": "Sat, 29 Nov 2025 06:03:21 GMT",
+      "bullets": [
+        "• In the age of AI, it's important to supplement university degrees with additional skills, says CEO of online learning platform",
+        "• \"The best things that I give to my students is to augment your university degree with a short degree,\" he says",
+        "• In the UK, 62% of U.K",
+        "• households expect to rely heavily on artificial intelligence "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In the age of AI, it's important to supplement university degrees with additional skills, says CEO of online learning platform",
+          "• \"The best things that I give to my students is to augment your university degree with a short degree,\" he says"
+        ],
+        "hopeful_bullets": [
+          "• In the age of AI, it's important to supplement university degrees with additional skills, says CEO of online learning platform",
+          "• \"The best things that I give to my students is to augment your university degree with a short degree,\" he says"
+        ],
+        "stakes_bullets": [
+          "• In the age of AI, it's important to supplement university degrees with additional skills, says CEO of online learning platform",
+          "• \"The best things that I give to my students is to augment your university degree with a short degree,\" he says",
+          "• In the UK, 62% of U.K"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "20d86c60799f"
+    },
+    {
+      "id": "711ddb04cec4",
+      "title": "Planes grounded after Airbus discovers solar radiation could impact systems",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 29 Nov 2025 06:01:25 GMT",
+      "bullets": [
+        "• Around 6,000 A320 planes are thought to be affected, half the European firm's global fleet",
+        "• Most will be able to fly again after undergoing a quick software update",
+        "• UK's aviation regulator said there would be \"some disruption and cancellations to flights\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Around 6,000 A320 planes are thought to be affected, half the European firm's global fleet",
+          "• Most will be able to fly again after undergoing a quick software update"
+        ],
+        "hopeful_bullets": [
+          "• Around 6,000 A320 planes are thought to be affected, half the European firm's global fleet",
+          "• Most will be able to fly again after undergoing a quick software update"
+        ],
+        "stakes_bullets": [
+          "• Around 6,000 A320 planes are thought to be affected, half the European firm's global fleet",
+          "• Most will be able to fly again after undergoing a quick software update"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "83d77af2b600"
+    },
+    {
+      "id": "6e590ac614df",
+      "title": "Revealed: Europe’s water reserves drying up due to climate breakdown",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/nov/29/climate-crisis-depleting-europe-groundwater-reserves-analysis",
+      "published_at": "Sat, 29 Nov 2025 06:00:32 GMT",
+      "bullets": [
+        "• Scientists at University College London analysed 2002–24 data from satellites",
+        "• The north and north-west of Europe – particularly Scandinavia, parts of the UK and Portugal – have been getting wetter",
+        "• Large swathes of the south and south-east have been drying out",
+        "• Climate breakdown can be seen in the data, the scientists say "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists at University College London analysed 2002–24 data from satellites",
+          "• The north and north-west of Europe – particularly Scandinavia, parts of the UK and Portugal – have been getting wetter"
+        ],
+        "hopeful_bullets": [
+          "• Scientists at University College London analysed 2002–24 data from satellites",
+          "• The north and north-west of Europe – particularly Scandinavia, parts of the UK and Portugal – have been getting wetter"
+        ],
+        "stakes_bullets": [
+          "• Scientists at University College London analysed 2002–24 data from satellites",
+          "• The north and north-west of Europe – particularly Scandinavia, parts of the UK and Portugal – have been getting wetter",
+          "• Large swathes of the south and south-east have been drying out"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "7b9b148e9eaf"
+    },
+    {
+      "id": "498db10da9da",
+      "title": "At least 8,000 illegal waste sites in UK, research suggests",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/nov/29/waste-sites-landfill-rubbish-uk-research",
+      "published_at": "Sat, 29 Nov 2025 06:00:31 GMT",
+      "bullets": [
+        "• The UK is estimated to have at least 8,000 illegal waste sites, containing approximately 13m tonnes of rubbish",
+        "• The scale of the criminal dumping means at least £1.63bn of landfill taxes have been avoided, according to an analysis of data from satellite company Air & Space Evidence "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The UK is estimated to have at least 8,000 illegal waste sites, containing approximately 13m tonnes of rubbish",
+          "• The scale of the criminal dumping means at least £1.63bn of landfill taxes have been avoided, according to an analysis of data from satellite company Air & Space Evidence "
+        ],
+        "hopeful_bullets": [
+          "• The UK is estimated to have at least 8,000 illegal waste sites, containing approximately 13m tonnes of rubbish",
+          "• The scale of the criminal dumping means at least £1.63bn of landfill taxes have been avoided, according to an analysis of data from satellite company Air & Space Evidence "
+        ],
+        "stakes_bullets": [
+          "• The UK is estimated to have at least 8,000 illegal waste sites, containing approximately 13m tonnes of rubbish",
+          "• The scale of the criminal dumping means at least £1.63bn of landfill taxes have been avoided, according to an analysis of data from satellite company Air & Space Evidence "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "71072c488c31"
+    },
+    {
       "id": "d28c9c65d1de",
       "title": "Airbus A320 recall disrupts global travel after glitch linked to solar flares",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/11/29/airbus-recall-disrupts-global-travel-a320-jets-grounded-glitch-linked-solar-flares.html",
-      "published_at": "Sat, 29 Nov 2025 05:44:37 GMT",
+      "published_at": "Sat, 29 Nov 2025 05:56:15 GMT",
       "bullets": [
-        "• Airbus orders immediate software fixes for 6,000 A320-series aircraft",
-        "• Affected more than half of the narrow-body fleet and forced airlines to ground jets during one of the busiest travel weekends of the year",
-        "• The European Union Aviation Safety Agency says a JetBlue flight on Oct",
-        "• 30 experienced an \"uncommanded and limited pitch down event\" The U.S",
-        "• Federal Aviation Administration also issued an emergency directive "
+        "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
+        "• The directive is among the largest in the 55-year history of Airbus",
+        "• Thousands of travelers worldwide were stranded during one of the busiest travel weekends of the year",
+        "• The disruption, linked to solar flares, hit especially hard in Asia, where the single-aisle A320 family anchors networks "
       ],
       "category": "Business",
       "sentiment": {
@@ -4342,54 +4511,21 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Airbus orders immediate software fixes for 6,000 A320-series aircraft",
-          "• Affected more than half of the narrow-body fleet and forced airlines to ground jets during one of the busiest travel weekends of the year"
+          "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
+          "• The directive is among the largest in the 55-year history of Airbus"
         ],
         "hopeful_bullets": [
-          "• Airbus orders immediate software fixes for 6,000 A320-series aircraft",
-          "• Affected more than half of the narrow-body fleet and forced airlines to ground jets during one of the busiest travel weekends of the year"
+          "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
+          "• The directive is among the largest in the 55-year history of Airbus"
         ],
         "stakes_bullets": [
-          "• Affected more than half of the narrow-body fleet and forced airlines to ground jets during one of the busiest travel weekends of the year"
+          "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
+          "• The directive is among the largest in the 55-year history of Airbus",
+          "• Thousands of travelers worldwide were stranded during one of the busiest travel weekends of the year"
         ]
       },
       "read_minutes": 2,
       "cluster_id": "b8638f9a2b43"
-    },
-    {
-      "id": "8d6a32450633",
-      "title": "Russian drone strikes hit Kyiv residential areas despite peace moves",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 29 Nov 2025 04:48:18 GMT",
-      "bullets": [
-        "• Russian drone strikes hit residential areas in Ukraine's capital",
-        "• One person killed and seven injured, including a child, officials say",
-        "• Earlier this week a similar attack killed seven people in the city of Kyiv",
-        "• The latest strike comes as talks between Russia and the United States begin "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Russian drone strikes hit residential areas in Ukraine's capital",
-          "• One person killed and seven injured, including a child, officials say"
-        ],
-        "hopeful_bullets": [
-          "• Russian drone strikes hit residential areas in Ukraine's capital",
-          "• One person killed and seven injured, including a child, officials say"
-        ],
-        "stakes_bullets": [
-          "• Russian drone strikes hit residential areas in Ukraine's capital",
-          "• One person killed and seven injured, including a child, officials say",
-          "• Earlier this week a similar attack killed seven people in the city of Kyiv"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "df3535549adb"
     },
     {
       "id": "f2ed235452ab",
@@ -5116,6 +5252,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "57cfcb08df3d"
+    },
+    {
+      "id": "f73d06127f6d",
+      "title": "We searched for a true Christmas market - and may have found one",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyzdxyjx2eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 29 Nov 2025 00:03:22 GMT",
+      "bullets": [
+        "• Birmingham's Frankfurt Christmas Market is thought to have originated in Germany in the 14th Century",
+        "• Organisers say it's \"the largest authentic German Christmas market\" outside the country and Austria",
+        "• But how close are the ones in the UK to that supposed traditional, real thing?"
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.648
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Birmingham's Frankfurt Christmas Market is thought to have originated in Germany in the 14th Century",
+          "• Organisers say it's \"the largest authentic German Christmas market\" outside the country and Austria"
+        ],
+        "hopeful_bullets": [
+          "• Birmingham's Frankfurt Christmas Market is thought to have originated in Germany in the 14th Century",
+          "• Organisers say it's \"the largest authentic German Christmas market\" outside the country and Austria"
+        ],
+        "stakes_bullets": [
+          "• Birmingham's Frankfurt Christmas Market is thought to have originated in Germany in the 14th Century",
+          "• Organisers say it's \"the largest authentic German Christmas market\" outside the country and Austria",
+          "• But how close are the ones in the UK to that supposed traditional, real thing?"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "ff56baa40d31"
     },
     {
       "id": "8df10f5d26b1",
@@ -5883,41 +6053,6 @@
       "cluster_id": "97539e8db586"
     },
     {
-      "id": "8f0553187414",
-      "title": "Afghans in US issue plea to Trump after Washington DC shooting",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0q5w8l88dvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 28 Nov 2025 20:42:06 GMT",
-      "bullets": [
-        "• Suspect moved to the US from Afghanistan four years ago, but did not represent Afghans",
-        "• President Donald Trump has halted processing of all immigration requests from Afghans",
-        "• He has also ordered a review of green cards issued to individuals from 19 countries",
-        "• The Afghan Community Coalition of United States has condemned the shooting "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Suspect moved to the US from Afghanistan four years ago, but did not represent Afghans",
-          "• President Donald Trump has halted processing of all immigration requests from Afghans"
-        ],
-        "hopeful_bullets": [
-          "• Suspect moved to the US from Afghanistan four years ago, but did not represent Afghans",
-          "• President Donald Trump has halted processing of all immigration requests from Afghans"
-        ],
-        "stakes_bullets": [
-          "• Suspect moved to the US from Afghanistan four years ago, but did not represent Afghans",
-          "• President Donald Trump has halted processing of all immigration requests from Afghans",
-          "• He has also ordered a review of green cards issued to individuals from 19 countries"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "0cf76459097c"
-    },
-    {
       "id": "4dd6e2ba53a1",
       "title": "The Best Black Friday Beauty Deals, WIRED Approved (2025)",
       "outlet": "WIRED",
@@ -6521,7 +6656,7 @@
     },
     {
       "id": "a5265cf8ee30",
-      "title": "Death toll reaches 69 as Sri Lanka is hit by rising flood waters",
+      "title": "Sri Lanka death toll from floods and landslides reaches 123",
       "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/world/2025/nov/28/death-toll-sri-lanka-hit-by-rising-flood-waters",
       "published_at": "Fri, 28 Nov 2025 17:20:06 GMT",
@@ -6532,7 +6667,7 @@
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.959
+        "score": 0.972
       },
       "moods": {
         "brief_bullets": [
@@ -6548,7 +6683,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "26bf1422266f"
+      "cluster_id": "8579346e6e8e"
     },
     {
       "id": "4a694b984e6d",
@@ -6615,38 +6750,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "41773c723320"
-    },
-    {
-      "id": "af705c52e0d6",
-      "title": "That 'free' money in your 401(k) may not belong to you just yet",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/28/401k-match-vesting-schedules.html",
-      "published_at": "Fri, 28 Nov 2025 16:17:50 GMT",
-      "bullets": [
-        "• 401(k) match is often referred to as \"free\" money",
-        "• About 81% of companies that offer a 401(K) plan offer a match to workers, according to the Plan Sponsor Council of America",
-        "• The most common employer match formula is to match half of the first 6% of a worker's salary "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 401(k) match is often referred to as \"free\" money",
-          "• About 81% of companies that offer a 401(K) plan offer a match to workers, according to the Plan Sponsor Council of America"
-        ],
-        "hopeful_bullets": [
-          "• 401(k) match is often referred to as \"free\" money",
-          "• About 81% of companies that offer a 401(K) plan offer a match to workers, according to the Plan Sponsor Council of America"
-        ],
-        "stakes_bullets": [
-          "• About 81% of companies that offer a 401(K) plan offer a match to workers, according to the Plan Sponsor Council of America"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e6411d7d8edf"
     },
     {
       "id": "498b11a6f084",
@@ -7482,37 +7585,6 @@
       "cluster_id": "21913accaa1c"
     },
     {
-      "id": "66f483714a71",
-      "title": "UK energy bill payers will hand £2bn a year to EDF for new power stations",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2025/nov/28/uk-energy-bill-payers-edf-hinkley-point-c-sizewell-c",
-      "published_at": "Fri, 28 Nov 2025 11:30:20 GMT",
-      "bullets": [
-        "• EDF, owned by the French government, will be entitled to £1bn in annual payments as soon as Hinkley Point C, in Somerset, comes on to the grid in 2030",
-        "• The sum is due under the contracts-for-difference system that guarantees low-carbon energy companies a fixed price for the electricity they generate "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.96
-      },
-      "moods": {
-        "brief_bullets": [
-          "• EDF, owned by the French government, will be entitled to £1bn in annual payments as soon as Hinkley Point C, in Somerset, comes on to the grid in 2030",
-          "• The sum is due under the contracts-for-difference system that guarantees low-carbon energy companies a fixed price for the electricity they generate "
-        ],
-        "hopeful_bullets": [
-          "• EDF, owned by the French government, will be entitled to £1bn in annual payments as soon as Hinkley Point C, in Somerset, comes on to the grid in 2030",
-          "• The sum is due under the contracts-for-difference system that guarantees low-carbon energy companies a fixed price for the electricity they generate "
-        ],
-        "stakes_bullets": [
-          "• EDF, owned by the French government, will be entitled to £1bn in annual payments as soon as Hinkley Point C, in Somerset, comes on to the grid in 2030"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "66a04fd573ea"
-    },
-    {
       "id": "d548116e7081",
       "title": "St Vincent opposition party celebrates historic election win",
       "outlet": "World news | The Guardian",
@@ -7642,40 +7714,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "50be90a9d91a"
-    },
-    {
-      "id": "6aa18ce4ca8f",
-      "title": "Weather tracker: Snowfall cuts power in Poland and flooding devastates Sri Lanka",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/nov/28/weather-tracker-snowfall-cuts-power-poland-flooding-devastates-sri-lanka",
-      "published_at": "Fri, 28 Nov 2025 10:37:59 GMT",
-      "bullets": [
-        "• Temperatures plummeted across the eastern half of Europe this week",
-        "• 15-20cm (6-8in) of snow fell in much of Poland and more than 40cm in the south",
-        "• An Embraer E170STD aircraft veered off the runway on to a grass verge on a flight from Warsaw to Vilnius "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Temperatures plummeted across the eastern half of Europe this week",
-          "• 15-20cm (6-8in) of snow fell in much of Poland and more than 40cm in the south"
-        ],
-        "hopeful_bullets": [
-          "• Temperatures plummeted across the eastern half of Europe this week",
-          "• 15-20cm (6-8in) of snow fell in much of Poland and more than 40cm in the south"
-        ],
-        "stakes_bullets": [
-          "• Temperatures plummeted across the eastern half of Europe this week",
-          "• 15-20cm (6-8in) of snow fell in much of Poland and more than 40cm in the south",
-          "• An Embraer E170STD aircraft veered off the runway on to a grass verge on a flight from Warsaw to Vilnius "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "16046dda214c"
     },
     {
       "id": "5c8c278ca4cc",
@@ -8610,6 +8648,74 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "b8d3abd9e27c",
+      "title": "Philips Hue’s Festavia string lights are nearly $60 off (and still available) for Black Friday",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025",
+      "published_at": "2025-11-29T01:32:56-05:00",
+      "bullets": [
+        "• Philips Hue’s Festavia string lights are nearly $60 off (and still available) for Black Friday",
+        "• You can still buy a 65-foot string for $145.19 (about $97 off) or a 130-foot strand for around $237.60",
+        "• This is the lowest price we’ve seen on either strand since they were first introduced "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Philips Hue’s Festavia string lights are nearly $60 off (and still available) for Black Friday",
+          "• You can still buy a 65-foot string for $145.19 (about $97 off) or a 130-foot strand for around $237.60"
+        ],
+        "hopeful_bullets": [
+          "• Philips Hue’s Festavia string lights are nearly $60 off (and still available) for Black Friday",
+          "• You can still buy a 65-foot string for $145.19 (about $97 off) or a 130-foot strand for around $237.60"
+        ],
+        "stakes_bullets": [
+          "• Philips Hue’s Festavia string lights are nearly $60 off (and still available) for Black Friday",
+          "• You can still buy a 65-foot string for $145.19 (about $97 off) or a 130-foot strand for around $237.60",
+          "• This is the lowest price we’ve seen on either strand since they were first introduced "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7e2898084dab"
+    },
+    {
+      "id": "c7a60b23b3ed",
+      "title": "The 192 best Black Friday deals you can still shop — a ton of tech is over half off",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas",
+      "published_at": "2025-11-29T01:19:35-05:00",
+      "bullets": [
+        "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
+        "• There are also great discounts on streaming services such as Hulu and HBO Max",
+        "• The best deals are available on Amazon, Apple and other major retailers, including Amazon and Google "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
+          "• There are also great discounts on streaming services such as Hulu and HBO Max"
+        ],
+        "hopeful_bullets": [
+          "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
+          "• There are also great discounts on streaming services such as Hulu and HBO Max"
+        ],
+        "stakes_bullets": [
+          "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
+          "• There are also great discounts on streaming services such as Hulu and HBO Max",
+          "• The best deals are available on Amazon, Apple and other major retailers, including Amazon and Google "
+        ]
+      },
+      "read_minutes": 51,
+      "cluster_id": "c9f835e2a053"
+    },
+    {
       "id": "6bd1bf978ff0",
       "title": "The Verge’s guide to Black Friday 2025",
       "outlet": "The Verge",
@@ -8642,41 +8748,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "c49786aca1d5"
-    },
-    {
-      "id": "c7a60b23b3ed",
-      "title": "The 190 best Black Friday deals you can still shop — a ton of tech is over half off",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas",
-      "published_at": "2025-11-29T00:05:41-05:00",
-      "bullets": [
-        "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
-        "• There are also great discounts on streaming services like Hulu and HBO Max",
-        "• The best deals are available on Amazon and Google Play in the U.S",
-        "• and other major retailers "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
-          "• There are also great discounts on streaming services like Hulu and HBO Max"
-        ],
-        "hopeful_bullets": [
-          "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
-          "• There are also great discounts on streaming services like Hulu and HBO Max"
-        ],
-        "stakes_bullets": [
-          "• The best Black Friday deals include AirPods Pro 3 and the Kindle Paperwhite",
-          "• There are also great discounts on streaming services like Hulu and HBO Max",
-          "• The best deals are available on Amazon and Google Play in the U.S"
-        ]
-      },
-      "read_minutes": 50,
-      "cluster_id": "ffe4bc003929"
     },
     {
       "id": "3f942883745b",
@@ -8807,7 +8878,7 @@
           "• These “great for 1080p” gaming PCs are a way around trying to buy pricey PC parts piecemeal during the holidays "
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "55d5dd3fff64"
     },
     {
@@ -8838,7 +8909,7 @@
           "• There are hundreds of dollars to be saved on laptops from Apple, Microsoft, HP, Lenovo, Asus, and more "
         ]
       },
-      "read_minutes": 11,
+      "read_minutes": 12,
       "cluster_id": "b8ea552a1ff6"
     },
     {
@@ -8877,70 +8948,37 @@
     },
     {
       "id": "aa31d9327a9b",
-      "title": "Our favorite gear from Apple, Bose, Sony and more is at all-time low prices for Black Friday — up to 58% off",
+      "title": "Here are 40+ deals that are at an all-time low for Black Friday",
       "outlet": "The Verge",
       "url": "https://www.theverge.com/gadgets/832710/black-friday-all-time-low-prices-headphones-gaming-tv-deal-sale-2025",
       "published_at": "2025-11-28T20:36:46-05:00",
       "bullets": [
-        "• Our favorite gear from Apple, Bose, Sony and more is at all-time low prices for Black Friday — up to 58% off",
-        "• Not all deals are created equal",
-        "• Here are the lowest prices we’ve seen on wireless earbuds, portable chargers, and more "
+        "• Here are the lowest prices we’ve seen on wireless earbuds, portable chargers, and more",
+        "• The PlayStation Portal is a handheld that allows you to stream games from your PS5 over the same network or the cloud for certain titles",
+        "• Black Friday is typically when we see the biggest discounts on OLED TVs, great productivity laptops, and productivity laptops "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 1.0
+        "score": 0.992
       },
       "moods": {
         "brief_bullets": [
-          "• Our favorite gear from Apple, Bose, Sony and more is at all-time low prices for Black Friday — up to 58% off",
-          "• Not all deals are created equal"
+          "• Here are the lowest prices we’ve seen on wireless earbuds, portable chargers, and more",
+          "• The PlayStation Portal is a handheld that allows you to stream games from your PS5 over the same network or the cloud for certain titles"
         ],
         "hopeful_bullets": [
-          "• Our favorite gear from Apple, Bose, Sony and more is at all-time low prices for Black Friday — up to 58% off",
-          "• Not all deals are created equal"
+          "• Here are the lowest prices we’ve seen on wireless earbuds, portable chargers, and more",
+          "• The PlayStation Portal is a handheld that allows you to stream games from your PS5 over the same network or the cloud for certain titles"
         ],
         "stakes_bullets": [
-          "• Our favorite gear from Apple, Bose, Sony and more is at all-time low prices for Black Friday — up to 58% off",
-          "• Not all deals are created equal",
-          "• Here are the lowest prices we’ve seen on wireless earbuds, portable chargers, and more "
+          "• Here are the lowest prices we’ve seen on wireless earbuds, portable chargers, and more",
+          "• The PlayStation Portal is a handheld that allows you to stream games from your PS5 over the same network or the cloud for certain titles",
+          "• Black Friday is typically when we see the biggest discounts on OLED TVs, great productivity laptops, and productivity laptops "
         ]
       },
       "read_minutes": 9,
-      "cluster_id": "ca39fbafb2e4"
-    },
-    {
-      "id": "6eae90c17d30",
-      "title": "The Super Mario Galaxy bundle for the Switch is 20 percent off today only",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025",
-      "published_at": "2025-11-28T20:01:43-05:00",
-      "bullets": [
-        "• The Super Mario Galaxy bundle for the Switch is 20 percent off today only through Woot",
-        "• The only caveat is that you need to check out using Woot’s mobile app on Android or iOS",
-        "• The games feature enhanced resolution, improved user interfaces, and more content "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Super Mario Galaxy bundle for the Switch is 20 percent off today only through Woot",
-          "• The only caveat is that you need to check out using Woot’s mobile app on Android or iOS"
-        ],
-        "hopeful_bullets": [
-          "• The games feature enhanced resolution, improved user interfaces, and more content "
-        ],
-        "stakes_bullets": [
-          "• The Super Mario Galaxy bundle for the Switch is 20 percent off today only through Woot",
-          "• The only caveat is that you need to check out using Woot’s mobile app on Android or iOS",
-          "• The games feature enhanced resolution, improved user interfaces, and more content "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "5468766513af"
+      "cluster_id": "25abf8205234"
     },
     {
       "id": "c41ff758b36a",
@@ -9413,18 +9451,18 @@
       ]
     },
     {
-      "id": "df3535549adb",
-      "topic": "drone hit kyiv residential",
+      "id": "83d77af2b600",
+      "topic": "airbu discover grounded plane",
       "keywords": [
-        "drone",
-        "hit",
-        "kyiv",
-        "residential",
-        "russian",
-        "strike"
+        "airbu",
+        "discover",
+        "grounded",
+        "plane",
+        "radiation",
+        "solar"
       ],
       "item_ids": [
-        "8d6a32450633"
+        "711ddb04cec4"
       ],
       "outlets": [
         "BBC News"
@@ -9467,6 +9505,23 @@
       ]
     },
     {
+      "id": "ff56baa40d31",
+      "topic": "christma found market searched",
+      "keywords": [
+        "christma",
+        "found",
+        "market",
+        "searched",
+        "true"
+      ],
+      "item_ids": [
+        "f73d06127f6d"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "dc8483c7c73f",
       "topic": "convicted drug hondura pardon",
       "keywords": [
@@ -9485,24 +9540,6 @@
       ]
     },
     {
-      "id": "38f5c9c9022f",
-      "topic": "defie hungary meet orban",
-      "keywords": [
-        "defie",
-        "hungary",
-        "meet",
-        "orban",
-        "partner",
-        "putin"
-      ],
-      "item_ids": [
-        "c8e9f524a2e5"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "f325f3063437",
       "topic": "bissau called coup guinea",
       "keywords": [
@@ -9515,6 +9552,24 @@
       ],
       "item_ids": [
         "b41657fd558a"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "38f5c9c9022f",
+      "topic": "defie hungary meet orban",
+      "keywords": [
+        "defie",
+        "hungary",
+        "meet",
+        "orban",
+        "partner",
+        "putin"
+      ],
+      "item_ids": [
+        "c8e9f524a2e5"
       ],
       "outlets": [
         "BBC News"
@@ -9551,24 +9606,6 @@
       ],
       "item_ids": [
         "d5003b46bb5e"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "0cf76459097c",
-      "topic": "afghan issue plea shooting",
-      "keywords": [
-        "afghan",
-        "issue",
-        "plea",
-        "shooting",
-        "trump",
-        "washington"
-      ],
-      "item_ids": [
-        "8f0553187414"
       ],
       "outlets": [
         "BBC News"
@@ -10167,6 +10204,42 @@
       ]
     },
     {
+      "id": "20d86c60799f",
+      "topic": "ceo coursera here jobs",
+      "keywords": [
+        "ceo",
+        "coursera",
+        "here",
+        "jobs",
+        "taking",
+        "tip"
+      ],
+      "item_ids": [
+        "4cdd2666ee68"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "249ae4aa8421",
+      "topic": "coffee decade expensive hasn",
+      "keywords": [
+        "coffee",
+        "decade",
+        "expensive",
+        "hasn",
+        "much",
+        "see"
+      ],
+      "item_ids": [
+        "595c886d3165"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "84dccfdf2e37",
       "topic": "estate real rebalance sector",
       "keywords": [
@@ -10203,24 +10276,6 @@
       ]
     },
     {
-      "id": "249ae4aa8421",
-      "topic": "coffee decade expensive hasn",
-      "keywords": [
-        "coffee",
-        "decade",
-        "expensive",
-        "hasn",
-        "much",
-        "see"
-      ],
-      "item_ids": [
-        "595c886d3165"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "1ba78df9c2a0",
       "topic": "caused future halt resume",
       "keywords": [
@@ -10233,24 +10288,6 @@
       ],
       "item_ids": [
         "a9a167799a4a"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "e6411d7d8edf",
-      "topic": "401 belong free just",
-      "keywords": [
-        "401",
-        "belong",
-        "free",
-        "just",
-        "money",
-        "yet"
-      ],
-      "item_ids": [
-        "af705c52e0d6"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10405,6 +10442,42 @@
       ]
     },
     {
+      "id": "7e2898084dab",
+      "topic": "festavia hue light nearly",
+      "keywords": [
+        "festavia",
+        "hue",
+        "light",
+        "nearly",
+        "philip",
+        "string"
+      ],
+      "item_ids": [
+        "b8d3abd9e27c"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "c9f835e2a053",
+      "topic": "192 best black deal",
+      "keywords": [
+        "192",
+        "best",
+        "black",
+        "deal",
+        "friday",
+        "still"
+      ],
+      "item_ids": [
+        "c7a60b23b3ed"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "c49786aca1d5",
       "topic": "2025 black friday guide",
       "keywords": [
@@ -10416,24 +10489,6 @@
       ],
       "item_ids": [
         "6bd1bf978ff0"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "ffe4bc003929",
-      "topic": "190 best black deal",
-      "keywords": [
-        "190",
-        "best",
-        "black",
-        "deal",
-        "friday",
-        "still"
-      ],
-      "item_ids": [
-        "c7a60b23b3ed"
       ],
       "outlets": [
         "The Verge"
@@ -10548,36 +10603,18 @@
       ]
     },
     {
-      "id": "ca39fbafb2e4",
-      "topic": "all apple bose favorite",
+      "id": "25abf8205234",
+      "topic": "all black deal here",
       "keywords": [
         "all",
-        "apple",
-        "bose",
-        "favorite",
-        "gear",
-        "sony"
+        "black",
+        "deal",
+        "here",
+        "low",
+        "time"
       ],
       "item_ids": [
         "aa31d9327a9b"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "5468766513af",
-      "topic": "bundle galaxy mario percent",
-      "keywords": [
-        "bundle",
-        "galaxy",
-        "mario",
-        "percent",
-        "super",
-        "switch"
-      ],
-      "item_ids": [
-        "6eae90c17d30"
       ],
       "outlets": [
         "The Verge"
@@ -11527,13 +11564,49 @@
       ]
     },
     {
-      "id": "26bf1422266f",
-      "topic": "death hit lanka reache",
+      "id": "7b9b148e9eaf",
+      "topic": "drying due europe reserve",
+      "keywords": [
+        "drying",
+        "due",
+        "europe",
+        "reserve",
+        "revealed",
+        "water"
+      ],
+      "item_ids": [
+        "6e590ac614df"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "71072c488c31",
+      "topic": "000 illegal least research",
+      "keywords": [
+        "000",
+        "illegal",
+        "least",
+        "research",
+        "site",
+        "waste"
+      ],
+      "item_ids": [
+        "498db10da9da"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
+      "id": "8579346e6e8e",
+      "topic": "death flood landslide lanka",
       "keywords": [
         "death",
-        "hit",
+        "flood",
+        "landslide",
         "lanka",
-        "reache",
         "sri",
         "toll"
       ],
@@ -11545,39 +11618,21 @@
       ]
     },
     {
-      "id": "66a04fd573ea",
-      "topic": "2bn bill energy hand",
+      "id": "4a7281bddecf",
+      "topic": "environmental move policy reshape",
       "keywords": [
-        "2bn",
-        "bill",
-        "energy",
-        "hand",
-        "payer",
-        "year"
+        "environmental",
+        "move",
+        "policy",
+        "reshape",
+        "trump",
+        "week"
       ],
       "item_ids": [
-        "66f483714a71"
+        "8c1b55813209"
       ],
       "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "16046dda214c",
-      "topic": "cuts poland power snowfall",
-      "keywords": [
-        "cuts",
-        "poland",
-        "power",
-        "snowfall",
-        "tracker",
-        "weather"
-      ],
-      "item_ids": [
-        "6aa18ce4ca8f"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
+        "NYT > Climate and Environment"
       ]
     },
     {
