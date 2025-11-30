@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-30T06:19:04Z",
+  "generated_at": "2025-11-30T07:12:22Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -3546,38 +3546,172 @@
       "cluster_id": "61932cf045ef"
     },
     {
+      "id": "4c60ced9ec53",
+      "title": "Ukraine hits tankers in Black Sea in escalation against Russia",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp9ky5z2gx0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 30 Nov 2025 06:22:36 GMT",
+      "bullets": [
+        "• Ukraine hits tankers in Black Sea in escalation against Russia",
+        "• Attacks appear to be an escalation by Kyiv as it tries to hit Russia's oil revenues",
+        "• The Kairos and Virat are reportedly part of Russia's \"shadow fleet\" Both are on a list of ships subject to sanctions, according to London Stock Exchange "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ukraine hits tankers in Black Sea in escalation against Russia",
+          "• Attacks appear to be an escalation by Kyiv as it tries to hit Russia's oil revenues"
+        ],
+        "hopeful_bullets": [
+          "• Ukraine hits tankers in Black Sea in escalation against Russia"
+        ],
+        "stakes_bullets": [
+          "• Ukraine hits tankers in Black Sea in escalation against Russia",
+          "• Attacks appear to be an escalation by Kyiv as it tries to hit Russia's oil revenues",
+          "• The Kairos and Virat are reportedly part of Russia's \"shadow fleet\" Both are on a list of ships subject to sanctions, according to London Stock Exchange "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e1b2bf0632bd"
+    },
+    {
+      "id": "e1be2ecacdf1",
+      "title": "All the president’s millions: how the Trumps are turning the presidency into riches",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/nov/30/all-the-presidents-millions-how-the-trumps-are-turning-the-presidency-into-riches",
+      "published_at": "Sun, 30 Nov 2025 06:00:03 GMT",
+      "bullets": [
+        "• Trump's eldest sons, Don Jr and Eric, are conducting a global dealmaking blitz",
+        "• They have broken ground on new golf courses, received permission for new skyscrapers, rented out the Trump brand, and in cryptocurrency they have embraced a venture with the capacity to bring in more than everything that has gone before "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump's eldest sons, Don Jr and Eric, are conducting a global dealmaking blitz",
+          "• They have broken ground on new golf courses, received permission for new skyscrapers, rented out the Trump brand, and in cryptocurrency they have embraced a venture with the capacity to bring in more than everything that has gone before "
+        ],
+        "hopeful_bullets": [
+          "• Trump's eldest sons, Don Jr and Eric, are conducting a global dealmaking blitz",
+          "• They have broken ground on new golf courses, received permission for new skyscrapers, rented out the Trump brand, and in cryptocurrency they have embraced a venture with the capacity to bring in more than everything that has gone before "
+        ],
+        "stakes_bullets": [
+          "• Trump's eldest sons, Don Jr and Eric, are conducting a global dealmaking blitz",
+          "• They have broken ground on new golf courses, received permission for new skyscrapers, rented out the Trump brand, and in cryptocurrency they have embraced a venture with the capacity to bring in more than everything that has gone before "
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "4cd394179d6a"
+    },
+    {
+      "id": "d2731ab73e02",
+      "title": "Water shortages could derail UK’s net zero plans, study finds",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/nov/30/water-shortages-could-derail-uk-net-zero-plans-study-finds",
+      "published_at": "Sun, 30 Nov 2025 06:00:02 GMT",
+      "bullets": [
+        "• Government has legally binding target to reach net zero greenhouse gas emissions by 2050",
+        "• But study concludes there will not be enough water available to support all planned carbon capture and hydrogen projects",
+        "• Development of these kinds of projects, which use significant amounts of water, could push some regions into water shortages "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Government has legally binding target to reach net zero greenhouse gas emissions by 2050",
+          "• But study concludes there will not be enough water available to support all planned carbon capture and hydrogen projects"
+        ],
+        "hopeful_bullets": [
+          "• Government has legally binding target to reach net zero greenhouse gas emissions by 2050",
+          "• But study concludes there will not be enough water available to support all planned carbon capture and hydrogen projects"
+        ],
+        "stakes_bullets": [
+          "• But study concludes there will not be enough water available to support all planned carbon capture and hydrogen projects",
+          "• Development of these kinds of projects, which use significant amounts of water, could push some regions into water shortages "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "c966a118412b"
+    },
+    {
+      "id": "407bf8d52b25",
+      "title": "Four killed in shooting at child's birthday party in California",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 30 Nov 2025 05:57:27 GMT",
+      "bullets": [
+        "• At least four people have been killed at a child's birthday party in California",
+        "• Police say they believe the incident may have been \"targeted\" and are investigating",
+        "• The victims are believed to be children and adults",
+        "• The incident happened shortly before 18:00 local time on Saturday evening "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At least four people have been killed at a child's birthday party in California",
+          "• Police say they believe the incident may have been \"targeted\" and are investigating"
+        ],
+        "hopeful_bullets": [
+          "• At least four people have been killed at a child's birthday party in California",
+          "• Police say they believe the incident may have been \"targeted\" and are investigating"
+        ],
+        "stakes_bullets": [
+          "• At least four people have been killed at a child's birthday party in California",
+          "• Police say they believe the incident may have been \"targeted\" and are investigating",
+          "• The victims are believed to be children and adults"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "79e7325fb2fc"
+    },
+    {
       "id": "5fb7abf03732",
       "title": "At least four killed in shooting at child’s birthday party in northern California",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/nov/30/stockton-banquet-hall-shooting-california",
       "published_at": "Sun, 30 Nov 2025 05:36:14 GMT",
       "bullets": [
-        "• Four people have died after 14 people were shot at a family gathering in northern California, police say",
-        "• Children and adults were among the victims of the shooting at Stockton, California",
-        "• Police say they received reports shortly before 6pm of a shooting that occurred near the 1900 block of Lucile Avenue in Stockton "
+        "• Four people have been confirmed dead after shooting at a family party in Stockton, California",
+        "• Children and adults are among the victims, police say",
+        "• Police say they received reports of a shooting near the 1900 block of Lucile Avenue",
+        "• The shooting took place at a child’s birthday party, police said "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.984
+        "score": 0.986
       },
       "moods": {
         "brief_bullets": [
-          "• Four people have died after 14 people were shot at a family gathering in northern California, police say",
-          "• Children and adults were among the victims of the shooting at Stockton, California"
+          "• Four people have been confirmed dead after shooting at a family party in Stockton, California",
+          "• Children and adults are among the victims, police say"
         ],
         "hopeful_bullets": [
-          "• Four people have died after 14 people were shot at a family gathering in northern California, police say",
-          "• Children and adults were among the victims of the shooting at Stockton, California"
+          "• Four people have been confirmed dead after shooting at a family party in Stockton, California",
+          "• Children and adults are among the victims, police say"
         ],
         "stakes_bullets": [
-          "• Four people have died after 14 people were shot at a family gathering in northern California, police say",
-          "• Children and adults were among the victims of the shooting at Stockton, California",
-          "• Police say they received reports shortly before 6pm of a shooting that occurred near the 1900 block of Lucile Avenue in Stockton "
+          "• Four people have been confirmed dead after shooting at a family party in Stockton, California",
+          "• Children and adults are among the victims, police say",
+          "• Police say they received reports of a shooting near the 1900 block of Lucile Avenue"
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "3ec59e5b3a89"
+      "cluster_id": "79e7325fb2fc"
     },
     {
       "id": "f3e2f2cfbb28",
@@ -3654,31 +3788,29 @@
       "url": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss",
       "published_at": "Sun, 30 Nov 2025 04:39:09 GMT",
       "bullets": [
-        "• Venezuela calls Trump airspace closure warning 'colonialist threat' US does not have the authority to close another country's airspace",
-        "• US has been building its military presence in the Caribbean to combat drug smuggling",
-        "• Venezuela's President has dismissed claims of drug trafficking as an attempt to oust him "
+        "• Venezuela calls Trump airspace closure warning 'colonialist threat' US President Donald Trump said airspace around Venezuela should be closed",
+        "• Venezuela's foreign ministry called the comments \"another extravagant, illegal and unjustified aggression\" US has built its military presence in the area and carried out at least 21 strikes on boats it says were carrying drugs "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• Venezuela calls Trump airspace closure warning 'colonialist threat' US does not have the authority to close another country's airspace",
-          "• US has been building its military presence in the Caribbean to combat drug smuggling"
+          "• Venezuela calls Trump airspace closure warning 'colonialist threat' US President Donald Trump said airspace around Venezuela should be closed",
+          "• Venezuela's foreign ministry called the comments \"another extravagant, illegal and unjustified aggression\" US has built its military presence in the area and carried out at least 21 strikes on boats it says were carrying drugs "
         ],
         "hopeful_bullets": [
-          "• Venezuela calls Trump airspace closure warning 'colonialist threat' US does not have the authority to close another country's airspace",
-          "• US has been building its military presence in the Caribbean to combat drug smuggling"
+          "• Venezuela calls Trump airspace closure warning 'colonialist threat' US President Donald Trump said airspace around Venezuela should be closed",
+          "• Venezuela's foreign ministry called the comments \"another extravagant, illegal and unjustified aggression\" US has built its military presence in the area and carried out at least 21 strikes on boats it says were carrying drugs "
         ],
         "stakes_bullets": [
-          "• Venezuela calls Trump airspace closure warning 'colonialist threat' US does not have the authority to close another country's airspace",
-          "• US has been building its military presence in the Caribbean to combat drug smuggling",
-          "• Venezuela's President has dismissed claims of drug trafficking as an attempt to oust him "
+          "• Venezuela calls Trump airspace closure warning 'colonialist threat' US President Donald Trump said airspace around Venezuela should be closed",
+          "• Venezuela's foreign ministry called the comments \"another extravagant, illegal and unjustified aggression\" US has built its military presence in the area and carried out at least 21 strikes on boats it says were carrying drugs "
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 2,
       "cluster_id": "10277eca259d"
     },
     {
@@ -3923,27 +4055,28 @@
       "url": "https://www.theguardian.com/environment/2025/nov/30/rising-tide-protest-climate-activists-stop-three-ships-from-entering-worlds-largest-coal-port-in-newcastle",
       "published_at": "Sun, 30 Nov 2025 03:48:30 GMT",
       "bullets": [
-        "• Two more ships have been turned around in Australia's largest coal port",
-        "• The total number of ships turned around has now reached three",
-        "• Thousands of people have taken to the site to protest against the government's decision to turn around two more ships this week "
+        "• Two more coal ships have been blocked from entering the Port of Newcastle on Sunday",
+        "• The total number of ships turned around by campaigners this weekend is three",
+        "• The Rising Tide campaign began on Thursday and will continue until Tuesday",
+        "• The group unfurled a banner that stated “Phase out coal and gas” and painted the words “Timeline now!” on the ship "
       ],
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.984
+        "score": 0.99
       },
       "moods": {
         "brief_bullets": [
-          "• Two more ships have been turned around in Australia's largest coal port",
-          "• The total number of ships turned around has now reached three"
+          "• Two more coal ships have been blocked from entering the Port of Newcastle on Sunday",
+          "• The total number of ships turned around by campaigners this weekend is three"
         ],
         "hopeful_bullets": [
-          "• Thousands of people have taken to the site to protest against the government's decision to turn around two more ships this week "
+          "• Two more coal ships have been blocked from entering the Port of Newcastle on Sunday",
+          "• The total number of ships turned around by campaigners this weekend is three"
         ],
         "stakes_bullets": [
-          "• Two more ships have been turned around in Australia's largest coal port",
-          "• The total number of ships turned around has now reached three",
-          "• Thousands of people have taken to the site to protest against the government's decision to turn around two more ships this week "
+          "• The Rising Tide campaign began on Thursday and will continue until Tuesday",
+          "• The group unfurled a banner that stated “Phase out coal and gas” and painted the words “Timeline now!” on the ship "
         ]
       },
       "read_minutes": 3,
@@ -4083,6 +4216,41 @@
       },
       "read_minutes": 2,
       "cluster_id": "72fad0fede0f"
+    },
+    {
+      "id": "3efbce3ba5f1",
+      "title": "4 dead and 10 wounded in shooting at banquet hall in Stockton, California",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/30/nx-s1-5625453/4-dead-shooting-banquet-hall-stockton-california",
+      "published_at": "Sun, 30 Nov 2025 01:28:34 -0500",
+      "bullets": [
+        "• 4 dead and 10 wounded in shooting at banquet hall in Stockton, California",
+        "• Victims included both children and adults, officials say",
+        "• Suspected shooter has not been caught and police are working to identify a possible motive",
+        "• Shooting occurred just before 6 p.m",
+        "• inside the banquet hall, which shares a parking lot "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 4 dead and 10 wounded in shooting at banquet hall in Stockton, California",
+          "• Victims included both children and adults, officials say"
+        ],
+        "hopeful_bullets": [
+          "• 4 dead and 10 wounded in shooting at banquet hall in Stockton, California",
+          "• Victims included both children and adults, officials say"
+        ],
+        "stakes_bullets": [
+          "• 4 dead and 10 wounded in shooting at banquet hall in Stockton, California",
+          "• inside the banquet hall, which shares a parking lot "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "42055fa8088d"
     },
     {
       "id": "0c9cdf4acf8b",
@@ -4429,9 +4597,9 @@
       "url": "https://www.wired.com/story/black-friday-deals-2025-2/",
       "published_at": "Sat, 29 Nov 2025 22:40:21 +0000",
       "bullets": [
-        "• This weekend is peak shopping season, and these Black Friday deals offer a chance to secure some gifts for the holiday season",
-        "• Everything on this list was hands-on tested by a member of our Reviews team and is recommended as worth the money at full price",
-        "• The resolution is 2560 by 1600, with decent color accuracy and brightness "
+        "• The Moto G Stylus 2025 is the best Moto G phone right now, which might be a given considering it's the priciest model in the family",
+        "• The resolution is 2560 by 1600, with decent color accuracy and brightness",
+        "• The touchpad, which is an area where many budget laptops compromise, actually feels smooth and responsive "
       ],
       "category": "Technology",
       "sentiment": {
@@ -4440,54 +4608,21 @@
       },
       "moods": {
         "brief_bullets": [
-          "• This weekend is peak shopping season, and these Black Friday deals offer a chance to secure some gifts for the holiday season",
-          "• Everything on this list was hands-on tested by a member of our Reviews team and is recommended as worth the money at full price"
+          "• The Moto G Stylus 2025 is the best Moto G phone right now, which might be a given considering it's the priciest model in the family",
+          "• The resolution is 2560 by 1600, with decent color accuracy and brightness"
         ],
         "hopeful_bullets": [
-          "• This weekend is peak shopping season, and these Black Friday deals offer a chance to secure some gifts for the holiday season",
-          "• Everything on this list was hands-on tested by a member of our Reviews team and is recommended as worth the money at full price"
+          "• The Moto G Stylus 2025 is the best Moto G phone right now, which might be a given considering it's the priciest model in the family",
+          "• The resolution is 2560 by 1600, with decent color accuracy and brightness"
         ],
         "stakes_bullets": [
-          "• This weekend is peak shopping season, and these Black Friday deals offer a chance to secure some gifts for the holiday season",
-          "• Everything on this list was hands-on tested by a member of our Reviews team and is recommended as worth the money at full price",
-          "• The resolution is 2560 by 1600, with decent color accuracy and brightness "
+          "• The Moto G Stylus 2025 is the best Moto G phone right now, which might be a given considering it's the priciest model in the family",
+          "• The resolution is 2560 by 1600, with decent color accuracy and brightness",
+          "• The touchpad, which is an area where many budget laptops compromise, actually feels smooth and responsive "
         ]
       },
       "read_minutes": 32,
       "cluster_id": "de6f2b19f9d4"
-    },
-    {
-      "id": "4c60ced9ec53",
-      "title": "Ukraine hits tankers in Black Sea in escalation against Russia",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp9ky5z2gx0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 29 Nov 2025 22:27:56 GMT",
-      "bullets": [
-        "• Ukraine hits tankers in Black Sea in escalation against Russia",
-        "• The Kairos and Virat are reportedly part of Russia's 'shadow fleet' Both hit off the Turkish coast on Friday, with the Virat reportedly struck again on Saturday",
-        "• The attacks appear to be an escalation by Kyiv as it tries to hit Russia's oil revenues "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ukraine hits tankers in Black Sea in escalation against Russia",
-          "• The Kairos and Virat are reportedly part of Russia's 'shadow fleet' Both hit off the Turkish coast on Friday, with the Virat reportedly struck again on Saturday"
-        ],
-        "hopeful_bullets": [
-          "• Ukraine hits tankers in Black Sea in escalation against Russia"
-        ],
-        "stakes_bullets": [
-          "• Ukraine hits tankers in Black Sea in escalation against Russia",
-          "• The Kairos and Virat are reportedly part of Russia's 'shadow fleet' Both hit off the Turkish coast on Friday, with the Virat reportedly struck again on Saturday",
-          "• The attacks appear to be an escalation by Kyiv as it tries to hit Russia's oil revenues "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e1b2bf0632bd"
     },
     {
       "id": "6ecb8ba0adf6",
@@ -5123,38 +5258,6 @@
       "cluster_id": "32791c89e6e3"
     },
     {
-      "id": "a5265cf8ee30",
-      "title": "Sri Lanka death toll from floods and landslides reaches 153",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/nov/28/death-toll-sri-lanka-hit-by-rising-flood-waters",
-      "published_at": "Sat, 29 Nov 2025 16:39:55 GMT",
-      "bullets": [
-        "• More than 200,000 people have been affected by flooding in Sri Lanka",
-        "• More than 100,000 have been evacuated in the country's capital, Colombo",
-        "• The floods have been blamed for the deaths of more than 100 people in the past week "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.928
-      },
-      "moods": {
-        "brief_bullets": [
-          "• More than 200,000 people have been affected by flooding in Sri Lanka",
-          "• More than 100,000 have been evacuated in the country's capital, Colombo"
-        ],
-        "hopeful_bullets": [
-          "• More than 200,000 people have been affected by flooding in Sri Lanka",
-          "• More than 100,000 have been evacuated in the country's capital, Colombo"
-        ],
-        "stakes_bullets": [
-          "• More than 200,000 people have been affected by flooding in Sri Lanka"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8579346e6e8e"
-    },
-    {
       "id": "2f76c9538adc",
       "title": "Northwestern settles with Trump administration in $75M deal to regain federal funding",
       "outlet": "NPR Topics: News",
@@ -5551,41 +5654,6 @@
       "cluster_id": "3a7ecd2bc2bf"
     },
     {
-      "id": "3be6c6f67b7b",
-      "title": "Three days of mourning begin after Hong Kong's deadliest fire in decades",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8dy9lne2plo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 29 Nov 2025 12:18:06 GMT",
-      "bullets": [
-        "• Three days of mourning begin after Hong Kong's deadliest fire in decades",
-        "• At least 128 people have died in the fire, which engulfed seven tower blocks on Wednesday",
-        "• A further 83 were injured and 150 remain unaccounted for",
-        "• Eight people have been arrested on suspicion of corruption over the renovation works "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.955
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Three days of mourning begin after Hong Kong's deadliest fire in decades",
-          "• At least 128 people have died in the fire, which engulfed seven tower blocks on Wednesday"
-        ],
-        "hopeful_bullets": [
-          "• Three days of mourning begin after Hong Kong's deadliest fire in decades",
-          "• At least 128 people have died in the fire, which engulfed seven tower blocks on Wednesday"
-        ],
-        "stakes_bullets": [
-          "• Three days of mourning begin after Hong Kong's deadliest fire in decades",
-          "• At least 128 people have died in the fire, which engulfed seven tower blocks on Wednesday",
-          "• A further 83 were injured and 150 remain unaccounted for"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e9698f7a5e69"
-    },
-    {
       "id": "888ceec2a967",
       "title": "Achieving lasting remission for HIV",
       "outlet": "Ars Technica - All content",
@@ -5618,38 +5686,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "33f648e87660"
-    },
-    {
-      "id": "d03332f267e6",
-      "title": "They tried to overturn the 2020 US election. Now, they hold power in Trump’s Washington",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/nov/29/2020-election-deniers-trump",
-      "published_at": "Sat, 29 Nov 2025 12:00:36 GMT",
-      "bullets": [
-        "• The people who tried to overturn the 2020 election have more power than ever – and they plan to use it",
-        "• They have prominent roles in key parts of the federal government",
-        "• They are working to install rules that limit voter access or sow seeds of distrust in who can vote and how "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The people who tried to overturn the 2020 election have more power than ever – and they plan to use it",
-          "• They have prominent roles in key parts of the federal government"
-        ],
-        "hopeful_bullets": [
-          "• The people who tried to overturn the 2020 election have more power than ever – and they plan to use it",
-          "• They have prominent roles in key parts of the federal government"
-        ],
-        "stakes_bullets": [
-          "• The people who tried to overturn the 2020 election have more power than ever – and they plan to use it"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "b7043213a01d"
     },
     {
       "id": "958a70b4734f",
@@ -6186,40 +6222,6 @@
       "cluster_id": "7b09f33eddf4"
     },
     {
-      "id": "3cadb35cc009",
-      "title": "Where things stand with the National Guard shooting in D.C.",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/29/nx-s1-5624477/where-things-stand-with-the-national-guard-shooting-in-d-c",
-      "published_at": "Sat, 29 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• Every group of National Guards patrolling the city will be accompanied by at least one D.C",
-        "• police officer",
-        "• The order does not apply to areas which the police department does not patrol, such as the national monuments, the U.S",
-        "• Capitol, or other law enforcement agencies",
-        "• West Virginia Gov"
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Every group of National Guards patrolling the city will be accompanied by at least one D.C",
-          "• police officer"
-        ],
-        "hopeful_bullets": [
-          "• Every group of National Guards patrolling the city will be accompanied by at least one D.C",
-          "• police officer"
-        ],
-        "stakes_bullets": [
-          "• Every group of National Guards patrolling the city will be accompanied by at least one D.C"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "73da062de03c"
-    },
-    {
       "id": "819f3130f5e0",
       "title": "They need a ventilator to stay alive. Getting one can be a nightmare",
       "outlet": "NPR Topics: News",
@@ -6253,6 +6255,40 @@
       },
       "read_minutes": 13,
       "cluster_id": "9dcbbed1ffe4"
+    },
+    {
+      "id": "3cadb35cc009",
+      "title": "Where things stand with the National Guard shooting in D.C.",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/11/29/nx-s1-5624477/where-things-stand-with-the-national-guard-shooting-in-d-c",
+      "published_at": "Sat, 29 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• Every group of National Guards patrolling the city will be accompanied by at least one D.C",
+        "• police officer",
+        "• The order does not apply to areas which the police department does not patrol, such as the national monuments, the U.S",
+        "• Capitol, or other law enforcement agencies",
+        "• West Virginia Gov"
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Every group of National Guards patrolling the city will be accompanied by at least one D.C",
+          "• police officer"
+        ],
+        "hopeful_bullets": [
+          "• Every group of National Guards patrolling the city will be accompanied by at least one D.C",
+          "• police officer"
+        ],
+        "stakes_bullets": [
+          "• Every group of National Guards patrolling the city will be accompanied by at least one D.C"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "73da062de03c"
     },
     {
       "id": "f2ed235452ab",
@@ -9468,6 +9504,27 @@
       ]
     },
     {
+      "id": "79e7325fb2fc",
+      "topic": "birthday child four killed",
+      "keywords": [
+        "birthday",
+        "child",
+        "four",
+        "killed",
+        "least",
+        "party",
+        "shooting"
+      ],
+      "item_ids": [
+        "407bf8d52b25",
+        "5fb7abf03732"
+      ],
+      "outlets": [
+        "BBC News",
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "e1b2bf0632bd",
       "topic": "black escalation hits sea",
       "keywords": [
@@ -9498,24 +9555,6 @@
       ],
       "item_ids": [
         "e682b36568ec"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "3dcdb93c75b8",
-      "topic": "blue istanbul leo mosque",
-      "keywords": [
-        "blue",
-        "istanbul",
-        "leo",
-        "mosque",
-        "pope",
-        "visit"
-      ],
-      "item_ids": [
-        "bfebc057a427"
       ],
       "outlets": [
         "BBC News"
@@ -9594,18 +9633,18 @@
       ]
     },
     {
-      "id": "e9698f7a5e69",
-      "topic": "begin days deadliest hong",
+      "id": "3dcdb93c75b8",
+      "topic": "blue istanbul leo mosque",
       "keywords": [
-        "begin",
-        "days",
-        "deadliest",
-        "hong",
-        "kong",
-        "mourning"
+        "blue",
+        "istanbul",
+        "leo",
+        "mosque",
+        "pope",
+        "visit"
       ],
       "item_ids": [
-        "3be6c6f67b7b"
+        "bfebc057a427"
       ],
       "outlets": [
         "BBC News"
@@ -9792,18 +9831,18 @@
       ]
     },
     {
-      "id": "3ec59e5b3a89",
-      "topic": "birthday child four killed",
+      "id": "4cd394179d6a",
+      "topic": "all million presidency president",
       "keywords": [
-        "birthday",
-        "child",
-        "four",
-        "killed",
-        "least",
-        "shooting"
+        "all",
+        "million",
+        "presidency",
+        "president",
+        "trump",
+        "turning"
       ],
       "item_ids": [
-        "5fb7abf03732"
+        "e1be2ecacdf1"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9918,21 +9957,21 @@
       ]
     },
     {
-      "id": "b7043213a01d",
-      "topic": "2020 election hold now",
+      "id": "42055fa8088d",
+      "topic": "banquet dead hall shooting",
       "keywords": [
-        "2020",
-        "election",
-        "hold",
-        "now",
-        "overturn",
-        "tried"
+        "banquet",
+        "dead",
+        "hall",
+        "shooting",
+        "stockton",
+        "wounded"
       ],
       "item_ids": [
-        "d03332f267e6"
+        "3efbce3ba5f1"
       ],
       "outlets": [
-        "US news | The Guardian"
+        "NPR Topics: News"
       ]
     },
     {
@@ -10071,23 +10110,6 @@
       ],
       "item_ids": [
         "000e4a698c4e"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "73da062de03c",
-      "topic": "guard national shooting stand",
-      "keywords": [
-        "guard",
-        "national",
-        "shooting",
-        "stand",
-        "thing"
-      ],
-      "item_ids": [
-        "3cadb35cc009"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -11189,6 +11211,23 @@
       ]
     },
     {
+      "id": "73da062de03c",
+      "topic": "guard national shooting stand",
+      "keywords": [
+        "guard",
+        "national",
+        "shooting",
+        "stand",
+        "thing"
+      ],
+      "item_ids": [
+        "3cadb35cc009"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "1c4498a02939",
       "topic": "former honduran pardon plan",
       "keywords": [
@@ -11575,6 +11614,24 @@
       ]
     },
     {
+      "id": "c966a118412b",
+      "topic": "derail net plan shortage",
+      "keywords": [
+        "derail",
+        "net",
+        "plan",
+        "shortage",
+        "water",
+        "zero"
+      ],
+      "item_ids": [
+        "d2731ab73e02"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "a69c2dcba00e",
       "topic": "activist climate protest rising",
       "keywords": [
@@ -11605,24 +11662,6 @@
       ],
       "item_ids": [
         "42eb3ec57c82"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "8579346e6e8e",
-      "topic": "death flood landslide lanka",
-      "keywords": [
-        "death",
-        "flood",
-        "landslide",
-        "lanka",
-        "sri",
-        "toll"
-      ],
-      "item_ids": [
-        "a5265cf8ee30"
       ],
       "outlets": [
         "Environment | The Guardian"
