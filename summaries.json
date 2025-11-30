@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-30T05:03:06Z",
+  "generated_at": "2025-11-30T06:01:56Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -3620,9 +3620,9 @@
       "url": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss",
       "published_at": "Sun, 30 Nov 2025 04:39:09 GMT",
       "bullets": [
-        "• Venezuela calls Trump airspace closure warning 'colonialist threat' US does not legally have the authority to close another country's airspace",
-        "• US has been building its military presence in the Caribbean, which officials say is to combat drug smuggling",
-        "• Venezuela's foreign ministry says the US has \"unilaterally suspended\" its weekly migrant repatriation flights "
+        "• Venezuela calls Trump airspace closure warning 'colonialist threat' US does not have the authority to close another country's airspace",
+        "• US has been building its military presence in the Caribbean to combat drug smuggling",
+        "• Venezuela's President has dismissed claims of drug trafficking as an attempt to oust him "
       ],
       "category": "World",
       "sentiment": {
@@ -3631,20 +3631,20 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Venezuela calls Trump airspace closure warning 'colonialist threat' US does not legally have the authority to close another country's airspace",
-          "• US has been building its military presence in the Caribbean, which officials say is to combat drug smuggling"
+          "• Venezuela calls Trump airspace closure warning 'colonialist threat' US does not have the authority to close another country's airspace",
+          "• US has been building its military presence in the Caribbean to combat drug smuggling"
         ],
         "hopeful_bullets": [
-          "• Venezuela calls Trump airspace closure warning 'colonialist threat' US does not legally have the authority to close another country's airspace",
-          "• US has been building its military presence in the Caribbean, which officials say is to combat drug smuggling"
+          "• Venezuela calls Trump airspace closure warning 'colonialist threat' US does not have the authority to close another country's airspace",
+          "• US has been building its military presence in the Caribbean to combat drug smuggling"
         ],
         "stakes_bullets": [
-          "• Venezuela calls Trump airspace closure warning 'colonialist threat' US does not legally have the authority to close another country's airspace",
-          "• US has been building its military presence in the Caribbean, which officials say is to combat drug smuggling",
-          "• Venezuela's foreign ministry says the US has \"unilaterally suspended\" its weekly migrant repatriation flights "
+          "• Venezuela calls Trump airspace closure warning 'colonialist threat' US does not have the authority to close another country's airspace",
+          "• US has been building its military presence in the Caribbean to combat drug smuggling",
+          "• Venezuela's President has dismissed claims of drug trafficking as an attempt to oust him "
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 3,
       "cluster_id": "10277eca259d"
     },
     {
@@ -4397,12 +4397,12 @@
       "bullets": [
         "• Everything on this list was hands-on tested by a member of our Reviews team and is recommended as worth the money at full price",
         "• But you won't pay full price, as all these items are also actually discounted",
-        "• The Surface Laptop is a $500 Windows laptop that isn't just decent or mediocre, but actually good "
+        "• We've swapped deals on Amazon devices and charging banks; added an apparel section, camera bags, carry-on bags "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 0.994
+        "label": "negative",
+        "score": 0.934
       },
       "moods": {
         "brief_bullets": [
@@ -4410,12 +4410,11 @@
           "• But you won't pay full price, as all these items are also actually discounted"
         ],
         "hopeful_bullets": [
-          "• The Surface Laptop is a $500 Windows laptop that isn't just decent or mediocre, but actually good "
+          "• Everything on this list was hands-on tested by a member of our Reviews team and is recommended as worth the money at full price",
+          "• But you won't pay full price, as all these items are also actually discounted"
         ],
         "stakes_bullets": [
-          "• Everything on this list was hands-on tested by a member of our Reviews team and is recommended as worth the money at full price",
-          "• But you won't pay full price, as all these items are also actually discounted",
-          "• The Surface Laptop is a $500 Windows laptop that isn't just decent or mediocre, but actually good "
+          "• We've swapped deals on Amazon devices and charging banks; added an apparel section, camera bags, carry-on bags "
         ]
       },
       "read_minutes": 32,
@@ -6179,40 +6178,6 @@
       "cluster_id": "7b09f33eddf4"
     },
     {
-      "id": "3cadb35cc009",
-      "title": "Where things stand with the National Guard shooting in D.C.",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/29/nx-s1-5624477/where-things-stand-with-the-national-guard-shooting-in-d-c",
-      "published_at": "Sat, 29 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• Every group of National Guards patrolling the city will be accompanied by at least one D.C",
-        "• police officer",
-        "• The order does not apply to areas which the police department does not patrol, such as the national monuments, the U.S",
-        "• Capitol, or other law enforcement agencies",
-        "• West Virginia Gov"
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Every group of National Guards patrolling the city will be accompanied by at least one D.C",
-          "• police officer"
-        ],
-        "hopeful_bullets": [
-          "• Every group of National Guards patrolling the city will be accompanied by at least one D.C",
-          "• police officer"
-        ],
-        "stakes_bullets": [
-          "• Every group of National Guards patrolling the city will be accompanied by at least one D.C"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "73da062de03c"
-    },
-    {
       "id": "819f3130f5e0",
       "title": "They need a ventilator to stay alive. Getting one can be a nightmare",
       "outlet": "NPR Topics: News",
@@ -6246,6 +6211,40 @@
       },
       "read_minutes": 13,
       "cluster_id": "9dcbbed1ffe4"
+    },
+    {
+      "id": "3cadb35cc009",
+      "title": "Where things stand with the National Guard shooting in D.C.",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/29/nx-s1-5624477/where-things-stand-with-the-national-guard-shooting-in-d-c",
+      "published_at": "Sat, 29 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• Every group of National Guards patrolling the city will be accompanied by at least one D.C",
+        "• police officer",
+        "• The order does not apply to areas which the police department does not patrol, such as the national monuments, the U.S",
+        "• Capitol, or other law enforcement agencies",
+        "• West Virginia Gov"
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Every group of National Guards patrolling the city will be accompanied by at least one D.C",
+          "• police officer"
+        ],
+        "hopeful_bullets": [
+          "• Every group of National Guards patrolling the city will be accompanied by at least one D.C",
+          "• police officer"
+        ],
+        "stakes_bullets": [
+          "• Every group of National Guards patrolling the city will be accompanied by at least one D.C"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "73da062de03c"
     },
     {
       "id": "f2ed235452ab",
@@ -10070,23 +10069,6 @@
       ]
     },
     {
-      "id": "73da062de03c",
-      "topic": "guard national shooting stand",
-      "keywords": [
-        "guard",
-        "national",
-        "shooting",
-        "stand",
-        "thing"
-      ],
-      "item_ids": [
-        "3cadb35cc009"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "9dcbbed1ffe4",
       "topic": "alive getting need nightmare",
       "keywords": [
@@ -10099,6 +10081,23 @@
       ],
       "item_ids": [
         "819f3130f5e0"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "73da062de03c",
+      "topic": "guard national shooting stand",
+      "keywords": [
+        "guard",
+        "national",
+        "shooting",
+        "stand",
+        "thing"
+      ],
+      "item_ids": [
+        "3cadb35cc009"
       ],
       "outlets": [
         "NPR Topics: News"
