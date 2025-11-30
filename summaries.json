@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-30T11:53:59Z",
+  "generated_at": "2025-11-30T12:05:02Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -3480,6 +3480,40 @@
       "cluster_id": "61932cf045ef"
     },
     {
+      "id": "0c6387c82bcd",
+      "title": "Hong Kong fire death toll rises to 146 as thousands pay respects",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp34yk7z6yxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 30 Nov 2025 11:38:36 GMT",
+      "bullets": [
+        "• Police say they \"cannot rule out the possibility of further fatalities\" A further 79 people are injured and 150 remain missing",
+        "• Seven of eight tower blocks in a housing complex rapidly went up in flames on Wednesday",
+        "• Eight people have been arrested on suspicion of corruption over the fire "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Police say they \"cannot rule out the possibility of further fatalities\" A further 79 people are injured and 150 remain missing",
+          "• Seven of eight tower blocks in a housing complex rapidly went up in flames on Wednesday"
+        ],
+        "hopeful_bullets": [
+          "• Police say they \"cannot rule out the possibility of further fatalities\" A further 79 people are injured and 150 remain missing",
+          "• Seven of eight tower blocks in a housing complex rapidly went up in flames on Wednesday"
+        ],
+        "stakes_bullets": [
+          "• Police say they \"cannot rule out the possibility of further fatalities\" A further 79 people are injured and 150 remain missing",
+          "• Seven of eight tower blocks in a housing complex rapidly went up in flames on Wednesday",
+          "• Eight people have been arrested on suspicion of corruption over the fire "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "55859a639d71"
+    },
+    {
       "id": "5250463ff800",
       "title": "Gutting of key US watchdog could pave way for grave immigration abuses, experts warn",
       "outlet": "US news | The Guardian",
@@ -3882,6 +3916,42 @@
       "cluster_id": "79e7325fb2fc"
     },
     {
+      "id": "704c8085e117",
+      "title": "Netanyahu submits request for a pardon during his ongoing corruption trial",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/11/30/nx-s1-5625482/netanyahu-request-pardon-corruption-trial",
+      "published_at": "Sun, 30 Nov 2025 06:27:50 -0500",
+      "bullets": [
+        "• Netanyahu submits request for a pardon during his ongoing corruption trial",
+        "• Netanyahu is the only sitting prime minister in Israeli history to stand trial",
+        "• He is charged with fraud, breach of trust and accepting bribes in three separate cases",
+        "• The request comes weeks after U.S",
+        "• President Donald Trump urged Israel to pardon Netanyahu "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Netanyahu submits request for a pardon during his ongoing corruption trial",
+          "• Netanyahu is the only sitting prime minister in Israeli history to stand trial"
+        ],
+        "hopeful_bullets": [
+          "• Netanyahu submits request for a pardon during his ongoing corruption trial",
+          "• Netanyahu is the only sitting prime minister in Israeli history to stand trial"
+        ],
+        "stakes_bullets": [
+          "• Netanyahu submits request for a pardon during his ongoing corruption trial",
+          "• Netanyahu is the only sitting prime minister in Israeli history to stand trial",
+          "• He is charged with fraud, breach of trust and accepting bribes in three separate cases"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "8067ea6b292c"
+    },
+    {
       "id": "4c60ced9ec53",
       "title": "Ukraine hits tankers in Black Sea in escalation against Russia",
       "outlet": "BBC News",
@@ -3989,25 +4059,27 @@
       "published_at": "Sun, 30 Nov 2025 06:00:03 GMT",
       "bullets": [
         "• Trump's eldest sons, Don Jr and Eric, are conducting a global dealmaking blitz",
-        "• They have broken ground on new golf courses, received permission for new skyscrapers, rented out the Trump brand, and in cryptocurrency they have embraced a venture with the capacity to bring in more than everything that has gone before "
+        "• They have broken ground on new golf courses, received permission for new skyscrapers and rented out the Trump brand",
+        "• They insist there is a ‘huge wall’ between this moneymaking and their father’s position as the most powerful man alive "
       ],
       "category": "US",
       "sentiment": {
-        "label": "positive",
-        "score": 0.999
+        "label": "negative",
+        "score": 0.915
       },
       "moods": {
         "brief_bullets": [
           "• Trump's eldest sons, Don Jr and Eric, are conducting a global dealmaking blitz",
-          "• They have broken ground on new golf courses, received permission for new skyscrapers, rented out the Trump brand, and in cryptocurrency they have embraced a venture with the capacity to bring in more than everything that has gone before "
+          "• They have broken ground on new golf courses, received permission for new skyscrapers and rented out the Trump brand"
         ],
         "hopeful_bullets": [
           "• Trump's eldest sons, Don Jr and Eric, are conducting a global dealmaking blitz",
-          "• They have broken ground on new golf courses, received permission for new skyscrapers, rented out the Trump brand, and in cryptocurrency they have embraced a venture with the capacity to bring in more than everything that has gone before "
+          "• They have broken ground on new golf courses, received permission for new skyscrapers and rented out the Trump brand"
         ],
         "stakes_bullets": [
           "• Trump's eldest sons, Don Jr and Eric, are conducting a global dealmaking blitz",
-          "• They have broken ground on new golf courses, received permission for new skyscrapers, rented out the Trump brand, and in cryptocurrency they have embraced a venture with the capacity to bring in more than everything that has gone before "
+          "• They have broken ground on new golf courses, received permission for new skyscrapers and rented out the Trump brand",
+          "• They insist there is a ‘huge wall’ between this moneymaking and their father’s position as the most powerful man alive "
         ]
       },
       "read_minutes": 11,
@@ -5165,26 +5237,29 @@
       "url": "https://www.wired.com/story/black-friday-deals-2025-2/",
       "published_at": "Sat, 29 Nov 2025 22:40:21 +0000",
       "bullets": [
-        "• This weekend is peak shopping season and these Black Friday deals offer a chance to secure some gifts for the holiday season or snag those gadgets you've been eyeing for yourself",
-        "• Everything on this list was hands-on tested by a member of our Reviews team and is recommended as worth the money at full price "
+        "• Dyson's first compact air purifier uses electrostatic filtration to extend filter life up to five years",
+        "• The resolution is 2560 by 1600, with decent color accuracy and brightness",
+        "• The touchpad feels smooth and responsive",
+        "• The only catch is that it’s a Doorbuster-style laptop "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.999
+        "score": 0.979
       },
       "moods": {
         "brief_bullets": [
-          "• This weekend is peak shopping season and these Black Friday deals offer a chance to secure some gifts for the holiday season or snag those gadgets you've been eyeing for yourself",
-          "• Everything on this list was hands-on tested by a member of our Reviews team and is recommended as worth the money at full price "
+          "• Dyson's first compact air purifier uses electrostatic filtration to extend filter life up to five years",
+          "• The resolution is 2560 by 1600, with decent color accuracy and brightness"
         ],
         "hopeful_bullets": [
-          "• This weekend is peak shopping season and these Black Friday deals offer a chance to secure some gifts for the holiday season or snag those gadgets you've been eyeing for yourself",
-          "• Everything on this list was hands-on tested by a member of our Reviews team and is recommended as worth the money at full price "
+          "• Dyson's first compact air purifier uses electrostatic filtration to extend filter life up to five years",
+          "• The resolution is 2560 by 1600, with decent color accuracy and brightness"
         ],
         "stakes_bullets": [
-          "• This weekend is peak shopping season and these Black Friday deals offer a chance to secure some gifts for the holiday season or snag those gadgets you've been eyeing for yourself",
-          "• Everything on this list was hands-on tested by a member of our Reviews team and is recommended as worth the money at full price "
+          "• Dyson's first compact air purifier uses electrostatic filtration to extend filter life up to five years",
+          "• The resolution is 2560 by 1600, with decent color accuracy and brightness",
+          "• The touchpad feels smooth and responsive"
         ]
       },
       "read_minutes": 32,
@@ -6019,37 +6094,6 @@
       "cluster_id": "c94b9384d8ed"
     },
     {
-      "id": "e682b36568ec",
-      "title": "Fall of Zelensky's top aide - reboot for Kyiv or costly shake-up?",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz0nljm4y74o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 29 Nov 2025 11:29:35 GMT",
-      "bullets": [
-        "• Andriy Yermak's political career came to an abrupt end on Friday, hours after anti-corruption investigators raided his home in Kyiv",
-        "• As Zelensky's chief of staff he wielded enormous power at the top of government",
-        "• He reportedly helped shape foreign policy, ousted political rivals and made battlefield decisions "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Andriy Yermak's political career came to an abrupt end on Friday, hours after anti-corruption investigators raided his home in Kyiv",
-          "• As Zelensky's chief of staff he wielded enormous power at the top of government"
-        ],
-        "hopeful_bullets": [
-          "• He reportedly helped shape foreign policy, ousted political rivals and made battlefield decisions "
-        ],
-        "stakes_bullets": [
-          "• He reportedly helped shape foreign policy, ousted political rivals and made battlefield decisions "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "604b751e6999"
-    },
-    {
       "id": "8e064c12c2c6",
       "title": "‘Deeply demoralizing’: how Trump derailed coal country’s clean-energy revival",
       "outlet": "Environment | The Guardian",
@@ -6248,40 +6292,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "dd9fa71bd2fc"
-    },
-    {
-      "id": "88df9748007c",
-      "title": "Opinion: My kind of holiday song",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/11/29/nx-s1-5615237/opinion-holiday-song",
-      "published_at": "Sat, 29 Nov 2025 08:00:00 -0500",
-      "bullets": [
-        "• \"Fairytale of New York\" has become a kind of holiday standard",
-        "• It gives voice, raspy then sweet, to those who may feel anxious, lost, lonely",
-        "• The Pogues' version of the song is set in a time of black-and-white movies and Sinatra songs "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• \"Fairytale of New York\" has become a kind of holiday standard",
-          "• It gives voice, raspy then sweet, to those who may feel anxious, lost, lonely"
-        ],
-        "hopeful_bullets": [
-          "• \"Fairytale of New York\" has become a kind of holiday standard",
-          "• It gives voice, raspy then sweet, to those who may feel anxious, lost, lonely"
-        ],
-        "stakes_bullets": [
-          "• \"Fairytale of New York\" has become a kind of holiday standard",
-          "• It gives voice, raspy then sweet, to those who may feel anxious, lost, lonely",
-          "• The Pogues' version of the song is set in a time of black-and-white movies and Sinatra songs "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6b8f040ee994"
     },
     {
       "id": "92c96330b87a",
@@ -8741,7 +8751,7 @@
           "• At $140, it’s hard to do better than the Scape "
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 1,
       "cluster_id": "d86ea814536c"
     },
     {
@@ -9464,6 +9474,24 @@
       ]
     },
     {
+      "id": "55859a639d71",
+      "topic": "death fire hong kong",
+      "keywords": [
+        "death",
+        "fire",
+        "hong",
+        "kong",
+        "rise",
+        "toll"
+      ],
+      "item_ids": [
+        "0c6387c82bcd"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "79e7325fb2fc",
       "topic": "birthday child four killed",
       "keywords": [
@@ -9497,24 +9525,6 @@
       ],
       "item_ids": [
         "4c60ced9ec53"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "604b751e6999",
-      "topic": "aide fall kyiv reboot",
-      "keywords": [
-        "aide",
-        "fall",
-        "kyiv",
-        "reboot",
-        "top",
-        "zelensky"
-      ],
-      "item_ids": [
-        "e682b36568ec"
       ],
       "outlets": [
         "BBC News"
@@ -9917,6 +9927,24 @@
       ]
     },
     {
+      "id": "8067ea6b292c",
+      "topic": "during netanyahu ongoing pardon",
+      "keywords": [
+        "during",
+        "netanyahu",
+        "ongoing",
+        "pardon",
+        "request",
+        "submit"
+      ],
+      "item_ids": [
+        "704c8085e117"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "ccb9bb82d587",
       "topic": "florida meeting negotiator rubio",
       "keywords": [
@@ -10072,22 +10100,6 @@
       ],
       "item_ids": [
         "f45e029f13c8"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "6b8f040ee994",
-      "topic": "holiday kind opinion song",
-      "keywords": [
-        "holiday",
-        "kind",
-        "opinion",
-        "song"
-      ],
-      "item_ids": [
-        "88df9748007c"
       ],
       "outlets": [
         "NPR Topics: News"
