@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-30T17:56:22Z",
+  "generated_at": "2025-11-30T18:13:58Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -633,25 +633,25 @@
       "url": "https://www.nytimes.com/video/nyregion/100000010524474/new-york-citys-next-super-storm.html",
       "published_at": "Wed, 26 Nov 2025 10:00:52 +0000",
       "bullets": [
-        "• Hilary Howard, Gabriel Blanco, Stephanie Swart and K.K",
-        "• Rebecca Lai explore how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges",
-        "• Lai: What’s a worst-case scenario for hurricane flooding in New York?"
+        "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges in New York City",
+        "• The worst-case scenario for hurricane flooding in the city could be in 2025 "
       ],
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.975
       },
       "moods": {
         "brief_bullets": [
-          "• Hilary Howard, Gabriel Blanco, Stephanie Swart and K.K",
-          "• Rebecca Lai explore how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges"
+          "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges in New York City",
+          "• The worst-case scenario for hurricane flooding in the city could be in 2025 "
         ],
         "hopeful_bullets": [
-          "• Rebecca Lai explore how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges"
+          "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges in New York City"
         ],
         "stakes_bullets": [
-          "• Rebecca Lai explore how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges"
+          "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges in New York City",
+          "• The worst-case scenario for hurricane flooding in the city could be in 2025 "
         ]
       },
       "read_minutes": 1,
@@ -3347,6 +3347,104 @@
       "cluster_id": "61932cf045ef"
     },
     {
+      "id": "e9479d3c7298",
+      "title": "Wake Up Dead Man Debuts With the Lowest Opening in the Knives Out Franchise",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/wake-up-dead-man-lowest-box-office-knives-out-franchise/",
+      "published_at": "Sun, 30 Nov 2025 18:06:19 GMT",
+      "bullets": [
+        "• Wake Up Dead Man: A Knives Out Mystery is the third in the filmmaker's series starring Daniel Craig",
+        "• The film is only playing in 600 theaters as of now, the lowest of any currently screening feature (besides Hamnet) by a margin of up to 3,400 when compared to the top grossing film of the weekend — Zootopia 2 "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Wake Up Dead Man: A Knives Out Mystery is the third in the filmmaker's series starring Daniel Craig",
+          "• The film is only playing in 600 theaters as of now, the lowest of any currently screening feature (besides Hamnet) by a margin of up to 3,400 when compared to the top grossing film of the weekend — Zootopia 2 "
+        ],
+        "hopeful_bullets": [
+          "• Wake Up Dead Man: A Knives Out Mystery is the third in the filmmaker's series starring Daniel Craig",
+          "• The film is only playing in 600 theaters as of now, the lowest of any currently screening feature (besides Hamnet) by a margin of up to 3,400 when compared to the top grossing film of the weekend — Zootopia 2 "
+        ],
+        "stakes_bullets": [
+          "• Wake Up Dead Man: A Knives Out Mystery is the third in the filmmaker's series starring Daniel Craig",
+          "• The film is only playing in 600 theaters as of now, the lowest of any currently screening feature (besides Hamnet) by a margin of up to 3,400 when compared to the top grossing film of the weekend — Zootopia 2 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8e69c7190f3b"
+    },
+    {
+      "id": "a4ba7060a24b",
+      "title": "Macaulay Caulkin's Adventure Comedy Before Brief Retirement Finds Streaming Home on Tubi",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/macaulay-culkins-richie-rich-tubi-december-2025/",
+      "published_at": "Sun, 30 Nov 2025 18:00:11 GMT",
+      "bullets": [
+        "• Macaulay Culkin’s Richie Rich is set to drop on Tubi on Dec",
+        "• 1",
+        "• The film marked Culkin's final movie as a child star before taking a long break from acting",
+        "• Richie Rich made just $76 million at the box office against a budget of $40 million "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.66
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Macaulay Culkin’s Richie Rich is set to drop on Tubi on Dec",
+          "• 1"
+        ],
+        "hopeful_bullets": [
+          "• Richie Rich made just $76 million at the box office against a budget of $40 million "
+        ],
+        "stakes_bullets": [
+          "• Macaulay Culkin’s Richie Rich is set to drop on Tubi on Dec",
+          "• 1",
+          "• The film marked Culkin's final movie as a child star before taking a long break from acting"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0986503012ac"
+    },
+    {
+      "id": "909e26430f2a",
+      "title": "32 Years Later, This Banned Simpsons Episode Remains the Darkest 22 Minutes of TV Comedy",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-simpsons-banned-episode-darkest-episode/",
+      "published_at": "Sun, 30 Nov 2025 18:00:11 GMT",
+      "bullets": [
+        "• Season 5, Episode 2, \"Cape Feare\" is one of the darkest episodes from The Simpsons",
+        "• It was also banned in one country for a full six years",
+        "• The episode saw the third appearance of Sideshow Bob, voiced by Kelsey Grammer, who had initially been voiced by Grammer "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Season 5, Episode 2, \"Cape Feare\" is one of the darkest episodes from The Simpsons",
+          "• It was also banned in one country for a full six years"
+        ],
+        "hopeful_bullets": [
+          "• Season 5, Episode 2, \"Cape Feare\" is one of the darkest episodes from The Simpsons",
+          "• It was also banned in one country for a full six years"
+        ],
+        "stakes_bullets": [
+          "• It was also banned in one country for a full six years"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "0a8650de4b5f"
+    },
+    {
       "id": "67e8203c7a9a",
       "title": "Transformers Gets New Take on Starscream With January 2026 'Spark of Deception' Release",
       "outlet": "CBR",
@@ -3376,6 +3474,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "a367d65ae32d"
+    },
+    {
+      "id": "74027aed27bd",
+      "title": "Best Costco Black Friday Deals 2025",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/costco-black-friday-2025/",
+      "published_at": "Sun, 30 Nov 2025 17:26:37 +0000",
+      "bullets": [
+        "• Costco discounts include a Kitchen-Aid Stand Mixer, a 6-quart bowl, four attachments, and a pouring shield",
+        "• Most of the sales, unless otherwise noted, run through December 1, so you have a few days to get them before they disappear "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.966
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Costco discounts include a Kitchen-Aid Stand Mixer, a 6-quart bowl, four attachments, and a pouring shield",
+          "• Most of the sales, unless otherwise noted, run through December 1, so you have a few days to get them before they disappear "
+        ],
+        "hopeful_bullets": [
+          "• Costco discounts include a Kitchen-Aid Stand Mixer, a 6-quart bowl, four attachments, and a pouring shield",
+          "• Most of the sales, unless otherwise noted, run through December 1, so you have a few days to get them before they disappear "
+        ],
+        "stakes_bullets": [
+          "• Costco discounts include a Kitchen-Aid Stand Mixer, a 6-quart bowl, four attachments, and a pouring shield",
+          "• Most of the sales, unless otherwise noted, run through December 1, so you have a few days to get them before they disappear "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "2f9f369e6cb0"
     },
     {
       "id": "d0c4235f8432",
@@ -3411,6 +3541,39 @@
       },
       "read_minutes": 5,
       "cluster_id": "9a2a1ffbfd7c"
+    },
+    {
+      "id": "f7392626436a",
+      "title": "'Zootopia 2' fuels top 5 Thanksgiving box office haul",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/11/30/zootopia-2-fuels-top-5-thanksgiving-box-office-haul.html",
+      "published_at": "Sun, 30 Nov 2025 17:22:21 GMT",
+      "bullets": [
+        "• \"Zootopia 2\" had the highest global opening of an animated movie of all time",
+        "• IMAX reported its best five-day Thanksgiving holiday weekend ever with $40.8 million in global ticket sales",
+        "• It is 70% higher than the previous record set in 2024 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• \"Zootopia 2\" had the highest global opening of an animated movie of all time",
+          "• IMAX reported its best five-day Thanksgiving holiday weekend ever with $40.8 million in global ticket sales"
+        ],
+        "hopeful_bullets": [
+          "• It is 70% higher than the previous record set in 2024 "
+        ],
+        "stakes_bullets": [
+          "• \"Zootopia 2\" had the highest global opening of an animated movie of all time",
+          "• IMAX reported its best five-day Thanksgiving holiday weekend ever with $40.8 million in global ticket sales",
+          "• It is 70% higher than the previous record set in 2024 "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "98333ec5d5d3"
     },
     {
       "id": "b1dee67bbf3f",
@@ -3480,34 +3643,35 @@
     },
     {
       "id": "8411d0501161",
-      "title": "Indonesia and Thailand floods death toll passes 900 with hundreds still missing",
+      "title": "Death toll passes 900 in Indonesia, Thailand and Sri Lanka floods",
       "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/world/2025/nov/30/indonesia-thailand-floods",
       "published_at": "Sun, 30 Nov 2025 17:14:48 GMT",
       "bullets": [
         "• Heavy monsoon rains have overwhelmed parts of south-east Asia in recent days, leaving thousands of people stranded without shelter or critical supplies",
-        "• The death toll in Sri Lanka from floods and landslides caused by Cyclone Ditwah rose sharply on Sunday to 334, with many more still missing "
+        "• Indonesian, Thai and Sri Lankan authorities are racing to clear debris and find hundreds of missing people after more than 900 died in devastating floods and landslides "
       ],
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.99
+        "score": 0.975
       },
       "moods": {
         "brief_bullets": [
           "• Heavy monsoon rains have overwhelmed parts of south-east Asia in recent days, leaving thousands of people stranded without shelter or critical supplies",
-          "• The death toll in Sri Lanka from floods and landslides caused by Cyclone Ditwah rose sharply on Sunday to 334, with many more still missing "
+          "• Indonesian, Thai and Sri Lankan authorities are racing to clear debris and find hundreds of missing people after more than 900 died in devastating floods and landslides "
         ],
         "hopeful_bullets": [
           "• Heavy monsoon rains have overwhelmed parts of south-east Asia in recent days, leaving thousands of people stranded without shelter or critical supplies",
-          "• The death toll in Sri Lanka from floods and landslides caused by Cyclone Ditwah rose sharply on Sunday to 334, with many more still missing "
+          "• Indonesian, Thai and Sri Lankan authorities are racing to clear debris and find hundreds of missing people after more than 900 died in devastating floods and landslides "
         ],
         "stakes_bullets": [
-          "• The death toll in Sri Lanka from floods and landslides caused by Cyclone Ditwah rose sharply on Sunday to 334, with many more still missing "
+          "• Heavy monsoon rains have overwhelmed parts of south-east Asia in recent days, leaving thousands of people stranded without shelter or critical supplies",
+          "• Indonesian, Thai and Sri Lankan authorities are racing to clear debris and find hundreds of missing people after more than 900 died in devastating floods and landslides "
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "88c878058ce3"
+      "cluster_id": "53bb274ca04e"
     },
     {
       "id": "73d5f43e9933",
@@ -3807,108 +3971,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "d4e79fb29f94"
-    },
-    {
-      "id": "458bbcac02af",
-      "title": "Judi Dench Reveals Health Update About Her Eyesight",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/dame-judi-dench-worsening-eyesight-update/",
-      "published_at": "Sun, 30 Nov 2025 16:23:37 GMT",
-      "bullets": [
-        "• Dame Judi Dench has admitted she is losing her eyesight",
-        "• The actress did a joint interview with Sir Ian McKellen",
-        "• She said she can't see on camera because of her condition, macular degeneration",
-        "• Dench previously said she has stepped away from acting because of the condition "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.936
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dame Judi Dench has admitted she is losing her eyesight",
-          "• The actress did a joint interview with Sir Ian McKellen"
-        ],
-        "hopeful_bullets": [
-          "• Dame Judi Dench has admitted she is losing her eyesight",
-          "• The actress did a joint interview with Sir Ian McKellen"
-        ],
-        "stakes_bullets": [
-          "• She said she can't see on camera because of her condition, macular degeneration",
-          "• Dench previously said she has stepped away from acting because of the condition "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ea40a0a47e70"
-    },
-    {
-      "id": "113d21551f80",
-      "title": "30 Years Later, This Cinematic '90s Phenomenon Is Still an Irreplaceable Masterpiece",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/neon-genesis-evangelion-best-anime-film-franchise/",
-      "published_at": "Sun, 30 Nov 2025 16:15:11 GMT",
-      "bullets": [
-        "• The End of Evangelion has some of the franchise's most iconic aspects and imagery, making it integral to the experience as a whole",
-        "• The film bridges the gaps left wide open by how the anime's final episodes came to a close",
-        "• The Rebuild of the Evangelion movies shows just how big the brand still is in the modern era "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The End of Evangelion has some of the franchise's most iconic aspects and imagery, making it integral to the experience as a whole",
-          "• The film bridges the gaps left wide open by how the anime's final episodes came to a close"
-        ],
-        "hopeful_bullets": [
-          "• The End of Evangelion has some of the franchise's most iconic aspects and imagery, making it integral to the experience as a whole",
-          "• The film bridges the gaps left wide open by how the anime's final episodes came to a close"
-        ],
-        "stakes_bullets": [
-          "• The End of Evangelion has some of the franchise's most iconic aspects and imagery, making it integral to the experience as a whole",
-          "• The film bridges the gaps left wide open by how the anime's final episodes came to a close",
-          "• The Rebuild of the Evangelion movies shows just how big the brand still is in the modern era "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "680691b20d74"
-    },
-    {
-      "id": "b982ac6db866",
-      "title": "James Gunn's Lost Gilligan's Island Reboot Was Too Unhinged for Hollywood",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/james-gunn-gilligans-island-horror-reboot-could-still-happen/",
-      "published_at": "Sun, 30 Nov 2025 16:15:11 GMT",
-      "bullets": [
-        "• James Gunn revealed that he once pitched a dark take on Gilligan's Island that was way too dark for Hollywood to even consider",
-        "• The DC Studios head revealed that the project never saw the light of day",
-        "• Gunn's version of the series would have seen the castaways lose hope of rescue and turn to violent means "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• James Gunn revealed that he once pitched a dark take on Gilligan's Island that was way too dark for Hollywood to even consider",
-          "• The DC Studios head revealed that the project never saw the light of day"
-        ],
-        "hopeful_bullets": [
-          "• Gunn's version of the series would have seen the castaways lose hope of rescue and turn to violent means "
-        ],
-        "stakes_bullets": [
-          "• James Gunn revealed that he once pitched a dark take on Gilligan's Island that was way too dark for Hollywood to even consider",
-          "• The DC Studios head revealed that the project never saw the light of day",
-          "• Gunn's version of the series would have seen the castaways lose hope of rescue and turn to violent means "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "67c67e490ce2"
+      "cluster_id": "2f9f369e6cb0"
     },
     {
       "id": "9bfcf4c8579b",
@@ -3918,27 +3981,26 @@
       "published_at": "Sun, 30 Nov 2025 16:06:28 GMT",
       "bullets": [
         "• Indonesia searches for at least 400 people who have been reported missing in deadly floods",
-        "• Many believed to be buried under landslides after cyclonic rains caused disastrous flooding",
-        "• The death toll on Sumatra island has risen to more than 440, government says",
-        "• Aid has been sent into affected areas by air and by sea, but some villages have yet to receive anything "
+        "• Cyclone Senyar caused catastrophic landslides and flooding in Indonesia, with homes swept away and thousands of buildings submerged",
+        "• Aid has been sent into affected areas by air and by sea, but some villages have yet to receive anything, and there are reports of people stealing food and water to survive "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.987
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
           "• Indonesia searches for at least 400 people who have been reported missing in deadly floods",
-          "• Many believed to be buried under landslides after cyclonic rains caused disastrous flooding"
+          "• Cyclone Senyar caused catastrophic landslides and flooding in Indonesia, with homes swept away and thousands of buildings submerged"
         ],
         "hopeful_bullets": [
           "• Indonesia searches for at least 400 people who have been reported missing in deadly floods",
-          "• Many believed to be buried under landslides after cyclonic rains caused disastrous flooding"
+          "• Cyclone Senyar caused catastrophic landslides and flooding in Indonesia, with homes swept away and thousands of buildings submerged"
         ],
         "stakes_bullets": [
-          "• Many believed to be buried under landslides after cyclonic rains caused disastrous flooding",
-          "• Aid has been sent into affected areas by air and by sea, but some villages have yet to receive anything "
+          "• Cyclone Senyar caused catastrophic landslides and flooding in Indonesia, with homes swept away and thousands of buildings submerged",
+          "• Aid has been sent into affected areas by air and by sea, but some villages have yet to receive anything, and there are reports of people stealing food and water to survive "
         ]
       },
       "read_minutes": 3,
@@ -4043,7 +4105,7 @@
         ]
       },
       "read_minutes": 5,
-      "cluster_id": "d4e79fb29f94"
+      "cluster_id": "2f9f369e6cb0"
     },
     {
       "id": "fa4a3f617e28",
@@ -4441,40 +4503,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "efd173a62a84"
-    },
-    {
-      "id": "fef2ca189f73",
-      "title": "The Petkit PuraMax 2 Is $100 Off Right Now (2025)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/petkit-puramax-2-black-friday-2025/",
-      "published_at": "Sun, 30 Nov 2025 13:34:00 +0000",
-      "bullets": [
-        "• Petkit PuraMax 2 is easy to use, compact, and actually smells great",
-        "• It's especially good for neat freaks like me: with triple odor control, a sealed waste bin, an odor eliminator attachment that sits in the waste bin",
-        "• When the cat enters the box, their weight is displayed on the front "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Petkit PuraMax 2 is easy to use, compact, and actually smells great",
-          "• It's especially good for neat freaks like me: with triple odor control, a sealed waste bin, an odor eliminator attachment that sits in the waste bin"
-        ],
-        "hopeful_bullets": [
-          "• Petkit PuraMax 2 is easy to use, compact, and actually smells great",
-          "• It's especially good for neat freaks like me: with triple odor control, a sealed waste bin, an odor eliminator attachment that sits in the waste bin"
-        ],
-        "stakes_bullets": [
-          "• Petkit PuraMax 2 is easy to use, compact, and actually smells great",
-          "• It's especially good for neat freaks like me: with triple odor control, a sealed waste bin, an odor eliminator attachment that sits in the waste bin",
-          "• When the cat enters the box, their weight is displayed on the front "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6232266962df"
     },
     {
       "id": "fc3efe0353a7",
@@ -5382,28 +5410,28 @@
       "url": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss",
       "published_at": "Sun, 30 Nov 2025 04:39:09 GMT",
       "bullets": [
-        "• Venezuela condemns US President Donald Trump's statement that the country's airspace should be closed",
-        "• The US has carried out at least 21 strikes on boats carrying drugs, killing more than 80",
-        "• The White House did not immediately respond to the request for comment from Venezuela "
+        "• Venezuela condemns US President Donald Trump's statement that the airspace around the country should be closed",
+        "• The US has carried out at least 21 strikes on boats carrying drugs, without providing evidence",
+        "• Venezuela's President Nicolás Maduro has said the US moves are an attempt to oust him "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• Venezuela condemns US President Donald Trump's statement that the country's airspace should be closed",
-          "• The US has carried out at least 21 strikes on boats carrying drugs, killing more than 80"
+          "• Venezuela condemns US President Donald Trump's statement that the airspace around the country should be closed",
+          "• The US has carried out at least 21 strikes on boats carrying drugs, without providing evidence"
         ],
         "hopeful_bullets": [
-          "• Venezuela condemns US President Donald Trump's statement that the country's airspace should be closed",
-          "• The US has carried out at least 21 strikes on boats carrying drugs, killing more than 80"
+          "• Venezuela condemns US President Donald Trump's statement that the airspace around the country should be closed",
+          "• The US has carried out at least 21 strikes on boats carrying drugs, without providing evidence"
         ],
         "stakes_bullets": [
-          "• Venezuela condemns US President Donald Trump's statement that the country's airspace should be closed",
-          "• The US has carried out at least 21 strikes on boats carrying drugs, killing more than 80",
-          "• The White House did not immediately respond to the request for comment from Venezuela "
+          "• Venezuela condemns US President Donald Trump's statement that the airspace around the country should be closed",
+          "• The US has carried out at least 21 strikes on boats carrying drugs, without providing evidence",
+          "• Venezuela's President Nicolás Maduro has said the US moves are an attempt to oust him "
         ]
       },
       "read_minutes": 2,
@@ -5914,39 +5942,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "405348936514"
-    },
-    {
-      "id": "d28c9c65d1de",
-      "title": "American Airlines says all planes impacted by Airbus glitch have been fixed",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/29/airbus-recall-disrupts-global-travel-a320-jets-grounded-glitch-linked-solar-flares.html",
-      "published_at": "Sat, 29 Nov 2025 19:19:25 GMT",
-      "bullets": [
-        "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
-        "• The directive is among the largest in the 55-year history of Airbus",
-        "• Thousands of travelers worldwide were stranded after the directive was issued",
-        "• American Airlines says it expects no further impact from the directive "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
-          "• The directive is among the largest in the 55-year history of Airbus"
-        ],
-        "hopeful_bullets": [
-          "• Airbus ordered immediate software fixes for 6,000 A320-series aircraft",
-          "• The directive is among the largest in the 55-year history of Airbus"
-        ],
-        "stakes_bullets": [
-          "• American Airlines says it expects no further impact from the directive "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "418125fcbc28"
     },
     {
       "id": "81a20d8a0fc0",
@@ -9260,6 +9255,37 @@
       "cluster_id": "e7663f4e1cf1"
     },
     {
+      "id": "8326de889293",
+      "title": "Weekend predictions: Now You See Me looking to steal weekend from Running Man and Predator",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260280830-Weekend-predictions-Now-You-See-Me-looking-to-steal-weekend-from-Running-Man-and-Predator",
+      "published_at": null,
+      "bullets": [
+        "• Now You See Me: Now You Don’t goes into the weekend as a very marginal favorite to take the box office crown",
+        "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.943
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Now You See Me: Now You Don’t goes into the weekend as a very marginal favorite to take the box office crown",
+          "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
+        ],
+        "hopeful_bullets": [
+          "• Now You See Me: Now You Don’t goes into the weekend as a very marginal favorite to take the box office crown",
+          "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
+        ],
+        "stakes_bullets": [
+          "• Predator: Badlands could beat back both newcomers, while The Running Man isn't entirely out of the picture "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0a18fcef00e3"
+    },
+    {
       "id": "0cd8a2772863",
       "title": "Theater counts: Predator: Badlands retains top footprint, staying widest release for its second weekend",
       "outlet": "The Numbers",
@@ -10014,6 +10040,24 @@
       ]
     },
     {
+      "id": "98333ec5d5d3",
+      "topic": "box fuel office thanksgiving",
+      "keywords": [
+        "box",
+        "fuel",
+        "office",
+        "thanksgiving",
+        "top",
+        "zootopia"
+      ],
+      "item_ids": [
+        "f7392626436a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "efd173a62a84",
       "topic": "analyst recommend street these",
       "keywords": [
@@ -10026,24 +10070,6 @@
       ],
       "item_ids": [
         "aaa1a8ae4504"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "418125fcbc28",
-      "topic": "airbu airline all american",
-      "keywords": [
-        "airbu",
-        "airline",
-        "all",
-        "american",
-        "impacted",
-        "plane"
-      ],
-      "item_ids": [
-        "d28c9c65d1de"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10158,6 +10184,27 @@
       ]
     },
     {
+      "id": "2f9f369e6cb0",
+      "topic": "2025 best black costco",
+      "keywords": [
+        "2025",
+        "best",
+        "black",
+        "costco",
+        "deal",
+        "friday",
+        "streaming"
+      ],
+      "item_ids": [
+        "74027aed27bd",
+        "895345094cfd",
+        "561477f05c0c"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "b41fc1b36280",
       "topic": "amazon best black device",
       "keywords": [
@@ -10188,25 +10235,6 @@
       ],
       "item_ids": [
         "b5c1cd2f3c49"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "d4e79fb29f94",
-      "topic": "2025 best black deal",
-      "keywords": [
-        "2025",
-        "best",
-        "black",
-        "deal",
-        "friday",
-        "streaming"
-      ],
-      "item_ids": [
-        "895345094cfd",
-        "561477f05c0c"
       ],
       "outlets": [
         "WIRED"
@@ -10297,24 +10325,6 @@
       ],
       "item_ids": [
         "8df10f5d26b1"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "6232266962df",
-      "topic": "100 now off petkit",
-      "keywords": [
-        "100",
-        "now",
-        "off",
-        "petkit",
-        "puramax",
-        "right"
-      ],
-      "item_ids": [
-        "fef2ca189f73"
       ],
       "outlets": [
         "WIRED"
@@ -11399,11 +11409,11 @@
       ]
     },
     {
-      "id": "88c878058ce3",
-      "topic": "death flood indonesia passe",
+      "id": "53bb274ca04e",
+      "topic": "900 death indonesia passe",
       "keywords": [
+        "900",
         "death",
-        "flood",
         "indonesia",
         "passe",
         "thailand",
@@ -11786,6 +11796,24 @@
       ],
       "item_ids": [
         "7cec4c248f59"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "0a18fcef00e3",
+      "topic": "looking now prediction see",
+      "keywords": [
+        "looking",
+        "now",
+        "prediction",
+        "see",
+        "steal",
+        "weekend"
+      ],
+      "item_ids": [
+        "8326de889293"
       ],
       "outlets": [
         "The Numbers"
@@ -13341,6 +13369,60 @@
       ]
     },
     {
+      "id": "8e69c7190f3b",
+      "topic": "dead debut lowest man",
+      "keywords": [
+        "dead",
+        "debut",
+        "lowest",
+        "man",
+        "opening",
+        "wake"
+      ],
+      "item_ids": [
+        "e9479d3c7298"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "0986503012ac",
+      "topic": "adventure before brief caulkin",
+      "keywords": [
+        "adventure",
+        "before",
+        "brief",
+        "caulkin",
+        "comedy",
+        "macaulay"
+      ],
+      "item_ids": [
+        "a4ba7060a24b"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "0a8650de4b5f",
+      "topic": "banned episode later remain",
+      "keywords": [
+        "banned",
+        "episode",
+        "later",
+        "remain",
+        "simpson",
+        "year"
+      ],
+      "item_ids": [
+        "909e26430f2a"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "a367d65ae32d",
       "topic": "2026 gets january starscream",
       "keywords": [
@@ -13459,59 +13541,6 @@
       ],
       "item_ids": [
         "4ed70f017ccf"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "ea40a0a47e70",
-      "topic": "dench eyesight health judi",
-      "keywords": [
-        "dench",
-        "eyesight",
-        "health",
-        "judi",
-        "reveal"
-      ],
-      "item_ids": [
-        "458bbcac02af"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "680691b20d74",
-      "topic": "90s cinematic later phenomenon",
-      "keywords": [
-        "90s",
-        "cinematic",
-        "later",
-        "phenomenon",
-        "still",
-        "year"
-      ],
-      "item_ids": [
-        "113d21551f80"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "67c67e490ce2",
-      "topic": "gilligan gunn island jame",
-      "keywords": [
-        "gilligan",
-        "gunn",
-        "island",
-        "jame",
-        "lost",
-        "reboot"
-      ],
-      "item_ids": [
-        "b982ac6db866"
       ],
       "outlets": [
         "CBR"
