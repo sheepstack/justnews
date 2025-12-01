@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-01T05:37:02Z",
+  "generated_at": "2025-12-01T06:15:18Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -3303,39 +3303,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "78d6c667412c"
-    },
-    {
-      "id": "9660e991107b",
-      "title": "Forget AI spending — the biggest risk to this stock market is speculative junk",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/11/30/cramer-forget-ai-spending-the-biggest-risk-to-this-market-is-speculation.html",
-      "published_at": "Sun, 30 Nov 2025 21:49:53 GMT",
-      "bullets": [
-        "• Alternative investments cloud the landscape of money-making opportunities",
-        "• They include attenuated power supplies to meet the demand of data centers, uranium and quantum computing",
-        "• Double and triple exchange-trade funds that use leverage have very few winners, although the winners are well-fed "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Alternative investments cloud the landscape of money-making opportunities",
-          "• They include attenuated power supplies to meet the demand of data centers, uranium and quantum computing"
-        ],
-        "hopeful_bullets": [
-          "• Double and triple exchange-trade funds that use leverage have very few winners, although the winners are well-fed "
-        ],
-        "stakes_bullets": [
-          "• Alternative investments cloud the landscape of money-making opportunities",
-          "• They include attenuated power supplies to meet the demand of data centers, uranium and quantum computing",
-          "• Double and triple exchange-trade funds that use leverage have very few winners, although the winners are well-fed "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "67296e8441ba"
     },
     {
       "id": "a17273d5e9cd",
@@ -6786,6 +6753,38 @@
       "cluster_id": "b235c16fb40e"
     },
     {
+      "id": "469cbc55542b",
+      "title": "This is the No.1 reason startups fail in the first two years, according to the founder of Europe's largest pre-seed fund",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/01/top-reason-startups-fail-first-two-years-vc-reece-chowdhry-concept-ventures-europe-pre-seed-fund.html",
+      "published_at": "Mon, 01 Dec 2025 05:42:48 GMT",
+      "bullets": [
+        "• Concept Ventures is Europe's largest pre-seed fund, which focuses on startups at the ideation stage",
+        "• It recently announced it had raised $88 million for its newest fund",
+        "• Early teams often split within two years because co-founders clash or lack a shared vision "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Concept Ventures is Europe's largest pre-seed fund, which focuses on startups at the ideation stage",
+          "• It recently announced it had raised $88 million for its newest fund"
+        ],
+        "hopeful_bullets": [
+          "• Concept Ventures is Europe's largest pre-seed fund, which focuses on startups at the ideation stage",
+          "• It recently announced it had raised $88 million for its newest fund"
+        ],
+        "stakes_bullets": [
+          "• Early teams often split within two years because co-founders clash or lack a shared vision "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a7772222fbe3"
+    },
+    {
       "id": "175aeb2a4d41",
       "title": "Charlie Puth, Brandi Carlile, and Coco Jones to Perform at 2026 Super Bowl Pregame",
       "outlet": "RSS: News",
@@ -9438,6 +9437,24 @@
   ],
   "clusters": [
     {
+      "id": "749d602684c2",
+      "topic": "compound georgian protester sprayed",
+      "keywords": [
+        "compound",
+        "georgian",
+        "protester",
+        "sprayed",
+        "toxic",
+        "ww1"
+      ],
+      "item_ids": [
+        "09a90411a6ff"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "aa510a2c0b1f",
       "topic": "needed productive rubio talk",
       "keywords": [
@@ -9474,18 +9491,18 @@
       ]
     },
     {
-      "id": "749d602684c2",
-      "topic": "compound georgian protester sprayed",
+      "id": "582d6a146302",
+      "topic": "answer boat demand hegseth",
       "keywords": [
-        "compound",
-        "georgian",
-        "protester",
-        "sprayed",
-        "toxic",
-        "ww1"
+        "answer",
+        "boat",
+        "demand",
+        "hegseth",
+        "lawmaker",
+        "venezuela"
       ],
       "item_ids": [
-        "09a90411a6ff"
+        "e8bb015f85c0"
       ],
       "outlets": [
         "BBC News"
@@ -9504,24 +9521,6 @@
       ],
       "item_ids": [
         "6efed784315b"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "582d6a146302",
-      "topic": "answer boat demand hegseth",
-      "keywords": [
-        "answer",
-        "boat",
-        "demand",
-        "hegseth",
-        "lawmaker",
-        "venezuela"
-      ],
-      "item_ids": [
-        "e8bb015f85c0"
       ],
       "outlets": [
         "BBC News"
@@ -10230,6 +10229,24 @@
       ]
     },
     {
+      "id": "a7772222fbe3",
+      "topic": "according fail first reason",
+      "keywords": [
+        "according",
+        "fail",
+        "first",
+        "reason",
+        "startup",
+        "year"
+      ],
+      "item_ids": [
+        "469cbc55542b"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "20d86c60799f",
       "topic": "ceo coursera here jobs",
       "keywords": [
@@ -10296,24 +10313,6 @@
       ],
       "item_ids": [
         "bdca817e6f17"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "67296e8441ba",
-      "topic": "biggest forget market risk",
-      "keywords": [
-        "biggest",
-        "forget",
-        "market",
-        "risk",
-        "spending",
-        "stock"
-      ],
-      "item_ids": [
-        "9660e991107b"
       ],
       "outlets": [
         "US Top News and Analysis"
