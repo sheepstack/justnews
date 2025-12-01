@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-01T21:15:58Z",
+  "generated_at": "2025-12-01T21:47:29Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -368,24 +368,25 @@
       "url": "https://www.nytimes.com/video/nyregion/100000010524474/new-york-citys-next-super-storm.html",
       "published_at": "Wed, 26 Nov 2025 10:00:52 +0000",
       "bullets": [
-        "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges",
-        "• What’s a worst-case scenario for hurricane flooding in New York City? Our reporter explores the possibility "
+        "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges in New York City",
+        "• The worst-case scenario for hurricane flooding in the city could be in 2025 "
       ],
       "category": "Environment",
       "sentiment": {
-        "label": "positive",
-        "score": 0.958
+        "label": "negative",
+        "score": 0.975
       },
       "moods": {
         "brief_bullets": [
-          "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges",
-          "• What’s a worst-case scenario for hurricane flooding in New York City? Our reporter explores the possibility "
+          "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges in New York City",
+          "• The worst-case scenario for hurricane flooding in the city could be in 2025 "
         ],
         "hopeful_bullets": [
-          "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges"
+          "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges in New York City"
         ],
         "stakes_bullets": [
-          "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges"
+          "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges in New York City",
+          "• The worst-case scenario for hurricane flooding in the city could be in 2025 "
         ]
       },
       "read_minutes": 1,
@@ -459,6 +460,38 @@
       "cluster_id": "16cb7c690846"
     },
     {
+      "id": "35863ee4867f",
+      "title": "How the turkey trotted its way onto our Thanksgiving tables — and into our lexicon",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/26/nx-s1-5612661/turkey-word-origin-thanksgiving",
+      "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• The turkey was first brought across the Atlantic to Europe in 17th century",
+        "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving",
+        "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The turkey was first brought across the Atlantic to Europe in 17th century",
+          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
+        ],
+        "hopeful_bullets": [
+          "• The turkey was first brought across the Atlantic to Europe in 17th century",
+          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
+        ],
+        "stakes_bullets": [
+          "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "954bdce0a552"
+    },
+    {
       "id": "02062fa3096c",
       "title": "The U.S. produces a lot of food waste. This place wants to address it",
       "outlet": "NPR Topics: Science",
@@ -490,38 +523,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "57c1f5751537"
-    },
-    {
-      "id": "35863ee4867f",
-      "title": "How the turkey trotted its way onto our Thanksgiving tables — and into our lexicon",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/26/nx-s1-5612661/turkey-word-origin-thanksgiving",
-      "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• The turkey was first brought across the Atlantic to Europe in 17th century",
-        "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving",
-        "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The turkey was first brought across the Atlantic to Europe in 17th century",
-          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
-        ],
-        "hopeful_bullets": [
-          "• The turkey was first brought across the Atlantic to Europe in 17th century",
-          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
-        ],
-        "stakes_bullets": [
-          "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "954bdce0a552"
     },
     {
       "id": "f7990419e35e",
@@ -1752,66 +1753,6 @@
       },
       "read_minutes": 12,
       "cluster_id": "de631f7845cb"
-    },
-    {
-      "id": "0526e67960da",
-      "title": "Psychological Horror Game Total Chaos Available Now on PC and Consoles",
-      "outlet": "HorrorFix",
-      "url": "https://horror-fix.com/psychological-horror-game-total-chaos-available-now-on-pc-and-consoles/",
-      "published_at": "Thu, 20 Nov 2025 19:54:21 +0000",
-      "bullets": [
-        "• Psychological Horror Game Total Chaos Available Now on PC and Consoles Apogee Entertainment and Infogrames Surprise-Launch Developer Sam Prebble’s Maddening Horror Tale on Xbox Series X|S, PlayStation 5, and Windows PC "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.831
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Psychological Horror Game Total Chaos Available Now on PC and Consoles Apogee Entertainment and Infogrames Surprise-Launch Developer Sam Prebble’s Maddening Horror Tale on Xbox Series X|S, PlayStation 5, and Windows PC "
-        ],
-        "hopeful_bullets": [
-          "• Psychological Horror Game Total Chaos Available Now on PC and Consoles Apogee Entertainment and Infogrames Surprise-Launch Developer Sam Prebble’s Maddening Horror Tale on Xbox Series X|S, PlayStation 5, and Windows PC "
-        ],
-        "stakes_bullets": [
-          "• Psychological Horror Game Total Chaos Available Now on PC and Consoles Apogee Entertainment and Infogrames Surprise-Launch Developer Sam Prebble’s Maddening Horror Tale on Xbox Series X|S, PlayStation 5, and Windows PC "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "d26a3bf750aa"
-    },
-    {
-      "id": "e4206df3c9c7",
-      "title": "In Case You Missed It: RUFUS Coming November 25 – Request Your Review Screener Today! ﻿",
-      "outlet": "HorrorFix",
-      "url": "https://horror-fix.com/in-case-you-missed-it-rufus-coming-november-25-request-your-review-screener-today/",
-      "published_at": "Thu, 20 Nov 2025 17:33:35 +0000",
-      "bullets": [
-        "• In Case You Missed It will be released on November 25, 2015",
-        "• The film has been nominated for Best Horror Film at the New York Science Fiction and Horror Film Festival",
-        "• It is the first of its kind to be released in the U.S"
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In Case You Missed It will be released on November 25, 2015",
-          "• The film has been nominated for Best Horror Film at the New York Science Fiction and Horror Film Festival"
-        ],
-        "hopeful_bullets": [
-          "• In Case You Missed It will be released on November 25, 2015",
-          "• The film has been nominated for Best Horror Film at the New York Science Fiction and Horror Film Festival"
-        ],
-        "stakes_bullets": [
-          "• In Case You Missed It will be released on November 25, 2015"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "762c27016710"
     },
     {
       "id": "6fd904e2c399",
@@ -3801,6 +3742,565 @@
       "cluster_id": "b235c16fb40e"
     },
     {
+      "id": "4b5ea20153ef",
+      "title": "Zoe Kravitz's High Fidelity Hulu Series Gets Hopeful Update",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/zoe-kravitz-high-fidelity-comedy-hulu-streaming-2025-update/",
+      "published_at": "Mon, 01 Dec 2025 21:36:54 GMT",
+      "bullets": [
+        "• Da'Vine Joy Randolph said she and her co-star Zoë Kravitz are open to bringing back High Fidelity",
+        "• The series was canceled by Hulu in 2020",
+        "• Randolph is currently starring in a new romantic comedy and a thriller "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Da'Vine Joy Randolph said she and her co-star Zoë Kravitz are open to bringing back High Fidelity",
+          "• The series was canceled by Hulu in 2020"
+        ],
+        "hopeful_bullets": [
+          "• Da'Vine Joy Randolph said she and her co-star Zoë Kravitz are open to bringing back High Fidelity",
+          "• The series was canceled by Hulu in 2020"
+        ],
+        "stakes_bullets": [
+          "• Da'Vine Joy Randolph said she and her co-star Zoë Kravitz are open to bringing back High Fidelity",
+          "• The series was canceled by Hulu in 2020",
+          "• Randolph is currently starring in a new romantic comedy and a thriller "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d266635aceca"
+    },
+    {
+      "id": "2dc09c722b81",
+      "title": "The Wiggles Caught in ‘Ecstasy’ TikTok, But Don’t ‘Support or Condone’ Drugs",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/the-wiggles-dont-support-condone-drugs-tiktok-video-ecstasy-1235475235/",
+      "published_at": "Mon, 01 Dec 2025 21:30:39 +0000",
+      "bullets": [
+        "• The Wiggles were caught in a TikTok using Keli Holiday’s “Ecstasy” in the background",
+        "• A spokesperson for the kids band said they had no idea the song would be used",
+        "• The video has since been deleted from social media "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Wiggles were caught in a TikTok using Keli Holiday’s “Ecstasy” in the background",
+          "• A spokesperson for the kids band said they had no idea the song would be used"
+        ],
+        "hopeful_bullets": [
+          "• The Wiggles were caught in a TikTok using Keli Holiday’s “Ecstasy” in the background",
+          "• A spokesperson for the kids band said they had no idea the song would be used"
+        ],
+        "stakes_bullets": [
+          "• A spokesperson for the kids band said they had no idea the song would be used"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "699b56788700"
+    },
+    {
+      "id": "664400e3b4b3",
+      "title": "FOUND TV’s Top 5 Winter Horror Films For The Holiday Season",
+      "outlet": "HorrorFix",
+      "url": "https://horror-fix.com/found-tvs-top-5-winter-horror-films-for-the-holiday-season/",
+      "published_at": "Mon, 01 Dec 2025 21:26:26 +0000",
+      "bullets": [
+        "• FOUND TV’s Top 5 Winter Horror Films for the Holiday Season are streaming now",
+        "• Hell on the Shelf, The Christmas Tapes, The Devil Complex, and Himalaya will premiere on FOUND in December",
+        "• The platform has curated five winter and holiday-themed found footage films "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.926
+      },
+      "moods": {
+        "brief_bullets": [
+          "• FOUND TV’s Top 5 Winter Horror Films for the Holiday Season are streaming now",
+          "• Hell on the Shelf, The Christmas Tapes, The Devil Complex, and Himalaya will premiere on FOUND in December"
+        ],
+        "hopeful_bullets": [
+          "• FOUND TV’s Top 5 Winter Horror Films for the Holiday Season are streaming now",
+          "• The platform has curated five winter and holiday-themed found footage films "
+        ],
+        "stakes_bullets": [
+          "• Hell on the Shelf, The Christmas Tapes, The Devil Complex, and Himalaya will premiere on FOUND in December"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "edaee8f3c573"
+    },
+    {
+      "id": "f7358be93583",
+      "title": "FKA Twigs Announces 2026 ‘Body High’ Headlining Tour",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/fka-twigs-2026-body-high-tour-dates-1235475126/",
+      "published_at": "Mon, 01 Dec 2025 21:25:06 +0000",
+      "bullets": [
+        "• FKA Twigs announces 2026 ‘Body High’ Headlining Tour",
+        "• Twigs will be accompanied by Brutalismus 3000, Eartheater, Tokischa, and Yves Tumor",
+        "• Presale for the tour will begin on Tuesday, Dec",
+        "• 2 at 10 a.m",
+        "• local time "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• FKA Twigs announces 2026 ‘Body High’ Headlining Tour",
+          "• Twigs will be accompanied by Brutalismus 3000, Eartheater, Tokischa, and Yves Tumor"
+        ],
+        "hopeful_bullets": [
+          "• FKA Twigs announces 2026 ‘Body High’ Headlining Tour",
+          "• Twigs will be accompanied by Brutalismus 3000, Eartheater, Tokischa, and Yves Tumor"
+        ],
+        "stakes_bullets": [
+          "• Twigs will be accompanied by Brutalismus 3000, Eartheater, Tokischa, and Yves Tumor",
+          "• Presale for the tour will begin on Tuesday, Dec"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "67dc62b79cbb"
+    },
+    {
+      "id": "79270e2c7307",
+      "title": "New Release Alert: “Sway” Hits the U.S. Tomorrow ﻿",
+      "outlet": "HorrorFix",
+      "url": "https://horror-fix.com/new-release-alert-sway-hits-the-u-s-tomorrow/",
+      "published_at": "Mon, 01 Dec 2025 21:24:23 +0000",
+      "bullets": [
+        "• Acclaimed Thriller “Sway” Debuts tomorrow: A Bold New Release from Breaking Glass Pictures",
+        "• Sway follows a respected Black community leader whose world spirals out of control after his brother goes missing",
+        "• The film stars an acclaimed ensemble cast, including:-Emmanuel Kabongo (Sway) - 3-time CSA Nominee, Outer Banks, Star Trek: Discovery "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Acclaimed Thriller “Sway” Debuts tomorrow: A Bold New Release from Breaking Glass Pictures",
+          "• Sway follows a respected Black community leader whose world spirals out of control after his brother goes missing"
+        ],
+        "hopeful_bullets": [
+          "• Acclaimed Thriller “Sway” Debuts tomorrow: A Bold New Release from Breaking Glass Pictures",
+          "• Sway follows a respected Black community leader whose world spirals out of control after his brother goes missing"
+        ],
+        "stakes_bullets": [
+          "• Sway follows a respected Black community leader whose world spirals out of control after his brother goes missing",
+          "• The film stars an acclaimed ensemble cast, including:-Emmanuel Kabongo (Sway) - 3-time CSA Nominee, Outer Banks, Star Trek: Discovery "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a90c8852a51e"
+    },
+    {
+      "id": "4ff69fc37bd6",
+      "title": "Eli Lilly cuts cash prices of Zepbound weight loss drug vials on direct-to-consumer site",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/01/eli-lilly-prices-zepbound-weight-loss-drug-vials.html",
+      "published_at": "Mon, 01 Dec 2025 21:22:16 GMT",
+      "bullets": [
+        "• Eli Lilly is lowering the cash prices of single-dose vials of its weight loss drug Zepbound on its direct-to-consumer platform, LillyDirect",
+        "• The announcement comes just weeks after President Donald Trump inked deals with Eli Lilly and Novo Nordisk to make their GLP-1 drugs easier for Americans to access "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Eli Lilly is lowering the cash prices of single-dose vials of its weight loss drug Zepbound on its direct-to-consumer platform, LillyDirect",
+          "• The announcement comes just weeks after President Donald Trump inked deals with Eli Lilly and Novo Nordisk to make their GLP-1 drugs easier for Americans to access "
+        ],
+        "hopeful_bullets": [
+          "• Eli Lilly is lowering the cash prices of single-dose vials of its weight loss drug Zepbound on its direct-to-consumer platform, LillyDirect",
+          "• The announcement comes just weeks after President Donald Trump inked deals with Eli Lilly and Novo Nordisk to make their GLP-1 drugs easier for Americans to access "
+        ],
+        "stakes_bullets": [
+          "• Eli Lilly is lowering the cash prices of single-dose vials of its weight loss drug Zepbound on its direct-to-consumer platform, LillyDirect",
+          "• The announcement comes just weeks after President Donald Trump inked deals with Eli Lilly and Novo Nordisk to make their GLP-1 drugs easier for Americans to access "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c2c6e029b941"
+    },
+    {
+      "id": "dbab8cf33d56",
+      "title": "Bitcoin’s worst day since March",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
+      "published_at": "Mon, 01 Dec 2025 21:19:32 GMT",
+      "bullets": [
+        "• Bitcoin and ether fell sharply on Monday, as the recent sell-off in cryptocurrencies resumed",
+        "• Bitcoin was last seen at about $85,894.03 at 04:19 p.m",
+        "• ET, a 6% slide",
+        "• Ether dropped 8.4% to hit $2,776.39, while Solana had fallen more than 9%",
+        "• People's Bank of China warned of illegal activities relating to digital currencies "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Bitcoin and ether fell sharply on Monday, as the recent sell-off in cryptocurrencies resumed",
+          "• Bitcoin was last seen at about $85,894.03 at 04:19 p.m"
+        ],
+        "hopeful_bullets": [
+          "• Bitcoin and ether fell sharply on Monday, as the recent sell-off in cryptocurrencies resumed",
+          "• Bitcoin was last seen at about $85,894.03 at 04:19 p.m"
+        ],
+        "stakes_bullets": [
+          "• People's Bank of China warned of illegal activities relating to digital currencies "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "1ab300c43f31"
+    },
+    {
+      "id": "43e37a90e7cd",
+      "title": "Shopify hit with hours-long outage on Cyber Monday",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/01/shopify-outage-cyber-monday-shopping.html",
+      "published_at": "Mon, 01 Dec 2025 21:18:34 GMT",
+      "bullets": [
+        "• Canadian e-commerce company Shopify was hit with an outage on Cyber Monday",
+        "• Some merchants were unable to access point-of-sale systems, a critical portal",
+        "• The Downdetector website showed thousands of users reporting problems with Shopify around 1:15 p.m",
+        "• EST "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Canadian e-commerce company Shopify was hit with an outage on Cyber Monday",
+          "• Some merchants were unable to access point-of-sale systems, a critical portal"
+        ],
+        "hopeful_bullets": [
+          "• Canadian e-commerce company Shopify was hit with an outage on Cyber Monday",
+          "• Some merchants were unable to access point-of-sale systems, a critical portal"
+        ],
+        "stakes_bullets": [
+          "• Canadian e-commerce company Shopify was hit with an outage on Cyber Monday",
+          "• Some merchants were unable to access point-of-sale systems, a critical portal",
+          "• The Downdetector website showed thousands of users reporting problems with Shopify around 1:15 p.m"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "75fffbaa707a"
+    },
+    {
+      "id": "7193ca81686a",
+      "title": "2025's Fan-Favorite Supernatural Anime Officially Went Too Dark (But It Can Still Come Back From the Dead)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dandadan-controversial-scenes-space-globalists-arc-recovery/",
+      "published_at": "Mon, 01 Dec 2025 21:15:11 GMT",
+      "bullets": [
+        "• Dandadan is famed as a shonen anime that dares to explore ideas others avoid",
+        "• It refuses to stick to the usual shonen formula of a hero’s journey filled with endless fights and a showdown against one big, scary villain",
+        "• This is just the beginning, as the upcoming season and the new arc will take the narrative in a much different direction "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dandadan is famed as a shonen anime that dares to explore ideas others avoid",
+          "• It refuses to stick to the usual shonen formula of a hero’s journey filled with endless fights and a showdown against one big, scary villain"
+        ],
+        "hopeful_bullets": [
+          "• It refuses to stick to the usual shonen formula of a hero’s journey filled with endless fights and a showdown against one big, scary villain"
+        ],
+        "stakes_bullets": [
+          "• This is just the beginning, as the upcoming season and the new arc will take the narrative in a much different direction "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "dd1d86a99712"
+    },
+    {
+      "id": "cb513b17b39d",
+      "title": "Netflix Won't Let You Cast Shows From Your Phone to Your TV Anymore",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/netflix-wont-let-you-cast-shows-from-your-phone-to-your-tv-anymore/",
+      "published_at": "Mon, 01 Dec 2025 21:15:01 +0000",
+      "bullets": [
+        "• Netflix has updated its service so that it will no longer support casting a streaming video to a TV from a mobile device",
+        "• Instead, Netflix is prioritizing its TV app, which means you’ll need to grab your TV remote and use the app to play content "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Netflix has updated its service so that it will no longer support casting a streaming video to a TV from a mobile device",
+          "• Instead, Netflix is prioritizing its TV app, which means you’ll need to grab your TV remote and use the app to play content "
+        ],
+        "hopeful_bullets": [
+          "• Netflix has updated its service so that it will no longer support casting a streaming video to a TV from a mobile device",
+          "• Instead, Netflix is prioritizing its TV app, which means you’ll need to grab your TV remote and use the app to play content "
+        ],
+        "stakes_bullets": [
+          "• Netflix has updated its service so that it will no longer support casting a streaming video to a TV from a mobile device"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d3c7489ca35d"
+    },
+    {
+      "id": "2f704ed832c0",
+      "title": "Luigi Mangione under ‘constant watch’ in prison to prevent ‘Epstein-style situation’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/01/luigi-mangione-new-york-evidence-hearing",
+      "published_at": "Mon, 01 Dec 2025 21:13:25 GMT",
+      "bullets": [
+        "• Luigi Mangione was kept under tight supervision in a Pennsylvania state prison last year because officials “did not want an Epstein-style situation’, a corrections officer said",
+        "• Mangione has attracted some enthusiastic supporters, both online and at his court appearances",
+        "• In addition to state-level charges, he faces a federal court case "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Luigi Mangione was kept under tight supervision in a Pennsylvania state prison last year because officials “did not want an Epstein-style situation’, a corrections officer said",
+          "• Mangione has attracted some enthusiastic supporters, both online and at his court appearances"
+        ],
+        "hopeful_bullets": [
+          "• Luigi Mangione was kept under tight supervision in a Pennsylvania state prison last year because officials “did not want an Epstein-style situation’, a corrections officer said",
+          "• Mangione has attracted some enthusiastic supporters, both online and at his court appearances"
+        ],
+        "stakes_bullets": [
+          "• Luigi Mangione was kept under tight supervision in a Pennsylvania state prison last year because officials “did not want an Epstein-style situation’, a corrections officer said"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "1ee1a9d5a4e1"
+    },
+    {
+      "id": "27a4afec8754",
+      "title": "Marty Supreme Debuts With Fantastic Rotten Tomatoes Score",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/marty-supreme-rotten-tomatoes-december-2025/",
+      "published_at": "Mon, 01 Dec 2025 21:12:37 GMT",
+      "bullets": [
+        "• Timothée Chalamet's new film, Marty Supreme, has a 98% Rotten Tomatoes critic score",
+        "• The film is loosely based on the life of American table tennis player Marty Reisman",
+        "• The cast includes Gwyneth Paltrow, Odessa A’zion, Tyler the Creator, Fran Drescher, Sandra Bernhard, and Kevin O’Leary "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.926
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Timothée Chalamet's new film, Marty Supreme, has a 98% Rotten Tomatoes critic score",
+          "• The film is loosely based on the life of American table tennis player Marty Reisman"
+        ],
+        "hopeful_bullets": [
+          "• Timothée Chalamet's new film, Marty Supreme, has a 98% Rotten Tomatoes critic score",
+          "• The film is loosely based on the life of American table tennis player Marty Reisman"
+        ],
+        "stakes_bullets": [
+          "• Timothée Chalamet's new film, Marty Supreme, has a 98% Rotten Tomatoes critic score",
+          "• The film is loosely based on the life of American table tennis player Marty Reisman",
+          "• The cast includes Gwyneth Paltrow, Odessa A’zion, Tyler the Creator, Fran Drescher, Sandra Bernhard, and Kevin O’Leary "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fb9ff47f7312"
+    },
+    {
+      "id": "a2070fcbaf18",
+      "title": "The Surface Laptop Has Dropped to an All-Time Low for Cyber Monday",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/surface-laptop-cyber-monday-deal/",
+      "published_at": "Mon, 01 Dec 2025 21:10:34 +0000",
+      "bullets": [
+        "• One of my favorite laptops to recommend, the Surface Laptop 13.8-inch, has now dropped to a new low price of $700",
+        "• It had been $750 on Black Friday and all weekend, and it's now been discounted by an extra $50",
+        "• Amazon is selling the more powerful model with the Snapdragon X Elite chip for less money than the X Plus model "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One of my favorite laptops to recommend, the Surface Laptop 13.8-inch, has now dropped to a new low price of $700",
+          "• It had been $750 on Black Friday and all weekend, and it's now been discounted by an extra $50"
+        ],
+        "hopeful_bullets": [
+          "• One of my favorite laptops to recommend, the Surface Laptop 13.8-inch, has now dropped to a new low price of $700",
+          "• It had been $750 on Black Friday and all weekend, and it's now been discounted by an extra $50"
+        ],
+        "stakes_bullets": [
+          "• One of my favorite laptops to recommend, the Surface Laptop 13.8-inch, has now dropped to a new low price of $700",
+          "• It had been $750 on Black Friday and all weekend, and it's now been discounted by an extra $50",
+          "• Amazon is selling the more powerful model with the Snapdragon X Elite chip for less money than the X Plus model "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2b2bda0ab35f"
+    },
+    {
+      "id": "c4a0da47dcbd",
+      "title": "White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/dec/01/donald-trump-pete-hegseth-caribbean-boats-venezuela-immigration-us-politics-latest-news-updates",
+      "published_at": "Mon, 01 Dec 2025 21:06:22 GMT",
+      "bullets": [
+        "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
+        "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
+          "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
+        ],
+        "hopeful_bullets": [
+          "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
+          "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
+        ],
+        "stakes_bullets": [
+          "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
+          "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
+        ]
+      },
+      "read_minutes": 16,
+      "cluster_id": "4f99d601fbbb"
+    },
+    {
+      "id": "89fd9474cf5b",
+      "title": "Nvidia takes $2 billion stake in Synopsys with expanded computing power partnership",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/01/nvidia-takes-2-billion-stake-in-synopsys.html",
+      "published_at": "Mon, 01 Dec 2025 21:05:51 GMT",
+      "bullets": [
+        "• Nvidia buys $2 billion of Synopsys' stock as part of a strategic partnership",
+        "• The multiyear partnership will accelerate computing and AI engineering solutions",
+        "• Nvidia has been one of the biggest beneficiaries of the AI boom because it makes the graphics processing units that are key to building and training AI models "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nvidia buys $2 billion of Synopsys' stock as part of a strategic partnership",
+          "• The multiyear partnership will accelerate computing and AI engineering solutions"
+        ],
+        "hopeful_bullets": [
+          "• Nvidia buys $2 billion of Synopsys' stock as part of a strategic partnership",
+          "• The multiyear partnership will accelerate computing and AI engineering solutions"
+        ],
+        "stakes_bullets": [
+          "• Nvidia buys $2 billion of Synopsys' stock as part of a strategic partnership",
+          "• The multiyear partnership will accelerate computing and AI engineering solutions",
+          "• Nvidia has been one of the biggest beneficiaries of the AI boom because it makes the graphics processing units that are key to building and training AI models "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "cdd30dbc7c85"
+    },
+    {
+      "id": "adf79f7f7524",
+      "title": "‘Portrait of God’ – Sam Raimi and Jordan Peele Join Forces to Produce Religious Horror Movie",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3919539/portrait-of-god-sam-raimi-and-jordan-peele-join-forces-to-produce-religious-horror-movie/",
+      "published_at": "Mon, 01 Dec 2025 21:02:46 +0000",
+      "bullets": [
+        "• Jordan Peele and Win Rosenfeld will produce through Monkeypaw Productions‘ first-look deal with the studio, alongside Sam Raimi and Romel Adam through Ghost House Pictures",
+        "• The feature version of Portrait of God “expands on the world of [Clark’s] viral horror short of the same name”"
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jordan Peele and Win Rosenfeld will produce through Monkeypaw Productions‘ first-look deal with the studio, alongside Sam Raimi and Romel Adam through Ghost House Pictures",
+          "• The feature version of Portrait of God “expands on the world of [Clark’s] viral horror short of the same name”"
+        ],
+        "hopeful_bullets": [
+          "• Jordan Peele and Win Rosenfeld will produce through Monkeypaw Productions‘ first-look deal with the studio, alongside Sam Raimi and Romel Adam through Ghost House Pictures"
+        ],
+        "stakes_bullets": [
+          "• Jordan Peele and Win Rosenfeld will produce through Monkeypaw Productions‘ first-look deal with the studio, alongside Sam Raimi and Romel Adam through Ghost House Pictures",
+          "• The feature version of Portrait of God “expands on the world of [Clark’s] viral horror short of the same name”"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "ece88a5c27ff"
+    },
+    {
+      "id": "10d76a759e85",
+      "title": "Trump October MRI results were 'perfectly normal,' White House doctor says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/01/trump-mri-results-white-house-walter-reed.html",
+      "published_at": "Mon, 01 Dec 2025 21:02:38 GMT",
+      "bullets": [
+        "• The White House released details about President Donald Trump's October MRI",
+        "• The 79-year-old underwent the procedure at Walter Reed National Military Medical Center",
+        "• The president's physician said the tests showed no signs of arterial narrowing, impaired blood flow, or abnormalities in the heart or major vessels "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.965
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The White House released details about President Donald Trump's October MRI",
+          "• The 79-year-old underwent the procedure at Walter Reed National Military Medical Center"
+        ],
+        "hopeful_bullets": [
+          "• The president's physician said the tests showed no signs of arterial narrowing, impaired blood flow, or abnormalities in the heart or major vessels "
+        ],
+        "stakes_bullets": [
+          "• The White House released details about President Donald Trump's October MRI",
+          "• The 79-year-old underwent the procedure at Walter Reed National Military Medical Center",
+          "• The president's physician said the tests showed no signs of arterial narrowing, impaired blood flow, or abnormalities in the heart or major vessels "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "d1975fff1e2d"
+    },
+    {
       "id": "3e8d84361fe2",
       "title": "The Funniest Parks & Rec Finale Remains 1 of the Best in Sitcom History",
       "outlet": "CBR",
@@ -4095,6 +4595,38 @@
       "cluster_id": "3c4e216b0feb"
     },
     {
+      "id": "1c840238ea3c",
+      "title": "Republican whose child has Down syndrome opposes redistricting after Trump’s ableist slur",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/01/trump-indiana-state-senator-redistricting-vote",
+      "published_at": "Mon, 01 Dec 2025 20:38:59 GMT",
+      "bullets": [
+        "• Michael Bohacek says he's been \"an unapologetic advocate for people with intellectual disabilities\" since one of his daughters was born with Down syndrome",
+        "• He says he will oppose efforts to redraw Indiana's congressional districts to favor his party",
+        "• The goal would be to gain Republicans more US House seats as their party tries to retain control of Congress "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.846
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Michael Bohacek says he's been \"an unapologetic advocate for people with intellectual disabilities\" since one of his daughters was born with Down syndrome",
+          "• He says he will oppose efforts to redraw Indiana's congressional districts to favor his party"
+        ],
+        "hopeful_bullets": [
+          "• Michael Bohacek says he's been \"an unapologetic advocate for people with intellectual disabilities\" since one of his daughters was born with Down syndrome",
+          "• He says he will oppose efforts to redraw Indiana's congressional districts to favor his party"
+        ],
+        "stakes_bullets": [
+          "• He says he will oppose efforts to redraw Indiana's congressional districts to favor his party"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "92c23d0bc74d"
+    },
+    {
       "id": "dffa3ca69418",
       "title": "The Meta Quest 3S VR Headset Is the Cheapest It's Ever Been (2025)",
       "outlet": "WIRED",
@@ -4125,38 +4657,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "8f7265ae4240"
-    },
-    {
-      "id": "c4a0da47dcbd",
-      "title": "White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/dec/01/donald-trump-pete-hegseth-caribbean-boats-venezuela-immigration-us-politics-latest-news-updates",
-      "published_at": "Mon, 01 Dec 2025 20:37:24 GMT",
-      "bullets": [
-        "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
-        "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
-          "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
-        ],
-        "hopeful_bullets": [
-          "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
-          "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
-        ],
-        "stakes_bullets": [
-          "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
-          "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
-        ]
-      },
-      "read_minutes": 16,
-      "cluster_id": "4f99d601fbbb"
     },
     {
       "id": "ad1f89e3b717",
@@ -4228,64 +4728,32 @@
       "cluster_id": "004f3f563e2f"
     },
     {
-      "id": "10d76a759e85",
-      "title": "Trump October MRI results were 'perfectly normal,' White House says",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/01/trump-mri-results-white-house-walter-reed.html",
-      "published_at": "Mon, 01 Dec 2025 20:31:33 GMT",
-      "bullets": [
-        "• The White House released details about President Donald Trump's October MRI",
-        "• The 79-year-old underwent the procedure at Walter Reed National Military Medical Center",
-        "• The president's physician said the tests showed no signs of arterial narrowing, impaired blood flow, or abnormalities in the heart or major vessels "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.953
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The White House released details about President Donald Trump's October MRI",
-          "• The 79-year-old underwent the procedure at Walter Reed National Military Medical Center"
-        ],
-        "hopeful_bullets": [
-          "• The president's physician said the tests showed no signs of arterial narrowing, impaired blood flow, or abnormalities in the heart or major vessels "
-        ],
-        "stakes_bullets": [
-          "• The White House released details about President Donald Trump's October MRI",
-          "• The 79-year-old underwent the procedure at Walter Reed National Military Medical Center",
-          "• The president's physician said the tests showed no signs of arterial narrowing, impaired blood flow, or abnormalities in the heart or major vessels "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "d1975fff1e2d"
-    },
-    {
       "id": "7df8a19eac9d",
       "title": "Cyber Monday Electric Toothbrush Deals (2025)",
       "outlet": "WIRED",
       "url": "https://www.wired.com/story/best-cyber-monday-electric-toothbrush-deals-2025/",
       "published_at": "Mon, 01 Dec 2025 20:31:03 +0000",
       "bullets": [
-        "• Oral-B's Pro 1000 is a classic case of “if it ain't broke, don't fix it,” as its simple design has been going strong for 13 years",
-        "• A timer runs for two minutes, focusing in 30-second intervals signaled by a pulse for each section of your mouth "
+        "• Oral-B's Pro 1000 is a classic case of “if it ain't broke, don't fix it” The oscillating electric toothbrush has three settings, including Daily Clean, Whiten, and Sensitive",
+        "• A timer runs for two minutes, focusing in 30-second intervals signaled by a pulse "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.992
       },
       "moods": {
         "brief_bullets": [
-          "• Oral-B's Pro 1000 is a classic case of “if it ain't broke, don't fix it,” as its simple design has been going strong for 13 years",
-          "• A timer runs for two minutes, focusing in 30-second intervals signaled by a pulse for each section of your mouth "
+          "• Oral-B's Pro 1000 is a classic case of “if it ain't broke, don't fix it” The oscillating electric toothbrush has three settings, including Daily Clean, Whiten, and Sensitive",
+          "• A timer runs for two minutes, focusing in 30-second intervals signaled by a pulse "
         ],
         "hopeful_bullets": [
-          "• Oral-B's Pro 1000 is a classic case of “if it ain't broke, don't fix it,” as its simple design has been going strong for 13 years"
+          "• Oral-B's Pro 1000 is a classic case of “if it ain't broke, don't fix it” The oscillating electric toothbrush has three settings, including Daily Clean, Whiten, and Sensitive",
+          "• A timer runs for two minutes, focusing in 30-second intervals signaled by a pulse "
         ],
         "stakes_bullets": [
-          "• Oral-B's Pro 1000 is a classic case of “if it ain't broke, don't fix it,” as its simple design has been going strong for 13 years",
-          "• A timer runs for two minutes, focusing in 30-second intervals signaled by a pulse for each section of your mouth "
+          "• Oral-B's Pro 1000 is a classic case of “if it ain't broke, don't fix it” The oscillating electric toothbrush has three settings, including Daily Clean, Whiten, and Sensitive",
+          "• A timer runs for two minutes, focusing in 30-second intervals signaled by a pulse "
         ]
       },
       "read_minutes": 2,
@@ -4322,6 +4790,40 @@
       },
       "read_minutes": 4,
       "cluster_id": "1ba2cd12feca"
+    },
+    {
+      "id": "f2200046db00",
+      "title": "South African radio DJ among five charged over Russia recruitment plot",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yd91y2250o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 01 Dec 2025 20:20:47 GMT",
+      "bullets": [
+        "• Patricia Mantula, 39, is a presenter of The Morning Bliss, a show on the SABC's SAFM radio station",
+        "• She is among five people charged with contravening a law which prohibits South Africans from joining a foreign army without official permission",
+        "• The arrests follow the resignation of Duduzile Zuma-Sambudla, the daughter of former President Jacob Zuma "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Patricia Mantula, 39, is a presenter of The Morning Bliss, a show on the SABC's SAFM radio station",
+          "• She is among five people charged with contravening a law which prohibits South Africans from joining a foreign army without official permission"
+        ],
+        "hopeful_bullets": [
+          "• Patricia Mantula, 39, is a presenter of The Morning Bliss, a show on the SABC's SAFM radio station",
+          "• She is among five people charged with contravening a law which prohibits South Africans from joining a foreign army without official permission"
+        ],
+        "stakes_bullets": [
+          "• Patricia Mantula, 39, is a presenter of The Morning Bliss, a show on the SABC's SAFM radio station",
+          "• She is among five people charged with contravening a law which prohibits South Africans from joining a foreign army without official permission",
+          "• The arrests follow the resignation of Duduzile Zuma-Sambudla, the daughter of former President Jacob Zuma "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "59a4a14535ac"
     },
     {
       "id": "84c4eeeb38e7",
@@ -4390,41 +4892,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "0b10bbca5c63"
-    },
-    {
-      "id": "43e37a90e7cd",
-      "title": "Shopify hit with hours-long outage on Cyber Monday",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/01/shopify-outage-cyber-monday-shopping.html",
-      "published_at": "Mon, 01 Dec 2025 20:09:05 GMT",
-      "bullets": [
-        "• Canadian e-commerce company Shopify was hit with an outage on Cyber Monday",
-        "• Some merchants were unable to access point-of-sale systems, a critical portal",
-        "• The Downdetector website showed thousands of users reporting problems with Shopify around 1:15 p.m",
-        "• EST "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Canadian e-commerce company Shopify was hit with an outage on Cyber Monday",
-          "• Some merchants were unable to access point-of-sale systems, a critical portal"
-        ],
-        "hopeful_bullets": [
-          "• Canadian e-commerce company Shopify was hit with an outage on Cyber Monday",
-          "• Some merchants were unable to access point-of-sale systems, a critical portal"
-        ],
-        "stakes_bullets": [
-          "• Canadian e-commerce company Shopify was hit with an outage on Cyber Monday",
-          "• Some merchants were unable to access point-of-sale systems, a critical portal",
-          "• The Downdetector website showed thousands of users reporting problems with Shopify around 1:15 p.m"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "75fffbaa707a"
     },
     {
       "id": "8aff4d9425a8",
@@ -4779,38 +5246,6 @@
       "cluster_id": "5aad826443f3"
     },
     {
-      "id": "4ff69fc37bd6",
-      "title": "Eli Lilly cuts cash prices of Zepbound weight loss drug vials on direct-to-consumer site",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/01/eli-lilly-prices-zepbound-weight-loss-drug-vials.html",
-      "published_at": "Mon, 01 Dec 2025 19:38:44 GMT",
-      "bullets": [
-        "• Eli Lilly is lowering the cash prices of single-dose vials of its weight loss drug Zepbound on its direct-to-consumer platform, LillyDirect",
-        "• The announcement comes just weeks after President Donald Trump inked deals with Eli Lilly and Novo Nordisk to make their GLP-1 drugs easier for Americans to access "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Eli Lilly is lowering the cash prices of single-dose vials of its weight loss drug Zepbound on its direct-to-consumer platform, LillyDirect",
-          "• The announcement comes just weeks after President Donald Trump inked deals with Eli Lilly and Novo Nordisk to make their GLP-1 drugs easier for Americans to access "
-        ],
-        "hopeful_bullets": [
-          "• Eli Lilly is lowering the cash prices of single-dose vials of its weight loss drug Zepbound on its direct-to-consumer platform, LillyDirect",
-          "• The announcement comes just weeks after President Donald Trump inked deals with Eli Lilly and Novo Nordisk to make their GLP-1 drugs easier for Americans to access "
-        ],
-        "stakes_bullets": [
-          "• Eli Lilly is lowering the cash prices of single-dose vials of its weight loss drug Zepbound on its direct-to-consumer platform, LillyDirect",
-          "• The announcement comes just weeks after President Donald Trump inked deals with Eli Lilly and Novo Nordisk to make their GLP-1 drugs easier for Americans to access "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c2c6e029b941"
-    },
-    {
       "id": "4fff79d6eb14",
       "title": "15 Best Cyber Monday Phone Deals (2025)",
       "outlet": "WIRED",
@@ -4942,39 +5377,6 @@
       "cluster_id": "90f537d0016e"
     },
     {
-      "id": "9dcd5dc6ac39",
-      "title": "Gundam Seed's Most Underrated Mecha Finally Gets First Real Grade Gunpla Model Kit After 21 Years",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/gundam-seed-destiny-red-dragon-gunpla/",
-      "published_at": "Mon, 01 Dec 2025 19:30:12 GMT",
-      "bullets": [
-        "• The RG 1/144 Gundam Astray Red Dragon is from the spinoff Mobile Suit Gundam SEED Destiny Astray R",
-        "• The new model kit takes the already impressive design of the Red Frame and gives it wings",
-        "• The Red Dragon has the Caledfwlch, Flight Unit and Draighead, which are all replicated with just as as as in its manga appearances "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The RG 1/144 Gundam Astray Red Dragon is from the spinoff Mobile Suit Gundam SEED Destiny Astray R",
-          "• The new model kit takes the already impressive design of the Red Frame and gives it wings"
-        ],
-        "hopeful_bullets": [
-          "• The new model kit takes the already impressive design of the Red Frame and gives it wings"
-        ],
-        "stakes_bullets": [
-          "• The RG 1/144 Gundam Astray Red Dragon is from the spinoff Mobile Suit Gundam SEED Destiny Astray R",
-          "• The new model kit takes the already impressive design of the Red Frame and gives it wings",
-          "• The Red Dragon has the Caledfwlch, Flight Unit and Draighead, which are all replicated with just as as as in its manga appearances "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "99190d56448c"
-    },
-    {
       "id": "009aed871890",
       "title": "As regime change looms at the Fed, one candidate emerges as frontrunner for chair",
       "outlet": "US Top News and Analysis",
@@ -5040,40 +5442,6 @@
       "cluster_id": "5426f5d91808"
     },
     {
-      "id": "63e359f1b530",
-      "title": "Sonic Spinoff, New TMNT Live-Action Movie Set 2028 Release Dates",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/sonic-spinoff-teenage-mutant-ninja-turltes-movie-release-dates-2028/",
-      "published_at": "Mon, 01 Dec 2025 19:23:31 GMT",
-      "bullets": [
-        "• Paramount has added a new Sonic the Hedgehog movie to its 2028 release slate",
-        "• The movie is described as a \"Sonic Universe Event Film,\" suggesting it is a spinoff or crossover",
-        "• The studio also announced a new Teenage Mutant Ninja Turtles movie "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.738
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Paramount has added a new Sonic the Hedgehog movie to its 2028 release slate",
-          "• The movie is described as a \"Sonic Universe Event Film,\" suggesting it is a spinoff or crossover"
-        ],
-        "hopeful_bullets": [
-          "• Paramount has added a new Sonic the Hedgehog movie to its 2028 release slate",
-          "• The movie is described as a \"Sonic Universe Event Film,\" suggesting it is a spinoff or crossover"
-        ],
-        "stakes_bullets": [
-          "• Paramount has added a new Sonic the Hedgehog movie to its 2028 release slate",
-          "• The movie is described as a \"Sonic Universe Event Film,\" suggesting it is a spinoff or crossover",
-          "• The studio also announced a new Teenage Mutant Ninja Turtles movie "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c1d20bf4b207"
-    },
-    {
       "id": "5f2580d87eaa",
       "title": "Appeals court disqualifies ex-Trump lawyer Alina Habba as New Jersey prosecutor",
       "outlet": "BBC News",
@@ -5105,38 +5473,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "dc7b8a1881a4"
-    },
-    {
-      "id": "bb6a27bc70f9",
-      "title": "10 Best Anime Franchises With Every Episode Available on Streaming",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-anime-franchises-stream-every-episode/",
-      "published_at": "Mon, 01 Dec 2025 19:15:11 GMT",
-      "bullets": [
-        "• Few anime fans are being subjected to the routine heartbreak of a bad ending thanks to dedicated studios committing themselves to telling stories in full",
-        "• With My Hero Academia's Final Season currently airing, only 2 more episodes remain before the entire franchise reaches its conclusion "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.928
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Few anime fans are being subjected to the routine heartbreak of a bad ending thanks to dedicated studios committing themselves to telling stories in full",
-          "• With My Hero Academia's Final Season currently airing, only 2 more episodes remain before the entire franchise reaches its conclusion "
-        ],
-        "hopeful_bullets": [
-          "• Few anime fans are being subjected to the routine heartbreak of a bad ending thanks to dedicated studios committing themselves to telling stories in full",
-          "• With My Hero Academia's Final Season currently airing, only 2 more episodes remain before the entire franchise reaches its conclusion "
-        ],
-        "stakes_bullets": [
-          "• Few anime fans are being subjected to the routine heartbreak of a bad ending thanks to dedicated studios committing themselves to telling stories in full",
-          "• With My Hero Academia's Final Season currently airing, only 2 more episodes remain before the entire franchise reaches its conclusion "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "688864384752"
     },
     {
       "id": "0c9fbde1582e",
@@ -5207,41 +5543,6 @@
       "cluster_id": "83a141432704"
     },
     {
-      "id": "79ea3e0480c4",
-      "title": "The Best Cyber Monday Mattress and Bedding Deals (2025)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/best-cyber-monday-mattress-deals-2025/",
-      "published_at": "Mon, 01 Dec 2025 19:10:42 +0000",
-      "bullets": [
-        "• Cyber Monday brings some of the best sleep deals you'll see all year",
-        "• While the prices listed below are for queen sizes, the deals should apply to all mattress sizes",
-        "• Bear Elite Hybrid is the best mattress for relieving back pain",
-        "• Avocado Green is a lean, green, lumbar support machine "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Cyber Monday brings some of the best sleep deals you'll see all year",
-          "• While the prices listed below are for queen sizes, the deals should apply to all mattress sizes"
-        ],
-        "hopeful_bullets": [
-          "• Cyber Monday brings some of the best sleep deals you'll see all year",
-          "• While the prices listed below are for queen sizes, the deals should apply to all mattress sizes"
-        ],
-        "stakes_bullets": [
-          "• Cyber Monday brings some of the best sleep deals you'll see all year",
-          "• While the prices listed below are for queen sizes, the deals should apply to all mattress sizes",
-          "• Bear Elite Hybrid is the best mattress for relieving back pain"
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "99670234ca70"
-    },
-    {
       "id": "8745ad3187a3",
       "title": "The 5 Must-See New Horror Movies Releasing in December 2025",
       "outlet": "Bloody Disgusting!",
@@ -5308,7 +5609,7 @@
     },
     {
       "id": "47bdcc384b3e",
-      "title": "Psychological Horror title ‘The 9th Charnel’ Launches January 30, 2026 [Trailer]",
+      "title": "Psychological Horror Title ‘The 9th Charnel’ Launches January 30, 2026 [Trailer]",
       "outlet": "Bloody Disgusting!",
       "url": "https://bloody-disgusting.com/video-games/3919298/psychological-horror-title-the-9th-charnel-launches-january-30-2026-trailer/",
       "published_at": "Mon, 01 Dec 2025 18:40:10 +0000",
@@ -5337,41 +5638,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "411b1a39591a"
-    },
-    {
-      "id": "78f7028e7479",
-      "title": "The Best Therabody and Theragun Cyber Monday Deals (2025)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/cyber-monday-therabody-deals-2025/",
-      "published_at": "Mon, 01 Dec 2025 18:39:44 +0000",
-      "bullets": [
-        "• Wellness brand Therabody's Cyber Monday deals are still live until December 6",
-        "• The most affordable Theragun is $110 for $110",
-        "• Most of these products are HSA/FSA eligible, too",
-        "• The best compression boots are on sale for $1,000 "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.71
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Wellness brand Therabody's Cyber Monday deals are still live until December 6",
-          "• The most affordable Theragun is $110 for $110"
-        ],
-        "hopeful_bullets": [
-          "• Wellness brand Therabody's Cyber Monday deals are still live until December 6",
-          "• The most affordable Theragun is $110 for $110"
-        ],
-        "stakes_bullets": [
-          "• Wellness brand Therabody's Cyber Monday deals are still live until December 6",
-          "• The most affordable Theragun is $110 for $110",
-          "• Most of these products are HSA/FSA eligible, too"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "5272ee347598"
     },
     {
       "id": "13ab4b354e7c",
@@ -5919,34 +6185,6 @@
       "cluster_id": "a68150a3d71b"
     },
     {
-      "id": "b5f72f3e1264",
-      "title": "‘Zombois’ – Pro Wrestler Sonya Deville, Thomas Dekker & More Starring in Zombie Comedy",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3919459/zombois-pro-wrestler-sonya-deville-thomas-dekker-more-starring-in-zombie-comedy/",
-      "published_at": "Mon, 01 Dec 2025 17:21:43 +0000",
-      "bullets": [
-        "• Daria Berenato (former WWE star Sonya Deville) will star alongside Tuc Watkins (The Mummy), Thomas Dekker (Heroes), Brenna D’Amico (Descendants), Adam Huss (Power) and Aaron Goldenberg in Zombois "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.968
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Daria Berenato (former WWE star Sonya Deville) will star alongside Tuc Watkins (The Mummy), Thomas Dekker (Heroes), Brenna D’Amico (Descendants), Adam Huss (Power) and Aaron Goldenberg in Zombois "
-        ],
-        "hopeful_bullets": [
-          "• Daria Berenato (former WWE star Sonya Deville) will star alongside Tuc Watkins (The Mummy), Thomas Dekker (Heroes), Brenna D’Amico (Descendants), Adam Huss (Power) and Aaron Goldenberg in Zombois "
-        ],
-        "stakes_bullets": [
-          "• Daria Berenato (former WWE star Sonya Deville) will star alongside Tuc Watkins (The Mummy), Thomas Dekker (Heroes), Brenna D’Amico (Descendants), Adam Huss (Power) and Aaron Goldenberg in Zombois "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8d9ef0155102"
-    },
-    {
       "id": "e471b9038f09",
       "title": "US-Russia talks may pile pressure on Kyiv to make concessions, says EU foreign policy chief",
       "outlet": "US news | The Guardian",
@@ -6048,41 +6286,6 @@
       "cluster_id": "930d8ddcdecd"
     },
     {
-      "id": "dbab8cf33d56",
-      "title": "Bitcoin, ether fall sharply as crypto sell-off resumes",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
-      "published_at": "Mon, 01 Dec 2025 16:55:32 GMT",
-      "bullets": [
-        "• Bitcoin and ether fell sharply on Monday, as the recent sell-off in cryptocurrencies resumed",
-        "• Bitcoin was last seen at about $84,305.26 at 11:25 a.m",
-        "• ET, a slide of nearly 8%",
-        "• Ether dropped around 10% to hit $2,732.22, while Solana had fallen about 10%, while other closely watched tokens also in the red "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Bitcoin and ether fell sharply on Monday, as the recent sell-off in cryptocurrencies resumed",
-          "• Bitcoin was last seen at about $84,305.26 at 11:25 a.m"
-        ],
-        "hopeful_bullets": [
-          "• Bitcoin and ether fell sharply on Monday, as the recent sell-off in cryptocurrencies resumed",
-          "• Bitcoin was last seen at about $84,305.26 at 11:25 a.m"
-        ],
-        "stakes_bullets": [
-          "• Bitcoin and ether fell sharply on Monday, as the recent sell-off in cryptocurrencies resumed",
-          "• Bitcoin was last seen at about $84,305.26 at 11:25 a.m",
-          "• ET, a slide of nearly 8%"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "335181bb308a"
-    },
-    {
       "id": "84a33b4c1f6d",
       "title": "Radiohead Postpone European Tour Dates Due to Thom Yorke’s Throat Infection",
       "outlet": "RSS: News",
@@ -6179,37 +6382,6 @@
       "cluster_id": "b9d3dff37557"
     },
     {
-      "id": "bef0c2cc2425",
-      "title": "I’m part of the triple-decker sandwich generation. You probably are as well",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/dec/01/sandwich-generation-trump-parent-caregivers",
-      "published_at": "Mon, 01 Dec 2025 16:28:16 GMT",
-      "bullets": [
-        "• A growing number of gen-Xers and millennials are now joining in – but in the Donald Trump 2.0 era, it feels more like a triple-decker sandwich generation",
-        "• Childcare, eldercare and a new layer of bread are added to the 'sandwich generation'"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.979
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A growing number of gen-Xers and millennials are now joining in – but in the Donald Trump 2.0 era, it feels more like a triple-decker sandwich generation",
-          "• Childcare, eldercare and a new layer of bread are added to the 'sandwich generation'"
-        ],
-        "hopeful_bullets": [
-          "• A growing number of gen-Xers and millennials are now joining in – but in the Donald Trump 2.0 era, it feels more like a triple-decker sandwich generation"
-        ],
-        "stakes_bullets": [
-          "• A growing number of gen-Xers and millennials are now joining in – but in the Donald Trump 2.0 era, it feels more like a triple-decker sandwich generation",
-          "• Childcare, eldercare and a new layer of bread are added to the 'sandwich generation'"
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "0bab10a6148b"
-    },
-    {
       "id": "187e32f44579",
       "title": "Texas Rep. Gary VanDeaver, a private school voucher holdout, won’t seek reelection",
       "outlet": "The Texas Tribune",
@@ -6241,69 +6413,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "a8b2f453e2d5"
-    },
-    {
-      "id": "65523e0009cb",
-      "title": "MP Tulip Siddiq says Bangladesh jail term is 'unfair'",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj38xm5nmd7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 01 Dec 2025 16:02:05 GMT",
-      "bullets": [
-        "• Tulip Siddiq says Bangladesh jail term is 'deeply unfair' after being convicted on corruption charges",
-        "• She was found guilty of influencing her aunt to secure a plot of land for her family",
-        "• Siddiq, who is based in London and has rejected the charges, is unlikely to serve the jail term "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tulip Siddiq says Bangladesh jail term is 'deeply unfair' after being convicted on corruption charges",
-          "• She was found guilty of influencing her aunt to secure a plot of land for her family"
-        ],
-        "hopeful_bullets": [
-          "• Tulip Siddiq says Bangladesh jail term is 'deeply unfair' after being convicted on corruption charges",
-          "• She was found guilty of influencing her aunt to secure a plot of land for her family"
-        ],
-        "stakes_bullets": [
-          "• Tulip Siddiq says Bangladesh jail term is 'deeply unfair' after being convicted on corruption charges"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "e626017137ab"
-    },
-    {
-      "id": "2f704ed832c0",
-      "title": "Luigi Mangione appears in court as lawyers ask judge to toss evidence",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/01/luigi-mangione-new-york-evidence-hearing",
-      "published_at": "Mon, 01 Dec 2025 15:54:21 GMT",
-      "bullets": [
-        "• Luigi Mangione appeared in Manhattan state court on Monday for the first day of a potentially weeklong proceeding to weigh the legality of evidence gathered during his arrest at a McDonald’s restaurant",
-        "• Mangione was apprehended last December in the murder of senior United HealthCare figure Brian Thompson",
-        "• He has pleaded not guilty to all charges against him "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Luigi Mangione appeared in Manhattan state court on Monday for the first day of a potentially weeklong proceeding to weigh the legality of evidence gathered during his arrest at a McDonald’s restaurant",
-          "• Mangione was apprehended last December in the murder of senior United HealthCare figure Brian Thompson"
-        ],
-        "hopeful_bullets": [
-          "• He has pleaded not guilty to all charges against him "
-        ],
-        "stakes_bullets": [
-          "• He has pleaded not guilty to all charges against him "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "9e770618867c"
     },
     {
       "id": "9147d597bc2a",
@@ -6372,102 +6481,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "6f24efe5dd12"
-    },
-    {
-      "id": "93f5038c30ca",
-      "title": "Radiohead Postpone Concerts While Thom Yorke Battles ‘Extreme Throat Infection’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/radiohead-postpones-shows-thom-yorke-throat-infection-1235474848/",
-      "published_at": "Mon, 01 Dec 2025 15:26:50 +0000",
-      "bullets": [
-        "• Radiohead has rescheduled two nights of their four-date run at the Royal Arena in Copenhagen",
-        "• Thom Yorke has been diagnosed with “an extreme throat infection which has made it impossible for him to sing” The band is hopeful he will recover in time to play the final two Copenhagen shows on Dec 4th and 5th "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.748
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Radiohead has rescheduled two nights of their four-date run at the Royal Arena in Copenhagen",
-          "• Thom Yorke has been diagnosed with “an extreme throat infection which has made it impossible for him to sing” The band is hopeful he will recover in time to play the final two Copenhagen shows on Dec 4th and 5th "
-        ],
-        "hopeful_bullets": [
-          "• Thom Yorke has been diagnosed with “an extreme throat infection which has made it impossible for him to sing” The band is hopeful he will recover in time to play the final two Copenhagen shows on Dec 4th and 5th "
-        ],
-        "stakes_bullets": [
-          "• Thom Yorke has been diagnosed with “an extreme throat infection which has made it impossible for him to sing” The band is hopeful he will recover in time to play the final two Copenhagen shows on Dec 4th and 5th "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "191c1cd81792"
-    },
-    {
-      "id": "120a09de74d7",
-      "title": "Sean Combs Seeks Help Days Before Arrest in New Doc Teaser: ‘We’re Losing!’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/sean-combs-documentary-teaser-footage-arrest-1235474858/",
-      "published_at": "Mon, 01 Dec 2025 15:22:45 +0000",
-      "bullets": [
-        "• Sean Combs: The Reckoning is a new docusery on Sean \"Diddy\" Combs",
-        "• In the opening clip, the hip-hop mogul says, \"We're losing!” Six days later, Combs was arrested and charged with sex trafficking, racketeering, and prostitution "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sean Combs: The Reckoning is a new docusery on Sean \"Diddy\" Combs",
-          "• In the opening clip, the hip-hop mogul says, \"We're losing!” Six days later, Combs was arrested and charged with sex trafficking, racketeering, and prostitution "
-        ],
-        "hopeful_bullets": [
-          "• Sean Combs: The Reckoning is a new docusery on Sean \"Diddy\" Combs",
-          "• In the opening clip, the hip-hop mogul says, \"We're losing!” Six days later, Combs was arrested and charged with sex trafficking, racketeering, and prostitution "
-        ],
-        "stakes_bullets": [
-          "• Sean Combs: The Reckoning is a new docusery on Sean \"Diddy\" Combs",
-          "• In the opening clip, the hip-hop mogul says, \"We're losing!” Six days later, Combs was arrested and charged with sex trafficking, racketeering, and prostitution "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "646021fae217"
-    },
-    {
-      "id": "89fd9474cf5b",
-      "title": "Nvidia takes $2 billion stake in Synopsys with expanded computing power partnership",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/01/nvidia-takes-2-billion-stake-in-synopsys.html",
-      "published_at": "Mon, 01 Dec 2025 15:13:09 GMT",
-      "bullets": [
-        "• Nvidia buys $2 billion of Synopsys' stock as part of a strategic partnership",
-        "• The multiyear partnership will accelerate computing and AI engineering solutions",
-        "• Nvidia has been one of the biggest beneficiaries of the AI boom because it makes the graphics processing units that are key to building and training AI models "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nvidia buys $2 billion of Synopsys' stock as part of a strategic partnership",
-          "• The multiyear partnership will accelerate computing and AI engineering solutions"
-        ],
-        "hopeful_bullets": [
-          "• Nvidia buys $2 billion of Synopsys' stock as part of a strategic partnership",
-          "• The multiyear partnership will accelerate computing and AI engineering solutions"
-        ],
-        "stakes_bullets": [
-          "• Nvidia buys $2 billion of Synopsys' stock as part of a strategic partnership",
-          "• The multiyear partnership will accelerate computing and AI engineering solutions",
-          "• Nvidia has been one of the biggest beneficiaries of the AI boom because it makes the graphics processing units that are key to building and training AI models "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "cdd30dbc7c85"
     },
     {
       "id": "2f80d50570a4",
@@ -8483,6 +8496,72 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "12865adae529",
+      "title": "The still-great AirPods Pro 2 are $85 cheaper than the latest model for Cyber Monday",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/gadgets/835202/cyber-monday-airpods-pro-2-woot-deal-sale-2025",
+      "published_at": "2025-12-01T16:13:03-05:00",
+      "bullets": [
+        "• Woot is selling the last-gen AirPods Pro 2 with a USB-C wireless charging case at a really good price for Cyber Monday",
+        "• They’re $134.99, the lowest price yet, and some AirPod-needy iPhone users should definitely consider this model "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Woot is selling the last-gen AirPods Pro 2 with a USB-C wireless charging case at a really good price for Cyber Monday",
+          "• They’re $134.99, the lowest price yet, and some AirPod-needy iPhone users should definitely consider this model "
+        ],
+        "hopeful_bullets": [
+          "• Woot is selling the last-gen AirPods Pro 2 with a USB-C wireless charging case at a really good price for Cyber Monday",
+          "• They’re $134.99, the lowest price yet, and some AirPod-needy iPhone users should definitely consider this model "
+        ],
+        "stakes_bullets": [
+          "• Woot is selling the last-gen AirPods Pro 2 with a USB-C wireless charging case at a really good price for Cyber Monday",
+          "• They’re $134.99, the lowest price yet, and some AirPod-needy iPhone users should definitely consider this model "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "35f2e2445105"
+    },
+    {
+      "id": "d32a662fc6b9",
+      "title": "You can double your Switch 2’s storage with Samsung’s $40 microSD Express card",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/gadgets/835100/samsung-switch-2-microsd-express-cyber-monday-deal-sale",
+      "published_at": "2025-12-01T15:32:00-05:00",
+      "bullets": [
+        "• A Samsung 256GB microSD Express card is 35 percent off at Amazon, Best Buy, GameStop, and Walmart",
+        "• Most 256GB cards are slightly more expensive than Samsung’s discounted option",
+        "• The Nintendo Switch 2 itself has 256GB of storage, which is enough for a relatively wide range of games "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Samsung 256GB microSD Express card is 35 percent off at Amazon, Best Buy, GameStop, and Walmart",
+          "• Most 256GB cards are slightly more expensive than Samsung’s discounted option"
+        ],
+        "hopeful_bullets": [
+          "• A Samsung 256GB microSD Express card is 35 percent off at Amazon, Best Buy, GameStop, and Walmart",
+          "• Most 256GB cards are slightly more expensive than Samsung’s discounted option"
+        ],
+        "stakes_bullets": [
+          "• A Samsung 256GB microSD Express card is 35 percent off at Amazon, Best Buy, GameStop, and Walmart",
+          "• Most 256GB cards are slightly more expensive than Samsung’s discounted option",
+          "• The Nintendo Switch 2 itself has 256GB of storage, which is enough for a relatively wide range of games "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0efb75b6431b"
+    },
+    {
       "id": "da2e05ca4fe0",
       "title": "This $5 Kindle page-turning remote is all I’m buying for Cyber Monday",
       "outlet": "The Verge",
@@ -8622,12 +8701,12 @@
       "bullets": [
         "• The Nintendo Switch 2 is the long-awaited follow-up to the popular original Switch",
         "• It has a 7.9-inch LCD screen, and includes a pair of magnetically attached Joy-Con controllers",
-        "• It can play most original Nintendo Switch games, including Donkey Kong Bananza and Kirby Air Riders "
+        "• Nintendo’s limited-time bundle already saves you $30 compared to buying the console and game separately "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.547
+        "label": "negative",
+        "score": 0.99
       },
       "moods": {
         "brief_bullets": [
@@ -8639,7 +8718,9 @@
           "• It has a 7.9-inch LCD screen, and includes a pair of magnetically attached Joy-Con controllers"
         ],
         "stakes_bullets": [
-          "• It can play most original Nintendo Switch games, including Donkey Kong Bananza and Kirby Air Riders "
+          "• The Nintendo Switch 2 is the long-awaited follow-up to the popular original Switch",
+          "• It has a 7.9-inch LCD screen, and includes a pair of magnetically attached Joy-Con controllers",
+          "• Nintendo’s limited-time bundle already saves you $30 compared to buying the console and game separately "
         ]
       },
       "read_minutes": 2,
@@ -8743,74 +8824,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "f9c62c04cf6f"
-    },
-    {
-      "id": "94ec5a5c19c1",
-      "title": "The ping pong movie is very stressful",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/entertainment/828746/marty-supreme-movie-review",
-      "published_at": "2025-12-01T11:59:00-05:00",
-      "bullets": [
-        "• The new film is based on the story of a New York City man who is obsessed with ping pong",
-        "• The movie is very stressful, but it's also very funny to watch",
-        "• The film is set to be released in New York on Friday, July 28 "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The new film is based on the story of a New York City man who is obsessed with ping pong",
-          "• The movie is very stressful, but it's also very funny to watch"
-        ],
-        "hopeful_bullets": [
-          "• The new film is based on the story of a New York City man who is obsessed with ping pong",
-          "• The movie is very stressful, but it's also very funny to watch"
-        ],
-        "stakes_bullets": [
-          "• The new film is based on the story of a New York City man who is obsessed with ping pong",
-          "• The movie is very stressful, but it's also very funny to watch",
-          "• The film is set to be released in New York on Friday, July 28 "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "2fe137d980e6"
-    },
-    {
-      "id": "245848d24115",
-      "title": "Get a fantastic 55-inch OLED in your home for $900 on Cyber Monday",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/gadgets/834390/lg-b5-oled-tv-cyber-monday-deal-sale-2025",
-      "published_at": "2025-12-01T11:55:00-05:00",
-      "bullets": [
-        "• The LG B5 is one of the best deals I’ve seen during Cyber Monday",
-        "• You can get it for $896.99 at Amazon and $899.99 for a 55-inch OLED TV",
-        "• It's cheaper than many of the top-rated OLED TVs you can buy "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The LG B5 is one of the best deals I’ve seen during Cyber Monday",
-          "• You can get it for $896.99 at Amazon and $899.99 for a 55-inch OLED TV"
-        ],
-        "hopeful_bullets": [
-          "• The LG B5 is one of the best deals I’ve seen during Cyber Monday",
-          "• You can get it for $896.99 at Amazon and $899.99 for a 55-inch OLED TV"
-        ],
-        "stakes_bullets": [
-          "• The LG B5 is one of the best deals I’ve seen during Cyber Monday",
-          "• You can get it for $896.99 at Amazon and $899.99 for a 55-inch OLED TV",
-          "• It's cheaper than many of the top-rated OLED TVs you can buy "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "229402157346"
     },
     {
       "id": "c41ff758b36a",
@@ -9429,18 +9442,18 @@
       ]
     },
     {
-      "id": "e626017137ab",
-      "topic": "bangladesh jail siddiq term",
+      "id": "59a4a14535ac",
+      "topic": "african among charged five",
       "keywords": [
-        "bangladesh",
-        "jail",
-        "siddiq",
-        "term",
-        "tulip",
-        "unfair"
+        "african",
+        "among",
+        "charged",
+        "five",
+        "radio",
+        "south"
       ],
       "item_ids": [
-        "65523e0009cb"
+        "f2200046db00"
       ],
       "outlets": [
         "BBC News"
@@ -9627,6 +9640,42 @@
       ]
     },
     {
+      "id": "1ee1a9d5a4e1",
+      "topic": "constant luigi mangione prison",
+      "keywords": [
+        "constant",
+        "luigi",
+        "mangione",
+        "prison",
+        "under",
+        "watch"
+      ],
+      "item_ids": [
+        "2f704ed832c0"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "92c23d0bc74d",
+      "topic": "child down oppose republican",
+      "keywords": [
+        "child",
+        "down",
+        "oppose",
+        "republican",
+        "syndrome",
+        "whose"
+      ],
+      "item_ids": [
+        "1c840238ea3c"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "18ed1b53123e",
       "topic": "california child detail plead",
       "keywords": [
@@ -9711,42 +9760,6 @@
       ],
       "item_ids": [
         "f636a85ccc22"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "0bab10a6148b",
-      "topic": "decker generation part probably",
-      "keywords": [
-        "decker",
-        "generation",
-        "part",
-        "probably",
-        "sandwich",
-        "triple"
-      ],
-      "item_ids": [
-        "bef0c2cc2425"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "9e770618867c",
-      "topic": "appear ask court lawyer",
-      "keywords": [
-        "appear",
-        "ask",
-        "court",
-        "lawyer",
-        "luigi",
-        "mangione"
-      ],
-      "item_ids": [
-        "2f704ed832c0"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9969,15 +9982,14 @@
       ]
     },
     {
-      "id": "335181bb308a",
-      "topic": "bitcoin crypto ether fall",
+      "id": "1ab300c43f31",
+      "topic": "bitcoin day march since",
       "keywords": [
         "bitcoin",
-        "crypto",
-        "ether",
-        "fall",
-        "sell",
-        "sharply"
+        "day",
+        "march",
+        "since",
+        "worst"
       ],
       "item_ids": [
         "dbab8cf33d56"
@@ -10131,6 +10143,42 @@
       ]
     },
     {
+      "id": "d3c7489ca35d",
+      "topic": "cast let netflix phone",
+      "keywords": [
+        "cast",
+        "let",
+        "netflix",
+        "phone",
+        "show",
+        "won"
+      ],
+      "item_ids": [
+        "cb513b17b39d"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "2b2bda0ab35f",
+      "topic": "all dropped laptop low",
+      "keywords": [
+        "all",
+        "dropped",
+        "laptop",
+        "low",
+        "surface",
+        "time"
+      ],
+      "item_ids": [
+        "a2070fcbaf18"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "faddd54a2148",
       "topic": "best cyber deal monday",
       "keywords": [
@@ -10274,39 +10322,39 @@
       ]
     },
     {
-      "id": "99670234ca70",
-      "topic": "bedding best cyber deal",
+      "id": "35f2e2445105",
+      "topic": "airpod cheaper great model",
       "keywords": [
-        "bedding",
-        "best",
-        "cyber",
-        "deal",
-        "mattres",
-        "monday"
+        "airpod",
+        "cheaper",
+        "great",
+        "model",
+        "pro",
+        "still"
       ],
       "item_ids": [
-        "79ea3e0480c4"
+        "12865adae529"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
-      "id": "5272ee347598",
-      "topic": "best cyber deal monday",
+      "id": "0efb75b6431b",
+      "topic": "double expres microsd samsung",
       "keywords": [
-        "best",
-        "cyber",
-        "deal",
-        "monday",
-        "therabody",
-        "theragun"
+        "double",
+        "expres",
+        "microsd",
+        "samsung",
+        "storage",
+        "switch"
       ],
       "item_ids": [
-        "78f7028e7479"
+        "d32a662fc6b9"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -10447,41 +10495,6 @@
       ],
       "item_ids": [
         "b81bf8d9ad5f"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "2fe137d980e6",
-      "topic": "movie ping pong stressful",
-      "keywords": [
-        "movie",
-        "ping",
-        "pong",
-        "stressful",
-        "very"
-      ],
-      "item_ids": [
-        "94ec5a5c19c1"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "229402157346",
-      "topic": "900 fantastic get home",
-      "keywords": [
-        "900",
-        "fantastic",
-        "get",
-        "home",
-        "inch",
-        "oled"
-      ],
-      "item_ids": [
-        "245848d24115"
       ],
       "outlets": [
         "The Verge"
@@ -10954,24 +10967,6 @@
       ]
     },
     {
-      "id": "57c1f5751537",
-      "topic": "food lot place produce",
-      "keywords": [
-        "food",
-        "lot",
-        "place",
-        "produce",
-        "want",
-        "waste"
-      ],
-      "item_ids": [
-        "02062fa3096c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "954bdce0a552",
       "topic": "onto table thanksgiving trotted",
       "keywords": [
@@ -10984,6 +10979,24 @@
       ],
       "item_ids": [
         "35863ee4867f"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "57c1f5751537",
+      "topic": "food lot place produce",
+      "keywords": [
+        "food",
+        "lot",
+        "place",
+        "produce",
+        "want",
+        "waste"
+      ],
+      "item_ids": [
+        "02062fa3096c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11838,6 +11851,24 @@
       ]
     },
     {
+      "id": "ece88a5c27ff",
+      "topic": "god jordan peele portrait",
+      "keywords": [
+        "god",
+        "jordan",
+        "peele",
+        "portrait",
+        "raimi",
+        "sam"
+      ],
+      "item_ids": [
+        "adf79f7f7524"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "76fcf839ea72",
       "topic": "chicken dawn dead poultrygeist",
       "keywords": [
@@ -11994,24 +12025,6 @@
       ],
       "item_ids": [
         "ba84985365fa"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "8d9ef0155102",
-      "topic": "deville pro sonya thoma",
-      "keywords": [
-        "deville",
-        "pro",
-        "sonya",
-        "thoma",
-        "wrestler",
-        "zomboi"
-      ],
-      "item_ids": [
-        "b5f72f3e1264"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -12537,6 +12550,41 @@
       ]
     },
     {
+      "id": "edaee8f3c573",
+      "topic": "film found holiday horror",
+      "keywords": [
+        "film",
+        "found",
+        "holiday",
+        "horror",
+        "top",
+        "winter"
+      ],
+      "item_ids": [
+        "664400e3b4b3"
+      ],
+      "outlets": [
+        "HorrorFix"
+      ]
+    },
+    {
+      "id": "a90c8852a51e",
+      "topic": "alert hits release sway",
+      "keywords": [
+        "alert",
+        "hits",
+        "release",
+        "sway",
+        "tomorrow"
+      ],
+      "item_ids": [
+        "79270e2c7307"
+      ],
+      "outlets": [
+        "HorrorFix"
+      ]
+    },
+    {
       "id": "e35079ec59ae",
       "topic": "damned davison joe screaming",
       "keywords": [
@@ -12656,42 +12704,6 @@
       ],
       "item_ids": [
         "f8ca04433246"
-      ],
-      "outlets": [
-        "HorrorFix"
-      ]
-    },
-    {
-      "id": "d26a3bf750aa",
-      "topic": "available chao game horror",
-      "keywords": [
-        "available",
-        "chao",
-        "game",
-        "horror",
-        "psychological",
-        "total"
-      ],
-      "item_ids": [
-        "0526e67960da"
-      ],
-      "outlets": [
-        "HorrorFix"
-      ]
-    },
-    {
-      "id": "762c27016710",
-      "topic": "case coming missed november",
-      "keywords": [
-        "case",
-        "coming",
-        "missed",
-        "november",
-        "request",
-        "rufu"
-      ],
-      "item_ids": [
-        "e4206df3c9c7"
       ],
       "outlets": [
         "HorrorFix"
@@ -13371,6 +13383,60 @@
       ]
     },
     {
+      "id": "d266635aceca",
+      "topic": "fidelity high hulu kravitz",
+      "keywords": [
+        "fidelity",
+        "high",
+        "hulu",
+        "kravitz",
+        "serie",
+        "zoe"
+      ],
+      "item_ids": [
+        "4b5ea20153ef"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "dd1d86a99712",
+      "topic": "2025 anime fan favorite",
+      "keywords": [
+        "2025",
+        "anime",
+        "fan",
+        "favorite",
+        "officially",
+        "supernatural"
+      ],
+      "item_ids": [
+        "7193ca81686a"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "fb9ff47f7312",
+      "topic": "debut fantastic marty rotten",
+      "keywords": [
+        "debut",
+        "fantastic",
+        "marty",
+        "rotten",
+        "supreme",
+        "tomatoe"
+      ],
+      "item_ids": [
+        "27a4afec8754"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "1278a4f8d279",
       "topic": "best finale funniest park",
       "keywords": [
@@ -13488,60 +13554,6 @@
       ],
       "item_ids": [
         "2f7ae5e922c3"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "99190d56448c",
-      "topic": "finally gundam mecha most",
-      "keywords": [
-        "finally",
-        "gundam",
-        "mecha",
-        "most",
-        "seed",
-        "underrated"
-      ],
-      "item_ids": [
-        "9dcd5dc6ac39"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "c1d20bf4b207",
-      "topic": "action live movie sonic",
-      "keywords": [
-        "action",
-        "live",
-        "movie",
-        "sonic",
-        "spinoff",
-        "tmnt"
-      ],
-      "item_ids": [
-        "63e359f1b530"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "688864384752",
-      "topic": "anime available best episode",
-      "keywords": [
-        "anime",
-        "available",
-        "best",
-        "episode",
-        "every",
-        "franchise"
-      ],
-      "item_ids": [
-        "bb6a27bc70f9"
       ],
       "outlets": [
         "CBR"
@@ -13726,6 +13738,42 @@
       ]
     },
     {
+      "id": "699b56788700",
+      "topic": "caught don ecstasy support",
+      "keywords": [
+        "caught",
+        "don",
+        "ecstasy",
+        "support",
+        "tiktok",
+        "wiggle"
+      ],
+      "item_ids": [
+        "2dc09c722b81"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
+      "id": "67dc62b79cbb",
+      "topic": "2026 announce body fka",
+      "keywords": [
+        "2026",
+        "announce",
+        "body",
+        "fka",
+        "high",
+        "twig"
+      ],
+      "item_ids": [
+        "f7358be93583"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "f8b227b70133",
       "topic": "claim comb netflix never",
       "keywords": [
@@ -13864,42 +13912,6 @@
       ],
       "item_ids": [
         "27ca555c4ad9"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "191c1cd81792",
-      "topic": "concert postpone radiohead thom",
-      "keywords": [
-        "concert",
-        "postpone",
-        "radiohead",
-        "thom",
-        "while",
-        "yorke"
-      ],
-      "item_ids": [
-        "93f5038c30ca"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "646021fae217",
-      "topic": "before comb days help",
-      "keywords": [
-        "before",
-        "comb",
-        "days",
-        "help",
-        "sean",
-        "seek"
-      ],
-      "item_ids": [
-        "120a09de74d7"
       ],
       "outlets": [
         "Music News"
