@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-02T11:07:30Z",
+  "generated_at": "2025-12-02T11:50:45Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -296,74 +296,6 @@
       "cluster_id": "83a3c28dff7f"
     },
     {
-      "id": "b6d8b32adae3",
-      "title": "Texas hoped $100 million would help more families pay for child care. Here’s why it didn’t.",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17217259/texas-child-care-scholarship-waitlist-grows",
-      "published_at": "Wed, 26 Nov 2025 11:00:00 +0000",
-      "bullets": [
-        "• Texas made a major investment in its child care scholarship fund earlier this year",
-        "• The money meant to provide more scholarships is covering higher tuition costs",
-        "• About 150,000 families received a scholarship last year",
-        "• The wait list before the 2025 legislative session was just shy of 95,000 "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Texas made a major investment in its child care scholarship fund earlier this year",
-          "• The money meant to provide more scholarships is covering higher tuition costs"
-        ],
-        "hopeful_bullets": [
-          "• Texas made a major investment in its child care scholarship fund earlier this year",
-          "• The money meant to provide more scholarships is covering higher tuition costs"
-        ],
-        "stakes_bullets": [
-          "• The money meant to provide more scholarships is covering higher tuition costs"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "629b140a0c41"
-    },
-    {
-      "id": "eda34d5333ef",
-      "title": "A slate of new Texas laws go into effect December and January. Here’s what to watch.",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17217261/texas-laws-effective-december-january",
-      "published_at": "Wed, 26 Nov 2025 11:00:00 +0000",
-      "bullets": [
-        "• Over 800 laws from this year’s regular legislative session already took effect on Sept",
-        "• 1",
-        "• Some also had to wait for voters’ approval, such as more tax exemption for businesses’ inventory",
-        "• The legislation behind the Texas GOP's push to redraw the congressional map and get five more seats for President Donald Trump is supposed to take effect on Dec",
-        "• 4 "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Over 800 laws from this year’s regular legislative session already took effect on Sept",
-          "• 1"
-        ],
-        "hopeful_bullets": [
-          "• Over 800 laws from this year’s regular legislative session already took effect on Sept",
-          "• 1"
-        ],
-        "stakes_bullets": [
-          "• Over 800 laws from this year’s regular legislative session already took effect on Sept",
-          "• The legislation behind the Texas GOP's push to redraw the congressional map and get five more seats for President Donald Trump is supposed to take effect on Dec"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "bf1411469d2e"
-    },
-    {
       "id": "29223d8775ba",
       "title": "The old instruments bringing new opportunities to young lives",
       "outlet": "Positive News",
@@ -431,38 +363,6 @@
       "cluster_id": "16cb7c690846"
     },
     {
-      "id": "35863ee4867f",
-      "title": "How the turkey trotted its way onto our Thanksgiving tables — and into our lexicon",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/26/nx-s1-5612661/turkey-word-origin-thanksgiving",
-      "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• The turkey was first brought across the Atlantic to Europe in 17th century",
-        "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving",
-        "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The turkey was first brought across the Atlantic to Europe in 17th century",
-          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
-        ],
-        "hopeful_bullets": [
-          "• The turkey was first brought across the Atlantic to Europe in 17th century",
-          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
-        ],
-        "stakes_bullets": [
-          "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "954bdce0a552"
-    },
-    {
       "id": "02062fa3096c",
       "title": "The U.S. produces a lot of food waste. This place wants to address it",
       "outlet": "NPR Topics: Science",
@@ -494,6 +394,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "57c1f5751537"
+    },
+    {
+      "id": "35863ee4867f",
+      "title": "How the turkey trotted its way onto our Thanksgiving tables — and into our lexicon",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/26/nx-s1-5612661/turkey-word-origin-thanksgiving",
+      "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• The turkey was first brought across the Atlantic to Europe in 17th century",
+        "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving",
+        "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The turkey was first brought across the Atlantic to Europe in 17th century",
+          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
+        ],
+        "hopeful_bullets": [
+          "• The turkey was first brought across the Atlantic to Europe in 17th century",
+          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
+        ],
+        "stakes_bullets": [
+          "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "954bdce0a552"
     },
     {
       "id": "f7990419e35e",
@@ -826,40 +758,6 @@
       "cluster_id": "6cc9daf95221"
     },
     {
-      "id": "4ca1646daa4d",
-      "title": "In school voucher rules, Texas lets families get more for pre-K but rejects additional reporting requirements",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17216999/texas-school-vouchers-education-savings-accounts-final-rules",
-      "published_at": "Tue, 25 Nov 2025 23:56:01 +0000",
-      "bullets": [
-        "• New rules for Texas pre-school program set to open on Dec",
-        "• 9",
-        "• Families will receive about $10,300 a year in state funds for each student participating",
-        "• Home-schoolers are eligible for $2,000, while students with disabilities could receive up to $30,000 "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.967
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New rules for Texas pre-school program set to open on Dec",
-          "• 9"
-        ],
-        "hopeful_bullets": [
-          "• New rules for Texas pre-school program set to open on Dec",
-          "• 9"
-        ],
-        "stakes_bullets": [
-          "• Families will receive about $10,300 a year in state funds for each student participating",
-          "• Home-schoolers are eligible for $2,000, while students with disabilities could receive up to $30,000 "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8b00341fe9d4"
-    },
-    {
       "id": "d9c9d80712fc",
       "title": "Horror Highlights: PIG HILL, THE THING, NEON ICHIBAN, DOWN RIVER",
       "outlet": "Daily Dead",
@@ -1161,46 +1059,273 @@
       "cluster_id": "e8ac82f303b1"
     },
     {
+      "id": "1f2455c67c66",
+      "title": "Your iPhone Already Has iPhone Fold Software, but Apple Won’t Let You Use It",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/your-iphone-already-has-iphone-fold-software-but-apple-wont-let-you-use-it/",
+      "published_at": "Tue, 02 Dec 2025 11:15:00 +0000",
+      "bullets": [
+        "• Hackers have hacked Apple's iOS 26 operating system into thinking it's running on an iPad",
+        "• The hack allows you to run desktop apps that aren't available for iPhs",
+        "• Apple has insisted iOS and iPadOS are distinct, despite sharing code and borrowing each other's features "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hackers have hacked Apple's iOS 26 operating system into thinking it's running on an iPad",
+          "• The hack allows you to run desktop apps that aren't available for iPhs"
+        ],
+        "hopeful_bullets": [
+          "• Apple has insisted iOS and iPadOS are distinct, despite sharing code and borrowing each other's features "
+        ],
+        "stakes_bullets": [
+          "• Hackers have hacked Apple's iOS 26 operating system into thinking it's running on an iPad",
+          "• The hack allows you to run desktop apps that aren't available for iPhs",
+          "• Apple has insisted iOS and iPadOS are distinct, despite sharing code and borrowing each other's features "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "21dc6d79e063"
+    },
+    {
       "id": "f2c71527a761",
       "title": "White House distances Hegseth from second strike on alleged drug boat – US politics live",
       "outlet": "World news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/dec/02/donald-trump-pete-hegseth-boat-venezuela-maduro-tennessee-us-politics-live-news-updates",
-      "published_at": "Tue, 02 Dec 2025 10:23:58 GMT",
+      "published_at": "Tue, 02 Dec 2025 11:13:17 GMT",
       "bullets": [
         "• White House distances defense secretary from second strike on alleged drug boat",
-        "• Donald Trump said his administration ‘will look into’ the reports of the second strike",
-        "• But the president was quoted as having said: “I wouldn’t have wanted that – not a second strike’"
+        "• White House press secretary Karoline Leavitt said that Hegseth authorised the strikes but did not give an order to ‘kill everybody’ US Navy vice admiral Frank Bradley will provide a classified briefing to lawmakers on Thursday "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.979
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
           "• White House distances defense secretary from second strike on alleged drug boat",
-          "• Donald Trump said his administration ‘will look into’ the reports of the second strike"
+          "• White House press secretary Karoline Leavitt said that Hegseth authorised the strikes but did not give an order to ‘kill everybody’ US Navy vice admiral Frank Bradley will provide a classified briefing to lawmakers on Thursday "
         ],
         "hopeful_bullets": [
           "• White House distances defense secretary from second strike on alleged drug boat",
-          "• Donald Trump said his administration ‘will look into’ the reports of the second strike"
+          "• White House press secretary Karoline Leavitt said that Hegseth authorised the strikes but did not give an order to ‘kill everybody’ US Navy vice admiral Frank Bradley will provide a classified briefing to lawmakers on Thursday "
         ],
         "stakes_bullets": [
-          "• Donald Trump said his administration ‘will look into’ the reports of the second strike"
+          "• White House press secretary Karoline Leavitt said that Hegseth authorised the strikes but did not give an order to ‘kill everybody’ US Navy vice admiral Frank Bradley will provide a classified briefing to lawmakers on Thursday "
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 6,
       "cluster_id": "96c51e0f504d"
     },
     {
+      "id": "7cc414c8b9dc",
+      "title": "‘We’re not going anywhere’: how unionization ‘whirlwind’ set stage for historic Starbucks strike",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/02/starbucks-union-strike",
+      "published_at": "Tue, 02 Dec 2025 11:00:51 GMT",
+      "bullets": [
+        "• About 2,500 workers are striking across 85 cities and 120 stores in the US",
+        "• Starbucks claims less than 1% of its coffee houses have experienced disruption due to the industrial action",
+        "• Union representing 11,000 baristas at more than 550 stores is threatening to escalate the strike "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• About 2,500 workers are striking across 85 cities and 120 stores in the US",
+          "• Starbucks claims less than 1% of its coffee houses have experienced disruption due to the industrial action"
+        ],
+        "hopeful_bullets": [
+          "• About 2,500 workers are striking across 85 cities and 120 stores in the US",
+          "• Starbucks claims less than 1% of its coffee houses have experienced disruption due to the industrial action"
+        ],
+        "stakes_bullets": [
+          "• About 2,500 workers are striking across 85 cities and 120 stores in the US",
+          "• Starbucks claims less than 1% of its coffee houses have experienced disruption due to the industrial action",
+          "• Union representing 11,000 baristas at more than 550 stores is threatening to escalate the strike "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "87ac767a2b65"
+    },
+    {
+      "id": "0607f5f7d041",
+      "title": "DOGE Isn’t Dead. Here’s What Its Operatives Are Doing Now",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/what-is-doge-doing-now/",
+      "published_at": "Tue, 02 Dec 2025 11:00:00 +0000",
+      "bullets": [
+        "• Yat Choi, a member of Elon Musk's Department of Government Efficiency, posted photos and videos to Instagram last month",
+        "• Choi described the last few months as “crazy” and said he was returning to the underground mine where federal retirement claims are processed",
+        "• Many of the original DOGE technologists whose identities were first reported by WIRED appear to still be enmeshed in federal agencies "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.897
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Yat Choi, a member of Elon Musk's Department of Government Efficiency, posted photos and videos to Instagram last month",
+          "• Choi described the last few months as “crazy” and said he was returning to the underground mine where federal retirement claims are processed"
+        ],
+        "hopeful_bullets": [
+          "• Yat Choi, a member of Elon Musk's Department of Government Efficiency, posted photos and videos to Instagram last month",
+          "• Choi described the last few months as “crazy” and said he was returning to the underground mine where federal retirement claims are processed"
+        ],
+        "stakes_bullets": [
+          "• Yat Choi, a member of Elon Musk's Department of Government Efficiency, posted photos and videos to Instagram last month",
+          "• Choi described the last few months as “crazy” and said he was returning to the underground mine where federal retirement claims are processed",
+          "• Many of the original DOGE technologists whose identities were first reported by WIRED appear to still be enmeshed in federal agencies "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "cc932e69b985"
+    },
+    {
+      "id": "a3b68a71bcd8",
+      "title": "In Houston, young mothers face some of the highest barriers for college and work in the U.S.",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17220666/texas-houston-employment-young-mothers-disconnection-jobs-college",
+      "published_at": "Tue, 02 Dec 2025 11:00:00 +0000",
+      "bullets": [
+        "• Jaqueline Hernandez works part time scanning tickets at an arena stadium and venues around the city",
+        "• The 22-year-old mom knows a stable income could be transformative for her family",
+        "• The few subsidized child care spots and flexible, high-wage jobs that would help her balance parenting all feel out of reach "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.964
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jaqueline Hernandez works part time scanning tickets at an arena stadium and venues around the city",
+          "• The 22-year-old mom knows a stable income could be transformative for her family"
+        ],
+        "hopeful_bullets": [
+          "• The few subsidized child care spots and flexible, high-wage jobs that would help her balance parenting all feel out of reach "
+        ],
+        "stakes_bullets": [
+          "• The 22-year-old mom knows a stable income could be transformative for her family"
+        ]
+      },
+      "read_minutes": 13,
+      "cluster_id": "82aec09ad9ba"
+    },
+    {
+      "id": "94ed7556876e",
+      "title": "How Texas’ law banning DEI, LGBTQ+ topics in K-12 schools could fare in court",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17220667/texas-public-schools-dei-lgbtq-ban",
+      "published_at": "Tue, 02 Dec 2025 11:00:00 +0000",
+      "bullets": [
+        "• A state law that bans DEI programs and discussion of LGBTQ+ identities in K-12 schools will go to court Dec",
+        "• 10, teeing up what is expected to be a yearslong battle over free speech in public education",
+        "• Senate Bill 12 bans programming related to diversity, equity and inclusion; prohibits employees from discussing gender identity and sexual orientation and helping students ‘socially transition’ their gender by using preferred names "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A state law that bans DEI programs and discussion of LGBTQ+ identities in K-12 schools will go to court Dec",
+          "• 10, teeing up what is expected to be a yearslong battle over free speech in public education"
+        ],
+        "hopeful_bullets": [
+          "• Senate Bill 12 bans programming related to diversity, equity and inclusion; prohibits employees from discussing gender identity and sexual orientation and helping students ‘socially transition’ their gender by using preferred names "
+        ],
+        "stakes_bullets": [
+          "• A state law that bans DEI programs and discussion of LGBTQ+ identities in K-12 schools will go to court Dec",
+          "• 10, teeing up what is expected to be a yearslong battle over free speech in public education",
+          "• Senate Bill 12 bans programming related to diversity, equity and inclusion; prohibits employees from discussing gender identity and sexual orientation and helping students ‘socially transition’ their gender by using preferred names "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "1be233de9885"
+    },
+    {
+      "id": "7dd99486112e",
+      "title": "Hundreds of Texas voters flagged as potential noncitizens may have already proven their citizenship",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17220668/texas-voters-citizenship-check-secretary-of-state-department-of-public-safety",
+      "published_at": "Tue, 02 Dec 2025 11:00:00 +0000",
+      "bullets": [
+        "• 2,724 Texas voters have been flagged as potential noncitizens",
+        "• The state requires proof of citizenship from anyone registering to vote while obtaining a driver’s license or state ID",
+        "• The Texas Secretary of State's Office says it did not check the voters' records before sending them to county election officials "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 2,724 Texas voters have been flagged as potential noncitizens",
+          "• The state requires proof of citizenship from anyone registering to vote while obtaining a driver’s license or state ID"
+        ],
+        "hopeful_bullets": [
+          "• The Texas Secretary of State's Office says it did not check the voters' records before sending them to county election officials "
+        ],
+        "stakes_bullets": [
+          "• The state requires proof of citizenship from anyone registering to vote while obtaining a driver’s license or state ID"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "5f423243ff24"
+    },
+    {
+      "id": "9894078567ac",
+      "title": "US admiral to brief lawmakers as bipartisan scrutiny grows over boat strike",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/02/us-admiral-to-brief-lawmakers-as-bipartisan-scrutiny-grows-over-boat-strike",
+      "published_at": "Tue, 02 Dec 2025 10:31:51 GMT",
+      "bullets": [
+        "• White House press secretary Karoline Leavitt said the second strike was carried out in self-defence",
+        "• Bipartisan scrutiny has mounted over a report that Pete Hegseth, the defence secretary, issued a verbal order to strike the vessel "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• White House press secretary Karoline Leavitt said the second strike was carried out in self-defence",
+          "• Bipartisan scrutiny has mounted over a report that Pete Hegseth, the defence secretary, issued a verbal order to strike the vessel "
+        ],
+        "hopeful_bullets": [
+          "• White House press secretary Karoline Leavitt said the second strike was carried out in self-defence",
+          "• Bipartisan scrutiny has mounted over a report that Pete Hegseth, the defence secretary, issued a verbal order to strike the vessel "
+        ],
+        "stakes_bullets": [
+          "• White House press secretary Karoline Leavitt said the second strike was carried out in self-defence",
+          "• Bipartisan scrutiny has mounted over a report that Pete Hegseth, the defence secretary, issued a verbal order to strike the vessel "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "f97423fb7898"
+    },
+    {
       "id": "9538f305990c",
-      "title": "Sustainable Gifts: 27 meaningful ideas that do good",
+      "title": "Sustainable gifts: 27 meaningful presents that do good",
       "outlet": "Positive News",
       "url": "https://www.positive.news/lifestyle/sustainable-gifts-27-meaningful-ideas-that-do-good/",
       "published_at": "Tue, 02 Dec 2025 10:05:33 +0000",
       "bullets": [
-        "• Positive News's Christmas gift guide is full of sustainable, ethical, impact-driven gems that support small businesses whilst caring for the planet and its people",
-        "• From potion making kits to caffeinated skincare here are 27 uplifting gifts to give this Christmas "
+        "• From organic clothing to wild jams, here are 27 sustainable gifts to give this Christmas – including personal recommendations from the Positive News team",
+        "• Positive News' gift guide is full of sustainable, ethical, impact-driven gems that support small businesses whilst caring for the planet and its people "
       ],
       "category": "Good News",
       "sentiment": {
@@ -1209,19 +1334,19 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Positive News's Christmas gift guide is full of sustainable, ethical, impact-driven gems that support small businesses whilst caring for the planet and its people",
-          "• From potion making kits to caffeinated skincare here are 27 uplifting gifts to give this Christmas "
+          "• From organic clothing to wild jams, here are 27 sustainable gifts to give this Christmas – including personal recommendations from the Positive News team",
+          "• Positive News' gift guide is full of sustainable, ethical, impact-driven gems that support small businesses whilst caring for the planet and its people "
         ],
         "hopeful_bullets": [
-          "• Positive News's Christmas gift guide is full of sustainable, ethical, impact-driven gems that support small businesses whilst caring for the planet and its people",
-          "• From potion making kits to caffeinated skincare here are 27 uplifting gifts to give this Christmas "
+          "• From organic clothing to wild jams, here are 27 sustainable gifts to give this Christmas – including personal recommendations from the Positive News team",
+          "• Positive News' gift guide is full of sustainable, ethical, impact-driven gems that support small businesses whilst caring for the planet and its people "
         ],
         "stakes_bullets": [
-          "• Positive News's Christmas gift guide is full of sustainable, ethical, impact-driven gems that support small businesses whilst caring for the planet and its people"
+          "• Positive News' gift guide is full of sustainable, ethical, impact-driven gems that support small businesses whilst caring for the planet and its people "
         ]
       },
       "read_minutes": 10,
-      "cluster_id": "aac59a681a71"
+      "cluster_id": "d52e4cba9fad"
     },
     {
       "id": "ba68d5215229",
@@ -1919,37 +2044,37 @@
     },
     {
       "id": "0b3cc178b6c0",
-      "title": "Italian town freezes Pavarotti statue knee-deep in Christmas ice rink, angering widow",
+      "title": "Pavarotti statue frozen knee-deep in ice rink strikes wrong note in Italy",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cre3q9edqx8o?at_medium=RSS&at_campaign=rss",
       "published_at": "Tue, 02 Dec 2025 05:19:12 GMT",
       "bullets": [
-        "• Italian town freezes Luciano Pavarotti statue knee-deep in Christmas ice rink",
-        "• Mayor apologises to singer's widow, Nicoletta Mantovani, for 'ridicule' decision",
-        "• Mayor Andrea Biancani says he didn't mean to offend anyone and apologises "
+        "• The ice rink was built in honour of the late singer, who died in 2010",
+        "• It is the first time the ice rink has been built in a public place in Italy",
+        "• The family of the singer is \"angry\" at the decision to build the rink "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.992
+        "score": 0.984
       },
       "moods": {
         "brief_bullets": [
-          "• Italian town freezes Luciano Pavarotti statue knee-deep in Christmas ice rink",
-          "• Mayor apologises to singer's widow, Nicoletta Mantovani, for 'ridicule' decision"
+          "• The ice rink was built in honour of the late singer, who died in 2010",
+          "• It is the first time the ice rink has been built in a public place in Italy"
         ],
         "hopeful_bullets": [
-          "• Italian town freezes Luciano Pavarotti statue knee-deep in Christmas ice rink",
-          "• Mayor apologises to singer's widow, Nicoletta Mantovani, for 'ridicule' decision"
+          "• The ice rink was built in honour of the late singer, who died in 2010",
+          "• It is the first time the ice rink has been built in a public place in Italy"
         ],
         "stakes_bullets": [
-          "• Italian town freezes Luciano Pavarotti statue knee-deep in Christmas ice rink",
-          "• Mayor apologises to singer's widow, Nicoletta Mantovani, for 'ridicule' decision",
-          "• Mayor Andrea Biancani says he didn't mean to offend anyone and apologises "
+          "• The ice rink was built in honour of the late singer, who died in 2010",
+          "• It is the first time the ice rink has been built in a public place in Italy",
+          "• The family of the singer is \"angry\" at the decision to build the rink "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "a2f3b8a14acd"
+      "cluster_id": "fae94295f4f8"
     },
     {
       "id": "6efed784315b",
@@ -1982,71 +2107,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "f70d2bad6644"
-    },
-    {
-      "id": "0555da496452",
-      "title": "This company charges disabled vets millions, even after VA said it's likely illegal",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/02/nx-s1-5507111/disabled-veterans-investigation",
-      "published_at": "Tue, 02 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• This company charges disabled vets millions, even after VA said it's likely illegal",
-        "• NPR is only using his first name because he fears retribution from the company described in this story",
-        "• After he left the military, Dustin struggled as a civilian",
-        "• It took years for him to apply for help from the Department of Veterans Affairs "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• This company charges disabled vets millions, even after VA said it's likely illegal",
-          "• NPR is only using his first name because he fears retribution from the company described in this story"
-        ],
-        "hopeful_bullets": [
-          "• It took years for him to apply for help from the Department of Veterans Affairs "
-        ],
-        "stakes_bullets": [
-          "• NPR is only using his first name because he fears retribution from the company described in this story"
-        ]
-      },
-      "read_minutes": 22,
-      "cluster_id": "d3b4f91646ae"
-    },
-    {
-      "id": "cabcfaf4213f",
-      "title": "Fox News faces critical test in 2nd case over false 2020 election claims",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/02/nx-s1-5627506/fox-news-smartmatic-lawsuit-election-claims-trial",
-      "published_at": "Tue, 02 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• Fox News aired outrageous lies that an election software company rigged votes in the 2020 presidential elections for Democratic nominee Joe Biden",
-        "• Behind the scenes, Fox News' controlling owners, executives and biggest stars didn't believe the wild claims from President Trump and his allies",
-        "• Nonetheless, the voting tech company's officials received death threats",
-        "• Its reputation and financial prospects were badly damaged "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Fox News aired outrageous lies that an election software company rigged votes in the 2020 presidential elections for Democratic nominee Joe Biden",
-          "• Behind the scenes, Fox News' controlling owners, executives and biggest stars didn't believe the wild claims from President Trump and his allies"
-        ],
-        "hopeful_bullets": [
-          "• Fox News aired outrageous lies that an election software company rigged votes in the 2020 presidential elections for Democratic nominee Joe Biden",
-          "• Behind the scenes, Fox News' controlling owners, executives and biggest stars didn't believe the wild claims from President Trump and his allies"
-        ],
-        "stakes_bullets": [
-          "• Behind the scenes, Fox News' controlling owners, executives and biggest stars didn't believe the wild claims from President Trump and his allies"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "d187f4c36a77"
     },
     {
       "id": "b530e942821d",
@@ -2084,6 +2144,38 @@
       "cluster_id": "bcc476f0bc24"
     },
     {
+      "id": "0555da496452",
+      "title": "This company charges disabled vets millions, even after VA said it's likely illegal",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/02/nx-s1-5507111/disabled-veterans-investigation",
+      "published_at": "Tue, 02 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• This company charges disabled vets millions, even after VA said it's likely illegal",
+        "• NPR is only using his first name because he fears retribution from the company described in this story",
+        "• After he left the military, Dustin struggled as a civilian",
+        "• It took years for him to apply for help from the Department of Veterans Affairs "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• This company charges disabled vets millions, even after VA said it's likely illegal",
+          "• NPR is only using his first name because he fears retribution from the company described in this story"
+        ],
+        "hopeful_bullets": [
+          "• It took years for him to apply for help from the Department of Veterans Affairs "
+        ],
+        "stakes_bullets": [
+          "• NPR is only using his first name because he fears retribution from the company described in this story"
+        ]
+      },
+      "read_minutes": 22,
+      "cluster_id": "d3b4f91646ae"
+    },
+    {
       "id": "4be4f00c6e98",
       "title": "National Guard member in DC shooting shows 'positive sign' West Virginia governor says",
       "outlet": "NPR Topics: News",
@@ -2117,6 +2209,39 @@
       },
       "read_minutes": 4,
       "cluster_id": "4134d926033d"
+    },
+    {
+      "id": "cabcfaf4213f",
+      "title": "Fox News faces critical test in 2nd case over false 2020 election claims",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/02/nx-s1-5627506/fox-news-smartmatic-lawsuit-election-claims-trial",
+      "published_at": "Tue, 02 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• Fox News aired outrageous lies that an election software company rigged votes in the 2020 presidential elections for Democratic nominee Joe Biden",
+        "• Behind the scenes, Fox News' controlling owners, executives and biggest stars didn't believe the wild claims from President Trump and his allies",
+        "• Nonetheless, the voting tech company's officials received death threats",
+        "• Its reputation and financial prospects were badly damaged "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fox News aired outrageous lies that an election software company rigged votes in the 2020 presidential elections for Democratic nominee Joe Biden",
+          "• Behind the scenes, Fox News' controlling owners, executives and biggest stars didn't believe the wild claims from President Trump and his allies"
+        ],
+        "hopeful_bullets": [
+          "• Fox News aired outrageous lies that an election software company rigged votes in the 2020 presidential elections for Democratic nominee Joe Biden",
+          "• Behind the scenes, Fox News' controlling owners, executives and biggest stars didn't believe the wild claims from President Trump and his allies"
+        ],
+        "stakes_bullets": [
+          "• Behind the scenes, Fox News' controlling owners, executives and biggest stars didn't believe the wild claims from President Trump and his allies"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "d187f4c36a77"
     },
     {
       "id": "3af77f5a67c8",
@@ -2851,40 +2976,6 @@
       "cluster_id": "232c5305fec2"
     },
     {
-      "id": "ccca4eea7989",
-      "title": "We're Covering Cyber Monday Live—Because Today Is A Very Fine Day To Shop the Internet",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/live/cyber-monday-live-25/",
-      "published_at": "Tue, 02 Dec 2025 00:03:48 +0000",
-      "bullets": [
-        "• Cyber Monday is our nation's celebration of electronic commerce, let us honor it with deals coverage",
-        "• Today is the 20th anniversary of the holiest day in e-commerce, a day to celebrate buying things online by buying things on the internet",
-        "• WIRED is live blogging the day's events from 7 am to 7 pm EST "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Cyber Monday is our nation's celebration of electronic commerce, let us honor it with deals coverage",
-          "• Today is the 20th anniversary of the holiest day in e-commerce, a day to celebrate buying things online by buying things on the internet"
-        ],
-        "hopeful_bullets": [
-          "• Cyber Monday is our nation's celebration of electronic commerce, let us honor it with deals coverage",
-          "• Today is the 20th anniversary of the holiest day in e-commerce, a day to celebrate buying things online by buying things on the internet"
-        ],
-        "stakes_bullets": [
-          "• Cyber Monday is our nation's celebration of electronic commerce, let us honor it with deals coverage",
-          "• Today is the 20th anniversary of the holiest day in e-commerce, a day to celebrate buying things online by buying things on the internet",
-          "• WIRED is live blogging the day's events from 7 am to 7 pm EST "
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "7cdce7c9b5cf"
-    },
-    {
       "id": "615d3987da50",
       "title": "People living along polluted Thames file legal complaint to force water firm to act",
       "outlet": "Environment | The Guardian",
@@ -2913,7 +3004,7 @@
           "• They are demanding the full costs of the £1.18billion bill be paid to the taxpayer "
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 4,
       "cluster_id": "9106af11c92a"
     },
     {
@@ -5506,41 +5597,6 @@
       "cluster_id": "d310a8929e23"
     },
     {
-      "id": "2745bcdc6765",
-      "title": "The Best Amazon Device and Kindle Cyber Monday Deals (2025): Paperwhite, Scribe, Echo Dot Max",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/amazon-device-kindle-cyber-monday-deals-2025/",
-      "published_at": "Mon, 01 Dec 2025 22:07:43 +0000",
-      "bullets": [
-        "• Amazon discounts its hardware from Black Friday through Cyber Monday",
-        "• Lots of Amazon devices we recommend are on sale, including the Kindle Paperwhite and the Kindle Scribe",
-        "• In this economy, we'll take every discount we can get this holiday season",
-        "• We've added deals on the Echo Show 8, Echo Spot, and Kids Edition Fire tablets "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amazon discounts its hardware from Black Friday through Cyber Monday",
-          "• Lots of Amazon devices we recommend are on sale, including the Kindle Paperwhite and the Kindle Scribe"
-        ],
-        "hopeful_bullets": [
-          "• Amazon discounts its hardware from Black Friday through Cyber Monday",
-          "• Lots of Amazon devices we recommend are on sale, including the Kindle Paperwhite and the Kindle Scribe"
-        ],
-        "stakes_bullets": [
-          "• Amazon discounts its hardware from Black Friday through Cyber Monday",
-          "• Lots of Amazon devices we recommend are on sale, including the Kindle Paperwhite and the Kindle Scribe",
-          "• In this economy, we'll take every discount we can get this holiday season"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "934afc56a5e6"
-    },
-    {
       "id": "2a5f72fa4a99",
       "title": "Meta's Instagram orders employees back to the office 5 days a week",
       "outlet": "US Top News and Analysis",
@@ -6162,38 +6218,6 @@
       "cluster_id": "3c4e216b0feb"
     },
     {
-      "id": "1c840238ea3c",
-      "title": "Republican whose child has Down syndrome opposes redistricting after Trump’s ableist slur",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/01/trump-indiana-state-senator-redistricting-vote",
-      "published_at": "Mon, 01 Dec 2025 20:38:59 GMT",
-      "bullets": [
-        "• Michael Bohacek says he's been \"an unapologetic advocate for people with intellectual disabilities\" since one of his daughters was born with Down syndrome",
-        "• He says he will oppose efforts to redraw Indiana's congressional districts to favor his party",
-        "• The goal would be to gain Republicans more US House seats as their party tries to retain control of Congress "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.846
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Michael Bohacek says he's been \"an unapologetic advocate for people with intellectual disabilities\" since one of his daughters was born with Down syndrome",
-          "• He says he will oppose efforts to redraw Indiana's congressional districts to favor his party"
-        ],
-        "hopeful_bullets": [
-          "• Michael Bohacek says he's been \"an unapologetic advocate for people with intellectual disabilities\" since one of his daughters was born with Down syndrome",
-          "• He says he will oppose efforts to redraw Indiana's congressional districts to favor his party"
-        ],
-        "stakes_bullets": [
-          "• He says he will oppose efforts to redraw Indiana's congressional districts to favor his party"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "92c23d0bc74d"
-    },
-    {
       "id": "052434c4fc81",
       "title": "Maná Extend Historic ‘Vivir Sin Aire’ Tour",
       "outlet": "Music News",
@@ -6324,38 +6348,6 @@
       "cluster_id": "ae2becef3429"
     },
     {
-      "id": "bb555c0399bf",
-      "title": "California police plead for details on shooting at child’s party with suspect unknown",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/01/stockton-california-shooting-suspect",
-      "published_at": "Mon, 01 Dec 2025 19:47:39 GMT",
-      "bullets": [
-        "• A shooting at a toddler's birthday party in Stockton, California, killed four people, including three children ages 8, 9 and 14",
-        "• Authorities are still looking to understand what happened at the celebration on Saturday",
-        "• The shooting happened inside a banquet hall packed with relatives and friends "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.96
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A shooting at a toddler's birthday party in Stockton, California, killed four people, including three children ages 8, 9 and 14",
-          "• Authorities are still looking to understand what happened at the celebration on Saturday"
-        ],
-        "hopeful_bullets": [
-          "• A shooting at a toddler's birthday party in Stockton, California, killed four people, including three children ages 8, 9 and 14",
-          "• Authorities are still looking to understand what happened at the celebration on Saturday"
-        ],
-        "stakes_bullets": [
-          "• The shooting happened inside a banquet hall packed with relatives and friends "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "18ed1b53123e"
-    },
-    {
       "id": "434b47fd104a",
       "title": "Even Microsoft’s retro holiday sweaters are having Copilot forced upon them",
       "outlet": "Ars Technica - All content",
@@ -6386,38 +6378,35 @@
       "cluster_id": "2235625049c7"
     },
     {
-      "id": "44fc9f0b3076",
-      "title": "Several protesters arrested after ICE raid thwarted in New York City",
+      "id": "fc85253b0324",
+      "title": "White House insists Trump’s recent physical shows ‘perfectly normal’ health",
       "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/01/new-york-city-ice-raid",
-      "published_at": "Mon, 01 Dec 2025 19:41:40 GMT",
+      "url": "https://www.theguardian.com/us-news/2025/dec/01/trump-mri-results",
+      "published_at": "Mon, 01 Dec 2025 19:41:53 GMT",
       "bullets": [
-        "• About 200 protesters blocked the government vehicles from leaving with makeshift barricades",
-        "• The confrontation turned violent when some of the protesters emerged from the vehicles and were chased along Canal Street",
-        "• The episode was the latest in which citizens have stood up to Donald Trump’s aggressive immigration agenda "
+        "• The White House released details of Donald Trump’s recent “comprehensive executive physical” after the president admitted on Sunday night he had “no idea” what part of his body had been the subject of a magnetic resonance imaging (MRI) scan",
+        "• Trump, the oldest US president, underwent the procedure during a surprise “semi-annual” physical on 10 October "
       ],
       "category": "US",
       "sentiment": {
-        "label": "negative",
-        "score": 0.894
+        "label": "neutral",
+        "score": 0.558
       },
       "moods": {
         "brief_bullets": [
-          "• About 200 protesters blocked the government vehicles from leaving with makeshift barricades",
-          "• The confrontation turned violent when some of the protesters emerged from the vehicles and were chased along Canal Street"
+          "• The White House released details of Donald Trump’s recent “comprehensive executive physical” after the president admitted on Sunday night he had “no idea” what part of his body had been the subject of a magnetic resonance imaging (MRI) scan",
+          "• Trump, the oldest US president, underwent the procedure during a surprise “semi-annual” physical on 10 October "
         ],
         "hopeful_bullets": [
-          "• About 200 protesters blocked the government vehicles from leaving with makeshift barricades",
-          "• The confrontation turned violent when some of the protesters emerged from the vehicles and were chased along Canal Street"
+          "• The White House released details of Donald Trump’s recent “comprehensive executive physical” after the president admitted on Sunday night he had “no idea” what part of his body had been the subject of a magnetic resonance imaging (MRI) scan",
+          "• Trump, the oldest US president, underwent the procedure during a surprise “semi-annual” physical on 10 October "
         ],
         "stakes_bullets": [
-          "• About 200 protesters blocked the government vehicles from leaving with makeshift barricades",
-          "• The confrontation turned violent when some of the protesters emerged from the vehicles and were chased along Canal Street",
-          "• The episode was the latest in which citizens have stood up to Donald Trump’s aggressive immigration agenda "
+          "• The White House released details of Donald Trump’s recent “comprehensive executive physical” after the president admitted on Sunday night he had “no idea” what part of his body had been the subject of a magnetic resonance imaging (MRI) scan"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "5aad826443f3"
+      "read_minutes": 4,
+      "cluster_id": "21e64d27b8a9"
     },
     {
       "id": "8c604e91aa88",
@@ -6712,40 +6701,6 @@
       "cluster_id": "3ba5f01a8aec"
     },
     {
-      "id": "12eb96ff22dd",
-      "title": "Thousands of U.S. trucking schools could lose accreditation under DOT crackdown",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/01/nx-s1-5627474/cdl-trucking-schools-dot-crackdown",
-      "published_at": "Mon, 01 Dec 2025 18:06:57 -0500",
-      "bullets": [
-        "• Thousands of U.S",
-        "• trucking schools could lose accreditation under DOT crackdown",
-        "• Department of Transportation says it plans to revoke accreditation of nearly 3,000 schools and trainers",
-        "• Department accuses them of falsifying or manipulating training data, failing to meet standards "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Thousands of U.S",
-          "• trucking schools could lose accreditation under DOT crackdown"
-        ],
-        "hopeful_bullets": [
-          "• Thousands of U.S",
-          "• trucking schools could lose accreditation under DOT crackdown"
-        ],
-        "stakes_bullets": [
-          "• trucking schools could lose accreditation under DOT crackdown",
-          "• Department of Transportation says it plans to revoke accreditation of nearly 3,000 schools and trainers"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "20cab9b22628"
-    },
-    {
       "id": "1ca4c4413ee8",
       "title": "What a political birthrate divide could mean for the future",
       "outlet": "NPR Topics: Politics",
@@ -6875,40 +6830,6 @@
       "cluster_id": "2444e15dee9c"
     },
     {
-      "id": "c2b48e72492b",
-      "title": "How Amazon became America's biggest clothing seller",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/01/how-amazon-became-americas-biggest-clothing-seller.html",
-      "published_at": "Mon, 01 Dec 2025 17:30:01 GMT",
-      "bullets": [
-        "• Amazon's market share for the apparel and footwear segment reached nearly 13% in 2024",
-        "• The e-commerce giant overtook Walmart as the top clothing retailer in the U.S",
-        "• in 2018",
-        "• The segment at Amazon grew at a 40% compounded annual growth rate over the next five years "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.641
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Amazon's market share for the apparel and footwear segment reached nearly 13% in 2024",
-          "• The e-commerce giant overtook Walmart as the top clothing retailer in the U.S"
-        ],
-        "hopeful_bullets": [
-          "• The segment at Amazon grew at a 40% compounded annual growth rate over the next five years "
-        ],
-        "stakes_bullets": [
-          "• Amazon's market share for the apparel and footwear segment reached nearly 13% in 2024",
-          "• The e-commerce giant overtook Walmart as the top clothing retailer in the U.S",
-          "• in 2018"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "342321d72631"
-    },
-    {
       "id": "13c0e71ce709",
       "title": "Netflix quietly drops support for casting to most TVs",
       "outlet": "Ars Technica - All content",
@@ -6975,6 +6896,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "9b8599d2c25f"
+    },
+    {
+      "id": "ae20b78eedba",
+      "title": "Appeals court disqualifies Trump's N.J. prosecutor pick Alina Habba, rejecting DOJ challenge",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/01/trump-alina-habba-disqualified-appeals-court.html",
+      "published_at": "Mon, 01 Dec 2025 17:01:33 GMT",
+      "bullets": [
+        "• Alina Habba is disqualified from serving in New Jersey's top federal prosecutor",
+        "• The ruling is the latest judicial rebuke to the Trump administration's efforts to quickly install its preferred candidates in powerful law-enforcement jobs",
+        "• A three-judge panel unanimously upheld an Aug",
+        "• 21 ruling from a lower federal court that Habba was unlawfully serving as acting U.S",
+        "• Attorney "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Alina Habba is disqualified from serving in New Jersey's top federal prosecutor",
+          "• The ruling is the latest judicial rebuke to the Trump administration's efforts to quickly install its preferred candidates in powerful law-enforcement jobs"
+        ],
+        "hopeful_bullets": [
+          "• Alina Habba is disqualified from serving in New Jersey's top federal prosecutor",
+          "• The ruling is the latest judicial rebuke to the Trump administration's efforts to quickly install its preferred candidates in powerful law-enforcement jobs"
+        ],
+        "stakes_bullets": [
+          "• Alina Habba is disqualified from serving in New Jersey's top federal prosecutor"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a96f025d674a"
     },
     {
       "id": "84a33b4c1f6d",
@@ -9419,15 +9374,15 @@
       ]
     },
     {
-      "id": "a2f3b8a14acd",
-      "topic": "freeze italian knee pavarotti",
+      "id": "fae94295f4f8",
+      "topic": "deep frozen ice knee",
       "keywords": [
-        "freeze",
-        "italian",
+        "deep",
+        "frozen",
+        "ice",
         "knee",
         "pavarotti",
-        "statue",
-        "town"
+        "statue"
       ],
       "item_ids": [
         "0b3cc178b6c0"
@@ -9671,6 +9626,42 @@
       ]
     },
     {
+      "id": "87ac767a2b65",
+      "topic": "anywhere going set stage",
+      "keywords": [
+        "anywhere",
+        "going",
+        "set",
+        "stage",
+        "unionization",
+        "whirlwind"
+      ],
+      "item_ids": [
+        "7cc414c8b9dc"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "f97423fb7898",
+      "topic": "admiral bipartisan brief grow",
+      "keywords": [
+        "admiral",
+        "bipartisan",
+        "brief",
+        "grow",
+        "lawmaker",
+        "scrutiny"
+      ],
+      "item_ids": [
+        "9894078567ac"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "edd63d8225ab",
       "topic": "following glance rise tension",
       "keywords": [
@@ -9743,93 +9734,21 @@
       ]
     },
     {
-      "id": "92c23d0bc74d",
-      "topic": "child down oppose republican",
+      "id": "21e64d27b8a9",
+      "topic": "house insist physical recent",
       "keywords": [
-        "child",
-        "down",
-        "oppose",
-        "republican",
-        "syndrome",
-        "whose"
+        "house",
+        "insist",
+        "physical",
+        "recent",
+        "trump",
+        "white"
       ],
       "item_ids": [
-        "1c840238ea3c"
+        "fc85253b0324"
       ],
       "outlets": [
         "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "18ed1b53123e",
-      "topic": "california child detail plead",
-      "keywords": [
-        "california",
-        "child",
-        "detail",
-        "plead",
-        "police",
-        "shooting"
-      ],
-      "item_ids": [
-        "bb555c0399bf"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "5aad826443f3",
-      "topic": "arrested ice protester raid",
-      "keywords": [
-        "arrested",
-        "ice",
-        "protester",
-        "raid",
-        "several",
-        "thwarted"
-      ],
-      "item_ids": [
-        "44fc9f0b3076"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "d3b4f91646ae",
-      "topic": "charge company disabled even",
-      "keywords": [
-        "charge",
-        "company",
-        "disabled",
-        "even",
-        "million",
-        "vets"
-      ],
-      "item_ids": [
-        "0555da496452"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "d187f4c36a77",
-      "topic": "2nd case critical face",
-      "keywords": [
-        "2nd",
-        "case",
-        "critical",
-        "face",
-        "fox",
-        "test"
-      ],
-      "item_ids": [
-        "cabcfaf4213f"
-      ],
-      "outlets": [
-        "NPR Topics: News"
       ]
     },
     {
@@ -9851,6 +9770,24 @@
       ]
     },
     {
+      "id": "d3b4f91646ae",
+      "topic": "charge company disabled even",
+      "keywords": [
+        "charge",
+        "company",
+        "disabled",
+        "even",
+        "million",
+        "vets"
+      ],
+      "item_ids": [
+        "0555da496452"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "4134d926033d",
       "topic": "guard member national positive",
       "keywords": [
@@ -9863,6 +9800,24 @@
       ],
       "item_ids": [
         "4be4f00c6e98"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "d187f4c36a77",
+      "topic": "2nd case critical face",
+      "keywords": [
+        "2nd",
+        "case",
+        "critical",
+        "face",
+        "fox",
+        "test"
+      ],
+      "item_ids": [
+        "cabcfaf4213f"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9959,24 +9914,6 @@
       ]
     },
     {
-      "id": "20cab9b22628",
-      "topic": "accreditation lose school thousand",
-      "keywords": [
-        "accreditation",
-        "lose",
-        "school",
-        "thousand",
-        "trucking",
-        "under"
-      ],
-      "item_ids": [
-        "12eb96ff22dd"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "569771ed60f9",
       "topic": "crying firm need sell",
       "keywords": [
@@ -10049,24 +9986,6 @@
       ]
     },
     {
-      "id": "af34ed6cc246",
-      "topic": "apple exec former google",
-      "keywords": [
-        "apple",
-        "exec",
-        "former",
-        "google",
-        "microsoft",
-        "name"
-      ],
-      "item_ids": [
-        "bf173d6db4cc"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "87ffdb2b6aac",
       "topic": "chip nvidia seismic shift",
       "keywords": [
@@ -10085,18 +10004,36 @@
       ]
     },
     {
-      "id": "d1975fff1e2d",
-      "topic": "mri normal october perfectly",
+      "id": "0d4c3f7497b7",
+      "topic": "back employee instagram meta",
       "keywords": [
-        "mri",
-        "normal",
-        "october",
-        "perfectly",
-        "result",
-        "trump"
+        "back",
+        "employee",
+        "instagram",
+        "meta",
+        "office",
+        "order"
       ],
       "item_ids": [
-        "10d76a759e85"
+        "2a5f72fa4a99"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "af34ed6cc246",
+      "topic": "apple exec former google",
+      "keywords": [
+        "apple",
+        "exec",
+        "former",
+        "google",
+        "microsoft",
+        "name"
+      ],
+      "item_ids": [
+        "bf173d6db4cc"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10121,39 +10058,75 @@
       ]
     },
     {
-      "id": "342321d72631",
-      "topic": "amazon america became biggest",
+      "id": "a96f025d674a",
+      "topic": "appeal court disqualifie pick",
       "keywords": [
-        "amazon",
-        "america",
-        "became",
-        "biggest",
-        "clothing",
-        "seller"
+        "appeal",
+        "court",
+        "disqualifie",
+        "pick",
+        "prosecutor",
+        "trump"
       ],
       "item_ids": [
-        "c2b48e72492b"
+        "ae20b78eedba"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "0d4c3f7497b7",
-      "topic": "back employee instagram meta",
+      "id": "d1975fff1e2d",
+      "topic": "mri normal october perfectly",
       "keywords": [
-        "back",
-        "employee",
-        "instagram",
-        "meta",
-        "office",
-        "order"
+        "mri",
+        "normal",
+        "october",
+        "perfectly",
+        "result",
+        "trump"
       ],
       "item_ids": [
-        "2a5f72fa4a99"
+        "10d76a759e85"
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "21dc6d79e063",
+      "topic": "already apple fold iphone",
+      "keywords": [
+        "already",
+        "apple",
+        "fold",
+        "iphone",
+        "software",
+        "won"
+      ],
+      "item_ids": [
+        "1f2455c67c66"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "cc932e69b985",
+      "topic": "dead doge doing here",
+      "keywords": [
+        "dead",
+        "doge",
+        "doing",
+        "here",
+        "isn",
+        "operative"
+      ],
+      "item_ids": [
+        "0607f5f7d041"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10294,42 +10267,6 @@
       ],
       "item_ids": [
         "4d904a91fcbc"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "7cdce7c9b5cf",
-      "topic": "because covering cyber live",
-      "keywords": [
-        "because",
-        "covering",
-        "cyber",
-        "live",
-        "monday",
-        "today"
-      ],
-      "item_ids": [
-        "ccca4eea7989"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "934afc56a5e6",
-      "topic": "amazon best cyber device",
-      "keywords": [
-        "amazon",
-        "best",
-        "cyber",
-        "device",
-        "kindle",
-        "monday"
-      ],
-      "item_ids": [
-        "2745bcdc6765"
       ],
       "outlets": [
         "WIRED"
@@ -10984,24 +10921,6 @@
       ]
     },
     {
-      "id": "954bdce0a552",
-      "topic": "onto table thanksgiving trotted",
-      "keywords": [
-        "onto",
-        "table",
-        "thanksgiving",
-        "trotted",
-        "turkey",
-        "way"
-      ],
-      "item_ids": [
-        "35863ee4867f"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "57c1f5751537",
       "topic": "food lot place produce",
       "keywords": [
@@ -11014,6 +10933,24 @@
       ],
       "item_ids": [
         "02062fa3096c"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "954bdce0a552",
+      "topic": "onto table thanksgiving trotted",
+      "keywords": [
+        "onto",
+        "table",
+        "thanksgiving",
+        "trotted",
+        "turkey",
+        "way"
+      ],
+      "item_ids": [
+        "35863ee4867f"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -13239,13 +13176,13 @@
       ]
     },
     {
-      "id": "aac59a681a71",
-      "topic": "gift good idea meaningful",
+      "id": "d52e4cba9fad",
+      "topic": "gift good meaningful present",
       "keywords": [
         "gift",
         "good",
-        "idea",
         "meaningful",
+        "present",
         "sustainable"
       ],
       "item_ids": [
@@ -14131,6 +14068,24 @@
       ]
     },
     {
+      "id": "82aec09ad9ba",
+      "topic": "face highest houston mother",
+      "keywords": [
+        "face",
+        "highest",
+        "houston",
+        "mother",
+        "some",
+        "young"
+      ],
+      "item_ids": [
+        "a3b68a71bcd8"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "232c5305fec2",
       "topic": "gender limit race system",
       "keywords": [
@@ -14143,6 +14098,42 @@
       ],
       "item_ids": [
         "25aaf00d7eb6"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "1be233de9885",
+      "topic": "banning dei law lgbtq",
+      "keywords": [
+        "banning",
+        "dei",
+        "law",
+        "lgbtq",
+        "texa",
+        "topic"
+      ],
+      "item_ids": [
+        "94ed7556876e"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "5f423243ff24",
+      "topic": "flagged hundred noncitizen potential",
+      "keywords": [
+        "flagged",
+        "hundred",
+        "noncitizen",
+        "potential",
+        "texa",
+        "voter"
+      ],
+      "item_ids": [
+        "7dd99486112e"
       ],
       "outlets": [
         "The Texas Tribune"
@@ -14251,60 +14242,6 @@
       ],
       "item_ids": [
         "032f2da248a9"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "8b00341fe9d4",
-      "topic": "familie lets rule school",
-      "keywords": [
-        "familie",
-        "lets",
-        "rule",
-        "school",
-        "texa",
-        "voucher"
-      ],
-      "item_ids": [
-        "4ca1646daa4d"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "629b140a0c41",
-      "topic": "100 familie help hoped",
-      "keywords": [
-        "100",
-        "familie",
-        "help",
-        "hoped",
-        "million",
-        "texa"
-      ],
-      "item_ids": [
-        "b6d8b32adae3"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "bf1411469d2e",
-      "topic": "december effect january laws",
-      "keywords": [
-        "december",
-        "effect",
-        "january",
-        "laws",
-        "slate",
-        "texa"
-      ],
-      "item_ids": [
-        "eda34d5333ef"
       ],
       "outlets": [
         "The Texas Tribune"
