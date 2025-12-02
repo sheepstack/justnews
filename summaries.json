@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-02T06:01:06Z",
+  "generated_at": "2025-12-02T06:19:54Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -462,6 +462,38 @@
       "cluster_id": "16cb7c690846"
     },
     {
+      "id": "35863ee4867f",
+      "title": "How the turkey trotted its way onto our Thanksgiving tables — and into our lexicon",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/26/nx-s1-5612661/turkey-word-origin-thanksgiving",
+      "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• The turkey was first brought across the Atlantic to Europe in 17th century",
+        "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving",
+        "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The turkey was first brought across the Atlantic to Europe in 17th century",
+          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
+        ],
+        "hopeful_bullets": [
+          "• The turkey was first brought across the Atlantic to Europe in 17th century",
+          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
+        ],
+        "stakes_bullets": [
+          "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "954bdce0a552"
+    },
+    {
       "id": "02062fa3096c",
       "title": "The U.S. produces a lot of food waste. This place wants to address it",
       "outlet": "NPR Topics: Science",
@@ -493,38 +525,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "57c1f5751537"
-    },
-    {
-      "id": "35863ee4867f",
-      "title": "How the turkey trotted its way onto our Thanksgiving tables — and into our lexicon",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/26/nx-s1-5612661/turkey-word-origin-thanksgiving",
-      "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• The turkey was first brought across the Atlantic to Europe in 17th century",
-        "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving",
-        "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The turkey was first brought across the Atlantic to Europe in 17th century",
-          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
-        ],
-        "hopeful_bullets": [
-          "• The turkey was first brought across the Atlantic to Europe in 17th century",
-          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
-        ],
-        "stakes_bullets": [
-          "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "954bdce0a552"
     },
     {
       "id": "f7990419e35e",
@@ -1224,11 +1224,112 @@
       "cluster_id": "e8ac82f303b1"
     },
     {
+      "id": "d2f50630c929",
+      "title": "White House Uses Sabrina Carpenter’s ‘Juno’ Song for ICE Deportation Video",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/white-house-sabrina-carpenter-juno-ice-arrests-video-1235475656/",
+      "published_at": "Tue, 02 Dec 2025 06:13:59 +0000",
+      "bullets": [
+        "• White House uses Sabrina Carpenter’s ‘Juno’ Song for ICE Deportation Video",
+        "• The White House used the song to soundtrack a TikTok video of a protest against ICE raids",
+        "• It is unclear if the White House received permission to use Carpenter's music "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• White House uses Sabrina Carpenter’s ‘Juno’ Song for ICE Deportation Video",
+          "• The White House used the song to soundtrack a TikTok video of a protest against ICE raids"
+        ],
+        "hopeful_bullets": [
+          "• The White House used the song to soundtrack a TikTok video of a protest against ICE raids"
+        ],
+        "stakes_bullets": [
+          "• White House uses Sabrina Carpenter’s ‘Juno’ Song for ICE Deportation Video",
+          "• The White House used the song to soundtrack a TikTok video of a protest against ICE raids",
+          "• It is unclear if the White House received permission to use Carpenter's music "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "5627b6a425d4"
+    },
+    {
+      "id": "fc247fded1d9",
+      "title": "South Korea auto stocks rise after U.S. Commerce Secretary confirms tariffs lowered to 15%",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/02/asia-pacific-markets-today-tuesday-crypto-bitcoin-nikkei-225-hang-seng-index.html",
+      "published_at": "Tue, 02 Dec 2025 05:50:21 GMT",
+      "bullets": [
+        "• South Korea's Kospi jumped 1.74%, while the small-cap Kosdaq was up 0.24%",
+        "• South Korean auto companies rose after lower U.S",
+        "• auto tariffs of 15% on South Korea would come into effect, starting Nov",
+        "• 1",
+        "• Japan's benchmark Nikkei 225 index added 0.54%, and Japan's Topix index was 0.44% "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.953
+      },
+      "moods": {
+        "brief_bullets": [
+          "• South Korea's Kospi jumped 1.74%, while the small-cap Kosdaq was up 0.24%",
+          "• South Korean auto companies rose after lower U.S"
+        ],
+        "hopeful_bullets": [
+          "• South Korea's Kospi jumped 1.74%, while the small-cap Kosdaq was up 0.24%",
+          "• South Korean auto companies rose after lower U.S"
+        ],
+        "stakes_bullets": [
+          "• auto tariffs of 15% on South Korea would come into effect, starting Nov"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "92a7acde6f81"
+    },
+    {
+      "id": "45eb3b74527d",
+      "title": "Tesla CEO Elon Musk bats for H-1B visas, says tariffs distort markets",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/02/tesla-ceo-elon-musk-bats-for-h-1b-visa-says-tariffs-distort-markets-.html",
+      "published_at": "Tue, 02 Dec 2025 05:41:23 GMT",
+      "bullets": [
+        "• Tesla CEO Elon Musk says the U.S",
+        "• has been a beneficiary of talent from India",
+        "• Musk said the H-1B visa program had been misused by companies",
+        "• Musk also raised concerns over the U .S",
+        "• administration's tariff policy "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tesla CEO Elon Musk says the U.S",
+          "• has been a beneficiary of talent from India"
+        ],
+        "hopeful_bullets": [
+          "• Tesla CEO Elon Musk says the U.S",
+          "• has been a beneficiary of talent from India"
+        ],
+        "stakes_bullets": [
+          "• administration's tariff policy "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fe3d5f5d40de"
+    },
+    {
       "id": "8fedf29b1126",
       "title": "Samsung launches its first multi-folding phone as competition from Chinese brands intensifies",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/12/02/samsung-galaxy-z-trifold-first-multi-folding-phone-smartphone-competition-chinese-brands-huawei-apple.html",
-      "published_at": "Tue, 02 Dec 2025 05:26:08 GMT",
+      "published_at": "Tue, 02 Dec 2025 05:33:04 GMT",
       "bullets": [
         "• The Galaxy Z TriFold will go on sale in South Korea on Dec",
         "• 12, with launches to follow in other markets including China, Taiwan, Singapore, and the United Arab Emirates",
@@ -1522,41 +1623,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "c49bd75dd5e1"
-    },
-    {
-      "id": "fc247fded1d9",
-      "title": "South Korea auto stocks rise after U.S. Commerce Secretary confirms tariffs lowered to 15%",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/02/asia-pacific-markets-today-tuesday-crypto-bitcoin-nikkei-225-hang-seng-index.html",
-      "published_at": "Tue, 02 Dec 2025 04:06:05 GMT",
-      "bullets": [
-        "• South Korea's Kospi jumped 1.02% Tuesday, while the small-cap Kosdaq was down 0.13% Tuesday",
-        "• Lower U.S",
-        "• auto tariffs of 15% on South Korea would retrospectively come into effect, starting Nov",
-        "• 1",
-        "• The Bank of Korea had kept rates unchanged at 2.5% for a fourth straight meeting last Thursday"
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• South Korea's Kospi jumped 1.02% Tuesday, while the small-cap Kosdaq was down 0.13% Tuesday",
-          "• Lower U.S"
-        ],
-        "hopeful_bullets": [
-          "• South Korea's Kospi jumped 1.02% Tuesday, while the small-cap Kosdaq was down 0.13% Tuesday",
-          "• Lower U.S"
-        ],
-        "stakes_bullets": [
-          "• auto tariffs of 15% on South Korea would retrospectively come into effect, starting Nov",
-          "• The Bank of Korea had kept rates unchanged at 2.5% for a fourth straight meeting last Thursday"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "92a7acde6f81"
     },
     {
       "id": "f524dc34985a",
@@ -4408,39 +4474,6 @@
       "cluster_id": "67733039c98c"
     },
     {
-      "id": "a320f96d0b42",
-      "title": "MongoDB stock jumps 15% on earnings and revenue beat, strong guidance",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/01/mongodb-earnings-stock-q3-mdb.html",
-      "published_at": "Mon, 01 Dec 2025 23:12:50 GMT",
-      "bullets": [
-        "• MongoDB shares rose 15% in after-hours trading after the company announced third-quarter earnings",
-        "• The database software maker reported a revenue of $628 million, up 19% year over year",
-        "• CEO Chirantan \"CJ\" Desai said the company saw \"significant growth\" in its large enterprise segment "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• MongoDB shares rose 15% in after-hours trading after the company announced third-quarter earnings",
-          "• The database software maker reported a revenue of $628 million, up 19% year over year"
-        ],
-        "hopeful_bullets": [
-          "• CEO Chirantan \"CJ\" Desai said the company saw \"significant growth\" in its large enterprise segment "
-        ],
-        "stakes_bullets": [
-          "• MongoDB shares rose 15% in after-hours trading after the company announced third-quarter earnings",
-          "• The database software maker reported a revenue of $628 million, up 19% year over year",
-          "• CEO Chirantan \"CJ\" Desai said the company saw \"significant growth\" in its large enterprise segment "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "51a7f547799c"
-    },
-    {
       "id": "bf173d6db4cc",
       "title": "Apple names former Microsoft, Google exec to succeed retiring AI chief",
       "outlet": "US Top News and Analysis",
@@ -6077,39 +6110,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "af350476c98c"
-    },
-    {
-      "id": "b6e3d114cf89",
-      "title": "Megan Thee Stallion Wins at Trial Over Deepfake Porn Video and Harassment",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/megan-thee-stallion-wins-defamation-trial-blogger-1235471592/",
-      "published_at": "Mon, 01 Dec 2025 19:12:54 +0000",
-      "bullets": [
-        "• Rapper Megan Thee Stallion sued Milagro Gramz, the blogger she accused of promoting a deepfake pornographic video of her",
-        "• Gramz also coordinated with Tory Lanez to spread “false and disproven theories” about the shooting that landed Lanez in prison",
-        "• The jury awarded the Grammy-winning rapper $75,000 in damages "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Rapper Megan Thee Stallion sued Milagro Gramz, the blogger she accused of promoting a deepfake pornographic video of her",
-          "• Gramz also coordinated with Tory Lanez to spread “false and disproven theories” about the shooting that landed Lanez in prison"
-        ],
-        "hopeful_bullets": [
-          "• The jury awarded the Grammy-winning rapper $75,000 in damages "
-        ],
-        "stakes_bullets": [
-          "• Rapper Megan Thee Stallion sued Milagro Gramz, the blogger she accused of promoting a deepfake pornographic video of her",
-          "• Gramz also coordinated with Tory Lanez to spread “false and disproven theories” about the shooting that landed Lanez in prison",
-          "• The jury awarded the Grammy-winning rapper $75,000 in damages "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "495b4f5f1c22"
     },
     {
       "id": "f56e79745f3e",
@@ -8617,6 +8617,40 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "e3fcfd6364bb",
+      "title": "These great Cyber Monday tech deals will likely be gone tomorrow",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas",
+      "published_at": "2025-12-02T00:38:55-05:00",
+      "bullets": [
+        "• Cyber Monday is one of last chances to score major deals before the holiday rush plows us all over",
+        "• There are still plenty of last-minute deals available, whether you’re after a Switch 2 or a budget-friendly charger",
+        "• We’ve combed through the thousands of deals and gathered the best still available "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.91
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Cyber Monday is one of last chances to score major deals before the holiday rush plows us all over",
+          "• There are still plenty of last-minute deals available, whether you’re after a Switch 2 or a budget-friendly charger"
+        ],
+        "hopeful_bullets": [
+          "• Cyber Monday is one of last chances to score major deals before the holiday rush plows us all over",
+          "• There are still plenty of last-minute deals available, whether you’re after a Switch 2 or a budget-friendly charger"
+        ],
+        "stakes_bullets": [
+          "• Cyber Monday is one of last chances to score major deals before the holiday rush plows us all over",
+          "• There are still plenty of last-minute deals available, whether you’re after a Switch 2 or a budget-friendly charger",
+          "• We’ve combed through the thousands of deals and gathered the best still available "
+        ]
+      },
+      "read_minutes": 55,
+      "cluster_id": "407da6ba0f46"
+    },
+    {
       "id": "991babf514de",
       "title": "The best Apple deals you can still shop in Cyber Monday’s final hours",
       "outlet": "The Verge",
@@ -8748,40 +8782,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "9048d972ffe0"
-    },
-    {
-      "id": "e3fcfd6364bb",
-      "title": "These great Cyber Monday tech deals will likely be gone tomorrow",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas",
-      "published_at": "2025-12-01T22:13:39-05:00",
-      "bullets": [
-        "• Cyber Monday is one of your last chances to score major deals before the holiday rush plows us over",
-        "• Some deals have dropped to even lower prices than on Black Friday, so seize this opportunity to save",
-        "• We've combed through the thousands of deals and gathered the best available below "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Cyber Monday is one of your last chances to score major deals before the holiday rush plows us over",
-          "• Some deals have dropped to even lower prices than on Black Friday, so seize this opportunity to save"
-        ],
-        "hopeful_bullets": [
-          "• Cyber Monday is one of your last chances to score major deals before the holiday rush plows us over",
-          "• Some deals have dropped to even lower prices than on Black Friday, so seize this opportunity to save"
-        ],
-        "stakes_bullets": [
-          "• Cyber Monday is one of your last chances to score major deals before the holiday rush plows us over",
-          "• Some deals have dropped to even lower prices than on Black Friday, so seize this opportunity to save",
-          "• We've combed through the thousands of deals and gathered the best available below "
-        ]
-      },
-      "read_minutes": 56,
-      "cluster_id": "407da6ba0f46"
     },
     {
       "id": "cb36125947dc",
@@ -10141,6 +10141,24 @@
       ]
     },
     {
+      "id": "fe3d5f5d40de",
+      "topic": "bats ceo elon musk",
+      "keywords": [
+        "bats",
+        "ceo",
+        "elon",
+        "musk",
+        "tesla",
+        "visa"
+      ],
+      "item_ids": [
+        "45eb3b74527d"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "be7c8bdb3b19",
       "topic": "first folding launche multi",
       "keywords": [
@@ -10213,24 +10231,6 @@
       ]
     },
     {
-      "id": "3a1be9a52ede",
-      "topic": "bitcoin day logs march",
-      "keywords": [
-        "bitcoin",
-        "day",
-        "logs",
-        "march",
-        "since",
-        "worst"
-      ],
-      "item_ids": [
-        "dbab8cf33d56"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "930d8ddcdecd",
       "topic": "basement hustle parent side",
       "keywords": [
@@ -10265,18 +10265,18 @@
       ]
     },
     {
-      "id": "51a7f547799c",
-      "topic": "beat earning jump mongodb",
+      "id": "3a1be9a52ede",
+      "topic": "bitcoin day logs march",
       "keywords": [
-        "beat",
-        "earning",
-        "jump",
-        "mongodb",
-        "revenue",
-        "stock"
+        "bitcoin",
+        "day",
+        "logs",
+        "march",
+        "since",
+        "worst"
       ],
       "item_ids": [
-        "a320f96d0b42"
+        "dbab8cf33d56"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10446,6 +10446,24 @@
       ]
     },
     {
+      "id": "407da6ba0f46",
+      "topic": "cyber deal great monday",
+      "keywords": [
+        "cyber",
+        "deal",
+        "great",
+        "monday",
+        "tech",
+        "these"
+      ],
+      "item_ids": [
+        "e3fcfd6364bb"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "ecf56f42f463",
       "topic": "apple best cyber deal",
       "keywords": [
@@ -10512,24 +10530,6 @@
       ],
       "item_ids": [
         "cda4f9f19bd2"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "407da6ba0f46",
-      "topic": "cyber deal great monday",
-      "keywords": [
-        "cyber",
-        "deal",
-        "great",
-        "monday",
-        "tech",
-        "these"
-      ],
-      "item_ids": [
-        "e3fcfd6364bb"
       ],
       "outlets": [
         "The Verge"
@@ -11094,24 +11094,6 @@
       ]
     },
     {
-      "id": "57c1f5751537",
-      "topic": "food lot place produce",
-      "keywords": [
-        "food",
-        "lot",
-        "place",
-        "produce",
-        "want",
-        "waste"
-      ],
-      "item_ids": [
-        "02062fa3096c"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "954bdce0a552",
       "topic": "onto table thanksgiving trotted",
       "keywords": [
@@ -11124,6 +11106,24 @@
       ],
       "item_ids": [
         "35863ee4867f"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "57c1f5751537",
+      "topic": "food lot place produce",
+      "keywords": [
+        "food",
+        "lot",
+        "place",
+        "produce",
+        "want",
+        "waste"
+      ],
+      "item_ids": [
+        "02062fa3096c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -13901,6 +13901,24 @@
       ]
     },
     {
+      "id": "5627b6a425d4",
+      "topic": "carpenter house juno sabrina",
+      "keywords": [
+        "carpenter",
+        "house",
+        "juno",
+        "sabrina",
+        "uses",
+        "white"
+      ],
+      "item_ids": [
+        "d2f50630c929"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "fe5fd75065b9",
       "topic": "eras final release swift",
       "keywords": [
@@ -14057,24 +14075,6 @@
       ],
       "item_ids": [
         "052434c4fc81"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "495b4f5f1c22",
-      "topic": "deepfake megan stallion thee",
-      "keywords": [
-        "deepfake",
-        "megan",
-        "stallion",
-        "thee",
-        "trial",
-        "wins"
-      ],
-      "item_ids": [
-        "b6e3d114cf89"
       ],
       "outlets": [
         "Music News"
