@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-02T09:13:14Z",
+  "generated_at": "2025-12-02T10:07:39Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -393,6 +393,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "8eb473a6d267"
+    },
+    {
+      "id": "29223d8775ba",
+      "title": "The old instruments bringing new opportunities to young lives",
+      "outlet": "Positive News",
+      "url": "https://www.positive.news/lifestyle/arts/the-instruments-that-lived/",
+      "published_at": "Wed, 26 Nov 2025 07:00:52 +0000",
+      "bullets": [
+        "• Thousands of musical instruments are thrown away every year - but a growing number of UK schemes are giving them, and the children who play them, a second chance",
+        "• Year 11 student Jason, a year 11 student from Manchester, plays the cello",
+        "• The instrument came to him through a local charity, the Olympias Music Foundation "
+      ],
+      "category": "Good News",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.834
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Thousands of musical instruments are thrown away every year - but a growing number of UK schemes are giving them, and the children who play them, a second chance",
+          "• Year 11 student Jason, a year 11 student from Manchester, plays the cello"
+        ],
+        "hopeful_bullets": [
+          "• Thousands of musical instruments are thrown away every year - but a growing number of UK schemes are giving them, and the children who play them, a second chance"
+        ],
+        "stakes_bullets": [
+          "• Thousands of musical instruments are thrown away every year - but a growing number of UK schemes are giving them, and the children who play them, a second chance",
+          "• Year 11 student Jason, a year 11 student from Manchester, plays the cello",
+          "• The instrument came to him through a local charity, the Olympias Music Foundation "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "b8a21e3f6d78"
     },
     {
       "id": "c617c44fee8e",
@@ -1195,7 +1228,7 @@
       "title": "Tesla CEO Elon Musk bats for H-1B visas, says tariffs distort markets",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/12/02/tesla-ceo-elon-musk-bats-for-h-1b-visa-says-tariffs-distort-markets-.html",
-      "published_at": "Tue, 02 Dec 2025 07:58:04 GMT",
+      "published_at": "Tue, 02 Dec 2025 08:54:58 GMT",
       "bullets": [
         "• Tesla CEO Elon Musk says the U.S",
         "• has been a beneficiary of talent from India",
@@ -1223,6 +1256,41 @@
       },
       "read_minutes": 2,
       "cluster_id": "fe3d5f5d40de"
+    },
+    {
+      "id": "fa6e506b6a9f",
+      "title": "US Navy admiral ordered second  deadly Venezuela boat strike, White House says",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0r95q9kv1go?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 02 Dec 2025 08:44:44 GMT",
+      "bullets": [
+        "• White House confirms it has ordered a second strike on an alleged drug vessel",
+        "• Two people were still clinging to the burning vessel when they were killed",
+        "• More than 80 people have been killed in similar strikes in the Caribbean Sea since early September",
+        "• The White House says it is acting in self-defence by destroying illicit drugs "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• White House confirms it has ordered a second strike on an alleged drug vessel",
+          "• Two people were still clinging to the burning vessel when they were killed"
+        ],
+        "hopeful_bullets": [
+          "• White House confirms it has ordered a second strike on an alleged drug vessel",
+          "• Two people were still clinging to the burning vessel when they were killed"
+        ],
+        "stakes_bullets": [
+          "• White House confirms it has ordered a second strike on an alleged drug vessel",
+          "• Two people were still clinging to the burning vessel when they were killed",
+          "• More than 80 people have been killed in similar strikes in the Caribbean Sea since early September"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "aac22ea670dd"
     },
     {
       "id": "e17f57eaff00",
@@ -1792,7 +1860,7 @@
       "bullets": [
         "• Italian town freezes Luciano Pavarotti statue knee-deep in Christmas ice rink",
         "• Mayor apologises to singer's widow, Nicoletta Mantovani, for 'ridicule' decision",
-        "• Mayor Andrea Biancini says he didn't mean to offend anyone and apologises "
+        "• Mayor Andrea Biancani says he didn't mean to offend anyone and apologises "
       ],
       "category": "World",
       "sentiment": {
@@ -1811,7 +1879,7 @@
         "stakes_bullets": [
           "• Italian town freezes Luciano Pavarotti statue knee-deep in Christmas ice rink",
           "• Mayor apologises to singer's widow, Nicoletta Mantovani, for 'ridicule' decision",
-          "• Mayor Andrea Biancini says he didn't mean to offend anyone and apologises "
+          "• Mayor Andrea Biancani says he didn't mean to offend anyone and apologises "
         ]
       },
       "read_minutes": 2,
@@ -2147,38 +2215,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "d6b06870b3c2"
-    },
-    {
-      "id": "fa6e506b6a9f",
-      "title": "US Navy commander ordered second  Venezuela boat strike, White House says",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0r95q9kv1go?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 02 Dec 2025 03:18:12 GMT",
-      "bullets": [
-        "• US Navy commander ordered second Venezuela boat strike, White House says",
-        "• White House confirms Admiral Frank Bradley worked \"well within his authority and the law\" Defence Secretary Pete Hegseth authorised the strikes but did not give an order to \"kill everybody\", as Washington Post reported "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.554
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US Navy commander ordered second Venezuela boat strike, White House says",
-          "• White House confirms Admiral Frank Bradley worked \"well within his authority and the law\" Defence Secretary Pete Hegseth authorised the strikes but did not give an order to \"kill everybody\", as Washington Post reported "
-        ],
-        "hopeful_bullets": [
-          "• US Navy commander ordered second Venezuela boat strike, White House says",
-          "• White House confirms Admiral Frank Bradley worked \"well within his authority and the law\" Defence Secretary Pete Hegseth authorised the strikes but did not give an order to \"kill everybody\", as Washington Post reported "
-        ],
-        "stakes_bullets": [
-          "• US Navy commander ordered second Venezuela boat strike, White House says",
-          "• White House confirms Admiral Frank Bradley worked \"well within his authority and the law\" Defence Secretary Pete Hegseth authorised the strikes but did not give an order to \"kill everybody\", as Washington Post reported "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "b87710cc2cee"
     },
     {
       "id": "a6c7bbc7dfae",
@@ -9416,11 +9452,11 @@
       ]
     },
     {
-      "id": "b87710cc2cee",
-      "topic": "boat commander navy ordered",
+      "id": "aac22ea670dd",
+      "topic": "admiral deadly navy ordered",
       "keywords": [
-        "boat",
-        "commander",
+        "admiral",
+        "deadly",
         "navy",
         "ordered",
         "second",
@@ -13460,6 +13496,24 @@
       ],
       "item_ids": [
         "58e34f9d18d6"
+      ],
+      "outlets": [
+        "Positive News"
+      ]
+    },
+    {
+      "id": "b8a21e3f6d78",
+      "topic": "bringing instrument live old",
+      "keywords": [
+        "bringing",
+        "instrument",
+        "live",
+        "old",
+        "opportunitie",
+        "young"
+      ],
+      "item_ids": [
+        "29223d8775ba"
       ],
       "outlets": [
         "Positive News"
