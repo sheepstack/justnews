@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-02T00:00:20Z",
+  "generated_at": "2025-12-02T00:17:02Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -329,39 +329,6 @@
       "cluster_id": "629b140a0c41"
     },
     {
-      "id": "e10db5db4307",
-      "title": "A West Texas county wants to better prepare for floods. Paying for it will be tricky.",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17217260/ector-county-texas-flood-drainge-update",
-      "published_at": "Wed, 26 Nov 2025 11:00:00 +0000",
-      "bullets": [
-        "• Every Texas county has declared a flood disaster at least once",
-        "• At least nine, from 1980-2024, have cost the state billions of dollars to remediate the consequences of flooding",
-        "• Despite a call from the state’s first-ever flood plan, it can be hard to secure funding ahead of a disaster "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Every Texas county has declared a flood disaster at least once",
-          "• At least nine, from 1980-2024, have cost the state billions of dollars to remediate the consequences of flooding"
-        ],
-        "hopeful_bullets": [
-          "• Every Texas county has declared a flood disaster at least once",
-          "• At least nine, from 1980-2024, have cost the state billions of dollars to remediate the consequences of flooding"
-        ],
-        "stakes_bullets": [
-          "• At least nine, from 1980-2024, have cost the state billions of dollars to remediate the consequences of flooding",
-          "• Despite a call from the state’s first-ever flood plan, it can be hard to secure funding ahead of a disaster "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "b251514f2eff"
-    },
-    {
       "id": "b8562c5bdb6a",
       "title": "New York City’s Next Super Storm",
       "outlet": "NYT > Climate and Environment",
@@ -369,23 +336,24 @@
       "published_at": "Wed, 26 Nov 2025 10:00:52 +0000",
       "bullets": [
         "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges",
-        "• What’s a worst-case scenario for hurricane flooding in New York City? Our reporter explores that possibility "
+        "• New York City’s worst-case scenario for hurricane flooding in New York could get worse "
       ],
       "category": "Environment",
       "sentiment": {
-        "label": "positive",
-        "score": 0.936
+        "label": "negative",
+        "score": 0.979
       },
       "moods": {
         "brief_bullets": [
           "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges",
-          "• What’s a worst-case scenario for hurricane flooding in New York City? Our reporter explores that possibility "
+          "• New York City’s worst-case scenario for hurricane flooding in New York could get worse "
         ],
         "hopeful_bullets": [
           "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges"
         ],
         "stakes_bullets": [
-          "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges"
+          "• Hilary Howard, who covers the environment in the region, explores how bad it could get as climate change powers increasingly extreme rainfall and devastating storm surges",
+          "• New York City’s worst-case scenario for hurricane flooding in New York could get worse "
         ]
       },
       "read_minutes": 1,
@@ -1254,6 +1222,140 @@
       },
       "read_minutes": 12,
       "cluster_id": "e8ac82f303b1"
+    },
+    {
+      "id": "25aaf00d7eb6",
+      "title": "Texas Tech System limits how race and gender can be taught, says faculty could face discipline for noncompliance",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17220445/texas-tech-university-system-brandon-creighton-race-gender-discussions",
+      "published_at": "Tue, 02 Dec 2025 00:11:13 +0000",
+      "bullets": [
+        "• Texas Tech Chancellor Brandon Creighton imposed restrictions on how faculty discuss race, sex, gender identity and sexual orientation in classrooms",
+        "• Creighton says instructors may not promote that “one race or sex is inherently superior to another; an individual, by virtue or race, is inherently racist, sexist or oppressive”"
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Texas Tech Chancellor Brandon Creighton imposed restrictions on how faculty discuss race, sex, gender identity and sexual orientation in classrooms",
+          "• Creighton says instructors may not promote that “one race or sex is inherently superior to another; an individual, by virtue or race, is inherently racist, sexist or oppressive”"
+        ],
+        "hopeful_bullets": [
+          "• Texas Tech Chancellor Brandon Creighton imposed restrictions on how faculty discuss race, sex, gender identity and sexual orientation in classrooms",
+          "• Creighton says instructors may not promote that “one race or sex is inherently superior to another; an individual, by virtue or race, is inherently racist, sexist or oppressive”"
+        ],
+        "stakes_bullets": [
+          "• Texas Tech Chancellor Brandon Creighton imposed restrictions on how faculty discuss race, sex, gender identity and sexual orientation in classrooms",
+          "• Creighton says instructors may not promote that “one race or sex is inherently superior to another; an individual, by virtue or race, is inherently racist, sexist or oppressive”"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "232c5305fec2"
+    },
+    {
+      "id": "6ab0e115ba2a",
+      "title": "James Gunn Says Every Batman Fan Wants These Three Things on the DCU's Next Dark Knight",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/james-gunn-on-what-fans-want-on-dcu-batman/",
+      "published_at": "Tue, 02 Dec 2025 00:11:06 GMT",
+      "bullets": [
+        "• There are three specific and easily recognizable elements to the character of Batman that fans have frequently requested be involved in his DCU depiction",
+        "• The co-head of DC Studios weighed in on this topic in response to a fan question on Threads",
+        "• In particular, they want the Caped Crusader to dress in a blue and gray suit with the yellow oval surrounding the bat symbol "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• There are three specific and easily recognizable elements to the character of Batman that fans have frequently requested be involved in his DCU depiction",
+          "• The co-head of DC Studios weighed in on this topic in response to a fan question on Threads"
+        ],
+        "hopeful_bullets": [
+          "• There are three specific and easily recognizable elements to the character of Batman that fans have frequently requested be involved in his DCU depiction",
+          "• The co-head of DC Studios weighed in on this topic in response to a fan question on Threads"
+        ],
+        "stakes_bullets": [
+          "• There are three specific and easily recognizable elements to the character of Batman that fans have frequently requested be involved in his DCU depiction",
+          "• The co-head of DC Studios weighed in on this topic in response to a fan question on Threads",
+          "• In particular, they want the Caped Crusader to dress in a blue and gray suit with the yellow oval surrounding the bat symbol "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "b8ad9d494397"
+    },
+    {
+      "id": "8d07663ead20",
+      "title": "Dragon Ball Officially Teams Up with KFC for a Finger-Lickin' Good Release",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dragon-ball-official-kfc-release/",
+      "published_at": "Tue, 02 Dec 2025 00:00:12 GMT",
+      "bullets": [
+        "• KFC Italia is collaborating with Dragon Ball for a tasty new meal based on the world-renowned franchise",
+        "• Claudio Moneta, the official voice of Dragon Ball Z, narrated the first ad for the exciting anime collaboration",
+        "• The Dragon Ball x KFC menu includes the classic bucket of chicken, as well as chicken burgers",
+        "• KFC has collaborated with anime franchises like Mobile Suit Gundam, Pokémon and Attack on Titan "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• KFC Italia is collaborating with Dragon Ball for a tasty new meal based on the world-renowned franchise",
+          "• Claudio Moneta, the official voice of Dragon Ball Z, narrated the first ad for the exciting anime collaboration"
+        ],
+        "hopeful_bullets": [
+          "• KFC Italia is collaborating with Dragon Ball for a tasty new meal based on the world-renowned franchise",
+          "• Claudio Moneta, the official voice of Dragon Ball Z, narrated the first ad for the exciting anime collaboration"
+        ],
+        "stakes_bullets": [
+          "• KFC Italia is collaborating with Dragon Ball for a tasty new meal based on the world-renowned franchise",
+          "• Claudio Moneta, the official voice of Dragon Ball Z, narrated the first ad for the exciting anime collaboration",
+          "• The Dragon Ball x KFC menu includes the classic bucket of chicken, as well as chicken burgers"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c3c1a694ff5c"
+    },
+    {
+      "id": "033d0ba53504",
+      "title": "10 Marvel Heroes Better Than Spider-Man",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/greatest-marvel-heroes-better-than-spider-man/",
+      "published_at": "Tue, 02 Dec 2025 00:00:12 GMT",
+      "bullets": [
+        "• Spider-Man is one of the greatest heroes in Marvel history",
+        "• She-Hulk proves that some heroes really can do it all",
+        "• All of these heroes are dedicated to helping others and have the potential to be some of the best superheroes of all time "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Spider-Man is one of the greatest heroes in Marvel history",
+          "• She-Hulk proves that some heroes really can do it all"
+        ],
+        "hopeful_bullets": [
+          "• All of these heroes are dedicated to helping others and have the potential to be some of the best superheroes of all time "
+        ],
+        "stakes_bullets": [
+          "• Spider-Man is one of the greatest heroes in Marvel history",
+          "• She-Hulk proves that some heroes really can do it all",
+          "• All of these heroes are dedicated to helping others and have the potential to be some of the best superheroes of all time "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "cb1eacfa317c"
     },
     {
       "id": "2ebb9ebcde07",
@@ -3607,6 +3709,38 @@
       "cluster_id": "65957aace200"
     },
     {
+      "id": "c4a0da47dcbd",
+      "title": "White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/dec/01/donald-trump-pete-hegseth-caribbean-boats-venezuela-immigration-us-politics-latest-news-updates",
+      "published_at": "Mon, 01 Dec 2025 23:31:49 GMT",
+      "bullets": [
+        "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
+        "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
+          "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
+        ],
+        "hopeful_bullets": [
+          "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
+          "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
+        ],
+        "stakes_bullets": [
+          "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
+          "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
+        ]
+      },
+      "read_minutes": 14,
+      "cluster_id": "4f99d601fbbb"
+    },
+    {
       "id": "fd97df5f174a",
       "title": "The Neverending Story Trilogy Is Better Than The Lord of the Rings",
       "outlet": "CBR",
@@ -3905,70 +4039,6 @@
       "cluster_id": "d36bb0724ba4"
     },
     {
-      "id": "c4a0da47dcbd",
-      "title": "White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/dec/01/donald-trump-pete-hegseth-caribbean-boats-venezuela-immigration-us-politics-latest-news-updates",
-      "published_at": "Mon, 01 Dec 2025 22:47:36 GMT",
-      "bullets": [
-        "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
-        "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
-          "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
-        ],
-        "hopeful_bullets": [
-          "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
-          "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
-        ],
-        "stakes_bullets": [
-          "• White House says second strike on vessel was legal and conducted in ‘self defense’ amid scrutiny – live – live",
-          "• Karoline Leavitt: “Presidentially designated Narco terrorist groups are subject to lethal targeting in accordance with the laws of war’"
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "4f99d601fbbb"
-    },
-    {
-      "id": "533af920a6dc",
-      "title": "Justin Lin To Direct Helldivers Movie",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/helldivers-movie-star-trek-director-justin-lin/",
-      "published_at": "Mon, 01 Dec 2025 22:41:46 GMT",
-      "bullets": [
-        "• Star Trek Beyond is set to be a film adaptation of the popular video game series",
-        "• The original version of the game was released in 2015 and has sold 12 million copies on PlayStation 5 and PC",
-        "• The film will be based on the game's success in the video game industry "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Star Trek Beyond is set to be a film adaptation of the popular video game series",
-          "• The original version of the game was released in 2015 and has sold 12 million copies on PlayStation 5 and PC"
-        ],
-        "hopeful_bullets": [
-          "• Star Trek Beyond is set to be a film adaptation of the popular video game series",
-          "• The original version of the game was released in 2015 and has sold 12 million copies on PlayStation 5 and PC"
-        ],
-        "stakes_bullets": [
-          "• The film will be based on the game's success in the video game industry "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "119c69c51dfa"
-    },
-    {
       "id": "0efb4d63f1c9",
       "title": "‘Ready or Not 2: Here I Come’ – Samara Weaving and Sarah Michelle Gellar Features In New Images",
       "outlet": "Dread Central",
@@ -4102,40 +4172,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "189bfed5e572"
-    },
-    {
-      "id": "737cad4bbe7c",
-      "title": "Original Transformers Movie Returns With New 'Chaotic Threshold' Release",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/transformers-chaotic-threshold-auldey-alpha-action-elite/",
-      "published_at": "Mon, 01 Dec 2025 22:30:11 GMT",
-      "bullets": [
-        "• Auldey's Alpha Action Elite Wave 3 \"Chaotic Threshold\" is based on the Transformers from the Generation 1 continuity",
-        "• The figures are based on characters from 1986's The Transformers: The Movie",
-        "• One image shows the heroic Hot Rod (destined to become Rodimus Prime) and he's joined by Bumblebee, Brawn and Ricochet "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.713
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Auldey's Alpha Action Elite Wave 3 \"Chaotic Threshold\" is based on the Transformers from the Generation 1 continuity",
-          "• The figures are based on characters from 1986's The Transformers: The Movie"
-        ],
-        "hopeful_bullets": [
-          "• Auldey's Alpha Action Elite Wave 3 \"Chaotic Threshold\" is based on the Transformers from the Generation 1 continuity",
-          "• The figures are based on characters from 1986's The Transformers: The Movie"
-        ],
-        "stakes_bullets": [
-          "• Auldey's Alpha Action Elite Wave 3 \"Chaotic Threshold\" is based on the Transformers from the Generation 1 continuity",
-          "• The figures are based on characters from 1986's The Transformers: The Movie",
-          "• One image shows the heroic Hot Rod (destined to become Rodimus Prime) and he's joined by Bumblebee, Brawn and Ricochet "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "84f911ef1870"
     },
     {
       "id": "2608e91193bb",
@@ -4369,39 +4405,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "7d62ec86cfea"
-    },
-    {
-      "id": "2c16ac2e0f77",
-      "title": "Narnia’s Greatest Film Moment Was Cut From the Books (& the Netflix Reboot Can't Top It)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/narnias-greatest-film-scene-battle-of-beruna-cut-from-books/",
-      "published_at": "Mon, 01 Dec 2025 22:00:11 GMT",
-      "bullets": [
-        "• Andrew Adamson's 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe was generally well received by critics and general audiences alike",
-        "• A highlight of the film was its climactic final battle, in which young Peter Pevensie led forces against Jadis the White Witch and her army of monsters",
-        "• The scene was almost entirely fabricated for the film "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Andrew Adamson's 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe was generally well received by critics and general audiences alike",
-          "• A highlight of the film was its climactic final battle, in which young Peter Pevensie led forces against Jadis the White Witch and her army of monsters"
-        ],
-        "hopeful_bullets": [
-          "• A highlight of the film was its climactic final battle, in which young Peter Pevensie led forces against Jadis the White Witch and her army of monsters"
-        ],
-        "stakes_bullets": [
-          "• Andrew Adamson's 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe was generally well received by critics and general audiences alike",
-          "• A highlight of the film was its climactic final battle, in which young Peter Pevensie led forces against Jadis the White Witch and her army of monsters",
-          "• The scene was almost entirely fabricated for the film "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "4df54d2b1423"
     },
     {
       "id": "e9d209f76e6b",
@@ -4873,26 +4876,26 @@
       "url": "https://www.theguardian.com/us-news/2025/dec/01/luigi-mangione-new-york-evidence-hearing",
       "published_at": "Mon, 01 Dec 2025 21:13:25 GMT",
       "bullets": [
-        "• Luigi Mangione was kept under tight supervision in a Pennsylvania state prison last year because officials “did not want an Epstein-style situation’, a corrections officer said",
+        "• Luigi Mangione was kept under tight supervision in a Pennsylvania state prison last year because officials ‘did not want an Epstein-style situation’, a corrections officer said",
         "• Mangione has attracted some enthusiastic supporters, both online and at his court appearances",
-        "• In addition to state-level charges, he faces a federal court case "
+        "• In addition to state-level charges, he faces a Manhattan federal court case "
       ],
       "category": "US",
       "sentiment": {
         "label": "positive",
-        "score": 0.995
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• Luigi Mangione was kept under tight supervision in a Pennsylvania state prison last year because officials “did not want an Epstein-style situation’, a corrections officer said",
+          "• Luigi Mangione was kept under tight supervision in a Pennsylvania state prison last year because officials ‘did not want an Epstein-style situation’, a corrections officer said",
           "• Mangione has attracted some enthusiastic supporters, both online and at his court appearances"
         ],
         "hopeful_bullets": [
-          "• Luigi Mangione was kept under tight supervision in a Pennsylvania state prison last year because officials “did not want an Epstein-style situation’, a corrections officer said",
+          "• Luigi Mangione was kept under tight supervision in a Pennsylvania state prison last year because officials ‘did not want an Epstein-style situation’, a corrections officer said",
           "• Mangione has attracted some enthusiastic supporters, both online and at his court appearances"
         ],
         "stakes_bullets": [
-          "• Luigi Mangione was kept under tight supervision in a Pennsylvania state prison last year because officials “did not want an Epstein-style situation’, a corrections officer said"
+          "• Luigi Mangione was kept under tight supervision in a Pennsylvania state prison last year because officials ‘did not want an Epstein-style situation’, a corrections officer said"
         ]
       },
       "read_minutes": 4,
@@ -5842,37 +5845,34 @@
     },
     {
       "id": "b6e3d114cf89",
-      "title": "Megan Thee Stallion Wins Defamation Trial Against Blogger",
+      "title": "Megan Thee Stallion Wins at Trial Over Deepfake Porn Video and Harassment",
       "outlet": "Music News",
       "url": "https://www.rollingstone.com/music/music-news/megan-thee-stallion-wins-defamation-trial-blogger-1235471592/",
       "published_at": "Mon, 01 Dec 2025 19:12:54 +0000",
       "bullets": [
-        "• Rapper Megan Thee Stallion wins defamation lawsuit against Milagro Gramz",
-        "• Gramz is accused of coordinating with Tory Lanez to spread \"hateful rumors\" and promote porn video without consent",
-        "• The jury awarded the Grammy-winning rapper $75,000 in damages "
+        "• Milagro Gramz is found guilty of defamation, harassment, and promoting a porn video of Megan Thee Stallion",
+        "• The jury awarded the Grammy-winning rapper, born Megan Pete, $75,000 in damages",
+        "• Megan's legal fees are expected to top $1 million, according to a source "
       ],
       "category": "Music",
       "sentiment": {
         "label": "negative",
-        "score": 0.982
+        "score": 0.988
       },
       "moods": {
         "brief_bullets": [
-          "• Rapper Megan Thee Stallion wins defamation lawsuit against Milagro Gramz",
-          "• Gramz is accused of coordinating with Tory Lanez to spread \"hateful rumors\" and promote porn video without consent"
+          "• Milagro Gramz is found guilty of defamation, harassment, and promoting a porn video of Megan Thee Stallion",
+          "• The jury awarded the Grammy-winning rapper, born Megan Pete, $75,000 in damages"
         ],
         "hopeful_bullets": [
-          "• Rapper Megan Thee Stallion wins defamation lawsuit against Milagro Gramz",
-          "• The jury awarded the Grammy-winning rapper $75,000 in damages "
+          "• The jury awarded the Grammy-winning rapper, born Megan Pete, $75,000 in damages"
         ],
         "stakes_bullets": [
-          "• Rapper Megan Thee Stallion wins defamation lawsuit against Milagro Gramz",
-          "• Gramz is accused of coordinating with Tory Lanez to spread \"hateful rumors\" and promote porn video without consent",
-          "• The jury awarded the Grammy-winning rapper $75,000 in damages "
+          "• Megan's legal fees are expected to top $1 million, according to a source "
         ]
       },
       "read_minutes": 8,
-      "cluster_id": "83a141432704"
+      "cluster_id": "495b4f5f1c22"
     },
     {
       "id": "8745ad3187a3",
@@ -8537,6 +8537,71 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "3eb17dec35ce",
+      "title": "The Apple Watch Series 11 is $70 off, beating its Black Friday price",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/gadgets/835083/cyber-monday-apple-watch-series-11-deal-sale-2025",
+      "published_at": "2025-12-01T18:48:30-05:00",
+      "bullets": [
+        "• The 42mm Apple Watch Series 11 with GPS is $329 at Amazon, Best Buy, and Target",
+        "• The 46mm model with GPS costs $359 (also $70 off) for larger wrists",
+        "• Apple’s flagship watch is its slimmest wearable yet, with a display that company claims is twice as durable and more scratch-resistant "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The 42mm Apple Watch Series 11 with GPS is $329 at Amazon, Best Buy, and Target",
+          "• The 46mm model with GPS costs $359 (also $70 off) for larger wrists"
+        ],
+        "hopeful_bullets": [
+          "• The 42mm Apple Watch Series 11 with GPS is $329 at Amazon, Best Buy, and Target",
+          "• The 46mm model with GPS costs $359 (also $70 off) for larger wrists"
+        ],
+        "stakes_bullets": [
+          "• The 46mm model with GPS costs $359 (also $70 off) for larger wrists"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "6381b971c640"
+    },
+    {
+      "id": "5b88b5eff6e0",
+      "title": "The Luigi Mangione legal saga",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/835433/the-luigi-mangione-legal-saga",
+      "published_at": "2025-12-01T18:34:15-05:00",
+      "bullets": [
+        "• Luigi Mangione is accused of shooting UnitedHealthcare CEO Brian Thompson in Manhattan",
+        "• Mangione faces charges of first and second degree murder, criminal possession of a weapon, stalking, forgery, and others",
+        "• The Department of Justice is now seeking the death penalty against Mangione, which his lawyers are attempting to get dismissed "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Luigi Mangione is accused of shooting UnitedHealthcare CEO Brian Thompson in Manhattan",
+          "• Mangione faces charges of first and second degree murder, criminal possession of a weapon, stalking, forgery, and others"
+        ],
+        "hopeful_bullets": [
+          "• The Department of Justice is now seeking the death penalty against Mangione, which his lawyers are attempting to get dismissed "
+        ],
+        "stakes_bullets": [
+          "• Luigi Mangione is accused of shooting UnitedHealthcare CEO Brian Thompson in Manhattan",
+          "• Mangione faces charges of first and second degree murder, criminal possession of a weapon, stalking, forgery, and others",
+          "• The Department of Justice is now seeking the death penalty against Mangione, which his lawyers are attempting to get dismissed "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "f0a5ef4f7b65"
+    },
+    {
       "id": "e3fcfd6364bb",
       "title": "These great Cyber Monday tech deals will likely be gone tomorrow",
       "outlet": "The Verge",
@@ -8795,72 +8860,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "e71e268fcc90"
-    },
-    {
-      "id": "d68d4f4d1fb2",
-      "title": "Microsoft&#8217;s ugly sweaters return with Clippy, Xbox, and Zune brown options",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/835130/microsoft-ugly-sweater-clippy-zune-brown-xbox",
-      "published_at": "2025-12-01T14:03:22-05:00",
-      "bullets": [
-        "• Microsoft has re-released its ugly sweaters for the holiday season",
-        "• The sweaters are available for $79.95 and can be pre-ordered at Microsoft’s online store or in New York City",
-        "• All three sweaters can be purchased at the store or online in Washington "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Microsoft has re-released its ugly sweaters for the holiday season",
-          "• The sweaters are available for $79.95 and can be pre-ordered at Microsoft’s online store or in New York City"
-        ],
-        "hopeful_bullets": [
-          "• Microsoft has re-released its ugly sweaters for the holiday season",
-          "• The sweaters are available for $79.95 and can be pre-ordered at Microsoft’s online store or in New York City"
-        ],
-        "stakes_bullets": [
-          "• Microsoft has re-released its ugly sweaters for the holiday season",
-          "• The sweaters are available for $79.95 and can be pre-ordered at Microsoft’s online store or in New York City",
-          "• All three sweaters can be purchased at the store or online in Washington "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "15e0ccf6cfa4"
-    },
-    {
-      "id": "d635acadbe77",
-      "title": "The Nintendo Switch 2 got its first-ever discount during Cyber Monday",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/gadgets/834775/nintendo-switch-2-walmart-cyber-monday-deal-sale",
-      "published_at": "2025-12-01T13:45:57-05:00",
-      "bullets": [
-        "• The Nintendo Switch 2 got its first-ever discount during Cyber Monday",
-        "• Amazon, Walmart, Best Buy and Best Buy are selling Mario Kart World for $449.99 ($50 off) Nintendo’s limited-time bundle already saves you $30 compared to buying the console and game separately "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Nintendo Switch 2 got its first-ever discount during Cyber Monday",
-          "• Amazon, Walmart, Best Buy and Best Buy are selling Mario Kart World for $449.99 ($50 off) Nintendo’s limited-time bundle already saves you $30 compared to buying the console and game separately "
-        ],
-        "hopeful_bullets": [
-          "• The Nintendo Switch 2 got its first-ever discount during Cyber Monday",
-          "• Amazon, Walmart, Best Buy and Best Buy are selling Mario Kart World for $449.99 ($50 off) Nintendo’s limited-time bundle already saves you $30 compared to buying the console and game separately "
-        ],
-        "stakes_bullets": [
-          "• The Nintendo Switch 2 got its first-ever discount during Cyber Monday",
-          "• Amazon, Walmart, Best Buy and Best Buy are selling Mario Kart World for $449.99 ($50 off) Nintendo’s limited-time bundle already saves you $30 compared to buying the console and game separately "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "51074cc9ffd2"
     },
     {
       "id": "c41ff758b36a",
@@ -10377,6 +10376,40 @@
       ]
     },
     {
+      "id": "6381b971c640",
+      "topic": "apple beating black off",
+      "keywords": [
+        "apple",
+        "beating",
+        "black",
+        "off",
+        "serie",
+        "watch"
+      ],
+      "item_ids": [
+        "3eb17dec35ce"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "f0a5ef4f7b65",
+      "topic": "legal luigi mangione saga",
+      "keywords": [
+        "legal",
+        "luigi",
+        "mangione",
+        "saga"
+      ],
+      "item_ids": [
+        "5b88b5eff6e0"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "407da6ba0f46",
       "topic": "cyber deal great monday",
       "keywords": [
@@ -10514,42 +10547,6 @@
       ],
       "item_ids": [
         "883ecf0ac8e2"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "15e0ccf6cfa4",
-      "topic": "8217 clippy microsoft return",
-      "keywords": [
-        "8217",
-        "clippy",
-        "microsoft",
-        "return",
-        "sweater",
-        "ugly"
-      ],
-      "item_ids": [
-        "d68d4f4d1fb2"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "51074cc9ffd2",
-      "topic": "discount ever first got",
-      "keywords": [
-        "discount",
-        "ever",
-        "first",
-        "got",
-        "nintendo",
-        "switch"
-      ],
-      "item_ids": [
-        "d635acadbe77"
       ],
       "outlets": [
         "The Verge"
@@ -13440,6 +13437,59 @@
       ]
     },
     {
+      "id": "b8ad9d494397",
+      "topic": "batman every fan gunn",
+      "keywords": [
+        "batman",
+        "every",
+        "fan",
+        "gunn",
+        "jame",
+        "want"
+      ],
+      "item_ids": [
+        "6ab0e115ba2a"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "c3c1a694ff5c",
+      "topic": "ball dragon finger kfc",
+      "keywords": [
+        "ball",
+        "dragon",
+        "finger",
+        "kfc",
+        "officially",
+        "team"
+      ],
+      "item_ids": [
+        "8d07663ead20"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "cb1eacfa317c",
+      "topic": "better heroe man marvel",
+      "keywords": [
+        "better",
+        "heroe",
+        "man",
+        "marvel",
+        "spider"
+      ],
+      "item_ids": [
+        "033d0ba53504"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "d2e56409d389",
       "topic": "80s anime diehard gem",
       "keywords": [
@@ -13559,59 +13609,6 @@
       ],
       "item_ids": [
         "f8551507e87f"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "119c69c51dfa",
-      "topic": "direct helldiver justin lin",
-      "keywords": [
-        "direct",
-        "helldiver",
-        "justin",
-        "lin",
-        "movie"
-      ],
-      "item_ids": [
-        "533af920a6dc"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "84f911ef1870",
-      "topic": "chaotic movie original return",
-      "keywords": [
-        "chaotic",
-        "movie",
-        "original",
-        "return",
-        "threshold",
-        "transformer"
-      ],
-      "item_ids": [
-        "737cad4bbe7c"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "4df54d2b1423",
-      "topic": "book cut film greatest",
-      "keywords": [
-        "book",
-        "cut",
-        "film",
-        "greatest",
-        "moment",
-        "narnia"
-      ],
-      "item_ids": [
-        "2c16ac2e0f77"
       ],
       "outlets": [
         "CBR"
@@ -13904,10 +13901,10 @@
       ]
     },
     {
-      "id": "83a141432704",
-      "topic": "defamation megan stallion thee",
+      "id": "495b4f5f1c22",
+      "topic": "deepfake megan stallion thee",
       "keywords": [
-        "defamation",
+        "deepfake",
         "megan",
         "stallion",
         "thee",
@@ -14154,6 +14151,24 @@
       ]
     },
     {
+      "id": "232c5305fec2",
+      "topic": "gender limit race system",
+      "keywords": [
+        "gender",
+        "limit",
+        "race",
+        "system",
+        "tech",
+        "texa"
+      ],
+      "item_ids": [
+        "25aaf00d7eb6"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "a8b2f453e2d5",
       "topic": "gary private rep school",
       "keywords": [
@@ -14310,24 +14325,6 @@
       ],
       "item_ids": [
         "b6d8b32adae3"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "b251514f2eff",
-      "topic": "better county prepare texa",
-      "keywords": [
-        "better",
-        "county",
-        "prepare",
-        "texa",
-        "want",
-        "west"
-      ],
-      "item_ids": [
-        "e10db5db4307"
       ],
       "outlets": [
         "The Texas Tribune"
