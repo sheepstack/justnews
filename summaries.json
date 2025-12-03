@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-03T07:15:05Z",
+  "generated_at": "2025-12-03T08:04:07Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -298,38 +298,6 @@
       "cluster_id": "16cb7c690846"
     },
     {
-      "id": "35863ee4867f",
-      "title": "How the turkey trotted its way onto our Thanksgiving tables — and into our lexicon",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/26/nx-s1-5612661/turkey-word-origin-thanksgiving",
-      "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• The turkey was first brought across the Atlantic to Europe in 17th century",
-        "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving",
-        "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The turkey was first brought across the Atlantic to Europe in 17th century",
-          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
-        ],
-        "hopeful_bullets": [
-          "• The turkey was first brought across the Atlantic to Europe in 17th century",
-          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
-        ],
-        "stakes_bullets": [
-          "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "954bdce0a552"
-    },
-    {
       "id": "02062fa3096c",
       "title": "The U.S. produces a lot of food waste. This place wants to address it",
       "outlet": "NPR Topics: Science",
@@ -361,6 +329,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "57c1f5751537"
+    },
+    {
+      "id": "35863ee4867f",
+      "title": "How the turkey trotted its way onto our Thanksgiving tables — and into our lexicon",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/26/nx-s1-5612661/turkey-word-origin-thanksgiving",
+      "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• The turkey was first brought across the Atlantic to Europe in 17th century",
+        "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving",
+        "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The turkey was first brought across the Atlantic to Europe in 17th century",
+          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
+        ],
+        "hopeful_bullets": [
+          "• The turkey was first brought across the Atlantic to Europe in 17th century",
+          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
+        ],
+        "stakes_bullets": [
+          "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "954bdce0a552"
     },
     {
       "id": "f7990419e35e",
@@ -595,6 +595,71 @@
       "cluster_id": "a98a0ede1c29"
     },
     {
+      "id": "c2092356fa91",
+      "title": "CNBC's The China Connection newsletter: Three economic flashpoints for 2026",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/03/cnbc-china-connection-newsletter-three-economic-flashpoints-2026-property-consumption-deflation.html",
+      "published_at": "Wed, 03 Dec 2025 07:28:44 GMT",
+      "bullets": [
+        "• China is closing out 2025 with far more confidence on the world stage than at the start of the year",
+        "• It was the first major economy to retaliate against U.S",
+        "• \"Liberation Day\" tariffs",
+        "• The country's top leaders are expected to discuss policy plans for 2026 at the annual \"Central Economic Work Conference\" next week "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China is closing out 2025 with far more confidence on the world stage than at the start of the year",
+          "• It was the first major economy to retaliate against U.S"
+        ],
+        "hopeful_bullets": [
+          "• It was the first major economy to retaliate against U.S"
+        ],
+        "stakes_bullets": [
+          "• The country's top leaders are expected to discuss policy plans for 2026 at the annual \"Central Economic Work Conference\" next week "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "e0bdb2feb95e"
+    },
+    {
+      "id": "218692b8a27b",
+      "title": "European stocks set for positive open as global markets push higher",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/03/european-markets-on-decpoint3-2025-stoxx-600-ftse-dax-cac.html",
+      "published_at": "Wed, 03 Dec 2025 07:01:23 GMT",
+      "bullets": [
+        "• European markets expected to open in positive territory on Wednesday as global markets move higher",
+        "• The positive open eyed by regional markets comes after major U.S",
+        "• indexes recovered in Tuesday's trading session and Asia-Pacific markets rose broadly overnight",
+        "• German fashion brand Hugo Boss updated its guidance on Wednesday "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• European markets expected to open in positive territory on Wednesday as global markets move higher",
+          "• The positive open eyed by regional markets comes after major U.S"
+        ],
+        "hopeful_bullets": [
+          "• European markets expected to open in positive territory on Wednesday as global markets move higher",
+          "• The positive open eyed by regional markets comes after major U.S"
+        ],
+        "stakes_bullets": [
+          "• European markets expected to open in positive territory on Wednesday as global markets move higher"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "33b7f47824e5"
+    },
+    {
       "id": "c1b357faf089",
       "title": "SoftBank rises 6% as Japanese tech stocks track gains in U.S. peers",
       "outlet": "US Top News and Analysis",
@@ -626,36 +691,38 @@
       "cluster_id": "caedceadd7af"
     },
     {
-      "id": "c2092356fa91",
-      "title": "CNBC's The China Connection newsletter: Three economic flashpoints for 2026",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/03/cnbc-china-connection-newsletter-three-economic-flashpoints-2026-property-consumption-deflation.html",
-      "published_at": "Wed, 03 Dec 2025 06:38:27 GMT",
+      "id": "3f920a7ba79e",
+      "title": "Man charged with theft over claims he swallowed $19k Fabergé egg",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c7vm754r80vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 03 Dec 2025 06:37:45 GMT",
       "bullets": [
-        "• China is closing out 2025 with far more confidence on the world stage than at the start of the year",
-        "• It was the first major economy to retaliate against U.S",
-        "• \"Liberation Day\" tariffs",
-        "• The country's top leaders are expected to discuss policy plans for 2026 at the annual \"Central Economic Work Conference\" next week "
+        "• Man charged with theft over claims he swallowed $19k Fabergé egg locket",
+        "• The 32-year-old man was arrested in a jewellery store in Auckland, New Zealand",
+        "• The locket is worth NZ$33,585 ($19,300; £14,600) and has not yet been recovered "
       ],
-      "category": "Business",
+      "category": "World",
       "sentiment": {
-        "label": "positive",
-        "score": 0.993
+        "label": "negative",
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• China is closing out 2025 with far more confidence on the world stage than at the start of the year",
-          "• It was the first major economy to retaliate against U.S"
+          "• Man charged with theft over claims he swallowed $19k Fabergé egg locket",
+          "• The 32-year-old man was arrested in a jewellery store in Auckland, New Zealand"
         ],
         "hopeful_bullets": [
-          "• It was the first major economy to retaliate against U.S"
+          "• Man charged with theft over claims he swallowed $19k Fabergé egg locket",
+          "• The 32-year-old man was arrested in a jewellery store in Auckland, New Zealand"
         ],
         "stakes_bullets": [
-          "• The country's top leaders are expected to discuss policy plans for 2026 at the annual \"Central Economic Work Conference\" next week "
+          "• Man charged with theft over claims he swallowed $19k Fabergé egg locket",
+          "• The 32-year-old man was arrested in a jewellery store in Auckland, New Zealand",
+          "• The locket is worth NZ$33,585 ($19,300; £14,600) and has not yet been recovered "
         ]
       },
-      "read_minutes": 5,
-      "cluster_id": "e0bdb2feb95e"
+      "read_minutes": 1,
+      "cluster_id": "8c6edd4cd372"
     },
     {
       "id": "e34ffdd69546",
@@ -722,39 +789,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "bc113b7a55a9"
-    },
-    {
-      "id": "218692b8a27b",
-      "title": "European stocks set for positive open as global markets push higher",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/03/european-markets-on-decpoint3-2025-stoxx-600-ftse-dax-cac.html",
-      "published_at": "Wed, 03 Dec 2025 06:20:31 GMT",
-      "bullets": [
-        "• FTSE seen opening 0.11% higher, Germany's DAX up 0.16% and France's CAC 40 up",
-        "• Asia-Pacific markets rose broadly overnight as global markets move higher",
-        "• Wall Street's gains came as tech stocks such as Nvidia rose and bitcoin gained, a day after the flagship cryptocurrency logged its worst day since March "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• FTSE seen opening 0.11% higher, Germany's DAX up 0.16% and France's CAC 40 up",
-          "• Asia-Pacific markets rose broadly overnight as global markets move higher"
-        ],
-        "hopeful_bullets": [
-          "• Wall Street's gains came as tech stocks such as Nvidia rose and bitcoin gained, a day after the flagship cryptocurrency logged its worst day since March "
-        ],
-        "stakes_bullets": [
-          "• FTSE seen opening 0.11% higher, Germany's DAX up 0.16% and France's CAC 40 up",
-          "• Asia-Pacific markets rose broadly overnight as global markets move higher",
-          "• Wall Street's gains came as tech stocks such as Nvidia rose and bitcoin gained, a day after the flagship cryptocurrency logged its worst day since March "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "33b7f47824e5"
     },
     {
       "id": "cd1a2f13f003",
@@ -1019,8 +1053,42 @@
       "cluster_id": "1d0a8f8c254a"
     },
     {
+      "id": "87ad37885ef7",
+      "title": "Search for long-missing Malaysia Airlines flight MH370 to resume",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy7v077dm0po?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 03 Dec 2025 05:13:02 GMT",
+      "bullets": [
+        "• Search for long-missing Malaysia Airlines flight MH370 to resume on 30 December",
+        "• Flight MH370 disappeared in March 2014 while travelling from Kuala Lumpur to Beijing",
+        "• Over a decade after the aircraft with 239 people on board vanished, it remains one of the greatest aviation mysteries "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Search for long-missing Malaysia Airlines flight MH370 to resume on 30 December",
+          "• Flight MH370 disappeared in March 2014 while travelling from Kuala Lumpur to Beijing"
+        ],
+        "hopeful_bullets": [
+          "• Search for long-missing Malaysia Airlines flight MH370 to resume on 30 December",
+          "• Flight MH370 disappeared in March 2014 while travelling from Kuala Lumpur to Beijing"
+        ],
+        "stakes_bullets": [
+          "• Search for long-missing Malaysia Airlines flight MH370 to resume on 30 December",
+          "• Flight MH370 disappeared in March 2014 while travelling from Kuala Lumpur to Beijing",
+          "• Over a decade after the aircraft with 239 people on board vanished, it remains one of the greatest aviation mysteries "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "9d9e88deced3"
+    },
+    {
       "id": "39a2dda0f8b6",
-      "title": "Reuse and return schemes could help eliminate plastic waste in 15 years – report",
+      "title": "Reuse and return schemes could help eliminate plastic pollution in 15 years – report",
       "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/environment/2025/dec/03/reuse-and-return-schemes-could-help-eliminate-plastic-waste-in-15-years-report",
       "published_at": "Wed, 03 Dec 2025 05:01:52 GMT",
@@ -1386,6 +1454,75 @@
       "cluster_id": "34d0012490e5"
     },
     {
+      "id": "a41969ed0e8a",
+      "title": "YouTube says it will be less safe for kids under Australia's social media ban",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp341gz24p5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 03 Dec 2025 03:10:40 GMT",
+      "bullets": [
+        "• YouTube says it will be less safe for kids under Australia's social media ban",
+        "• Parents will lose their ability to supervise their teen or tween's account from 10 December",
+        "• Children will still be able to view videos but without an account",
+        "• The government reversed an exemption for YouTube from the ban in July "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• YouTube says it will be less safe for kids under Australia's social media ban",
+          "• Parents will lose their ability to supervise their teen or tween's account from 10 December"
+        ],
+        "hopeful_bullets": [
+          "• YouTube says it will be less safe for kids under Australia's social media ban",
+          "• Parents will lose their ability to supervise their teen or tween's account from 10 December"
+        ],
+        "stakes_bullets": [
+          "• YouTube says it will be less safe for kids under Australia's social media ban",
+          "• Parents will lose their ability to supervise their teen or tween's account from 10 December",
+          "• Children will still be able to view videos but without an account",
+          "• The government reversed an exemption for YouTube from the ban in July "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "336758f0a766"
+    },
+    {
+      "id": "8e5a3e1adb66",
+      "title": "Trump says he doesn't want Somalis in US as ICE plans Minnesota operation",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c208x9v68w3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 03 Dec 2025 03:08:59 GMT",
+      "bullets": [
+        "• Trump says he doesn't want Somalis in US as ICE plans Minnesota operation",
+        "• Minnesota is home to one of the largest Somali communities in the world and largest in the US",
+        "• Officials in the state have condemned the plan, arguing it could unfairly sweep up American citizens who may appear to be from Somalia "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump says he doesn't want Somalis in US as ICE plans Minnesota operation",
+          "• Minnesota is home to one of the largest Somali communities in the world and largest in the US"
+        ],
+        "hopeful_bullets": [
+          "• Trump says he doesn't want Somalis in US as ICE plans Minnesota operation",
+          "• Minnesota is home to one of the largest Somali communities in the world and largest in the US"
+        ],
+        "stakes_bullets": [
+          "• Trump says he doesn't want Somalis in US as ICE plans Minnesota operation",
+          "• Officials in the state have condemned the plan, arguing it could unfairly sweep up American citizens who may appear to be from Somalia "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ed5926265f78"
+    },
+    {
       "id": "f2c71527a761",
       "title": "Pete Hegseth says he ‘didn’t stick around’ to watch second strike on alleged drug boat as Democrats slam administration over attacks – as it happened",
       "outlet": "World news | The Guardian",
@@ -1418,6 +1555,38 @@
       },
       "read_minutes": 18,
       "cluster_id": "f9b32f71f27b"
+    },
+    {
+      "id": "7c0f34dbe9ea",
+      "title": "As lead changes in knife-edge Honduran election, will Trump fail to get his way?",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9895x3039ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 03 Dec 2025 02:56:42 GMT",
+      "bullets": [
+        "• As lead changes in knife-edge Honduran election, will Trump fail to get his way? With a little over two-thirds of the ballots in the Honduras election tallied, the lead has changed hands",
+        "• Former vice-president Salvador Nasralla has a small but potentially significant lead over his rival, Nasry Asfura "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• As lead changes in knife-edge Honduran election, will Trump fail to get his way? With a little over two-thirds of the ballots in the Honduras election tallied, the lead has changed hands",
+          "• Former vice-president Salvador Nasralla has a small but potentially significant lead over his rival, Nasry Asfura "
+        ],
+        "hopeful_bullets": [
+          "• As lead changes in knife-edge Honduran election, will Trump fail to get his way? With a little over two-thirds of the ballots in the Honduras election tallied, the lead has changed hands",
+          "• Former vice-president Salvador Nasralla has a small but potentially significant lead over his rival, Nasry Asfura "
+        ],
+        "stakes_bullets": [
+          "• As lead changes in knife-edge Honduran election, will Trump fail to get his way? With a little over two-thirds of the ballots in the Honduras election tallied, the lead has changed hands",
+          "• Former vice-president Salvador Nasralla has a small but potentially significant lead over his rival, Nasry Asfura "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "442ccc11d809"
     },
     {
       "id": "2cff0ee05866",
@@ -1484,6 +1653,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "a03e50c0f2b6"
+    },
+    {
+      "id": "c7ec57ba0ca6",
+      "title": "Trump administration halts immigration applications for migrants from 19 nations",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/03/g-s1-100218/trump-administration-halts-immigration-19-nations",
+      "published_at": "Wed, 03 Dec 2025 02:14:26 -0500",
+      "bullets": [
+        "• Trump administration halts immigration applications for migrants from 19 nations",
+        "• The move is part of sweeping immigration changes in the wake of the shooting of two National Guard troops",
+        "• It's up to the agency's director, Joseph Edlow, on when to lift the pause "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump administration halts immigration applications for migrants from 19 nations",
+          "• The move is part of sweeping immigration changes in the wake of the shooting of two National Guard troops"
+        ],
+        "hopeful_bullets": [
+          "• Trump administration halts immigration applications for migrants from 19 nations",
+          "• The move is part of sweeping immigration changes in the wake of the shooting of two National Guard troops"
+        ],
+        "stakes_bullets": [
+          "• Trump administration halts immigration applications for migrants from 19 nations",
+          "• The move is part of sweeping immigration changes in the wake of the shooting of two National Guard troops",
+          "• It's up to the agency's director, Joseph Edlow, on when to lift the pause "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ca4e2081a3ef"
     },
     {
       "id": "b9ec650301a9",
@@ -1580,6 +1783,39 @@
       },
       "read_minutes": 2,
       "cluster_id": "746312a8ee40"
+    },
+    {
+      "id": "baafc3e1fdbe",
+      "title": "Deep-sea search for Malaysia Airlines Flight 370 to resume Dec. 30",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/03/nx-s1-5629996/malaysia-airlines-flight-search",
+      "published_at": "Wed, 03 Dec 2025 01:48:54 -0500",
+      "bullets": [
+        "• Deep-sea search for Malaysia Airlines Flight 370 to resume Dec",
+        "• 30, renewing hopes of finally locating the jet that vanished without a trace",
+        "• U.S.-based marine robotics firm Ocean Infinity will search intermittently for 55 days",
+        "• The Boeing 777 plane disappeared from radar shortly after taking off on March 8, 2014, carrying 239 people "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Deep-sea search for Malaysia Airlines Flight 370 to resume Dec",
+          "• 30, renewing hopes of finally locating the jet that vanished without a trace"
+        ],
+        "hopeful_bullets": [
+          "• 30, renewing hopes of finally locating the jet that vanished without a trace"
+        ],
+        "stakes_bullets": [
+          "• U.S.-based marine robotics firm Ocean Infinity will search intermittently for 55 days",
+          "• The Boeing 777 plane disappeared from radar shortly after taking off on March 8, 2014, carrying 239 people "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6a599be54436"
     },
     {
       "id": "b4b82a8ba509",
@@ -3502,39 +3738,6 @@
       "cluster_id": "061f8f4759ed"
     },
     {
-      "id": "3121b59f0f70",
-      "title": "Rare Fabergé egg fetches record £22.9m at London auction",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg7v24m1leyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 02 Dec 2025 20:16:22 GMT",
-      "bullets": [
-        "• The Winter Egg was commissioned by Tsar Nicholas II in 1913 as a present to his mother",
-        "• It is decorated with 4,500 diamonds and is one of just seven left in private hands",
-        "• The previous record for a Fabergé egg was £8.9m paid at auction in 2007",
-        "• It was carved from rock crystal and decorated with rose-cut diamonds "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.84
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Winter Egg was commissioned by Tsar Nicholas II in 1913 as a present to his mother",
-          "• It is decorated with 4,500 diamonds and is one of just seven left in private hands"
-        ],
-        "hopeful_bullets": [
-          "• The Winter Egg was commissioned by Tsar Nicholas II in 1913 as a present to his mother",
-          "• The previous record for a Fabergé egg was £8.9m paid at auction in 2007"
-        ],
-        "stakes_bullets": [
-          "• It was carved from rock crystal and decorated with rose-cut diamonds "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "07b215bc5a49"
-    },
-    {
       "id": "5e7e07a1c652",
       "title": "Stephen King Slams Martin Scorsese Masterpiece Now Streaming on Paramount+",
       "outlet": "Dread Central",
@@ -4360,38 +4563,6 @@
       "cluster_id": "abbe8ee1e844"
     },
     {
-      "id": "0200dae5e778",
-      "title": "Why is Trump threatening Venezuela's Maduro?",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 02 Dec 2025 17:06:32 GMT",
-      "bullets": [
-        "• Trump administration has doubled reward for information leading to Maduro's capture",
-        "• Dozens of people have been killed in attacks on boats alleged to have been transporting drugs from Venezuela",
-        "• Trump reportedly gave Maduro an ultimatum to leave Venezuela, in a phone call the two men had in November "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump administration has doubled reward for information leading to Maduro's capture",
-          "• Dozens of people have been killed in attacks on boats alleged to have been transporting drugs from Venezuela"
-        ],
-        "hopeful_bullets": [
-          "• Trump administration has doubled reward for information leading to Maduro's capture",
-          "• Dozens of people have been killed in attacks on boats alleged to have been transporting drugs from Venezuela"
-        ],
-        "stakes_bullets": [
-          "• Trump administration has doubled reward for information leading to Maduro's capture"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "77d34b760a5d"
-    },
-    {
       "id": "e6d21e6d7924",
       "title": "Foo Fighters Plot Los Angeles Benefit Show on Dave Grohl’s 57th Birthday",
       "outlet": "Music News",
@@ -4529,38 +4700,6 @@
       "cluster_id": "1bb24fa20c19"
     },
     {
-      "id": "1153817a2be1",
-      "title": "Nigeria grants asylum to Guinea-Bissau presidential candidate after coup",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce3wq2zznz1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 02 Dec 2025 16:51:10 GMT",
-      "bullets": [
-        "• Nigeria grants asylum to Guinea-Bissau presidential candidate Fernando Dias da Costa",
-        "• Dias was the main challenger to Umaro Sissoco Embaló, who was seeking a second term as president",
-        "• The military took control of the election and blocked the release of the results "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nigeria grants asylum to Guinea-Bissau presidential candidate Fernando Dias da Costa",
-          "• Dias was the main challenger to Umaro Sissoco Embaló, who was seeking a second term as president"
-        ],
-        "hopeful_bullets": [
-          "• Nigeria grants asylum to Guinea-Bissau presidential candidate Fernando Dias da Costa",
-          "• Dias was the main challenger to Umaro Sissoco Embaló, who was seeking a second term as president"
-        ],
-        "stakes_bullets": [
-          "• The military took control of the election and blocked the release of the results "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "01285b4d436b"
-    },
-    {
       "id": "23323f0da13e",
       "title": "Pope prays at Beirut port blast site on last day of Lebanon visit",
       "outlet": "BBC News",
@@ -4659,40 +4798,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "87b23c4e4848"
-    },
-    {
-      "id": "80c356e2f896",
-      "title": "Thousands of rounds of German army ammunition stolen from lorry",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0q5n3x0jn9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 02 Dec 2025 16:37:23 GMT",
-      "bullets": [
-        "• Thousands of rounds of ammunition stolen from a delivery lorry in Burg, Germany's defence ministry says",
-        "• Officials did not specify how much of the ammunition was taken, but it is thought to be close to 20,000 rounds",
-        "• The army has launched an investigation into the incident, which has prompted security concerns "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Thousands of rounds of ammunition stolen from a delivery lorry in Burg, Germany's defence ministry says",
-          "• Officials did not specify how much of the ammunition was taken, but it is thought to be close to 20,000 rounds"
-        ],
-        "hopeful_bullets": [
-          "• Thousands of rounds of ammunition stolen from a delivery lorry in Burg, Germany's defence ministry says",
-          "• Officials did not specify how much of the ammunition was taken, but it is thought to be close to 20,000 rounds"
-        ],
-        "stakes_bullets": [
-          "• Thousands of rounds of ammunition stolen from a delivery lorry in Burg, Germany's defence ministry says",
-          "• Officials did not specify how much of the ammunition was taken, but it is thought to be close to 20,000 rounds",
-          "• The army has launched an investigation into the incident, which has prompted security concerns "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "b22c764225f9"
     },
     {
       "id": "a5a14c31e112",
@@ -5384,38 +5489,6 @@
       "cluster_id": "b05cd44431ed"
     },
     {
-      "id": "c313f58d1b26",
-      "title": "Metroid Prime 4: Beyond is a technical marvel and game design nightmare",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/02/nx-s1-5627515/metroid-prime-4-beyond-review",
-      "published_at": "Tue, 02 Dec 2025 10:00:00 -0500",
-      "bullets": [
-        "• Despite beautiful art direction, graphics, and sound design, Metroid Prime 4 is a baffling game to play",
-        "• It focuses too much on action instead of puzzle solving and exploration",
-        "• The result is a game that feels antithetical to the carefully curated mood that makes this series work "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Despite beautiful art direction, graphics, and sound design, Metroid Prime 4 is a baffling game to play",
-          "• It focuses too much on action instead of puzzle solving and exploration"
-        ],
-        "hopeful_bullets": [
-          "• Despite beautiful art direction, graphics, and sound design, Metroid Prime 4 is a baffling game to play",
-          "• It focuses too much on action instead of puzzle solving and exploration"
-        ],
-        "stakes_bullets": [
-          "• The result is a game that feels antithetical to the carefully curated mood that makes this series work "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "75da8c91bf87"
-    },
-    {
       "id": "c39e415ea3fd",
       "title": "What the Rio Grande’s More Frequent Dry-Outs Mean for the Region’s Animals and Ecosystems",
       "outlet": "Inside Climate News",
@@ -5479,37 +5552,6 @@
       },
       "read_minutes": 13,
       "cluster_id": "fa729f7502e1"
-    },
-    {
-      "id": "c6a33d96246e",
-      "title": "Pope Leo wraps up his visit to Lebanon with prayers at the site of Beirut's port blast",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/02/g-s1-100056/pope-leo-lebanon-middle-east-visit-beirut-port",
-      "published_at": "Tue, 02 Dec 2025 09:37:04 -0500",
-      "bullets": [
-        "• Pope Leo XIV wraps up his first overseas papal trip with prayers at Beirut's devastated port",
-        "• He calls for Lebanon to be a place \"where peace and justice reign\" The pope lit a candle in front of a memorial engraved with the names of more than 200 people killed in the blast "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.978
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Pope Leo XIV wraps up his first overseas papal trip with prayers at Beirut's devastated port",
-          "• He calls for Lebanon to be a place \"where peace and justice reign\" The pope lit a candle in front of a memorial engraved with the names of more than 200 people killed in the blast "
-        ],
-        "hopeful_bullets": [
-          "• Pope Leo XIV wraps up his first overseas papal trip with prayers at Beirut's devastated port",
-          "• He calls for Lebanon to be a place \"where peace and justice reign\" The pope lit a candle in front of a memorial engraved with the names of more than 200 people killed in the blast "
-        ],
-        "stakes_bullets": [
-          "• He calls for Lebanon to be a place \"where peace and justice reign\" The pope lit a candle in front of a memorial engraved with the names of more than 200 people killed in the blast "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ad704baa4288"
     },
     {
       "id": "071fbe673fa6",
@@ -5643,38 +5685,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "f88fa76e1d82"
-    },
-    {
-      "id": "4e0d99c510b6",
-      "title": "Hong Kong leader orders investigation into deadly fire that killed 151",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8ng18p7v3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 02 Dec 2025 05:58:21 GMT",
-      "bullets": [
-        "• Hong Kong leader orders investigation into deadly fire that killed 151 people",
-        "• Seven of eight tower blocks at the Wang Fuk Court housing complex went up in flames",
-        "• Investigators have found that a protective netting used around the buildings failed to meet flame retardant standards "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hong Kong leader orders investigation into deadly fire that killed 151 people",
-          "• Seven of eight tower blocks at the Wang Fuk Court housing complex went up in flames"
-        ],
-        "hopeful_bullets": [
-          "• Hong Kong leader orders investigation into deadly fire that killed 151 people",
-          "• Seven of eight tower blocks at the Wang Fuk Court housing complex went up in flames"
-        ],
-        "stakes_bullets": [
-          "• Hong Kong leader orders investigation into deadly fire that killed 151 people"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b38c442e8c18"
     },
     {
       "id": "bffc69751bc4",
@@ -7592,37 +7602,6 @@
       "cluster_id": "fcd24f499c11"
     },
     {
-      "id": "1ca4c4413ee8",
-      "title": "What a political birthrate divide could mean for the future",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/01/nx-s1-5620773/what-a-political-birthrate-divide-could-mean-for-the-future",
-      "published_at": "Mon, 01 Dec 2025 17:49:50 -0500",
-      "bullets": [
-        "• Several studies suggest that people in red states have more babies than those in blue states",
-        "• A new report from a conservative-leaning group says that could have implications for politics and culture",
-        "• NPR political correspondent Sarah McCammon has been following this and joins us now "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.861
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Several studies suggest that people in red states have more babies than those in blue states",
-          "• A new report from a conservative-leaning group says that could have implications for politics and culture"
-        ],
-        "hopeful_bullets": [
-          "• NPR political correspondent Sarah McCammon has been following this and joins us now "
-        ],
-        "stakes_bullets": [
-          "• A new report from a conservative-leaning group says that could have implications for politics and culture"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "00660b690321"
-    },
-    {
       "id": "84a33b4c1f6d",
       "title": "Radiohead Postpone European Tour Dates Due to Thom Yorke’s Throat Infection",
       "outlet": "RSS: News",
@@ -9239,6 +9218,42 @@
       ]
     },
     {
+      "id": "ed5926265f78",
+      "topic": "doesn ice plan somali",
+      "keywords": [
+        "doesn",
+        "ice",
+        "plan",
+        "somali",
+        "trump",
+        "want"
+      ],
+      "item_ids": [
+        "8e5a3e1adb66"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "442ccc11d809",
+      "topic": "change edge election honduran",
+      "keywords": [
+        "change",
+        "edge",
+        "election",
+        "honduran",
+        "knife",
+        "lead"
+      ],
+      "item_ids": [
+        "7c0f34dbe9ea"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "407dd7ea68a1",
       "topic": "donba prospect ravaged ukrainian",
       "keywords": [
@@ -9257,6 +9272,24 @@
       ]
     },
     {
+      "id": "9d9e88deced3",
+      "topic": "airline flight long malaysia",
+      "keywords": [
+        "airline",
+        "flight",
+        "long",
+        "malaysia",
+        "missing",
+        "search"
+      ],
+      "item_ids": [
+        "87ad37885ef7"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "aac22ea670dd",
       "topic": "admiral deadly navy ordered",
       "keywords": [
@@ -9269,6 +9302,42 @@
       ],
       "item_ids": [
         "fa6e506b6a9f"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "8c6edd4cd372",
+      "topic": "19k charged claim man",
+      "keywords": [
+        "19k",
+        "charged",
+        "claim",
+        "man",
+        "swallowed",
+        "theft"
+      ],
+      "item_ids": [
+        "3f920a7ba79e"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "336758f0a766",
+      "topic": "australia kids less safe",
+      "keywords": [
+        "australia",
+        "kids",
+        "less",
+        "safe",
+        "under",
+        "youtube"
+      ],
+      "item_ids": [
+        "a41969ed0e8a"
       ],
       "outlets": [
         "BBC News"
@@ -9305,94 +9374,6 @@
       ],
       "item_ids": [
         "23323f0da13e"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "07b215bc5a49",
-      "topic": "egg faberg fetche london",
-      "keywords": [
-        "egg",
-        "faberg",
-        "fetche",
-        "london",
-        "rare",
-        "record"
-      ],
-      "item_ids": [
-        "3121b59f0f70"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "b22c764225f9",
-      "topic": "ammunition army german round",
-      "keywords": [
-        "ammunition",
-        "army",
-        "german",
-        "round",
-        "stolen",
-        "thousand"
-      ],
-      "item_ids": [
-        "80c356e2f896"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "77d34b760a5d",
-      "topic": "maduro threatening trump venezuela",
-      "keywords": [
-        "maduro",
-        "threatening",
-        "trump",
-        "venezuela"
-      ],
-      "item_ids": [
-        "0200dae5e778"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "01285b4d436b",
-      "topic": "asylum bissau grant guinea",
-      "keywords": [
-        "asylum",
-        "bissau",
-        "grant",
-        "guinea",
-        "nigeria",
-        "presidential"
-      ],
-      "item_ids": [
-        "1153817a2be1"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "b38c442e8c18",
-      "topic": "deadly hong investigation kong",
-      "keywords": [
-        "deadly",
-        "hong",
-        "investigation",
-        "kong",
-        "leader",
-        "order"
-      ],
-      "item_ids": [
-        "4e0d99c510b6"
       ],
       "outlets": [
         "BBC News"
@@ -9744,6 +9725,42 @@
       ]
     },
     {
+      "id": "ca4e2081a3ef",
+      "topic": "administration application halt immigration",
+      "keywords": [
+        "administration",
+        "application",
+        "halt",
+        "immigration",
+        "migrant",
+        "trump"
+      ],
+      "item_ids": [
+        "c7ec57ba0ca6"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "6a599be54436",
+      "topic": "airline deep flight malaysia",
+      "keywords": [
+        "airline",
+        "deep",
+        "flight",
+        "malaysia",
+        "sea",
+        "search"
+      ],
+      "item_ids": [
+        "baafc3e1fdbe"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "08ed5c7546d5",
       "topic": "food francisco nation san",
       "keywords": [
@@ -9882,42 +9899,6 @@
       ],
       "item_ids": [
         "c524f077b716"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "75da8c91bf87",
-      "topic": "beyond game marvel metroid",
-      "keywords": [
-        "beyond",
-        "game",
-        "marvel",
-        "metroid",
-        "prime",
-        "technical"
-      ],
-      "item_ids": [
-        "c313f58d1b26"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "ad704baa4288",
-      "topic": "lebanon leo pope prayer",
-      "keywords": [
-        "lebanon",
-        "leo",
-        "pope",
-        "prayer",
-        "visit",
-        "wrap"
-      ],
-      "item_ids": [
-        "c6a33d96246e"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10929,24 +10910,6 @@
       ]
     },
     {
-      "id": "954bdce0a552",
-      "topic": "onto table thanksgiving trotted",
-      "keywords": [
-        "onto",
-        "table",
-        "thanksgiving",
-        "trotted",
-        "turkey",
-        "way"
-      ],
-      "item_ids": [
-        "35863ee4867f"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "57c1f5751537",
       "topic": "food lot place produce",
       "keywords": [
@@ -10959,6 +10922,24 @@
       ],
       "item_ids": [
         "02062fa3096c"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "954bdce0a552",
+      "topic": "onto table thanksgiving trotted",
+      "keywords": [
+        "onto",
+        "table",
+        "thanksgiving",
+        "trotted",
+        "turkey",
+        "way"
+      ],
+      "item_ids": [
+        "35863ee4867f"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11049,23 +11030,6 @@
       ],
       "item_ids": [
         "cabcfaf4213f"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "00660b690321",
-      "topic": "birthrate divide future mean",
-      "keywords": [
-        "birthrate",
-        "divide",
-        "future",
-        "mean",
-        "political"
-      ],
-      "item_ids": [
-        "1ca4c4413ee8"
       ],
       "outlets": [
         "NPR Topics: Politics"
