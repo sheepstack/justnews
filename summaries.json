@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-04T12:54:17Z",
+  "generated_at": "2025-12-04T13:32:50Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -34,6 +34,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "edd5409bb9c9"
+    },
+    {
+      "id": "97b4fd99378e",
+      "title": "TVC15: Yoda (VC20)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-26-tvc15-yoda-vc20/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-yoda-vc20",
+      "published_at": "Wed, 26 Nov 2025 23:43:28 +0000",
+      "bullets": [
+        "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
+        "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith",
+        "• The 3.75-inch super-articulated collecting community mocked them as “swelbows”"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
+          "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith"
+        ],
+        "hopeful_bullets": [
+          "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
+          "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith"
+        ],
+        "stakes_bullets": [
+          "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
+          "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith",
+          "• The 3.75-inch super-articulated collecting community mocked them as “swelbows”"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "404906aa0c7b"
     },
     {
       "id": "dd5d99a235e2",
@@ -596,37 +630,6 @@
       "cluster_id": "69315348349c"
     },
     {
-      "id": "e8cd57333f82",
-      "title": "Design executive behind 'Liquid Glass' is leaving Apple",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/03/liquid-glass-alan-dye-leaving-apple.html",
-      "published_at": "Wed, 03 Dec 2025 22:52:07 GMT",
-      "bullets": [
-        "• Apple's head of user interface design, Alan Dye, will join Meta, in a notable shift of executive talent in Silicon Valley",
-        "• Apple CEO Tim Cook said the company prioritizes design and has a strong team",
-        "• Dye revealed a redesign of Apple's software interface for iPhones, Macs and the Apple Watch in June "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Apple's head of user interface design, Alan Dye, will join Meta, in a notable shift of executive talent in Silicon Valley",
-          "• Apple CEO Tim Cook said the company prioritizes design and has a strong team"
-        ],
-        "hopeful_bullets": [
-          "• Apple CEO Tim Cook said the company prioritizes design and has a strong team"
-        ],
-        "stakes_bullets": [
-          "• Apple's head of user interface design, Alan Dye, will join Meta, in a notable shift of executive talent in Silicon Valley"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "bcf03f661c85"
-    },
-    {
       "id": "acbda2b27f93",
       "title": "Stephanie Muth, former foster care head, named Texas health commissioner",
       "outlet": "The Texas Tribune",
@@ -952,38 +955,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "aebf8304d9be"
-    },
-    {
-      "id": "40542f3bb5f5",
-      "title": "A little-known startup just used AI to make a moon dust battery for Blue Origin",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/03/istari-digital-ai-blue-origins-moon-dust-battery.html",
-      "published_at": "Wed, 03 Dec 2025 21:34:50 GMT",
-      "bullets": [
-        "• Artificial intelligence has created a device that turns moon dust into energy",
-        "• The moon vacuum was unveiled by Blue Origin at Amazon's re:Invent 2025 conference in Las Vegas",
-        "• The battery was completely designed by AI, said Istari Digital CEO Will Roper "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Artificial intelligence has created a device that turns moon dust into energy",
-          "• The moon vacuum was unveiled by Blue Origin at Amazon's re:Invent 2025 conference in Las Vegas"
-        ],
-        "hopeful_bullets": [
-          "• Artificial intelligence has created a device that turns moon dust into energy",
-          "• The moon vacuum was unveiled by Blue Origin at Amazon's re:Invent 2025 conference in Las Vegas"
-        ],
-        "stakes_bullets": [
-          "• The battery was completely designed by AI, said Istari Digital CEO Will Roper "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "cdbd65a90169"
     },
     {
       "id": "86690bcc4dcc",
@@ -1513,39 +1484,6 @@
       "cluster_id": "64137285c1c3"
     },
     {
-      "id": "1ce814311842",
-      "title": "Micron stops selling memory to consumers as demand spikes from AI chips",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/03/micron-stops-selling-memory-to-consumers-demand-spikes-from-ai-chips.html",
-      "published_at": "Wed, 03 Dec 2025 19:05:29 GMT",
-      "bullets": [
-        "• Micron will stop selling memory to consumers to focus on high-powered AI chips",
-        "• Memory is used by computers to store data for short periods of time",
-        "• AI infrastructure boom is creating shortages for inputs like memory",
-        "• Micron shares slipped 3% on Wednesday to $232.25 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Micron will stop selling memory to consumers to focus on high-powered AI chips",
-          "• Memory is used by computers to store data for short periods of time"
-        ],
-        "hopeful_bullets": [
-          "• Micron will stop selling memory to consumers to focus on high-powered AI chips",
-          "• Memory is used by computers to store data for short periods of time"
-        ],
-        "stakes_bullets": [
-          "• Micron will stop selling memory to consumers to focus on high-powered AI chips"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "aa1df3931347"
-    },
-    {
       "id": "5c6f29a3a3f9",
       "title": "Intense John Carpenter Classic Is Now Free to Stream: “One of the most atmospheric horror movies ever made”",
       "outlet": "Dread Central",
@@ -1839,38 +1777,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "3a27fdce3cc9"
-    },
-    {
-      "id": "d31a9bb01e50",
-      "title": "Rare win for renewable energy: Trump admin funds geothermal network expansion",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/science/2025/12/rare-win-for-renewable-energy-trump-admin-funds-geothermal-network-expansion/",
-      "published_at": "Wed, 03 Dec 2025 18:35:59 +0000",
-      "bullets": [
-        "• Geothermal networks are widely considered among the most energy-efficient ways to heat and cool buildings",
-        "• Eversource Energy completed the first phase of its geothermal network in Framingham, Massachusetts, in 2024",
-        "• The federal money will allow the utility to add approximately 140 new customers to the network "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Geothermal networks are widely considered among the most energy-efficient ways to heat and cool buildings",
-          "• Eversource Energy completed the first phase of its geothermal network in Framingham, Massachusetts, in 2024"
-        ],
-        "hopeful_bullets": [
-          "• Geothermal networks are widely considered among the most energy-efficient ways to heat and cool buildings",
-          "• Eversource Energy completed the first phase of its geothermal network in Framingham, Massachusetts, in 2024"
-        ],
-        "stakes_bullets": [
-          "• The federal money will allow the utility to add approximately 140 new customers to the network "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "07a7d2117cce"
     },
     {
       "id": "93f60522dadb",
@@ -2308,7 +2214,7 @@
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "07a7d2117cce"
+      "cluster_id": "83c098e90586"
     },
     {
       "id": "e62a1f9f9b89",
@@ -2376,41 +2282,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "4934d8435875"
-    },
-    {
-      "id": "651904ecdcbf",
-      "title": "The Trump Administration Wants Immigrants to Self-Deport. It’s a Shit Show",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/trump-administration-wants-immigrants-to-self-deport/",
-      "published_at": "Wed, 03 Dec 2025 16:15:00 +0000",
-      "bullets": [
-        "• A pregnant Venezuelan woman came to the US without documentation last year",
-        "• After giving birth and settling in Ohio, she found that trying to stay in the country was too hard",
-        "• She had no family support for herself and her newborn, and struggled to find work and housing",
-        "• Guidance from the US government for those who have decided to self-deport has been sparse "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A pregnant Venezuelan woman came to the US without documentation last year",
-          "• After giving birth and settling in Ohio, she found that trying to stay in the country was too hard"
-        ],
-        "hopeful_bullets": [
-          "• A pregnant Venezuelan woman came to the US without documentation last year",
-          "• After giving birth and settling in Ohio, she found that trying to stay in the country was too hard"
-        ],
-        "stakes_bullets": [
-          "• A pregnant Venezuelan woman came to the US without documentation last year",
-          "• After giving birth and settling in Ohio, she found that trying to stay in the country was too hard",
-          "• She had no family support for herself and her newborn, and struggled to find work and housing"
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "bb1ee923e992"
     },
     {
       "id": "5d76e5c6924c",
@@ -2940,6 +2811,34 @@
       "cluster_id": "06d22f5e0bd7"
     },
     {
+      "id": "adb7771da48c",
+      "title": "Hot Toys The Empire Strikes Back Snowtrooper Commander (MMS835) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-03-hot-toys-the-empire-strikes-back-snowtrooper-commander-mms835-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-the-empire-strikes-back-snowtrooper-commander-mms835-1-6-scale-figure",
+      "published_at": "Wed, 03 Dec 2025 12:20:37 +0000",
+      "bullets": [
+        "• Hot Toys is adding another snowtrooper to its Imperial ranks with the addition of the Snowtrooper Commander (MMS835) The figure is a highly detailed tribute to the Imperial leadership that spearheaded one of the saga’s most iconic battles "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hot Toys is adding another snowtrooper to its Imperial ranks with the addition of the Snowtrooper Commander (MMS835) The figure is a highly detailed tribute to the Imperial leadership that spearheaded one of the saga’s most iconic battles "
+        ],
+        "hopeful_bullets": [
+          "• Hot Toys is adding another snowtrooper to its Imperial ranks with the addition of the Snowtrooper Commander (MMS835) The figure is a highly detailed tribute to the Imperial leadership that spearheaded one of the saga’s most iconic battles "
+        ],
+        "stakes_bullets": [
+          "• Hot Toys is adding another snowtrooper to its Imperial ranks with the addition of the Snowtrooper Commander (MMS835) The figure is a highly detailed tribute to the Imperial leadership that spearheaded one of the saga’s most iconic battles "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7d11c3e36e82"
+    },
+    {
       "id": "ccf09fefe1e6",
       "title": "Whistleblower accuses Foreign Office of ‘censoring’ warning of Sudan genocide",
       "outlet": "World news | The Guardian",
@@ -3208,40 +3107,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "dc04fdd4d5c9"
-    },
-    {
-      "id": "253d668f79ed",
-      "title": "‘Holy crap, this is insane’: mineworkers describe being caught in huge outback dust storm",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/03/holy-crap-this-is-insane-mineworkers-describe-being-caught-in-huge-outback-dust-storm",
-      "published_at": "Wed, 03 Dec 2025 09:13:22 GMT",
-      "bullets": [
-        "• A dust storm swept over one of Australia’s largest underground goldmines in the remote Tanami desert on Sunday",
-        "• Lachlan Marchant and his colleagues were driving their golf buggies back to their shed when they saw the earth sweeping towards them",
-        "• It reminded us of Uluru, the sheer size and width of this thing,” Marchant said "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A dust storm swept over one of Australia’s largest underground goldmines in the remote Tanami desert on Sunday",
-          "• Lachlan Marchant and his colleagues were driving their golf buggies back to their shed when they saw the earth sweeping towards them"
-        ],
-        "hopeful_bullets": [
-          "• A dust storm swept over one of Australia’s largest underground goldmines in the remote Tanami desert on Sunday",
-          "• Lachlan Marchant and his colleagues were driving their golf buggies back to their shed when they saw the earth sweeping towards them"
-        ],
-        "stakes_bullets": [
-          "• A dust storm swept over one of Australia’s largest underground goldmines in the remote Tanami desert on Sunday",
-          "• Lachlan Marchant and his colleagues were driving their golf buggies back to their shed when they saw the earth sweeping towards them",
-          "• It reminded us of Uluru, the sheer size and width of this thing,” Marchant said "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "24d02f9b0b2f"
     },
     {
       "id": "0d820af6d7ca",
@@ -4135,37 +4000,6 @@
       "cluster_id": "ccfa8fee82d7"
     },
     {
-      "id": "60efca13936c",
-      "title": "‘Renewable’ No More: The Trump Administration Renames the National Renewable Energy Laboratory",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/02122025/renewable-no-more-the-trump-administration-renames-the-national-renewable-energy-laboratory/",
-      "published_at": "Tue, 02 Dec 2025 13:21:45 +0000",
-      "bullets": [
-        "• The renaming is the latest in a series of actions by the Trump administration to deemphasize or cut the parts of the federal government that support renewable energy",
-        "• The National Renewable Energy Laboratory has been a global leader in wind, solar and other renewable energy research "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.769
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The renaming is the latest in a series of actions by the Trump administration to deemphasize or cut the parts of the federal government that support renewable energy",
-          "• The National Renewable Energy Laboratory has been a global leader in wind, solar and other renewable energy research "
-        ],
-        "hopeful_bullets": [
-          "• The National Renewable Energy Laboratory has been a global leader in wind, solar and other renewable energy research "
-        ],
-        "stakes_bullets": [
-          "• The renaming is the latest in a series of actions by the Trump administration to deemphasize or cut the parts of the federal government that support renewable energy",
-          "• The National Renewable Energy Laboratory has been a global leader in wind, solar and other renewable energy research "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "524999abce01"
-    },
-    {
       "id": "9538f305990c",
       "title": "Sustainable gifts: 27 meaningful presents that do good",
       "outlet": "Positive News",
@@ -4229,6 +4063,41 @@
       },
       "read_minutes": 40,
       "cluster_id": "8af4054e818a"
+    },
+    {
+      "id": "096f2d797fc2",
+      "title": "TVC15: ARC Trooper Commander (VC54)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-27-tvc15-arc-trooper-commander-vc54/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-arc-trooper-commander-vc54",
+      "published_at": "Thu, 27 Nov 2025 22:54:51 +0000",
+      "bullets": [
+        "• ARC Trooper Commander is one of the highlights of The Vintage Collection",
+        "• Hasbro intended this action figure to represent the Volume 1 and Volume 2 versions of Captain Fordo",
+        "• It remains one of our most cherished figures to date",
+        "• Please leave your thoughts and memories in the RDR comments "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ARC Trooper Commander is one of the highlights of The Vintage Collection",
+          "• Hasbro intended this action figure to represent the Volume 1 and Volume 2 versions of Captain Fordo"
+        ],
+        "hopeful_bullets": [
+          "• ARC Trooper Commander is one of the highlights of The Vintage Collection",
+          "• Hasbro intended this action figure to represent the Volume 1 and Volume 2 versions of Captain Fordo"
+        ],
+        "stakes_bullets": [
+          "• ARC Trooper Commander is one of the highlights of The Vintage Collection",
+          "• Hasbro intended this action figure to represent the Volume 1 and Volume 2 versions of Captain Fordo",
+          "• It remains one of our most cherished figures to date"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "22e2b0137efc"
     },
     {
       "id": "bfc62db5c94e",
@@ -4755,6 +4624,269 @@
       "cluster_id": "61932cf045ef"
     },
     {
+      "id": "a7fdb57a3b1f",
+      "title": "Bids for WBD are in. Here's what Paramount, Comcast and Netflix could do with the assets",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/04/wbd-bids-paramount-comcast-netflix-assets.html",
+      "published_at": "Thu, 04 Dec 2025 13:03:02 GMT",
+      "bullets": [
+        "• Paramount Skydance, Comcast and Netflix are bidding for Warner Bros",
+        "• Discovery's assets",
+        "• The company plans to have its sale process wrapped up by mid-to-late December",
+        "• It is also the distributor of Legendary's Dune franchise and Godzilla and King Kong "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Paramount Skydance, Comcast and Netflix are bidding for Warner Bros",
+          "• Discovery's assets"
+        ],
+        "hopeful_bullets": [
+          "• Paramount Skydance, Comcast and Netflix are bidding for Warner Bros",
+          "• Discovery's assets"
+        ],
+        "stakes_bullets": [
+          "• The company plans to have its sale process wrapped up by mid-to-late December"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "2378d8af2a89"
+    },
+    {
+      "id": "ad634954be09",
+      "title": "Fanatics lands retail and merchandising deal for 2026 FIFA World Cup",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/04/2026-fifa-world-cup-fanatics-merchandising-deal.html",
+      "published_at": "Thu, 04 Dec 2025 13:00:02 GMT",
+      "bullets": [
+        "• Fanatics has struck a deal to run retail and merchandising for the 2026 FIFA World Cup",
+        "• The global competition will see 104 matches played in 16 stadiums across the U.S., Canada and Mexico this coming summer",
+        "• In total, Fanatics is forecasting it will have more than 2,000 point-of-sale locations during the tournament "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fanatics has struck a deal to run retail and merchandising for the 2026 FIFA World Cup",
+          "• The global competition will see 104 matches played in 16 stadiums across the U.S., Canada and Mexico this coming summer"
+        ],
+        "hopeful_bullets": [
+          "• Fanatics has struck a deal to run retail and merchandising for the 2026 FIFA World Cup",
+          "• The global competition will see 104 matches played in 16 stadiums across the U.S., Canada and Mexico this coming summer"
+        ],
+        "stakes_bullets": [
+          "• The global competition will see 104 matches played in 16 stadiums across the U.S., Canada and Mexico this coming summer",
+          "• In total, Fanatics is forecasting it will have more than 2,000 point-of-sale locations during the tournament "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "77cd3c8b99a4"
+    },
+    {
+      "id": "654e9be75343",
+      "title": "A Startup Says It Has Found a Hidden Source of Geothermal Energy",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/startup-found-hidden-source-geothermal-energy/",
+      "published_at": "Thu, 04 Dec 2025 13:00:00 +0000",
+      "bullets": [
+        "• Geothermal startup Zanskar says it has identified a new commercially viable site for a potential power plant in Nevada",
+        "• The company says the find is the first of its kind made by the industry in decades",
+        "• In theory, geothermal power is one of the simplest methods of generating renewable energy "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Geothermal startup Zanskar says it has identified a new commercially viable site for a potential power plant in Nevada",
+          "• The company says the find is the first of its kind made by the industry in decades"
+        ],
+        "hopeful_bullets": [
+          "• Geothermal startup Zanskar says it has identified a new commercially viable site for a potential power plant in Nevada",
+          "• The company says the find is the first of its kind made by the industry in decades"
+        ],
+        "stakes_bullets": [
+          "• Geothermal startup Zanskar says it has identified a new commercially viable site for a potential power plant in Nevada"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "711b5490408a"
+    },
+    {
+      "id": "364af52ac83f",
+      "title": "Factory Farms in Iowa Generate 110 Billion Pounds of Manure Per Year. No One Tracks Where It’s Going.",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/04122025/iowa-factory-farms-manure-management/",
+      "published_at": "Thu, 04 Dec 2025 13:00:00 +0000",
+      "bullets": [
+        "• Gene Tinker was the animal feeding operations coordinator at the Iowa Department of Natural Resources (DNR) for 14 years",
+        "• He says the DNR's approach to enforcing regulations and collecting data about livestock waste is inadequate",
+        "• The agency doesn't collect records of where and how much manure is actually spread "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Gene Tinker was the animal feeding operations coordinator at the Iowa Department of Natural Resources (DNR) for 14 years",
+          "• He says the DNR's approach to enforcing regulations and collecting data about livestock waste is inadequate"
+        ],
+        "hopeful_bullets": [
+          "• The agency doesn't collect records of where and how much manure is actually spread "
+        ],
+        "stakes_bullets": [
+          "• Gene Tinker was the animal feeding operations coordinator at the Iowa Department of Natural Resources (DNR) for 14 years",
+          "• He says the DNR's approach to enforcing regulations and collecting data about livestock waste is inadequate",
+          "• The agency doesn't collect records of where and how much manure is actually spread "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "f4bdc2aa51a8"
+    },
+    {
+      "id": "982e4f3e4353",
+      "title": "Water plant at centre of Tunbridge Wells supply failure given risk notice in 2024",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/dec/04/south-east-water-plant-tunbridge-wells-supply-failure-risk-notice",
+      "published_at": "Thu, 04 Dec 2025 12:55:02 GMT",
+      "bullets": [
+        "• Residents of Tunbridge Wells have been cut off from their water supply",
+        "• South East Water has issued a 10-day notice of water contamination",
+        "• The notice is in place for at least 10 days because of a lack of clean water supplies",
+        "• It comes after a similar issue was reported last year in the UK "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Residents of Tunbridge Wells have been cut off from their water supply",
+          "• South East Water has issued a 10-day notice of water contamination"
+        ],
+        "hopeful_bullets": [
+          "• Residents of Tunbridge Wells have been cut off from their water supply",
+          "• South East Water has issued a 10-day notice of water contamination"
+        ],
+        "stakes_bullets": [
+          "• Residents of Tunbridge Wells have been cut off from their water supply",
+          "• The notice is in place for at least 10 days because of a lack of clean water supplies"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "be3a2b155760"
+    },
+    {
+      "id": "f451803caff2",
+      "title": "Layoff announcements this year top 1.1 million, the most since 2020 when pandemic hit, Challenger says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/04/layoff-announcements-this-year-top-1point1-million-the-most-since-2020-when-pandemic-hit-challenger-says.html",
+      "published_at": "Thu, 04 Dec 2025 12:48:45 GMT",
+      "bullets": [
+        "• Challenger, Gray & Christmas: U.S",
+        "• employers announced 71,321 announced job cuts in November",
+        "• That figure is 54% higher than the same 11-month period a year ago and the highest level since 2020",
+        "• Verizon's announcement that it would slash more than 13,000 jobs helped drive the total "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.637
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Challenger, Gray & Christmas: U.S",
+          "• employers announced 71,321 announced job cuts in November"
+        ],
+        "hopeful_bullets": [
+          "• Verizon's announcement that it would slash more than 13,000 jobs helped drive the total "
+        ],
+        "stakes_bullets": [
+          "• employers announced 71,321 announced job cuts in November"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "adad3ac968b7"
+    },
+    {
+      "id": "c085cb975adc",
+      "title": "New York Times sues Pentagon over new reporting restrictions – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/dec/04/us-politics-live-donald-trump-latest-news-updates-democrats-republicans",
+      "published_at": "Thu, 04 Dec 2025 12:45:16 GMT",
+      "bullets": [
+        "• The New York Times filed a petition to stop the Pentagon from enforcing the new restrictions",
+        "• The new restrictions require reporters to sign a pledge that they will not obtain unauthorized material",
+        "• The Washington Post, the Washington Post and the Associated Press are among the outlets that refuse to sign the agreement "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The New York Times filed a petition to stop the Pentagon from enforcing the new restrictions",
+          "• The new restrictions require reporters to sign a pledge that they will not obtain unauthorized material"
+        ],
+        "hopeful_bullets": [
+          "• The New York Times filed a petition to stop the Pentagon from enforcing the new restrictions",
+          "• The new restrictions require reporters to sign a pledge that they will not obtain unauthorized material"
+        ],
+        "stakes_bullets": [
+          "• The new restrictions require reporters to sign a pledge that they will not obtain unauthorized material"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6686ee7f8c41"
+    },
+    {
+      "id": "94e4bbaf11ab",
+      "title": "First Thing: ‘Alligator Alcatraz’ detainees face human rights violations, report alleges",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/04/first-thing-alligator-alcatraz-detainees-human-rights-violations-amnesty-report-alleges",
+      "published_at": "Thu, 04 Dec 2025 12:44:31 GMT",
+      "bullets": [
+        "• \"All-American\" prisoners are shackled with their hands tied behind their backs and forced to eat food from a metal box",
+        "• The box is known as “the box’s” and used to be used to torture prisoners",
+        "• It was ordered to shut down in August "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• \"All-American\" prisoners are shackled with their hands tied behind their backs and forced to eat food from a metal box",
+          "• The box is known as “the box’s” and used to be used to torture prisoners"
+        ],
+        "hopeful_bullets": [
+          "• \"All-American\" prisoners are shackled with their hands tied behind their backs and forced to eat food from a metal box",
+          "• The box is known as “the box’s” and used to be used to torture prisoners"
+        ],
+        "stakes_bullets": [
+          "• \"All-American\" prisoners are shackled with their hands tied behind their backs and forced to eat food from a metal box",
+          "• The box is known as “the box’s” and used to be used to torture prisoners",
+          "• It was ordered to shut down in August "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "5aabc39969c9"
+    },
+    {
       "id": "057c21ccbfb7",
       "title": "‘POSTAL’ Goes The Bullet Heaven Route in ‘POSTAL: Bullet Paradise’ for Steam, Consoles [Trailer]",
       "outlet": "Bloody Disgusting!",
@@ -4789,39 +4921,6 @@
       "cluster_id": "963545ec9faf"
     },
     {
-      "id": "c085cb975adc",
-      "title": "New York Times sues Pentagon over new reporting restrictions – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/dec/04/us-politics-live-donald-trump-latest-news-updates-democrats-republicans",
-      "published_at": "Thu, 04 Dec 2025 12:12:20 GMT",
-      "bullets": [
-        "• New York Times sues Pentagon over new reporting restrictions",
-        "• The restrictions, which went into effect in October, require reporters to sign a pledge that they will not obtain unauthorized material",
-        "• The Times is asking the US district court in Washington to issue an order stopping the policy "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.937
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New York Times sues Pentagon over new reporting restrictions",
-          "• The restrictions, which went into effect in October, require reporters to sign a pledge that they will not obtain unauthorized material"
-        ],
-        "hopeful_bullets": [
-          "• New York Times sues Pentagon over new reporting restrictions",
-          "• The restrictions, which went into effect in October, require reporters to sign a pledge that they will not obtain unauthorized material"
-        ],
-        "stakes_bullets": [
-          "• The restrictions, which went into effect in October, require reporters to sign a pledge that they will not obtain unauthorized material",
-          "• The Times is asking the US district court in Washington to issue an order stopping the policy "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "6686ee7f8c41"
-    },
-    {
       "id": "1f247de7e6bc",
       "title": "GM’s new ‘Silicon Valley cowboy’ eyes technology renaissance for automaker",
       "outlet": "US Top News and Analysis",
@@ -4852,6 +4951,37 @@
       },
       "read_minutes": 6,
       "cluster_id": "b563418c8ccd"
+    },
+    {
+      "id": "c1c89af20f28",
+      "title": "The NPU in your phone keeps improving—why isn’t that making AI better?",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gadgets/2025/12/the-npu-in-your-phone-keeps-improving-why-isnt-that-making-ai-better/",
+      "published_at": "Thu, 04 Dec 2025 12:00:42 +0000",
+      "bullets": [
+        "• Every few months, chipmakers are crowing about the power of the neural processing units (NPU) chipmakers have brought to consumer devices",
+        "• It’s not clear to most people buying a phone why they need the hardware to run AI workloads, and the supposed benefits are largely theoretical "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Every few months, chipmakers are crowing about the power of the neural processing units (NPU) chipmakers have brought to consumer devices",
+          "• It’s not clear to most people buying a phone why they need the hardware to run AI workloads, and the supposed benefits are largely theoretical "
+        ],
+        "hopeful_bullets": [
+          "• Every few months, chipmakers are crowing about the power of the neural processing units (NPU) chipmakers have brought to consumer devices"
+        ],
+        "stakes_bullets": [
+          "• Every few months, chipmakers are crowing about the power of the neural processing units (NPU) chipmakers have brought to consumer devices",
+          "• It’s not clear to most people buying a phone why they need the hardware to run AI workloads, and the supposed benefits are largely theoretical "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "38b58d6e3cd5"
     },
     {
       "id": "b484baa8a7a8",
@@ -4989,35 +5119,35 @@
     },
     {
       "id": "74a9c9d4f4a9",
-      "title": "How to Watch the Leonids Meteor Shower",
+      "title": "The Best Meteor Shower of the Year Is Coming—Here’s How to Watch",
       "outlet": "WIRED",
       "url": "https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/",
       "published_at": "Thu, 04 Dec 2025 12:00:00 +0000",
       "bullets": [
-        "• Meteor showers, or shooting stars, happen when Earth’s orbital path crosses a path of debris left by a comet and that material burns up in the atmosphere",
         "• Watching a meteor shower is one of the most accessible ways to engage with the night sky",
-        "• The Leonids, which last throughout November, will peak around November 16-18 "
+        "• The Geminids, a busy and bright shower that peaks in mid-December, are just one of nine major meteor showers that grace skies throughout the year",
+        "• Using devices like binoculars or telescopes actually prevents you from seeing meteors, because they travel too fast "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.994
+        "score": 0.997
       },
       "moods": {
         "brief_bullets": [
-          "• Meteor showers, or shooting stars, happen when Earth’s orbital path crosses a path of debris left by a comet and that material burns up in the atmosphere",
-          "• Watching a meteor shower is one of the most accessible ways to engage with the night sky"
+          "• Watching a meteor shower is one of the most accessible ways to engage with the night sky",
+          "• The Geminids, a busy and bright shower that peaks in mid-December, are just one of nine major meteor showers that grace skies throughout the year"
         ],
         "hopeful_bullets": [
-          "• Meteor showers, or shooting stars, happen when Earth’s orbital path crosses a path of debris left by a comet and that material burns up in the atmosphere",
-          "• Watching a meteor shower is one of the most accessible ways to engage with the night sky"
+          "• Watching a meteor shower is one of the most accessible ways to engage with the night sky",
+          "• The Geminids, a busy and bright shower that peaks in mid-December, are just one of nine major meteor showers that grace skies throughout the year"
         ],
         "stakes_bullets": [
-          "• The Leonids, which last throughout November, will peak around November 16-18 "
+          "• Using devices like binoculars or telescopes actually prevents you from seeing meteors, because they travel too fast "
         ]
       },
       "read_minutes": 7,
-      "cluster_id": "4c0923dba348"
+      "cluster_id": "019e1f45af88"
     },
     {
       "id": "4bb5f0e3e9a0",
@@ -5944,26 +6074,27 @@
       "url": "https://www.npr.org/2025/12/04/nx-s1-5631838/new-york-times-pentagon-defense-hegseth-lawsuit",
       "published_at": "Thu, 04 Dec 2025 05:29:36 -0500",
       "bullets": [
-        "• Defense Secretary Pete Hegseth is sued over the Pentagon's new policy that requires reporters to pledge not to gather information unless defense officials formally authorize its release",
-        "• The Times and NPR are among the organizations that chose to give up their press passes rather than agree to the policy "
+        "• Defense Secretary Pete Hegseth is sued over the Pentagon's new policy that bans journalists from reporting unclassified material",
+        "• The Times and NPR are among the organizations that chose to give up their press passes rather than agree to the policy",
+        "• The lawsuit names Sean Parnell, the chief Pentagon spokesperson, as a defendant "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.999
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• Defense Secretary Pete Hegseth is sued over the Pentagon's new policy that requires reporters to pledge not to gather information unless defense officials formally authorize its release",
-          "• The Times and NPR are among the organizations that chose to give up their press passes rather than agree to the policy "
+          "• Defense Secretary Pete Hegseth is sued over the Pentagon's new policy that bans journalists from reporting unclassified material",
+          "• The Times and NPR are among the organizations that chose to give up their press passes rather than agree to the policy"
         ],
         "hopeful_bullets": [
-          "• Defense Secretary Pete Hegseth is sued over the Pentagon's new policy that requires reporters to pledge not to gather information unless defense officials formally authorize its release",
-          "• The Times and NPR are among the organizations that chose to give up their press passes rather than agree to the policy "
+          "• Defense Secretary Pete Hegseth is sued over the Pentagon's new policy that bans journalists from reporting unclassified material",
+          "• The Times and NPR are among the organizations that chose to give up their press passes rather than agree to the policy"
         ],
         "stakes_bullets": [
-          "• Defense Secretary Pete Hegseth is sued over the Pentagon's new policy that requires reporters to pledge not to gather information unless defense officials formally authorize its release",
-          "• The Times and NPR are among the organizations that chose to give up their press passes rather than agree to the policy "
+          "• Defense Secretary Pete Hegseth is sued over the Pentagon's new policy that bans journalists from reporting unclassified material",
+          "• The Times and NPR are among the organizations that chose to give up their press passes rather than agree to the policy"
         ]
       },
       "read_minutes": 4,
@@ -6673,40 +6804,6 @@
       "cluster_id": "7d34563b8a64"
     },
     {
-      "id": "bf377b131106",
-      "title": "Safety volunteer charged in fatal shooting of ‘No Kings’ protester in Utah",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/03/no-kings-rally-utah-fatal-shooting",
-      "published_at": "Thu, 04 Dec 2025 02:00:55 GMT",
-      "bullets": [
-        "• Matthew Scott Alder, 43, was charged with manslaughter on Wednesday",
-        "• He is accused of fatally shooting a man taking part in a June No Kings protest in Salt Lake City, while firing at another armed man he believed to be a threat",
-        "• Alder was not initially arrested on the day of the protest, but police did arrest Arturo Gamboa and kept him in jail for a week "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Matthew Scott Alder, 43, was charged with manslaughter on Wednesday",
-          "• He is accused of fatally shooting a man taking part in a June No Kings protest in Salt Lake City, while firing at another armed man he believed to be a threat"
-        ],
-        "hopeful_bullets": [
-          "• Matthew Scott Alder, 43, was charged with manslaughter on Wednesday",
-          "• He is accused of fatally shooting a man taking part in a June No Kings protest in Salt Lake City, while firing at another armed man he believed to be a threat"
-        ],
-        "stakes_bullets": [
-          "• Matthew Scott Alder, 43, was charged with manslaughter on Wednesday",
-          "• He is accused of fatally shooting a man taking part in a June No Kings protest in Salt Lake City, while firing at another armed man he believed to be a threat",
-          "• Alder was not initially arrested on the day of the protest, but police did arrest Arturo Gamboa and kept him in jail for a week "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "60e9c53e7142"
-    },
-    {
       "id": "4de2c0de4baa",
       "title": "Steve Cropper, Revered Guitarist of Booker T. & the M.G.’s, Dies at 84",
       "outlet": "RSS: News",
@@ -6938,6 +7035,38 @@
       "cluster_id": "16bbe8571fcd"
     },
     {
+      "id": "b290307dffc7",
+      "title": "TVC15: Boba Fett (VCP03)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-29-tvc15-boba-fett-vcp03/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-boba-fett-vcp03",
+      "published_at": "Sun, 30 Nov 2025 03:41:20 +0000",
+      "bullets": [
+        "• Hasbro released the first mail-away figure with a promotion running through the first three waves of The Vintage Collection",
+        "• Boba Fett was chosen, and they recreated the four-point articulation figure with the feature that never made it out to the public "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro released the first mail-away figure with a promotion running through the first three waves of The Vintage Collection",
+          "• Boba Fett was chosen, and they recreated the four-point articulation figure with the feature that never made it out to the public "
+        ],
+        "hopeful_bullets": [
+          "• Hasbro released the first mail-away figure with a promotion running through the first three waves of The Vintage Collection",
+          "• Boba Fett was chosen, and they recreated the four-point articulation figure with the feature that never made it out to the public "
+        ],
+        "stakes_bullets": [
+          "• Hasbro released the first mail-away figure with a promotion running through the first three waves of The Vintage Collection",
+          "• Boba Fett was chosen, and they recreated the four-point articulation figure with the feature that never made it out to the public "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "ef93b3caeeff"
+    },
+    {
       "id": "b72963244510",
       "title": "Agatha All Along: Unpacking the Pop Culture References",
       "outlet": "Comic Quarters",
@@ -7140,6 +7269,38 @@
       },
       "read_minutes": 40,
       "cluster_id": "077fbd269b7a"
+    },
+    {
+      "id": "f2ed235452ab",
+      "title": "TVC15: Bounty Hunters (30th Anniversary Exclusive) [4-LOM (VCP01)/Zuckuss (VCP02)]",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-28-tvc15-bounty-hunters-30th-anniversary-exclusive-4-lom-vcp01-zuckuss-vcp02/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-bounty-hunters-30th-anniversary-exclusive-4-lom-vcp01-zuckuss-vcp02",
+      "published_at": "Sat, 29 Nov 2025 04:39:09 +0000",
+      "bullets": [
+        "• Hasbro launched The Vintage Collection with a special release entitled “Bounty Hunters” The set comprised a two-pack of basic action figures, but with a twist",
+        "• Hasbro recast the previously released toolings in the original Kenner colors, and for added measure, misidentified them exactly as Kenner did in 1982 "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.915
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro launched The Vintage Collection with a special release entitled “Bounty Hunters” The set comprised a two-pack of basic action figures, but with a twist",
+          "• Hasbro recast the previously released toolings in the original Kenner colors, and for added measure, misidentified them exactly as Kenner did in 1982 "
+        ],
+        "hopeful_bullets": [
+          "• Hasbro launched The Vintage Collection with a special release entitled “Bounty Hunters” The set comprised a two-pack of basic action figures, but with a twist",
+          "• Hasbro recast the previously released toolings in the original Kenner colors, and for added measure, misidentified them exactly as Kenner did in 1982 "
+        ],
+        "stakes_bullets": [
+          "• Hasbro launched The Vintage Collection with a special release entitled “Bounty Hunters” The set comprised a two-pack of basic action figures, but with a twist",
+          "• Hasbro recast the previously released toolings in the original Kenner colors, and for added measure, misidentified them exactly as Kenner did in 1982 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c5bbde92693a"
     },
     {
       "id": "c39d610858a7",
@@ -7679,6 +7840,38 @@
       "cluster_id": "a90c8852a51e"
     },
     {
+      "id": "d21d5fea027c",
+      "title": "TVC15: Jocasta Nu",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-01-tvc15-jocasta-nu/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-jocasta-nu",
+      "published_at": "Mon, 01 Dec 2025 20:49:23 +0000",
+      "bullets": [
+        "• Jocasta Nu is the only basic carded figure in the entire The Vintage Collection 1.0 lineup without a VC number",
+        "• Many collectors initially passed on this action figure, but today it commands a hefty three-digit premium",
+        "• Hasbro will likely never rerelease this character "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.935
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jocasta Nu is the only basic carded figure in the entire The Vintage Collection 1.0 lineup without a VC number",
+          "• Many collectors initially passed on this action figure, but today it commands a hefty three-digit premium"
+        ],
+        "hopeful_bullets": [
+          "• Jocasta Nu is the only basic carded figure in the entire The Vintage Collection 1.0 lineup without a VC number",
+          "• Many collectors initially passed on this action figure, but today it commands a hefty three-digit premium"
+        ],
+        "stakes_bullets": [
+          "• Hasbro will likely never rerelease this character "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "5876d8396d8d"
+    },
+    {
       "id": "8aff4d9425a8",
       "title": "Joe Davison’s “Sorority of the Damned” Screaming on Tubi",
       "outlet": "HorrorFix",
@@ -7773,6 +7966,34 @@
       "cluster_id": "80122221c047"
     },
     {
+      "id": "62912d9311ac",
+      "title": "Hot Toys Return of the Jedi Leia Organa (Boushh Disguise) (MMS854) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-01-hot-toys-return-of-the-jedi-leia-organa-boushh-disguise-mms854-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-return-of-the-jedi-leia-organa-boushh-disguise-mms854-1-6-scale-figure",
+      "published_at": "Mon, 01 Dec 2025 12:20:42 +0000",
+      "bullets": [
+        "• The latest Hot Toys drop features Return of the Jedi’s Leia Organa (Boushh Disguise) (MMS854) The figure features a newly developed helmeted head with detailed weathering, as well as a separate unhelmeted head sculpt of Carrie Fisher "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The latest Hot Toys drop features Return of the Jedi’s Leia Organa (Boushh Disguise) (MMS854) The figure features a newly developed helmeted head with detailed weathering, as well as a separate unhelmeted head sculpt of Carrie Fisher "
+        ],
+        "hopeful_bullets": [
+          "• The latest Hot Toys drop features Return of the Jedi’s Leia Organa (Boushh Disguise) (MMS854) The figure features a newly developed helmeted head with detailed weathering, as well as a separate unhelmeted head sculpt of Carrie Fisher "
+        ],
+        "stakes_bullets": [
+          "• The latest Hot Toys drop features Return of the Jedi’s Leia Organa (Boushh Disguise) (MMS854) The figure features a newly developed helmeted head with detailed weathering, as well as a separate unhelmeted head sculpt of Carrie Fisher "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b67bb9865e3b"
+    },
+    {
       "id": "a6bd429e4248",
       "title": "The show must go on: keeping Britain’s musical heart beating",
       "outlet": "Positive News",
@@ -7802,6 +8023,40 @@
       },
       "read_minutes": 7,
       "cluster_id": "341117306e5f"
+    },
+    {
+      "id": "7b3b4caf37d7",
+      "title": "TVC15: Boba Fett (Prototype Armor) (VC61)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-30-tvc15-boba-fett-prototype-armor-vc61/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-boba-fett-prototype-armor-vc61",
+      "published_at": "Mon, 01 Dec 2025 01:49:14 +0000",
+      "bullets": [
+        "• Boba Fett (Prototype Armor) is the second mail-away figure for The Vintage Collection",
+        "• This time based on the prototype armor as the character was being developed for The Empire Strikes Back",
+        "• With very little newness, the big selling point here was a ‘white’ figure, and it quickly became one of the most sought-after action figures of 2011 "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Boba Fett (Prototype Armor) is the second mail-away figure for The Vintage Collection",
+          "• This time based on the prototype armor as the character was being developed for The Empire Strikes Back"
+        ],
+        "hopeful_bullets": [
+          "• Boba Fett (Prototype Armor) is the second mail-away figure for The Vintage Collection",
+          "• This time based on the prototype armor as the character was being developed for The Empire Strikes Back"
+        ],
+        "stakes_bullets": [
+          "• Boba Fett (Prototype Armor) is the second mail-away figure for The Vintage Collection",
+          "• This time based on the prototype armor as the character was being developed for The Empire Strikes Back",
+          "• With very little newness, the big selling point here was a ‘white’ figure, and it quickly became one of the most sought-after action figures of 2011 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e821201dc1a9"
     },
     {
       "id": "0ff6c10d30e3",
@@ -8167,6 +8422,37 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "665ee6ea1a38",
+      "title": "The EU is probing Meta over WhatsApp’s AI chatbot restrictions",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/838020/meta-whatsapp-eu-antitrust-investigation-ai-tools",
+      "published_at": "2025-12-04T07:39:53-05:00",
+      "bullets": [
+        "• The European Union has launched a formal investigation into Meta over antitrust concerns with AI restrictions in WhatsApp",
+        "• The probe aims to “prevent any possible irreparable harm to competition in the AI space” The investigation will assess if Meta is preventing third-party AI providers from offering their services through WhatsApp "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.878
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The European Union has launched a formal investigation into Meta over antitrust concerns with AI restrictions in WhatsApp",
+          "• The probe aims to “prevent any possible irreparable harm to competition in the AI space” The investigation will assess if Meta is preventing third-party AI providers from offering their services through WhatsApp "
+        ],
+        "hopeful_bullets": [
+          "• The European Union has launched a formal investigation into Meta over antitrust concerns with AI restrictions in WhatsApp",
+          "• The probe aims to “prevent any possible irreparable harm to competition in the AI space” The investigation will assess if Meta is preventing third-party AI providers from offering their services through WhatsApp "
+        ],
+        "stakes_bullets": [
+          "• The probe aims to “prevent any possible irreparable harm to competition in the AI space” The investigation will assess if Meta is preventing third-party AI providers from offering their services through WhatsApp "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b5137e054614"
+    },
+    {
       "id": "17b8c6c76e0a",
       "title": "Get ready for an AI country music explosion",
       "outlet": "The Verge",
@@ -8459,40 +8745,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "d539108a5ef4"
-    },
-    {
-      "id": "d2d0b122db73",
-      "title": "Apple&#8217;s head of UI design is leaving for Meta",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/837654/apple-meta-alan-dye-designer",
-      "published_at": "2025-12-03T15:13:01-05:00",
-      "bullets": [
-        "• Alan Dye has led Apple’s UI design team since 2015",
-        "• He’ll join Meta as its chief design officer",
-        "• Dye will report to Meta CTO Andrew Bosworth",
-        "• Steve Lemay will replace Dye at Apple "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.968
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Alan Dye has led Apple’s UI design team since 2015",
-          "• He’ll join Meta as its chief design officer"
-        ],
-        "hopeful_bullets": [
-          "• Alan Dye has led Apple’s UI design team since 2015",
-          "• He’ll join Meta as its chief design officer"
-        ],
-        "stakes_bullets": [
-          "• Dye will report to Meta CTO Andrew Bosworth",
-          "• Steve Lemay will replace Dye at Apple "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "0af0af60a4a9"
     },
     {
       "id": "c41ff758b36a",
@@ -9334,6 +9586,24 @@
       ]
     },
     {
+      "id": "5aabc39969c9",
+      "topic": "alcatraz alligator detainee face",
+      "keywords": [
+        "alcatraz",
+        "alligator",
+        "detainee",
+        "face",
+        "first",
+        "thing"
+      ],
+      "item_ids": [
+        "94e4bbaf11ab"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "6e6ce72a0cf1",
       "topic": "allow law resident sue",
       "keywords": [
@@ -9436,24 +9706,6 @@
       ],
       "item_ids": [
         "80a4248a7d82"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "60e9c53e7142",
-      "topic": "charged fatal king safety",
-      "keywords": [
-        "charged",
-        "fatal",
-        "king",
-        "safety",
-        "shooting",
-        "volunteer"
-      ],
-      "item_ids": [
-        "bf377b131106"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9639,6 +9891,42 @@
       ]
     },
     {
+      "id": "adad3ac968b7",
+      "topic": "announcement layoff million most",
+      "keywords": [
+        "announcement",
+        "layoff",
+        "million",
+        "most",
+        "top",
+        "year"
+      ],
+      "item_ids": [
+        "f451803caff2"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "2378d8af2a89",
+      "topic": "bids comcast here netflix",
+      "keywords": [
+        "bids",
+        "comcast",
+        "here",
+        "netflix",
+        "paramount",
+        "wbd"
+      ],
+      "item_ids": [
+        "a7fdb57a3b1f"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "7ff7cc81894d",
       "topic": "cash much nvidia problem",
       "keywords": [
@@ -9674,18 +9962,18 @@
       ]
     },
     {
-      "id": "3bd4eb550670",
-      "topic": "changing hepatiti panel rfk",
+      "id": "77cd3c8b99a4",
+      "topic": "2026 deal fanatic land",
       "keywords": [
-        "changing",
-        "hepatiti",
-        "panel",
-        "rfk",
-        "vaccine",
-        "vote"
+        "2026",
+        "deal",
+        "fanatic",
+        "land",
+        "merchandising",
+        "retail"
       ],
       "item_ids": [
-        "f9b4e2c468bf"
+        "ad634954be09"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9710,72 +9998,18 @@
       ]
     },
     {
-      "id": "00bbf55465b3",
-      "topic": "efficiency fuel propose slashing",
+      "id": "3bd4eb550670",
+      "topic": "changing hepatiti panel rfk",
       "keywords": [
-        "efficiency",
-        "fuel",
-        "propose",
-        "slashing",
-        "standard",
-        "trump"
+        "changing",
+        "hepatiti",
+        "panel",
+        "rfk",
+        "vaccine",
+        "vote"
       ],
       "item_ids": [
-        "ebcad3427b01"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "bcf03f661c85",
-      "topic": "behind design executive glas",
-      "keywords": [
-        "behind",
-        "design",
-        "executive",
-        "glas",
-        "leaving",
-        "liquid"
-      ],
-      "item_ids": [
-        "e8cd57333f82"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "cdbd65a90169",
-      "topic": "just known little make",
-      "keywords": [
-        "just",
-        "known",
-        "little",
-        "make",
-        "startup",
-        "used"
-      ],
-      "item_ids": [
-        "40542f3bb5f5"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "aa1df3931347",
-      "topic": "consumer demand memory micron",
-      "keywords": [
-        "consumer",
-        "demand",
-        "memory",
-        "micron",
-        "selling",
-        "stop"
-      ],
-      "item_ids": [
-        "1ce814311842"
+        "f9b4e2c468bf"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9818,13 +10052,51 @@
       ]
     },
     {
-      "id": "4c0923dba348",
-      "topic": "leonid meteor shower watch",
+      "id": "00bbf55465b3",
+      "topic": "efficiency fuel propose slashing",
       "keywords": [
-        "leonid",
+        "efficiency",
+        "fuel",
+        "propose",
+        "slashing",
+        "standard",
+        "trump"
+      ],
+      "item_ids": [
+        "ebcad3427b01"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "711b5490408a",
+      "topic": "energy found geothermal hidden",
+      "keywords": [
+        "energy",
+        "found",
+        "geothermal",
+        "hidden",
+        "source",
+        "startup"
+      ],
+      "item_ids": [
+        "654e9be75343"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "019e1f45af88",
+      "topic": "best coming here meteor",
+      "keywords": [
+        "best",
+        "coming",
+        "here",
         "meteor",
         "shower",
-        "watch"
+        "year"
       ],
       "item_ids": [
         "74a9c9d4f4a9"
@@ -9974,21 +10246,20 @@
       ]
     },
     {
-      "id": "bb1ee923e992",
-      "topic": "administration deport immigrant self",
+      "id": "b5137e054614",
+      "topic": "chatbot meta probing restriction",
       "keywords": [
-        "administration",
-        "deport",
-        "immigrant",
-        "self",
-        "trump",
-        "want"
+        "chatbot",
+        "meta",
+        "probing",
+        "restriction",
+        "whatsapp"
       ],
       "item_ids": [
-        "651904ecdcbf"
+        "665ee6ea1a38"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -10152,21 +10423,21 @@
       ]
     },
     {
-      "id": "0af0af60a4a9",
-      "topic": "8217 apple design head",
+      "id": "38b58d6e3cd5",
+      "topic": "improving isn keep making",
       "keywords": [
-        "8217",
-        "apple",
-        "design",
-        "head",
-        "leaving",
-        "meta"
+        "improving",
+        "isn",
+        "keep",
+        "making",
+        "npu",
+        "phone"
       ],
       "item_ids": [
-        "d2d0b122db73"
+        "c1c89af20f28"
       ],
       "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
@@ -10329,27 +10600,6 @@
       ],
       "outlets": [
         "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "07a7d2117cce",
-      "topic": "admin administration energy rare",
-      "keywords": [
-        "admin",
-        "administration",
-        "energy",
-        "rare",
-        "renewable",
-        "trump",
-        "win"
-      ],
-      "item_ids": [
-        "d31a9bb01e50",
-        "e601dfcf76b4"
-      ],
-      "outlets": [
-        "Ars Technica - All content",
-        "Inside Climate News"
       ]
     },
     {
@@ -11059,6 +11309,24 @@
       ]
     },
     {
+      "id": "be3a2b155760",
+      "topic": "centre plant supply tunbridge",
+      "keywords": [
+        "centre",
+        "plant",
+        "supply",
+        "tunbridge",
+        "water",
+        "well"
+      ],
+      "item_ids": [
+        "982e4f3e4353"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "d1c97817fa63",
       "topic": "cereal chemical forever found",
       "keywords": [
@@ -11095,21 +11363,21 @@
       ]
     },
     {
-      "id": "24d02f9b0b2f",
-      "topic": "being crap describe holy",
+      "id": "f4bdc2aa51a8",
+      "topic": "110 billion factory farm",
       "keywords": [
-        "being",
-        "crap",
-        "describe",
-        "holy",
-        "insane",
-        "mineworker"
+        "110",
+        "billion",
+        "factory",
+        "farm",
+        "generate",
+        "iowa"
       ],
       "item_ids": [
-        "253d668f79ed"
+        "364af52ac83f"
       ],
       "outlets": [
-        "Environment | The Guardian"
+        "Inside Climate News"
       ]
     },
     {
@@ -11161,6 +11429,24 @@
       ],
       "item_ids": [
         "96b0eb1f41ee"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "83c098e90586",
+      "topic": "administration energy rare renewable",
+      "keywords": [
+        "administration",
+        "energy",
+        "rare",
+        "renewable",
+        "trump",
+        "win"
+      ],
+      "item_ids": [
+        "e601dfcf76b4"
       ],
       "outlets": [
         "Inside Climate News"
@@ -11251,24 +11537,6 @@
       ],
       "item_ids": [
         "815064eb2629"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "524999abce01",
-      "topic": "administration energy national rename",
-      "keywords": [
-        "administration",
-        "energy",
-        "national",
-        "rename",
-        "renewable",
-        "trump"
-      ],
-      "item_ids": [
-        "60efca13936c"
       ],
       "outlets": [
         "Inside Climate News"
@@ -12326,6 +12594,140 @@
       ],
       "outlets": [
         "HorrorFix"
+      ]
+    },
+    {
+      "id": "7d11c3e36e82",
+      "topic": "back empire hot snowtrooper",
+      "keywords": [
+        "back",
+        "empire",
+        "hot",
+        "snowtrooper",
+        "strike",
+        "toys"
+      ],
+      "item_ids": [
+        "adb7771da48c"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "5876d8396d8d",
+      "topic": "jocasta tvc15",
+      "keywords": [
+        "jocasta",
+        "tvc15"
+      ],
+      "item_ids": [
+        "d21d5fea027c"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "b67bb9865e3b",
+      "topic": "hot jedi leia organa",
+      "keywords": [
+        "hot",
+        "jedi",
+        "leia",
+        "organa",
+        "return",
+        "toys"
+      ],
+      "item_ids": [
+        "62912d9311ac"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "e821201dc1a9",
+      "topic": "armor boba fett prototype",
+      "keywords": [
+        "armor",
+        "boba",
+        "fett",
+        "prototype",
+        "tvc15",
+        "vc61"
+      ],
+      "item_ids": [
+        "7b3b4caf37d7"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "ef93b3caeeff",
+      "topic": "boba fett tvc15 vcp03",
+      "keywords": [
+        "boba",
+        "fett",
+        "tvc15",
+        "vcp03"
+      ],
+      "item_ids": [
+        "b290307dffc7"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "c5bbde92693a",
+      "topic": "30th anniversary bounty exclusive",
+      "keywords": [
+        "30th",
+        "anniversary",
+        "bounty",
+        "exclusive",
+        "hunter",
+        "tvc15"
+      ],
+      "item_ids": [
+        "f2ed235452ab"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "22e2b0137efc",
+      "topic": "arc commander trooper tvc15",
+      "keywords": [
+        "arc",
+        "commander",
+        "trooper",
+        "tvc15",
+        "vc54"
+      ],
+      "item_ids": [
+        "096f2d797fc2"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "404906aa0c7b",
+      "topic": "tvc15 vc20 yoda",
+      "keywords": [
+        "tvc15",
+        "vc20",
+        "yoda"
+      ],
+      "item_ids": [
+        "97b4fd99378e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
       ]
     },
     {
