@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-04T11:08:28Z",
+  "generated_at": "2025-12-04T11:59:05Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -34,6 +34,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "edd5409bb9c9"
+    },
+    {
+      "id": "97b4fd99378e",
+      "title": "TVC15: Yoda (VC20)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-26-tvc15-yoda-vc20/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-yoda-vc20",
+      "published_at": "Wed, 26 Nov 2025 23:43:28 +0000",
+      "bullets": [
+        "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
+        "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith",
+        "• The 3.75-inch super-articulated collecting community mocked them as “swelbows”"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
+          "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith"
+        ],
+        "hopeful_bullets": [
+          "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
+          "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith"
+        ],
+        "stakes_bullets": [
+          "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
+          "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith",
+          "• The 3.75-inch super-articulated collecting community mocked them as “swelbows”"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "404906aa0c7b"
     },
     {
       "id": "dd5d99a235e2",
@@ -296,39 +330,6 @@
       "cluster_id": "954bdce0a552"
     },
     {
-      "id": "02062fa3096c",
-      "title": "The U.S. produces a lot of food waste. This place wants to address it",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/26/g-s1-99287/the-u-s-produces-a-lot-of-food-waste-this-place-wants-to-address-it",
-      "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• U.S",
-        "• households waste about a third of all their food that could be eaten, expert says",
-        "• Food waste represents nearly a quarter of the solid waste at landfills",
-        "• 200 million pounds of turkey meat is tossed each Thanksgiving — the biggest day of food waste "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• households waste about a third of all their food that could be eaten, expert says"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• households waste about a third of all their food that could be eaten, expert says"
-        ],
-        "stakes_bullets": [
-          "• households waste about a third of all their food that could be eaten, expert says"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "57c1f5751537"
-    },
-    {
       "id": "c6eb70794c12",
       "title": "Reflecting on Redemtion and Choices – SWR #481",
       "outlet": "The Star Wars Report Podcast",
@@ -527,39 +528,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "8fe219b46753"
-    },
-    {
-      "id": "ec7cfd1889bf",
-      "title": "$700 for a bed? San Francisco startup plots ‘sleeping pod’ expansion",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/03/san-francisco-sleeping-pods-rent",
-      "published_at": "Wed, 03 Dec 2025 23:29:34 GMT",
-      "bullets": [
-        "• The $3,000-a-day \"pods\" are intended to be a permanent home for families",
-        "• Each one contains a twin-size bed and can be stacked on top of each other",
-        "• The cost of each pod is $100,000 per person "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The $3,000-a-day \"pods\" are intended to be a permanent home for families",
-          "• Each one contains a twin-size bed and can be stacked on top of each other"
-        ],
-        "hopeful_bullets": [
-          "• Each one contains a twin-size bed and can be stacked on top of each other"
-        ],
-        "stakes_bullets": [
-          "• The $3,000-a-day \"pods\" are intended to be a permanent home for families",
-          "• Each one contains a twin-size bed and can be stacked on top of each other",
-          "• The cost of each pod is $100,000 per person "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2513cb1258f9"
     },
     {
       "id": "95f2a042856d",
@@ -1053,40 +1021,6 @@
       "cluster_id": "aebf8304d9be"
     },
     {
-      "id": "80d67ed7cc01",
-      "title": "Scientists discover why anacondas stayed giants for 12 million years",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/12/251203004727.htm",
-      "published_at": "Wed, 03 Dec 2025 21:35:39 EST",
-      "bullets": [
-        "• Ancient anaconda fossils show that the snakes became giants soon after emerging in Miocene South America",
-        "• Their size has stayed stable for over 12 million years, even though other huge reptiles went extinct",
-        "• Today they remain large thanks to surviving patches of ideal wetland habitat "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ancient anaconda fossils show that the snakes became giants soon after emerging in Miocene South America",
-          "• Their size has stayed stable for over 12 million years, even though other huge reptiles went extinct"
-        ],
-        "hopeful_bullets": [
-          "• Ancient anaconda fossils show that the snakes became giants soon after emerging in Miocene South America",
-          "• Their size has stayed stable for over 12 million years, even though other huge reptiles went extinct"
-        ],
-        "stakes_bullets": [
-          "• Ancient anaconda fossils show that the snakes became giants soon after emerging in Miocene South America",
-          "• Their size has stayed stable for over 12 million years, even though other huge reptiles went extinct",
-          "• Today they remain large thanks to surviving patches of ideal wetland habitat "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f9252e41a919"
-    },
-    {
       "id": "40542f3bb5f5",
       "title": "A little-known startup just used AI to make a moon dust battery for Blue Origin",
       "outlet": "US Top News and Analysis",
@@ -1514,38 +1448,6 @@
       "cluster_id": "2c291962d1cf"
     },
     {
-      "id": "7395eb669720",
-      "title": "How families could get stuck with higher electric bills if the AI data center boom goes bust",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/03/families-could-get-see-higher-electric-bills-if-ai-data-boom-goes-bust.html",
-      "published_at": "Wed, 03 Dec 2025 19:47:23 GMT",
-      "bullets": [
-        "• The race to build facilities that provide artificial intelligence has fueled a boom in data centers that train and run large language models",
-        "• The boom has upended a utility industry that grew used to 20 years of no increase in electricity demand",
-        "• Some investors and analysts are questioning whether the AI race has turned into a bubble "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The race to build facilities that provide artificial intelligence has fueled a boom in data centers that train and run large language models",
-          "• The boom has upended a utility industry that grew used to 20 years of no increase in electricity demand"
-        ],
-        "hopeful_bullets": [
-          "• The race to build facilities that provide artificial intelligence has fueled a boom in data centers that train and run large language models",
-          "• The boom has upended a utility industry that grew used to 20 years of no increase in electricity demand"
-        ],
-        "stakes_bullets": [
-          "• The boom has upended a utility industry that grew used to 20 years of no increase in electricity demand"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "3a400f2d1bd9"
-    },
-    {
       "id": "ab21a1394607",
       "title": "NASA nominee appears before Congress, defends plans to revamp space agency",
       "outlet": "Ars Technica - All content",
@@ -1710,6 +1612,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "64137285c1c3"
+    },
+    {
+      "id": "1ce814311842",
+      "title": "Micron stops selling memory to consumers as demand spikes from AI chips",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/03/micron-stops-selling-memory-to-consumers-demand-spikes-from-ai-chips.html",
+      "published_at": "Wed, 03 Dec 2025 19:05:29 GMT",
+      "bullets": [
+        "• Micron will stop selling memory to consumers to focus on high-powered AI chips",
+        "• Memory is used by computers to store data for short periods of time",
+        "• AI infrastructure boom is creating shortages for inputs like memory",
+        "• Micron shares slipped 3% on Wednesday to $232.25 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Micron will stop selling memory to consumers to focus on high-powered AI chips",
+          "• Memory is used by computers to store data for short periods of time"
+        ],
+        "hopeful_bullets": [
+          "• Micron will stop selling memory to consumers to focus on high-powered AI chips",
+          "• Memory is used by computers to store data for short periods of time"
+        ],
+        "stakes_bullets": [
+          "• Micron will stop selling memory to consumers to focus on high-powered AI chips"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "aa1df3931347"
     },
     {
       "id": "5c6f29a3a3f9",
@@ -1878,7 +1813,7 @@
     {
       "id": "79885bce9ca5",
       "title": "How Minnesota became a hub for Somali immigrants in the U.S.",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/12/03/nx-s1-5631809/somali-immigrants-minnesota-twin-cities-trump-ilhan-omar",
       "published_at": "Wed, 03 Dec 2025 18:56:26 -0500",
       "bullets": [
@@ -1886,7 +1821,7 @@
         "• President Trump recently called Somali immigrants \"garbage\" and said he wanted to send them \"back to where they came from\" Now, U.S",
         "• Immigration and Customs Enforcement plans to target Minnesota and its Somali population in an upcoming immigration enforcement operation "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.998
@@ -3201,6 +3136,34 @@
       },
       "read_minutes": 16,
       "cluster_id": "e2e5f0bae06d"
+    },
+    {
+      "id": "adb7771da48c",
+      "title": "Hot Toys The Empire Strikes Back Snowtrooper Commander (MMS835) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-03-hot-toys-the-empire-strikes-back-snowtrooper-commander-mms835-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-the-empire-strikes-back-snowtrooper-commander-mms835-1-6-scale-figure",
+      "published_at": "Wed, 03 Dec 2025 12:20:37 +0000",
+      "bullets": [
+        "• Hot Toys is adding another snowtrooper to its Imperial ranks with the addition of the Snowtrooper Commander (MMS835) The figure is a highly detailed tribute to the Imperial leadership that spearheaded one of the saga’s most iconic battles "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hot Toys is adding another snowtrooper to its Imperial ranks with the addition of the Snowtrooper Commander (MMS835) The figure is a highly detailed tribute to the Imperial leadership that spearheaded one of the saga’s most iconic battles "
+        ],
+        "hopeful_bullets": [
+          "• Hot Toys is adding another snowtrooper to its Imperial ranks with the addition of the Snowtrooper Commander (MMS835) The figure is a highly detailed tribute to the Imperial leadership that spearheaded one of the saga’s most iconic battles "
+        ],
+        "stakes_bullets": [
+          "• Hot Toys is adding another snowtrooper to its Imperial ranks with the addition of the Snowtrooper Commander (MMS835) The figure is a highly detailed tribute to the Imperial leadership that spearheaded one of the saga’s most iconic battles "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7d11c3e36e82"
     },
     {
       "id": "be58890baccb",
@@ -4626,39 +4589,6 @@
       "cluster_id": "d52e4cba9fad"
     },
     {
-      "id": "c39e415ea3fd",
-      "title": "What the Rio Grande’s More Frequent Dry-Outs Mean for the Region’s Animals and Ecosystems",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/02122025/rio-grande-running-dry-animals-ecosystems/",
-      "published_at": "Tue, 02 Dec 2025 10:00:00 +0000",
-      "bullets": [
-        "• This summer, Albuquerque’s stretch of the Rio Grande went dry for about 45 days over six unique drying events",
-        "• The megadrought plaguing the Southwest will present new challenges to the river and the life that depends on it",
-        "• Experts say this kind of extended desiccation of the river can have major impacts on their behavior and survival "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• This summer, Albuquerque’s stretch of the Rio Grande went dry for about 45 days over six unique drying events",
-          "• The megadrought plaguing the Southwest will present new challenges to the river and the life that depends on it"
-        ],
-        "hopeful_bullets": [
-          "• This summer, Albuquerque’s stretch of the Rio Grande went dry for about 45 days over six unique drying events",
-          "• The megadrought plaguing the Southwest will present new challenges to the river and the life that depends on it"
-        ],
-        "stakes_bullets": [
-          "• The megadrought plaguing the Southwest will present new challenges to the river and the life that depends on it",
-          "• Experts say this kind of extended desiccation of the river can have major impacts on their behavior and survival "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "8348ee98ae28"
-    },
-    {
       "id": "2ebb9ebcde07",
       "title": "Hayden Joins Ahsoka w/ Scott Ryfun – SWR #478",
       "outlet": "The Star Wars Report Podcast",
@@ -4691,6 +4621,41 @@
       },
       "read_minutes": 40,
       "cluster_id": "8af4054e818a"
+    },
+    {
+      "id": "096f2d797fc2",
+      "title": "TVC15: ARC Trooper Commander (VC54)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-27-tvc15-arc-trooper-commander-vc54/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-arc-trooper-commander-vc54",
+      "published_at": "Thu, 27 Nov 2025 22:54:51 +0000",
+      "bullets": [
+        "• ARC Trooper Commander is one of the highlights of The Vintage Collection",
+        "• Hasbro intended this action figure to represent the Volume 1 and Volume 2 versions of Captain Fordo",
+        "• It remains one of our most cherished figures to date",
+        "• Please leave your thoughts and memories in the RDR comments "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ARC Trooper Commander is one of the highlights of The Vintage Collection",
+          "• Hasbro intended this action figure to represent the Volume 1 and Volume 2 versions of Captain Fordo"
+        ],
+        "hopeful_bullets": [
+          "• ARC Trooper Commander is one of the highlights of The Vintage Collection",
+          "• Hasbro intended this action figure to represent the Volume 1 and Volume 2 versions of Captain Fordo"
+        ],
+        "stakes_bullets": [
+          "• ARC Trooper Commander is one of the highlights of The Vintage Collection",
+          "• Hasbro intended this action figure to represent the Volume 1 and Volume 2 versions of Captain Fordo",
+          "• It remains one of our most cherished figures to date"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "22e2b0137efc"
     },
     {
       "id": "bfc62db5c94e",
@@ -5217,6 +5182,203 @@
       "cluster_id": "61932cf045ef"
     },
     {
+      "id": "57fdb660e3a2",
+      "title": "Europe's plan to use $105 billion of frozen Russian assets tantamount to war, says Russia's Medvedev",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/04/russia-europes-use-of-frozen-assets-could-be-justification-for-war-.html",
+      "published_at": "Thu, 04 Dec 2025 11:29:26 GMT",
+      "bullets": [
+        "• The European Commission is looking at how to use frozen Russian assets held in Europe to further support Ukraine",
+        "• The move could be tantamount to an act justifying war, Dmitry Medvedev said",
+        "• The Commission has argued that the move is not theft, given it would be a loan "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.946
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The European Commission is looking at how to use frozen Russian assets held in Europe to further support Ukraine",
+          "• The move could be tantamount to an act justifying war, Dmitry Medvedev said"
+        ],
+        "hopeful_bullets": [
+          "• The European Commission is looking at how to use frozen Russian assets held in Europe to further support Ukraine",
+          "• The move could be tantamount to an act justifying war, Dmitry Medvedev said"
+        ],
+        "stakes_bullets": [
+          "• The move could be tantamount to an act justifying war, Dmitry Medvedev said"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "47badd5bffac"
+    },
+    {
+      "id": "77890577415c",
+      "title": "Trump to host signing of peace deal between leaders of DR Congo and Rwanda",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjrjn88jqn4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 04 Dec 2025 11:17:34 GMT",
+      "bullets": [
+        "• Leaders of DR Congo and Rwanda set to sign peace deal at Washington summit",
+        "• M23 rebels and government forces have been fighting in DR Congo for years",
+        "• The M23 is in talks with DR Congo's government in a parallel peace process",
+        "• President Donald Trump will host the signing of the deal "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Leaders of DR Congo and Rwanda set to sign peace deal at Washington summit",
+          "• M23 rebels and government forces have been fighting in DR Congo for years"
+        ],
+        "hopeful_bullets": [
+          "• Leaders of DR Congo and Rwanda set to sign peace deal at Washington summit",
+          "• M23 rebels and government forces have been fighting in DR Congo for years"
+        ],
+        "stakes_bullets": [
+          "• Leaders of DR Congo and Rwanda set to sign peace deal at Washington summit",
+          "• President Donald Trump will host the signing of the deal "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "a2c1cc679ce7"
+    },
+    {
+      "id": "6ffde679a56a",
+      "title": "Israel says Palestinian groups returned body of Thai hostage held in Gaza",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 04 Dec 2025 11:02:24 GMT",
+      "bullets": [
+        "• Suthisak Rintalak, 43, was killed in a Hamas-led attack on southern Israel in October 2023",
+        "• His body was then taken to Gaza and held hostage by Palestinian Islamic Jihad",
+        "• Only one more dead hostage's body due to be handed over under the terms of the ceasefire deal now remains in Gaza "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Suthisak Rintalak, 43, was killed in a Hamas-led attack on southern Israel in October 2023",
+          "• His body was then taken to Gaza and held hostage by Palestinian Islamic Jihad"
+        ],
+        "hopeful_bullets": [
+          "• Suthisak Rintalak, 43, was killed in a Hamas-led attack on southern Israel in October 2023",
+          "• His body was then taken to Gaza and held hostage by Palestinian Islamic Jihad"
+        ],
+        "stakes_bullets": [
+          "• Suthisak Rintalak, 43, was killed in a Hamas-led attack on southern Israel in October 2023",
+          "• His body was then taken to Gaza and held hostage by Palestinian Islamic Jihad",
+          "• Only one more dead hostage's body due to be handed over under the terms of the ceasefire deal now remains in Gaza "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "4cf94c00b7cf"
+    },
+    {
+      "id": "12d3d8829485",
+      "title": "RFK Jr’s vaccine advisory panel to weigh delaying hepatitis B shots to newborns",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/04/rfk-jr-hepatitis-b-vaccine",
+      "published_at": "Thu, 04 Dec 2025 11:00:13 GMT",
+      "bullets": [
+        "• A panel of experts is meeting to discuss a possible change in the way to prevent hepatitis B from being vaccinated",
+        "• The change could have significant consequences for children and adults",
+        "• The panel's most recent chair has been replaced by a new member of the committee "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.931
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A panel of experts is meeting to discuss a possible change in the way to prevent hepatitis B from being vaccinated",
+          "• The change could have significant consequences for children and adults"
+        ],
+        "hopeful_bullets": [
+          "• A panel of experts is meeting to discuss a possible change in the way to prevent hepatitis B from being vaccinated",
+          "• The change could have significant consequences for children and adults"
+        ],
+        "stakes_bullets": [
+          "• The change could have significant consequences for children and adults"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "fbe22050ac94"
+    },
+    {
+      "id": "1af3866d88c5",
+      "title": "‘Never seen anything like this’: alarm at memo from top US vaccine official",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/04/us-vaccines-vinay-prasad-memo",
+      "published_at": "Thu, 04 Dec 2025 11:00:13 GMT",
+      "bullets": [
+        "• At least 10 children have died from a vaccine related to the deaths of children aged seven to 16 in 2021 to 2024",
+        "• The deaths were reported in the Vaccine Adverse Event Reporting System (VAERS) and reported to the National Center for Emerging and Zoonotic Infectious Diseases "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At least 10 children have died from a vaccine related to the deaths of children aged seven to 16 in 2021 to 2024",
+          "• The deaths were reported in the Vaccine Adverse Event Reporting System (VAERS) and reported to the National Center for Emerging and Zoonotic Infectious Diseases "
+        ],
+        "hopeful_bullets": [
+          "• At least 10 children have died from a vaccine related to the deaths of children aged seven to 16 in 2021 to 2024",
+          "• The deaths were reported in the Vaccine Adverse Event Reporting System (VAERS) and reported to the National Center for Emerging and Zoonotic Infectious Diseases "
+        ],
+        "stakes_bullets": [
+          "• At least 10 children have died from a vaccine related to the deaths of children aged seven to 16 in 2021 to 2024",
+          "• The deaths were reported in the Vaccine Adverse Event Reporting System (VAERS) and reported to the National Center for Emerging and Zoonotic Infectious Diseases "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "b112633d674f"
+    },
+    {
+      "id": "690ef7a37670",
+      "title": "Ohio Landfills Take Drilling Waste but Don’t Track or Test Much of It",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/04122025/ohio-landfills-drilling-waste-waterway-pollution/",
+      "published_at": "Thu, 04 Dec 2025 11:00:00 +0000",
+      "bullets": [
+        "• The Ohio landfill accepted over 3 million tons of waste from the oil and gas industry between 2014 and 2022",
+        "• That waste includes ground rock and soil, called drill cuttings, that come to the surface after a well is drilled deep into the ground",
+        "• The Ohio Environmental Protection Agency increased the amount of waste it’s allowed to receive "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Ohio landfill accepted over 3 million tons of waste from the oil and gas industry between 2014 and 2022",
+          "• That waste includes ground rock and soil, called drill cuttings, that come to the surface after a well is drilled deep into the ground"
+        ],
+        "hopeful_bullets": [
+          "• The Ohio landfill accepted over 3 million tons of waste from the oil and gas industry between 2014 and 2022",
+          "• That waste includes ground rock and soil, called drill cuttings, that come to the surface after a well is drilled deep into the ground"
+        ],
+        "stakes_bullets": [
+          "• That waste includes ground rock and soil, called drill cuttings, that come to the surface after a well is drilled deep into the ground",
+          "• The Ohio Environmental Protection Agency increased the amount of waste it’s allowed to receive "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "0b85c6b6d751"
+    },
+    {
       "id": "1c972b57c7da",
       "title": "Federal lawsuits challenging immigration detention flood Texas",
       "outlet": "The Texas Tribune",
@@ -5284,6 +5446,41 @@
       "cluster_id": "1421f1bd8bf4"
     },
     {
+      "id": "548f279e4fd2",
+      "title": "Ukraine and US negotiators to meet in Florida after Moscow talks, White House says",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 04 Dec 2025 10:49:37 GMT",
+      "bullets": [
+        "• Russian President Vladimir Putin meets with US special envoy for five hours in Moscow",
+        "• Talks with US President Donald Trump and his son-in-law are \"reasonably good\", says White House",
+        "• Putin says he wants to end the war in Ukraine by force of arms",
+        "• Ukraine's ambassador to the US says they do not need to wait for Russian promises "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Russian President Vladimir Putin meets with US special envoy for five hours in Moscow",
+          "• Talks with US President Donald Trump and his son-in-law are \"reasonably good\", says White House"
+        ],
+        "hopeful_bullets": [
+          "• Russian President Vladimir Putin meets with US special envoy for five hours in Moscow",
+          "• Talks with US President Donald Trump and his son-in-law are \"reasonably good\", says White House"
+        ],
+        "stakes_bullets": [
+          "• Russian President Vladimir Putin meets with US special envoy for five hours in Moscow",
+          "• Talks with US President Donald Trump and his son-in-law are \"reasonably good\", says White House",
+          "• Putin says he wants to end the war in Ukraine by force of arms"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "32fa27b9458d"
+    },
+    {
       "id": "c78f30dfbada",
       "title": "Meta faces Europe antitrust investigation over WhatsApp AI policy",
       "outlet": "US Top News and Analysis",
@@ -5347,38 +5544,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "edf8a15f515a"
-    },
-    {
-      "id": "57fdb660e3a2",
-      "title": "Europe's plan to use $105 billion of frozen Russian assets tantamount to war, says Russia's Medvedev",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/russia-europes-use-of-frozen-assets-could-be-justification-for-war-.html",
-      "published_at": "Thu, 04 Dec 2025 10:28:11 GMT",
-      "bullets": [
-        "• The European Commission is looking at how to use frozen Russian assets held in Europe to further support Ukraine",
-        "• The move could be tantamount to an act justifying war, Dmitry Medvedev said",
-        "• The Commission has argued that the move is not theft, given it would be a loan "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.946
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The European Commission is looking at how to use frozen Russian assets held in Europe to further support Ukraine",
-          "• The move could be tantamount to an act justifying war, Dmitry Medvedev said"
-        ],
-        "hopeful_bullets": [
-          "• The European Commission is looking at how to use frozen Russian assets held in Europe to further support Ukraine",
-          "• The move could be tantamount to an act justifying war, Dmitry Medvedev said"
-        ],
-        "stakes_bullets": [
-          "• The move could be tantamount to an act justifying war, Dmitry Medvedev said"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "47badd5bffac"
     },
     {
       "id": "f9b4e2c468bf",
@@ -5542,40 +5707,6 @@
       "cluster_id": "773d6838e91d"
     },
     {
-      "id": "77890577415c",
-      "title": "Trump to host signing of peace deal between leaders of DR Congo and Rwanda",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjrjn88jqn4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 04 Dec 2025 07:15:44 GMT",
-      "bullets": [
-        "• Leaders of DR Congo and Rwanda set to sign peace deal at Washington summit",
-        "• M23 rebels and government forces have been fighting in DR Congo for years",
-        "• The M23 is in talks with DR Congo's government in a parallel peace process",
-        "• President Donald Trump will host the signing of the deal "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Leaders of DR Congo and Rwanda set to sign peace deal at Washington summit",
-          "• M23 rebels and government forces have been fighting in DR Congo for years"
-        ],
-        "hopeful_bullets": [
-          "• Leaders of DR Congo and Rwanda set to sign peace deal at Washington summit",
-          "• M23 rebels and government forces have been fighting in DR Congo for years"
-        ],
-        "stakes_bullets": [
-          "• Leaders of DR Congo and Rwanda set to sign peace deal at Washington summit",
-          "• President Donald Trump will host the signing of the deal "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "a2c1cc679ce7"
-    },
-    {
       "id": "d9a5fc95c7e0",
       "title": "Uganda stops granting refugee status for Eritreans, Somalis and Ethiopians",
       "outlet": "World news | The Guardian",
@@ -5607,6 +5738,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "7001af041184"
+    },
+    {
+      "id": "b59a5b1db308",
+      "title": "Hornet-eating frog shows remarkable venom resistance",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/12/251204024228.htm",
+      "published_at": "Thu, 04 Dec 2025 06:11:48 EST",
+      "bullets": [
+        "• A frog with an unexpectedly strong resistance to venom has been identified",
+        "• It routinely eats hornets despite the insects' dangerous stingers",
+        "• Researchers believe this species may become a useful model organism for exploring how animals develop tolerance to venom",
+        "• A hornet sting can trigger sharp pain, tissue damage and serious systemic problems "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A frog with an unexpectedly strong resistance to venom has been identified",
+          "• It routinely eats hornets despite the insects' dangerous stingers"
+        ],
+        "hopeful_bullets": [
+          "• A frog with an unexpectedly strong resistance to venom has been identified"
+        ],
+        "stakes_bullets": [
+          "• A frog with an unexpectedly strong resistance to venom has been identified"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "b6ad0ac19ce0"
     },
     {
       "id": "7fbfa8f4e3ae",
@@ -5706,6 +5869,37 @@
       },
       "read_minutes": 2,
       "cluster_id": "d1c97817fa63"
+    },
+    {
+      "id": "56836a6bfb39",
+      "title": "This High Arctic rhino may change what we know about ancient animal migrations",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/04/nx-s1-5630889/high-arctic-rhino-hornless-canada-land-bridge",
+      "published_at": "Thu, 04 Dec 2025 06:00:00 -0500",
+      "bullets": [
+        "• Epiatheracerium itjilik is the northernmost rhino known to have ever walked the planet",
+        "• It's already reshaping scientists' understanding of when many ancient animals spread across the continents",
+        "• The fossil record suggests that in the past, well over 50 species may have walked the Earth "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Epiatheracerium itjilik is the northernmost rhino known to have ever walked the planet",
+          "• It's already reshaping scientists' understanding of when many ancient animals spread across the continents"
+        ],
+        "hopeful_bullets": [
+          "• The fossil record suggests that in the past, well over 50 species may have walked the Earth "
+        ],
+        "stakes_bullets": [
+          "• Epiatheracerium itjilik is the northernmost rhino known to have ever walked the planet"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "b980485ae562"
     },
     {
       "id": "b2de07ad3526",
@@ -5813,64 +6007,30 @@
       "url": "https://www.npr.org/2025/12/04/nx-s1-5631838/new-york-times-pentagon-defense-hegseth-lawsuit",
       "published_at": "Thu, 04 Dec 2025 05:29:36 -0500",
       "bullets": [
-        "• The New York Times sues Pentagon over new policy that bans journalists reporting unclassified material",
-        "• Defense Secretary Pete Hegseth's private Signal chats with senior government officials about pending U.S",
-        "• airstrikes in Yemen could have placed American troops in harm's way "
+        "• The New York Times sued Defense Secretary Pete Hegseth on Thursday over the Pentagon's new policy that requires media outlets to pledge not to gather information unless defense officials formally authorize its release",
+        "• The Times — and NPR — are among the organizations that chose to give up their press passes rather than agree to the policy "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.997
       },
       "moods": {
         "brief_bullets": [
-          "• The New York Times sues Pentagon over new policy that bans journalists reporting unclassified material",
-          "• Defense Secretary Pete Hegseth's private Signal chats with senior government officials about pending U.S"
+          "• The New York Times sued Defense Secretary Pete Hegseth on Thursday over the Pentagon's new policy that requires media outlets to pledge not to gather information unless defense officials formally authorize its release",
+          "• The Times — and NPR — are among the organizations that chose to give up their press passes rather than agree to the policy "
         ],
         "hopeful_bullets": [
-          "• The New York Times sues Pentagon over new policy that bans journalists reporting unclassified material",
-          "• Defense Secretary Pete Hegseth's private Signal chats with senior government officials about pending U.S"
+          "• The New York Times sued Defense Secretary Pete Hegseth on Thursday over the Pentagon's new policy that requires media outlets to pledge not to gather information unless defense officials formally authorize its release",
+          "• The Times — and NPR — are among the organizations that chose to give up their press passes rather than agree to the policy "
         ],
         "stakes_bullets": [
-          "• The New York Times sues Pentagon over new policy that bans journalists reporting unclassified material",
-          "• airstrikes in Yemen could have placed American troops in harm's way "
+          "• The New York Times sued Defense Secretary Pete Hegseth on Thursday over the Pentagon's new policy that requires media outlets to pledge not to gather information unless defense officials formally authorize its release",
+          "• The Times — and NPR — are among the organizations that chose to give up their press passes rather than agree to the policy "
         ]
       },
       "read_minutes": 4,
       "cluster_id": "d49bbadd7062"
-    },
-    {
-      "id": "6ffde679a56a",
-      "title": "Israel identifies hostage remains as Thai national",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 04 Dec 2025 05:25:21 GMT",
-      "bullets": [
-        "• Suthisak Rintalak was one of the last two deceased hostages still in Gaza",
-        "• The last remaining hostage, Ran Gvili, a 24-year-old Israeli police officer, remains in Gaza, Israel says",
-        "• Israel says they will continue to push for the return of the body of the remaining hostage",
-        "• The Israeli prime minister's office said tests showed another set of remains received from Hamas on Tuesday did not belong to either of the dead hostages "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Suthisak Rintalak was one of the last two deceased hostages still in Gaza",
-          "• The last remaining hostage, Ran Gvili, a 24-year-old Israeli police officer, remains in Gaza, Israel says"
-        ],
-        "hopeful_bullets": [
-          "• Suthisak Rintalak was one of the last two deceased hostages still in Gaza",
-          "• The last remaining hostage, Ran Gvili, a 24-year-old Israeli police officer, remains in Gaza, Israel says"
-        ],
-        "stakes_bullets": [
-          "• Israel says they will continue to push for the return of the body of the remaining hostage"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "158aa35fbe56"
     },
     {
       "id": "f39cae937eba",
@@ -6040,74 +6200,6 @@
       "cluster_id": "878e2d229925"
     },
     {
-      "id": "ee6db8af4c23",
-      "title": "In an era of rising prices, computers have gotten cheaper. (And why that may end)",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/04/nx-s1-5609211/cost-of-living-cheaper-computers",
-      "published_at": "Thu, 04 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• In an era of rising prices, computers have gotten cheaper",
-        "• Today's entry-level MacBook Pro starts at $1,599",
-        "• It has a 14-inch screen, 16 gigabytes of memory and a 512-gigabyte internal solid-state hard drive",
-        "• The comparable MacBook Pro from five years ago, with the same memory and storage, cost $1.799"
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In an era of rising prices, computers have gotten cheaper",
-          "• Today's entry-level MacBook Pro starts at $1,599"
-        ],
-        "hopeful_bullets": [
-          "• In an era of rising prices, computers have gotten cheaper",
-          "• Today's entry-level MacBook Pro starts at $1,599"
-        ],
-        "stakes_bullets": [
-          "• In an era of rising prices, computers have gotten cheaper",
-          "• Today's entry-level MacBook Pro starts at $1,599",
-          "• It has a 14-inch screen, 16 gigabytes of memory and a 512-gigabyte internal solid-state hard drive"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e163f6471b62"
-    },
-    {
-      "id": "de794795f4f9",
-      "title": "U.S. health care is broken. Here are 3 ways it's getting worse",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/04/nx-s1-5629211/health-care-broken-costs-united-health-investors",
-      "published_at": "Thu, 04 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• One year after UnitedHealthcare's CEO was shot and killed, the crisis in U.S",
-        "• health care has gotten worse",
-        "• The costs of both Obamacare and employer-sponsored insurance plans are set to skyrocket next year",
-        "• Even as costs surge, the companies and the investors who profit from this business are also struggling financially "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• One year after UnitedHealthcare's CEO was shot and killed, the crisis in U.S",
-          "• health care has gotten worse"
-        ],
-        "hopeful_bullets": [
-          "• Even as costs surge, the companies and the investors who profit from this business are also struggling financially "
-        ],
-        "stakes_bullets": [
-          "• The costs of both Obamacare and employer-sponsored insurance plans are set to skyrocket next year",
-          "• Even as costs surge, the companies and the investors who profit from this business are also struggling financially "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "fac2a88f436b"
-    },
-    {
       "id": "1f18e1eec063",
       "title": "Announcing the NPR Student Podcast Challenge for 2026 — and a very special prize!",
       "outlet": "NPR Topics: News",
@@ -6175,6 +6267,74 @@
       },
       "read_minutes": 3,
       "cluster_id": "1cdc9ee30d1e"
+    },
+    {
+      "id": "de794795f4f9",
+      "title": "U.S. health care is broken. Here are 3 ways it's getting worse",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/04/nx-s1-5629211/health-care-broken-costs-united-health-investors",
+      "published_at": "Thu, 04 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• One year after UnitedHealthcare's CEO was shot and killed, the crisis in U.S",
+        "• health care has gotten worse",
+        "• The costs of both Obamacare and employer-sponsored insurance plans are set to skyrocket next year",
+        "• Even as costs surge, the companies and the investors who profit from this business are also struggling financially "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One year after UnitedHealthcare's CEO was shot and killed, the crisis in U.S",
+          "• health care has gotten worse"
+        ],
+        "hopeful_bullets": [
+          "• Even as costs surge, the companies and the investors who profit from this business are also struggling financially "
+        ],
+        "stakes_bullets": [
+          "• The costs of both Obamacare and employer-sponsored insurance plans are set to skyrocket next year",
+          "• Even as costs surge, the companies and the investors who profit from this business are also struggling financially "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "fac2a88f436b"
+    },
+    {
+      "id": "ee6db8af4c23",
+      "title": "In an era of rising prices, computers have gotten cheaper. (And why that may end)",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/04/nx-s1-5609211/cost-of-living-cheaper-computers",
+      "published_at": "Thu, 04 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• In an era of rising prices, computers have gotten cheaper",
+        "• Today's entry-level MacBook Pro starts at $1,599",
+        "• It has a 14-inch screen, 16 gigabytes of memory and a 512-gigabyte internal solid-state hard drive",
+        "• The comparable MacBook Pro from five years ago, with the same memory and storage, cost $1.799"
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In an era of rising prices, computers have gotten cheaper",
+          "• Today's entry-level MacBook Pro starts at $1,599"
+        ],
+        "hopeful_bullets": [
+          "• In an era of rising prices, computers have gotten cheaper",
+          "• Today's entry-level MacBook Pro starts at $1,599"
+        ],
+        "stakes_bullets": [
+          "• In an era of rising prices, computers have gotten cheaper",
+          "• Today's entry-level MacBook Pro starts at $1,599",
+          "• It has a 14-inch screen, 16 gigabytes of memory and a 512-gigabyte internal solid-state hard drive"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e163f6471b62"
     },
     {
       "id": "cce88e5d86cd",
@@ -6572,40 +6732,6 @@
       "cluster_id": "7d34563b8a64"
     },
     {
-      "id": "5017d05626a7",
-      "title": "Trump's South Korea tariff cuts are major boost for Hyundai and GM",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/03/trump-south-korea-tariffs-vehicles-hyundai-gm.html",
-      "published_at": "Thu, 04 Dec 2025 02:22:10 GMT",
-      "bullets": [
-        "• Hyundai is the largest U.S",
-        "• importer of new vehicles from South Korea, followed by GM",
-        "• Both automakers have paid billions of dollars in levies so far this year after President Trump placed 25% tariffs on imported vehicles",
-        "• The Trump administration this past week confirmed plans to lower tariffs on certain products "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hyundai is the largest U.S",
-          "• importer of new vehicles from South Korea, followed by GM"
-        ],
-        "hopeful_bullets": [
-          "• Hyundai is the largest U.S",
-          "• importer of new vehicles from South Korea, followed by GM"
-        ],
-        "stakes_bullets": [
-          "• Both automakers have paid billions of dollars in levies so far this year after President Trump placed 25% tariffs on imported vehicles",
-          "• The Trump administration this past week confirmed plans to lower tariffs on certain products "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "88ae15f98268"
-    },
-    {
       "id": "466060aeefec",
       "title": "Family of Colombian man killed in U.S. strike files human rights challenge",
       "outlet": "NPR Topics: News",
@@ -6706,38 +6832,6 @@
       "cluster_id": "884d47e922c8"
     },
     {
-      "id": "548f279e4fd2",
-      "title": "Ukraine and US negotiators to meet in Florida after Moscow talks, White House says",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 04 Dec 2025 01:51:38 GMT",
-      "bullets": [
-        "• Ukraine and US negotiators to meet in Florida after Moscow talks, White House says",
-        "• US special envoy Steve Witkoff will meet head of Ukraine's national security council for talks on Thursday",
-        "• White House: \"Right now, the world clearly feels that there is a real opportunity\""
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ukraine and US negotiators to meet in Florida after Moscow talks, White House says",
-          "• US special envoy Steve Witkoff will meet head of Ukraine's national security council for talks on Thursday"
-        ],
-        "hopeful_bullets": [
-          "• Ukraine and US negotiators to meet in Florida after Moscow talks, White House says",
-          "• US special envoy Steve Witkoff will meet head of Ukraine's national security council for talks on Thursday"
-        ],
-        "stakes_bullets": [
-          "• US special envoy Steve Witkoff will meet head of Ukraine's national security council for talks on Thursday"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "32fa27b9458d"
-    },
-    {
       "id": "acc7a3559dcd",
       "title": "Trump officials say second strike aimed to destroy suspected drug boat instead of crew",
       "outlet": "US news | The Guardian",
@@ -6836,6 +6930,39 @@
       "cluster_id": "9220c21aab2c"
     },
     {
+      "id": "aa9e0a140f5f",
+      "title": "Keep October 1987 Black Monday crash in mind: Former Treasury Sec., Goldman chair Robert Rubin's message to the market",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/03/stock-market-crash-risk-black-monday-october-1987.html",
+      "published_at": "Thu, 04 Dec 2025 01:12:59 GMT",
+      "bullets": [
+        "• Robert Rubin says the current AI boom misses the point of comparing it to 1987's \"Black Monday\" Rubin has been outspoken about the risks the U.S",
+        "• economy is running related to the increase in government debt",
+        "• Recent estimates from the Congressional Budget Office put the debt held by the public at 99.8% of GDP for fiscal year 2025 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Robert Rubin says the current AI boom misses the point of comparing it to 1987's \"Black Monday\" Rubin has been outspoken about the risks the U.S",
+          "• economy is running related to the increase in government debt"
+        ],
+        "hopeful_bullets": [
+          "• Robert Rubin says the current AI boom misses the point of comparing it to 1987's \"Black Monday\" Rubin has been outspoken about the risks the U.S",
+          "• economy is running related to the increase in government debt"
+        ],
+        "stakes_bullets": [
+          "• Robert Rubin says the current AI boom misses the point of comparing it to 1987's \"Black Monday\" Rubin has been outspoken about the risks the U.S",
+          "• economy is running related to the increase in government debt"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "56707c2577b6"
+    },
+    {
       "id": "bd58f3d2965b",
       "title": "Federal agents launch immigration crackdown in New Orleans",
       "outlet": "US news | The Guardian",
@@ -6868,37 +6995,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "007f07801096"
-    },
-    {
-      "id": "04e83a8f54a6",
-      "title": "Pentagon report concludes Hegseth put troops in danger with Signal chat",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/03/hegseth-yemen-signal-group-chat",
-      "published_at": "Thu, 04 Dec 2025 01:00:53 GMT",
-      "bullets": [
-        "• A report by the Department of Defense found that the information was secret and could have endangered the lives of US troops if it had been intercepted by a foreign enemy force",
-        "• The report did not examine the conduct of those officials, since they do not work at the Defense Department "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A report by the Department of Defense found that the information was secret and could have endangered the lives of US troops if it had been intercepted by a foreign enemy force",
-          "• The report did not examine the conduct of those officials, since they do not work at the Defense Department "
-        ],
-        "hopeful_bullets": [
-          "• A report by the Department of Defense found that the information was secret and could have endangered the lives of US troops if it had been intercepted by a foreign enemy force",
-          "• The report did not examine the conduct of those officials, since they do not work at the Defense Department "
-        ],
-        "stakes_bullets": [
-          "• A report by the Department of Defense found that the information was secret and could have endangered the lives of US troops if it had been intercepted by a foreign enemy force"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1c74a12e1247"
     },
     {
       "id": "3fafd9c363f1",
@@ -7031,6 +7127,38 @@
       },
       "read_minutes": 4,
       "cluster_id": "16bbe8571fcd"
+    },
+    {
+      "id": "b290307dffc7",
+      "title": "TVC15: Boba Fett (VCP03)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-29-tvc15-boba-fett-vcp03/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-boba-fett-vcp03",
+      "published_at": "Sun, 30 Nov 2025 03:41:20 +0000",
+      "bullets": [
+        "• Hasbro released the first mail-away figure with a promotion running through the first three waves of The Vintage Collection",
+        "• Boba Fett was chosen, and they recreated the four-point articulation figure with the feature that never made it out to the public "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro released the first mail-away figure with a promotion running through the first three waves of The Vintage Collection",
+          "• Boba Fett was chosen, and they recreated the four-point articulation figure with the feature that never made it out to the public "
+        ],
+        "hopeful_bullets": [
+          "• Hasbro released the first mail-away figure with a promotion running through the first three waves of The Vintage Collection",
+          "• Boba Fett was chosen, and they recreated the four-point articulation figure with the feature that never made it out to the public "
+        ],
+        "stakes_bullets": [
+          "• Hasbro released the first mail-away figure with a promotion running through the first three waves of The Vintage Collection",
+          "• Boba Fett was chosen, and they recreated the four-point articulation figure with the feature that never made it out to the public "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "ef93b3caeeff"
     },
     {
       "id": "b72963244510",
@@ -7235,6 +7363,38 @@
       },
       "read_minutes": 40,
       "cluster_id": "077fbd269b7a"
+    },
+    {
+      "id": "f2ed235452ab",
+      "title": "TVC15: Bounty Hunters (30th Anniversary Exclusive) [4-LOM (VCP01)/Zuckuss (VCP02)]",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-28-tvc15-bounty-hunters-30th-anniversary-exclusive-4-lom-vcp01-zuckuss-vcp02/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-bounty-hunters-30th-anniversary-exclusive-4-lom-vcp01-zuckuss-vcp02",
+      "published_at": "Sat, 29 Nov 2025 04:39:09 +0000",
+      "bullets": [
+        "• Hasbro launched The Vintage Collection with a special release entitled “Bounty Hunters” The set comprised a two-pack of basic action figures, but with a twist",
+        "• Hasbro recast the previously released toolings in the original Kenner colors, and for added measure, misidentified them exactly as Kenner did in 1982 "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.915
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro launched The Vintage Collection with a special release entitled “Bounty Hunters” The set comprised a two-pack of basic action figures, but with a twist",
+          "• Hasbro recast the previously released toolings in the original Kenner colors, and for added measure, misidentified them exactly as Kenner did in 1982 "
+        ],
+        "hopeful_bullets": [
+          "• Hasbro launched The Vintage Collection with a special release entitled “Bounty Hunters” The set comprised a two-pack of basic action figures, but with a twist",
+          "• Hasbro recast the previously released toolings in the original Kenner colors, and for added measure, misidentified them exactly as Kenner did in 1982 "
+        ],
+        "stakes_bullets": [
+          "• Hasbro launched The Vintage Collection with a special release entitled “Bounty Hunters” The set comprised a two-pack of basic action figures, but with a twist",
+          "• Hasbro recast the previously released toolings in the original Kenner colors, and for added measure, misidentified them exactly as Kenner did in 1982 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c5bbde92693a"
     },
     {
       "id": "c39d610858a7",
@@ -7774,6 +7934,38 @@
       "cluster_id": "a90c8852a51e"
     },
     {
+      "id": "d21d5fea027c",
+      "title": "TVC15: Jocasta Nu",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-01-tvc15-jocasta-nu/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-jocasta-nu",
+      "published_at": "Mon, 01 Dec 2025 20:49:23 +0000",
+      "bullets": [
+        "• Jocasta Nu is the only basic carded figure in the entire The Vintage Collection 1.0 lineup without a VC number",
+        "• Many collectors initially passed on this action figure, but today it commands a hefty three-digit premium",
+        "• Hasbro will likely never rerelease this character "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.935
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jocasta Nu is the only basic carded figure in the entire The Vintage Collection 1.0 lineup without a VC number",
+          "• Many collectors initially passed on this action figure, but today it commands a hefty three-digit premium"
+        ],
+        "hopeful_bullets": [
+          "• Jocasta Nu is the only basic carded figure in the entire The Vintage Collection 1.0 lineup without a VC number",
+          "• Many collectors initially passed on this action figure, but today it commands a hefty three-digit premium"
+        ],
+        "stakes_bullets": [
+          "• Hasbro will likely never rerelease this character "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "5876d8396d8d"
+    },
+    {
       "id": "8aff4d9425a8",
       "title": "Joe Davison’s “Sorority of the Damned” Screaming on Tubi",
       "outlet": "HorrorFix",
@@ -7868,6 +8060,34 @@
       "cluster_id": "80122221c047"
     },
     {
+      "id": "62912d9311ac",
+      "title": "Hot Toys Return of the Jedi Leia Organa (Boushh Disguise) (MMS854) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-01-hot-toys-return-of-the-jedi-leia-organa-boushh-disguise-mms854-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-return-of-the-jedi-leia-organa-boushh-disguise-mms854-1-6-scale-figure",
+      "published_at": "Mon, 01 Dec 2025 12:20:42 +0000",
+      "bullets": [
+        "• The latest Hot Toys drop features Return of the Jedi’s Leia Organa (Boushh Disguise) (MMS854) The figure features a newly developed helmeted head with detailed weathering, as well as a separate unhelmeted head sculpt of Carrie Fisher "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The latest Hot Toys drop features Return of the Jedi’s Leia Organa (Boushh Disguise) (MMS854) The figure features a newly developed helmeted head with detailed weathering, as well as a separate unhelmeted head sculpt of Carrie Fisher "
+        ],
+        "hopeful_bullets": [
+          "• The latest Hot Toys drop features Return of the Jedi’s Leia Organa (Boushh Disguise) (MMS854) The figure features a newly developed helmeted head with detailed weathering, as well as a separate unhelmeted head sculpt of Carrie Fisher "
+        ],
+        "stakes_bullets": [
+          "• The latest Hot Toys drop features Return of the Jedi’s Leia Organa (Boushh Disguise) (MMS854) The figure features a newly developed helmeted head with detailed weathering, as well as a separate unhelmeted head sculpt of Carrie Fisher "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b67bb9865e3b"
+    },
+    {
       "id": "a6bd429e4248",
       "title": "The show must go on: keeping Britain’s musical heart beating",
       "outlet": "Positive News",
@@ -7897,6 +8117,40 @@
       },
       "read_minutes": 7,
       "cluster_id": "341117306e5f"
+    },
+    {
+      "id": "7b3b4caf37d7",
+      "title": "TVC15: Boba Fett (Prototype Armor) (VC61)",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-11-30-tvc15-boba-fett-prototype-armor-vc61/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-boba-fett-prototype-armor-vc61",
+      "published_at": "Mon, 01 Dec 2025 01:49:14 +0000",
+      "bullets": [
+        "• Boba Fett (Prototype Armor) is the second mail-away figure for The Vintage Collection",
+        "• This time based on the prototype armor as the character was being developed for The Empire Strikes Back",
+        "• With very little newness, the big selling point here was a ‘white’ figure, and it quickly became one of the most sought-after action figures of 2011 "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Boba Fett (Prototype Armor) is the second mail-away figure for The Vintage Collection",
+          "• This time based on the prototype armor as the character was being developed for The Empire Strikes Back"
+        ],
+        "hopeful_bullets": [
+          "• Boba Fett (Prototype Armor) is the second mail-away figure for The Vintage Collection",
+          "• This time based on the prototype armor as the character was being developed for The Empire Strikes Back"
+        ],
+        "stakes_bullets": [
+          "• Boba Fett (Prototype Armor) is the second mail-away figure for The Vintage Collection",
+          "• This time based on the prototype armor as the character was being developed for The Empire Strikes Back",
+          "• With very little newness, the big selling point here was a ‘white’ figure, and it quickly became one of the most sought-after action figures of 2011 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e821201dc1a9"
     },
     {
       "id": "0ff6c10d30e3",
@@ -8262,6 +8516,38 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "7c1b2e9768b2",
+      "title": "Apple removed a Night mode photo feature from the iPhone 17 Pro",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/838002/apple-iphone-17-pro-night-portrait-mode-removed",
+      "published_at": "2025-12-04T06:29:45-05:00",
+      "bullets": [
+        "• Apple removed a Night mode photo feature from the iPhone 17 Pro and Pro Max",
+        "• The feature isn’t available in the camera app’s Portrait mode on the latest models",
+        "• Apple hasn't explained why it removed the feature, or if it will be added in the future "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Apple removed a Night mode photo feature from the iPhone 17 Pro and Pro Max",
+          "• The feature isn’t available in the camera app’s Portrait mode on the latest models"
+        ],
+        "hopeful_bullets": [
+          "• Apple removed a Night mode photo feature from the iPhone 17 Pro and Pro Max",
+          "• The feature isn’t available in the camera app’s Portrait mode on the latest models"
+        ],
+        "stakes_bullets": [
+          "• Apple hasn't explained why it removed the feature, or if it will be added in the future "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "54c8c12461dd"
+    },
+    {
       "id": "bb54bf9c40c7",
       "title": "Antigravity’s 360-degree drone is here to help you forget DJI",
       "outlet": "The Verge",
@@ -8555,38 +8841,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "01594ba2cdce"
-    },
-    {
-      "id": "a8ba05b77658",
-      "title": "PlayStation is making an MLB The Show mobile game",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/837614/sony-playstation-mlb-the-show-mobile-game",
-      "published_at": "2025-12-03T14:19:36-05:00",
-      "bullets": [
-        "• Sony is soft-launching a new MLB The Show title for iOS and Android in the Philippines",
-        "• The game is a new standalone game that's optimized for the iPhone 16 and the Samsung Galaxy S25",
-        "• Sony plans to “expand availability to more players around the world”"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sony is soft-launching a new MLB The Show title for iOS and Android in the Philippines",
-          "• The game is a new standalone game that's optimized for the iPhone 16 and the Samsung Galaxy S25"
-        ],
-        "hopeful_bullets": [
-          "• Sony is soft-launching a new MLB The Show title for iOS and Android in the Philippines",
-          "• The game is a new standalone game that's optimized for the iPhone 16 and the Samsung Galaxy S25"
-        ],
-        "stakes_bullets": [
-          "• Sony plans to “expand availability to more players around the world”"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "852b5f6a0d72"
     },
     {
       "id": "c41ff758b36a",
@@ -9047,18 +9301,18 @@
   ],
   "clusters": [
     {
-      "id": "edf8a15f515a",
-      "topic": "epstein image island previously",
+      "id": "474527b375a7",
+      "topic": "defence geopolitic modi oil",
       "keywords": [
-        "epstein",
-        "image",
-        "island",
-        "previously",
-        "released",
-        "unseen"
+        "defence",
+        "geopolitic",
+        "modi",
+        "oil",
+        "putin",
+        "visiting"
       ],
       "item_ids": [
-        "7aef0f3398d5"
+        "f71daff17251"
       ],
       "outlets": [
         "BBC News"
@@ -9083,18 +9337,18 @@
       ]
     },
     {
-      "id": "474527b375a7",
-      "topic": "defence geopolitic modi oil",
+      "id": "edf8a15f515a",
+      "topic": "epstein image island previously",
       "keywords": [
-        "defence",
-        "geopolitic",
-        "modi",
-        "oil",
-        "putin",
-        "visiting"
+        "epstein",
+        "image",
+        "island",
+        "previously",
+        "released",
+        "unseen"
       ],
       "item_ids": [
-        "f71daff17251"
+        "7aef0f3398d5"
       ],
       "outlets": [
         "BBC News"
@@ -9119,14 +9373,14 @@
       ]
     },
     {
-      "id": "158aa35fbe56",
-      "topic": "hostage identifie israel national",
+      "id": "4cf94c00b7cf",
+      "topic": "body group israel palestinian",
       "keywords": [
-        "hostage",
-        "identifie",
+        "body",
+        "group",
         "israel",
-        "national",
-        "remain",
+        "palestinian",
+        "returned",
         "thai"
       ],
       "item_ids": [
@@ -9407,6 +9661,42 @@
       ]
     },
     {
+      "id": "fbe22050ac94",
+      "topic": "advisory delaying panel rfk",
+      "keywords": [
+        "advisory",
+        "delaying",
+        "panel",
+        "rfk",
+        "vaccine",
+        "weigh"
+      ],
+      "item_ids": [
+        "12d3d8829485"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "b112633d674f",
+      "topic": "alarm anything like memo",
+      "keywords": [
+        "alarm",
+        "anything",
+        "like",
+        "memo",
+        "never",
+        "seen"
+      ],
+      "item_ids": [
+        "1af3866d88c5"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "c41d7c985cb8",
       "topic": "alcatraz alligator detainee facing",
       "keywords": [
@@ -9533,42 +9823,6 @@
       ]
     },
     {
-      "id": "1c74a12e1247",
-      "topic": "conclude hegseth pentagon put",
-      "keywords": [
-        "conclude",
-        "hegseth",
-        "pentagon",
-        "put",
-        "report",
-        "troop"
-      ],
-      "item_ids": [
-        "04e83a8f54a6"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "2513cb1258f9",
-      "topic": "700 bed francisco plot",
-      "keywords": [
-        "700",
-        "bed",
-        "francisco",
-        "plot",
-        "san",
-        "startup"
-      ],
-      "item_ids": [
-        "ec7cfd1889bf"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "d7a6b28fc510",
       "topic": "entertainment exec indicted own",
       "keywords": [
@@ -9584,6 +9838,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "b980485ae562",
+      "topic": "ancient arctic change high",
+      "keywords": [
+        "ancient",
+        "arctic",
+        "change",
+        "high",
+        "know",
+        "rhino"
+      ],
+      "item_ids": [
+        "56836a6bfb39"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9623,42 +9895,6 @@
       ]
     },
     {
-      "id": "e163f6471b62",
-      "topic": "cheaper computer era gotten",
-      "keywords": [
-        "cheaper",
-        "computer",
-        "era",
-        "gotten",
-        "price",
-        "rising"
-      ],
-      "item_ids": [
-        "ee6db8af4c23"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "fac2a88f436b",
-      "topic": "broken care getting health",
-      "keywords": [
-        "broken",
-        "care",
-        "getting",
-        "health",
-        "here",
-        "ways"
-      ],
-      "item_ids": [
-        "de794795f4f9"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "2ebaf61e9a46",
       "topic": "2026 announcing challenge npr",
       "keywords": [
@@ -9688,6 +9924,42 @@
       ],
       "item_ids": [
         "7515edae4797"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "fac2a88f436b",
+      "topic": "broken care getting health",
+      "keywords": [
+        "broken",
+        "care",
+        "getting",
+        "health",
+        "here",
+        "ways"
+      ],
+      "item_ids": [
+        "de794795f4f9"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "e163f6471b62",
+      "topic": "cheaper computer era gotten",
+      "keywords": [
+        "cheaper",
+        "computer",
+        "era",
+        "gotten",
+        "price",
+        "rising"
+      ],
+      "item_ids": [
+        "ee6db8af4c23"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9751,23 +10023,6 @@
       ]
     },
     {
-      "id": "9718329057f7",
-      "topic": "became hub immigrant minnesota",
-      "keywords": [
-        "became",
-        "hub",
-        "immigrant",
-        "minnesota",
-        "somali"
-      ],
-      "item_ids": [
-        "79885bce9ca5"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "3bd4eb550670",
       "topic": "changing hepatiti panel rfk",
       "keywords": [
@@ -9786,18 +10041,18 @@
       ]
     },
     {
-      "id": "881e135ea889",
-      "topic": "antitrust europe face investigation",
+      "id": "47badd5bffac",
+      "topic": "105 billion europe frozen",
       "keywords": [
-        "antitrust",
+        "105",
+        "billion",
         "europe",
-        "face",
-        "investigation",
-        "meta",
-        "whatsapp"
+        "frozen",
+        "plan",
+        "use"
       ],
       "item_ids": [
-        "c78f30dfbada"
+        "57fdb660e3a2"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9876,36 +10131,36 @@
       ]
     },
     {
-      "id": "47badd5bffac",
-      "topic": "105 billion europe frozen",
+      "id": "881e135ea889",
+      "topic": "antitrust europe face investigation",
       "keywords": [
-        "105",
-        "billion",
+        "antitrust",
         "europe",
-        "frozen",
-        "plan",
-        "use"
+        "face",
+        "investigation",
+        "meta",
+        "whatsapp"
       ],
       "item_ids": [
-        "57fdb660e3a2"
+        "c78f30dfbada"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "88ae15f98268",
-      "topic": "cuts korea major south",
+      "id": "aa1df3931347",
+      "topic": "consumer demand memory micron",
       "keywords": [
-        "cuts",
-        "korea",
-        "major",
-        "south",
-        "tariff",
-        "trump"
+        "consumer",
+        "demand",
+        "memory",
+        "micron",
+        "selling",
+        "stop"
       ],
       "item_ids": [
-        "5017d05626a7"
+        "1ce814311842"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9930,18 +10185,18 @@
       ]
     },
     {
-      "id": "3a400f2d1bd9",
-      "topic": "bill electric familie get",
+      "id": "56707c2577b6",
+      "topic": "1987 black crash keep",
       "keywords": [
-        "bill",
-        "electric",
-        "familie",
-        "get",
-        "higher",
-        "stuck"
+        "1987",
+        "black",
+        "crash",
+        "keep",
+        "monday",
+        "october"
       ],
       "item_ids": [
-        "7395eb669720"
+        "aa9e0a140f5f"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10127,6 +10382,24 @@
       ]
     },
     {
+      "id": "54c8c12461dd",
+      "topic": "apple feature mode night",
+      "keywords": [
+        "apple",
+        "feature",
+        "mode",
+        "night",
+        "photo",
+        "removed"
+      ],
+      "item_ids": [
+        "7c1b2e9768b2"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "d95a190142b3",
       "topic": "360 antigravity degree drone",
       "keywords": [
@@ -10282,24 +10555,6 @@
       ],
       "item_ids": [
         "1cca398338bf"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "852b5f6a0d72",
-      "topic": "game making mlb mobile",
-      "keywords": [
-        "game",
-        "making",
-        "mlb",
-        "mobile",
-        "playstation",
-        "show"
-      ],
-      "item_ids": [
-        "a8ba05b77658"
       ],
       "outlets": [
         "The Verge"
@@ -10489,6 +10744,24 @@
       ]
     },
     {
+      "id": "b6ad0ac19ce0",
+      "topic": "eating frog hornet remarkable",
+      "keywords": [
+        "eating",
+        "frog",
+        "hornet",
+        "remarkable",
+        "show",
+        "venom"
+      ],
+      "item_ids": [
+        "b59a5b1db308"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "07ae12232522",
       "topic": "capture flu human scientist",
       "keywords": [
@@ -10644,24 +10917,6 @@
       ],
       "item_ids": [
         "e9bfb27bee37"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "f9252e41a919",
-      "topic": "anaconda discover giant million",
-      "keywords": [
-        "anaconda",
-        "discover",
-        "giant",
-        "million",
-        "scientist",
-        "stayed"
-      ],
-      "item_ids": [
-        "80d67ed7cc01"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10828,21 +11083,20 @@
       ]
     },
     {
-      "id": "57c1f5751537",
-      "topic": "food lot place produce",
+      "id": "9718329057f7",
+      "topic": "became hub immigrant minnesota",
       "keywords": [
-        "food",
-        "lot",
-        "place",
-        "produce",
-        "want",
-        "waste"
+        "became",
+        "hub",
+        "immigrant",
+        "minnesota",
+        "somali"
       ],
       "item_ids": [
-        "02062fa3096c"
+        "79885bce9ca5"
       ],
       "outlets": [
-        "NPR Topics: Science"
+        "NPR Topics: Politics"
       ]
     },
     {
@@ -11286,6 +11540,24 @@
       ]
     },
     {
+      "id": "0b85c6b6d751",
+      "topic": "don drilling landfill ohio",
+      "keywords": [
+        "don",
+        "drilling",
+        "landfill",
+        "ohio",
+        "take",
+        "waste"
+      ],
+      "item_ids": [
+        "690ef7a37670"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "a5fc92a28bf3",
       "topic": "2025 bay chesapeake goal",
       "keywords": [
@@ -11424,24 +11696,6 @@
       ],
       "item_ids": [
         "60efca13936c"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "8348ee98ae28",
-      "topic": "dry frequent grande mean",
-      "keywords": [
-        "dry",
-        "frequent",
-        "grande",
-        "mean",
-        "outs",
-        "rio"
-      ],
-      "item_ids": [
-        "c39e415ea3fd"
       ],
       "outlets": [
         "Inside Climate News"
@@ -12499,6 +12753,140 @@
       ],
       "outlets": [
         "HorrorFix"
+      ]
+    },
+    {
+      "id": "7d11c3e36e82",
+      "topic": "back empire hot snowtrooper",
+      "keywords": [
+        "back",
+        "empire",
+        "hot",
+        "snowtrooper",
+        "strike",
+        "toys"
+      ],
+      "item_ids": [
+        "adb7771da48c"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "5876d8396d8d",
+      "topic": "jocasta tvc15",
+      "keywords": [
+        "jocasta",
+        "tvc15"
+      ],
+      "item_ids": [
+        "d21d5fea027c"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "b67bb9865e3b",
+      "topic": "hot jedi leia organa",
+      "keywords": [
+        "hot",
+        "jedi",
+        "leia",
+        "organa",
+        "return",
+        "toys"
+      ],
+      "item_ids": [
+        "62912d9311ac"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "e821201dc1a9",
+      "topic": "armor boba fett prototype",
+      "keywords": [
+        "armor",
+        "boba",
+        "fett",
+        "prototype",
+        "tvc15",
+        "vc61"
+      ],
+      "item_ids": [
+        "7b3b4caf37d7"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "ef93b3caeeff",
+      "topic": "boba fett tvc15 vcp03",
+      "keywords": [
+        "boba",
+        "fett",
+        "tvc15",
+        "vcp03"
+      ],
+      "item_ids": [
+        "b290307dffc7"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "c5bbde92693a",
+      "topic": "30th anniversary bounty exclusive",
+      "keywords": [
+        "30th",
+        "anniversary",
+        "bounty",
+        "exclusive",
+        "hunter",
+        "tvc15"
+      ],
+      "item_ids": [
+        "f2ed235452ab"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "22e2b0137efc",
+      "topic": "arc commander trooper tvc15",
+      "keywords": [
+        "arc",
+        "commander",
+        "trooper",
+        "tvc15",
+        "vc54"
+      ],
+      "item_ids": [
+        "096f2d797fc2"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "404906aa0c7b",
+      "topic": "tvc15 vc20 yoda",
+      "keywords": [
+        "tvc15",
+        "vc20",
+        "yoda"
+      ],
+      "item_ids": [
+        "97b4fd99378e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
       ]
     },
     {
