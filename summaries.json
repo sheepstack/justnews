@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-04T20:16:30Z",
+  "generated_at": "2025-12-04T21:00:57Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -298,36 +298,37 @@
       "cluster_id": "16cb7c690846"
     },
     {
-      "id": "35863ee4867f",
-      "title": "How the turkey trotted its way onto our Thanksgiving tables — and into our lexicon",
+      "id": "02062fa3096c",
+      "title": "The U.S. produces a lot of food waste. This place wants to address it",
       "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/26/nx-s1-5612661/turkey-word-origin-thanksgiving",
+      "url": "https://www.npr.org/2025/11/26/g-s1-99287/the-u-s-produces-a-lot-of-food-waste-this-place-wants-to-address-it",
       "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
       "bullets": [
-        "• The turkey was first brought across the Atlantic to Europe in 17th century",
-        "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving",
-        "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
+        "• U.S",
+        "• households waste about a third of all their food that could be eaten, expert says",
+        "• Food waste represents nearly a quarter of the solid waste at landfills",
+        "• 200 million pounds of turkey meat is tossed each Thanksgiving — the biggest day of food waste "
       ],
       "category": "Science",
       "sentiment": {
-        "label": "positive",
-        "score": 0.994
+        "label": "negative",
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• The turkey was first brought across the Atlantic to Europe in 17th century",
-          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
+          "• U.S",
+          "• households waste about a third of all their food that could be eaten, expert says"
         ],
         "hopeful_bullets": [
-          "• The turkey was first brought across the Atlantic to Europe in 17th century",
-          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
+          "• U.S",
+          "• households waste about a third of all their food that could be eaten, expert says"
         ],
         "stakes_bullets": [
-          "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
+          "• households waste about a third of all their food that could be eaten, expert says"
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "954bdce0a552"
+      "cluster_id": "57c1f5751537"
     },
     {
       "id": "c6eb70794c12",
@@ -528,73 +529,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "8fe219b46753"
-    },
-    {
-      "id": "f4cc6b8e9278",
-      "title": "Admins and defenders gird themselves against maximum-severity server vuln",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/",
-      "published_at": "Wed, 03 Dec 2025 23:16:03 +0000",
-      "bullets": [
-        "• A maximum-severity vulnerability has been disclosed in React Server",
-        "• The vulnerability is easy to exploit and allows hackers to execute malicious code on servers that run it",
-        "• React is embedded into web apps running on servers so that remote devices render JavaScript more quickly and with fewer resources required "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A maximum-severity vulnerability has been disclosed in React Server",
-          "• The vulnerability is easy to exploit and allows hackers to execute malicious code on servers that run it"
-        ],
-        "hopeful_bullets": [
-          "• A maximum-severity vulnerability has been disclosed in React Server",
-          "• The vulnerability is easy to exploit and allows hackers to execute malicious code on servers that run it"
-        ],
-        "stakes_bullets": [
-          "• The vulnerability is easy to exploit and allows hackers to execute malicious code on servers that run it",
-          "• React is embedded into web apps running on servers so that remote devices render JavaScript more quickly and with fewer resources required "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "1d7168219937"
-    },
-    {
-      "id": "e590dfa89490",
-      "title": "Great handling, advanced EV tech: We drive the 2027 BMW iX3",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/cars/2025/12/great-handling-advanced-ev-tech-we-drive-the-2026-bmw-ix3/",
-      "published_at": "Wed, 03 Dec 2025 23:01:26 +0000",
-      "bullets": [
-        "• The new BMW iX3 is an important car for the automaker",
-        "• It's the first of a new series of vehicles that BMW is calling the Neue Klasse",
-        "• There’s an all-electric 3 series sedan on the way "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The new BMW iX3 is an important car for the automaker",
-          "• It's the first of a new series of vehicles that BMW is calling the Neue Klasse"
-        ],
-        "hopeful_bullets": [
-          "• The new BMW iX3 is an important car for the automaker",
-          "• It's the first of a new series of vehicles that BMW is calling the Neue Klasse"
-        ],
-        "stakes_bullets": [
-          "• The new BMW iX3 is an important car for the automaker",
-          "• It's the first of a new series of vehicles that BMW is calling the Neue Klasse",
-          "• There’s an all-electric 3 series sedan on the way "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "b26d11196afc"
     },
     {
       "id": "acbda2b27f93",
@@ -825,40 +759,6 @@
       "cluster_id": "2ad711e9246c"
     },
     {
-      "id": "df228ded4767",
-      "title": "Republicans drop Trump-ordered block on state AI laws from defense bill",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/12/republicans-once-again-thwart-trumps-push-to-block-state-ai-laws/",
-      "published_at": "Wed, 03 Dec 2025 21:06:34 +0000",
-      "bullets": [
-        "• A Donald Trump-backed push to block state AI laws has failed to pass the National Defense Authorization Act",
-        "• House Majority Leader Steve Scalise said Tuesday that Republicans are now looking at other places to try and pass the measure",
-        "• Trump has pushed for the measure to block states from passing AI laws for a decade",
-        "• Other Republicans opposed including the measure in the defense bill "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Donald Trump-backed push to block state AI laws has failed to pass the National Defense Authorization Act",
-          "• House Majority Leader Steve Scalise said Tuesday that Republicans are now looking at other places to try and pass the measure"
-        ],
-        "hopeful_bullets": [
-          "• A Donald Trump-backed push to block state AI laws has failed to pass the National Defense Authorization Act",
-          "• House Majority Leader Steve Scalise said Tuesday that Republicans are now looking at other places to try and pass the measure"
-        ],
-        "stakes_bullets": [
-          "• House Majority Leader Steve Scalise said Tuesday that Republicans are now looking at other places to try and pass the measure",
-          "• Other Republicans opposed including the measure in the defense bill "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "b384a786c81e"
-    },
-    {
       "id": "d8b28e450743",
       "title": "‘Heart Eyes’ Director Josh Ruben Lauds Dark Prime Video Comedy As “Ahead Of Its Time”",
       "outlet": "Dread Central",
@@ -1051,38 +951,6 @@
       "cluster_id": "baae064e8628"
     },
     {
-      "id": "f70254471f8a",
-      "title": "Jonas Brothers Reflect on ‘Very Inappropriate’ Interest in Their Sex Lives During Teenage Years",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/jonas-brothers-reflect-teen-stardom-bizarre-talk-sex-lives-1235476921/",
-      "published_at": "Wed, 03 Dec 2025 18:59:26 +0000",
-      "bullets": [
-        "• The Jonas Brothers spoke to Variety ahead of a Hollywood handprint ceremony",
-        "• At the time, the band were known for wearing purity rings and insisting they would abstain from sex before marriage",
-        "• Joe Jonas called all the attention and speculation about their sex lives ‘very inappropriate”"
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Jonas Brothers spoke to Variety ahead of a Hollywood handprint ceremony",
-          "• At the time, the band were known for wearing purity rings and insisting they would abstain from sex before marriage"
-        ],
-        "hopeful_bullets": [
-          "• The Jonas Brothers spoke to Variety ahead of a Hollywood handprint ceremony",
-          "• At the time, the band were known for wearing purity rings and insisting they would abstain from sex before marriage"
-        ],
-        "stakes_bullets": [
-          "• At the time, the band were known for wearing purity rings and insisting they would abstain from sex before marriage"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "10e192da4eeb"
-    },
-    {
       "id": "79885bce9ca5",
       "title": "How Minnesota became a hub for Somali immigrants in the U.S.",
       "outlet": "NPR Topics: Politics",
@@ -1113,39 +981,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "9718329057f7"
-    },
-    {
-      "id": "41a7908248c9",
-      "title": "BBC Announces Miniseries About the Beatles’ ‘Hamburg Days’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/bbc-the-beatles-hamburg-days-miniseries-1235476898/",
-      "published_at": "Wed, 03 Dec 2025 18:41:53 +0000",
-      "bullets": [
-        "• BBC announces a six-part miniseries about the Beatles' time in Germany",
-        "• The show will focus on the fledgling Fab Four’s years in West Germany",
-        "• Composer David Holmes has been enlisted to provide the score",
-        "• It's unclear if the Beatles have approved use of their own music "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.892
-      },
-      "moods": {
-        "brief_bullets": [
-          "• BBC announces a six-part miniseries about the Beatles' time in Germany",
-          "• The show will focus on the fledgling Fab Four’s years in West Germany"
-        ],
-        "hopeful_bullets": [
-          "• BBC announces a six-part miniseries about the Beatles' time in Germany",
-          "• The show will focus on the fledgling Fab Four’s years in West Germany"
-        ],
-        "stakes_bullets": [
-          "• The show will focus on the fledgling Fab Four’s years in West Germany"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "3a27fdce3cc9"
     },
     {
       "id": "cb4a2d461cc3",
@@ -3068,6 +2903,506 @@
       "cluster_id": "61932cf045ef"
     },
     {
+      "id": "0704d0b4fa38",
+      "title": "Men in Black Officially Returns 6 Years After Box Office Flop",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/sony-new-men-in-black-reboot-movie/",
+      "published_at": "Thu, 04 Dec 2025 20:48:26 GMT",
+      "bullets": [
+        "• The sci-fi alien adventure comedy franchise is ready for a comeback",
+        "• Sources tell the outlet that the next Men in Black movie is set to be written by Chris Bremmer, who notably penned Smith’s buddy comedy Bad Boys for Life (2020) In addition to the cast being kept under wraps, plot details are also unknown",
+        "• No casting announcements have been made for the reboot film "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The sci-fi alien adventure comedy franchise is ready for a comeback",
+          "• Sources tell the outlet that the next Men in Black movie is set to be written by Chris Bremmer, who notably penned Smith’s buddy comedy Bad Boys for Life (2020) In addition to the cast being kept under wraps, plot details are also unknown"
+        ],
+        "hopeful_bullets": [
+          "• The sci-fi alien adventure comedy franchise is ready for a comeback",
+          "• Sources tell the outlet that the next Men in Black movie is set to be written by Chris Bremmer, who notably penned Smith’s buddy comedy Bad Boys for Life (2020) In addition to the cast being kept under wraps, plot details are also unknown"
+        ],
+        "stakes_bullets": [
+          "• The sci-fi alien adventure comedy franchise is ready for a comeback",
+          "• Sources tell the outlet that the next Men in Black movie is set to be written by Chris Bremmer, who notably penned Smith’s buddy comedy Bad Boys for Life (2020) In addition to the cast being kept under wraps, plot details are also unknown",
+          "• No casting announcements have been made for the reboot film "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "df3c6a52e382"
+    },
+    {
+      "id": "03b75c864a78",
+      "title": "Sleater-Kinney and John Gourley of Portugal. The Man Sing Portland’s Praises at the Rolling Stone and Sonesta International Hotels Musicians on Musicians Event",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/sleater-kinney-john-gourley-portugal-portland-sonesta-1235475928/",
+      "published_at": "Thu, 04 Dec 2025 20:47:32 +0000",
+      "bullets": [
+        "• Rolling Stone and Sonesta International Hotels hosted the final installment of their Musicians on Musicians On Musicians Tour",
+        "• Sleater-Kinney and John Gourley of Portugal",
+        "• The Man performed in Portland, Oregon",
+        "• The Pacific Northwest has played a key role in modern rock and roll "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rolling Stone and Sonesta International Hotels hosted the final installment of their Musicians on Musicians On Musicians Tour",
+          "• Sleater-Kinney and John Gourley of Portugal"
+        ],
+        "hopeful_bullets": [
+          "• Rolling Stone and Sonesta International Hotels hosted the final installment of their Musicians on Musicians On Musicians Tour",
+          "• Sleater-Kinney and John Gourley of Portugal"
+        ],
+        "stakes_bullets": [
+          "• Rolling Stone and Sonesta International Hotels hosted the final installment of their Musicians on Musicians On Musicians Tour",
+          "• Sleater-Kinney and John Gourley of Portugal",
+          "• The Man performed in Portland, Oregon"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e7724fc88a94"
+    },
+    {
+      "id": "64168921c7ab",
+      "title": "Brand New ‘Men in Black’ Movie in the Works from ‘Bad Boys for Life’ Writer",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3920206/brand-new-men-in-black-movie-in-the-works-from-bad-boys-for-life-writer/",
+      "published_at": "Thu, 04 Dec 2025 20:47:00 +0000",
+      "bullets": [
+        "• Bad Boys For Life writer Chris Bremner is on board to pen the next installment in the sci-fi comedy franchise",
+        "• The idea is Will Smith would be one of the first to receive the script in hopes he would reprise the role of Agent J "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.682
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Bad Boys For Life writer Chris Bremner is on board to pen the next installment in the sci-fi comedy franchise",
+          "• The idea is Will Smith would be one of the first to receive the script in hopes he would reprise the role of Agent J "
+        ],
+        "hopeful_bullets": [
+          "• The idea is Will Smith would be one of the first to receive the script in hopes he would reprise the role of Agent J "
+        ],
+        "stakes_bullets": [
+          "• The idea is Will Smith would be one of the first to receive the script in hopes he would reprise the role of Agent J "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "5cf60665f6b9"
+    },
+    {
+      "id": "c84d2196ec82",
+      "title": "Taron Egerton Eyed For ‘Alpha’, Described As ‘American Psycho’ Meets ‘An American Werewolf In London’",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3920193/taron-egerton-eyed-for-alpha-described-as-american-psycho-meets-an-american-werewolf-in-london/",
+      "published_at": "Thu, 04 Dec 2025 20:36:27 +0000",
+      "bullets": [
+        "• Taron Egerton is being “circled” to star in the new werewolf feature",
+        "• The project is described as a ‘fun, sexy, elevated genre title that explores the world of toxic masculinity, greed, and the mythos of success, a cross between American Psycho, the HBO Max series Industry, and American Werewolf in London "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Taron Egerton is being “circled” to star in the new werewolf feature",
+          "• The project is described as a ‘fun, sexy, elevated genre title that explores the world of toxic masculinity, greed, and the mythos of success, a cross between American Psycho, the HBO Max series Industry, and American Werewolf in London "
+        ],
+        "hopeful_bullets": [
+          "• Taron Egerton is being “circled” to star in the new werewolf feature",
+          "• The project is described as a ‘fun, sexy, elevated genre title that explores the world of toxic masculinity, greed, and the mythos of success, a cross between American Psycho, the HBO Max series Industry, and American Werewolf in London "
+        ],
+        "stakes_bullets": [
+          "• Taron Egerton is being “circled” to star in the new werewolf feature",
+          "• The project is described as a ‘fun, sexy, elevated genre title that explores the world of toxic masculinity, greed, and the mythos of success, a cross between American Psycho, the HBO Max series Industry, and American Werewolf in London "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e55ccf925169"
+    },
+    {
+      "id": "f80fcc23ea13",
+      "title": "Google partners with Replit, in vibe-coding push",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/04/google-replit-ai-vibe-coding-anthropic-cursor.html",
+      "published_at": "Thu, 04 Dec 2025 20:33:08 GMT",
+      "bullets": [
+        "• Google Cloud and artificial intelligence coding startup Replit announce a multi-year partnership",
+        "• Google Cloud will expand usage of Google Cloud services and support AI coding use cases for enterprise customers",
+        "• Replit, founded nearly a decade ago, is a leader in the fast-growing AI vibe-coding space "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Google Cloud and artificial intelligence coding startup Replit announce a multi-year partnership",
+          "• Google Cloud will expand usage of Google Cloud services and support AI coding use cases for enterprise customers"
+        ],
+        "hopeful_bullets": [
+          "• Replit, founded nearly a decade ago, is a leader in the fast-growing AI vibe-coding space "
+        ],
+        "stakes_bullets": [
+          "• Google Cloud will expand usage of Google Cloud services and support AI coding use cases for enterprise customers",
+          "• Replit, founded nearly a decade ago, is a leader in the fast-growing AI vibe-coding space "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "8473b5644c16"
+    },
+    {
+      "id": "31e29664b489",
+      "title": "Jan. 6 pipe bomb suspect arrested, faces explosives charges, Trump DOJ says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/04/fbi-arrests-suspect-in-jan-6-pipe-bomb-case-ms-now.html",
+      "published_at": "Thu, 04 Dec 2025 20:28:23 GMT",
+      "bullets": [
+        "• Brian Cole Jr., 30, is charged with \"use of an explosive device,\" U.S",
+        "• Attorney General Pam Bondi says",
+        "• He is accused of planting pipe bombs in Washington, D.C., prior to the Jan",
+        "• 6, 2021, Capitol riot",
+        "• The devices were planted on the evening of Jan"
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Brian Cole Jr., 30, is charged with \"use of an explosive device,\" U.S",
+          "• Attorney General Pam Bondi says"
+        ],
+        "hopeful_bullets": [
+          "• Brian Cole Jr., 30, is charged with \"use of an explosive device,\" U.S",
+          "• Attorney General Pam Bondi says"
+        ],
+        "stakes_bullets": [
+          "• He is accused of planting pipe bombs in Washington, D.C., prior to the Jan",
+          "• The devices were planted on the evening of Jan"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "205454f86b2b"
+    },
+    {
+      "id": "5acf5cf98a92",
+      "title": "Israel Can Compete in Eurovision After Organizers Decided Not to Vote on a Ban",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/eurovision-israel-2026-song-contest-1235477670/",
+      "published_at": "Thu, 04 Dec 2025 20:26:36 +0000",
+      "bullets": [
+        "• Organizers decided not to hold a vote on whether or not to disqualify Israel from the 2026 contest",
+        "• Some broadcasters had said they would boycott the event if Israel was allowed to compete",
+        "• The European Broadcasting Union said there was no need for a further vote on a ban "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Organizers decided not to hold a vote on whether or not to disqualify Israel from the 2026 contest",
+          "• Some broadcasters had said they would boycott the event if Israel was allowed to compete"
+        ],
+        "hopeful_bullets": [
+          "• Organizers decided not to hold a vote on whether or not to disqualify Israel from the 2026 contest",
+          "• Some broadcasters had said they would boycott the event if Israel was allowed to compete"
+        ],
+        "stakes_bullets": [
+          "• The European Broadcasting Union said there was no need for a further vote on a ban "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "948536033a85"
+    },
+    {
+      "id": "97dafdb2623e",
+      "title": "Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 04 Dec 2025 20:25:14 GMT",
+      "bullets": [
+        "• Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
+        "• Moscow controls 85% of Donbas, with Ukraine's President Volodymyr Zelensky ruling out ceding territory",
+        "• Comments come after President Donald Trump said negotiators believed Russia's leader \"would like to end the war\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
+          "• Moscow controls 85% of Donbas, with Ukraine's President Volodymyr Zelensky ruling out ceding territory"
+        ],
+        "hopeful_bullets": [
+          "• Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
+          "• Moscow controls 85% of Donbas, with Ukraine's President Volodymyr Zelensky ruling out ceding territory"
+        ],
+        "stakes_bullets": [
+          "• Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
+          "• Comments come after President Donald Trump said negotiators believed Russia's leader \"would like to end the war\""
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "f91afcfd8074"
+    },
+    {
+      "id": "1624de6a43ee",
+      "title": "Dragon Ball Editor Accidentally 'Leaks' Upcoming 2026 Movie",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dragon-ball-2026-movie-torishima-leak/",
+      "published_at": "Thu, 04 Dec 2025 20:24:30 GMT",
+      "bullets": [
+        "• Kazuhiko Torishima, a former Shonen Jump Editor-in-Chief, commented on a new Dragon Ball movie",
+        "• He didn't express much excitement about the rumored film during a livestream",
+        "• The rumor has been heavily rumored for some time now",
+        "• The Dragon Ball Super movie is set to be announced at Dragon Ball Genkidamatsuri "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kazuhiko Torishima, a former Shonen Jump Editor-in-Chief, commented on a new Dragon Ball movie",
+          "• He didn't express much excitement about the rumored film during a livestream"
+        ],
+        "hopeful_bullets": [
+          "• Kazuhiko Torishima, a former Shonen Jump Editor-in-Chief, commented on a new Dragon Ball movie",
+          "• He didn't express much excitement about the rumored film during a livestream"
+        ],
+        "stakes_bullets": [
+          "• Kazuhiko Torishima, a former Shonen Jump Editor-in-Chief, commented on a new Dragon Ball movie",
+          "• He didn't express much excitement about the rumored film during a livestream",
+          "• The rumor has been heavily rumored for some time now"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "60be0f5e7705"
+    },
+    {
+      "id": "b6c15d14ac0b",
+      "title": "Jon M. Chu Says AI Couldn’t Have Made One of Wicked’s Best Moments",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/big-interview-event-jon-chu-wicked/",
+      "published_at": "Thu, 04 Dec 2025 20:18:26 +0000",
+      "bullets": [
+        "• Wicked: For Good director Jon M",
+        "• Chu said working with Justin Bieber taught him the value of connecting with fans online during the creation process",
+        "• Chu said the then-14-year-old star used Twitter to introduce him to fans",
+        "• Chu told WIRED’s senior culture editor Manisha Krishnan that he began to watch his online followers grow by tens of thousands of people almost instantly "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.982
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Wicked: For Good director Jon M",
+          "• Chu said working with Justin Bieber taught him the value of connecting with fans online during the creation process"
+        ],
+        "hopeful_bullets": [
+          "• Wicked: For Good director Jon M",
+          "• Chu said working with Justin Bieber taught him the value of connecting with fans online during the creation process"
+        ],
+        "stakes_bullets": [
+          "• Wicked: For Good director Jon M",
+          "• Chu said working with Justin Bieber taught him the value of connecting with fans online during the creation process",
+          "• Chu said the then-14-year-old star used Twitter to introduce him to fans"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e7f09d796100"
+    },
+    {
+      "id": "c085cb975adc",
+      "title": "Top Democrat says he is ‘deeply disturbed’ by footage of boat strikes seen at classified briefing – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/dec/04/us-politics-live-donald-trump-latest-news-updates-democrats-republicans",
+      "published_at": "Thu, 04 Dec 2025 20:13:40 GMT",
+      "bullets": [
+        "• Top Senate Democrat says he's 'deeply disturbed' after seeing footage of strikes on suspected drug boats",
+        "• Reed: Pentagon had “no choice” but to release the unedited video of the strike",
+        "• Donald Trump has replaced the architect he chose for his grand ballroom, Washington Post reports "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Top Senate Democrat says he's 'deeply disturbed' after seeing footage of strikes on suspected drug boats",
+          "• Reed: Pentagon had “no choice” but to release the unedited video of the strike"
+        ],
+        "hopeful_bullets": [
+          "• Top Senate Democrat says he's 'deeply disturbed' after seeing footage of strikes on suspected drug boats",
+          "• Reed: Pentagon had “no choice” but to release the unedited video of the strike"
+        ],
+        "stakes_bullets": [
+          "• Top Senate Democrat says he's 'deeply disturbed' after seeing footage of strikes on suspected drug boats",
+          "• Reed: Pentagon had “no choice” but to release the unedited video of the strike",
+          "• Donald Trump has replaced the architect he chose for his grand ballroom, Washington Post reports "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "718b1a6bcf65"
+    },
+    {
+      "id": "31a2f3144015",
+      "title": "Kate Walsh Returning to Grey's Anatomy In 2026",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/greys-anatomy-season-22-kate-walsh-addison-montgomery-return/",
+      "published_at": "Thu, 04 Dec 2025 20:12:50 GMT",
+      "bullets": [
+        "• Kate Walsh will reprise her role as Dr",
+        "• Addison Montgomery in a guest-starring role in a January episode",
+        "• The Jan",
+        "• 29 episode \"Strip That Down\" will mark Walsh's first appearance on the series in three years",
+        "• She originated the role of Addison in Grey's Anatomy's first season "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.938
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kate Walsh will reprise her role as Dr",
+          "• Addison Montgomery in a guest-starring role in a January episode"
+        ],
+        "hopeful_bullets": [
+          "• Kate Walsh will reprise her role as Dr",
+          "• Addison Montgomery in a guest-starring role in a January episode"
+        ],
+        "stakes_bullets": [
+          "• Kate Walsh will reprise her role as Dr",
+          "• 29 episode \"Strip That Down\" will mark Walsh's first appearance on the series in three years"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "5b698042e4f0"
+    },
+    {
+      "id": "d9f087598a83",
+      "title": "Researchers find what makes AI chatbots politically persuasive",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2025/12/researchers-find-what-makes-ai-chatbots-politically-persuasive/",
+      "published_at": "Thu, 04 Dec 2025 20:07:20 +0000",
+      "bullets": [
+        "• Large language models have access to essentially every fact and story ever published about any issue or candidate",
+        "• They can rely on absurdly high computing power in huge data centers worldwide",
+        "• On top of that, they can often access tons of personal information about individual users thanks to hundreds upon hundreds of online interactions "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.865
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Large language models have access to essentially every fact and story ever published about any issue or candidate",
+          "• They can rely on absurdly high computing power in huge data centers worldwide"
+        ],
+        "hopeful_bullets": [
+          "• Large language models have access to essentially every fact and story ever published about any issue or candidate",
+          "• They can rely on absurdly high computing power in huge data centers worldwide"
+        ],
+        "stakes_bullets": [
+          "• Large language models have access to essentially every fact and story ever published about any issue or candidate",
+          "• They can rely on absurdly high computing power in huge data centers worldwide",
+          "• On top of that, they can often access tons of personal information about individual users thanks to hundreds upon hundreds of online interactions "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3d6ebcbaaf00"
+    },
+    {
+      "id": "782367400ae5",
+      "title": "How The Extended Anime Sequence In ‘Kill Bill: The Whole Bloody Affair’ Points To Tarantino’s Future",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/editorials/3920147/kill-bill-the-whole-bloody-affairs-extended-anime-sequence/",
+      "published_at": "Thu, 04 Dec 2025 20:03:11 +0000",
+      "bullets": [
+        "• ‘Kill Bill: The Whole Bloody Affair’ includes never-before-seen anime footage that chronicles an important part of O-ren Ishii’s past that could also present the path to Tarantino’�s future",
+        "• Kill Bill represents a major creative turning point for Tarantino, where he seriously ups his game "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ‘Kill Bill: The Whole Bloody Affair’ includes never-before-seen anime footage that chronicles an important part of O-ren Ishii’s past that could also present the path to Tarantino’�s future",
+          "• Kill Bill represents a major creative turning point for Tarantino, where he seriously ups his game "
+        ],
+        "hopeful_bullets": [
+          "• ‘Kill Bill: The Whole Bloody Affair’ includes never-before-seen anime footage that chronicles an important part of O-ren Ishii’s past that could also present the path to Tarantino’�s future",
+          "• Kill Bill represents a major creative turning point for Tarantino, where he seriously ups his game "
+        ],
+        "stakes_bullets": [
+          "• ‘Kill Bill: The Whole Bloody Affair’ includes never-before-seen anime footage that chronicles an important part of O-ren Ishii’s past that could also present the path to Tarantino’�s future",
+          "• Kill Bill represents a major creative turning point for Tarantino, where he seriously ups his game "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "ddba92435a5b"
+    },
+    {
+      "id": "333f9d15ead3",
+      "title": "The 67 Best Movies on Disney+, WIRED’s Picks (December 2025)",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/best-movies-disney-plus/",
+      "published_at": "Thu, 04 Dec 2025 20:00:00 +0000",
+      "bullets": [
+        "• Disney+ has a seemingly endless selection of Marvel movies and plenty of Star Wars and Pixar fare",
+        "• While the execution is far from perfect, it does offer a fresh take on a superhero origin story",
+        "• The always-captivating Dakota Johnson in the title role is one of the series’ worst "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Disney+ has a seemingly endless selection of Marvel movies and plenty of Star Wars and Pixar fare",
+          "• While the execution is far from perfect, it does offer a fresh take on a superhero origin story"
+        ],
+        "hopeful_bullets": [
+          "• Disney+ has a seemingly endless selection of Marvel movies and plenty of Star Wars and Pixar fare",
+          "• While the execution is far from perfect, it does offer a fresh take on a superhero origin story"
+        ],
+        "stakes_bullets": [
+          "• While the execution is far from perfect, it does offer a fresh take on a superhero origin story"
+        ]
+      },
+      "read_minutes": 33,
+      "cluster_id": "37e74fcfcefa"
+    },
+    {
       "id": "a405f5b1a6f3",
       "title": "One of the Most Chilling Genre Films of the Last Decade Now Streaming Free: “Brutal Survival Horror”",
       "outlet": "Dread Central",
@@ -3099,36 +3434,200 @@
       "cluster_id": "ec1fc9b60f0e"
     },
     {
-      "id": "31e29664b489",
-      "title": "Jan. 6 pipe bomb suspect arrested, faces explosives charges, Trump DOJ says",
+      "id": "4d658e5c50e3",
+      "title": "Microsoft will raise prices of commercial Office subscriptions in July",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/fbi-arrests-suspect-in-jan-6-pipe-bomb-case-ms-now.html",
-      "published_at": "Thu, 04 Dec 2025 19:44:57 GMT",
+      "url": "https://www.cnbc.com/2025/12/04/microsoft-will-raise-prices-of-commercial-office-bundles-in-july-.html",
+      "published_at": "Thu, 04 Dec 2025 19:55:31 GMT",
       "bullets": [
-        "• FBI announces arrest of man accused of planting pipe bombs in Washington, D.C., prior to Jan",
-        "• 6, 2021, Capitol riot",
-        "• FBI Director Kash Patel: \"An individual who is now alleged to have placed multiple explosive devices to blow up multiple people and multiple officials [and] innocent civilians\""
+        "• Microsoft will increase the prices of Office productivity software subscriptions for commercial and government clients on July 1",
+        "• The company's Office applications, which include Word, Excel, PowerPoint and Outlook, have been facing increased competition in recent years from Google",
+        "• Microsoft changed the name of Office 365 to Microsoft 365 in 2020",
+        "• In January, Microsoft announced a price hike for consumer Office bundles "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.979
+        "score": 0.752
       },
       "moods": {
         "brief_bullets": [
-          "• FBI announces arrest of man accused of planting pipe bombs in Washington, D.C., prior to Jan",
-          "• 6, 2021, Capitol riot"
+          "• Microsoft will increase the prices of Office productivity software subscriptions for commercial and government clients on July 1",
+          "• The company's Office applications, which include Word, Excel, PowerPoint and Outlook, have been facing increased competition in recent years from Google"
         ],
         "hopeful_bullets": [
-          "• FBI announces arrest of man accused of planting pipe bombs in Washington, D.C., prior to Jan",
-          "• 6, 2021, Capitol riot"
+          "• Microsoft will increase the prices of Office productivity software subscriptions for commercial and government clients on July 1",
+          "• The company's Office applications, which include Word, Excel, PowerPoint and Outlook, have been facing increased competition in recent years from Google"
         ],
         "stakes_bullets": [
-          "• FBI announces arrest of man accused of planting pipe bombs in Washington, D.C., prior to Jan"
+          "• Microsoft will increase the prices of Office productivity software subscriptions for commercial and government clients on July 1",
+          "• The company's Office applications, which include Word, Excel, PowerPoint and Outlook, have been facing increased competition in recent years from Google"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "006942f8c66e"
+    },
+    {
+      "id": "b827fa831966",
+      "title": "New York mayor issues order targeting Israel divestment weeks before Mamdani assumes offices",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/04/new-york-eric-adams-zohran-mamdani-israel",
+      "published_at": "Thu, 04 Dec 2025 19:54:15 GMT",
+      "bullets": [
+        "• New York City’s mayor issues two executive orders to combat antisemitism",
+        "• Order prohibits city agency heads from engaging in ‘discriminating against the state of Israel’ It also prohibits officials overseeing the city pension system from making decisions in line with the boycott, divestment and sanctions movement "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New York City’s mayor issues two executive orders to combat antisemitism",
+          "• Order prohibits city agency heads from engaging in ‘discriminating against the state of Israel’ It also prohibits officials overseeing the city pension system from making decisions in line with the boycott, divestment and sanctions movement "
+        ],
+        "hopeful_bullets": [
+          "• Order prohibits city agency heads from engaging in ‘discriminating against the state of Israel’ It also prohibits officials overseeing the city pension system from making decisions in line with the boycott, divestment and sanctions movement "
+        ],
+        "stakes_bullets": [
+          "• New York City’s mayor issues two executive orders to combat antisemitism"
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "205454f86b2b"
+      "cluster_id": "5adca612642c"
+    },
+    {
+      "id": "0acd39b17235",
+      "title": "Why won’t Steam Machine support HDMI 2.1? Digging in on the display standard drama.",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gaming/2025/12/why-wont-steam-machine-support-hdmi-2-1-digging-in-on-the-display-standard-drama/",
+      "published_at": "Thu, 04 Dec 2025 19:53:14 +0000",
+      "bullets": [
+        "• Valve says its Steam Machine hardware supports HDMI 2.0 rather than the updated, higher-bandwidth 2.1 standard introduced in 2017",
+        "• The HDMI Forum has blocked open source implementation of the new standard",
+        "• That means the open source AMD drivers used by SteamOS can't fully implement certain features that are specific to the updated output standard "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Valve says its Steam Machine hardware supports HDMI 2.0 rather than the updated, higher-bandwidth 2.1 standard introduced in 2017",
+          "• The HDMI Forum has blocked open source implementation of the new standard"
+        ],
+        "hopeful_bullets": [
+          "• Valve says its Steam Machine hardware supports HDMI 2.0 rather than the updated, higher-bandwidth 2.1 standard introduced in 2017",
+          "• The HDMI Forum has blocked open source implementation of the new standard"
+        ],
+        "stakes_bullets": [
+          "• Valve says its Steam Machine hardware supports HDMI 2.0 rather than the updated, higher-bandwidth 2.1 standard introduced in 2017"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a56065a2b778"
+    },
+    {
+      "id": "4d83815c7cd2",
+      "title": "Ireland among countries boycotting Eurovision after Israel allowed to compete",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 04 Dec 2025 19:52:32 GMT",
+      "bullets": [
+        "• Ireland, Spain, the Netherlands and Slovenia will boycott the 2026 Eurovision Song Contest",
+        "• They were among a number of countries who had called for Israel to be excluded over the war in Gaza and accusations of unfair voting practices",
+        "• Spain's RTVE led calls for a secret ballot on the issue at a meeting in Geneva "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ireland, Spain, the Netherlands and Slovenia will boycott the 2026 Eurovision Song Contest",
+          "• They were among a number of countries who had called for Israel to be excluded over the war in Gaza and accusations of unfair voting practices"
+        ],
+        "hopeful_bullets": [
+          "• Ireland, Spain, the Netherlands and Slovenia will boycott the 2026 Eurovision Song Contest",
+          "• They were among a number of countries who had called for Israel to be excluded over the war in Gaza and accusations of unfair voting practices"
+        ],
+        "stakes_bullets": [
+          "• Ireland, Spain, the Netherlands and Slovenia will boycott the 2026 Eurovision Song Contest"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "b78cff7d79e4"
+    },
+    {
+      "id": "12175c05a1a8",
+      "title": "New York Times sues Defense Sec. Pete Hegseth over restrictive Pentagon media rules",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/04/new-york-times-pentagon-pete-hegseth-lawsuit-media.html",
+      "published_at": "Thu, 04 Dec 2025 19:50:44 GMT",
+      "bullets": [
+        "• The New York Times and other major news outlets walk out of the U.S",
+        "• Department of Public Service",
+        "• They say the rules violate the First Amendment",
+        "• The rules ban journalists from publishing information that is not authorized by the government",
+        "• The move comes nearly two months after The Times walked out of Washington "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The New York Times and other major news outlets walk out of the U.S",
+          "• Department of Public Service"
+        ],
+        "hopeful_bullets": [
+          "• The New York Times and other major news outlets walk out of the U.S",
+          "• Department of Public Service"
+        ],
+        "stakes_bullets": [
+          "• The rules ban journalists from publishing information that is not authorized by the government"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "9413f2bf5c1b"
+    },
+    {
+      "id": "85df4f609ab3",
+      "title": "Israel strikes south Lebanon after first direct talks in decades",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62n6y9yd70o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 04 Dec 2025 19:47:17 GMT",
+      "bullets": [
+        "• Israel carries out new round of air strikes in Lebanon following ceasefire deal with Hezbollah",
+        "• Israeli military says it will continue to carry out strikes to remove any threat to Israel",
+        "• No casualties have been reported in the latest round of strikes",
+        "• Israel and Hezbollah have been involved in a long-running dispute over territory in Lebanon "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.886
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Israel carries out new round of air strikes in Lebanon following ceasefire deal with Hezbollah",
+          "• Israeli military says it will continue to carry out strikes to remove any threat to Israel"
+        ],
+        "hopeful_bullets": [
+          "• Israel carries out new round of air strikes in Lebanon following ceasefire deal with Hezbollah"
+        ],
+        "stakes_bullets": [
+          "• Israel carries out new round of air strikes in Lebanon following ceasefire deal with Hezbollah",
+          "• Israeli military says it will continue to carry out strikes to remove any threat to Israel",
+          "• Israel and Hezbollah have been involved in a long-running dispute over territory in Lebanon "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "8b45a7ce6f7c"
     },
     {
       "id": "4644319979b5",
@@ -3137,28 +3636,29 @@
       "url": "https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/",
       "published_at": "Thu, 04 Dec 2025 19:42:18 +0000",
       "bullets": [
-        "• Brian J",
-        "• Cole Jr",
-        "• is charged with planting the two pipe bombs near the US Capitol",
-        "• He is also charged with attempting to damage and destroy the Republican and Democratic national committees by means of an explosive device",
-        "• The arrest marks a major break in a case that has vexed authorities for five years "
+        "• Authorities identify suspect as Brian J",
+        "• Cole Jr., 30, of Woodbridge, Virginia",
+        "• He is charged with transporting an explosive device across state lines with the intent to kill, injure, or destroy property",
+        "• If convicted, he would face the prospect of decades in prison "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.961
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• Brian J",
-          "• Cole Jr"
+          "• Authorities identify suspect as Brian J",
+          "• Cole Jr., 30, of Woodbridge, Virginia"
         ],
         "hopeful_bullets": [
-          "• Brian J",
-          "• Cole Jr"
+          "• Authorities identify suspect as Brian J",
+          "• Cole Jr., 30, of Woodbridge, Virginia"
         ],
         "stakes_bullets": [
-          "• is charged with planting the two pipe bombs near the US Capitol"
+          "• Authorities identify suspect as Brian J",
+          "• Cole Jr., 30, of Woodbridge, Virginia",
+          "• He is charged with transporting an explosive device across state lines with the intent to kill, injure, or destroy property"
         ]
       },
       "read_minutes": 4,
@@ -3328,38 +3828,6 @@
       "cluster_id": "d3f0cecd3be3"
     },
     {
-      "id": "4d83815c7cd2",
-      "title": "Ireland among countries boycotting Eurovision after Israel allowed to compete",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 04 Dec 2025 19:31:30 GMT",
-      "bullets": [
-        "• Ireland, Spain, the Netherlands and Slovenia will boycott the 2026 Eurovision Song Contest",
-        "• They were among a number of countries who had called for Israel to be excluded over the war in Gaza and accusations of unfair voting practices",
-        "• Spain's RTVE led calls for a secret ballot on the issue at a meeting in Geneva "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ireland, Spain, the Netherlands and Slovenia will boycott the 2026 Eurovision Song Contest",
-          "• They were among a number of countries who had called for Israel to be excluded over the war in Gaza and accusations of unfair voting practices"
-        ],
-        "hopeful_bullets": [
-          "• Ireland, Spain, the Netherlands and Slovenia will boycott the 2026 Eurovision Song Contest",
-          "• They were among a number of countries who had called for Israel to be excluded over the war in Gaza and accusations of unfair voting practices"
-        ],
-        "stakes_bullets": [
-          "• Ireland, Spain, the Netherlands and Slovenia will boycott the 2026 Eurovision Song Contest"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b78cff7d79e4"
-    },
-    {
       "id": "5eccd608134b",
       "title": "Gal Gadot Shares Her Wonder Woman Camera Test, A Hidden-Gem Batman v Superman Deleted Scene Fans Will Adore",
       "outlet": "CBR",
@@ -3494,74 +3962,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "b1c81f4e7c1c"
-    },
-    {
-      "id": "c085cb975adc",
-      "title": "Top Democrat says he is ‘deeply disturbed’ by footage of boat strikes seen at classified briefing – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/dec/04/us-politics-live-donald-trump-latest-news-updates-democrats-republicans",
-      "published_at": "Thu, 04 Dec 2025 19:15:02 GMT",
-      "bullets": [
-        "• Top Senate Democrat says he's 'deeply disturbed' after seeing footage of strikes on suspected drug boats",
-        "• Reed says Pentagon had 'no choice' but to release video of the 2 September strike",
-        "• Republican Tom Cotton says follow-up strikes were 'entirely lawful and needful'"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Top Senate Democrat says he's 'deeply disturbed' after seeing footage of strikes on suspected drug boats",
-          "• Reed says Pentagon had 'no choice' but to release video of the 2 September strike"
-        ],
-        "hopeful_bullets": [
-          "• Top Senate Democrat says he's 'deeply disturbed' after seeing footage of strikes on suspected drug boats",
-          "• Reed says Pentagon had 'no choice' but to release video of the 2 September strike"
-        ],
-        "stakes_bullets": [
-          "• Top Senate Democrat says he's 'deeply disturbed' after seeing footage of strikes on suspected drug boats",
-          "• Reed says Pentagon had 'no choice' but to release video of the 2 September strike",
-          "• Republican Tom Cotton says follow-up strikes were 'entirely lawful and needful'"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "718b1a6bcf65"
-    },
-    {
-      "id": "4d658e5c50e3",
-      "title": "Microsoft will raise prices of commercial Office subscriptions in July",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/microsoft-will-raise-prices-of-commercial-office-bundles-in-july-.html",
-      "published_at": "Thu, 04 Dec 2025 19:14:16 GMT",
-      "bullets": [
-        "• Microsoft will increase the prices of Office productivity software subscriptions for commercial and government clients on July 1",
-        "• The company's Office applications, which include Word, Excel, PowerPoint and Outlook, have been facing increased competition in recent years from Google",
-        "• Microsoft changed the name of Office 365 to Microsoft 365 in 2020",
-        "• In January, Microsoft announced a price hike for consumer Office bundles "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.752
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Microsoft will increase the prices of Office productivity software subscriptions for commercial and government clients on July 1",
-          "• The company's Office applications, which include Word, Excel, PowerPoint and Outlook, have been facing increased competition in recent years from Google"
-        ],
-        "hopeful_bullets": [
-          "• Microsoft will increase the prices of Office productivity software subscriptions for commercial and government clients on July 1",
-          "• The company's Office applications, which include Word, Excel, PowerPoint and Outlook, have been facing increased competition in recent years from Google"
-        ],
-        "stakes_bullets": [
-          "• Microsoft will increase the prices of Office productivity software subscriptions for commercial and government clients on July 1",
-          "• The company's Office applications, which include Word, Excel, PowerPoint and Outlook, have been facing increased competition in recent years from Google"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "006942f8c66e"
     },
     {
       "id": "6a2a7ed4d5b3",
@@ -3723,74 +4123,6 @@
       "cluster_id": "8f7975a27145"
     },
     {
-      "id": "138f3ae67c3d",
-      "title": "This Weird Sam Wilson Power Could Steal the Show in the Next Avengers Movie",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/sam-wilson-weird-power-perfect-for-next-avengers-film/",
-      "published_at": "Thu, 04 Dec 2025 19:00:13 GMT",
-      "bullets": [
-        "• Sam Wilson became one of the Marvel Cinematic Universe's most important characters at the end of Avengers: Endgame",
-        "• Unlike Steve Rogers, Sam did not take the Super Soldier Serum, a decision that was accurate to the comics",
-        "• Sam owns a pet falcon named Redwing, who debuted alongside him in the pages of Captain America #117 from 1969 "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sam Wilson became one of the Marvel Cinematic Universe's most important characters at the end of Avengers: Endgame",
-          "• Unlike Steve Rogers, Sam did not take the Super Soldier Serum, a decision that was accurate to the comics"
-        ],
-        "hopeful_bullets": [
-          "• Sam owns a pet falcon named Redwing, who debuted alongside him in the pages of Captain America #117 from 1969 "
-        ],
-        "stakes_bullets": [
-          "• Sam Wilson became one of the Marvel Cinematic Universe's most important characters at the end of Avengers: Endgame",
-          "• Unlike Steve Rogers, Sam did not take the Super Soldier Serum, a decision that was accurate to the comics",
-          "• Sam owns a pet falcon named Redwing, who debuted alongside him in the pages of Captain America #117 from 1969 "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "1dd842385542"
-    },
-    {
-      "id": "f741a14d642e",
-      "title": "8 Western Shows That Deserve Cult Classic Status",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/western-shows-should-be-cult-classics/",
-      "published_at": "Thu, 04 Dec 2025 19:00:13 GMT",
-      "bullets": [
-        "• Most Western series don't receive the recognition they deserve",
-        "• However, each of these shows blends grit, dust, and frontier drama",
-        "• Their narratives delve into justice, loyalty, and survival with a clear and unwavering direction",
-        "• The use of monologues and sharp dialogue is the main factor behind the series' unique atmosphere "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Most Western series don't receive the recognition they deserve",
-          "• However, each of these shows blends grit, dust, and frontier drama"
-        ],
-        "hopeful_bullets": [
-          "• Most Western series don't receive the recognition they deserve",
-          "• However, each of these shows blends grit, dust, and frontier drama"
-        ],
-        "stakes_bullets": [
-          "• Most Western series don't receive the recognition they deserve",
-          "• However, each of these shows blends grit, dust, and frontier drama",
-          "• Their narratives delve into justice, loyalty, and survival with a clear and unwavering direction"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "55e8e1c3bb0d"
-    },
-    {
       "id": "c4290d721b2c",
       "title": "Stephen King Terrified by Netflix Horror Hit: “I was absolutely riveted”",
       "outlet": "Dread Central",
@@ -3853,72 +4185,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "dc20307a133e"
-    },
-    {
-      "id": "97dafdb2623e",
-      "title": "Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 04 Dec 2025 18:54:19 GMT",
-      "bullets": [
-        "• Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
-        "• Comments come after President Donald Trump said his negotiators believed Russia's leader \"would like to end the war\" Putin also said that Moscow disagrees with parts of the US peace plan "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
-          "• Comments come after President Donald Trump said his negotiators believed Russia's leader \"would like to end the war\" Putin also said that Moscow disagrees with parts of the US peace plan "
-        ],
-        "hopeful_bullets": [
-          "• Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
-          "• Comments come after President Donald Trump said his negotiators believed Russia's leader \"would like to end the war\" Putin also said that Moscow disagrees with parts of the US peace plan "
-        ],
-        "stakes_bullets": [
-          "• Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
-          "• Comments come after President Donald Trump said his negotiators believed Russia's leader \"would like to end the war\" Putin also said that Moscow disagrees with parts of the US peace plan "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f91afcfd8074"
-    },
-    {
-      "id": "5844a28efe3d",
-      "title": "Tesla gains in 2026 Consumer Reports' auto brand rankings",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/consumer-reports-auto-brand-rankings-tesla.html",
-      "published_at": "Thu, 04 Dec 2025 18:54:08 GMT",
-      "bullets": [
-        "• Tesla jumped from No",
-        "• 18 on last year's list of more than 30 automotive brands to 10th on the 2026 Consumer Reports Brand Report Card",
-        "• Consumer Reports' annual auto brand report card is based on testing, reliability, safety and customer satisfaction according to owner surveys",
-        "• Tesla has faced a consumer backlash against CEO Elon Musk in response to his work with the Trump administration "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.666
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tesla jumped from No",
-          "• 18 on last year's list of more than 30 automotive brands to 10th on the 2026 Consumer Reports Brand Report Card"
-        ],
-        "hopeful_bullets": [
-          "• Tesla has faced a consumer backlash against CEO Elon Musk in response to his work with the Trump administration "
-        ],
-        "stakes_bullets": [
-          "• Tesla jumped from No",
-          "• 18 on last year's list of more than 30 automotive brands to 10th on the 2026 Consumer Reports Brand Report Card",
-          "• Consumer Reports' annual auto brand report card is based on testing, reliability, safety and customer satisfaction according to owner surveys"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "8fb5de8e7c7f"
     },
     {
       "id": "8f6927698b8e",
@@ -4050,6 +4316,38 @@
       "cluster_id": "90bfd340e490"
     },
     {
+      "id": "25aa3a16e461",
+      "title": "ChatGPT hyped up violent stalker who believed he was “God’s assassin,” DOJ says",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2025/12/chatgpt-hyped-up-violent-stalker-who-believed-he-was-gods-assassin-doj-says/",
+      "published_at": "Thu, 04 Dec 2025 18:40:36 +0000",
+      "bullets": [
+        "• Brett Michael Dadig, 31, is charged with cyberstalking, interstate stalking, and making interstate threats",
+        "• Dadig allegedly stalked more than 10 women at boutique gyms, where ChatGPT supposedly claimed he’d meet the “wife type” He faces a maximum sentence of up to 70 years in prison and a $3.5 million fine "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Brett Michael Dadig, 31, is charged with cyberstalking, interstate stalking, and making interstate threats",
+          "• Dadig allegedly stalked more than 10 women at boutique gyms, where ChatGPT supposedly claimed he’d meet the “wife type” He faces a maximum sentence of up to 70 years in prison and a $3.5 million fine "
+        ],
+        "hopeful_bullets": [
+          "• Brett Michael Dadig, 31, is charged with cyberstalking, interstate stalking, and making interstate threats",
+          "• Dadig allegedly stalked more than 10 women at boutique gyms, where ChatGPT supposedly claimed he’d meet the “wife type” He faces a maximum sentence of up to 70 years in prison and a $3.5 million fine "
+        ],
+        "stakes_bullets": [
+          "• Brett Michael Dadig, 31, is charged with cyberstalking, interstate stalking, and making interstate threats",
+          "• Dadig allegedly stalked more than 10 women at boutique gyms, where ChatGPT supposedly claimed he’d meet the “wife type” He faces a maximum sentence of up to 70 years in prison and a $3.5 million fine "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "6e22a82fbf99"
+    },
+    {
       "id": "2d1460c810f5",
       "title": "‘Bunny’ is Brimming with Visceral Dread and Unforgettable Imagery [Review]",
       "outlet": "Dread Central",
@@ -4082,64 +4380,30 @@
       "cluster_id": "3701a03f4b41"
     },
     {
-      "id": "3fbe806a2192",
-      "title": "Captain America: Brave New World's Tim Blake Nelson on Writing a Novel About a Superhero Movie While Starring in a Superhero Film",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/tim-blake-nelson-superhero-interview/",
-      "published_at": "Thu, 04 Dec 2025 18:38:35 GMT",
-      "bullets": [
-        "• Tim Blake Nelson's new novel, Superhero, is published this week",
-        "• The actor has appeared in a number of superhero films, including The Incredible Hulk and The Ballad of Buster Scruggs",
-        "• He also starred in the Coen Brothers' O Brother, Where Art Thou? and The Man of Steel "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tim Blake Nelson's new novel, Superhero, is published this week",
-          "• The actor has appeared in a number of superhero films, including The Incredible Hulk and The Ballad of Buster Scruggs"
-        ],
-        "hopeful_bullets": [
-          "• Tim Blake Nelson's new novel, Superhero, is published this week",
-          "• The actor has appeared in a number of superhero films, including The Incredible Hulk and The Ballad of Buster Scruggs"
-        ],
-        "stakes_bullets": [
-          "• Tim Blake Nelson's new novel, Superhero, is published this week",
-          "• The actor has appeared in a number of superhero films, including The Incredible Hulk and The Ballad of Buster Scruggs",
-          "• He also starred in the Coen Brothers' O Brother, Where Art Thou? and The Man of Steel "
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "fd8ec08da063"
-    },
-    {
       "id": "579772ffcc7b",
       "title": "CDC advisers delay vote on restricting infant hepatitis B vaccinations in tense meeting",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/dec/04/cdc-hepatitis-b-vaccine",
       "published_at": "Thu, 04 Dec 2025 18:37:08 GMT",
       "bullets": [
-        "• Vaccine advisers for the US Centers for Disease Control and Prevention (CDC) debated restricting access to the hepatitis B vaccine for infants",
-        "• No new evidence on harms from the vaccine, which has been given to 1.4 billion people for more than three decades with a stellar safety record, was presented at the meeting "
+        "• Vaccine advisers for the US Centers for Disease Control and Prevention (CDC) voted to delay a vote on restricting access to the hepatitis B vaccine for infants until Friday",
+        "• No new evidence on harms from the vaccine, which has been given to 1.4 billion people for more than three decades with a stellar safety record, was presented "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.815
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• Vaccine advisers for the US Centers for Disease Control and Prevention (CDC) debated restricting access to the hepatitis B vaccine for infants",
-          "• No new evidence on harms from the vaccine, which has been given to 1.4 billion people for more than three decades with a stellar safety record, was presented at the meeting "
+          "• Vaccine advisers for the US Centers for Disease Control and Prevention (CDC) voted to delay a vote on restricting access to the hepatitis B vaccine for infants until Friday",
+          "• No new evidence on harms from the vaccine, which has been given to 1.4 billion people for more than three decades with a stellar safety record, was presented "
         ],
         "hopeful_bullets": [
-          "• No new evidence on harms from the vaccine, which has been given to 1.4 billion people for more than three decades with a stellar safety record, was presented at the meeting "
+          "• No new evidence on harms from the vaccine, which has been given to 1.4 billion people for more than three decades with a stellar safety record, was presented "
         ],
         "stakes_bullets": [
-          "• No new evidence on harms from the vaccine, which has been given to 1.4 billion people for more than three decades with a stellar safety record, was presented at the meeting "
+          "• No new evidence on harms from the vaccine, which has been given to 1.4 billion people for more than three decades with a stellar safety record, was presented "
         ]
       },
       "read_minutes": 5,
@@ -4404,6 +4668,40 @@
       "cluster_id": "8c0a06efbbc2"
     },
     {
+      "id": "adceeec37d25",
+      "title": "OnePlus 15 finally gets FCC clearance after government shutdown delay—preorders live",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/gadgets/2025/12/oneplus-15-finally-gets-fcc-clearance-after-government-shutdown-delay-preorders-live/",
+      "published_at": "Thu, 04 Dec 2025 18:11:41 +0000",
+      "bullets": [
+        "• The OnePlus 15 launched in China earlier this year and was supposed to go on sale in the US a month ago",
+        "• However, the longest US government shutdown on record got in the way as the FCC was unable to approve the device",
+        "• The device is now available for preorder on the OnePlus website",
+        "• The base model starts at $900 with 12GB of RAM and 256GB of storage "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The OnePlus 15 launched in China earlier this year and was supposed to go on sale in the US a month ago",
+          "• However, the longest US government shutdown on record got in the way as the FCC was unable to approve the device"
+        ],
+        "hopeful_bullets": [
+          "• However, the longest US government shutdown on record got in the way as the FCC was unable to approve the device"
+        ],
+        "stakes_bullets": [
+          "• The OnePlus 15 launched in China earlier this year and was supposed to go on sale in the US a month ago",
+          "• However, the longest US government shutdown on record got in the way as the FCC was unable to approve the device",
+          "• The device is now available for preorder on the OnePlus website"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7f26e2b2850d"
+    },
+    {
       "id": "f8e38a4ffab8",
       "title": "In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet",
       "outlet": "Ars Technica - All content",
@@ -4538,40 +4836,6 @@
       "cluster_id": "87bd293e7185"
     },
     {
-      "id": "5651ab73c942",
-      "title": "6 Underrated Zombie Movies That You Might Have Missed",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/editorials/3919750/underrated-zombie-movies-that-you-might-have-missed/",
-      "published_at": "Thu, 04 Dec 2025 17:33:55 +0000",
-      "bullets": [
-        "• In honor of these undead hidden gems, I’ve decided to come up with a list recommending six underrated zombie movies",
-        "• The idea of zombified animals has always fascinated me, as critters like the undead dogs from Resident Evil always seemed much scarier than their human counterparts",
-        "• Don’t expect to see major releases like Overlord or Train to Busan on here "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In honor of these undead hidden gems, I’ve decided to come up with a list recommending six underrated zombie movies",
-          "• The idea of zombified animals has always fascinated me, as critters like the undead dogs from Resident Evil always seemed much scarier than their human counterparts"
-        ],
-        "hopeful_bullets": [
-          "• In honor of these undead hidden gems, I’ve decided to come up with a list recommending six underrated zombie movies",
-          "• The idea of zombified animals has always fascinated me, as critters like the undead dogs from Resident Evil always seemed much scarier than their human counterparts"
-        ],
-        "stakes_bullets": [
-          "• In honor of these undead hidden gems, I’ve decided to come up with a list recommending six underrated zombie movies",
-          "• The idea of zombified animals has always fascinated me, as critters like the undead dogs from Resident Evil always seemed much scarier than their human counterparts",
-          "• Don’t expect to see major releases like Overlord or Train to Busan on here "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "1dc8068a7e27"
-    },
-    {
       "id": "c153efd169ed",
       "title": "Trump Administration’s Threats to Shrink or Eliminate National Monuments Could Endanger Drinking Water for Millions",
       "outlet": "Inside Climate News",
@@ -4604,40 +4868,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "33cdcaa24e74"
-    },
-    {
-      "id": "ea88c5a885c5",
-      "title": "‘The ‘Burbs’ Teaser – Peacock Sets February Release for Keke Palmer Series Based on ’80s Cult Classic",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/tv/3920104/the-burbs-teaser-peacock-sets-february-release-for-keke-palmer-series-based-on-80s-cult-classic/",
-      "published_at": "Thu, 04 Dec 2025 17:03:43 +0000",
-      "bullets": [
-        "• Peacock has debuted the teaser trailer for ‘The ‘Burbs’ Series based on 1989 cult classic of the same name",
-        "• Keke Palmer, Jack Whitehall, Julia Duffy, Paula Pell, and Kapil Talwalkar star",
-        "• All eight episodes drop on Sunday, February 8 "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.766
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Peacock has debuted the teaser trailer for ‘The ‘Burbs’ Series based on 1989 cult classic of the same name",
-          "• Keke Palmer, Jack Whitehall, Julia Duffy, Paula Pell, and Kapil Talwalkar star"
-        ],
-        "hopeful_bullets": [
-          "• Peacock has debuted the teaser trailer for ‘The ‘Burbs’ Series based on 1989 cult classic of the same name",
-          "• Keke Palmer, Jack Whitehall, Julia Duffy, Paula Pell, and Kapil Talwalkar star"
-        ],
-        "stakes_bullets": [
-          "• Peacock has debuted the teaser trailer for ‘The ‘Burbs’ Series based on 1989 cult classic of the same name",
-          "• Keke Palmer, Jack Whitehall, Julia Duffy, Paula Pell, and Kapil Talwalkar star",
-          "• All eight episodes drop on Sunday, February 8 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0a0e75f1f029"
     },
     {
       "id": "30432310ea3c",
@@ -4807,39 +5037,6 @@
       "cluster_id": "d4ed7029a8be"
     },
     {
-      "id": "f80fcc23ea13",
-      "title": "Google taps AI vibe-coder Replit in challenge to Anthropic and Cursor",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/google-replit-ai-vibe-coding-anthropic-cursor.html",
-      "published_at": "Thu, 04 Dec 2025 16:25:01 GMT",
-      "bullets": [
-        "• Google Cloud announced a multi-year partnership with artificial intelligence coding startup Replit",
-        "• Replit will expand usage of Google Cloud services, add more of Google's models onto its platform, and support AI coding use cases for enterprise customers",
-        "• Google Cloud will continue to be Replit's primary cloud provider "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Google Cloud announced a multi-year partnership with artificial intelligence coding startup Replit",
-          "• Replit will expand usage of Google Cloud services, add more of Google's models onto its platform, and support AI coding use cases for enterprise customers"
-        ],
-        "hopeful_bullets": [
-          "• Google Cloud announced a multi-year partnership with artificial intelligence coding startup Replit",
-          "• Replit will expand usage of Google Cloud services, add more of Google's models onto its platform, and support AI coding use cases for enterprise customers"
-        ],
-        "stakes_bullets": [
-          "• Replit will expand usage of Google Cloud services, add more of Google's models onto its platform, and support AI coding use cases for enterprise customers",
-          "• Google Cloud will continue to be Replit's primary cloud provider "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7e49bf4481a7"
-    },
-    {
       "id": "569e8a754d92",
       "title": "Tanzanian activist blocked from Instagram after mobilising election protests",
       "outlet": "BBC News",
@@ -4968,38 +5165,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "5e358c520319"
-    },
-    {
-      "id": "1e781fed2571",
-      "title": "Dean Norris & Jessica Garza to Star in Supernatural Horror-Comedy ‘Dubbels’",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3920087/dean-norris-jessica-garza-to-star-in-supernatural-horror-comedy-dubbels/",
-      "published_at": "Thu, 04 Dec 2025 16:16:18 +0000",
-      "bullets": [
-        "• Dean Norris and Jessica Garza will star in supernatural horror-comedy Dubbels",
-        "• The ensemble also includes Zak Corrigan, Marié Botha, Jordan Mann, Steele Whitney, Jonathan Cruz, and Jessica Gibbon",
-        "• Director Paul Marashlian makes his feature debut on the indie film, which wrapped production in the Catskill Mountains of New York "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dean Norris and Jessica Garza will star in supernatural horror-comedy Dubbels",
-          "• The ensemble also includes Zak Corrigan, Marié Botha, Jordan Mann, Steele Whitney, Jonathan Cruz, and Jessica Gibbon"
-        ],
-        "hopeful_bullets": [
-          "• Dean Norris and Jessica Garza will star in supernatural horror-comedy Dubbels",
-          "• The ensemble also includes Zak Corrigan, Marié Botha, Jordan Mann, Steele Whitney, Jonathan Cruz, and Jessica Gibbon"
-        ],
-        "stakes_bullets": [
-          "• Dean Norris and Jessica Garza will star in supernatural horror-comedy Dubbels"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "708231e54a43"
     },
     {
       "id": "7f3866ac67f8",
@@ -5267,6 +5432,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "a1d5b9c0dcd0"
+    },
+    {
+      "id": "bf04e1d35c6b",
+      "title": "CDC advisers delay planned vote on hepatitis B vaccine for infants",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/12/04/nx-s1-5629199/cdc-acip-hepatitis-b-vaccine-meeting",
+      "published_at": "Thu, 04 Dec 2025 15:05:24 -0500",
+      "bullets": [
+        "• CDC advisers delay planned vote on hepatitis B vaccine for infants",
+        "• The vote was meant to focus on ending a longstanding recommendation to vaccinate all healthy newborns",
+        "• The current recommendation is intended to make sure no at-risk infant falls through the cracks",
+        "• It is the cornerstone of a decades-long strategy to eliminate hepatitis B in the United States "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.937
+      },
+      "moods": {
+        "brief_bullets": [
+          "• CDC advisers delay planned vote on hepatitis B vaccine for infants",
+          "• The vote was meant to focus on ending a longstanding recommendation to vaccinate all healthy newborns"
+        ],
+        "hopeful_bullets": [
+          "• CDC advisers delay planned vote on hepatitis B vaccine for infants",
+          "• The vote was meant to focus on ending a longstanding recommendation to vaccinate all healthy newborns"
+        ],
+        "stakes_bullets": [
+          "• CDC advisers delay planned vote on hepatitis B vaccine for infants",
+          "• The current recommendation is intended to make sure no at-risk infant falls through the cracks"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "966ee3f3f719"
     },
     {
       "id": "0e7a136c6c3d",
@@ -5963,38 +6162,6 @@
       "cluster_id": "a9f0852b5d3a"
     },
     {
-      "id": "74a9c9d4f4a9",
-      "title": "The Best Meteor Shower of the Year Is Coming—Here’s How to Watch",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/",
-      "published_at": "Thu, 04 Dec 2025 12:00:00 +0000",
-      "bullets": [
-        "• Watching a meteor shower is one of the most accessible ways to engage with the night sky",
-        "• The Geminids, a busy and bright shower that peaks in mid-December, are just one of nine major meteor showers that grace skies throughout the year",
-        "• Using devices like binoculars or telescopes actually prevents you from seeing meteors, because they travel too fast "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Watching a meteor shower is one of the most accessible ways to engage with the night sky",
-          "• The Geminids, a busy and bright shower that peaks in mid-December, are just one of nine major meteor showers that grace skies throughout the year"
-        ],
-        "hopeful_bullets": [
-          "• Watching a meteor shower is one of the most accessible ways to engage with the night sky",
-          "• The Geminids, a busy and bright shower that peaks in mid-December, are just one of nine major meteor showers that grace skies throughout the year"
-        ],
-        "stakes_bullets": [
-          "• Using devices like binoculars or telescopes actually prevents you from seeing meteors, because they travel too fast "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "019e1f45af88"
-    },
-    {
       "id": "90eb344cb586",
       "title": "Putin says there are points he can't agree to in the U.S. proposal to end Ukraine war",
       "outlet": "NPR Topics: News",
@@ -6062,40 +6229,6 @@
       "cluster_id": "a75ceafd05e4"
     },
     {
-      "id": "701f725990cc",
-      "title": "The Louisiana Department of Wildlife and Fisheries Is Detaining People for ICE",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/story/the-louisiana-department-of-wildlife-and-fisheries-is-detaining-people-for-ice/",
-      "published_at": "Thu, 04 Dec 2025 11:30:00 +0000",
-      "bullets": [
-        "• Louisiana Department Of Wildlife And Fisheries signed a memorandum of agreement with Immigration and Customs Enforcement in May",
-        "• At least six men entered ICE custody after coming into contact with or being detained by LDWF officers",
-        "• Two of the men were known by ICE to have been in the country legally at the time of the incident "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.933
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Louisiana Department Of Wildlife And Fisheries signed a memorandum of agreement with Immigration and Customs Enforcement in May",
-          "• At least six men entered ICE custody after coming into contact with or being detained by LDWF officers"
-        ],
-        "hopeful_bullets": [
-          "• Louisiana Department Of Wildlife And Fisheries signed a memorandum of agreement with Immigration and Customs Enforcement in May",
-          "• At least six men entered ICE custody after coming into contact with or being detained by LDWF officers"
-        ],
-        "stakes_bullets": [
-          "• Louisiana Department Of Wildlife And Fisheries signed a memorandum of agreement with Immigration and Customs Enforcement in May",
-          "• At least six men entered ICE custody after coming into contact with or being detained by LDWF officers",
-          "• Two of the men were known by ICE to have been in the country legally at the time of the incident "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "2ad6cacc9da3"
-    },
-    {
       "id": "055150b3eabb",
       "title": "Europe's left is energized after Mamdani's successful campaign for New York mayor",
       "outlet": "NPR Topics: News",
@@ -6160,40 +6293,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "efc83a219459"
-    },
-    {
-      "id": "6ffde679a56a",
-      "title": "Israel says Palestinian groups returned body of Thai hostage held in Gaza",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 04 Dec 2025 11:02:24 GMT",
-      "bullets": [
-        "• Suthisak Rintalak's body has been returned to Israel by Hamas and PIJ",
-        "• The 43-year-old had been working in the orchards of Kibbutz Be'eri when he was killed",
-        "• His mother said it was \"hard for us to digest\" after the news "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Suthisak Rintalak's body has been returned to Israel by Hamas and PIJ",
-          "• The 43-year-old had been working in the orchards of Kibbutz Be'eri when he was killed"
-        ],
-        "hopeful_bullets": [
-          "• Suthisak Rintalak's body has been returned to Israel by Hamas and PIJ",
-          "• The 43-year-old had been working in the orchards of Kibbutz Be'eri when he was killed"
-        ],
-        "stakes_bullets": [
-          "• Suthisak Rintalak's body has been returned to Israel by Hamas and PIJ",
-          "• The 43-year-old had been working in the orchards of Kibbutz Be'eri when he was killed",
-          "• His mother said it was \"hard for us to digest\" after the news "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "4cf94c00b7cf"
     },
     {
       "id": "690ef7a37670",
@@ -6467,30 +6566,33 @@
       "url": "https://www.npr.org/2025/12/04/nx-s1-5632646/fbi-pipe-bombs-arrest",
       "published_at": "Thu, 04 Dec 2025 09:50:39 -0500",
       "bullets": [
-        "• FBI arrests suspect in investigation into pipe bombs planted near DNC, RNC before Jan",
-        "• 6 attack",
-        "• Source: Suspect is a man who was arrested in Woodbridge, Va., area, about 35 miles from Washington",
-        "• FBI has spent years searching for the person who put bombs near the Democratic and Republican committee headquarters, hours before the assault on the Capitol "
+        "• Brian J",
+        "• Cole Jr., is being charged with transportation an explosive device via interstate commerce",
+        "• He was arrested in the Woodbridge, Va., area, about 35 miles from Washington",
+        "• The FBI has spent years searching for the person who put bombs near the Democratic and Republican committee headquarters, hours before the assault on the Capitol on Jan",
+        "• 6, 2021 "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.969
+        "score": 0.974
       },
       "moods": {
         "brief_bullets": [
-          "• FBI arrests suspect in investigation into pipe bombs planted near DNC, RNC before Jan",
-          "• 6 attack"
+          "• Brian J",
+          "• Cole Jr., is being charged with transportation an explosive device via interstate commerce"
         ],
         "hopeful_bullets": [
-          "• FBI arrests suspect in investigation into pipe bombs planted near DNC, RNC before Jan",
-          "• 6 attack"
+          "• Brian J",
+          "• Cole Jr., is being charged with transportation an explosive device via interstate commerce"
         ],
         "stakes_bullets": [
-          "• FBI arrests suspect in investigation into pipe bombs planted near DNC, RNC before Jan"
+          "• Brian J",
+          "• Cole Jr., is being charged with transportation an explosive device via interstate commerce",
+          "• He was arrested in the Woodbridge, Va., area, about 35 miles from Washington"
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "d72fd26e69a2"
     },
     {
@@ -6666,7 +6768,7 @@
     {
       "id": "a57891666254",
       "title": "Ilhan Omar says Trump attacks on Somali immigrants 'deflect attention' from scrutiny",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/12/04/nx-s1-5630385/rep-omar-says-trump-attacks-somali-immigrants-to-deflect-attention-from-scrutiny",
       "published_at": "Thu, 04 Dec 2025 06:47:04 -0500",
       "bullets": [
@@ -6674,7 +6776,7 @@
         "• Ilhan Omar says Trump attacks on Somali immigrants 'deflect attention' from scrutiny",
         "• Omar: Trump has \"trafficked in racism, in xenophobia, in bigotry, in Islamophobia for as long as he has held office\""
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.982
@@ -7092,40 +7194,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "9220c21aab2c"
-    },
-    {
-      "id": "88fabbc31c11",
-      "title": "12 former FDA chiefs unite to say agency memo on vaccines is deeply stupid",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/health/2025/12/12-former-fda-chiefs-unite-to-say-agency-memo-on-vaccines-is-deeply-stupid/",
-      "published_at": "Thu, 04 Dec 2025 00:06:58 +0000",
-      "bullets": [
-        "• Vinay Prasad, FDA's chief medical and scientific officer, sent a memo to staff that quickly leaked to the press",
-        "• Without evidence, he claimed COVID-19 vaccines have killed 10 children in the US",
-        "• A dozen former FDA commissioners, who collectively oversaw the agency for more than 35 years, responded to the memo with a scathing rebuke "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Vinay Prasad, FDA's chief medical and scientific officer, sent a memo to staff that quickly leaked to the press",
-          "• Without evidence, he claimed COVID-19 vaccines have killed 10 children in the US"
-        ],
-        "hopeful_bullets": [
-          "• Vinay Prasad, FDA's chief medical and scientific officer, sent a memo to staff that quickly leaked to the press",
-          "• Without evidence, he claimed COVID-19 vaccines have killed 10 children in the US"
-        ],
-        "stakes_bullets": [
-          "• Vinay Prasad, FDA's chief medical and scientific officer, sent a memo to staff that quickly leaked to the press",
-          "• Without evidence, he claimed COVID-19 vaccines have killed 10 children in the US",
-          "• A dozen former FDA commissioners, who collectively oversaw the agency for more than 35 years, responded to the memo with a scathing rebuke "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "8051aeffa43b"
     },
     {
       "id": "b290307dffc7",
@@ -8478,6 +8546,71 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "76b44aea6554",
+      "title": "Trump invites ‘cute’ Japanese kei trucks to come to America",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/838563/trump-kei-truck-authorize-cute-usdot",
+      "published_at": "2025-12-04T15:29:44-05:00",
+      "bullets": [
+        "• The president said he was authorizing the Transportation Department to allow kei trucks to be built in the US — but it’s a bit more complicated than that",
+        "• Trump expressed admiration for the pint-sized autos during a briefing with reporters to announce his plan to gut fuel economy standards "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The president said he was authorizing the Transportation Department to allow kei trucks to be built in the US — but it’s a bit more complicated than that",
+          "• Trump expressed admiration for the pint-sized autos during a briefing with reporters to announce his plan to gut fuel economy standards "
+        ],
+        "hopeful_bullets": [
+          "• The president said he was authorizing the Transportation Department to allow kei trucks to be built in the US — but it’s a bit more complicated than that",
+          "• Trump expressed admiration for the pint-sized autos during a briefing with reporters to announce his plan to gut fuel economy standards "
+        ],
+        "stakes_bullets": [
+          "• Trump expressed admiration for the pint-sized autos during a briefing with reporters to announce his plan to gut fuel economy standards "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "06977d064ed3"
+    },
+    {
+      "id": "4e230630f30d",
+      "title": "Metroid Prime 4 doesn&#8217;t stand up to Nintendo&#8217;s best",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/games/838428/metroid-prime-4-analysis-open-world-nintendo",
+      "published_at": "2025-12-04T14:59:18-05:00",
+      "bullets": [
+        "• Despite some bright spots, the game really shows its age",
+        "• In all of the other games that got the open-world treatment, those elements were additive to the experience",
+        "• In Beyond, the desert world Samus travels through is more of a chore than a treat "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.585
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Despite some bright spots, the game really shows its age",
+          "• In all of the other games that got the open-world treatment, those elements were additive to the experience"
+        ],
+        "hopeful_bullets": [
+          "• Despite some bright spots, the game really shows its age",
+          "• In all of the other games that got the open-world treatment, those elements were additive to the experience"
+        ],
+        "stakes_bullets": [
+          "• Despite some bright spots, the game really shows its age",
+          "• In all of the other games that got the open-world treatment, those elements were additive to the experience",
+          "• In Beyond, the desert world Samus travels through is more of a chore than a treat "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "d48192ab16fd"
+    },
+    {
       "id": "696ba5212595",
       "title": "Amazon&#8217;s dynamic pricing is causing chaos for school budgets",
       "outlet": "The Verge",
@@ -8734,70 +8867,6 @@
       "cluster_id": "a283b38605c7"
     },
     {
-      "id": "1c7d6e083e36",
-      "title": "AI chatbots can be wooed into crimes with poetry",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry",
-      "published_at": "2025-12-04T11:00:12-05:00",
-      "bullets": [
-        "• Riddle-like poems tricked chatbots into spewing hate speech and helping design nuclear weapons and nerve agents",
-        "• The findings indicate that framing requests as poetry could skirt safety features designed to block production of explicit or harmful content like child sex abuse material, hate speech "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Riddle-like poems tricked chatbots into spewing hate speech and helping design nuclear weapons and nerve agents",
-          "• The findings indicate that framing requests as poetry could skirt safety features designed to block production of explicit or harmful content like child sex abuse material, hate speech "
-        ],
-        "hopeful_bullets": [
-          "• Riddle-like poems tricked chatbots into spewing hate speech and helping design nuclear weapons and nerve agents"
-        ],
-        "stakes_bullets": [
-          "• The findings indicate that framing requests as poetry could skirt safety features designed to block production of explicit or harmful content like child sex abuse material, hate speech "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "ce827ef83a13"
-    },
-    {
-      "id": "494f9cc24006",
-      "title": "OnePlus 15 launches US preorders after delayed FCC clearance",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/838017/oneplus-15-preorders-us",
-      "published_at": "2025-12-04T11:00:00-05:00",
-      "bullets": [
-        "• The OnePlus 15 starts from $899.99 for 12GB of RAM and 256GB of storage",
-        "• The company has been able to start taking orders after receiving FCC clearance for the device",
-        "• Preorders arrive just before the more affordable 15R, which is scheduled for a full reveal on December 17th "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The OnePlus 15 starts from $899.99 for 12GB of RAM and 256GB of storage",
-          "• The company has been able to start taking orders after receiving FCC clearance for the device"
-        ],
-        "hopeful_bullets": [
-          "• The OnePlus 15 starts from $899.99 for 12GB of RAM and 256GB of storage",
-          "• The company has been able to start taking orders after receiving FCC clearance for the device"
-        ],
-        "stakes_bullets": [
-          "• The OnePlus 15 starts from $899.99 for 12GB of RAM and 256GB of storage",
-          "• The company has been able to start taking orders after receiving FCC clearance for the device",
-          "• Preorders arrive just before the more affordable 15R, which is scheduled for a full reveal on December 17th "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "09f715952dec"
-    },
-    {
       "id": "c41ff758b36a",
       "title": "CNN Political Briefing",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -8931,139 +9000,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "8a1f3b14891e"
-    },
-    {
-      "id": "f6a4716fa942",
-      "title": "The Numbers Business Report: our official forecast for 2026",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260380830-Numbers-Business-Report-our-official-forecast-for-2026-The",
-      "published_at": null,
-      "bullets": [
-        "• The Numbers Business Report: our official forecast for 2026 box office",
-        "• Box office receipts are projected to reach $9.8 billion, a 10% increase on the anticipated 2025 total of $8.87 billion",
-        "• The Super Mario Galaxy, due on April 3, tops the slate with forecast receipts of $550 million",
-        "• Mid‑tier wide releases are forecast to generate $4.57 billion, up 10% year on year "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Numbers Business Report: our official forecast for 2026 box office",
-          "• Box office receipts are projected to reach $9.8 billion, a 10% increase on the anticipated 2025 total of $8.87 billion"
-        ],
-        "hopeful_bullets": [
-          "• The Numbers Business Report: our official forecast for 2026 box office",
-          "• Box office receipts are projected to reach $9.8 billion, a 10% increase on the anticipated 2025 total of $8.87 billion"
-        ],
-        "stakes_bullets": [
-          "• Box office receipts are projected to reach $9.8 billion, a 10% increase on the anticipated 2025 total of $8.87 billion",
-          "• Mid‑tier wide releases are forecast to generate $4.57 billion, up 10% year on year "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "089004f0f074"
-    },
-    {
-      "id": "64b12ff48f6c",
-      "title": "Weekend projections: Zootopia 2 lands stellar Thanksgiving opening, as Wicked continues to prosper",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260370830-Weekend-projections-Zootopia-2-lands-stellar-Thanksgiving-opening-as-Wicked-continues-to-prosper",
-      "published_at": null,
-      "bullets": [
-        "• Weekend projections: Zootopia 2 lands stellar Thanksgiving opening, as Wicked continues to prosper",
-        "• Both films are landing roughly where our model predicted coming into the weekend",
-        "• Most films in the top 10 are benefiting from the Holiday spirit",
-        "• We’ll have a more complete report later today "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Weekend projections: Zootopia 2 lands stellar Thanksgiving opening, as Wicked continues to prosper",
-          "• Both films are landing roughly where our model predicted coming into the weekend"
-        ],
-        "hopeful_bullets": [
-          "• Weekend projections: Zootopia 2 lands stellar Thanksgiving opening, as Wicked continues to prosper",
-          "• Both films are landing roughly where our model predicted coming into the weekend"
-        ],
-        "stakes_bullets": [
-          "• Weekend projections: Zootopia 2 lands stellar Thanksgiving opening, as Wicked continues to prosper",
-          "• Both films are landing roughly where our model predicted coming into the weekend",
-          "• Most films in the top 10 are benefiting from the Holiday spirit"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "4100b6fa556c"
-    },
-    {
-      "id": "2d00c7e23150",
-      "title": "Unlock exclusive Black Friday savings: your guide to the film industry starts here!",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260360830-Unlock-exclusive-Black-Friday-savings-your-guide-to-the-film-industry-starts-here",
-      "published_at": null,
-      "bullets": [
-        "• For one week only, get your first three months of The Numbers Business Report for just $99—a 52% savings off the regular $69/month price",
-        "• Unlock exclusive Black Friday savings: your guide to the film industry starts here!"
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.557
-      },
-      "moods": {
-        "brief_bullets": [
-          "• For one week only, get your first three months of The Numbers Business Report for just $99—a 52% savings off the regular $69/month price",
-          "• Unlock exclusive Black Friday savings: your guide to the film industry starts here!"
-        ],
-        "hopeful_bullets": [
-          "• For one week only, get your first three months of The Numbers Business Report for just $99—a 52% savings off the regular $69/month price",
-          "• Unlock exclusive Black Friday savings: your guide to the film industry starts here!"
-        ],
-        "stakes_bullets": [
-          "• For one week only, get your first three months of The Numbers Business Report for just $99—a 52% savings off the regular $69/month price",
-          "• Unlock exclusive Black Friday savings: your guide to the film industry starts here!"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "9e4b0c805452"
-    },
-    {
-      "id": "dcdb69a4205d",
-      "title": "Holiday theater counts: Wicked continues its reign as Zootopia 2 enters the arena",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260350830-Holiday-theater-counts-Wicked-continues-its-reign-as-Zootopia-2-enters-the-arena",
-      "published_at": null,
-      "bullets": [
-        "• Wicked: For Good racked up an impressive $147 million in its debut this past weekend",
-        "• Zootopia 2 brings back detectives Judy Hopps and Nick Wilde, who are once again partners in the police force, but their working relationship is under strain",
-        "• Walt Disney will release the sequel in 4,000 theaters throughout North America "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.906
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Wicked: For Good racked up an impressive $147 million in its debut this past weekend",
-          "• Zootopia 2 brings back detectives Judy Hopps and Nick Wilde, who are once again partners in the police force, but their working relationship is under strain"
-        ],
-        "hopeful_bullets": [
-          "• Wicked: For Good racked up an impressive $147 million in its debut this past weekend",
-          "• Zootopia 2 brings back detectives Judy Hopps and Nick Wilde, who are once again partners in the police force, but their working relationship is under strain"
-        ],
-        "stakes_bullets": [
-          "• Walt Disney will release the sequel in 4,000 theaters throughout North America "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "abb6a634b0f1"
     },
     {
       "id": "0f357e48baa9",
@@ -9346,6 +9282,24 @@
       ]
     },
     {
+      "id": "8b45a7ce6f7c",
+      "topic": "direct first israel lebanon",
+      "keywords": [
+        "direct",
+        "first",
+        "israel",
+        "lebanon",
+        "south",
+        "strike"
+      ],
+      "item_ids": [
+        "85df4f609ab3"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "92463d44ede5",
       "topic": "app developing korea real",
       "keywords": [
@@ -9412,24 +9366,6 @@
       ],
       "item_ids": [
         "f39cae937eba"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "4cf94c00b7cf",
-      "topic": "body group israel palestinian",
-      "keywords": [
-        "body",
-        "group",
-        "israel",
-        "palestinian",
-        "returned",
-        "thai"
-      ],
-      "item_ids": [
-        "6ffde679a56a"
       ],
       "outlets": [
         "BBC News"
@@ -9634,6 +9570,24 @@
       ]
     },
     {
+      "id": "5adca612642c",
+      "topic": "israel issue mayor order",
+      "keywords": [
+        "israel",
+        "issue",
+        "mayor",
+        "order",
+        "targeting",
+        "york"
+      ],
+      "item_ids": [
+        "b827fa831966"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "38b4fd03d9c9",
       "topic": "arrested bomb case named",
       "keywords": [
@@ -9757,6 +9711,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "966ee3f3f719",
+      "topic": "adviser cdc delay hepatiti",
+      "keywords": [
+        "adviser",
+        "cdc",
+        "delay",
+        "hepatiti",
+        "planned",
+        "vote"
+      ],
+      "item_ids": [
+        "bf04e1d35c6b"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9922,24 +9894,6 @@
       ]
     },
     {
-      "id": "1aed641d4b95",
-      "topic": "attack ilhan immigrant omar",
-      "keywords": [
-        "attack",
-        "ilhan",
-        "immigrant",
-        "omar",
-        "somali",
-        "trump"
-      ],
-      "item_ids": [
-        "a57891666254"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "2378d8af2a89",
       "topic": "bids comcast here netflix",
       "keywords": [
@@ -10012,54 +9966,36 @@
       ]
     },
     {
-      "id": "7e49bf4481a7",
-      "topic": "challenge coder google replit",
+      "id": "9413f2bf5c1b",
+      "topic": "defense pete sec sues",
       "keywords": [
-        "challenge",
-        "coder",
+        "defense",
+        "pete",
+        "sec",
+        "sues",
+        "time",
+        "york"
+      ],
+      "item_ids": [
+        "12175c05a1a8"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "8473b5644c16",
+      "topic": "coding google partner push",
+      "keywords": [
+        "coding",
         "google",
+        "partner",
+        "push",
         "replit",
-        "taps",
         "vibe"
       ],
       "item_ids": [
         "f80fcc23ea13"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "adad3ac968b7",
-      "topic": "announcement layoff million most",
-      "keywords": [
-        "announcement",
-        "layoff",
-        "million",
-        "most",
-        "top",
-        "year"
-      ],
-      "item_ids": [
-        "f451803caff2"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "b172273caccd",
-      "topic": "climb meta metaverse planned",
-      "keywords": [
-        "climb",
-        "meta",
-        "metaverse",
-        "planned",
-        "report",
-        "stock"
-      ],
-      "item_ids": [
-        "ded056c43b54"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10102,21 +10038,75 @@
       ]
     },
     {
-      "id": "8fb5de8e7c7f",
-      "topic": "2026 auto consumer gain",
+      "id": "adad3ac968b7",
+      "topic": "announcement layoff million most",
       "keywords": [
-        "2026",
-        "auto",
-        "consumer",
-        "gain",
-        "report",
-        "tesla"
+        "announcement",
+        "layoff",
+        "million",
+        "most",
+        "top",
+        "year"
       ],
       "item_ids": [
-        "5844a28efe3d"
+        "f451803caff2"
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "b172273caccd",
+      "topic": "climb meta metaverse planned",
+      "keywords": [
+        "climb",
+        "meta",
+        "metaverse",
+        "planned",
+        "report",
+        "stock"
+      ],
+      "item_ids": [
+        "ded056c43b54"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "e7f09d796100",
+      "topic": "best chu couldn jon",
+      "keywords": [
+        "best",
+        "chu",
+        "couldn",
+        "jon",
+        "made",
+        "wicked"
+      ],
+      "item_ids": [
+        "b6c15d14ac0b"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "37e74fcfcefa",
+      "topic": "best december disney movie",
+      "keywords": [
+        "best",
+        "december",
+        "disney",
+        "movie",
+        "pick",
+        "wired"
+      ],
+      "item_ids": [
+        "333f9d15ead3"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10263,39 +10253,39 @@
       ]
     },
     {
-      "id": "019e1f45af88",
-      "topic": "best coming here meteor",
+      "id": "06977d064ed3",
+      "topic": "cute invite japanese kei",
       "keywords": [
-        "best",
-        "coming",
-        "here",
-        "meteor",
-        "shower",
-        "year"
+        "cute",
+        "invite",
+        "japanese",
+        "kei",
+        "truck",
+        "trump"
       ],
       "item_ids": [
-        "74a9c9d4f4a9"
+        "76b44aea6554"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
-      "id": "2ad6cacc9da3",
-      "topic": "department detaining fisherie louisiana",
+      "id": "d48192ab16fd",
+      "topic": "8217 doesn metroid nintendo",
       "keywords": [
-        "department",
-        "detaining",
-        "fisherie",
-        "louisiana",
-        "people",
-        "wildlife"
+        "8217",
+        "doesn",
+        "metroid",
+        "nintendo",
+        "prime",
+        "stand"
       ],
       "item_ids": [
-        "701f725990cc"
+        "4e230630f30d"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -10443,37 +10433,75 @@
       ]
     },
     {
-      "id": "ce827ef83a13",
-      "topic": "chatbot crime poetry wooed",
+      "id": "3d6ebcbaaf00",
+      "topic": "chatbot find make persuasive",
       "keywords": [
         "chatbot",
-        "crime",
-        "poetry",
-        "wooed"
+        "find",
+        "make",
+        "persuasive",
+        "politically",
+        "researcher"
       ],
       "item_ids": [
-        "1c7d6e083e36"
+        "d9f087598a83"
       ],
       "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
-      "id": "09f715952dec",
-      "topic": "clearance delayed fcc launche",
+      "id": "a56065a2b778",
+      "topic": "digging hdmi machine steam",
       "keywords": [
-        "clearance",
-        "delayed",
-        "fcc",
-        "launche",
-        "oneplu",
-        "preorder"
+        "digging",
+        "hdmi",
+        "machine",
+        "steam",
+        "support",
+        "won"
       ],
       "item_ids": [
-        "494f9cc24006"
+        "0acd39b17235"
       ],
       "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
+      ]
+    },
+    {
+      "id": "6e22a82fbf99",
+      "topic": "believed chatgpt god hyped",
+      "keywords": [
+        "believed",
+        "chatgpt",
+        "god",
+        "hyped",
+        "stalker",
+        "violent"
+      ],
+      "item_ids": [
+        "25aa3a16e461"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
+      "id": "7f26e2b2850d",
+      "topic": "clearance fcc finally gets",
+      "keywords": [
+        "clearance",
+        "fcc",
+        "finally",
+        "gets",
+        "government",
+        "oneplu"
+      ],
+      "item_ids": [
+        "adceeec37d25"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
       ]
     },
     {
@@ -10579,78 +10607,6 @@
       ],
       "item_ids": [
         "4bb5f0e3e9a0"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "8051aeffa43b",
-      "topic": "agency chief fda former",
-      "keywords": [
-        "agency",
-        "chief",
-        "fda",
-        "former",
-        "say",
-        "unite"
-      ],
-      "item_ids": [
-        "88fabbc31c11"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "1d7168219937",
-      "topic": "admin against defender gird",
-      "keywords": [
-        "admin",
-        "against",
-        "defender",
-        "gird",
-        "maximum",
-        "themselve"
-      ],
-      "item_ids": [
-        "f4cc6b8e9278"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "b26d11196afc",
-      "topic": "2027 advanced drive great",
-      "keywords": [
-        "2027",
-        "advanced",
-        "drive",
-        "great",
-        "handling",
-        "tech"
-      ],
-      "item_ids": [
-        "e590dfa89490"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "b384a786c81e",
-      "topic": "block drop ordered republican",
-      "keywords": [
-        "block",
-        "drop",
-        "ordered",
-        "republican",
-        "state",
-        "trump"
-      ],
-      "item_ids": [
-        "df228ded4767"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -10996,18 +10952,18 @@
       ]
     },
     {
-      "id": "954bdce0a552",
-      "topic": "onto table thanksgiving trotted",
+      "id": "57c1f5751537",
+      "topic": "food lot place produce",
       "keywords": [
-        "onto",
-        "table",
-        "thanksgiving",
-        "trotted",
-        "turkey",
-        "way"
+        "food",
+        "lot",
+        "place",
+        "produce",
+        "want",
+        "waste"
       ],
       "item_ids": [
-        "35863ee4867f"
+        "02062fa3096c"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11026,6 +10982,24 @@
       ],
       "item_ids": [
         "539a19183c1b"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "1aed641d4b95",
+      "topic": "attack ilhan immigrant omar",
+      "keywords": [
+        "attack",
+        "ilhan",
+        "immigrant",
+        "omar",
+        "somali",
+        "trump"
+      ],
+      "item_ids": [
+        "a57891666254"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11649,78 +11623,6 @@
       ]
     },
     {
-      "id": "089004f0f074",
-      "topic": "2026 busines forecast number",
-      "keywords": [
-        "2026",
-        "busines",
-        "forecast",
-        "number",
-        "official",
-        "report"
-      ],
-      "item_ids": [
-        "f6a4716fa942"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "4100b6fa556c",
-      "topic": "land projection stellar thanksgiving",
-      "keywords": [
-        "land",
-        "projection",
-        "stellar",
-        "thanksgiving",
-        "weekend",
-        "zootopia"
-      ],
-      "item_ids": [
-        "64b12ff48f6c"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "9e4b0c805452",
-      "topic": "black exclusive friday guide",
-      "keywords": [
-        "black",
-        "exclusive",
-        "friday",
-        "guide",
-        "saving",
-        "unlock"
-      ],
-      "item_ids": [
-        "2d00c7e23150"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
-      "id": "abb6a634b0f1",
-      "topic": "continue count holiday reign",
-      "keywords": [
-        "continue",
-        "count",
-        "holiday",
-        "reign",
-        "theater",
-        "wicked"
-      ],
-      "item_ids": [
-        "dcdb69a4205d"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
       "id": "0ef3cd2769f8",
       "topic": "150 good projection soar",
       "keywords": [
@@ -11824,6 +11726,60 @@
       ],
       "outlets": [
         "The Numbers"
+      ]
+    },
+    {
+      "id": "5cf60665f6b9",
+      "topic": "bad black brand men",
+      "keywords": [
+        "bad",
+        "black",
+        "brand",
+        "men",
+        "movie",
+        "work"
+      ],
+      "item_ids": [
+        "64168921c7ab"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "e55ccf925169",
+      "topic": "alpha american described egerton",
+      "keywords": [
+        "alpha",
+        "american",
+        "described",
+        "egerton",
+        "eyed",
+        "taron"
+      ],
+      "item_ids": [
+        "c84d2196ec82"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "ddba92435a5b",
+      "topic": "anime bill extended kill",
+      "keywords": [
+        "anime",
+        "bill",
+        "extended",
+        "kill",
+        "sequence",
+        "whole"
+      ],
+      "item_ids": [
+        "782367400ae5"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
       ]
     },
     {
@@ -11947,59 +11903,6 @@
       ],
       "item_ids": [
         "0a4603284a28"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "1dc8068a7e27",
-      "topic": "might missed movie underrated",
-      "keywords": [
-        "might",
-        "missed",
-        "movie",
-        "underrated",
-        "zombie"
-      ],
-      "item_ids": [
-        "5651ab73c942"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "0a0e75f1f029",
-      "topic": "burb february peacock release",
-      "keywords": [
-        "burb",
-        "february",
-        "peacock",
-        "release",
-        "sets",
-        "teaser"
-      ],
-      "item_ids": [
-        "ea88c5a885c5"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "708231e54a43",
-      "topic": "dean garza jessica norri",
-      "keywords": [
-        "dean",
-        "garza",
-        "jessica",
-        "norri",
-        "star",
-        "supernatural"
-      ],
-      "item_ids": [
-        "1e781fed2571"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -13362,6 +13265,60 @@
       ]
     },
     {
+      "id": "df3c6a52e382",
+      "topic": "black box men officially",
+      "keywords": [
+        "black",
+        "box",
+        "men",
+        "officially",
+        "return",
+        "year"
+      ],
+      "item_ids": [
+        "0704d0b4fa38"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "60be0f5e7705",
+      "topic": "accidentally ball dragon editor",
+      "keywords": [
+        "accidentally",
+        "ball",
+        "dragon",
+        "editor",
+        "leak",
+        "upcoming"
+      ],
+      "item_ids": [
+        "1624de6a43ee"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "5b698042e4f0",
+      "topic": "2026 anatomy grey kate",
+      "keywords": [
+        "2026",
+        "anatomy",
+        "grey",
+        "kate",
+        "returning",
+        "walsh"
+      ],
+      "item_ids": [
+        "31a2f3144015"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "1dc73bc97ae8",
       "topic": "clue peacock serie work",
       "keywords": [
@@ -13480,60 +13437,6 @@
       ],
       "item_ids": [
         "7633a943db8c"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "1dd842385542",
-      "topic": "power sam show steal",
-      "keywords": [
-        "power",
-        "sam",
-        "show",
-        "steal",
-        "weird",
-        "wilson"
-      ],
-      "item_ids": [
-        "138f3ae67c3d"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "55e8e1c3bb0d",
-      "topic": "classic cult deserve show",
-      "keywords": [
-        "classic",
-        "cult",
-        "deserve",
-        "show",
-        "statu",
-        "western"
-      ],
-      "item_ids": [
-        "f741a14d642e"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "fd8ec08da063",
-      "topic": "america blake brave captain",
-      "keywords": [
-        "america",
-        "blake",
-        "brave",
-        "captain",
-        "tim",
-        "world"
-      ],
-      "item_ids": [
-        "3fbe806a2192"
       ],
       "outlets": [
         "CBR"
@@ -13718,6 +13621,42 @@
       ]
     },
     {
+      "id": "e7724fc88a94",
+      "topic": "gourley john kinney man",
+      "keywords": [
+        "gourley",
+        "john",
+        "kinney",
+        "man",
+        "portugal",
+        "sleater"
+      ],
+      "item_ids": [
+        "03b75c864a78"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
+      "id": "948536033a85",
+      "topic": "compete decided eurovision israel",
+      "keywords": [
+        "compete",
+        "decided",
+        "eurovision",
+        "israel",
+        "organizer",
+        "vote"
+      ],
+      "item_ids": [
+        "5acf5cf98a92"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "71307b9f7703",
       "topic": "atla guns nothin off",
       "keywords": [
@@ -13856,42 +13795,6 @@
       ],
       "item_ids": [
         "7d2975d99142"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "10e192da4eeb",
-      "topic": "brother inappropriate interest jona",
-      "keywords": [
-        "brother",
-        "inappropriate",
-        "interest",
-        "jona",
-        "reflect",
-        "very"
-      ],
-      "item_ids": [
-        "f70254471f8a"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "3a27fdce3cc9",
-      "topic": "announce bbc beatle days",
-      "keywords": [
-        "announce",
-        "bbc",
-        "beatle",
-        "days",
-        "hamburg",
-        "miniserie"
-      ],
-      "item_ids": [
-        "41a7908248c9"
       ],
       "outlets": [
         "Music News"
