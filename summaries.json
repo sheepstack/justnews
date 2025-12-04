@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-04T09:57:21Z",
+  "generated_at": "2025-12-04T11:08:28Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -34,40 +34,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "edd5409bb9c9"
-    },
-    {
-      "id": "97b4fd99378e",
-      "title": "TVC15: Yoda (VC20)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-26-tvc15-yoda-vc20/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-yoda-vc20",
-      "published_at": "Wed, 26 Nov 2025 23:43:28 +0000",
-      "bullets": [
-        "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
-        "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith",
-        "• The 3.75-inch super-articulated collecting community mocked them as “swelbows”"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
-          "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith"
-        ],
-        "hopeful_bullets": [
-          "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
-          "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith"
-        ],
-        "stakes_bullets": [
-          "• Yoda (The Jedi Master) was first released on a Canadian card featuring a character photo from Revenge Of The Sith in error",
-          "• Hasbro based the character’s likeness on appearances in Revenge Of the Sith",
-          "• The 3.75-inch super-articulated collecting community mocked them as “swelbows”"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "404906aa0c7b"
     },
     {
       "id": "dd5d99a235e2",
@@ -298,6 +264,38 @@
       "cluster_id": "16cb7c690846"
     },
     {
+      "id": "35863ee4867f",
+      "title": "How the turkey trotted its way onto our Thanksgiving tables — and into our lexicon",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/11/26/nx-s1-5612661/turkey-word-origin-thanksgiving",
+      "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
+      "bullets": [
+        "• The turkey was first brought across the Atlantic to Europe in 17th century",
+        "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving",
+        "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The turkey was first brought across the Atlantic to Europe in 17th century",
+          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
+        ],
+        "hopeful_bullets": [
+          "• The turkey was first brought across the Atlantic to Europe in 17th century",
+          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
+        ],
+        "stakes_bullets": [
+          "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "954bdce0a552"
+    },
+    {
       "id": "02062fa3096c",
       "title": "The U.S. produces a lot of food waste. This place wants to address it",
       "outlet": "NPR Topics: Science",
@@ -329,38 +327,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "57c1f5751537"
-    },
-    {
-      "id": "35863ee4867f",
-      "title": "How the turkey trotted its way onto our Thanksgiving tables — and into our lexicon",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/11/26/nx-s1-5612661/turkey-word-origin-thanksgiving",
-      "published_at": "Wed, 26 Nov 2025 05:00:00 -0500",
-      "bullets": [
-        "• The turkey was first brought across the Atlantic to Europe in 17th century",
-        "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving",
-        "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The turkey was first brought across the Atlantic to Europe in 17th century",
-          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
-        ],
-        "hopeful_bullets": [
-          "• The turkey was first brought across the Atlantic to Europe in 17th century",
-          "• The bird's origins are still unclear, but it's a big part of the history of Thanksgiving"
-        ],
-        "stakes_bullets": [
-          "• The National Turkey Federation says about 30 million Americans are expected to eat the bird this year "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "954bdce0a552"
     },
     {
       "id": "c6eb70794c12",
@@ -1187,38 +1153,6 @@
       "cluster_id": "e513f03abf38"
     },
     {
-      "id": "60434e7d42ad",
-      "title": "Nvidia CEO Jensen Huang talks chip restrictions with Trump, blasts state-by-state AI regulations",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/03/nvidias-jensen-huang-talks-chip-controls-with-trump-hits-regulation.html",
-      "published_at": "Wed, 03 Dec 2025 21:17:58 GMT",
-      "bullets": [
-        "• Nvidia CEO Jensen Huang met with President Donald Trump on Capitol Hill on Wednesday",
-        "• Huang: \"We should ensure that American companies have the best and the most and first\" The GAIN AI Act would require chipmakers to give U.S",
-        "• companies first pick on their AI chips before selling them in China "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.911
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nvidia CEO Jensen Huang met with President Donald Trump on Capitol Hill on Wednesday",
-          "• Huang: \"We should ensure that American companies have the best and the most and first\" The GAIN AI Act would require chipmakers to give U.S"
-        ],
-        "hopeful_bullets": [
-          "• Nvidia CEO Jensen Huang met with President Donald Trump on Capitol Hill on Wednesday",
-          "• Huang: \"We should ensure that American companies have the best and the most and first\" The GAIN AI Act would require chipmakers to give U.S"
-        ],
-        "stakes_bullets": [
-          "• Huang: \"We should ensure that American companies have the best and the most and first\" The GAIN AI Act would require chipmakers to give U.S"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "50000137350e"
-    },
-    {
       "id": "df228ded4767",
       "title": "Republicans drop Trump-ordered block on state AI laws from defense bill",
       "outlet": "Ars Technica - All content",
@@ -1580,37 +1514,36 @@
       "cluster_id": "2c291962d1cf"
     },
     {
-      "id": "546730c9a3e3",
-      "title": "Jeffrey Epstein island photos and videos released as top banks share files with House Oversight Committee",
+      "id": "7395eb669720",
+      "title": "How families could get stuck with higher electric bills if the AI data center boom goes bust",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/03/epstein-files-jpmorgan-deutsche-bank-virgin-islands.html",
-      "published_at": "Wed, 03 Dec 2025 19:46:09 GMT",
+      "url": "https://www.cnbc.com/2025/12/03/families-could-get-see-higher-electric-bills-if-ai-data-boom-goes-bust.html",
+      "published_at": "Wed, 03 Dec 2025 19:47:23 GMT",
       "bullets": [
-        "• House Democrats reveal new photos and videos from Jeffrey Epstein's private island in the U.S",
-        "• Virgin Islands",
-        "• They also revealed that two major banks have handed over records related to the notorious sex offender",
-        "• Democrats say they plan to publicly release the banks' materials \"in the days ahead\" after a review "
+        "• The race to build facilities that provide artificial intelligence has fueled a boom in data centers that train and run large language models",
+        "• The boom has upended a utility industry that grew used to 20 years of no increase in electricity demand",
+        "• Some investors and analysts are questioning whether the AI race has turned into a bubble "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.983
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• House Democrats reveal new photos and videos from Jeffrey Epstein's private island in the U.S",
-          "• Virgin Islands"
+          "• The race to build facilities that provide artificial intelligence has fueled a boom in data centers that train and run large language models",
+          "• The boom has upended a utility industry that grew used to 20 years of no increase in electricity demand"
         ],
         "hopeful_bullets": [
-          "• They also revealed that two major banks have handed over records related to the notorious sex offender"
+          "• The race to build facilities that provide artificial intelligence has fueled a boom in data centers that train and run large language models",
+          "• The boom has upended a utility industry that grew used to 20 years of no increase in electricity demand"
         ],
         "stakes_bullets": [
-          "• They also revealed that two major banks have handed over records related to the notorious sex offender",
-          "• Democrats say they plan to publicly release the banks' materials \"in the days ahead\" after a review "
+          "• The boom has upended a utility industry that grew used to 20 years of no increase in electricity demand"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "b141f2477c69"
+      "read_minutes": 5,
+      "cluster_id": "3a400f2d1bd9"
     },
     {
       "id": "ab21a1394607",
@@ -2106,6 +2039,41 @@
       "cluster_id": "07a7d2117cce"
     },
     {
+      "id": "93f60522dadb",
+      "title": "Medicare prescription drug costs may change in 2026 — what beneficiaries need to know",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/03/medicare-prescription-drug-cost-changes.html",
+      "published_at": "Wed, 03 Dec 2025 18:30:22 GMT",
+      "bullets": [
+        "• An annual open enrollment period is open for Medicare beneficiaries until Dec",
+        "• 7",
+        "• Beneficiaries can change Medicare Part D prescription plans or Medicare Advantage plans",
+        "• Experts say it's a good time to evaluate the cost of prescription drugs for next year",
+        "• About 55 million people are enrolled in Medicare PartD prescription drug or Advantage plans, KFF says "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• An annual open enrollment period is open for Medicare beneficiaries until Dec",
+          "• 7"
+        ],
+        "hopeful_bullets": [
+          "• An annual open enrollment period is open for Medicare beneficiaries until Dec",
+          "• 7"
+        ],
+        "stakes_bullets": [
+          "• Beneficiaries can change Medicare Part D prescription plans or Medicare Advantage plans",
+          "• About 55 million people are enrolled in Medicare PartD prescription drug or Advantage plans, KFF says "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "49b130da25c5"
+    },
+    {
       "id": "ea0f7f5ae30d",
       "title": "Physical PS5 Release of ‘The Midnight Walk’ Coming February 2026",
       "outlet": "Bloody Disgusting!",
@@ -2404,40 +2372,6 @@
       "cluster_id": "bffd700ffdd0"
     },
     {
-      "id": "8975d9d0a38e",
-      "title": "Filmmaker Jafar Panahi is sentenced again in Iran as Hollywood's awards season starts",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/03/nx-s1-5631517/jafar-panahi-it-was-just-an-accident-iran-prison",
-      "published_at": "Wed, 03 Dec 2025 17:43:07 -0500",
-      "bullets": [
-        "• Filmmaker Jafar Panahi sentenced in absentia to a year in prison in Iran",
-        "• His film It Was Just An Accident won the Palme d'Or at the Cannes Film Festival in May",
-        "• It was shot in secret, a common practice for Iranian filmmakers "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Filmmaker Jafar Panahi sentenced in absentia to a year in prison in Iran",
-          "• His film It Was Just An Accident won the Palme d'Or at the Cannes Film Festival in May"
-        ],
-        "hopeful_bullets": [
-          "• Filmmaker Jafar Panahi sentenced in absentia to a year in prison in Iran",
-          "• His film It Was Just An Accident won the Palme d'Or at the Cannes Film Festival in May"
-        ],
-        "stakes_bullets": [
-          "• Filmmaker Jafar Panahi sentenced in absentia to a year in prison in Iran",
-          "• His film It Was Just An Accident won the Palme d'Or at the Cannes Film Festival in May",
-          "• It was shot in secret, a common practice for Iranian filmmakers "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "406cb0d17c33"
-    },
-    {
       "id": "307de0658a92",
       "title": "Thursday's Cold Moon Is the Last Supermoon of the Year. Here's How and When to View It",
       "outlet": "WIRED",
@@ -2640,40 +2574,6 @@
       "cluster_id": "c4dc758ebacc"
     },
     {
-      "id": "2a5331fe4a02",
-      "title": "Trump administration rolls back fuel economy standards",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/03/nx-s1-5630389/trump-administration-rolls-back-fuel-economy-standards",
-      "published_at": "Wed, 03 Dec 2025 16:34:45 -0500",
-      "bullets": [
-        "• Trump administration rolls back fuel economy standards for new vehicles",
-        "• President Trump said the move would save consumers money by making cars cheaper",
-        "• Automakers who fall short have previously needed to either pay hefty fines, or buy credits from a company that over-performs on efficiency "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump administration rolls back fuel economy standards for new vehicles",
-          "• President Trump said the move would save consumers money by making cars cheaper"
-        ],
-        "hopeful_bullets": [
-          "• Trump administration rolls back fuel economy standards for new vehicles",
-          "• President Trump said the move would save consumers money by making cars cheaper"
-        ],
-        "stakes_bullets": [
-          "• Trump administration rolls back fuel economy standards for new vehicles",
-          "• President Trump said the move would save consumers money by making cars cheaper",
-          "• Automakers who fall short have previously needed to either pay hefty fines, or buy credits from a company that over-performs on efficiency "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "705a80764b88"
-    },
-    {
       "id": "cf9bac1f1e7d",
       "title": "Disney Shutting Down Its Aerosmith-Branded Roller Coaster After 26 Years",
       "outlet": "Music News",
@@ -2807,41 +2707,6 @@
       "cluster_id": "188434184956"
     },
     {
-      "id": "e7b56eb38662",
-      "title": "CDC's vaccine advisers meet to question long-used vaccines",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/12/03/nx-s1-5630917/cdc-childhood-vaccine-schedule",
-      "published_at": "Wed, 03 Dec 2025 15:47:22 -0500",
-      "bullets": [
-        "• The CDC is meeting to discuss changes to the way children are vaccinated",
-        "• The meeting is expected to be held on Thursday and Friday",
-        "• The changes are expected to further erode the safety and effectiveness of vaccines",
-        "• Critics say the changes will lead to a decline in childhood immunizations "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The CDC is meeting to discuss changes to the way children are vaccinated",
-          "• The meeting is expected to be held on Thursday and Friday"
-        ],
-        "hopeful_bullets": [
-          "• The CDC is meeting to discuss changes to the way children are vaccinated",
-          "• The meeting is expected to be held on Thursday and Friday"
-        ],
-        "stakes_bullets": [
-          "• The meeting is expected to be held on Thursday and Friday",
-          "• The changes are expected to further erode the safety and effectiveness of vaccines",
-          "• Critics say the changes will lead to a decline in childhood immunizations "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "20c609adfae5"
-    },
-    {
       "id": "a9f622e997ee",
       "title": "Donald Trump to pardon Texas Democrat Henry Cuellar",
       "outlet": "The Texas Tribune",
@@ -2938,7 +2803,7 @@
     {
       "id": "46aacff45793",
       "title": "Pentagon watchdog finds Hegseth risked the safety of U.S. forces with use of Signal",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/12/03/nx-s1-5630519/signalgate-pete-hegseth-inspector-general-report",
       "published_at": "Wed, 03 Dec 2025 15:19:25 -0500",
       "bullets": [
@@ -2946,7 +2811,7 @@
         "• forces with use of Signal, source says",
         "• Report: Had a foreign adversary intercepted the intelligence discussed in the chat, it would have endangered both the military and the mission at large "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -3236,74 +3101,6 @@
       "cluster_id": "253a57b1de0c"
     },
     {
-      "id": "6f5e46c7e29f",
-      "title": "Trump uses 'Third World' in a social media post. What's up with that term?",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/goats-and-soda/2025/12/03/g-s1-100161/trump-third-world-developing-world-global-south",
-      "published_at": "Wed, 03 Dec 2025 13:52:07 -0500",
-      "bullets": [
-        "• President Donald Trump wrote on Truth Social that immigrants from poor nations are a burden on the U.S",
-        "• The term \"Third World\" is often the first term that pops into Westerners' minds when they try to characterize less well-off, troubled countries",
-        "• French demographer Alfred Sauvy came up with the term in 1952 "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump wrote on Truth Social that immigrants from poor nations are a burden on the U.S",
-          "• The term \"Third World\" is often the first term that pops into Westerners' minds when they try to characterize less well-off, troubled countries"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump wrote on Truth Social that immigrants from poor nations are a burden on the U.S",
-          "• The term \"Third World\" is often the first term that pops into Westerners' minds when they try to characterize less well-off, troubled countries"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump wrote on Truth Social that immigrants from poor nations are a burden on the U.S",
-          "• The term \"Third World\" is often the first term that pops into Westerners' minds when they try to characterize less well-off, troubled countries",
-          "• French demographer Alfred Sauvy came up with the term in 1952 "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "59dfca07d50d"
-    },
-    {
-      "id": "021f507bb456",
-      "title": "Check your cheese: Shredded and grated varieties are recalled nationwide",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/03/nx-s1-5630116/shredded-cheese-recall-pecorino-romano",
-      "published_at": "Wed, 03 Dec 2025 13:47:00 -0500",
-      "bullets": [
-        "• Shredded and grated varieties of Pecorino Romano are among the latest food recalls",
-        "• One involves hundreds of thousands of containers of shredded mozzarella and multi-cheese blends",
-        "• The other involves several brands of grated cheese products that have sell-by dates in 2026 "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.674
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Shredded and grated varieties of Pecorino Romano are among the latest food recalls",
-          "• One involves hundreds of thousands of containers of shredded mozzarella and multi-cheese blends"
-        ],
-        "hopeful_bullets": [
-          "• Shredded and grated varieties of Pecorino Romano are among the latest food recalls",
-          "• One involves hundreds of thousands of containers of shredded mozzarella and multi-cheese blends"
-        ],
-        "stakes_bullets": [
-          "• Shredded and grated varieties of Pecorino Romano are among the latest food recalls",
-          "• One involves hundreds of thousands of containers of shredded mozzarella and multi-cheese blends",
-          "• The other involves several brands of grated cheese products that have sell-by dates in 2026 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "14c3c6b964fe"
-    },
-    {
       "id": "d40dd96c0437",
       "title": "Autechre Announce 2026 European Tour",
       "outlet": "RSS: News",
@@ -3404,34 +3201,6 @@
       },
       "read_minutes": 16,
       "cluster_id": "e2e5f0bae06d"
-    },
-    {
-      "id": "adb7771da48c",
-      "title": "Hot Toys The Empire Strikes Back Snowtrooper Commander (MMS835) 1/6 Scale Figure",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-12-03-hot-toys-the-empire-strikes-back-snowtrooper-commander-mms835-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-the-empire-strikes-back-snowtrooper-commander-mms835-1-6-scale-figure",
-      "published_at": "Wed, 03 Dec 2025 12:20:37 +0000",
-      "bullets": [
-        "• Hot Toys is adding another snowtrooper to its Imperial ranks with the addition of the Snowtrooper Commander (MMS835) The figure is a highly detailed tribute to the Imperial leadership that spearheaded one of the saga’s most iconic battles "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hot Toys is adding another snowtrooper to its Imperial ranks with the addition of the Snowtrooper Commander (MMS835) The figure is a highly detailed tribute to the Imperial leadership that spearheaded one of the saga’s most iconic battles "
-        ],
-        "hopeful_bullets": [
-          "• Hot Toys is adding another snowtrooper to its Imperial ranks with the addition of the Snowtrooper Commander (MMS835) The figure is a highly detailed tribute to the Imperial leadership that spearheaded one of the saga’s most iconic battles "
-        ],
-        "stakes_bullets": [
-          "• Hot Toys is adding another snowtrooper to its Imperial ranks with the addition of the Snowtrooper Commander (MMS835) The figure is a highly detailed tribute to the Imperial leadership that spearheaded one of the saga’s most iconic battles "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "7d11c3e36e82"
     },
     {
       "id": "be58890baccb",
@@ -4569,42 +4338,6 @@
       "cluster_id": "e8ac82f303b1"
     },
     {
-      "id": "f4844351ce7e",
-      "title": "Jasmine Crockett, leaning toward Senate bid, schedules campaign event Monday",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17221082/jasmine-crockett-senate-texas-allred-talarico",
-      "published_at": "Tue, 02 Dec 2025 22:28:37 +0000",
-      "bullets": [
-        "• U.S",
-        "• Rep",
-        "• Jasmine Crockett, D-Dallas, appears to be inching closer to a Senate bid",
-        "• She has teased a Senate run for weeks, saying she was exploring the possibility via polling",
-        "• She scheduled a “special announcement’s announcement” for Monday "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• Rep"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• Rep"
-        ],
-        "stakes_bullets": [
-          "• U.S",
-          "• Rep",
-          "• Jasmine Crockett, D-Dallas, appears to be inching closer to a Senate bid"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "f7cac382cdcd"
-    },
-    {
       "id": "5cba7b3bec4f",
       "title": "As Countries Take Steps to Protect Wildlife in Legal Trade, Animal and Plant Trafficking Rages On",
       "outlet": "Inside Climate News",
@@ -4664,38 +4397,6 @@
       "cluster_id": "cc8b03be30bd"
     },
     {
-      "id": "87a916cec7e4",
-      "title": "White House defends strikes on boat survivors, but it's unclear where the buck stops",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/02/nx-s1-5628308/trump-hegseth-boat-strikes",
-      "published_at": "Tue, 02 Dec 2025 20:25:48 -0500",
-      "bullets": [
-        "• White House defends strikes on boat survivors, but it's unclear where the buck stops",
-        "• Defense Secretary Pete Hegseth: \"I watched that first strike live",
-        "• So I moved on to my next meeting\" Some in Congress suggest the orders are illegal and could leave service members facing prosecution "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• White House defends strikes on boat survivors, but it's unclear where the buck stops",
-          "• Defense Secretary Pete Hegseth: \"I watched that first strike live"
-        ],
-        "hopeful_bullets": [
-          "• White House defends strikes on boat survivors, but it's unclear where the buck stops",
-          "• Defense Secretary Pete Hegseth: \"I watched that first strike live"
-        ],
-        "stakes_bullets": [
-          "• So I moved on to my next meeting\" Some in Congress suggest the orders are illegal and could leave service members facing prosecution "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "56695e6dbb91"
-    },
-    {
       "id": "040e1b155bfc",
       "title": "Trump administration puts Fema workers back on administrative leave",
       "outlet": "Environment | The Guardian",
@@ -4726,42 +4427,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "8b7442e03240"
-    },
-    {
-      "id": "e4a732aa3968",
-      "title": "Webb County Judge Tano Tijerina launches run for Congress, seeking to flip South Texas district red",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17221024/webb-county-judge-tano-tijerina-congressional-run",
-      "published_at": "Tue, 02 Dec 2025 20:20:00 +0000",
-      "bullets": [
-        "• Webb County Judge Tano Tijerina launches his bid to run as a Republican for South Texas’ 28th Congressional District",
-        "• The district covers all of Webb County, which is both Webb County and U.S",
-        "• Rep",
-        "• Henry Cuellar’s home base",
-        "• National GOP recruiters see Webb County's top elected official as a promising candidate "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Webb County Judge Tano Tijerina launches his bid to run as a Republican for South Texas’ 28th Congressional District",
-          "• The district covers all of Webb County, which is both Webb County and U.S"
-        ],
-        "hopeful_bullets": [
-          "• Webb County Judge Tano Tijerina launches his bid to run as a Republican for South Texas’ 28th Congressional District",
-          "• The district covers all of Webb County, which is both Webb County and U.S"
-        ],
-        "stakes_bullets": [
-          "• Webb County Judge Tano Tijerina launches his bid to run as a Republican for South Texas’ 28th Congressional District",
-          "• The district covers all of Webb County, which is both Webb County and U.S",
-          "• Rep"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "061f8f4759ed"
     },
     {
       "id": "74b803657c03",
@@ -4994,38 +4659,6 @@
       "cluster_id": "8348ee98ae28"
     },
     {
-      "id": "c89c26d1e8f8",
-      "title": "In Burned Forests, the West’s Snowpack Is Melting Earlier",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/02122025/wildfires-snowpack-in-the-west/",
-      "published_at": "Tue, 02 Dec 2025 09:55:00 +0000",
-      "bullets": [
-        "• A new study finds that in the aftermath of a wildfire, the snowpack melts earlier in the region",
-        "• This can affect the water supply to wildlife and water infrastructure",
-        "• In the first year after a fire, snow melts in 99% of the snow zone "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.857
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A new study finds that in the aftermath of a wildfire, the snowpack melts earlier in the region",
-          "• This can affect the water supply to wildlife and water infrastructure"
-        ],
-        "hopeful_bullets": [
-          "• A new study finds that in the aftermath of a wildfire, the snowpack melts earlier in the region",
-          "• This can affect the water supply to wildlife and water infrastructure"
-        ],
-        "stakes_bullets": [
-          "• This can affect the water supply to wildlife and water infrastructure"
-        ]
-      },
-      "read_minutes": 13,
-      "cluster_id": "fa729f7502e1"
-    },
-    {
       "id": "2ebb9ebcde07",
       "title": "Hayden Joins Ahsoka w/ Scott Ryfun – SWR #478",
       "outlet": "The Star Wars Report Podcast",
@@ -5058,41 +4691,6 @@
       },
       "read_minutes": 40,
       "cluster_id": "8af4054e818a"
-    },
-    {
-      "id": "096f2d797fc2",
-      "title": "TVC15: ARC Trooper Commander (VC54)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-27-tvc15-arc-trooper-commander-vc54/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-arc-trooper-commander-vc54",
-      "published_at": "Thu, 27 Nov 2025 22:54:51 +0000",
-      "bullets": [
-        "• ARC Trooper Commander is one of the highlights of The Vintage Collection",
-        "• Hasbro intended this action figure to represent the Volume 1 and Volume 2 versions of Captain Fordo",
-        "• It remains one of our most cherished figures to date",
-        "• Please leave your thoughts and memories in the RDR comments "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• ARC Trooper Commander is one of the highlights of The Vintage Collection",
-          "• Hasbro intended this action figure to represent the Volume 1 and Volume 2 versions of Captain Fordo"
-        ],
-        "hopeful_bullets": [
-          "• ARC Trooper Commander is one of the highlights of The Vintage Collection",
-          "• Hasbro intended this action figure to represent the Volume 1 and Volume 2 versions of Captain Fordo"
-        ],
-        "stakes_bullets": [
-          "• ARC Trooper Commander is one of the highlights of The Vintage Collection",
-          "• Hasbro intended this action figure to represent the Volume 1 and Volume 2 versions of Captain Fordo",
-          "• It remains one of our most cherished figures to date"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "22e2b0137efc"
     },
     {
       "id": "bfc62db5c94e",
@@ -5619,98 +5217,232 @@
       "cluster_id": "61932cf045ef"
     },
     {
-      "id": "bf1e8806226d",
-      "title": "Software startup deploys Singapore’s first quantum computer for commercial use",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/horizon-quantum-software-startup-deploys-singapores-first-quantum-computer-for-commercial-use.html",
-      "published_at": "Thu, 04 Dec 2025 09:11:47 GMT",
+      "id": "1c972b57c7da",
+      "title": "Federal lawsuits challenging immigration detention flood Texas",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17222133/texas-immigrants-deportation-cases-habeas-corpus-detention",
+      "published_at": "Thu, 04 Dec 2025 11:00:00 +0000",
       "bullets": [
-        "• Singapore-based software firm Horizon Quantum says it has become first private company to run a quantum computer for commercial use in the city-state",
-        "• The start-up hopes to use its new hardware to accelerate development of real-world quantum applications across industries, from pharmaceuticals to finance "
+        "• Lawsuits challenging immigration detention have flooded federal courts in Texas",
+        "• They are part of a national wave of habeas corpus petitions launched to counter the Trump administration’s efforts to keep migrants locked up and push them toward deportation",
+        "• As of mid-November, more than 65,100 people were in ICE detention nationwide "
       ],
-      "category": "Business",
+      "category": "Texas",
       "sentiment": {
-        "label": "positive",
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Lawsuits challenging immigration detention have flooded federal courts in Texas",
+          "• They are part of a national wave of habeas corpus petitions launched to counter the Trump administration’s efforts to keep migrants locked up and push them toward deportation"
+        ],
+        "hopeful_bullets": [
+          "• Lawsuits challenging immigration detention have flooded federal courts in Texas",
+          "• They are part of a national wave of habeas corpus petitions launched to counter the Trump administration’s efforts to keep migrants locked up and push them toward deportation"
+        ],
+        "stakes_bullets": [
+          "• Lawsuits challenging immigration detention have flooded federal courts in Texas",
+          "• They are part of a national wave of habeas corpus petitions launched to counter the Trump administration’s efforts to keep migrants locked up and push them toward deportation",
+          "• As of mid-November, more than 65,100 people were in ICE detention nationwide "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "939a789f6d1d"
+    },
+    {
+      "id": "444aebc0a444",
+      "title": "Running water will finally reach West Odessa thanks to $17 million from state lawmakers",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17222134/west-texas-odessa-water-system-upgrade",
+      "published_at": "Thu, 04 Dec 2025 11:00:00 +0000",
+      "bullets": [
+        "• Despite the boom, there is still no access to clean and reliable drinking water in West Odessa, Texas",
+        "• A new $17 million project paid for by the Texas Legislature will expand water infrastructure",
+        "• The one-time state investment offers another reminder that scores of Texans still lack access to running water",
+        "• Most Texans without water typically live outside municipal boundaries "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
         "score": 0.986
       },
       "moods": {
         "brief_bullets": [
-          "• Singapore-based software firm Horizon Quantum says it has become first private company to run a quantum computer for commercial use in the city-state",
-          "• The start-up hopes to use its new hardware to accelerate development of real-world quantum applications across industries, from pharmaceuticals to finance "
+          "• Despite the boom, there is still no access to clean and reliable drinking water in West Odessa, Texas",
+          "• A new $17 million project paid for by the Texas Legislature will expand water infrastructure"
         ],
         "hopeful_bullets": [
-          "• The start-up hopes to use its new hardware to accelerate development of real-world quantum applications across industries, from pharmaceuticals to finance "
+          "• Despite the boom, there is still no access to clean and reliable drinking water in West Odessa, Texas",
+          "• A new $17 million project paid for by the Texas Legislature will expand water infrastructure"
         ],
         "stakes_bullets": [
-          "• Singapore-based software firm Horizon Quantum says it has become first private company to run a quantum computer for commercial use in the city-state",
-          "• The start-up hopes to use its new hardware to accelerate development of real-world quantum applications across industries, from pharmaceuticals to finance "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "69463fa3a8e8"
-    },
-    {
-      "id": "a9b154fde580",
-      "title": "Ukraine, trade, pandas: What China's Xi and France's Macron discussed in Beijing",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/china-france-xi-macron-meeting-beijing-ukraine.html",
-      "published_at": "Thu, 04 Dec 2025 09:06:00 GMT",
-      "bullets": [
-        "• China says it's open to importing more goods from France in exchange for a \"fair, conducive environment\" for Chinese businesses in the European nation",
-        "• French President Emmanuel Macron says he welcomed Beijing's \"renewed willingness to facilitate access to the Chinese market for French products, particularly agricultural goods\" The two leaders also signed several deals covering energy, agriculture, education and environment "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China says it's open to importing more goods from France in exchange for a \"fair, conducive environment\" for Chinese businesses in the European nation",
-          "• French President Emmanuel Macron says he welcomed Beijing's \"renewed willingness to facilitate access to the Chinese market for French products, particularly agricultural goods\" The two leaders also signed several deals covering energy, agriculture, education and environment "
-        ],
-        "hopeful_bullets": [
-          "• China says it's open to importing more goods from France in exchange for a \"fair, conducive environment\" for Chinese businesses in the European nation",
-          "• French President Emmanuel Macron says he welcomed Beijing's \"renewed willingness to facilitate access to the Chinese market for French products, particularly agricultural goods\" The two leaders also signed several deals covering energy, agriculture, education and environment "
-        ],
-        "stakes_bullets": [
-          "• French President Emmanuel Macron says he welcomed Beijing's \"renewed willingness to facilitate access to the Chinese market for French products, particularly agricultural goods\" The two leaders also signed several deals covering energy, agriculture, education and environment "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "f7f1917d8560"
-    },
-    {
-      "id": "09a49502f78f",
-      "title": "Inside Europe’s biggest rare earths factory on Russia's doorstep",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/taking-on-china-from-russias-border-inside-neos-rare-earths-factory.html",
-      "published_at": "Thu, 04 Dec 2025 09:00:33 GMT",
-      "bullets": [
-        "• The continent's largest rare-earth facility is ramping up magnet production in Estonia",
-        "• The facility is situated on the edge of NATO's eastern flank",
-        "• Magnets made from rare earths are essential components for the function of modern technology",
-        "• Analysts expect the facility to play an integral role in Europe's plan to reduce its dependence on China "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The continent's largest rare-earth facility is ramping up magnet production in Estonia",
-          "• The facility is situated on the edge of NATO's eastern flank"
-        ],
-        "hopeful_bullets": [
-          "• Analysts expect the facility to play an integral role in Europe's plan to reduce its dependence on China "
-        ],
-        "stakes_bullets": [
-          "• Analysts expect the facility to play an integral role in Europe's plan to reduce its dependence on China "
+          "• A new $17 million project paid for by the Texas Legislature will expand water infrastructure"
         ]
       },
       "read_minutes": 5,
-      "cluster_id": "9088d36671d3"
+      "cluster_id": "1421f1bd8bf4"
+    },
+    {
+      "id": "c78f30dfbada",
+      "title": "Meta faces Europe antitrust investigation over WhatsApp AI policy",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/04/meta-faces-europe-antitrust-investigation-over-whatsapp-ai-rollout.html",
+      "published_at": "Thu, 04 Dec 2025 10:33:19 GMT",
+      "bullets": [
+        "• Meta has been hit with an EU antitrust investigation over its use of AI features in WhatsApp",
+        "• The probe will examine whether Meta's policy on allowing AI providers' access to WhatsApp may breach EU competition rules",
+        "• It comes months on from the European Commission finning Google 2.95 billion euros for breaching antitrust rules "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Meta has been hit with an EU antitrust investigation over its use of AI features in WhatsApp",
+          "• The probe will examine whether Meta's policy on allowing AI providers' access to WhatsApp may breach EU competition rules"
+        ],
+        "hopeful_bullets": [
+          "• The probe will examine whether Meta's policy on allowing AI providers' access to WhatsApp may breach EU competition rules"
+        ],
+        "stakes_bullets": [
+          "• The probe will examine whether Meta's policy on allowing AI providers' access to WhatsApp may breach EU competition rules",
+          "• It comes months on from the European Commission finning Google 2.95 billion euros for breaching antitrust rules "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "881e135ea889"
+    },
+    {
+      "id": "7aef0f3398d5",
+      "title": "Previously unseen images of Epstein's island released",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g5rrlve33o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 04 Dec 2025 10:31:44 GMT",
+      "bullets": [
+        "• Previously unseen images of Little St James have been released",
+        "• The images show a room with a phone with names written on it",
+        "• They are part of a new set of documents released by the House of Representatives",
+        "• The pictures were released in response to a bill signed by President Trump "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Previously unseen images of Little St James have been released",
+          "• The images show a room with a phone with names written on it"
+        ],
+        "hopeful_bullets": [
+          "• Previously unseen images of Little St James have been released",
+          "• The images show a room with a phone with names written on it"
+        ],
+        "stakes_bullets": [
+          "• The pictures were released in response to a bill signed by President Trump "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "edf8a15f515a"
+    },
+    {
+      "id": "57fdb660e3a2",
+      "title": "Europe's plan to use $105 billion of frozen Russian assets tantamount to war, says Russia's Medvedev",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/04/russia-europes-use-of-frozen-assets-could-be-justification-for-war-.html",
+      "published_at": "Thu, 04 Dec 2025 10:28:11 GMT",
+      "bullets": [
+        "• The European Commission is looking at how to use frozen Russian assets held in Europe to further support Ukraine",
+        "• The move could be tantamount to an act justifying war, Dmitry Medvedev said",
+        "• The Commission has argued that the move is not theft, given it would be a loan "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.946
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The European Commission is looking at how to use frozen Russian assets held in Europe to further support Ukraine",
+          "• The move could be tantamount to an act justifying war, Dmitry Medvedev said"
+        ],
+        "hopeful_bullets": [
+          "• The European Commission is looking at how to use frozen Russian assets held in Europe to further support Ukraine",
+          "• The move could be tantamount to an act justifying war, Dmitry Medvedev said"
+        ],
+        "stakes_bullets": [
+          "• The move could be tantamount to an act justifying war, Dmitry Medvedev said"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "47badd5bffac"
+    },
+    {
+      "id": "f9b4e2c468bf",
+      "title": "RFK Jr.'s vaccine panel to vote on changing hepatitis B shot recommendation for babies",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/04/rfk-jr-vaccine-vote-hepatitis-b-babies.html",
+      "published_at": "Thu, 04 Dec 2025 10:00:01 GMT",
+      "bullets": [
+        "• Health and Human Services Secretary Robert F",
+        "• Kennedy Jr.'s hand-picked vaccine committee is set to vote Thursday on whether to change a longstanding recommendation that every baby get vaccinated against hepatitis B within 24 hours of birth",
+        "• It's unclear if the panel will significantly delay or eliminate that so-called birth dose of the shot entirely "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Health and Human Services Secretary Robert F",
+          "• Kennedy Jr.'s hand-picked vaccine committee is set to vote Thursday on whether to change a longstanding recommendation that every baby get vaccinated against hepatitis B within 24 hours of birth"
+        ],
+        "hopeful_bullets": [
+          "• Kennedy Jr.'s hand-picked vaccine committee is set to vote Thursday on whether to change a longstanding recommendation that every baby get vaccinated against hepatitis B within 24 hours of birth"
+        ],
+        "stakes_bullets": [
+          "• It's unclear if the panel will significantly delay or eliminate that so-called birth dose of the shot entirely "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "3bd4eb550670"
+    },
+    {
+      "id": "452e261eb539",
+      "title": "After Missing 2025 Goals, Chesapeake Bay Leaders Agree on Longer Timeline and Tribal Role in Cleanup",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/04122025/chesapeake-executive-council-bay-cleanup/",
+      "published_at": "Thu, 04 Dec 2025 10:00:00 +0000",
+      "bullets": [
+        "• The Chesapeake Executive Council adopts a revised Bay Watershed Agreement",
+        "• The updated agreement extends the region’s long-missed pollution timeline to 2040",
+        "• The council also names the next chair of the council",
+        "• The move signifies the first step toward formally inviting Indigenous participation in the Bay governance "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Chesapeake Executive Council adopts a revised Bay Watershed Agreement",
+          "• The updated agreement extends the region’s long-missed pollution timeline to 2040"
+        ],
+        "hopeful_bullets": [
+          "• The Chesapeake Executive Council adopts a revised Bay Watershed Agreement",
+          "• The updated agreement extends the region’s long-missed pollution timeline to 2040"
+        ],
+        "stakes_bullets": [
+          "• The Chesapeake Executive Council adopts a revised Bay Watershed Agreement"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "a5fc92a28bf3"
     },
     {
       "id": "7f3866ac67f8",
@@ -6075,6 +5807,39 @@
       "cluster_id": "48a669819edc"
     },
     {
+      "id": "649bf88701ca",
+      "title": "'New York Times' sues Pentagon over media restrictions",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/04/nx-s1-5631838/new-york-times-pentagon-defense-hegseth-lawsuit",
+      "published_at": "Thu, 04 Dec 2025 05:29:36 -0500",
+      "bullets": [
+        "• The New York Times sues Pentagon over new policy that bans journalists reporting unclassified material",
+        "• Defense Secretary Pete Hegseth's private Signal chats with senior government officials about pending U.S",
+        "• airstrikes in Yemen could have placed American troops in harm's way "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The New York Times sues Pentagon over new policy that bans journalists reporting unclassified material",
+          "• Defense Secretary Pete Hegseth's private Signal chats with senior government officials about pending U.S"
+        ],
+        "hopeful_bullets": [
+          "• The New York Times sues Pentagon over new policy that bans journalists reporting unclassified material",
+          "• Defense Secretary Pete Hegseth's private Signal chats with senior government officials about pending U.S"
+        ],
+        "stakes_bullets": [
+          "• The New York Times sues Pentagon over new policy that bans journalists reporting unclassified material",
+          "• airstrikes in Yemen could have placed American troops in harm's way "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "d49bbadd7062"
+    },
+    {
       "id": "6ffde679a56a",
       "title": "Israel identifies hostage remains as Thai national",
       "outlet": "BBC News",
@@ -6117,12 +5882,12 @@
         "• 'The apprehension is palpable': Minnesota's Somali community braces for immigration crackdown",
         "• US President Donald Trump intensified his criticism of the community this week",
         "• Community leaders say the \"apprehension is palpable\" following the comments",
-        "• Concern has also intensified because of reports that officials have begun an enforcement operation in Minnesota "
+        "• Reports that officials have begun an enforcement operation in Minnesota targeting undocumented immigrants "
       ],
       "category": "World",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.63
+        "label": "negative",
+        "score": 0.86
       },
       "moods": {
         "brief_bullets": [
@@ -6133,12 +5898,43 @@
           "• Community leaders say the \"apprehension is palpable\" following the comments"
         ],
         "stakes_bullets": [
-          "• Community leaders say the \"apprehension is palpable\" following the comments",
-          "• Concern has also intensified because of reports that officials have begun an enforcement operation in Minnesota "
+          "• Community leaders say the \"apprehension is palpable\" following the comments"
         ]
       },
       "read_minutes": 4,
       "cluster_id": "087d4cbf4207"
+    },
+    {
+      "id": "71167a5373a4",
+      "title": "'There's no 911 for us': inside America's elite urban search and rescue teams",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/04/nx-s1-5597039/fema-search-rescue-hurricane-wildfire-disaster",
+      "published_at": "Thu, 04 Dec 2025 05:15:00 -0500",
+      "bullets": [
+        "• Urban search and rescue teams save lives and recover human remains after the biggest calamities",
+        "• They were the ones who rescued people from rushing water during Hurricanes Helene and Milton last year",
+        "• They searched through burned homes after wildfires in Lahaina, Hawaii and Los Angeles, Calif"
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Urban search and rescue teams save lives and recover human remains after the biggest calamities",
+          "• They were the ones who rescued people from rushing water during Hurricanes Helene and Milton last year"
+        ],
+        "hopeful_bullets": [
+          "• Urban search and rescue teams save lives and recover human remains after the biggest calamities",
+          "• They were the ones who rescued people from rushing water during Hurricanes Helene and Milton last year"
+        ],
+        "stakes_bullets": [
+          "• Urban search and rescue teams save lives and recover human remains after the biggest calamities"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "cef84be6d248"
     },
     {
       "id": "fade1fae8df8",
@@ -6242,6 +6038,143 @@
       },
       "read_minutes": 3,
       "cluster_id": "878e2d229925"
+    },
+    {
+      "id": "ee6db8af4c23",
+      "title": "In an era of rising prices, computers have gotten cheaper. (And why that may end)",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/04/nx-s1-5609211/cost-of-living-cheaper-computers",
+      "published_at": "Thu, 04 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• In an era of rising prices, computers have gotten cheaper",
+        "• Today's entry-level MacBook Pro starts at $1,599",
+        "• It has a 14-inch screen, 16 gigabytes of memory and a 512-gigabyte internal solid-state hard drive",
+        "• The comparable MacBook Pro from five years ago, with the same memory and storage, cost $1.799"
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In an era of rising prices, computers have gotten cheaper",
+          "• Today's entry-level MacBook Pro starts at $1,599"
+        ],
+        "hopeful_bullets": [
+          "• In an era of rising prices, computers have gotten cheaper",
+          "• Today's entry-level MacBook Pro starts at $1,599"
+        ],
+        "stakes_bullets": [
+          "• In an era of rising prices, computers have gotten cheaper",
+          "• Today's entry-level MacBook Pro starts at $1,599",
+          "• It has a 14-inch screen, 16 gigabytes of memory and a 512-gigabyte internal solid-state hard drive"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e163f6471b62"
+    },
+    {
+      "id": "de794795f4f9",
+      "title": "U.S. health care is broken. Here are 3 ways it's getting worse",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/04/nx-s1-5629211/health-care-broken-costs-united-health-investors",
+      "published_at": "Thu, 04 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• One year after UnitedHealthcare's CEO was shot and killed, the crisis in U.S",
+        "• health care has gotten worse",
+        "• The costs of both Obamacare and employer-sponsored insurance plans are set to skyrocket next year",
+        "• Even as costs surge, the companies and the investors who profit from this business are also struggling financially "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One year after UnitedHealthcare's CEO was shot and killed, the crisis in U.S",
+          "• health care has gotten worse"
+        ],
+        "hopeful_bullets": [
+          "• Even as costs surge, the companies and the investors who profit from this business are also struggling financially "
+        ],
+        "stakes_bullets": [
+          "• The costs of both Obamacare and employer-sponsored insurance plans are set to skyrocket next year",
+          "• Even as costs surge, the companies and the investors who profit from this business are also struggling financially "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "fac2a88f436b"
+    },
+    {
+      "id": "1f18e1eec063",
+      "title": "Announcing the NPR Student Podcast Challenge for 2026 — and a very special prize!",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/04/nx-s1-5616423/npr-student-podcast-challenge-launch-2026",
+      "published_at": "Thu, 04 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• NPR's Student Podcast Challenge is back for 2026",
+        "• The contest is still open to podcasts on any topic",
+        "• It's open to middle school, high school and fourth grade podcasts",
+        "• The competition will open on Jan",
+        "• 5 and close on June 5, but the deadline is May 1 "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.695
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NPR's Student Podcast Challenge is back for 2026",
+          "• The contest is still open to podcasts on any topic"
+        ],
+        "hopeful_bullets": [
+          "• NPR's Student Podcast Challenge is back for 2026",
+          "• The contest is still open to podcasts on any topic"
+        ],
+        "stakes_bullets": [
+          "• The competition will open on Jan",
+          "• 5 and close on June 5, but the deadline is May 1 "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "2ebaf61e9a46"
+    },
+    {
+      "id": "7515edae4797",
+      "title": "Hepatitis B: What parents should know about the virus and the vaccine",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/12/04/nx-s1-5629168/hepatitis-b-vaccine-kids-health",
+      "published_at": "Thu, 04 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• An advisory committee to the CDC is expected to vote Thursday on whether to rescind the recommendation",
+        "• The hepatitis B virus has no cure and can lead to liver cancer, cirrhosis and death",
+        "• Delaying the vaccine until age 12, as President Trump suggested, could result in at least 2,700 preventable infections each year "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• An advisory committee to the CDC is expected to vote Thursday on whether to rescind the recommendation",
+          "• The hepatitis B virus has no cure and can lead to liver cancer, cirrhosis and death"
+        ],
+        "hopeful_bullets": [
+          "• An advisory committee to the CDC is expected to vote Thursday on whether to rescind the recommendation",
+          "• The hepatitis B virus has no cure and can lead to liver cancer, cirrhosis and death"
+        ],
+        "stakes_bullets": [
+          "• An advisory committee to the CDC is expected to vote Thursday on whether to rescind the recommendation",
+          "• The hepatitis B virus has no cure and can lead to liver cancer, cirrhosis and death",
+          "• Delaying the vaccine until age 12, as President Trump suggested, could result in at least 2,700 preventable infections each year "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "1cdc9ee30d1e"
     },
     {
       "id": "cce88e5d86cd",
@@ -6413,38 +6346,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "281db19b0743"
-    },
-    {
-      "id": "55c6cb24734f",
-      "title": "Bank of Japan faces a policy dilemma as government bond yields keep hitting new highs",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/japan-record-high-jgb-yields-boj-policy-rate.html",
-      "published_at": "Thu, 04 Dec 2025 04:10:16 GMT",
-      "bullets": [
-        "• Japan's central bank is caught in a bind as soaring government bond yields risk upending its policy normalization process",
-        "• The Bank of Japan faces a stark choice: sticking with its policy of raising rates and risking even higher yields",
-        "• The 20-year JGB yield reached 2.936%, a level not seen since 1999, while 30-year hit a record high of 3.436% "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's central bank is caught in a bind as soaring government bond yields risk upending its policy normalization process",
-          "• The Bank of Japan faces a stark choice: sticking with its policy of raising rates and risking even higher yields"
-        ],
-        "hopeful_bullets": [
-          "• The 20-year JGB yield reached 2.936%, a level not seen since 1999, while 30-year hit a record high of 3.436% "
-        ],
-        "stakes_bullets": [
-          "• Japan's central bank is caught in a bind as soaring government bond yields risk upending its policy normalization process",
-          "• The Bank of Japan faces a stark choice: sticking with its policy of raising rates and risking even higher yields"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f1b35700356a"
     },
     {
       "id": "c0b475c06d7d",
@@ -6669,6 +6570,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "7d34563b8a64"
+    },
+    {
+      "id": "5017d05626a7",
+      "title": "Trump's South Korea tariff cuts are major boost for Hyundai and GM",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/03/trump-south-korea-tariffs-vehicles-hyundai-gm.html",
+      "published_at": "Thu, 04 Dec 2025 02:22:10 GMT",
+      "bullets": [
+        "• Hyundai is the largest U.S",
+        "• importer of new vehicles from South Korea, followed by GM",
+        "• Both automakers have paid billions of dollars in levies so far this year after President Trump placed 25% tariffs on imported vehicles",
+        "• The Trump administration this past week confirmed plans to lower tariffs on certain products "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hyundai is the largest U.S",
+          "• importer of new vehicles from South Korea, followed by GM"
+        ],
+        "hopeful_bullets": [
+          "• Hyundai is the largest U.S",
+          "• importer of new vehicles from South Korea, followed by GM"
+        ],
+        "stakes_bullets": [
+          "• Both automakers have paid billions of dollars in levies so far this year after President Trump placed 25% tariffs on imported vehicles",
+          "• The Trump administration this past week confirmed plans to lower tariffs on certain products "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "88ae15f98268"
     },
     {
       "id": "466060aeefec",
@@ -7066,40 +7001,6 @@
       "cluster_id": "8051aeffa43b"
     },
     {
-      "id": "7aef0f3398d5",
-      "title": "Previously unseen images of Epstein's island released",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g5rrlve33o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 04 Dec 2025 00:02:54 GMT",
-      "bullets": [
-        "• Previously unseen images of Epstein's island released by House Oversight Committee",
-        "• Photographs and video appear to show several bedrooms in the US Virgin Islands home",
-        "• Multiple survivors have alleged that they were trafficked to and abused on the island, known as Little St James, which Epstein purchased in 1998 "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Previously unseen images of Epstein's island released by House Oversight Committee",
-          "• Photographs and video appear to show several bedrooms in the US Virgin Islands home"
-        ],
-        "hopeful_bullets": [
-          "• Previously unseen images of Epstein's island released by House Oversight Committee",
-          "• Photographs and video appear to show several bedrooms in the US Virgin Islands home"
-        ],
-        "stakes_bullets": [
-          "• Previously unseen images of Epstein's island released by House Oversight Committee",
-          "• Photographs and video appear to show several bedrooms in the US Virgin Islands home",
-          "• Multiple survivors have alleged that they were trafficked to and abused on the island, known as Little St James, which Epstein purchased in 1998 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "edf8a15f515a"
-    },
-    {
       "id": "74ff9cee9e5a",
       "title": "UK farmers lose £800m after heat and drought cause one of worst harvests on record",
       "outlet": "Environment | The Guardian",
@@ -7130,38 +7031,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "16bbe8571fcd"
-    },
-    {
-      "id": "b290307dffc7",
-      "title": "TVC15: Boba Fett (VCP03)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-29-tvc15-boba-fett-vcp03/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-boba-fett-vcp03",
-      "published_at": "Sun, 30 Nov 2025 03:41:20 +0000",
-      "bullets": [
-        "• Hasbro released the first mail-away figure with a promotion running through the first three waves of The Vintage Collection",
-        "• Boba Fett was chosen, and they recreated the four-point articulation figure with the feature that never made it out to the public "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hasbro released the first mail-away figure with a promotion running through the first three waves of The Vintage Collection",
-          "• Boba Fett was chosen, and they recreated the four-point articulation figure with the feature that never made it out to the public "
-        ],
-        "hopeful_bullets": [
-          "• Hasbro released the first mail-away figure with a promotion running through the first three waves of The Vintage Collection",
-          "• Boba Fett was chosen, and they recreated the four-point articulation figure with the feature that never made it out to the public "
-        ],
-        "stakes_bullets": [
-          "• Hasbro released the first mail-away figure with a promotion running through the first three waves of The Vintage Collection",
-          "• Boba Fett was chosen, and they recreated the four-point articulation figure with the feature that never made it out to the public "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "ef93b3caeeff"
     },
     {
       "id": "b72963244510",
@@ -7366,38 +7235,6 @@
       },
       "read_minutes": 40,
       "cluster_id": "077fbd269b7a"
-    },
-    {
-      "id": "f2ed235452ab",
-      "title": "TVC15: Bounty Hunters (30th Anniversary Exclusive) [4-LOM (VCP01)/Zuckuss (VCP02)]",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-28-tvc15-bounty-hunters-30th-anniversary-exclusive-4-lom-vcp01-zuckuss-vcp02/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-bounty-hunters-30th-anniversary-exclusive-4-lom-vcp01-zuckuss-vcp02",
-      "published_at": "Sat, 29 Nov 2025 04:39:09 +0000",
-      "bullets": [
-        "• Hasbro launched The Vintage Collection with a special release entitled “Bounty Hunters” The set comprised a two-pack of basic action figures, but with a twist",
-        "• Hasbro recast the previously released toolings in the original Kenner colors, and for added measure, misidentified them exactly as Kenner did in 1982 "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.915
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hasbro launched The Vintage Collection with a special release entitled “Bounty Hunters” The set comprised a two-pack of basic action figures, but with a twist",
-          "• Hasbro recast the previously released toolings in the original Kenner colors, and for added measure, misidentified them exactly as Kenner did in 1982 "
-        ],
-        "hopeful_bullets": [
-          "• Hasbro launched The Vintage Collection with a special release entitled “Bounty Hunters” The set comprised a two-pack of basic action figures, but with a twist",
-          "• Hasbro recast the previously released toolings in the original Kenner colors, and for added measure, misidentified them exactly as Kenner did in 1982 "
-        ],
-        "stakes_bullets": [
-          "• Hasbro launched The Vintage Collection with a special release entitled “Bounty Hunters” The set comprised a two-pack of basic action figures, but with a twist",
-          "• Hasbro recast the previously released toolings in the original Kenner colors, and for added measure, misidentified them exactly as Kenner did in 1982 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "c5bbde92693a"
     },
     {
       "id": "c39d610858a7",
@@ -7937,38 +7774,6 @@
       "cluster_id": "a90c8852a51e"
     },
     {
-      "id": "d21d5fea027c",
-      "title": "TVC15: Jocasta Nu",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-12-01-tvc15-jocasta-nu/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-jocasta-nu",
-      "published_at": "Mon, 01 Dec 2025 20:49:23 +0000",
-      "bullets": [
-        "• Jocasta Nu is the only basic carded figure in the entire The Vintage Collection 1.0 lineup without a VC number",
-        "• Many collectors initially passed on this action figure, but today it commands a hefty three-digit premium",
-        "• Hasbro will likely never rerelease this character "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.935
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jocasta Nu is the only basic carded figure in the entire The Vintage Collection 1.0 lineup without a VC number",
-          "• Many collectors initially passed on this action figure, but today it commands a hefty three-digit premium"
-        ],
-        "hopeful_bullets": [
-          "• Jocasta Nu is the only basic carded figure in the entire The Vintage Collection 1.0 lineup without a VC number",
-          "• Many collectors initially passed on this action figure, but today it commands a hefty three-digit premium"
-        ],
-        "stakes_bullets": [
-          "• Hasbro will likely never rerelease this character "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "5876d8396d8d"
-    },
-    {
       "id": "8aff4d9425a8",
       "title": "Joe Davison’s “Sorority of the Damned” Screaming on Tubi",
       "outlet": "HorrorFix",
@@ -8063,34 +7868,6 @@
       "cluster_id": "80122221c047"
     },
     {
-      "id": "62912d9311ac",
-      "title": "Hot Toys Return of the Jedi Leia Organa (Boushh Disguise) (MMS854) 1/6 Scale Figure",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-12-01-hot-toys-return-of-the-jedi-leia-organa-boushh-disguise-mms854-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-return-of-the-jedi-leia-organa-boushh-disguise-mms854-1-6-scale-figure",
-      "published_at": "Mon, 01 Dec 2025 12:20:42 +0000",
-      "bullets": [
-        "• The latest Hot Toys drop features Return of the Jedi’s Leia Organa (Boushh Disguise) (MMS854) The figure features a newly developed helmeted head with detailed weathering, as well as a separate unhelmeted head sculpt of Carrie Fisher "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The latest Hot Toys drop features Return of the Jedi’s Leia Organa (Boushh Disguise) (MMS854) The figure features a newly developed helmeted head with detailed weathering, as well as a separate unhelmeted head sculpt of Carrie Fisher "
-        ],
-        "hopeful_bullets": [
-          "• The latest Hot Toys drop features Return of the Jedi’s Leia Organa (Boushh Disguise) (MMS854) The figure features a newly developed helmeted head with detailed weathering, as well as a separate unhelmeted head sculpt of Carrie Fisher "
-        ],
-        "stakes_bullets": [
-          "• The latest Hot Toys drop features Return of the Jedi’s Leia Organa (Boushh Disguise) (MMS854) The figure features a newly developed helmeted head with detailed weathering, as well as a separate unhelmeted head sculpt of Carrie Fisher "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "b67bb9865e3b"
-    },
-    {
       "id": "a6bd429e4248",
       "title": "The show must go on: keeping Britain’s musical heart beating",
       "outlet": "Positive News",
@@ -8120,40 +7897,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "341117306e5f"
-    },
-    {
-      "id": "7b3b4caf37d7",
-      "title": "TVC15: Boba Fett (Prototype Armor) (VC61)",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-11-30-tvc15-boba-fett-prototype-armor-vc61/?utm_source=rss&utm_medium=rss&utm_campaign=tvc15-boba-fett-prototype-armor-vc61",
-      "published_at": "Mon, 01 Dec 2025 01:49:14 +0000",
-      "bullets": [
-        "• Boba Fett (Prototype Armor) is the second mail-away figure for The Vintage Collection",
-        "• This time based on the prototype armor as the character was being developed for The Empire Strikes Back",
-        "• With very little newness, the big selling point here was a ‘white’ figure, and it quickly became one of the most sought-after action figures of 2011 "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Boba Fett (Prototype Armor) is the second mail-away figure for The Vintage Collection",
-          "• This time based on the prototype armor as the character was being developed for The Empire Strikes Back"
-        ],
-        "hopeful_bullets": [
-          "• Boba Fett (Prototype Armor) is the second mail-away figure for The Vintage Collection",
-          "• This time based on the prototype armor as the character was being developed for The Empire Strikes Back"
-        ],
-        "stakes_bullets": [
-          "• Boba Fett (Prototype Armor) is the second mail-away figure for The Vintage Collection",
-          "• This time based on the prototype armor as the character was being developed for The Empire Strikes Back",
-          "• With very little newness, the big selling point here was a ‘white’ figure, and it quickly became one of the most sought-after action figures of 2011 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "e821201dc1a9"
     },
     {
       "id": "0ff6c10d30e3",
@@ -9844,6 +9587,113 @@
       ]
     },
     {
+      "id": "d49bbadd7062",
+      "topic": "media pentagon restriction sues",
+      "keywords": [
+        "media",
+        "pentagon",
+        "restriction",
+        "sues",
+        "time",
+        "york"
+      ],
+      "item_ids": [
+        "649bf88701ca"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "cef84be6d248",
+      "topic": "911 america elite inside",
+      "keywords": [
+        "911",
+        "america",
+        "elite",
+        "inside",
+        "there",
+        "urban"
+      ],
+      "item_ids": [
+        "71167a5373a4"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "e163f6471b62",
+      "topic": "cheaper computer era gotten",
+      "keywords": [
+        "cheaper",
+        "computer",
+        "era",
+        "gotten",
+        "price",
+        "rising"
+      ],
+      "item_ids": [
+        "ee6db8af4c23"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "fac2a88f436b",
+      "topic": "broken care getting health",
+      "keywords": [
+        "broken",
+        "care",
+        "getting",
+        "health",
+        "here",
+        "ways"
+      ],
+      "item_ids": [
+        "de794795f4f9"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "2ebaf61e9a46",
+      "topic": "2026 announcing challenge npr",
+      "keywords": [
+        "2026",
+        "announcing",
+        "challenge",
+        "npr",
+        "podcast",
+        "student"
+      ],
+      "item_ids": [
+        "1f18e1eec063"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "1cdc9ee30d1e",
+      "topic": "hepatiti know parent vaccine",
+      "keywords": [
+        "hepatiti",
+        "know",
+        "parent",
+        "vaccine",
+        "viru"
+      ],
+      "item_ids": [
+        "7515edae4797"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "281db19b0743",
       "topic": "court fighting institute now",
       "keywords": [
@@ -9918,144 +9768,36 @@
       ]
     },
     {
-      "id": "406cb0d17c33",
-      "topic": "again filmmaker iran jafar",
+      "id": "3bd4eb550670",
+      "topic": "changing hepatiti panel rfk",
       "keywords": [
-        "again",
-        "filmmaker",
-        "iran",
-        "jafar",
-        "panahi",
-        "sentenced"
+        "changing",
+        "hepatiti",
+        "panel",
+        "rfk",
+        "vaccine",
+        "vote"
       ],
       "item_ids": [
-        "8975d9d0a38e"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "705a80764b88",
-      "topic": "administration back economy fuel",
-      "keywords": [
-        "administration",
-        "back",
-        "economy",
-        "fuel",
-        "roll",
-        "trump"
-      ],
-      "item_ids": [
-        "2a5331fe4a02"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "20c609adfae5",
-      "topic": "adviser cdc long meet",
-      "keywords": [
-        "adviser",
-        "cdc",
-        "long",
-        "meet",
-        "question",
-        "vaccine"
-      ],
-      "item_ids": [
-        "e7b56eb38662"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "97a79e76de8e",
-      "topic": "find hegseth pentagon risked",
-      "keywords": [
-        "find",
-        "hegseth",
-        "pentagon",
-        "risked",
-        "safety",
-        "watchdog"
-      ],
-      "item_ids": [
-        "46aacff45793"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "59dfca07d50d",
-      "topic": "media social third trump",
-      "keywords": [
-        "media",
-        "social",
-        "third",
-        "trump",
-        "uses",
-        "world"
-      ],
-      "item_ids": [
-        "6f5e46c7e29f"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "14c3c6b964fe",
-      "topic": "check cheese grated recalled",
-      "keywords": [
-        "check",
-        "cheese",
-        "grated",
-        "recalled",
-        "shredded",
-        "varietie"
-      ],
-      "item_ids": [
-        "021f507bb456"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "9088d36671d3",
-      "topic": "biggest earth europe factory",
-      "keywords": [
-        "biggest",
-        "earth",
-        "europe",
-        "factory",
-        "inside",
-        "rare"
-      ],
-      "item_ids": [
-        "09a49502f78f"
+        "f9b4e2c468bf"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "97f3d3601711",
-      "topic": "beat better earning expected",
+      "id": "881e135ea889",
+      "topic": "antitrust europe face investigation",
       "keywords": [
-        "beat",
-        "better",
-        "earning",
-        "expected",
-        "issue",
-        "salesforce"
+        "antitrust",
+        "europe",
+        "face",
+        "investigation",
+        "meta",
+        "whatsapp"
       ],
       "item_ids": [
-        "95f2a042856d"
+        "c78f30dfbada"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10080,42 +9822,6 @@
       ]
     },
     {
-      "id": "f7f1917d8560",
-      "topic": "china france macron panda",
-      "keywords": [
-        "china",
-        "france",
-        "macron",
-        "panda",
-        "trade",
-        "ukraine"
-      ],
-      "item_ids": [
-        "a9b154fde580"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "f1b35700356a",
-      "topic": "bank dilemma face government",
-      "keywords": [
-        "bank",
-        "dilemma",
-        "face",
-        "government",
-        "japan",
-        "policy"
-      ],
-      "item_ids": [
-        "55c6cb24734f"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "bcf03f661c85",
       "topic": "behind design executive glas",
       "keywords": [
@@ -10128,24 +9834,6 @@
       ],
       "item_ids": [
         "e8cd57333f82"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "69463fa3a8e8",
-      "topic": "deploy first quantum singapore",
-      "keywords": [
-        "deploy",
-        "first",
-        "quantum",
-        "singapore",
-        "software",
-        "startup"
-      ],
-      "item_ids": [
-        "bf1e8806226d"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10170,36 +9858,90 @@
       ]
     },
     {
-      "id": "b141f2477c69",
-      "topic": "epstein island jeffrey photo",
+      "id": "97f3d3601711",
+      "topic": "beat better earning expected",
       "keywords": [
-        "epstein",
-        "island",
-        "jeffrey",
-        "photo",
-        "released",
-        "video"
+        "beat",
+        "better",
+        "earning",
+        "expected",
+        "issue",
+        "salesforce"
       ],
       "item_ids": [
-        "546730c9a3e3"
+        "95f2a042856d"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "50000137350e",
-      "topic": "ceo chip huang jensen",
+      "id": "47badd5bffac",
+      "topic": "105 billion europe frozen",
       "keywords": [
-        "ceo",
-        "chip",
-        "huang",
-        "jensen",
-        "nvidia",
-        "talk"
+        "105",
+        "billion",
+        "europe",
+        "frozen",
+        "plan",
+        "use"
       ],
       "item_ids": [
-        "60434e7d42ad"
+        "57fdb660e3a2"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "88ae15f98268",
+      "topic": "cuts korea major south",
+      "keywords": [
+        "cuts",
+        "korea",
+        "major",
+        "south",
+        "tariff",
+        "trump"
+      ],
+      "item_ids": [
+        "5017d05626a7"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "49b130da25c5",
+      "topic": "2026 change cost drug",
+      "keywords": [
+        "2026",
+        "change",
+        "cost",
+        "drug",
+        "medicare",
+        "prescription"
+      ],
+      "item_ids": [
+        "93f60522dadb"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "3a400f2d1bd9",
+      "topic": "bill electric familie get",
+      "keywords": [
+        "bill",
+        "electric",
+        "familie",
+        "get",
+        "higher",
+        "stuck"
+      ],
+      "item_ids": [
+        "7395eb669720"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -11068,6 +10810,24 @@
       ]
     },
     {
+      "id": "954bdce0a552",
+      "topic": "onto table thanksgiving trotted",
+      "keywords": [
+        "onto",
+        "table",
+        "thanksgiving",
+        "trotted",
+        "turkey",
+        "way"
+      ],
+      "item_ids": [
+        "35863ee4867f"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
       "id": "57c1f5751537",
       "topic": "food lot place produce",
       "keywords": [
@@ -11086,21 +10846,21 @@
       ]
     },
     {
-      "id": "954bdce0a552",
-      "topic": "onto table thanksgiving trotted",
+      "id": "97a79e76de8e",
+      "topic": "find hegseth pentagon risked",
       "keywords": [
-        "onto",
-        "table",
-        "thanksgiving",
-        "trotted",
-        "turkey",
-        "way"
+        "find",
+        "hegseth",
+        "pentagon",
+        "risked",
+        "safety",
+        "watchdog"
       ],
       "item_ids": [
-        "35863ee4867f"
+        "46aacff45793"
       ],
       "outlets": [
-        "NPR Topics: Science"
+        "NPR Topics: Politics"
       ]
     },
     {
@@ -11206,24 +10966,6 @@
       ],
       "item_ids": [
         "c7ec57ba0ca6"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "56695e6dbb91",
-      "topic": "boat defend house strike",
-      "keywords": [
-        "boat",
-        "defend",
-        "house",
-        "strike",
-        "survivor",
-        "white"
-      ],
-      "item_ids": [
-        "87a916cec7e4"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11544,6 +11286,24 @@
       ]
     },
     {
+      "id": "a5fc92a28bf3",
+      "topic": "2025 bay chesapeake goal",
+      "keywords": [
+        "2025",
+        "bay",
+        "chesapeake",
+        "goal",
+        "leader",
+        "missing"
+      ],
+      "item_ids": [
+        "452e261eb539"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "9220c21aab2c",
       "topic": "administration economy fuel standard",
       "keywords": [
@@ -11682,24 +11442,6 @@
       ],
       "item_ids": [
         "c39e415ea3fd"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "fa729f7502e1",
-      "topic": "burned earlier forest melting",
-      "keywords": [
-        "burned",
-        "earlier",
-        "forest",
-        "melting",
-        "snowpack",
-        "west"
-      ],
-      "item_ids": [
-        "c89c26d1e8f8"
       ],
       "outlets": [
         "Inside Climate News"
@@ -12757,140 +12499,6 @@
       ],
       "outlets": [
         "HorrorFix"
-      ]
-    },
-    {
-      "id": "7d11c3e36e82",
-      "topic": "back empire hot snowtrooper",
-      "keywords": [
-        "back",
-        "empire",
-        "hot",
-        "snowtrooper",
-        "strike",
-        "toys"
-      ],
-      "item_ids": [
-        "adb7771da48c"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "5876d8396d8d",
-      "topic": "jocasta tvc15",
-      "keywords": [
-        "jocasta",
-        "tvc15"
-      ],
-      "item_ids": [
-        "d21d5fea027c"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "b67bb9865e3b",
-      "topic": "hot jedi leia organa",
-      "keywords": [
-        "hot",
-        "jedi",
-        "leia",
-        "organa",
-        "return",
-        "toys"
-      ],
-      "item_ids": [
-        "62912d9311ac"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "e821201dc1a9",
-      "topic": "armor boba fett prototype",
-      "keywords": [
-        "armor",
-        "boba",
-        "fett",
-        "prototype",
-        "tvc15",
-        "vc61"
-      ],
-      "item_ids": [
-        "7b3b4caf37d7"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "ef93b3caeeff",
-      "topic": "boba fett tvc15 vcp03",
-      "keywords": [
-        "boba",
-        "fett",
-        "tvc15",
-        "vcp03"
-      ],
-      "item_ids": [
-        "b290307dffc7"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "c5bbde92693a",
-      "topic": "30th anniversary bounty exclusive",
-      "keywords": [
-        "30th",
-        "anniversary",
-        "bounty",
-        "exclusive",
-        "hunter",
-        "tvc15"
-      ],
-      "item_ids": [
-        "f2ed235452ab"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "22e2b0137efc",
-      "topic": "arc commander trooper tvc15",
-      "keywords": [
-        "arc",
-        "commander",
-        "trooper",
-        "tvc15",
-        "vc54"
-      ],
-      "item_ids": [
-        "096f2d797fc2"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "404906aa0c7b",
-      "topic": "tvc15 vc20 yoda",
-      "keywords": [
-        "tvc15",
-        "vc20",
-        "yoda"
-      ],
-      "item_ids": [
-        "97b4fd99378e"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
       ]
     },
     {
@@ -14099,6 +13707,42 @@
       ]
     },
     {
+      "id": "939a789f6d1d",
+      "topic": "challenging detention federal flood",
+      "keywords": [
+        "challenging",
+        "detention",
+        "federal",
+        "flood",
+        "immigration",
+        "lawsuit"
+      ],
+      "item_ids": [
+        "1c972b57c7da"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "1421f1bd8bf4",
+      "topic": "finally odessa reach running",
+      "keywords": [
+        "finally",
+        "odessa",
+        "reach",
+        "running",
+        "water",
+        "west"
+      ],
+      "item_ids": [
+        "444aebc0a444"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "671f3d1537f5",
       "topic": "care former foster head",
       "keywords": [
@@ -14219,42 +13863,6 @@
       ],
       "item_ids": [
         "47101c3b0a05"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "061f8f4759ed",
-      "topic": "county judge launche tano",
-      "keywords": [
-        "county",
-        "judge",
-        "launche",
-        "tano",
-        "tijerina",
-        "webb"
-      ],
-      "item_ids": [
-        "e4a732aa3968"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "f7cac382cdcd",
-      "topic": "bid crockett jasmine leaning",
-      "keywords": [
-        "bid",
-        "crockett",
-        "jasmine",
-        "leaning",
-        "senate",
-        "toward"
-      ],
-      "item_ids": [
-        "f4844351ce7e"
       ],
       "outlets": [
         "The Texas Tribune"
