@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-05T11:15:17Z",
+  "generated_at": "2025-12-05T11:49:14Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -528,40 +528,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "0eb3eacfd9c9"
-    },
-    {
-      "id": "37d88fc9c55a",
-      "title": "Lt. Gov. Dan Patrick proposes giving Texas newborns $1,000 each",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17221843/dan-patrick-donald-trump-baby-savings-accounts",
-      "published_at": "Wed, 03 Dec 2025 22:17:47 +0000",
-      "bullets": [
-        "• Lt",
-        "• Gov",
-        "• Dan Patrick proposed a state program to give every baby born in Texas $1,000 invested in the stock market",
-        "• Patrick modeled the idea off a federal plan created as part of President Donald Trump’s tax and spending legislation",
-        "• Patrick said the program would cost the state around $400 million per year "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Lt",
-          "• Gov"
-        ],
-        "hopeful_bullets": [
-          "• Lt",
-          "• Gov"
-        ],
-        "stakes_bullets": [
-          "• Patrick modeled the idea off a federal plan created as part of President Donald Trump’s tax and spending legislation"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "0c99ed981a7f"
     },
     {
       "id": "d622da8a145d",
@@ -2204,6 +2170,37 @@
       "cluster_id": "947192c284f5"
     },
     {
+      "id": "0d31426409f2",
+      "title": "Salesforce CEO calls AI a 'commodity feature', says the technology bolsters enterprise software",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/04/salesforce-ai-commodity-enterprise-software-technology.html",
+      "published_at": "Thu, 04 Dec 2025 23:31:47 GMT",
+      "bullets": [
+        "• Salesforce CEO Marc Benioff told CNBC a large language model is \"just a commodity feature\" that strengthens his company's products",
+        "• Salesforce stock has had a tough year, even as the broader tech sector has surged",
+        "• Wall Street worries that AI will hurt enterprise software companies "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.972
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Salesforce CEO Marc Benioff told CNBC a large language model is \"just a commodity feature\" that strengthens his company's products",
+          "• Salesforce stock has had a tough year, even as the broader tech sector has surged"
+        ],
+        "hopeful_bullets": [
+          "• Salesforce stock has had a tough year, even as the broader tech sector has surged"
+        ],
+        "stakes_bullets": [
+          "• Wall Street worries that AI will hurt enterprise software companies "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "238e6eca0c26"
+    },
+    {
       "id": "945bfd6c493c",
       "title": "Here’s How Spotify Wrapped Calculated Your Listening Age — And Here’s Rolling Stone’s",
       "outlet": "Music News",
@@ -2505,38 +2502,6 @@
       "cluster_id": "9105d0b2b039"
     },
     {
-      "id": "a8283be02000",
-      "title": "Several people arrested in New Orleans amid ICE ‘siege’: ‘It’s racial profiling’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/04/new-orleans-ice-immigration-raid",
-      "published_at": "Thu, 04 Dec 2025 22:47:50 GMT",
-      "bullets": [
-        "• Dozens of people have been detained across the New Orleans area as the Trump administration’s latest immigration crackdown in a Democratic-led city enters its second day",
-        "• Activists say many are in hiding as people are arrested in public spaces including parking lots, bus stops, shopping malls and shopping malls "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dozens of people have been detained across the New Orleans area as the Trump administration’s latest immigration crackdown in a Democratic-led city enters its second day",
-          "• Activists say many are in hiding as people are arrested in public spaces including parking lots, bus stops, shopping malls and shopping malls "
-        ],
-        "hopeful_bullets": [
-          "• Dozens of people have been detained across the New Orleans area as the Trump administration’s latest immigration crackdown in a Democratic-led city enters its second day",
-          "• Activists say many are in hiding as people are arrested in public spaces including parking lots, bus stops, shopping malls and shopping malls "
-        ],
-        "stakes_bullets": [
-          "• Dozens of people have been detained across the New Orleans area as the Trump administration’s latest immigration crackdown in a Democratic-led city enters its second day",
-          "• Activists say many are in hiding as people are arrested in public spaces including parking lots, bus stops, shopping malls and shopping malls "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "3e32cdbd5081"
-    },
-    {
       "id": "4508103b7aa3",
       "title": "Taye Diggs & Tamar Braxton to Star in Tubi Thriller ‘Stepfather’",
       "outlet": "Bloody Disgusting!",
@@ -2726,40 +2691,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "6683befd5931"
-    },
-    {
-      "id": "aa114b368f4a",
-      "title": "Appeals court allows Trump’s national guard deployment in DC to continue",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/04/washingon-dc-trump-national-guard",
-      "published_at": "Thu, 04 Dec 2025 21:50:01 GMT",
-      "bullets": [
-        "• A US appeals court lifts an injunction that said the troops needed to leave the nation’s capital by 11 December",
-        "• The order came in a lawsuit filed by the DC attorney general, Brian Schwalb, a Democrat and the capital city's top legal officer",
-        "• More than 2,000 national guard soldiers have been in Washington since August "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.907
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A US appeals court lifts an injunction that said the troops needed to leave the nation’s capital by 11 December",
-          "• The order came in a lawsuit filed by the DC attorney general, Brian Schwalb, a Democrat and the capital city's top legal officer"
-        ],
-        "hopeful_bullets": [
-          "• A US appeals court lifts an injunction that said the troops needed to leave the nation’s capital by 11 December",
-          "• The order came in a lawsuit filed by the DC attorney general, Brian Schwalb, a Democrat and the capital city's top legal officer"
-        ],
-        "stakes_bullets": [
-          "• A US appeals court lifts an injunction that said the troops needed to leave the nation’s capital by 11 December",
-          "• The order came in a lawsuit filed by the DC attorney general, Brian Schwalb, a Democrat and the capital city's top legal officer",
-          "• More than 2,000 national guard soldiers have been in Washington since August "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "fa321e66a787"
     },
     {
       "id": "8834d0b3adbc",
@@ -3133,41 +3064,6 @@
       "cluster_id": "78088fa98b60"
     },
     {
-      "id": "0969cd1ca9c2",
-      "title": "Starbucks Workers United holds rally in NYC as strikes continue for a third week",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/starbucks-workers-united-union-strike-nyc-rally.html",
-      "published_at": "Thu, 04 Dec 2025 20:38:31 GMT",
-      "bullets": [
-        "• Workers United has been in a stand-off for three weeks",
-        "• The two sides have not been able to reach a deal on a contract",
-        "• The dispute has been going on for three months",
-        "• The strike is over a dispute over hours, wages and other issues "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Workers United has been in a stand-off for three weeks",
-          "• The two sides have not been able to reach a deal on a contract"
-        ],
-        "hopeful_bullets": [
-          "• Workers United has been in a stand-off for three weeks",
-          "• The two sides have not been able to reach a deal on a contract"
-        ],
-        "stakes_bullets": [
-          "• Workers United has been in a stand-off for three weeks",
-          "• The two sides have not been able to reach a deal on a contract",
-          "• The dispute has been going on for three months"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "47737c861896"
-    },
-    {
       "id": "c84d2196ec82",
       "title": "Taron Egerton Eyed For ‘Alpha’, Described As ‘American Psycho’ Meets ‘An American Werewolf In London’",
       "outlet": "Bloody Disgusting!",
@@ -3423,38 +3319,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "29f02d4d5bc5"
-    },
-    {
-      "id": "77890577415c",
-      "title": "Trump hails 'historic' peace deal between DR Congo and Rwanda",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjrjn88jqn4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 04 Dec 2025 19:17:49 GMT",
-      "bullets": [
-        "• Leaders of DR Congo and Rwanda sign peace deal aimed at ending long-running conflict in the region",
-        "• US President Donald Trump hosted the summit in Washington",
-        "• At the beginning of the event, Trump said the peace ceremony was a \"great day\" for Africa "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Leaders of DR Congo and Rwanda sign peace deal aimed at ending long-running conflict in the region",
-          "• US President Donald Trump hosted the summit in Washington"
-        ],
-        "hopeful_bullets": [
-          "• Leaders of DR Congo and Rwanda sign peace deal aimed at ending long-running conflict in the region",
-          "• US President Donald Trump hosted the summit in Washington"
-        ],
-        "stakes_bullets": [
-          "• Leaders of DR Congo and Rwanda sign peace deal aimed at ending long-running conflict in the region"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "e2e476a973a4"
     },
     {
       "id": "02593296ef5c",
@@ -6569,6 +6433,239 @@
       "cluster_id": "2daa60016122"
     },
     {
+      "id": "fe9def5eb809",
+      "title": "Netflix reportedly closes in on Warner Bros deal",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 05 Dec 2025 11:21:28 GMT",
+      "bullets": [
+        "• Netflix is closing in on a deal to buy Warner Bros Discovery, according to reports",
+        "• The streaming giant has emerged as the top bidder for Warner Bros ahead of rivals Comcast and Paramount Skydance",
+        "• Paramount's lawyers have questioned the \"fairness and adequacy\" of the sale process "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.832
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Netflix is closing in on a deal to buy Warner Bros Discovery, according to reports",
+          "• The streaming giant has emerged as the top bidder for Warner Bros ahead of rivals Comcast and Paramount Skydance"
+        ],
+        "hopeful_bullets": [
+          "• Netflix is closing in on a deal to buy Warner Bros Discovery, according to reports",
+          "• The streaming giant has emerged as the top bidder for Warner Bros ahead of rivals Comcast and Paramount Skydance"
+        ],
+        "stakes_bullets": [
+          "• Netflix is closing in on a deal to buy Warner Bros Discovery, according to reports",
+          "• The streaming giant has emerged as the top bidder for Warner Bros ahead of rivals Comcast and Paramount Skydance",
+          "• Paramount's lawyers have questioned the \"fairness and adequacy\" of the sale process "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ace3008846b8"
+    },
+    {
+      "id": "85a9e930f0b0",
+      "title": "Nancy Reagan’s rehearsal dinners and Bush Sr’s overfed dog: chief usher’s White House memories",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/05/gary-walters-reagan-bush-white-house-chief-usher",
+      "published_at": "Fri, 05 Dec 2025 11:00:22 GMT",
+      "bullets": [
+        "• Donald Trump's book, \"White House Memories,\" was published on Friday",
+        "• It was written by the president of the United States and the president himself",
+        "• It is the first time the White House has been open-ended in a long-term relationship with the president and his family "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.922
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump's book, \"White House Memories,\" was published on Friday",
+          "• It was written by the president of the United States and the president himself"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump's book, \"White House Memories,\" was published on Friday",
+          "• It was written by the president of the United States and the president himself"
+        ],
+        "stakes_bullets": [
+          "• Donald Trump's book, \"White House Memories,\" was published on Friday",
+          "• It was written by the president of the United States and the president himself",
+          "• It is the first time the White House has been open-ended in a long-term relationship with the president and his family "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "5ff73d081437"
+    },
+    {
+      "id": "28e036215d8d",
+      "title": "$208 million wiped out: Yieldstreet investors rack up more losses as firm rebrands to Willow Wealth",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/05/yieldstreet-investors-losses-willow-wealth-rebrand.html",
+      "published_at": "Fri, 05 Dec 2025 11:00:02 GMT",
+      "bullets": [
+        "• Yieldstreet investors have lost at least $208 million, according to CNBC reports",
+        "• The private markets investing startup recently rebranded as Willow Wealth",
+        "• A chart on the company's website shows annualized returns of negative 2% for real estate investments from 2015 to 2025 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Yieldstreet investors have lost at least $208 million, according to CNBC reports",
+          "• The private markets investing startup recently rebranded as Willow Wealth"
+        ],
+        "hopeful_bullets": [
+          "• Yieldstreet investors have lost at least $208 million, according to CNBC reports",
+          "• The private markets investing startup recently rebranded as Willow Wealth"
+        ],
+        "stakes_bullets": [
+          "• The private markets investing startup recently rebranded as Willow Wealth"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "beb7d0a82210"
+    },
+    {
+      "id": "e3e314d21127",
+      "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/",
+      "published_at": "Fri, 05 Dec 2025 11:00:00 +0000",
+      "bullets": [
+        "• More than 1 million images and videos found to have been uploaded to the internet",
+        "• Images appear to show people having their faces swapped onto others' naked bodies",
+        "• The images could be used to make pornographic content for the first time in a year "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• More than 1 million images and videos found to have been uploaded to the internet",
+          "• Images appear to show people having their faces swapped onto others' naked bodies"
+        ],
+        "hopeful_bullets": [
+          "• More than 1 million images and videos found to have been uploaded to the internet",
+          "• Images appear to show people having their faces swapped onto others' naked bodies"
+        ],
+        "stakes_bullets": [
+          "• The images could be used to make pornographic content for the first time in a year "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "c064dd28365c"
+    },
+    {
+      "id": "3f184907734f",
+      "title": "How will Texas’ voter-approved $3 billion dementia fund fare in court",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17223671/texas-dementia-fund-constitutional-amendment-lawsuit",
+      "published_at": "Fri, 05 Dec 2025 11:00:00 +0000",
+      "bullets": [
+        "• Dementia Prevention and Research Institute, one of 17 constitutional amendments voters passed on Nov",
+        "• 4, is still blocked from going into effect",
+        "• The $3 billion research fund was approved by voters by more than a 2-1 margin",
+        "• A judge ruled Tuesday that plaintiffs missed properly serving Gov",
+        "• Abbott and Texas Comptroller Kelly Hancock "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dementia Prevention and Research Institute, one of 17 constitutional amendments voters passed on Nov",
+          "• 4, is still blocked from going into effect"
+        ],
+        "hopeful_bullets": [
+          "• Dementia Prevention and Research Institute, one of 17 constitutional amendments voters passed on Nov",
+          "• 4, is still blocked from going into effect"
+        ],
+        "stakes_bullets": [
+          "• 4, is still blocked from going into effect",
+          "• The $3 billion research fund was approved by voters by more than a 2-1 margin"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "0d6482105170"
+    },
+    {
+      "id": "dd0af34258ef",
+      "title": "Tesla cuts Model 3 price in Europe as sales slide amid Musk backlash",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/technology/2025/dec/05/tesla-cuts-model-3-price-europe-sales-elon-musk-backlash",
+      "published_at": "Fri, 05 Dec 2025 10:55:10 GMT",
+      "bullets": [
+        "• Tesla has launched a lower-priced version of its Model 3 car in Europe",
+        "• The move follows the launch of a cheaper Model Y SUV, Tesla’s bestselling model, in Europe and the US",
+        "• Tesla sales have slumped across Europe as the company faces tough competition from Chinese rival BYD "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tesla has launched a lower-priced version of its Model 3 car in Europe",
+          "• The move follows the launch of a cheaper Model Y SUV, Tesla’s bestselling model, in Europe and the US"
+        ],
+        "hopeful_bullets": [
+          "• Tesla has launched a lower-priced version of its Model 3 car in Europe",
+          "• The move follows the launch of a cheaper Model Y SUV, Tesla’s bestselling model, in Europe and the US"
+        ],
+        "stakes_bullets": [
+          "• Tesla has launched a lower-priced version of its Model 3 car in Europe",
+          "• The move follows the launch of a cheaper Model Y SUV, Tesla’s bestselling model, in Europe and the US",
+          "• Tesla sales have slumped across Europe as the company faces tough competition from Chinese rival BYD "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2caf5f9ae82e"
+    },
+    {
+      "id": "77890577415c",
+      "title": "Trump hails 'historic' peace deal between DR Congo and Rwanda",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjrjn88jqn4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 05 Dec 2025 10:52:41 GMT",
+      "bullets": [
+        "• Leaders of DR Congo and Rwanda sign peace deal aimed at ending long-running conflict in region",
+        "• US President Donald Trump hosted summit in Washington to discuss the deal",
+        "• But analysts say it is just endorsement of an agreement reached in June that has failed to end fighting "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.749
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Leaders of DR Congo and Rwanda sign peace deal aimed at ending long-running conflict in region",
+          "• US President Donald Trump hosted summit in Washington to discuss the deal"
+        ],
+        "hopeful_bullets": [
+          "• Leaders of DR Congo and Rwanda sign peace deal aimed at ending long-running conflict in region",
+          "• US President Donald Trump hosted summit in Washington to discuss the deal"
+        ],
+        "stakes_bullets": [
+          "• Leaders of DR Congo and Rwanda sign peace deal aimed at ending long-running conflict in region"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "e2e476a973a4"
+    },
+    {
       "id": "3a86254c0576",
       "title": "Nvidia partner Foxconn reports 26% revenue spike as AI boom continues",
       "outlet": "US Top News and Analysis",
@@ -6601,30 +6698,32 @@
     },
     {
       "id": "e086ceafdfd7",
-      "title": "Germany votes to bring back voluntary military service",
+      "title": "Germany votes to bring back voluntary military service for 18-year-olds",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/ckg9drg8pg1o?at_medium=RSS&at_campaign=rss",
       "published_at": "Fri, 05 Dec 2025 10:34:35 GMT",
       "bullets": [
-        "• Germany votes to introduce voluntary military service for 18-year-olds",
-        "• The move is aimed at boosting national defences after Russia's invasion of Ukraine",
-        "• Students at schools across Germany have said they will join strikes in 90 cities on Friday to protest the move "
+        "• Germany votes to bring back voluntary military service for 18-year-olds",
+        "• Move is aimed at boosting national defences after Russia's full-scale invasion of Ukraine",
+        "• Students in schools across Germany say they will join protests against the move",
+        "• Germany is the latest European country to introduce some form of military service "
       ],
       "category": "World",
       "sentiment": {
         "label": "positive",
-        "score": 0.96
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• Germany votes to introduce voluntary military service for 18-year-olds",
-          "• The move is aimed at boosting national defences after Russia's invasion of Ukraine"
+          "• Germany votes to bring back voluntary military service for 18-year-olds",
+          "• Move is aimed at boosting national defences after Russia's full-scale invasion of Ukraine"
         ],
         "hopeful_bullets": [
-          "• The move is aimed at boosting national defences after Russia's invasion of Ukraine"
+          "• Move is aimed at boosting national defences after Russia's full-scale invasion of Ukraine",
+          "• Students in schools across Germany say they will join protests against the move"
         ],
         "stakes_bullets": [
-          "• Students at schools across Germany have said they will join strikes in 90 cities on Friday to protest the move "
+          "• Students in schools across Germany say they will join protests against the move"
         ]
       },
       "read_minutes": 3,
@@ -6661,41 +6760,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "606ed6139a9e"
-    },
-    {
-      "id": "a33a72e420d1",
-      "title": "Paramount questions Warner Bros. Discovery on 'fairness and adequacy' of sale process: Read the full letter",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/paramount-questions-warner-bros-discovery-sale-process-letter.html",
-      "published_at": "Fri, 05 Dec 2025 10:05:49 GMT",
-      "bullets": [
-        "• Paramount Skydance is questioning the \"fairness and adequacy\" of the sale process",
-        "• This week, Paramount, Netflix and Comcast submitted second-round bids to acquire Warner Bros",
-        "• Discovery's assets",
-        "• Netflix has made an offer of mostly cash, while Paramount's offer was all cash "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Paramount Skydance is questioning the \"fairness and adequacy\" of the sale process",
-          "• This week, Paramount, Netflix and Comcast submitted second-round bids to acquire Warner Bros"
-        ],
-        "hopeful_bullets": [
-          "• Paramount Skydance is questioning the \"fairness and adequacy\" of the sale process",
-          "• This week, Paramount, Netflix and Comcast submitted second-round bids to acquire Warner Bros"
-        ],
-        "stakes_bullets": [
-          "• Paramount Skydance is questioning the \"fairness and adequacy\" of the sale process",
-          "• This week, Paramount, Netflix and Comcast submitted second-round bids to acquire Warner Bros",
-          "• Discovery's assets"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "d85535fd1941"
     },
     {
       "id": "b8f34e41665a",
@@ -6863,40 +6927,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "04a81fb40df8"
-    },
-    {
-      "id": "fe9def5eb809",
-      "title": "Netflix reportedly closes in on Warner Bros deal",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 05 Dec 2025 09:46:13 GMT",
-      "bullets": [
-        "• Netflix is closing in on a deal to buy Warner Bros Discovery, according to reports",
-        "• The streaming giant has emerged as the top bidder for Warner Bros ahead of rivals Comcast and Paramount Skydance",
-        "• Paramount's lawyers have questioned the \"fairness and adequacy\" of the sale process "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.832
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Netflix is closing in on a deal to buy Warner Bros Discovery, according to reports",
-          "• The streaming giant has emerged as the top bidder for Warner Bros ahead of rivals Comcast and Paramount Skydance"
-        ],
-        "hopeful_bullets": [
-          "• Netflix is closing in on a deal to buy Warner Bros Discovery, according to reports",
-          "• The streaming giant has emerged as the top bidder for Warner Bros ahead of rivals Comcast and Paramount Skydance"
-        ],
-        "stakes_bullets": [
-          "• Netflix is closing in on a deal to buy Warner Bros Discovery, according to reports",
-          "• The streaming giant has emerged as the top bidder for Warner Bros ahead of rivals Comcast and Paramount Skydance",
-          "• Paramount's lawyers have questioned the \"fairness and adequacy\" of the sale process "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ace3008846b8"
     },
     {
       "id": "3d35f71ed97c",
@@ -7434,40 +7464,6 @@
       "cluster_id": "ebb073a62f19"
     },
     {
-      "id": "c8899fa8514e",
-      "title": "NPR battles Trump executive order in court",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/05/g-s1-100844/npr-battles-trump-executive-order-in-court",
-      "published_at": "Fri, 05 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• NPR battles Trump executive order in court",
-        "• The New York Times files a lawsuit against the Pentagon's new press policy",
-        "• NPR's lawyers say the president's executive order violates First Amendment rights",
-        "• The networks deny this; the order accuses them of ideological bias "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• NPR battles Trump executive order in court",
-          "• The New York Times files a lawsuit against the Pentagon's new press policy"
-        ],
-        "hopeful_bullets": [
-          "• The New York Times files a lawsuit against the Pentagon's new press policy"
-        ],
-        "stakes_bullets": [
-          "• NPR battles Trump executive order in court",
-          "• The New York Times files a lawsuit against the Pentagon's new press policy",
-          "• NPR's lawyers say the president's executive order violates First Amendment rights"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "a27f17dcf30e"
-    },
-    {
       "id": "c6fb0631d806",
       "title": "The World Cup draw is here. Here's why it matters — and how it will work",
       "outlet": "NPR Topics: News",
@@ -7536,6 +7532,40 @@
       },
       "read_minutes": 3,
       "cluster_id": "8cf18b16b21c"
+    },
+    {
+      "id": "c8899fa8514e",
+      "title": "NPR battles Trump executive order in court",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/05/g-s1-100844/npr-battles-trump-executive-order-in-court",
+      "published_at": "Fri, 05 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• NPR battles Trump executive order in court",
+        "• The New York Times files a lawsuit against the Pentagon's new press policy",
+        "• NPR's lawyers say the president's executive order violates First Amendment rights",
+        "• The networks deny this; the order accuses them of ideological bias "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• NPR battles Trump executive order in court",
+          "• The New York Times files a lawsuit against the Pentagon's new press policy"
+        ],
+        "hopeful_bullets": [
+          "• The New York Times files a lawsuit against the Pentagon's new press policy"
+        ],
+        "stakes_bullets": [
+          "• NPR battles Trump executive order in court",
+          "• The New York Times files a lawsuit against the Pentagon's new press policy",
+          "• NPR's lawyers say the president's executive order violates First Amendment rights"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "a27f17dcf30e"
     },
     {
       "id": "8d97f4c6aa60",
@@ -8466,37 +8496,6 @@
       "cluster_id": "a7cf6ccbe65e"
     },
     {
-      "id": "46f6f0a39f8f",
-      "title": "Circle’s Jeremy Allaire: We’re Building an ‘Economic OS’ for the AI Era",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/big-interview-event-jeremy-allaire-circle/",
-      "published_at": "Fri, 05 Dec 2025 00:15:37 +0000",
-      "bullets": [
-        "• Jeremy Allaire, cofounder and CEO of Circle, says the global economy is about to undergo a major shift",
-        "• He says the next evolution in the cryptocurrency space is “money as an app platform” on which a digital-only economy will grow "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.855
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jeremy Allaire, cofounder and CEO of Circle, says the global economy is about to undergo a major shift",
-          "• He says the next evolution in the cryptocurrency space is “money as an app platform” on which a digital-only economy will grow "
-        ],
-        "hopeful_bullets": [
-          "• Jeremy Allaire, cofounder and CEO of Circle, says the global economy is about to undergo a major shift",
-          "• He says the next evolution in the cryptocurrency space is “money as an app platform” on which a digital-only economy will grow "
-        ],
-        "stakes_bullets": [
-          "• He says the next evolution in the cryptocurrency space is “money as an app platform” on which a digital-only economy will grow "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e38a6e35de4f"
-    },
-    {
       "id": "a14f093f556a",
       "title": "2021 Year in Review w/ Bruce Gibson – SWR #483",
       "outlet": "The Star Wars Report Podcast",
@@ -8529,6 +8528,38 @@
       },
       "read_minutes": 40,
       "cluster_id": "76c61b84461a"
+    },
+    {
+      "id": "5332cb5f4538",
+      "title": "Facebook and Instagram have a new hub to help get hijacked accounts back",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub",
+      "published_at": "2025-12-05T06:08:43-05:00",
+      "bullets": [
+        "• Meta is launching a new, centralized support hub for Facebook and Instagram",
+        "• It will bring together all the support features users of both networks need to report account issues or recover one they’ve lost access to",
+        "• The update is rolling out globally on iOS and Android platforms "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Meta is launching a new, centralized support hub for Facebook and Instagram",
+          "• It will bring together all the support features users of both networks need to report account issues or recover one they’ve lost access to"
+        ],
+        "hopeful_bullets": [
+          "• Meta is launching a new, centralized support hub for Facebook and Instagram",
+          "• It will bring together all the support features users of both networks need to report account issues or recover one they’ve lost access to"
+        ],
+        "stakes_bullets": [
+          "• It will bring together all the support features users of both networks need to report account issues or recover one they’ve lost access to"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "be9c57f868cd"
     },
     {
       "id": "ccc5e166b1dd",
@@ -8821,38 +8852,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "0f456cf600e7"
-    },
-    {
-      "id": "804ddfcd14a4",
-      "title": "Trump admin may deny H-1B visas to people who worked in content moderation, report says",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/838489/trump-admin-h1b-visas-content-moderation",
-      "published_at": "2025-12-04T14:30:38-05:00",
-      "bullets": [
-        "• A State Department cable says officials should check an applicant’s resume or LinkedIn profile for a job history involving moderation, fact-checking, online safety, compliance, and misinformation",
-        "• Many tech companies, such as Amazon, Google, and Microsoft, hire highly skilled workers on H-1B visas "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A State Department cable says officials should check an applicant’s resume or LinkedIn profile for a job history involving moderation, fact-checking, online safety, compliance, and misinformation",
-          "• Many tech companies, such as Amazon, Google, and Microsoft, hire highly skilled workers on H-1B visas "
-        ],
-        "hopeful_bullets": [
-          "• A State Department cable says officials should check an applicant’s resume or LinkedIn profile for a job history involving moderation, fact-checking, online safety, compliance, and misinformation",
-          "• Many tech companies, such as Amazon, Google, and Microsoft, hire highly skilled workers on H-1B visas "
-        ],
-        "stakes_bullets": [
-          "• A State Department cable says officials should check an applicant’s resume or LinkedIn profile for a job history involving moderation, fact-checking, online safety, compliance, and misinformation",
-          "• Many tech companies, such as Amazon, Google, and Microsoft, hire highly skilled workers on H-1B visas "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d22599428869"
     },
     {
       "id": "c41ff758b36a",
@@ -9657,6 +9656,24 @@
       ]
     },
     {
+      "id": "5ff73d081437",
+      "topic": "bush dinner nancy overfed",
+      "keywords": [
+        "bush",
+        "dinner",
+        "nancy",
+        "overfed",
+        "reagan",
+        "rehearsal"
+      ],
+      "item_ids": [
+        "85a9e930f0b0"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "10571fea07fb",
       "topic": "allow congressional court supreme",
       "keywords": [
@@ -9801,36 +9818,18 @@
       ]
     },
     {
-      "id": "3e32cdbd5081",
-      "topic": "arrested ice orlean people",
+      "id": "2caf5f9ae82e",
+      "topic": "cuts europe model price",
       "keywords": [
-        "arrested",
-        "ice",
-        "orlean",
-        "people",
-        "several",
-        "siege"
+        "cuts",
+        "europe",
+        "model",
+        "price",
+        "sale",
+        "tesla"
       ],
       "item_ids": [
-        "a8283be02000"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "fa321e66a787",
-      "topic": "allow appeal court guard",
-      "keywords": [
-        "allow",
-        "appeal",
-        "court",
-        "guard",
-        "national",
-        "trump"
-      ],
-      "item_ids": [
-        "aa114b368f4a"
+        "dd0af34258ef"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9849,24 +9848,6 @@
       ],
       "item_ids": [
         "debbf4adfe17"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "a27f17dcf30e",
-      "topic": "battle court executive npr",
-      "keywords": [
-        "battle",
-        "court",
-        "executive",
-        "npr",
-        "order",
-        "trump"
-      ],
-      "item_ids": [
-        "c8899fa8514e"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9903,6 +9884,24 @@
       ],
       "item_ids": [
         "03d24dd9e2fd"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "a27f17dcf30e",
+      "topic": "battle court executive npr",
+      "keywords": [
+        "battle",
+        "court",
+        "executive",
+        "npr",
+        "order",
+        "trump"
+      ],
+      "item_ids": [
+        "c8899fa8514e"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10017,18 +10016,18 @@
       ]
     },
     {
-      "id": "1dde79d7a8f8",
-      "topic": "back cloudflare global issue",
+      "id": "beb7d0a82210",
+      "topic": "208 investor million out",
       "keywords": [
-        "back",
-        "cloudflare",
-        "global",
-        "issue",
-        "online",
-        "website"
+        "208",
+        "investor",
+        "million",
+        "out",
+        "wiped",
+        "yieldstreet"
       ],
       "item_ids": [
-        "38e3993395c9"
+        "28e036215d8d"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10053,6 +10052,24 @@
       ]
     },
     {
+      "id": "1dde79d7a8f8",
+      "topic": "back cloudflare global issue",
+      "keywords": [
+        "back",
+        "cloudflare",
+        "global",
+        "issue",
+        "online",
+        "website"
+      ],
+      "item_ids": [
+        "38e3993395c9"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "0fdc20bf739b",
       "topic": "foxconn nvidia partner report",
       "keywords": [
@@ -10065,6 +10082,24 @@
       ],
       "item_ids": [
         "3a86254c0576"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "487b349780b6",
+      "topic": "adds biden commerce costco",
+      "keywords": [
+        "adds",
+        "biden",
+        "commerce",
+        "costco",
+        "gina",
+        "sec"
+      ],
+      "item_ids": [
+        "08c3143d7826"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10107,42 +10142,6 @@
       ]
     },
     {
-      "id": "487b349780b6",
-      "topic": "adds biden commerce costco",
-      "keywords": [
-        "adds",
-        "biden",
-        "commerce",
-        "costco",
-        "gina",
-        "sec"
-      ],
-      "item_ids": [
-        "08c3143d7826"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "47737c861896",
-      "topic": "hold nyc rally starbuck",
-      "keywords": [
-        "hold",
-        "nyc",
-        "rally",
-        "starbuck",
-        "united",
-        "worker"
-      ],
-      "item_ids": [
-        "0969cd1ca9c2"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "a182787b19b4",
       "topic": "binance ceo life meet",
       "keywords": [
@@ -10179,21 +10178,39 @@
       ]
     },
     {
-      "id": "d85535fd1941",
-      "topic": "bros discovery fairnes paramount",
+      "id": "238e6eca0c26",
+      "topic": "call ceo commodity feature",
       "keywords": [
-        "bros",
-        "discovery",
-        "fairnes",
-        "paramount",
-        "question",
-        "warner"
+        "call",
+        "ceo",
+        "commodity",
+        "feature",
+        "salesforce",
+        "technology"
       ],
       "item_ids": [
-        "a33a72e420d1"
+        "0d31426409f2"
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "c064dd28365c",
+      "topic": "generator huge image leaked",
+      "keywords": [
+        "generator",
+        "huge",
+        "image",
+        "leaked",
+        "nude",
+        "trove"
+      ],
+      "item_ids": [
+        "e3e314d21127"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10355,21 +10372,21 @@
       ]
     },
     {
-      "id": "e38a6e35de4f",
-      "topic": "allaire building circle economic",
+      "id": "be9c57f868cd",
+      "topic": "facebook get help hijacked",
       "keywords": [
-        "allaire",
-        "building",
-        "circle",
-        "economic",
-        "era",
-        "jeremy"
+        "facebook",
+        "get",
+        "help",
+        "hijacked",
+        "hub",
+        "instagram"
       ],
       "item_ids": [
-        "46f6f0a39f8f"
+        "5332cb5f4538"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -10529,24 +10546,6 @@
       ],
       "item_ids": [
         "696ba5212595"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "d22599428869",
-      "topic": "admin deny people trump",
-      "keywords": [
-        "admin",
-        "deny",
-        "people",
-        "trump",
-        "visa",
-        "worked"
-      ],
-      "item_ids": [
-        "804ddfcd14a4"
       ],
       "outlets": [
         "The Verge"
@@ -14136,6 +14135,24 @@
       ]
     },
     {
+      "id": "0d6482105170",
+      "topic": "approved billion dementia fund",
+      "keywords": [
+        "approved",
+        "billion",
+        "dementia",
+        "fund",
+        "texa",
+        "voter"
+      ],
+      "item_ids": [
+        "3f184907734f"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "a1229989e20d",
       "topic": "2026 cleared congressional map",
       "keywords": [
@@ -14292,24 +14309,6 @@
       ],
       "item_ids": [
         "acbda2b27f93"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "0c99ed981a7f",
-      "topic": "dan giving gov patrick",
-      "keywords": [
-        "dan",
-        "giving",
-        "gov",
-        "patrick",
-        "propose",
-        "texa"
-      ],
-      "item_ids": [
-        "37d88fc9c55a"
       ],
       "outlets": [
         "The Texas Tribune"
