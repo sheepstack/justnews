@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-05T02:39:57Z",
+  "generated_at": "2025-12-05T04:14:50Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -1021,39 +1021,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "6920353d6198"
-    },
-    {
-      "id": "8d9d1ddf3960",
-      "title": "Xiu Xiu Cover Daniel Johnston, Glorilla, Robyn, and More on New Album",
-      "outlet": "RSS: News",
-      "url": "https://pitchfork.com/news/xiu-xiu-cover-daniel-johnston-glorilla-robyn-and-more-on-new-album/",
-      "published_at": "Wed, 03 Dec 2025 15:04:57 +0000",
-      "bullets": [
-        "• Xiu Xiu have announced a new album of covers",
-        "• Xiu Mutha Fuckin’ Xiu: Vol",
-        "• 1 is out January 16",
-        "• The band have been playing live shows that center on David Lynch’s Eraserhead "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Xiu Xiu have announced a new album of covers",
-          "• Xiu Mutha Fuckin’ Xiu: Vol"
-        ],
-        "hopeful_bullets": [
-          "• Xiu Xiu have announced a new album of covers",
-          "• Xiu Mutha Fuckin’ Xiu: Vol"
-        ],
-        "stakes_bullets": [
-          "• The band have been playing live shows that center on David Lynch’s Eraserhead "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ef9d2588cf66"
     },
     {
       "id": "a30a9c646bae",
@@ -2975,37 +2942,6 @@
       "cluster_id": "d1dc0e3f7670"
     },
     {
-      "id": "8b8e0f8cafaa",
-      "title": "Ulta shares pop as beauty retailer hikes sales and earnings outlook for second straight quarter",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/ulta-ulta-earnings-q3-2025.html",
-      "published_at": "Thu, 04 Dec 2025 22:31:51 GMT",
-      "bullets": [
-        "• Ulta Beauty has raised its full-year sales and profit outlook for two consecutive quarters",
-        "• The beauty retailer's stock rose more than 6% in extended trading",
-        "• CEO Kecia Steelman said \"exciting assortment newness, improved in-store and digital experiences, and bold marketing efforts\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ulta Beauty has raised its full-year sales and profit outlook for two consecutive quarters",
-          "• The beauty retailer's stock rose more than 6% in extended trading"
-        ],
-        "hopeful_bullets": [
-          "• CEO Kecia Steelman said \"exciting assortment newness, improved in-store and digital experiences, and bold marketing efforts\""
-        ],
-        "stakes_bullets": [
-          "• Ulta Beauty has raised its full-year sales and profit outlook for two consecutive quarters"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "6fcb7be99ff1"
-    },
-    {
       "id": "97dafdb2623e",
       "title": "Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
       "outlet": "BBC News",
@@ -3070,6 +3006,38 @@
       "cluster_id": "018eb23eaa23"
     },
     {
+      "id": "6c36a43af879",
+      "title": "Grand jury rejects new mortgage fraud indictment against New York Attorney General Letitia James",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/04/nx-s1-5634017/grand-jury-rejects-new-mortgage-fraud-indictment-against-new-york-attorney-general-letitia-james",
+      "published_at": "Thu, 04 Dec 2025 22:07:17 -0500",
+      "bullets": [
+        "• Grand jury rejects new mortgage fraud indictment against New York Attorney General Letitia James",
+        "• James was initially charged with bank fraud and making false statements to a financial institution in connection with a home purchase in Norfolk, Virginia, in 2020",
+        "• A judge dismissed the previous mortgage fraud prosecution encouraged by President Donald Trump "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.972
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Grand jury rejects new mortgage fraud indictment against New York Attorney General Letitia James",
+          "• James was initially charged with bank fraud and making false statements to a financial institution in connection with a home purchase in Norfolk, Virginia, in 2020"
+        ],
+        "hopeful_bullets": [
+          "• Grand jury rejects new mortgage fraud indictment against New York Attorney General Letitia James"
+        ],
+        "stakes_bullets": [
+          "• James was initially charged with bank fraud and making false statements to a financial institution in connection with a home purchase in Norfolk, Virginia, in 2020",
+          "• A judge dismissed the previous mortgage fraud prosecution encouraged by President Donald Trump "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "6e6ef8ece526"
+    },
+    {
       "id": "2a6b4aa06646",
       "title": "Quentin Tarantino Ranks This Free-to-Stream Horror Among the Century’s Best – “It just really, really works”",
       "outlet": "Dread Central",
@@ -3102,40 +3070,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "b018e65816de"
-    },
-    {
-      "id": "47019b95be44",
-      "title": "Trump replaces architect overseeing $300m gilded ballroom project",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/04/trump-ballroom-architect",
-      "published_at": "Thu, 04 Dec 2025 21:53:18 GMT",
-      "bullets": [
-        "• Donald Trump has replaced the architect originally selected to oversee his $300m planned gilded ballroom",
-        "• James McCrery II and his boutique firm had been leading the project for more than three months, up until late October",
-        "• The Washington Post first reported the news on Thursday and cited three people familiar with the matter",
-        "• Shalom Baranes has now been named the project’s new architect "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump has replaced the architect originally selected to oversee his $300m planned gilded ballroom",
-          "• James McCrery II and his boutique firm had been leading the project for more than three months, up until late October"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump has replaced the architect originally selected to oversee his $300m planned gilded ballroom",
-          "• James McCrery II and his boutique firm had been leading the project for more than three months, up until late October"
-        ],
-        "stakes_bullets": [
-          "• Donald Trump has replaced the architect originally selected to oversee his $300m planned gilded ballroom",
-          "• James McCrery II and his boutique firm had been leading the project for more than three months, up until late October"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "40acf79e8955"
     },
     {
       "id": "ec1762e976fd",
@@ -4619,31 +4553,31 @@
       "url": "https://www.npr.org/2025/12/04/nx-s1-5628414/elephant-seals-remember-their-enemies",
       "published_at": "Thu, 04 Dec 2025 16:54:37 -0500",
       "bullets": [
-        "• Elephant seals don't forget their enemies",
-        "• We learn about the great beasts' big beefs and why they matter",
-        "• Hear on All Things Considered by Ava Berger, Vincent Acovino, Juana Summers and Justine Kenin "
+        "• Researchers from the University of California, Santa Cruz say male elephant seals remember their competition from previous breeding seasons",
+        "• They say elephant seals are one of the most amazing animals in the animal kingdom",
+        "• They're the most sexually dimorphic, meaning that males look different than females "
       ],
       "category": "Science",
       "sentiment": {
         "label": "positive",
-        "score": 0.995
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• Elephant seals don't forget their enemies",
-          "• We learn about the great beasts' big beefs and why they matter"
+          "• Researchers from the University of California, Santa Cruz say male elephant seals remember their competition from previous breeding seasons",
+          "• They say elephant seals are one of the most amazing animals in the animal kingdom"
         ],
         "hopeful_bullets": [
-          "• Elephant seals don't forget their enemies",
-          "• We learn about the great beasts' big beefs and why they matter"
+          "• Researchers from the University of California, Santa Cruz say male elephant seals remember their competition from previous breeding seasons",
+          "• They say elephant seals are one of the most amazing animals in the animal kingdom"
         ],
         "stakes_bullets": [
-          "• Elephant seals don't forget their enemies",
-          "• We learn about the great beasts' big beefs and why they matter",
-          "• Hear on All Things Considered by Ava Berger, Vincent Acovino, Juana Summers and Justine Kenin "
+          "• Researchers from the University of California, Santa Cruz say male elephant seals remember their competition from previous breeding seasons",
+          "• They say elephant seals are one of the most amazing animals in the animal kingdom",
+          "• They're the most sexually dimorphic, meaning that males look different than females "
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 4,
       "cluster_id": "2301c1616146"
     },
     {
@@ -4680,6 +4614,42 @@
       },
       "read_minutes": 2,
       "cluster_id": "d4ed7029a8be"
+    },
+    {
+      "id": "61eb8e97115f",
+      "title": "Trump administration looks to navigate fallout from controversial boat strike",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/12/04/nx-s1-5630382/trump-administration-looks-to-navigate-fallout-from-controversial-boat-strike",
+      "published_at": "Thu, 04 Dec 2025 16:23:30 -0500",
+      "bullets": [
+        "• Trump administration looks to navigate fallout from controversial boat strike",
+        "• On September 2, the U.S",
+        "• military attacked a boat in the Caribbean it claims was carrying drugs",
+        "• A second strike was ordered, killing two people who survived the first one",
+        "• The officer who oversaw that strike is briefing lawmakers on Capitol Hill today "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump administration looks to navigate fallout from controversial boat strike",
+          "• On September 2, the U.S"
+        ],
+        "hopeful_bullets": [
+          "• Trump administration looks to navigate fallout from controversial boat strike",
+          "• On September 2, the U.S"
+        ],
+        "stakes_bullets": [
+          "• Trump administration looks to navigate fallout from controversial boat strike",
+          "• On September 2, the U.S",
+          "• military attacked a boat in the Caribbean it claims was carrying drugs"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "313411e10904"
     },
     {
       "id": "8f6d036ebcdd",
@@ -4885,6 +4855,42 @@
       "cluster_id": "2378d8af2a89"
     },
     {
+      "id": "7b77e395eaaa",
+      "title": "Congressional leaders briefed on second strike off the coast of Venezuela",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/12/04/nx-s1-5630931/congressional-leaders-briefed-on-second-strike-off-the-coast-of-venezuela",
+      "published_at": "Thu, 04 Dec 2025 15:53:11 -0500",
+      "bullets": [
+        "• Congressional leaders briefed on second strike off the coast of Venezuela",
+        "• Admiral Frank Bradley, who leads U.S",
+        "• Special Operations Command, recently briefed leadership behind closed doors",
+        "• Reed: \"We did see the video, and it was disturbing",
+        "• Did it follow the law?\""
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Congressional leaders briefed on second strike off the coast of Venezuela",
+          "• Admiral Frank Bradley, who leads U.S"
+        ],
+        "hopeful_bullets": [
+          "• Congressional leaders briefed on second strike off the coast of Venezuela",
+          "• Admiral Frank Bradley, who leads U.S"
+        ],
+        "stakes_bullets": [
+          "• Congressional leaders briefed on second strike off the coast of Venezuela",
+          "• Admiral Frank Bradley, who leads U.S",
+          "• Special Operations Command, recently briefed leadership behind closed doors"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "c854c11bebc9"
+    },
+    {
       "id": "275ef4821765",
       "title": "“If You Could Be Any Animal, What Would You Be?” — Watch an Exclusive Clip from THE CREEP TAPES Season 2 Episode “Ava”",
       "outlet": "Daily Dead",
@@ -4924,27 +4930,27 @@
       "published_at": "Thu, 04 Dec 2025 15:05:24 -0500",
       "bullets": [
         "• CDC advisers delay planned vote on hepatitis B vaccine for infants",
-        "• The vote was meant to focus on ending a longstanding recommendation to vaccinate all healthy newborns",
+        "• The vote was meant to focus on ending a longstanding recommendation to vaccinate all healthy newborns against hepatitis B",
         "• The current recommendation is intended to make sure no at-risk infant falls through the cracks",
-        "• It is the cornerstone of a decades-long strategy to eliminate hepatitis B in the United States "
+        "• The hepatitis B virus can cause serious, potentially fatal health problems "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.937
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
           "• CDC advisers delay planned vote on hepatitis B vaccine for infants",
-          "• The vote was meant to focus on ending a longstanding recommendation to vaccinate all healthy newborns"
+          "• The vote was meant to focus on ending a longstanding recommendation to vaccinate all healthy newborns against hepatitis B"
         ],
         "hopeful_bullets": [
-          "• CDC advisers delay planned vote on hepatitis B vaccine for infants",
-          "• The vote was meant to focus on ending a longstanding recommendation to vaccinate all healthy newborns"
+          "• The vote was meant to focus on ending a longstanding recommendation to vaccinate all healthy newborns against hepatitis B"
         ],
         "stakes_bullets": [
           "• CDC advisers delay planned vote on hepatitis B vaccine for infants",
-          "• The current recommendation is intended to make sure no at-risk infant falls through the cracks"
+          "• The current recommendation is intended to make sure no at-risk infant falls through the cracks",
+          "• The hepatitis B virus can cause serious, potentially fatal health problems "
         ]
       },
       "read_minutes": 3,
@@ -5024,28 +5030,26 @@
       "url": "https://www.npr.org/2025/12/04/nx-s1-5630490/prison-doj-safety-memo-changes-trans-lgbtq-inmates",
       "published_at": "Thu, 04 Dec 2025 14:44:32 -0500",
       "bullets": [
-        "• DOJ orders inspectors to stop considering LGBTQ safety standards for prisoners",
-        "• This population is uniquely vulnerable to attacks while incarcerated",
+        "• DOJ orders inspectors to stop evaluating standards designed to protect transgender, intersex and gender-nonconforming people from sexual violence",
         "• Advocates say the change will put such people in even more danger",
-        "• This is the latest policy move by the Trump administration that removes legal protections for transgender people "
+        "• The memo explains that DOJ is in the process of revising federal standards related to the 2003 Prison Rape Elimination Act "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.992
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• DOJ orders inspectors to stop considering LGBTQ safety standards for prisoners",
-          "• This population is uniquely vulnerable to attacks while incarcerated"
+          "• DOJ orders inspectors to stop evaluating standards designed to protect transgender, intersex and gender-nonconforming people from sexual violence",
+          "• Advocates say the change will put such people in even more danger"
         ],
         "hopeful_bullets": [
-          "• DOJ orders inspectors to stop considering LGBTQ safety standards for prisoners",
-          "• This population is uniquely vulnerable to attacks while incarcerated"
+          "• DOJ orders inspectors to stop evaluating standards designed to protect transgender, intersex and gender-nonconforming people from sexual violence",
+          "• Advocates say the change will put such people in even more danger"
         ],
         "stakes_bullets": [
-          "• Advocates say the change will put such people in even more danger",
-          "• This is the latest policy move by the Trump administration that removes legal protections for transgender people "
+          "• Advocates say the change will put such people in even more danger"
         ]
       },
       "read_minutes": 5,
@@ -5391,7 +5395,7 @@
     {
       "id": "055150b3eabb",
       "title": "Europe's left is energized after Mamdani's successful campaign for New York mayor",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/12/04/nx-s1-5626889/europe-left-mamdani-new-york",
       "published_at": "Thu, 04 Dec 2025 11:21:34 -0500",
       "bullets": [
@@ -5399,7 +5403,7 @@
         "• Left-wing politicians in Europe took heart from the success of the 34-year-old American democratic socialist",
         "• A member of parliament from France's left-wing France Unbowed party tells NPR Mammani's victory was a \"beacon of hope\" in Europe "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "positive",
         "score": 0.999
@@ -7471,6 +7475,169 @@
       "cluster_id": "2daa60016122"
     },
     {
+      "id": "77d583a76048",
+      "title": "'China's Nvidia' Moore Threads surges over 400% on trading debut after $1.1 billion listing",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/05/china-nvidia-moore-threads-trading-debut-1-billion-listing-ipo-shanghai-gpu-enflame-biren.html",
+      "published_at": "Fri, 05 Dec 2025 03:35:26 GMT",
+      "bullets": [
+        "• Shares of Beijing-based graphics processor maker Moore Threads soar by more than 400% on its debut in Shanghai",
+        "• The stock is currently trading at 584.98 yuan, over five times its IPO price of 114.28 yuan",
+        "• An increasing number of Chinese chipmakers are pushing into the AI processor space "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Shares of Beijing-based graphics processor maker Moore Threads soar by more than 400% on its debut in Shanghai",
+          "• The stock is currently trading at 584.98 yuan, over five times its IPO price of 114.28 yuan"
+        ],
+        "hopeful_bullets": [
+          "• Shares of Beijing-based graphics processor maker Moore Threads soar by more than 400% on its debut in Shanghai",
+          "• The stock is currently trading at 584.98 yuan, over five times its IPO price of 114.28 yuan"
+        ],
+        "stakes_bullets": [
+          "• Shares of Beijing-based graphics processor maker Moore Threads soar by more than 400% on its debut in Shanghai",
+          "• The stock is currently trading at 584.98 yuan, over five times its IPO price of 114.28 yuan",
+          "• An increasing number of Chinese chipmakers are pushing into the AI processor space "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "9c655a2a3ae1"
+    },
+    {
+      "id": "65e660d80bfa",
+      "title": "Ireland, Spain, and Others Withdraw from Eurovision As Israel Granted 2026 Entry",
+      "outlet": "RSS: News",
+      "url": "https://pitchfork.com/news/ireland-spain-and-others-withdraw-from-eurovision-over-israels-participation/",
+      "published_at": "Fri, 05 Dec 2025 03:33:31 +0000",
+      "bullets": [
+        "• Spain, Ireland, the Netherlands, and Slovakia have all withdrawn from the 2026 Eurovision Song Contest",
+        "• The European Broadcasting Union (EBU) declined to hold a vote on Israel’s participation in the competition",
+        "• The EBU had postponed an earlier planned vote after Israel and Hamas signed a ceasefire agreement in October "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Spain, Ireland, the Netherlands, and Slovakia have all withdrawn from the 2026 Eurovision Song Contest",
+          "• The European Broadcasting Union (EBU) declined to hold a vote on Israel’s participation in the competition"
+        ],
+        "hopeful_bullets": [
+          "• Spain, Ireland, the Netherlands, and Slovakia have all withdrawn from the 2026 Eurovision Song Contest",
+          "• The European Broadcasting Union (EBU) declined to hold a vote on Israel’s participation in the competition"
+        ],
+        "stakes_bullets": [
+          "• The EBU had postponed an earlier planned vote after Israel and Hamas signed a ceasefire agreement in October "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "3ba933b4f4c8"
+    },
+    {
+      "id": "979ba000aeeb",
+      "title": "Heroes Still Has the Greatest Pilot Episode of All-Time",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/heroes-sci-fi-greatest-pilot-episode-of-all-time/",
+      "published_at": "Fri, 05 Dec 2025 03:30:11 GMT",
+      "bullets": [
+        "• The first episode of Heroes delivered the best pilot of all time",
+        "• It was created by Tim Kring and spawned 4 seasons, a spinoff, and a massive fan following",
+        "• Through the pilot, some of the show's best characters got to interact "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The first episode of Heroes delivered the best pilot of all time",
+          "• It was created by Tim Kring and spawned 4 seasons, a spinoff, and a massive fan following"
+        ],
+        "hopeful_bullets": [
+          "• It was created by Tim Kring and spawned 4 seasons, a spinoff, and a massive fan following"
+        ],
+        "stakes_bullets": [
+          "• The first episode of Heroes delivered the best pilot of all time",
+          "• It was created by Tim Kring and spawned 4 seasons, a spinoff, and a massive fan following",
+          "• Through the pilot, some of the show's best characters got to interact "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "791e25bcfbf9"
+    },
+    {
+      "id": "34d8e6f4b8ca",
+      "title": "10 Best Daredevil Starting Points For First-Time Marvel Fans",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/daredevil-best-starting-points/",
+      "published_at": "Fri, 05 Dec 2025 03:15:12 GMT",
+      "bullets": [
+        "• The Man Without Fear made his comic book debut in April 1964",
+        "• Frank Miller's work on Daredevil was just as impactful for the comic book medium",
+        "• The defining characteristic that sets Daredevil apart from other heroes is his disability",
+        "• Daredevil would later evolve in several ways to build one of Marvel's strongest stories "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Man Without Fear made his comic book debut in April 1964",
+          "• Frank Miller's work on Daredevil was just as impactful for the comic book medium"
+        ],
+        "hopeful_bullets": [
+          "• Daredevil would later evolve in several ways to build one of Marvel's strongest stories "
+        ],
+        "stakes_bullets": [
+          "• Frank Miller's work on Daredevil was just as impactful for the comic book medium"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "edb4c8399f60"
+    },
+    {
+      "id": "c085cb975adc",
+      "title": "Supreme court allows Texas to use new congressional map favoring Republicans in 2026 elections – as it happened",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/dec/04/us-politics-live-donald-trump-latest-news-updates-democrats-republicans",
+      "published_at": "Fri, 05 Dec 2025 02:48:52 GMT",
+      "bullets": [
+        "• Supreme Court will allow Texas to use a congressional map redrawn to favor Republicans in 2026",
+        "• US forces strike another alleged drug trafficking boat in the eastern Pacific, killing four men",
+        "• Adm Frank “Mitch” Bradley arrived on Capitol Hill to discuss the “double-tap” boat strike on suspected drug boats off the coast of Venezuela "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Supreme Court will allow Texas to use a congressional map redrawn to favor Republicans in 2026",
+          "• US forces strike another alleged drug trafficking boat in the eastern Pacific, killing four men"
+        ],
+        "hopeful_bullets": [
+          "• Supreme Court will allow Texas to use a congressional map redrawn to favor Republicans in 2026",
+          "• US forces strike another alleged drug trafficking boat in the eastern Pacific, killing four men"
+        ],
+        "stakes_bullets": [
+          "• Supreme Court will allow Texas to use a congressional map redrawn to favor Republicans in 2026"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "10571fea07fb"
+    },
+    {
       "id": "14f466ee5c51",
       "title": "Naruto Celebrates Special 10th Anniversary With Action-Packed New Trailer",
       "outlet": "CBR",
@@ -7537,6 +7704,74 @@
       },
       "read_minutes": 7,
       "cluster_id": "e69aedd78cb5"
+    },
+    {
+      "id": "ac5fd0037690",
+      "title": "CNBC's Inside India newsletter: How a government app in India triggered a backlash over internet freedom",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/04/cnbc-inside-india-newsletter-how-a-state-run-app-sparked-a-fresh-fight-over-digital-overreach.html",
+      "published_at": "Fri, 05 Dec 2025 02:28:30 GMT",
+      "bullets": [
+        "• The Indian government asked phone manufacturers to preload a state-run cybersecurity app with no option to disable it",
+        "• There was backlash on social media and pressure from internet freedom activists",
+        "• The government rolled back the mandate for the Sanchar Saathi app, while defending it as a \"citizen-centric tool\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Indian government asked phone manufacturers to preload a state-run cybersecurity app with no option to disable it",
+          "• There was backlash on social media and pressure from internet freedom activists"
+        ],
+        "hopeful_bullets": [
+          "• The Indian government asked phone manufacturers to preload a state-run cybersecurity app with no option to disable it",
+          "• There was backlash on social media and pressure from internet freedom activists"
+        ],
+        "stakes_bullets": [
+          "• The Indian government asked phone manufacturers to preload a state-run cybersecurity app with no option to disable it",
+          "• There was backlash on social media and pressure from internet freedom activists",
+          "• The government rolled back the mandate for the Sanchar Saathi app, while defending it as a \"citizen-centric tool\""
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "560124ae535b"
+    },
+    {
+      "id": "2b11abb89a8e",
+      "title": "Pentagon announces it has killed four men in another boat strike in Pacific",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/04/pentagon-boat-strike-pacific",
+      "published_at": "Fri, 05 Dec 2025 02:27:10 GMT",
+      "bullets": [
+        "• Video of the latest strike posted on social media by the US southern command, based in Florida",
+        "• Video shows a large explosion suddenly overtaking a small boat as it moves through the water",
+        "• Pentagon says the vessel was carrying illicit narcotics and transiting along a known narco-trafficking route in the Eastern Pacific "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.97
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Video of the latest strike posted on social media by the US southern command, based in Florida",
+          "• Video shows a large explosion suddenly overtaking a small boat as it moves through the water"
+        ],
+        "hopeful_bullets": [
+          "• Video of the latest strike posted on social media by the US southern command, based in Florida",
+          "• Video shows a large explosion suddenly overtaking a small boat as it moves through the water"
+        ],
+        "stakes_bullets": [
+          "• Video of the latest strike posted on social media by the US southern command, based in Florida",
+          "• Video shows a large explosion suddenly overtaking a small boat as it moves through the water",
+          "• Pentagon says the vessel was carrying illicit narcotics and transiting along a known narco-trafficking route in the Eastern Pacific "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d33275ef096c"
     },
     {
       "id": "beb8cdfef07a",
@@ -7640,38 +7875,38 @@
       "cluster_id": "eb16870f534b"
     },
     {
-      "id": "ac5fd0037690",
-      "title": "CNBC's Inside India newsletter: How a government app in India triggered a backlash over internet freedom",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/cnbc-inside-india-newsletter-how-a-state-run-app-sparked-a-fresh-fight-over-digital-overreach.html",
-      "published_at": "Fri, 05 Dec 2025 02:02:28 GMT",
+      "id": "908fa9099cbb",
+      "title": "Trump news at a glance: US supreme court gives Texas win in national redistricting battle",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/04/trump-administration-news-update-today",
+      "published_at": "Fri, 05 Dec 2025 02:06:16 GMT",
       "bullets": [
-        "• The Indian government asked phone manufacturers to preload a state-run cybersecurity app with no option to disable it",
-        "• There was backlash on social media and pressure from internet freedom activists",
-        "• The government rolled back the mandate for the Sanchar Saathi app, while defending it as a \"citizen-centric tool\""
+        "• US supreme court gives Texas win in national redistricting battle",
+        "• State is key in president’s effort to secure Republicans’ fragile House majority for second half of his term",
+        "• The ruling comes amid a nationwide battle over the redrawing of electoral maps "
       ],
-      "category": "Business",
+      "category": "US",
       "sentiment": {
-        "label": "negative",
-        "score": 0.994
+        "label": "positive",
+        "score": 0.984
       },
       "moods": {
         "brief_bullets": [
-          "• The Indian government asked phone manufacturers to preload a state-run cybersecurity app with no option to disable it",
-          "• There was backlash on social media and pressure from internet freedom activists"
+          "• US supreme court gives Texas win in national redistricting battle",
+          "• State is key in president’s effort to secure Republicans’ fragile House majority for second half of his term"
         ],
         "hopeful_bullets": [
-          "• The Indian government asked phone manufacturers to preload a state-run cybersecurity app with no option to disable it",
-          "• There was backlash on social media and pressure from internet freedom activists"
+          "• US supreme court gives Texas win in national redistricting battle",
+          "• The ruling comes amid a nationwide battle over the redrawing of electoral maps "
         ],
         "stakes_bullets": [
-          "• The Indian government asked phone manufacturers to preload a state-run cybersecurity app with no option to disable it",
-          "• There was backlash on social media and pressure from internet freedom activists",
-          "• The government rolled back the mandate for the Sanchar Saathi app, while defending it as a \"citizen-centric tool\""
+          "• US supreme court gives Texas win in national redistricting battle",
+          "• State is key in president’s effort to secure Republicans’ fragile House majority for second half of his term",
+          "• The ruling comes amid a nationwide battle over the redrawing of electoral maps "
         ]
       },
-      "read_minutes": 6,
-      "cluster_id": "560124ae535b"
+      "read_minutes": 1,
+      "cluster_id": "b36f2e18080f"
     },
     {
       "id": "a622c5312b95",
@@ -7742,38 +7977,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "14dc792ff898"
-    },
-    {
-      "id": "c085cb975adc",
-      "title": "Supreme court allows Texas to use new congressional map favoring Republicans in 2026 elections – US politics live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/dec/04/us-politics-live-donald-trump-latest-news-updates-democrats-republicans",
-      "published_at": "Fri, 05 Dec 2025 01:50:36 GMT",
-      "bullets": [
-        "• Supreme court rules Texas redistricting may proceed",
-        "• Texas redrew its congressional map this summer as part of an effort to protect Republicans’ slim majority in the House ahead of the 2026 midterm elections",
-        "• The new Dietary Guidelines will instead be published in early 2026 "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Supreme court rules Texas redistricting may proceed",
-          "• Texas redrew its congressional map this summer as part of an effort to protect Republicans’ slim majority in the House ahead of the 2026 midterm elections"
-        ],
-        "hopeful_bullets": [
-          "• Supreme court rules Texas redistricting may proceed",
-          "• Texas redrew its congressional map this summer as part of an effort to protect Republicans’ slim majority in the House ahead of the 2026 midterm elections"
-        ],
-        "stakes_bullets": [
-          "• The new Dietary Guidelines will instead be published in early 2026 "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "10571fea07fb"
     },
     {
       "id": "1c6107af4dc4",
@@ -8008,107 +8211,6 @@
       "cluster_id": "32e2834e2260"
     },
     {
-      "id": "8dc61697433b",
-      "title": "10 Near-Perfect Sci-Fi Anime Held Back By 1 Fatal Flaw",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-sci-fi-anime-1-major-flaw/",
-      "published_at": "Fri, 05 Dec 2025 01:16:11 GMT",
-      "bullets": [
-        "• Science fiction anime loves big ideas, but sometimes one problem ruins everything",
-        "• From hasty endings to confusing plotlines, these sci-fi anime started strong and stumbled right before the finish line",
-        "• Sometimes the main character is designed so poorly that even the best plot twist cannot save the story "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Science fiction anime loves big ideas, but sometimes one problem ruins everything",
-          "• From hasty endings to confusing plotlines, these sci-fi anime started strong and stumbled right before the finish line"
-        ],
-        "hopeful_bullets": [
-          "• From hasty endings to confusing plotlines, these sci-fi anime started strong and stumbled right before the finish line"
-        ],
-        "stakes_bullets": [
-          "• Science fiction anime loves big ideas, but sometimes one problem ruins everything",
-          "• From hasty endings to confusing plotlines, these sci-fi anime started strong and stumbled right before the finish line",
-          "• Sometimes the main character is designed so poorly that even the best plot twist cannot save the story "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "88914547ab36"
-    },
-    {
-      "id": "33979c466b9d",
-      "title": "Frieren Officially Outranks Fullmetal Alchemist, But It's a Lie",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/frieren-fullmetal-alchemist-brotherhood-best-anime-mal-ranking/",
-      "published_at": "Fri, 05 Dec 2025 01:00:42 GMT",
-      "bullets": [
-        "• MyAnimeList is arguably one of the biggest anime and manga communities, favored for its massive database of shows",
-        "• Fans can also rate their favorite entries, and these scores help determine each show’s overall ranking",
-        "• FMAB reigned supreme, holding the number one spot for a long time, until Frieren: Beyond Journey's End came and overthrew it "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• MyAnimeList is arguably one of the biggest anime and manga communities, favored for its massive database of shows",
-          "• Fans can also rate their favorite entries, and these scores help determine each show’s overall ranking"
-        ],
-        "hopeful_bullets": [
-          "• Fans can also rate their favorite entries, and these scores help determine each show’s overall ranking"
-        ],
-        "stakes_bullets": [
-          "• MyAnimeList is arguably one of the biggest anime and manga communities, favored for its massive database of shows",
-          "• Fans can also rate their favorite entries, and these scores help determine each show’s overall ranking",
-          "• FMAB reigned supreme, holding the number one spot for a long time, until Frieren: Beyond Journey's End came and overthrew it "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "69abf0c03f87"
-    },
-    {
-      "id": "2b11abb89a8e",
-      "title": "Pentagon announces it has killed four men in another boat strike in Pacific",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/04/pentagon-boat-strike-pacific",
-      "published_at": "Fri, 05 Dec 2025 00:54:14 GMT",
-      "bullets": [
-        "• Pentagon announces another deadly strike on suspected drug smugglers in eastern Pacific",
-        "• US southern command posts video of the latest strike on a boat suspected of carrying illegal narcotics",
-        "• Pentagon and White House have struggled to answer questions about the legality of the attacks",
-        "• Lawmakers have promised to investigate the first strike in September, which killed two survivors clinging to wreckage "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Pentagon announces another deadly strike on suspected drug smugglers in eastern Pacific",
-          "• US southern command posts video of the latest strike on a boat suspected of carrying illegal narcotics"
-        ],
-        "hopeful_bullets": [
-          "• Pentagon announces another deadly strike on suspected drug smugglers in eastern Pacific",
-          "• US southern command posts video of the latest strike on a boat suspected of carrying illegal narcotics"
-        ],
-        "stakes_bullets": [
-          "• Pentagon announces another deadly strike on suspected drug smugglers in eastern Pacific",
-          "• US southern command posts video of the latest strike on a boat suspected of carrying illegal narcotics",
-          "• Pentagon and White House have struggled to answer questions about the legality of the attacks"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "d33275ef096c"
-    },
-    {
       "id": "d54ea22e4dac",
       "title": "D4vd Was Google’s Top Trending Musician in 2025 Amid Death Investigation",
       "outlet": "Music News",
@@ -8312,25 +8414,24 @@
       "published_at": "Fri, 05 Dec 2025 00:15:37 +0000",
       "bullets": [
         "• Jeremy Allaire, cofounder and CEO of Circle, says the global economy is about to undergo a major shift",
-        "• He says the next evolution in the cryptocurrency space is “money as an app platform” on which a digital-only economy will grow",
-        "• Circle is best known for USDC, the second-largest stablecoin by market capitalization "
+        "• He says the next evolution in the cryptocurrency space is “money as an app platform” on which a digital-only economy will grow "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.532
+        "label": "positive",
+        "score": 0.855
       },
       "moods": {
         "brief_bullets": [
           "• Jeremy Allaire, cofounder and CEO of Circle, says the global economy is about to undergo a major shift",
-          "• He says the next evolution in the cryptocurrency space is “money as an app platform” on which a digital-only economy will grow"
+          "• He says the next evolution in the cryptocurrency space is “money as an app platform” on which a digital-only economy will grow "
         ],
         "hopeful_bullets": [
           "• Jeremy Allaire, cofounder and CEO of Circle, says the global economy is about to undergo a major shift",
-          "• He says the next evolution in the cryptocurrency space is “money as an app platform” on which a digital-only economy will grow"
+          "• He says the next evolution in the cryptocurrency space is “money as an app platform” on which a digital-only economy will grow "
         ],
         "stakes_bullets": [
-          "• He says the next evolution in the cryptocurrency space is “money as an app platform” on which a digital-only economy will grow"
+          "• He says the next evolution in the cryptocurrency space is “money as an app platform” on which a digital-only economy will grow "
         ]
       },
       "read_minutes": 2,
@@ -9599,6 +9700,42 @@
       ]
     },
     {
+      "id": "d33275ef096c",
+      "topic": "announce another four killed",
+      "keywords": [
+        "announce",
+        "another",
+        "four",
+        "killed",
+        "men",
+        "pentagon"
+      ],
+      "item_ids": [
+        "2b11abb89a8e"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "b36f2e18080f",
+      "topic": "court give glance supreme",
+      "keywords": [
+        "court",
+        "give",
+        "glance",
+        "supreme",
+        "texa",
+        "trump"
+      ],
+      "item_ids": [
+        "908fa9099cbb"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "09232062897c",
       "topic": "911 audio call court",
       "keywords": [
@@ -9629,24 +9766,6 @@
       ],
       "item_ids": [
         "15a7ea5d72b5"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "d33275ef096c",
-      "topic": "announce another four killed",
-      "keywords": [
-        "announce",
-        "another",
-        "four",
-        "killed",
-        "men",
-        "pentagon"
-      ],
-      "item_ids": [
-        "2b11abb89a8e"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9725,24 +9844,6 @@
       ]
     },
     {
-      "id": "40acf79e8955",
-      "topic": "300m architect gilded overseeing",
-      "keywords": [
-        "300m",
-        "architect",
-        "gilded",
-        "overseeing",
-        "replace",
-        "trump"
-      ],
-      "item_ids": [
-        "47019b95be44"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "fa321e66a787",
       "topic": "allow appeal court guard",
       "keywords": [
@@ -9758,6 +9859,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "6e6ef8ece526",
+      "topic": "fraud grand indictment jury",
+      "keywords": [
+        "fraud",
+        "grand",
+        "indictment",
+        "jury",
+        "mortgage",
+        "reject"
+      ],
+      "item_ids": [
+        "6c36a43af879"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9923,24 +10042,6 @@
       ]
     },
     {
-      "id": "a88d72efa9c5",
-      "topic": "campaign energized europe left",
-      "keywords": [
-        "campaign",
-        "energized",
-        "europe",
-        "left",
-        "mamdani",
-        "successful"
-      ],
-      "item_ids": [
-        "055150b3eabb"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "7ff7cc81894d",
       "topic": "cash much nvidia problem",
       "keywords": [
@@ -10006,6 +10107,24 @@
       ],
       "item_ids": [
         "0d31426409f2"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "9c655a2a3ae1",
+      "topic": "400 china moore nvidia",
+      "keywords": [
+        "400",
+        "china",
+        "moore",
+        "nvidia",
+        "surge",
+        "thread"
+      ],
+      "item_ids": [
+        "77d583a76048"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10078,24 +10197,6 @@
       ],
       "item_ids": [
         "31e29664b489"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "6fcb7be99ff1",
-      "topic": "beauty hike pop retailer",
-      "keywords": [
-        "beauty",
-        "hike",
-        "pop",
-        "retailer",
-        "share",
-        "ulta"
-      ],
-      "item_ids": [
-        "8b8e0f8cafaa"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -11011,6 +11112,60 @@
       ],
       "outlets": [
         "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "313411e10904",
+      "topic": "administration controversial fallout look",
+      "keywords": [
+        "administration",
+        "controversial",
+        "fallout",
+        "look",
+        "navigate",
+        "trump"
+      ],
+      "item_ids": [
+        "61eb8e97115f"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "c854c11bebc9",
+      "topic": "briefed congressional leader off",
+      "keywords": [
+        "briefed",
+        "congressional",
+        "leader",
+        "off",
+        "second",
+        "strike"
+      ],
+      "item_ids": [
+        "7b77e395eaaa"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "a88d72efa9c5",
+      "topic": "campaign energized europe left",
+      "keywords": [
+        "campaign",
+        "energized",
+        "europe",
+        "left",
+        "mamdani",
+        "successful"
+      ],
+      "item_ids": [
+        "055150b3eabb"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
       ]
     },
     {
@@ -13296,6 +13451,42 @@
       ]
     },
     {
+      "id": "791e25bcfbf9",
+      "topic": "all episode greatest heroe",
+      "keywords": [
+        "all",
+        "episode",
+        "greatest",
+        "heroe",
+        "pilot",
+        "still"
+      ],
+      "item_ids": [
+        "979ba000aeeb"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "edb4c8399f60",
+      "topic": "best daredevil first point",
+      "keywords": [
+        "best",
+        "daredevil",
+        "first",
+        "point",
+        "starting",
+        "time"
+      ],
+      "item_ids": [
+        "34d8e6f4b8ca"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "e13320c38b2d",
       "topic": "10th action anniversary celebrate",
       "keywords": [
@@ -13433,42 +13624,6 @@
       ],
       "item_ids": [
         "321b27629a95"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "88914547ab36",
-      "topic": "anime back held near",
-      "keywords": [
-        "anime",
-        "back",
-        "held",
-        "near",
-        "perfect",
-        "sci"
-      ],
-      "item_ids": [
-        "8dc61697433b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "69abf0c03f87",
-      "topic": "alchemist frieren fullmetal lie",
-      "keywords": [
-        "alchemist",
-        "frieren",
-        "fullmetal",
-        "lie",
-        "officially",
-        "outrank"
-      ],
-      "item_ids": [
-        "33979c466b9d"
       ],
       "outlets": [
         "CBR"
@@ -13833,6 +13988,24 @@
       ]
     },
     {
+      "id": "3ba933b4f4c8",
+      "topic": "eurovision ireland israel other",
+      "keywords": [
+        "eurovision",
+        "ireland",
+        "israel",
+        "other",
+        "spain",
+        "withdraw"
+      ],
+      "item_ids": [
+        "65e660d80bfa"
+      ],
+      "outlets": [
+        "RSS: News"
+      ]
+    },
+    {
       "id": "29f02d4d5bc5",
       "topic": "announce mixtape niontay share",
       "keywords": [
@@ -13985,24 +14158,6 @@
       ],
       "item_ids": [
         "74ba633f7037"
-      ],
-      "outlets": [
-        "RSS: News"
-      ]
-    },
-    {
-      "id": "ef9d2588cf66",
-      "topic": "cover daniel glorilla johnston",
-      "keywords": [
-        "cover",
-        "daniel",
-        "glorilla",
-        "johnston",
-        "robyn",
-        "xiu"
-      ],
-      "item_ids": [
-        "8d9d1ddf3960"
       ],
       "outlets": [
         "RSS: News"
