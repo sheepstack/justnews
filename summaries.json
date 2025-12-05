@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-05T17:09:25Z",
+  "generated_at": "2025-12-05T17:59:10Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -633,28 +633,28 @@
       "published_at": "Wed, 03 Dec 2025 17:50:52 +0000",
       "bullets": [
         "• Daniel Lopatin scored director Josh Safdie's new A24 film Marty Supreme",
-        "• He's now sharing the details of the soundtrack",
-        "• The 22-song album is out December 25",
-        "• It stars Timothée Chalamet and Gwyneth Paltrow in the film "
+        "• He's now sharing the details of the soundtrack album",
+        "• The 23-song Marty Supreme (Orginal Soundtrack) is out December 25",
+        "• Timothée Chalamet plays table tennis star Marty Mauser in the film "
       ],
       "category": "Music",
       "sentiment": {
         "label": "positive",
-        "score": 0.963
+        "score": 0.753
       },
       "moods": {
         "brief_bullets": [
           "• Daniel Lopatin scored director Josh Safdie's new A24 film Marty Supreme",
-          "• He's now sharing the details of the soundtrack"
+          "• He's now sharing the details of the soundtrack album"
         ],
         "hopeful_bullets": [
           "• Daniel Lopatin scored director Josh Safdie's new A24 film Marty Supreme",
-          "• He's now sharing the details of the soundtrack"
+          "• He's now sharing the details of the soundtrack album"
         ],
         "stakes_bullets": [
           "• Daniel Lopatin scored director Josh Safdie's new A24 film Marty Supreme",
-          "• He's now sharing the details of the soundtrack",
-          "• The 22-song album is out December 25"
+          "• He's now sharing the details of the soundtrack album",
+          "• The 23-song Marty Supreme (Orginal Soundtrack) is out December 25"
         ]
       },
       "read_minutes": 1,
@@ -2440,40 +2440,6 @@
       "cluster_id": "948536033a85"
     },
     {
-      "id": "d9f087598a83",
-      "title": "Researchers find what makes AI chatbots politically persuasive",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/science/2025/12/researchers-find-what-makes-ai-chatbots-politically-persuasive/",
-      "published_at": "Thu, 04 Dec 2025 20:07:20 +0000",
-      "bullets": [
-        "• Large language models have access to essentially every fact and story ever published about any issue or candidate",
-        "• They can rely on absurdly high computing power in huge data centers worldwide",
-        "• On top of that, they can often access tons of personal information about individual users thanks to hundreds upon hundreds of online interactions "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.865
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Large language models have access to essentially every fact and story ever published about any issue or candidate",
-          "• They can rely on absurdly high computing power in huge data centers worldwide"
-        ],
-        "hopeful_bullets": [
-          "• Large language models have access to essentially every fact and story ever published about any issue or candidate",
-          "• They can rely on absurdly high computing power in huge data centers worldwide"
-        ],
-        "stakes_bullets": [
-          "• Large language models have access to essentially every fact and story ever published about any issue or candidate",
-          "• They can rely on absurdly high computing power in huge data centers worldwide",
-          "• On top of that, they can often access tons of personal information about individual users thanks to hundreds upon hundreds of online interactions "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3d6ebcbaaf00"
-    },
-    {
       "id": "a405f5b1a6f3",
       "title": "One of the Most Chilling Genre Films of the Last Decade Now Streaming Free: “Brutal Survival Horror”",
       "outlet": "Dread Central",
@@ -2503,38 +2469,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "ec1fc9b60f0e"
-    },
-    {
-      "id": "0acd39b17235",
-      "title": "Why won’t Steam Machine support HDMI 2.1? Digging in on the display standard drama.",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/gaming/2025/12/why-wont-steam-machine-support-hdmi-2-1-digging-in-on-the-display-standard-drama/",
-      "published_at": "Thu, 04 Dec 2025 19:53:14 +0000",
-      "bullets": [
-        "• Valve says its Steam Machine hardware supports HDMI 2.0 rather than the updated, higher-bandwidth 2.1 standard introduced in 2017",
-        "• The HDMI Forum has blocked open source implementation of the new standard",
-        "• That means the open source AMD drivers used by SteamOS can't fully implement certain features that are specific to the updated output standard "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Valve says its Steam Machine hardware supports HDMI 2.0 rather than the updated, higher-bandwidth 2.1 standard introduced in 2017",
-          "• The HDMI Forum has blocked open source implementation of the new standard"
-        ],
-        "hopeful_bullets": [
-          "• Valve says its Steam Machine hardware supports HDMI 2.0 rather than the updated, higher-bandwidth 2.1 standard introduced in 2017",
-          "• The HDMI Forum has blocked open source implementation of the new standard"
-        ],
-        "stakes_bullets": [
-          "• Valve says its Steam Machine hardware supports HDMI 2.0 rather than the updated, higher-bandwidth 2.1 standard introduced in 2017"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "a56065a2b778"
     },
     {
       "id": "c7010a74e981",
@@ -4882,6 +4816,525 @@
       "cluster_id": "2daa60016122"
     },
     {
+      "id": "167bde011e06",
+      "title": "A Major New Era of Marvel Cosmic Storytelling is About to Begin",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/new-era-of-marvel-cosmic-storytelling-to-begin-imperial-guardians/",
+      "published_at": "Fri, 05 Dec 2025 17:50:26 GMT",
+      "bullets": [
+        "• New Marvel Comics series, Imperial Guardians, is the brainchild of Dan Abnett and Marcel Ferreira",
+        "• The series is a new variant of the Guardians of the Galaxy",
+        "• It will debut in Spring 2026 with a level of intensity that ratchets up the stakes beyond Imperial "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New Marvel Comics series, Imperial Guardians, is the brainchild of Dan Abnett and Marcel Ferreira",
+          "• The series is a new variant of the Guardians of the Galaxy"
+        ],
+        "hopeful_bullets": [
+          "• New Marvel Comics series, Imperial Guardians, is the brainchild of Dan Abnett and Marcel Ferreira",
+          "• The series is a new variant of the Guardians of the Galaxy"
+        ],
+        "stakes_bullets": [
+          "• It will debut in Spring 2026 with a level of intensity that ratchets up the stakes beyond Imperial "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8fd36de052ae"
+    },
+    {
+      "id": "62c3fa75415a",
+      "title": "Malcolm in the Middle Sets Release Date for Highly Anticipated Disney+ Revival",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/malcolm-in-the-middle-reboot-release-date-revealed/",
+      "published_at": "Fri, 05 Dec 2025 17:38:25 GMT",
+      "bullets": [
+        "• The highly anticipated Malcom in the Middle reboot will officially premiere on Hulu and Hulu on Disney+ in 2026",
+        "• Hulu revealed the premiere date in a teaser video posted via its Instagram account",
+        "• The original series premiered on Fox back in 2000 and starred Frankie Muniz as the titular Malcom "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.865
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The highly anticipated Malcom in the Middle reboot will officially premiere on Hulu and Hulu on Disney+ in 2026",
+          "• Hulu revealed the premiere date in a teaser video posted via its Instagram account"
+        ],
+        "hopeful_bullets": [
+          "• The highly anticipated Malcom in the Middle reboot will officially premiere on Hulu and Hulu on Disney+ in 2026",
+          "• Hulu revealed the premiere date in a teaser video posted via its Instagram account"
+        ],
+        "stakes_bullets": [
+          "• The highly anticipated Malcom in the Middle reboot will officially premiere on Hulu and Hulu on Disney+ in 2026"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "93189665a56a"
+    },
+    {
+      "id": "3fa65f2acc49",
+      "title": "Avengers: Secret Wars Confirms Its First MCU Superstar: 'That's What I Have To Film Next'",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/avengers-secret-wars-letitia-wright-shuri-confirmed/",
+      "published_at": "Fri, 05 Dec 2025 17:30:32 GMT",
+      "bullets": [
+        "• Letitia Wright will be making her appearance in Avengers: Secret Wars",
+        "• Wright said she has no clue about Black Panther 3's filming timeline",
+        "• The actress said she is excited about the growth of the Marvel franchise",
+        "• She also said she had a lot of fun working on Avengers: Doomsday "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.981
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Letitia Wright will be making her appearance in Avengers: Secret Wars",
+          "• Wright said she has no clue about Black Panther 3's filming timeline"
+        ],
+        "hopeful_bullets": [
+          "• The actress said she is excited about the growth of the Marvel franchise"
+        ],
+        "stakes_bullets": [
+          "• Letitia Wright will be making her appearance in Avengers: Secret Wars"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "1c2d896a0b1b"
+    },
+    {
+      "id": "99e5e70e47a6",
+      "title": "Japan Crowns Its Cutest Character in New Research Survey (& It's Not Hello Kitty)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/japan-cutest-character-survey-2025/",
+      "published_at": "Fri, 05 Dec 2025 17:30:11 GMT",
+      "bullets": [
+        "• Japanese company Furyu Corporation recently unveiled the results of its recent survey, conducted through the company's Girls General Research Institute",
+        "• The results revealed that the number one most kawaii character for the Japanese women surveyed is none other than Chiikawa",
+        "• Snoopy from the Peanuts comics and cartoons came in second place, followed by Snoopy and Winnie-the-Pooh "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.949
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Japanese company Furyu Corporation recently unveiled the results of its recent survey, conducted through the company's Girls General Research Institute",
+          "• The results revealed that the number one most kawaii character for the Japanese women surveyed is none other than Chiikawa"
+        ],
+        "hopeful_bullets": [
+          "• Snoopy from the Peanuts comics and cartoons came in second place, followed by Snoopy and Winnie-the-Pooh "
+        ],
+        "stakes_bullets": [
+          "• Japanese company Furyu Corporation recently unveiled the results of its recent survey, conducted through the company's Girls General Research Institute",
+          "• The results revealed that the number one most kawaii character for the Japanese women surveyed is none other than Chiikawa"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "b3a88844b3db"
+    },
+    {
+      "id": "1ecde6e07c27",
+      "title": "RFK Jr.’s vaccine panel weakens recommendation on hepatitis B shot for babies, scrapping universal guidance",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/05/hepatitis-b-vaccine-babies-rfk-jr-cdc.html",
+      "published_at": "Fri, 05 Dec 2025 17:27:39 GMT",
+      "bullets": [
+        "• Committee on Immunization Practices recommends that all babies get the first dose of the hepatitis B vaccine within 24 hours of birth",
+        "• The change could have wide-ranging consequences, including an increase in infections among kids",
+        "• The CDC still has to sign off on the change "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Committee on Immunization Practices recommends that all babies get the first dose of the hepatitis B vaccine within 24 hours of birth",
+          "• The change could have wide-ranging consequences, including an increase in infections among kids"
+        ],
+        "hopeful_bullets": [
+          "• Committee on Immunization Practices recommends that all babies get the first dose of the hepatitis B vaccine within 24 hours of birth",
+          "• The change could have wide-ranging consequences, including an increase in infections among kids"
+        ],
+        "stakes_bullets": [
+          "• The change could have wide-ranging consequences, including an increase in infections among kids"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "90195ea0d43a"
+    },
+    {
+      "id": "8f562fe872fb",
+      "title": "Look Inside Rob Zombie’s ‘House of 1000 Corpses’ Graphic Novel [Exclusive]",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/exclusives/3920230/look-inside-rob-zombies-house-of-1000-corpses-graphic-novel-exclusive/",
+      "published_at": "Fri, 05 Dec 2025 17:27:16 +0000",
+      "bullets": [
+        "• House of 1000 Corpses: The Official Graphic Novel Adaptation is available on Amazon.com",
+        "• The book is written by the artist behind the The Official Rob Zombie Coloring Book and Z Is for Zombie: Learning to Spell",
+        "• The 120-page hardcover graphic novel is available via Neck Bolt Publishing "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.56
+      },
+      "moods": {
+        "brief_bullets": [
+          "• House of 1000 Corpses: The Official Graphic Novel Adaptation is available on Amazon.com",
+          "• The book is written by the artist behind the The Official Rob Zombie Coloring Book and Z Is for Zombie: Learning to Spell"
+        ],
+        "hopeful_bullets": [
+          "• House of 1000 Corpses: The Official Graphic Novel Adaptation is available on Amazon.com",
+          "• The book is written by the artist behind the The Official Rob Zombie Coloring Book and Z Is for Zombie: Learning to Spell"
+        ],
+        "stakes_bullets": [
+          "• House of 1000 Corpses: The Official Graphic Novel Adaptation is available on Amazon.com",
+          "• The book is written by the artist behind the The Official Rob Zombie Coloring Book and Z Is for Zombie: Learning to Spell",
+          "• The 120-page hardcover graphic novel is available via Neck Bolt Publishing "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "822b850407ac"
+    },
+    {
+      "id": "8f966339bc18",
+      "title": "Seth Rogen's Platonic Renewed for Season 3 at Apple TV",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/platonic-fate-revealed-apple-tv/",
+      "published_at": "Fri, 05 Dec 2025 17:25:47 GMT",
+      "bullets": [
+        "• Seth Rogen and Rose Byrne star as platonic best friends as they navigate midlife after a reunion after a long time apart",
+        "• Rogen’s The Studio took home 13 Emmy Awards this year, including Outstanding Comedy Series",
+        "• The show also stars Carla Gallo, Sophie Leonard, Max Matenko, and Sophia Kopera "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Seth Rogen and Rose Byrne star as platonic best friends as they navigate midlife after a reunion after a long time apart",
+          "• Rogen’s The Studio took home 13 Emmy Awards this year, including Outstanding Comedy Series"
+        ],
+        "hopeful_bullets": [
+          "• Rogen’s The Studio took home 13 Emmy Awards this year, including Outstanding Comedy Series"
+        ],
+        "stakes_bullets": [
+          "• Seth Rogen and Rose Byrne star as platonic best friends as they navigate midlife after a reunion after a long time apart",
+          "• Rogen’s The Studio took home 13 Emmy Awards this year, including Outstanding Comedy Series",
+          "• The show also stars Carla Gallo, Sophie Leonard, Max Matenko, and Sophia Kopera "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "dd431d50ac09"
+    },
+    {
+      "id": "633bf7c99a82",
+      "title": "Western countries press Tanzania to release bodies of post-election victims",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8xdvg2ydddo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 05 Dec 2025 17:22:49 GMT",
+      "bullets": [
+        "• Western embassies in Tanzania call on the government to release bodies of post-election victims",
+        "• They cite \"credible reports\" of extrajudicial killings, disappearances and arbitrary arrests",
+        "• President Samia Suluhu Hassan was declared the winner with 98% of the vote "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.91
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Western embassies in Tanzania call on the government to release bodies of post-election victims",
+          "• They cite \"credible reports\" of extrajudicial killings, disappearances and arbitrary arrests"
+        ],
+        "hopeful_bullets": [
+          "• President Samia Suluhu Hassan was declared the winner with 98% of the vote "
+        ],
+        "stakes_bullets": [
+          "• Western embassies in Tanzania call on the government to release bodies of post-election victims",
+          "• They cite \"credible reports\" of extrajudicial killings, disappearances and arbitrary arrests",
+          "• President Samia Suluhu Hassan was declared the winner with 98% of the vote "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2d132fadb558"
+    },
+    {
+      "id": "12f45969648f",
+      "title": "Tokenized stocks offer new opportunities for investors, but carry unique risks",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/05/tokenized-stocks-offer-new-opportunities-for-investors-but-carry-unique-risks.html",
+      "published_at": "Fri, 05 Dec 2025 17:22:42 GMT",
+      "bullets": [
+        "• Tokenized stocks are gaining ground as a way for ordinary people to access investment opportunities long reserved for high net-worth individuals and other accredited investors",
+        "• The products have become popular with some as means of investing in private companies at early stages, potentially leading to outsized returns",
+        "• Some experts are divided on tokenized equities "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.965
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tokenized stocks are gaining ground as a way for ordinary people to access investment opportunities long reserved for high net-worth individuals and other accredited investors",
+          "• The products have become popular with some as means of investing in private companies at early stages, potentially leading to outsized returns"
+        ],
+        "hopeful_bullets": [
+          "• Tokenized stocks are gaining ground as a way for ordinary people to access investment opportunities long reserved for high net-worth individuals and other accredited investors",
+          "• The products have become popular with some as means of investing in private companies at early stages, potentially leading to outsized returns"
+        ],
+        "stakes_bullets": [
+          "• The products have become popular with some as means of investing in private companies at early stages, potentially leading to outsized returns"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "9fdbaac02083"
+    },
+    {
+      "id": "e45db49ead39",
+      "title": "Netflix to buy Warner Bros. film and streaming assets in $72 billion deal",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/05/neflix-warner-bros-discovery-deal.html",
+      "published_at": "Fri, 05 Dec 2025 17:16:03 GMT",
+      "bullets": [
+        "• Netflix announced Friday it's reached a deal to buy pieces of Warner Bros",
+        "• Discovery",
+        "• The deal is comprised of cash and stock and is valued at $27.75 per WBD share",
+        "• It will include the content of HBO Max, including \"The Sopranos,\" \"Game of Thrones\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.906
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Netflix announced Friday it's reached a deal to buy pieces of Warner Bros",
+          "• Discovery"
+        ],
+        "hopeful_bullets": [
+          "• Netflix announced Friday it's reached a deal to buy pieces of Warner Bros",
+          "• Discovery"
+        ],
+        "stakes_bullets": [
+          "• It will include the content of HBO Max, including \"The Sopranos,\" \"Game of Thrones\""
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "4962a5f13b0a"
+    },
+    {
+      "id": "40a6b1ca82a6",
+      "title": "‘Final Destination Bloodlines’ Is John Waters’ Favorite Horror Film of 2025: “A New Realm of Exploitation Art”",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/the-further/3920323/final-destination-bloodlines-is-john-waters-favorite-horror-film-of-2025-a-new-realm-of-exploitation-art/",
+      "published_at": "Fri, 05 Dec 2025 17:14:30 +0000",
+      "bullets": [
+        "• John Waters published his annual list of the year’s best films via Vulture",
+        "• The cult icon named Final Destination Bloodlines as his second favorite horror film of 2025",
+        "• Waters called it \"a new realm of exploitation art\" Eddington topped the list, with Waters joking, \"If you don't like this film, I hate you\""
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• John Waters published his annual list of the year’s best films via Vulture",
+          "• The cult icon named Final Destination Bloodlines as his second favorite horror film of 2025"
+        ],
+        "hopeful_bullets": [
+          "• John Waters published his annual list of the year’s best films via Vulture",
+          "• The cult icon named Final Destination Bloodlines as his second favorite horror film of 2025"
+        ],
+        "stakes_bullets": [
+          "• John Waters published his annual list of the year’s best films via Vulture",
+          "• The cult icon named Final Destination Bloodlines as his second favorite horror film of 2025",
+          "• Waters called it \"a new realm of exploitation art\" Eddington topped the list, with Waters joking, \"If you don't like this film, I hate you\""
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "4b1c8d1690f6"
+    },
+    {
+      "id": "73ef260f65cf",
+      "title": "Democrats call for Pete Hegseth’s resignation amid scrutiny over deadly boat strikes and Signalgate: ‘a disgrace to the office he holds’ – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/dec/05/trump-pete-hegseth-signal-politics-updates",
+      "published_at": "Fri, 05 Dec 2025 17:08:53 GMT",
+      "bullets": [
+        "• New Democrat Coalition calls for Hegseth to resign 'before his actions cost American lives' Comes after Pentagon report found he had endangered the lives of US service members by compromising military intelligence in a Signal group chat earlier this year",
+        "• The coalition’s chair Gil Cisneros called for the resignation "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New Democrat Coalition calls for Hegseth to resign 'before his actions cost American lives' Comes after Pentagon report found he had endangered the lives of US service members by compromising military intelligence in a Signal group chat earlier this year",
+          "• The coalition’s chair Gil Cisneros called for the resignation "
+        ],
+        "hopeful_bullets": [
+          "• New Democrat Coalition calls for Hegseth to resign 'before his actions cost American lives' Comes after Pentagon report found he had endangered the lives of US service members by compromising military intelligence in a Signal group chat earlier this year",
+          "• The coalition’s chair Gil Cisneros called for the resignation "
+        ],
+        "stakes_bullets": [
+          "• New Democrat Coalition calls for Hegseth to resign 'before his actions cost American lives' Comes after Pentagon report found he had endangered the lives of US service members by compromising military intelligence in a Signal group chat earlier this year",
+          "• The coalition’s chair Gil Cisneros called for the resignation "
+        ]
+      },
+      "read_minutes": 16,
+      "cluster_id": "3a84853e46da"
+    },
+    {
+      "id": "dbcccf437737",
+      "title": "Netflix's plan to buy Warner Bros. throws the theater industry into upheaval",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/05/netflix-warner-bros-deal-theater-industry-upheaval.html",
+      "published_at": "Fri, 05 Dec 2025 17:08:16 GMT",
+      "bullets": [
+        "• Netflix and Discovery announced a deal for the acquisition of WBD's film studio and streaming service",
+        "• There are fears that big changes could be coming to an industry that is still struggling post-pandemic",
+        "• Paramount Skydance and Comcast also vying for the assets "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Netflix and Discovery announced a deal for the acquisition of WBD's film studio and streaming service",
+          "• There are fears that big changes could be coming to an industry that is still struggling post-pandemic"
+        ],
+        "hopeful_bullets": [
+          "• Netflix and Discovery announced a deal for the acquisition of WBD's film studio and streaming service",
+          "• There are fears that big changes could be coming to an industry that is still struggling post-pandemic"
+        ],
+        "stakes_bullets": [
+          "• There are fears that big changes could be coming to an industry that is still struggling post-pandemic"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "e62f0bb838f7"
+    },
+    {
+      "id": "edb73e8714a6",
+      "title": "10 Reasons to Love Sailor Moon Even If You Never Watch It",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/sailor-moon-best-shojo-anime-magical-girl/",
+      "published_at": "Fri, 05 Dec 2025 17:07:51 GMT",
+      "bullets": [
+        "• Sailor Moon's mark on the anime world is distinct, and her blueprint for the magical girl genre continues to be iconic, even decades later",
+        "• Even Western titles like Winx Club, Steven Universe, and Miraculous Ladybug all take some inspiration from the series "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sailor Moon's mark on the anime world is distinct, and her blueprint for the magical girl genre continues to be iconic, even decades later",
+          "• Even Western titles like Winx Club, Steven Universe, and Miraculous Ladybug all take some inspiration from the series "
+        ],
+        "hopeful_bullets": [
+          "• Even Western titles like Winx Club, Steven Universe, and Miraculous Ladybug all take some inspiration from the series "
+        ],
+        "stakes_bullets": [
+          "• Sailor Moon's mark on the anime world is distinct, and her blueprint for the magical girl genre continues to be iconic, even decades later",
+          "• Even Western titles like Winx Club, Steven Universe, and Miraculous Ladybug all take some inspiration from the series "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "b15eeadeea4f"
+    },
+    {
+      "id": "4c8d92c92615",
+      "title": "Without evidence, RFK Jr.’s vaccine panel tosses Heb B vaccine recommendation",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/health/2025/12/without-evidence-rfk-jr-s-vaccine-panel-tosses-heb-b-vaccine-recommendation/",
+      "published_at": "Fri, 05 Dec 2025 17:06:34 +0000",
+      "bullets": [
+        "• Federal vaccine advisors hand-selected by anti-vaccine Health Secretary Robert F",
+        "• Kennedy Jr",
+        "• voted to eliminate recommendation that all babies be vaccinated against hepatitis B on the day of birth",
+        "• The 8–3 vote today was the third time the committee attempted to withdraw the long-standing recommendation "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Federal vaccine advisors hand-selected by anti-vaccine Health Secretary Robert F",
+          "• Kennedy Jr"
+        ],
+        "hopeful_bullets": [
+          "• voted to eliminate recommendation that all babies be vaccinated against hepatitis B on the day of birth"
+        ],
+        "stakes_bullets": [
+          "• Federal vaccine advisors hand-selected by anti-vaccine Health Secretary Robert F",
+          "• Kennedy Jr",
+          "• voted to eliminate recommendation that all babies be vaccinated against hepatitis B on the day of birth"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "218f9a717484"
+    },
+    {
+      "id": "44b1dc56b783",
+      "title": "New Video Showcases Stunning ‘American Psycho’ 25th Anniversary 4K UHD Box Set",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/exclusives/3920232/new-video-showcases-stunning-american-psycho-25th-anniversary-4k-uhd-box-set/",
+      "published_at": "Fri, 05 Dec 2025 17:06:14 +0000",
+      "bullets": [
+        "• The box set is available to pre-order now, ahead of its release on December 9",
+        "• Based on Bret Easton Ellis’s controversial 1991 novel, the 2000 satirical serial killer thriller directed by Mary Harron is presented uncut in 4K with Dolby Vision HDR "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.642
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The box set is available to pre-order now, ahead of its release on December 9",
+          "• Based on Bret Easton Ellis’s controversial 1991 novel, the 2000 satirical serial killer thriller directed by Mary Harron is presented uncut in 4K with Dolby Vision HDR "
+        ],
+        "hopeful_bullets": [
+          "• The box set is available to pre-order now, ahead of its release on December 9",
+          "• Based on Bret Easton Ellis’s controversial 1991 novel, the 2000 satirical serial killer thriller directed by Mary Harron is presented uncut in 4K with Dolby Vision HDR "
+        ],
+        "stakes_bullets": [
+          "• Based on Bret Easton Ellis’s controversial 1991 novel, the 2000 satirical serial killer thriller directed by Mary Harron is presented uncut in 4K with Dolby Vision HDR "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "db10be4612f7"
+    },
+    {
       "id": "35bf71141285",
       "title": "Jujutsu Kaisen Just Killed The Anime Industry’s Oscar Momentum",
       "outlet": "CBR",
@@ -4919,7 +5372,7 @@
       "url": "https://pitchfork.com/news/lily-allen-announces-2026-north-american-tour/",
       "published_at": "Fri, 05 Dec 2025 17:01:22 +0000",
       "bullets": [
-        "• Lily Allen will tour North American for the first time in seven years in 2026",
+        "• Lily Allen will tour North America for the first time in seven years in April 2026",
         "• The tour will feature full-length renditions of her divorce album West End Girl",
         "• The dates include shows in New York, Los Angeles, Chicago, and Toronto "
       ],
@@ -4930,20 +5383,54 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Lily Allen will tour North American for the first time in seven years in 2026",
+          "• Lily Allen will tour North America for the first time in seven years in April 2026",
           "• The tour will feature full-length renditions of her divorce album West End Girl"
         ],
         "hopeful_bullets": [
-          "• Lily Allen will tour North American for the first time in seven years in 2026",
+          "• Lily Allen will tour North America for the first time in seven years in April 2026",
           "• The tour will feature full-length renditions of her divorce album West End Girl"
         ],
         "stakes_bullets": [
-          "• Lily Allen will tour North American for the first time in seven years in 2026",
+          "• Lily Allen will tour North America for the first time in seven years in April 2026",
           "• The tour will feature full-length renditions of her divorce album West End Girl"
         ]
       },
       "read_minutes": 1,
       "cluster_id": "3b4008a0365c"
+    },
+    {
+      "id": "b287007ed8a1",
+      "title": "Dr. Squatch Launches ‘Stranger Things’ Soap with Murray Bauman Ad",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/the-further/3912359/dr-squatch-releases-stranger-things-soap/",
+      "published_at": "Fri, 05 Dec 2025 17:00:51 +0000",
+      "bullets": [
+        "• Dr",
+        "• Squatch is commemorating the fifth and final season of ‘Stranger Things’ with four limited edition soaps",
+        "• Brett Gelman reprises his Murray Bauman character to blow the lid off your shower routine in the ad below "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dr",
+          "• Squatch is commemorating the fifth and final season of ‘Stranger Things’ with four limited edition soaps"
+        ],
+        "hopeful_bullets": [
+          "• Dr",
+          "• Squatch is commemorating the fifth and final season of ‘Stranger Things’ with four limited edition soaps"
+        ],
+        "stakes_bullets": [
+          "• Dr",
+          "• Squatch is commemorating the fifth and final season of ‘Stranger Things’ with four limited edition soaps",
+          "• Brett Gelman reprises his Murray Bauman character to blow the lid off your shower routine in the ad below "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0f71fe302208"
     },
     {
       "id": "e047535faa35",
@@ -5078,49 +5565,48 @@
       "cluster_id": "21b883373c4e"
     },
     {
-      "id": "a64ff6743252",
-      "title": "Dragon Ball Super Finally Fixed Broly… Only to Immediately Abandon Him",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/dragon-ball-super-broly-bad-writing-unsatisfying-ending/",
-      "published_at": "Fri, 05 Dec 2025 16:52:18 GMT",
+      "id": "440df56a5df4",
+      "title": "Trump can fire labor, employment board members without cause: Appeals court",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/05/trump-nlrb-mspb-appeals-court-humphreys.html",
+      "published_at": "Fri, 05 Dec 2025 16:52:40 GMT",
       "bullets": [
-        "• Broly, Dragon Ball Z’s Legendary Super Super Saiyan, has been a fan-favorite character ever since his first appearance in 1993",
-        "• Dragon Ball Super: Broly does the Legendary Super Saiyan justice, while it also manages to improve upon his foundation and make him an even more interesting antagonist",
-        "• Broly's sole purpose is to be a powerful villain whose strength completely overwhelms the heroes’ best efforts "
+        "• The 2-1 decision reverses lower-court rulings blocking Trump's attempts to fire members of the key labor and employment panels",
+        "• A dissenter says Friday's ruling significantly increases the president's power",
+        "• The dissenter: \"Today, my colleagues make us the first court to strike down the independence of a traditional multimember expert agency\""
       ],
-      "category": "Comics",
+      "category": "Business",
       "sentiment": {
-        "label": "neutral",
-        "score": 0.609
+        "label": "positive",
+        "score": 0.923
       },
       "moods": {
         "brief_bullets": [
-          "• Broly, Dragon Ball Z’s Legendary Super Super Saiyan, has been a fan-favorite character ever since his first appearance in 1993",
-          "• Dragon Ball Super: Broly does the Legendary Super Saiyan justice, while it also manages to improve upon his foundation and make him an even more interesting antagonist"
+          "• The 2-1 decision reverses lower-court rulings blocking Trump's attempts to fire members of the key labor and employment panels",
+          "• A dissenter says Friday's ruling significantly increases the president's power"
         ],
         "hopeful_bullets": [
-          "• Dragon Ball Super: Broly does the Legendary Super Saiyan justice, while it also manages to improve upon his foundation and make him an even more interesting antagonist"
+          "• The 2-1 decision reverses lower-court rulings blocking Trump's attempts to fire members of the key labor and employment panels",
+          "• A dissenter says Friday's ruling significantly increases the president's power"
         ],
         "stakes_bullets": [
-          "• Broly, Dragon Ball Z’s Legendary Super Super Saiyan, has been a fan-favorite character ever since his first appearance in 1993",
-          "• Dragon Ball Super: Broly does the Legendary Super Saiyan justice, while it also manages to improve upon his foundation and make him an even more interesting antagonist",
-          "• Broly's sole purpose is to be a powerful villain whose strength completely overwhelms the heroes’ best efforts "
+          "• A dissenter says Friday's ruling significantly increases the president's power"
         ]
       },
-      "read_minutes": 7,
-      "cluster_id": "ea2218540117"
+      "read_minutes": 2,
+      "cluster_id": "6ec1d098976b"
     },
     {
       "id": "7e8efaf3e696",
       "title": "Science journal retracts study on safety of Monsanto’s Roundup: ‘serious ethical concerns’",
-      "outlet": "Environment | The Guardian",
+      "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/dec/05/monsanto-roundup-safety-study-retracted",
       "published_at": "Fri, 05 Dec 2025 16:42:17 GMT",
       "bullets": [
         "• Journal retracted sweeping scientific paper published in 2000 that became a key defense for Monsanto's claim that Roundup herbicide and its active ingredient glyphosate don’t cause cancer",
         "• The paper concluded that Monsanto’s glyphosate-based weed killers posed no health risks to humans – no cancer risks, no reproductive risks "
       ],
-      "category": "Environment",
+      "category": "US",
       "sentiment": {
         "label": "negative",
         "score": 0.969
@@ -5141,6 +5627,38 @@
       },
       "read_minutes": 5,
       "cluster_id": "e59c11e8d129"
+    },
+    {
+      "id": "d037c789319d",
+      "title": "Trump administration moves to deny visas to factcheckers and content moderators",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/05/trump-administration-us-visa-crackdown",
+      "published_at": "Fri, 05 Dec 2025 16:41:31 GMT",
+      "bullets": [
+        "• The order is aimed at those who have engaged in censorship of free speech",
+        "• It is the latest in a number of recent moves by Donald Trump to restrict legal immigration to the US",
+        "• It will initially focus on applicants for H-1B visas, but is applicable to all visa applications "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.821
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The order is aimed at those who have engaged in censorship of free speech",
+          "• It is the latest in a number of recent moves by Donald Trump to restrict legal immigration to the US"
+        ],
+        "hopeful_bullets": [
+          "• The order is aimed at those who have engaged in censorship of free speech",
+          "• It is the latest in a number of recent moves by Donald Trump to restrict legal immigration to the US"
+        ],
+        "stakes_bullets": [
+          "• It will initially focus on applicants for H-1B visas, but is applicable to all visa applications "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "1f301c27f3f2"
     },
     {
       "id": "367d1516a1d6",
@@ -5244,68 +5762,38 @@
       "cluster_id": "ab7184b17f4c"
     },
     {
-      "id": "440df56a5df4",
-      "title": "Trump can fire labor, employment board members without cause: Appeals court",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/05/trump-nlrb-mspb-appeals-court-humphreys.html",
-      "published_at": "Fri, 05 Dec 2025 16:18:42 GMT",
+      "id": "0faf9fccb4aa",
+      "title": "Elon Musk’s X first to be fined under EU’s Digital Service Act",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2025/12/elon-musks-x-first-to-be-fined-under-eus-digital-service-act/",
+      "published_at": "Fri, 05 Dec 2025 16:15:20 +0000",
       "bullets": [
-        "• The 2-1 decision reverses lower-court rulings blocking Trump's attempts to fire members of the key labor and employment panels",
-        "• A dissenter says Friday's ruling significantly increases the president's power",
-        "• The dissenter: \"Today, my colleagues make us the first court to strike down the independence of a traditional multimember expert agency\""
+        "• The European Commission announced that X would be fined nearly $140 million",
+        "• A third of the fine came from the platform's use of a blue checkmark to verify the identities of notable users",
+        "• The commission concluded that X made it harder to identify bots, despite Musk’s professed goal to eliminate bots "
       ],
-      "category": "Business",
+      "category": "Technology",
       "sentiment": {
-        "label": "positive",
-        "score": 0.923
+        "label": "negative",
+        "score": 0.999
       },
       "moods": {
         "brief_bullets": [
-          "• The 2-1 decision reverses lower-court rulings blocking Trump's attempts to fire members of the key labor and employment panels",
-          "• A dissenter says Friday's ruling significantly increases the president's power"
+          "• The European Commission announced that X would be fined nearly $140 million",
+          "• A third of the fine came from the platform's use of a blue checkmark to verify the identities of notable users"
         ],
         "hopeful_bullets": [
-          "• The 2-1 decision reverses lower-court rulings blocking Trump's attempts to fire members of the key labor and employment panels",
-          "• A dissenter says Friday's ruling significantly increases the president's power"
+          "• The European Commission announced that X would be fined nearly $140 million",
+          "• A third of the fine came from the platform's use of a blue checkmark to verify the identities of notable users"
         ],
         "stakes_bullets": [
-          "• A dissenter says Friday's ruling significantly increases the president's power"
+          "• The European Commission announced that X would be fined nearly $140 million",
+          "• A third of the fine came from the platform's use of a blue checkmark to verify the identities of notable users",
+          "• The commission concluded that X made it harder to identify bots, despite Musk’s professed goal to eliminate bots "
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "6ec1d098976b"
-    },
-    {
-      "id": "6b69f02a5220",
-      "title": "Jon Bernthal Clears Up Where The Punisher Specials Fits Into MCU Continuity",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/jon-bernthal-punisher-special-release-window-confirmed/",
-      "published_at": "Fri, 05 Dec 2025 16:17:05 GMT",
-      "bullets": [
-        "• Jon Bernthal says The Punisher Special Presentation will be \"as high-octane Punisher as you've ever seen\" The special is expected to arrive in 2026 sometime after the release of Spider-Man: Brand New Day",
-        "• The special will follow Bernthal's titular antihero as he wages war on criminals in New York City "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jon Bernthal says The Punisher Special Presentation will be \"as high-octane Punisher as you've ever seen\" The special is expected to arrive in 2026 sometime after the release of Spider-Man: Brand New Day",
-          "• The special will follow Bernthal's titular antihero as he wages war on criminals in New York City "
-        ],
-        "hopeful_bullets": [
-          "• Jon Bernthal says The Punisher Special Presentation will be \"as high-octane Punisher as you've ever seen\" The special is expected to arrive in 2026 sometime after the release of Spider-Man: Brand New Day",
-          "• The special will follow Bernthal's titular antihero as he wages war on criminals in New York City "
-        ],
-        "stakes_bullets": [
-          "• Jon Bernthal says The Punisher Special Presentation will be \"as high-octane Punisher as you've ever seen\" The special is expected to arrive in 2026 sometime after the release of Spider-Man: Brand New Day",
-          "• The special will follow Bernthal's titular antihero as he wages war on criminals in New York City "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "8bb20763266b"
+      "cluster_id": "921c8e4cbaec"
     },
     {
       "id": "d383c92b2be5",
@@ -5338,38 +5826,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "b49cce39f691"
-    },
-    {
-      "id": "73ef260f65cf",
-      "title": "Democrats call for Pete Hegseth’s resignation amid scrutiny over deadly boat strikes and Signalgate: ‘a disgrace to the office he holds’ – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/dec/05/trump-pete-hegseth-signal-politics-updates",
-      "published_at": "Fri, 05 Dec 2025 16:10:51 GMT",
-      "bullets": [
-        "• New Democrat Coalition calls for Hegseth to resign 'before his actions cost American lives' Comes after report found he had endangered the lives of US service members by compromising intelligence in a Signal group chat earlier this year",
-        "• New Democrats say he is 'incompetent, reckless, and a threat'"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New Democrat Coalition calls for Hegseth to resign 'before his actions cost American lives' Comes after report found he had endangered the lives of US service members by compromising intelligence in a Signal group chat earlier this year",
-          "• New Democrats say he is 'incompetent, reckless, and a threat'"
-        ],
-        "hopeful_bullets": [
-          "• New Democrat Coalition calls for Hegseth to resign 'before his actions cost American lives' Comes after report found he had endangered the lives of US service members by compromising intelligence in a Signal group chat earlier this year",
-          "• New Democrats say he is 'incompetent, reckless, and a threat'"
-        ],
-        "stakes_bullets": [
-          "• New Democrat Coalition calls for Hegseth to resign 'before his actions cost American lives' Comes after report found he had endangered the lives of US service members by compromising intelligence in a Signal group chat earlier this year",
-          "• New Democrats say he is 'incompetent, reckless, and a threat'"
-        ]
-      },
-      "read_minutes": 15,
-      "cluster_id": "3a84853e46da"
     },
     {
       "id": "fc1e0c9370d0",
@@ -5433,40 +5889,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "a3eb9c807c40"
-    },
-    {
-      "id": "1ecde6e07c27",
-      "title": "RFK Jr.’s vaccine panel weakens recommendation on hepatitis B shot for babies, scrapping universal guidance",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/05/hepatitis-b-vaccine-babies-rfk-jr-cdc.html",
-      "published_at": "Fri, 05 Dec 2025 16:05:37 GMT",
-      "bullets": [
-        "• The CDC recommends that all babies get a dose of the vaccine at the age of two years old",
-        "• The change could have wide-ranging consequences, including an increase in infections",
-        "• The CDC still has to sign off on the new recommendation",
-        "• Some members of the committee say the change could be harmful "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The CDC recommends that all babies get a dose of the vaccine at the age of two years old",
-          "• The change could have wide-ranging consequences, including an increase in infections"
-        ],
-        "hopeful_bullets": [
-          "• The CDC recommends that all babies get a dose of the vaccine at the age of two years old",
-          "• The change could have wide-ranging consequences, including an increase in infections"
-        ],
-        "stakes_bullets": [
-          "• The change could have wide-ranging consequences, including an increase in infections",
-          "• Some members of the committee say the change could be harmful "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "90195ea0d43a"
     },
     {
       "id": "55ae2f7a1b52",
@@ -5564,74 +5986,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "160fe30b9967"
-    },
-    {
-      "id": "0f183c2e6afb",
-      "title": "Star Wars Saga Focused on Poe Dameron is Ending",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/star-wars-saga-focused-on-poe-dameron-is-ending/",
-      "published_at": "Fri, 05 Dec 2025 16:00:11 GMT",
-      "bullets": [
-        "• Dark Horse Comics' Star Wars: Hyperspace Stories--Codebreaker #4 will be released on Dec",
-        "• 10, 2025",
-        "• The series finale will be the final issue of the series",
-        "• The comic is written by Ethan Sacks and artists Marc Yarza and Diego Galindo",
-        "• Oscar Isaac brought Marvel's Moon Knight to the masses for Disney+"
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dark Horse Comics' Star Wars: Hyperspace Stories--Codebreaker #4 will be released on Dec",
-          "• 10, 2025"
-        ],
-        "hopeful_bullets": [
-          "• Dark Horse Comics' Star Wars: Hyperspace Stories--Codebreaker #4 will be released on Dec",
-          "• 10, 2025"
-        ],
-        "stakes_bullets": [
-          "• Dark Horse Comics' Star Wars: Hyperspace Stories--Codebreaker #4 will be released on Dec",
-          "• The series finale will be the final issue of the series"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2802ff3c958f"
-    },
-    {
-      "id": "3ff2b7f58419",
-      "title": "10 Westerns Perfect for Fans of Justified",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/westerns-perfect-for-justified-timothy-olyphant-fans-list/",
-      "published_at": "Fri, 05 Dec 2025 16:00:11 GMT",
-      "bullets": [
-        "• There are plenty of films that feel tailor-made for fans of the Western genre",
-        "• From classic '50s masterpieces to modern action flicks, there's plenty to watch",
-        "• Justified is still a strong part of the genre, and it paved the way for the likes of Yellowstone "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• There are plenty of films that feel tailor-made for fans of the Western genre",
-          "• From classic '50s masterpieces to modern action flicks, there's plenty to watch"
-        ],
-        "hopeful_bullets": [
-          "• Justified is still a strong part of the genre, and it paved the way for the likes of Yellowstone "
-        ],
-        "stakes_bullets": [
-          "• There are plenty of films that feel tailor-made for fans of the Western genre",
-          "• From classic '50s masterpieces to modern action flicks, there's plenty to watch",
-          "• Justified is still a strong part of the genre, and it paved the way for the likes of Yellowstone "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "36b63a156b73"
     },
     {
       "id": "c389600fa6db",
@@ -5770,75 +6124,6 @@
       "cluster_id": "999d43cf3d1b"
     },
     {
-      "id": "cc6c5c8fce54",
-      "title": "HPE posts revenue miss and weak server numbers",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/05/hpe-stock-earnings-q4.html",
-      "published_at": "Fri, 05 Dec 2025 15:51:22 GMT",
-      "bullets": [
-        "• Hewlett Packard Enterprise reported revenue of $9.68 billion in the fourth quarter",
-        "• The company missed analyst expectations of $4.58 billion",
-        "• CFO Marie Myers said the shortfall was due to the timing of AI shipments and lower-than-expected government spending "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hewlett Packard Enterprise reported revenue of $9.68 billion in the fourth quarter",
-          "• The company missed analyst expectations of $4.58 billion"
-        ],
-        "hopeful_bullets": [
-          "• Hewlett Packard Enterprise reported revenue of $9.68 billion in the fourth quarter",
-          "• The company missed analyst expectations of $4.58 billion"
-        ],
-        "stakes_bullets": [
-          "• Hewlett Packard Enterprise reported revenue of $9.68 billion in the fourth quarter",
-          "• The company missed analyst expectations of $4.58 billion",
-          "• CFO Marie Myers said the shortfall was due to the timing of AI shipments and lower-than-expected government spending "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3d9779e795b8"
-    },
-    {
-      "id": "380265c6cf45",
-      "title": "Rick And Morty Is About To Be Pulled From Netflix, And Soon",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/rick-and-morty-pulled-from-netflix-december-2025/",
-      "published_at": "Fri, 05 Dec 2025 15:50:26 GMT",
-      "bullets": [
-        "• Cartoon Network's Adult Swim animated series Rick and Morty is set to be pulled from Netflix in several countries around the world",
-        "• The series starring Chris Parnell, Sarah Chalke, and Spencer Grammer will leave Netflix on Dec",
-        "• 30 and Dec",
-        "• 31 in some of the largest worldwide markets",
-        "• The show will still be available to stream on Netflix in Argentina, Brazil, Columbia, the Czech Republic, France, Hungary, Poland, Romania, Russia, and Switzerland "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Cartoon Network's Adult Swim animated series Rick and Morty is set to be pulled from Netflix in several countries around the world",
-          "• The series starring Chris Parnell, Sarah Chalke, and Spencer Grammer will leave Netflix on Dec"
-        ],
-        "hopeful_bullets": [
-          "• Cartoon Network's Adult Swim animated series Rick and Morty is set to be pulled from Netflix in several countries around the world",
-          "• The series starring Chris Parnell, Sarah Chalke, and Spencer Grammer will leave Netflix on Dec"
-        ],
-        "stakes_bullets": [
-          "• The series starring Chris Parnell, Sarah Chalke, and Spencer Grammer will leave Netflix on Dec",
-          "• The show will still be available to stream on Netflix in Argentina, Brazil, Columbia, the Czech Republic, France, Hungary, Poland, Romania, Russia, and Switzerland "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "60e451b6de7b"
-    },
-    {
       "id": "fb555f45b551",
       "title": "9 New Must-Have Horror Collectibles, Including ‘Bride of Chucky’ Bobbleheads & ‘Black Christmas’ Coloring Book",
       "outlet": "Bloody Disgusting!",
@@ -5904,38 +6189,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "e16bf7c1085b"
-    },
-    {
-      "id": "db6ca900f764",
-      "title": "Peaky Blinders Movie Sets Netflix, Theatrical Release Date",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/peaky-blinders-the-immortal-man-movie-netflix-theaters/",
-      "published_at": "Fri, 05 Dec 2025 15:43:38 GMT",
-      "bullets": [
-        "• Peaky Blinders: The Immortal Man will have a dual release on Netflix and in theaters",
-        "• Netflix also shared a key art for the film that features Cillian Murphy",
-        "• The film takes place in Birmingham in 1940, during the chaos surrounding World War II "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.84
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Peaky Blinders: The Immortal Man will have a dual release on Netflix and in theaters",
-          "• Netflix also shared a key art for the film that features Cillian Murphy"
-        ],
-        "hopeful_bullets": [
-          "• Peaky Blinders: The Immortal Man will have a dual release on Netflix and in theaters",
-          "• Netflix also shared a key art for the film that features Cillian Murphy"
-        ],
-        "stakes_bullets": [
-          "• Peaky Blinders: The Immortal Man will have a dual release on Netflix and in theaters"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d08999bf4d06"
     },
     {
       "id": "e086ceafdfd7",
@@ -6034,67 +6287,34 @@
       "cluster_id": "819edb5ab5bc"
     },
     {
-      "id": "5958de79b3a3",
-      "title": "Critical Reflex Announces “Cozy” Occult Detective Game ‘Inkblood’ [Trailer]",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/video-games/3920269/critical-reflex-announces-cozy-occult-detective-game-inkblood-trailer/",
-      "published_at": "Fri, 05 Dec 2025 15:30:21 +0000",
-      "bullets": [
-        "• Inkblood, players must solve a case of wicked sorcery that is rotting the minds of people and the very fabric of reality itself",
-        "• The game blends horror with the ‘strangely cozy vibes” of escape room-style puzzle solving "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.967
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Inkblood, players must solve a case of wicked sorcery that is rotting the minds of people and the very fabric of reality itself",
-          "• The game blends horror with the ‘strangely cozy vibes” of escape room-style puzzle solving "
-        ],
-        "hopeful_bullets": [
-          "• Inkblood, players must solve a case of wicked sorcery that is rotting the minds of people and the very fabric of reality itself",
-          "• The game blends horror with the ‘strangely cozy vibes” of escape room-style puzzle solving "
-        ],
-        "stakes_bullets": [
-          "• Inkblood, players must solve a case of wicked sorcery that is rotting the minds of people and the very fabric of reality itself",
-          "• The game blends horror with the ‘strangely cozy vibes” of escape room-style puzzle solving "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "609d9f7bc230"
-    },
-    {
       "id": "883e3b6dc948",
       "title": "Knight of the Seven Kingdoms trailer brings levity to Westeros",
       "outlet": "Ars Technica - All content",
       "url": "https://arstechnica.com/culture/2025/12/knight-of-the-seven-kingdoms-trailer-brings-levity-to-westeros/",
       "published_at": "Fri, 05 Dec 2025 15:12:05 +0000",
       "bullets": [
-        "• A Knight of the Seven Kingdoms is based on George R.R",
-        "• Martin’s Tales of Dunk and Egg novellas",
-        "• The series is set 50 years after the events of House of the Dragon",
-        "• HBO has already renewed the series for a second season "
+        "• A Knight of the Seven Kingdoms is based on George R.R.R.'s Tales of Dunk and Egg novellas",
+        "• The series is set in an age when the last dragon has not yet passed from memory",
+        "• It's already been renewed for a second season "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.992
+        "score": 0.966
       },
       "moods": {
         "brief_bullets": [
-          "• A Knight of the Seven Kingdoms is based on George R.R",
-          "• Martin’s Tales of Dunk and Egg novellas"
+          "• A Knight of the Seven Kingdoms is based on George R.R.R.'s Tales of Dunk and Egg novellas",
+          "• The series is set in an age when the last dragon has not yet passed from memory"
         ],
         "hopeful_bullets": [
-          "• A Knight of the Seven Kingdoms is based on George R.R",
-          "• Martin’s Tales of Dunk and Egg novellas"
+          "• A Knight of the Seven Kingdoms is based on George R.R.R.'s Tales of Dunk and Egg novellas",
+          "• The series is set in an age when the last dragon has not yet passed from memory"
         ],
         "stakes_bullets": [
-          "• A Knight of the Seven Kingdoms is based on George R.R",
-          "• Martin’s Tales of Dunk and Egg novellas",
-          "• The series is set 50 years after the events of House of the Dragon"
+          "• A Knight of the Seven Kingdoms is based on George R.R.R.'s Tales of Dunk and Egg novellas",
+          "• The series is set in an age when the last dragon has not yet passed from memory",
+          "• It's already been renewed for a second season "
         ]
       },
       "read_minutes": 1,
@@ -6133,108 +6353,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "e6bee71a9379"
-    },
-    {
-      "id": "bc6c753730db",
-      "title": "Found Footage Creeper ‘Horror in the High Desert 4: Majesty’ Out Now; Part 5 Title Revealed",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/home-video/3920304/found-footage-creeper-horror-in-the-high-desert-4-majesty-out-now-part-5-title-revealed/",
-      "published_at": "Fri, 05 Dec 2025 15:07:55 +0000",
-      "bullets": [
-        "• Horror in the High Desert 4: Majesty is out now on Amazon and Apple TV",
-        "• The next installment will be released in 2023",
-        "• The series is set to be followed by a third in the coming years",
-        "• The first installment of the series will be in 2020 "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Horror in the High Desert 4: Majesty is out now on Amazon and Apple TV",
-          "• The next installment will be released in 2023"
-        ],
-        "hopeful_bullets": [
-          "• Horror in the High Desert 4: Majesty is out now on Amazon and Apple TV",
-          "• The next installment will be released in 2023"
-        ],
-        "stakes_bullets": [
-          "• The next installment will be released in 2023",
-          "• The first installment of the series will be in 2020 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "76779e8b86f7"
-    },
-    {
-      "id": "529a46e23f4b",
-      "title": "‘A Ben Evans Film’ – Sky Elobar to Star in Josh Malerman Adapation [Exclusive]",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/exclusives/3919998/a-ben-evans-film-sky-elobar-to-star-in-josh-malerman-adapation-exclusive/",
-      "published_at": "Fri, 05 Dec 2025 15:01:52 +0000",
-      "bullets": [
-        "• A Ben Evans Film is based on a short story by Bird Box and Incidents Around the House author Josh Malerman",
-        "• Sky Elobar (The Greasy Strangler) is set to star in the darkly comic psychological horror story",
-        "• Filming is slated to begin in Michigan in February 2026 with James Henry Hall & Bret K",
-        "• Hall writing and directing "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Ben Evans Film is based on a short story by Bird Box and Incidents Around the House author Josh Malerman",
-          "• Sky Elobar (The Greasy Strangler) is set to star in the darkly comic psychological horror story"
-        ],
-        "hopeful_bullets": [
-          "• A Ben Evans Film is based on a short story by Bird Box and Incidents Around the House author Josh Malerman",
-          "• Sky Elobar (The Greasy Strangler) is set to star in the darkly comic psychological horror story"
-        ],
-        "stakes_bullets": [
-          "• A Ben Evans Film is based on a short story by Bird Box and Incidents Around the House author Josh Malerman",
-          "• Sky Elobar (The Greasy Strangler) is set to star in the darkly comic psychological horror story",
-          "• Filming is slated to begin in Michigan in February 2026 with James Henry Hall & Bret K"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "1bae6d926c7d"
-    },
-    {
-      "id": "bbf0d6740d0b",
-      "title": "‘Protector’ Trailer – Milla Jovovich Gets Violent Revenge in ‘Rambo: Last Blood’ Director’s New Movie",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3920294/protector-trailer-milla-jovovich-gets-violent-revenge-in-rambo-last-blood-directors-new-movie/",
-      "published_at": "Fri, 05 Dec 2025 15:00:36 +0000",
-      "bullets": [
-        "• Resident Evil icon Milla Jovovich stars in new movie Protector",
-        "• The action-thriller is directed by Adrian Grünberg",
-        "• The film will be released in theaters on February 20, 2026",
-        "• The movie stars Jovovic as a war veteran who thought she'd left her violent past behind "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.915
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Resident Evil icon Milla Jovovich stars in new movie Protector",
-          "• The action-thriller is directed by Adrian Grünberg"
-        ],
-        "hopeful_bullets": [
-          "• Resident Evil icon Milla Jovovich stars in new movie Protector",
-          "• The action-thriller is directed by Adrian Grünberg"
-        ],
-        "stakes_bullets": [
-          "• The film will be released in theaters on February 20, 2026"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "9e41f8f840ae"
     },
     {
       "id": "7fad8a8a2110",
@@ -6301,73 +6419,6 @@
       "cluster_id": "af22af5c92d2"
     },
     {
-      "id": "e45db49ead39",
-      "title": "Netflix to buy Warner Bros. film and streaming assets in $72 billion deal",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/05/neflix-warner-bros-discovery-deal.html",
-      "published_at": "Fri, 05 Dec 2025 14:53:46 GMT",
-      "bullets": [
-        "• Netflix announced Friday it's reached a deal to buy pieces of Warner Bros",
-        "• Discovery",
-        "• The deal is comprised of cash and stock and is valued at $27.75 per WBD share",
-        "• It will include the content of HBO Max, including \"The Sopranos,\" \"Game of Thrones\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.906
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Netflix announced Friday it's reached a deal to buy pieces of Warner Bros",
-          "• Discovery"
-        ],
-        "hopeful_bullets": [
-          "• Netflix announced Friday it's reached a deal to buy pieces of Warner Bros",
-          "• Discovery"
-        ],
-        "stakes_bullets": [
-          "• It will include the content of HBO Max, including \"The Sopranos,\" \"Game of Thrones\""
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "4962a5f13b0a"
-    },
-    {
-      "id": "633bf7c99a82",
-      "title": "Western countries press Tanzania to release bodies of post-election victims",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8xdvg2ydddo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 05 Dec 2025 14:45:24 GMT",
-      "bullets": [
-        "• Western countries call for the bodies of those killed in the election to be returned to their families",
-        "• At least 17 people were killed and hundreds of others were injured in the violence",
-        "• The government has not released the names of those who have been killed or injured "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Western countries call for the bodies of those killed in the election to be returned to their families",
-          "• At least 17 people were killed and hundreds of others were injured in the violence"
-        ],
-        "hopeful_bullets": [
-          "• Western countries call for the bodies of those killed in the election to be returned to their families",
-          "• At least 17 people were killed and hundreds of others were injured in the violence"
-        ],
-        "stakes_bullets": [
-          "• Western countries call for the bodies of those killed in the election to be returned to their families",
-          "• At least 17 people were killed and hundreds of others were injured in the violence",
-          "• The government has not released the names of those who have been killed or injured "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2d132fadb558"
-    },
-    {
       "id": "fe9def5eb809",
       "title": "Netflix to buy Warner Bros film and streaming businesses for $72bn",
       "outlet": "BBC News",
@@ -6375,26 +6426,27 @@
       "published_at": "Fri, 05 Dec 2025 14:43:35 GMT",
       "bullets": [
         "• Netflix has agreed to buy Warner Bros film and streaming service for $72bn",
-        "• The deal will still need to be approved by competition authorities",
-        "• Netflix estimates it will find $2-3bn in savings, mostly through eliminating overlaps in the service "
+        "• The deal is set to be approved by the US government",
+        "• Netflix estimates it will find $2bn to $3bn in savings from Warner Bros",
+        "• The move will still have to be agreed by the government "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
           "• Netflix has agreed to buy Warner Bros film and streaming service for $72bn",
-          "• The deal will still need to be approved by competition authorities"
+          "• The deal is set to be approved by the US government"
         ],
         "hopeful_bullets": [
           "• Netflix has agreed to buy Warner Bros film and streaming service for $72bn",
-          "• The deal will still need to be approved by competition authorities"
+          "• The deal is set to be approved by the US government"
         ],
         "stakes_bullets": [
-          "• The deal will still need to be approved by competition authorities",
-          "• Netflix estimates it will find $2-3bn in savings, mostly through eliminating overlaps in the service "
+          "• Netflix estimates it will find $2bn to $3bn in savings from Warner Bros",
+          "• The move will still have to be agreed by the government "
         ]
       },
       "read_minutes": 4,
@@ -6562,40 +6614,6 @@
       "cluster_id": "0c8158033210"
     },
     {
-      "id": "58099f3981a3",
-      "title": "‘Don’t normalize this’: after deadly gunfire at children’s party, advocates urge focus on violence tearing US apart",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/05/stockton-california-shooting",
-      "published_at": "Fri, 05 Dec 2025 14:00:28 GMT",
-      "bullets": [
-        "• Tashante McCoy was celebrating her grandson's fifth birthday when masked men opened fire at another child's birthday party in Stockton, California",
-        "• McCoy and many others like her have long worked in community organizing and gun violence prevention",
-        "• The shooting brought up urgent questions about gun violence in the Central Valley city of about 320,000 "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.962
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tashante McCoy was celebrating her grandson's fifth birthday when masked men opened fire at another child's birthday party in Stockton, California",
-          "• McCoy and many others like her have long worked in community organizing and gun violence prevention"
-        ],
-        "hopeful_bullets": [
-          "• Tashante McCoy was celebrating her grandson's fifth birthday when masked men opened fire at another child's birthday party in Stockton, California",
-          "• McCoy and many others like her have long worked in community organizing and gun violence prevention"
-        ],
-        "stakes_bullets": [
-          "• Tashante McCoy was celebrating her grandson's fifth birthday when masked men opened fire at another child's birthday party in Stockton, California",
-          "• McCoy and many others like her have long worked in community organizing and gun violence prevention",
-          "• The shooting brought up urgent questions about gun violence in the Central Valley city of about 320,000 "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "db9d86a7449b"
-    },
-    {
       "id": "125526addfa6",
       "title": "South Australian bus ads misled public by claiming gas is ‘clean and green’, regulator finds",
       "outlet": "Environment | The Guardian",
@@ -6724,41 +6742,6 @@
       "cluster_id": "b8f9bf6a36ac"
     },
     {
-      "id": "2ca8fd3a8fd1",
-      "title": "Southwest Airlines cuts outlook on government shutdown demand hit, higher fuel costs",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/05/airlines-government-shutdown-earnings-impact.html",
-      "published_at": "Fri, 05 Dec 2025 13:58:33 GMT",
-      "bullets": [
-        "• Southwest Airlines says it expects 2025 earnings before interest and taxes of about $500 million",
-        "• Lower revenue in the government shutdown and higher fuel prices contributed to the drop",
-        "• The shutdown disrupted travel as air traffic controller shortages worsened around the country",
-        "• Delta Air Lines said the impasse cost it $200 million earlier this week "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Southwest Airlines says it expects 2025 earnings before interest and taxes of about $500 million",
-          "• Lower revenue in the government shutdown and higher fuel prices contributed to the drop"
-        ],
-        "hopeful_bullets": [
-          "• Southwest Airlines says it expects 2025 earnings before interest and taxes of about $500 million",
-          "• Lower revenue in the government shutdown and higher fuel prices contributed to the drop"
-        ],
-        "stakes_bullets": [
-          "• Southwest Airlines says it expects 2025 earnings before interest and taxes of about $500 million",
-          "• Lower revenue in the government shutdown and higher fuel prices contributed to the drop",
-          "• The shutdown disrupted travel as air traffic controller shortages worsened around the country"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "246cdb6c8087"
-    },
-    {
       "id": "047fa1cc9b82",
       "title": "London's answer to Wall Street gains momentum as major firms sign on",
       "outlet": "US Top News and Analysis",
@@ -6789,39 +6772,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "b11955546da5"
-    },
-    {
-      "id": "a3d23b00f804",
-      "title": "Homeland security head reveals plans to widen US travel ban to more than 30 countries",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/05/kristi-noem-travel-ban",
-      "published_at": "Fri, 05 Dec 2025 13:30:53 GMT",
-      "bullets": [
-        "• Homeland Security Secretary Kristi Noem says the US plans to expand the number of countries covered by its travel ban to more than 30",
-        "• Noem did not specify which countries would be added to the list",
-        "• The president signed a proclamation in June banning citizens of 12 countries from entering the US "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Homeland Security Secretary Kristi Noem says the US plans to expand the number of countries covered by its travel ban to more than 30",
-          "• Noem did not specify which countries would be added to the list"
-        ],
-        "hopeful_bullets": [
-          "• Homeland Security Secretary Kristi Noem says the US plans to expand the number of countries covered by its travel ban to more than 30",
-          "• Noem did not specify which countries would be added to the list"
-        ],
-        "stakes_bullets": [
-          "• Homeland Security Secretary Kristi Noem says the US plans to expand the number of countries covered by its travel ban to more than 30",
-          "• The president signed a proclamation in June banning citizens of 12 countries from entering the US "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "63bbf2e11fb6"
     },
     {
       "id": "28e036215d8d",
@@ -6895,22 +6845,22 @@
       "published_at": "Fri, 05 Dec 2025 13:00:23 GMT",
       "bullets": [
         "• A new report shows rodenticides are unintentionally poisoning wildlife, including endangered species",
-        "• The report also shows widespread poisonings of dozens of species, including mountain lions, hawks, owls, bears and bobcats",
+        "• A new state report shows widespread poisonings of dozens of species, including mountain lions, hawks, owls, bears and bobcats",
         "• The Newsom administration is moving forward with the plans to undo many of the regulations in the new law "
       ],
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.978
+        "score": 0.979
       },
       "moods": {
         "brief_bullets": [
           "• A new report shows rodenticides are unintentionally poisoning wildlife, including endangered species",
-          "• The report also shows widespread poisonings of dozens of species, including mountain lions, hawks, owls, bears and bobcats"
+          "• A new state report shows widespread poisonings of dozens of species, including mountain lions, hawks, owls, bears and bobcats"
         ],
         "hopeful_bullets": [
           "• A new report shows rodenticides are unintentionally poisoning wildlife, including endangered species",
-          "• The report also shows widespread poisonings of dozens of species, including mountain lions, hawks, owls, bears and bobcats"
+          "• A new state report shows widespread poisonings of dozens of species, including mountain lions, hawks, owls, bears and bobcats"
         ],
         "stakes_bullets": [
           "• The Newsom administration is moving forward with the plans to undo many of the regulations in the new law "
@@ -7053,6 +7003,42 @@
       },
       "read_minutes": 21,
       "cluster_id": "0bb1f4fb68ea"
+    },
+    {
+      "id": "587b4b5bb92e",
+      "title": "Trump's security strategy slams European allies and asserts U.S. power in the Americas",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/05/g-s1-100893/trump-national-security-strategy-foreign-policy",
+      "published_at": "Fri, 05 Dec 2025 12:06:30 -0500",
+      "bullets": [
+        "• New national security strategy aims to reassert U.S",
+        "• dominance in the Western Hemisphere",
+        "• The document is sure to roil long-standing U .S",
+        "• allies in Europe for its scathing critiques of their migration and free speech policies",
+        "• The strategy reinforces, in sometimes chilly and bellicose terms, Trump's \"America First\" philosophy "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.789
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New national security strategy aims to reassert U.S",
+          "• dominance in the Western Hemisphere"
+        ],
+        "hopeful_bullets": [
+          "• New national security strategy aims to reassert U.S",
+          "• dominance in the Western Hemisphere"
+        ],
+        "stakes_bullets": [
+          "• New national security strategy aims to reassert U.S",
+          "• dominance in the Western Hemisphere",
+          "• The document is sure to roil long-standing U .S"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "05150137497c"
     },
     {
       "id": "d2c527b7388a",
@@ -7282,7 +7268,7 @@
     },
     {
       "id": "3f184907734f",
-      "title": "How will Texas’ voter-approved $3 billion dementia fund fare in court",
+      "title": "How Texas’ voter-approved $3 billion dementia fund will fare in court",
       "outlet": "The Texas Tribune",
       "url": "https://feeds.texastribune.org/link/16799/17223671/texas-dementia-fund-constitutional-amendment-lawsuit",
       "published_at": "Fri, 05 Dec 2025 11:00:00 +0000",
@@ -7812,6 +7798,74 @@
       "cluster_id": "c2b34e9fb1c0"
     },
     {
+      "id": "ac0f853427ab",
+      "title": "Defense secretary under fire as lawmakers question admiral about deadly boat strikes",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/12/05/nx-s1-5633325/defense-secretary-under-fire-as-lawmakers-question-admiral-about-deadly-boat-strikes",
+      "published_at": "Fri, 05 Dec 2025 06:55:20 -0500",
+      "bullets": [
+        "• Defense secretary under fire as lawmakers question Navy admiral about deadly boat strikes",
+        "• Democrats said they were disturbed by the second hit on a boat allegedly carrying drugs that killed two men after the boat was disabled",
+        "• Republicans said the strike was justified because those two people might otherwise have continued on to their destination "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Defense secretary under fire as lawmakers question Navy admiral about deadly boat strikes",
+          "• Democrats said they were disturbed by the second hit on a boat allegedly carrying drugs that killed two men after the boat was disabled"
+        ],
+        "hopeful_bullets": [
+          "• Defense secretary under fire as lawmakers question Navy admiral about deadly boat strikes",
+          "• Democrats said they were disturbed by the second hit on a boat allegedly carrying drugs that killed two men after the boat was disabled"
+        ],
+        "stakes_bullets": [
+          "• Republicans said the strike was justified because those two people might otherwise have continued on to their destination "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "368b538052f1"
+    },
+    {
+      "id": "b5a89128b3ae",
+      "title": "Rep. Jim Himes recounts briefing on U.S. boat strike in the Caribbean",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/12/05/nx-s1-5633262/rep-jim-himes-recounts-briefing-on-u-s-boat-strike-in-the-caribbean",
+      "published_at": "Fri, 05 Dec 2025 06:55:06 -0500",
+      "bullets": [
+        "• Rep",
+        "• Jim Himes recounts briefing on U.S",
+        "• boat strike in the Caribbean",
+        "• He is the ranking Democrat on the House Permanent Select Committee on Intelligence",
+        "• Himes: \"I saw something far more disturbing than other videos of lethal strikes that I have reviewed over the years\""
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.944
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rep",
+          "• Jim Himes recounts briefing on U.S"
+        ],
+        "hopeful_bullets": [
+          "• Rep",
+          "• Jim Himes recounts briefing on U.S"
+        ],
+        "stakes_bullets": [
+          "• Rep",
+          "• Jim Himes recounts briefing on U.S",
+          "• boat strike in the Caribbean"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "ee6d69701c6f"
+    },
+    {
       "id": "471a11ce4e90",
       "title": "China in diplomatic push to isolate Japan in feud over Taiwan issue",
       "outlet": "NPR Topics: News",
@@ -8108,39 +8162,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "ebb073a62f19"
-    },
-    {
-      "id": "c8899fa8514e",
-      "title": "NPR battles Trump executive order in court",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/05/g-s1-100844/npr-battles-trump-executive-order-in-court",
-      "published_at": "Fri, 05 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• NPR battles Trump executive order in court",
-        "• The New York Times files a lawsuit against the Pentagon's new press policy",
-        "• NPR's lawyers argue that the administration has broken the law with its treatment of public media",
-        "• The president's order and materials that accompany it accuse the public broadcasters of ideological bias "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• NPR battles Trump executive order in court",
-          "• The New York Times files a lawsuit against the Pentagon's new press policy"
-        ],
-        "hopeful_bullets": [
-          "• The New York Times files a lawsuit against the Pentagon's new press policy"
-        ],
-        "stakes_bullets": [
-          "• NPR battles Trump executive order in court",
-          "• The New York Times files a lawsuit against the Pentagon's new press policy"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "a27f17dcf30e"
     },
     {
       "id": "c6fb0631d806",
@@ -8476,6 +8497,105 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "0046d870f8a1",
+      "title": "Netflix is buying Warner Bros Discovery: All of the latest updates",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/839007/netflix-warner-acquisition",
+      "published_at": "2025-12-05T12:18:24-05:00",
+      "bullets": [
+        "• Netflix has announced that it’s struck a deal to acquire Warner Bros",
+        "• for $82.7 billion",
+        "• The deal will see the streamer acquire the studio, both HBO and HBO Max, and access to IP including Harry Potter, Game of Thrones, and DC Comics",
+        "• Bidding war reportedly involved Paramount, Comcast, Amazon, and Apple "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Netflix has announced that it’s struck a deal to acquire Warner Bros",
+          "• for $82.7 billion"
+        ],
+        "hopeful_bullets": [
+          "• Netflix has announced that it’s struck a deal to acquire Warner Bros",
+          "• for $82.7 billion"
+        ],
+        "stakes_bullets": [
+          "• for $82.7 billion",
+          "• The deal will see the streamer acquire the studio, both HBO and HBO Max, and access to IP including Harry Potter, Game of Thrones, and DC Comics"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "0abf725e6132"
+    },
+    {
+      "id": "d034e3e5a9fd",
+      "title": "OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response",
+      "published_at": "2025-12-05T12:00:00-05:00",
+      "bullets": [
+        "• Sources tell me the 5.2 update should close the gap that Google created with the release of Gemini 3 last month",
+        "• OpenAI CEO Sam Altman declared a “code red” situation earlier this week, pushing staff to respond quickly to increased competition from Google and Anthropic "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sources tell me the 5.2 update should close the gap that Google created with the release of Gemini 3 last month",
+          "• OpenAI CEO Sam Altman declared a “code red” situation earlier this week, pushing staff to respond quickly to increased competition from Google and Anthropic "
+        ],
+        "hopeful_bullets": [
+          "• Sources tell me the 5.2 update should close the gap that Google created with the release of Gemini 3 last month",
+          "• OpenAI CEO Sam Altman declared a “code red” situation earlier this week, pushing staff to respond quickly to increased competition from Google and Anthropic "
+        ],
+        "stakes_bullets": [
+          "• OpenAI CEO Sam Altman declared a “code red” situation earlier this week, pushing staff to respond quickly to increased competition from Google and Anthropic "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "50e2cb80ccf6"
+    },
+    {
+      "id": "bd97cc63fc5b",
+      "title": "Wikipedia is getting in on the yearly wrapped game",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/838989/wikipedia-year-in-review-2025-wrapped",
+      "published_at": "2025-12-05T11:47:19-05:00",
+      "bullets": [
+        "• The free online encyclopedia has launched its own customized Year in Review feature on its mobile app",
+        "• It tells you the total number of minutes spent reading, and the topics you were most interested in",
+        "• Wikipedia also says that editors made over 66 million changes across the site this year "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.883
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The free online encyclopedia has launched its own customized Year in Review feature on its mobile app",
+          "• It tells you the total number of minutes spent reading, and the topics you were most interested in"
+        ],
+        "hopeful_bullets": [
+          "• The free online encyclopedia has launched its own customized Year in Review feature on its mobile app",
+          "• It tells you the total number of minutes spent reading, and the topics you were most interested in"
+        ],
+        "stakes_bullets": [
+          "• The free online encyclopedia has launched its own customized Year in Review feature on its mobile app",
+          "• It tells you the total number of minutes spent reading, and the topics you were most interested in",
+          "• Wikipedia also says that editors made over 66 million changes across the site this year "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2f495e6ea564"
+    },
+    {
       "id": "effee61ea06b",
       "title": "The best Christmas gifts we love under $50",
       "outlet": "The Verge",
@@ -8712,107 +8832,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "ecb09865e973"
-    },
-    {
-      "id": "b015e3895590",
-      "title": "This tiny magnetic e-reader sticks to the back of your iPhone",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/838885/xteink-x4-e-reader-magnetic-apple-iphone-google-pixel",
-      "published_at": "2025-12-05T10:04:57-05:00",
-      "bullets": [
-        "• A Chinese company named Xteink has announced the X4, a compact e-reader with a 4.3-inch E Ink screen",
-        "• Like a wireless power bank, it can magnetically attach to the back of an iPhone, Pixel 10, or any device that supports Qi2 or Apple’s MagSafe",
-        "• The X4 can only read DRM-free books and documents in EPUB and TXT formats",
-        "• It can squeeze up to 14 days of use from its 650mAh battery "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A Chinese company named Xteink has announced the X4, a compact e-reader with a 4.3-inch E Ink screen",
-          "• Like a wireless power bank, it can magnetically attach to the back of an iPhone, Pixel 10, or any device that supports Qi2 or Apple’s MagSafe"
-        ],
-        "hopeful_bullets": [
-          "• A Chinese company named Xteink has announced the X4, a compact e-reader with a 4.3-inch E Ink screen",
-          "• Like a wireless power bank, it can magnetically attach to the back of an iPhone, Pixel 10, or any device that supports Qi2 or Apple’s MagSafe"
-        ],
-        "stakes_bullets": [
-          "• Like a wireless power bank, it can magnetically attach to the back of an iPhone, Pixel 10, or any device that supports Qi2 or Apple’s MagSafe"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "aa221aca87dc"
-    },
-    {
-      "id": "e4c3daf3466d",
-      "title": "13 years later, the bold and terrifying sci-fi game Routine is finally here",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/entertainment/838639/routine-sci-fi-horror-game-development",
-      "published_at": "2025-12-05T10:00:00-05:00",
-      "bullets": [
-        "• Aaron Foster's sci-fi horror game Routine has been released on Steam and Xbox",
-        "• Lunar Software canned the game in 2016 before starting development afresh in an act of extreme devotion",
-        "• The game is visually ravishing, hard-looking and hard-working, with no heads-up display and no health gauge "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Aaron Foster's sci-fi horror game Routine has been released on Steam and Xbox",
-          "• Lunar Software canned the game in 2016 before starting development afresh in an act of extreme devotion"
-        ],
-        "hopeful_bullets": [
-          "• Aaron Foster's sci-fi horror game Routine has been released on Steam and Xbox",
-          "• Lunar Software canned the game in 2016 before starting development afresh in an act of extreme devotion"
-        ],
-        "stakes_bullets": [
-          "• Aaron Foster's sci-fi horror game Routine has been released on Steam and Xbox",
-          "• Lunar Software canned the game in 2016 before starting development afresh in an act of extreme devotion",
-          "• The game is visually ravishing, hard-looking and hard-working, with no heads-up display and no health gauge "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "adc524e2a0a0"
-    },
-    {
-      "id": "2d7dfa69c37e",
-      "title": "Welcome to the wellness surveillance state",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/column/838872/optimizer-wellness-surveillance-state-oura-withings",
-      "published_at": "2025-12-05T10:00:00-05:00",
-      "bullets": [
-        "• The Withings U-Scan is a $380 at-home urinalysis test with a removable cartridge that measures your nutritional biomarkers or the likelihood of developing kidney stones",
-        "• The actual name is the $380 At-Home urinalys test",
-        "• \"Hormormone optimization\" is a trending wellness topic "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.969
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Withings U-Scan is a $380 at-home urinalysis test with a removable cartridge that measures your nutritional biomarkers or the likelihood of developing kidney stones",
-          "• The actual name is the $380 At-Home urinalys test"
-        ],
-        "hopeful_bullets": [
-          "• The Withings U-Scan is a $380 at-home urinalysis test with a removable cartridge that measures your nutritional biomarkers or the likelihood of developing kidney stones",
-          "• The actual name is the $380 At-Home urinalys test"
-        ],
-        "stakes_bullets": [
-          "• The Withings U-Scan is a $380 at-home urinalysis test with a removable cartridge that measures your nutritional biomarkers or the likelihood of developing kidney stones",
-          "• The actual name is the $380 At-Home urinalys test",
-          "• \"Hormormone optimization\" is a trending wellness topic "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "c9a74466b9d2"
     },
     {
       "id": "c41ff758b36a",
@@ -9622,6 +9641,60 @@
       ]
     },
     {
+      "id": "3a84853e46da",
+      "topic": "call democrat hegseth pete",
+      "keywords": [
+        "call",
+        "democrat",
+        "hegseth",
+        "pete",
+        "resignation",
+        "scrutiny"
+      ],
+      "item_ids": [
+        "73ef260f65cf"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "e59c11e8d129",
+      "topic": "journal monsanto retract safety",
+      "keywords": [
+        "journal",
+        "monsanto",
+        "retract",
+        "safety",
+        "science",
+        "study"
+      ],
+      "item_ids": [
+        "7e8efaf3e696"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "1f301c27f3f2",
+      "topic": "administration deny factchecker move",
+      "keywords": [
+        "administration",
+        "deny",
+        "factchecker",
+        "move",
+        "trump",
+        "visa"
+      ],
+      "item_ids": [
+        "d037c789319d"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "8f5dbf05f211",
       "topic": "advisory cdc hepatiti limit",
       "keywords": [
@@ -9652,24 +9725,6 @@
       ],
       "item_ids": [
         "d383c92b2be5"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "3a84853e46da",
-      "topic": "call democrat hegseth pete",
-      "keywords": [
-        "call",
-        "democrat",
-        "hegseth",
-        "pete",
-        "resignation",
-        "scrutiny"
-      ],
-      "item_ids": [
-        "73ef260f65cf"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9748,42 +9803,6 @@
       ]
     },
     {
-      "id": "db9d86a7449b",
-      "topic": "children deadly don gunfire",
-      "keywords": [
-        "children",
-        "deadly",
-        "don",
-        "gunfire",
-        "normalize",
-        "party"
-      ],
-      "item_ids": [
-        "58099f3981a3"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "63bbf2e11fb6",
-      "topic": "head homeland plan reveal",
-      "keywords": [
-        "head",
-        "homeland",
-        "plan",
-        "reveal",
-        "security",
-        "widen"
-      ],
-      "item_ids": [
-        "a3d23b00f804"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "379c18e4801d",
       "topic": "agencie bondi enforcement law",
       "keywords": [
@@ -9799,6 +9818,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "05150137497c",
+      "topic": "allie european security slam",
+      "keywords": [
+        "allie",
+        "european",
+        "security",
+        "slam",
+        "strategy",
+        "trump"
+      ],
+      "item_ids": [
+        "587b4b5bb92e"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9928,24 +9965,6 @@
       ]
     },
     {
-      "id": "a27f17dcf30e",
-      "topic": "battle court executive npr",
-      "keywords": [
-        "battle",
-        "court",
-        "executive",
-        "npr",
-        "order",
-        "trump"
-      ],
-      "item_ids": [
-        "c8899fa8514e"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "6264cc81fe2f",
       "topic": "cup draw here matter",
       "keywords": [
@@ -10000,6 +10019,42 @@
       ]
     },
     {
+      "id": "e62f0bb838f7",
+      "topic": "bros buy netflix plan",
+      "keywords": [
+        "bros",
+        "buy",
+        "netflix",
+        "plan",
+        "throw",
+        "warner"
+      ],
+      "item_ids": [
+        "dbcccf437737"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "9fdbaac02083",
+      "topic": "carry investor offer opportunitie",
+      "keywords": [
+        "carry",
+        "investor",
+        "offer",
+        "opportunitie",
+        "stock",
+        "tokenized"
+      ],
+      "item_ids": [
+        "12f45969648f"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "6ec1d098976b",
       "topic": "board employment fire labor",
       "keywords": [
@@ -10036,60 +10091,6 @@
       ]
     },
     {
-      "id": "beb7d0a82210",
-      "topic": "208 investor million out",
-      "keywords": [
-        "208",
-        "investor",
-        "million",
-        "out",
-        "wiped",
-        "yieldstreet"
-      ],
-      "item_ids": [
-        "28e036215d8d"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "3d9779e795b8",
-      "topic": "hpe miss post revenue",
-      "keywords": [
-        "hpe",
-        "miss",
-        "post",
-        "revenue",
-        "server",
-        "weak"
-      ],
-      "item_ids": [
-        "cc6c5c8fce54"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "246cdb6c8087",
-      "topic": "airline cuts government outlook",
-      "keywords": [
-        "airline",
-        "cuts",
-        "government",
-        "outlook",
-        "shutdown",
-        "southwest"
-      ],
-      "item_ids": [
-        "2ca8fd3a8fd1"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "03071419b27d",
       "topic": "000 account child free",
       "keywords": [
@@ -10120,6 +10121,24 @@
       ],
       "item_ids": [
         "047fa1cc9b82"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "beb7d0a82210",
+      "topic": "208 investor million out",
+      "keywords": [
+        "208",
+        "investor",
+        "million",
+        "out",
+        "wiped",
+        "yieldstreet"
+      ],
+      "item_ids": [
+        "28e036215d8d"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10297,6 +10316,59 @@
       ]
     },
     {
+      "id": "0abf725e6132",
+      "topic": "all bros buying discovery",
+      "keywords": [
+        "all",
+        "bros",
+        "buying",
+        "discovery",
+        "netflix",
+        "warner"
+      ],
+      "item_ids": [
+        "0046d870f8a1"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "50e2cb80ccf6",
+      "topic": "code google gpt openai",
+      "keywords": [
+        "code",
+        "google",
+        "gpt",
+        "openai",
+        "red",
+        "response"
+      ],
+      "item_ids": [
+        "d034e3e5a9fd"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "2f495e6ea564",
+      "topic": "game getting wikipedia wrapped",
+      "keywords": [
+        "game",
+        "getting",
+        "wikipedia",
+        "wrapped",
+        "yearly"
+      ],
+      "item_ids": [
+        "bd97cc63fc5b"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "9a86fe804ca3",
       "topic": "best christma gift love",
       "keywords": [
@@ -10419,55 +10491,39 @@
       ]
     },
     {
-      "id": "aa221aca87dc",
-      "topic": "back iphone magnetic reader",
+      "id": "218f9a717484",
+      "topic": "evidence panel rfk tosse",
       "keywords": [
-        "back",
-        "iphone",
-        "magnetic",
-        "reader",
-        "stick",
-        "tiny"
+        "evidence",
+        "panel",
+        "rfk",
+        "tosse",
+        "vaccine",
+        "without"
       ],
       "item_ids": [
-        "b015e3895590"
+        "4c8d92c92615"
       ],
       "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
-      "id": "adc524e2a0a0",
-      "topic": "bold game later sci",
+      "id": "921c8e4cbaec",
+      "topic": "digital elon fined first",
       "keywords": [
-        "bold",
-        "game",
-        "later",
-        "sci",
-        "terrifying",
-        "year"
+        "digital",
+        "elon",
+        "fined",
+        "first",
+        "musk",
+        "under"
       ],
       "item_ids": [
-        "e4c3daf3466d"
+        "0faf9fccb4aa"
       ],
       "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "c9a74466b9d2",
-      "topic": "state surveillance welcome wellnes",
-      "keywords": [
-        "state",
-        "surveillance",
-        "welcome",
-        "wellnes"
-      ],
-      "item_ids": [
-        "2d7dfa69c37e"
-      ],
-      "outlets": [
-        "The Verge"
+        "Ars Technica - All content"
       ]
     },
     {
@@ -10611,42 +10667,6 @@
       ],
       "item_ids": [
         "752be2e59c34"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "3d6ebcbaaf00",
-      "topic": "chatbot find make persuasive",
-      "keywords": [
-        "chatbot",
-        "find",
-        "make",
-        "persuasive",
-        "politically",
-        "researcher"
-      ],
-      "item_ids": [
-        "d9f087598a83"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "a56065a2b778",
-      "topic": "digging hdmi machine steam",
-      "keywords": [
-        "digging",
-        "hdmi",
-        "machine",
-        "steam",
-        "support",
-        "won"
-      ],
-      "item_ids": [
-        "0acd39b17235"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -11009,6 +11029,42 @@
       ]
     },
     {
+      "id": "368b538052f1",
+      "topic": "defense fire lawmaker question",
+      "keywords": [
+        "defense",
+        "fire",
+        "lawmaker",
+        "question",
+        "secretary",
+        "under"
+      ],
+      "item_ids": [
+        "ac0f853427ab"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "ee6d69701c6f",
+      "topic": "boat briefing hime jim",
+      "keywords": [
+        "boat",
+        "briefing",
+        "hime",
+        "jim",
+        "recount",
+        "rep"
+      ],
+      "item_ids": [
+        "b5a89128b3ae"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "04097c314ae9",
       "topic": "court gerrymandered lets supreme",
       "keywords": [
@@ -11266,24 +11322,6 @@
       ],
       "outlets": [
         "CNN.com - RSS Channel - Politics"
-      ]
-    },
-    {
-      "id": "e59c11e8d129",
-      "topic": "journal monsanto retract safety",
-      "keywords": [
-        "journal",
-        "monsanto",
-        "retract",
-        "safety",
-        "science",
-        "study"
-      ],
-      "item_ids": [
-        "7e8efaf3e696"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
       ]
     },
     {
@@ -11787,6 +11825,78 @@
       ]
     },
     {
+      "id": "822b850407ac",
+      "topic": "1000 house inside look",
+      "keywords": [
+        "1000",
+        "house",
+        "inside",
+        "look",
+        "rob",
+        "zombie"
+      ],
+      "item_ids": [
+        "8f562fe872fb"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "4b1c8d1690f6",
+      "topic": "bloodline destination favorite final",
+      "keywords": [
+        "bloodline",
+        "destination",
+        "favorite",
+        "final",
+        "john",
+        "water"
+      ],
+      "item_ids": [
+        "40a6b1ca82a6"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "db10be4612f7",
+      "topic": "25th american psycho showcase",
+      "keywords": [
+        "25th",
+        "american",
+        "psycho",
+        "showcase",
+        "stunning",
+        "video"
+      ],
+      "item_ids": [
+        "44b1dc56b783"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "0f71fe302208",
+      "topic": "launche murray soap squatch",
+      "keywords": [
+        "launche",
+        "murray",
+        "soap",
+        "squatch",
+        "stranger",
+        "thing"
+      ],
+      "item_ids": [
+        "b287007ed8a1"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "21b883373c4e",
       "topic": "him jordan peacock peele",
       "keywords": [
@@ -11889,78 +11999,6 @@
       ],
       "item_ids": [
         "f105dec20dc8"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "609d9f7bc230",
-      "topic": "announce cozy critical detective",
-      "keywords": [
-        "announce",
-        "cozy",
-        "critical",
-        "detective",
-        "occult",
-        "reflex"
-      ],
-      "item_ids": [
-        "5958de79b3a3"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "76779e8b86f7",
-      "topic": "creeper desert footage found",
-      "keywords": [
-        "creeper",
-        "desert",
-        "footage",
-        "found",
-        "high",
-        "horror"
-      ],
-      "item_ids": [
-        "bc6c753730db"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "1bae6d926c7d",
-      "topic": "ben elobar evan film",
-      "keywords": [
-        "ben",
-        "elobar",
-        "evan",
-        "film",
-        "sky",
-        "star"
-      ],
-      "item_ids": [
-        "529a46e23f4b"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "9e41f8f840ae",
-      "topic": "gets jovovich milla protector",
-      "keywords": [
-        "gets",
-        "jovovich",
-        "milla",
-        "protector",
-        "trailer",
-        "violent"
-      ],
-      "item_ids": [
-        "bbf0d6740d0b"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -13308,6 +13346,114 @@
       ]
     },
     {
+      "id": "8fd36de052ae",
+      "topic": "begin cosmic era major",
+      "keywords": [
+        "begin",
+        "cosmic",
+        "era",
+        "major",
+        "marvel",
+        "storytelling"
+      ],
+      "item_ids": [
+        "167bde011e06"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "93189665a56a",
+      "topic": "date highly malcolm middle",
+      "keywords": [
+        "date",
+        "highly",
+        "malcolm",
+        "middle",
+        "release",
+        "sets"
+      ],
+      "item_ids": [
+        "62c3fa75415a"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "1c2d896a0b1b",
+      "topic": "avenger confirm first mcu",
+      "keywords": [
+        "avenger",
+        "confirm",
+        "first",
+        "mcu",
+        "secret",
+        "wars"
+      ],
+      "item_ids": [
+        "3fa65f2acc49"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "b3a88844b3db",
+      "topic": "character crown cutest japan",
+      "keywords": [
+        "character",
+        "crown",
+        "cutest",
+        "japan",
+        "research",
+        "survey"
+      ],
+      "item_ids": [
+        "99e5e70e47a6"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "dd431d50ac09",
+      "topic": "apple platonic renewed rogen",
+      "keywords": [
+        "apple",
+        "platonic",
+        "renewed",
+        "rogen",
+        "season",
+        "seth"
+      ],
+      "item_ids": [
+        "8f966339bc18"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "b15eeadeea4f",
+      "topic": "even love moon never",
+      "keywords": [
+        "even",
+        "love",
+        "moon",
+        "never",
+        "reason",
+        "sailor"
+      ],
+      "item_ids": [
+        "edb73e8714a6"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "5eb609b286c1",
       "topic": "anime industry jujutsu just",
       "keywords": [
@@ -13374,111 +13520,6 @@
       ],
       "item_ids": [
         "e06301d5362c"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "ea2218540117",
-      "topic": "ball broly dragon finally",
-      "keywords": [
-        "ball",
-        "broly",
-        "dragon",
-        "finally",
-        "fixed",
-        "super"
-      ],
-      "item_ids": [
-        "a64ff6743252"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "8bb20763266b",
-      "topic": "bernthal clear fits jon",
-      "keywords": [
-        "bernthal",
-        "clear",
-        "fits",
-        "jon",
-        "punisher",
-        "special"
-      ],
-      "item_ids": [
-        "6b69f02a5220"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "2802ff3c958f",
-      "topic": "dameron focused poe saga",
-      "keywords": [
-        "dameron",
-        "focused",
-        "poe",
-        "saga",
-        "star",
-        "wars"
-      ],
-      "item_ids": [
-        "0f183c2e6afb"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "36b63a156b73",
-      "topic": "fans justified perfect western",
-      "keywords": [
-        "fans",
-        "justified",
-        "perfect",
-        "western"
-      ],
-      "item_ids": [
-        "3ff2b7f58419"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "60e451b6de7b",
-      "topic": "morty netflix pulled rick",
-      "keywords": [
-        "morty",
-        "netflix",
-        "pulled",
-        "rick",
-        "soon"
-      ],
-      "item_ids": [
-        "380265c6cf45"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "d08999bf4d06",
-      "topic": "blinder movie netflix peaky",
-      "keywords": [
-        "blinder",
-        "movie",
-        "netflix",
-        "peaky",
-        "sets",
-        "theatrical"
-      ],
-      "item_ids": [
-        "db6ca900f764"
       ],
       "outlets": [
         "CBR"
@@ -14019,24 +14060,6 @@
       ]
     },
     {
-      "id": "57016512fee8",
-      "topic": "lose measle outbreak spreading",
-      "keywords": [
-        "lose",
-        "measle",
-        "outbreak",
-        "spreading",
-        "still",
-        "texa"
-      ],
-      "item_ids": [
-        "b34afa062ae4"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
       "id": "0d6482105170",
       "topic": "approved billion dementia fund",
       "keywords": [
@@ -14049,6 +14072,24 @@
       ],
       "item_ids": [
         "3f184907734f"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "57016512fee8",
+      "topic": "lose measle outbreak spreading",
+      "keywords": [
+        "lose",
+        "measle",
+        "outbreak",
+        "spreading",
+        "still",
+        "texa"
+      ],
+      "item_ids": [
+        "b34afa062ae4"
       ],
       "outlets": [
         "The Texas Tribune"
