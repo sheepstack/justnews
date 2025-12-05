@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-05T11:04:09Z",
+  "generated_at": "2025-12-05T11:15:17Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2204,37 +2204,6 @@
       "cluster_id": "947192c284f5"
     },
     {
-      "id": "0d31426409f2",
-      "title": "Salesforce CEO calls AI a 'commodity feature', says the technology bolsters enterprise software",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/04/salesforce-ai-commodity-enterprise-software-technology.html",
-      "published_at": "Thu, 04 Dec 2025 23:31:47 GMT",
-      "bullets": [
-        "• Salesforce CEO Marc Benioff told CNBC a large language model is \"just a commodity feature\" that strengthens his company's products",
-        "• Salesforce stock has had a tough year, even as the broader tech sector has surged",
-        "• Wall Street worries that AI will hurt enterprise software companies "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Salesforce CEO Marc Benioff told CNBC a large language model is \"just a commodity feature\" that strengthens his company's products",
-          "• Salesforce stock has had a tough year, even as the broader tech sector has surged"
-        ],
-        "hopeful_bullets": [
-          "• Salesforce stock has had a tough year, even as the broader tech sector has surged"
-        ],
-        "stakes_bullets": [
-          "• Wall Street worries that AI will hurt enterprise software companies "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "238e6eca0c26"
-    },
-    {
       "id": "945bfd6c493c",
       "title": "Here’s How Spotify Wrapped Calculated Your Listening Age — And Here’s Rolling Stone’s",
       "outlet": "Music News",
@@ -2791,38 +2760,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "fa321e66a787"
-    },
-    {
-      "id": "619382488e1a",
-      "title": "Prominent anti-Hamas militia leader Yasser Abu Shabab killed in Gaza",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz0nd088e09o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 04 Dec 2025 21:45:33 GMT",
-      "bullets": [
-        "• Yasser Abu Shabab headed the so-called Popular Forces group in Gaza",
-        "• He was shot while trying to resolve a dispute with members of the Abu Seneima family",
-        "• Hamas accused him of collaborating with Israel, but sources say his death was result of an internal power struggle "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Yasser Abu Shabab headed the so-called Popular Forces group in Gaza",
-          "• He was shot while trying to resolve a dispute with members of the Abu Seneima family"
-        ],
-        "hopeful_bullets": [
-          "• Yasser Abu Shabab headed the so-called Popular Forces group in Gaza",
-          "• He was shot while trying to resolve a dispute with members of the Abu Seneima family"
-        ],
-        "stakes_bullets": [
-          "• Hamas accused him of collaborating with Israel, but sources say his death was result of an internal power struggle "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "bef7aed23e19"
     },
     {
       "id": "8834d0b3adbc",
@@ -6632,6 +6569,100 @@
       "cluster_id": "2daa60016122"
     },
     {
+      "id": "3a86254c0576",
+      "title": "Nvidia partner Foxconn reports 26% revenue spike as AI boom continues",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/05/nvidia-partner-foxconn-reports-26percent-revenue-spike-as-ai-boom-continues.html",
+      "published_at": "Fri, 05 Dec 2025 10:41:22 GMT",
+      "bullets": [
+        "• Foxconn reported \"strong growth\" year-on-year for cloud and networking products",
+        "• It reported revenue of NT$844.3 billion ($27 billion) for November",
+        "• Foxconn has become a key player in the rollout of AI infrastructure in recent times "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Foxconn reported \"strong growth\" year-on-year for cloud and networking products",
+          "• It reported revenue of NT$844.3 billion ($27 billion) for November"
+        ],
+        "hopeful_bullets": [
+          "• Foxconn reported \"strong growth\" year-on-year for cloud and networking products"
+        ],
+        "stakes_bullets": [
+          "• It reported revenue of NT$844.3 billion ($27 billion) for November"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0fdc20bf739b"
+    },
+    {
+      "id": "e086ceafdfd7",
+      "title": "Germany votes to bring back voluntary military service",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg9drg8pg1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 05 Dec 2025 10:34:35 GMT",
+      "bullets": [
+        "• Germany votes to introduce voluntary military service for 18-year-olds",
+        "• The move is aimed at boosting national defences after Russia's invasion of Ukraine",
+        "• Students at schools across Germany have said they will join strikes in 90 cities on Friday to protest the move "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.96
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Germany votes to introduce voluntary military service for 18-year-olds",
+          "• The move is aimed at boosting national defences after Russia's invasion of Ukraine"
+        ],
+        "hopeful_bullets": [
+          "• The move is aimed at boosting national defences after Russia's invasion of Ukraine"
+        ],
+        "stakes_bullets": [
+          "• Students at schools across Germany have said they will join strikes in 90 cities on Friday to protest the move "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ac50d2a2fa76"
+    },
+    {
+      "id": "ae19fc212944",
+      "title": "Kenya signs landmark health deal with US despite data fears",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0r9vq5vv4no?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 05 Dec 2025 10:33:56 GMT",
+      "bullets": [
+        "• $2.5bn deal is aimed at preventing HIV/Aids and malaria in Kenya",
+        "• It is the first such deal since Donald Trump took office in January",
+        "• The deal is expected to be rolled out in other countries across the world "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• $2.5bn deal is aimed at preventing HIV/Aids and malaria in Kenya",
+          "• It is the first such deal since Donald Trump took office in January"
+        ],
+        "hopeful_bullets": [
+          "• $2.5bn deal is aimed at preventing HIV/Aids and malaria in Kenya",
+          "• It is the first such deal since Donald Trump took office in January"
+        ],
+        "stakes_bullets": [
+          "• The deal is expected to be rolled out in other countries across the world "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "606ed6139a9e"
+    },
+    {
       "id": "a33a72e420d1",
       "title": "Paramount questions Warner Bros. Discovery on 'fairness and adequacy' of sale process: Read the full letter",
       "outlet": "US Top News and Analysis",
@@ -8204,40 +8235,6 @@
       "cluster_id": "d41bcfbc9c0e"
     },
     {
-      "id": "3a235999b7bb",
-      "title": "Admiral testified Hegseth did not give 'kill them all' order, US lawmakers say",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyxjd6pxzro?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 05 Dec 2025 01:20:07 GMT",
-      "bullets": [
-        "• Admiral testified Hegseth did not give 'kill them all' order, US lawmakers say",
-        "• Adm Frank Bradley testified in closed-door hearings before lawmakers",
-        "• White House has said Adm Bradley was responsible for the strikes and that he acted within the law "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Admiral testified Hegseth did not give 'kill them all' order, US lawmakers say",
-          "• Adm Frank Bradley testified in closed-door hearings before lawmakers"
-        ],
-        "hopeful_bullets": [
-          "• Admiral testified Hegseth did not give 'kill them all' order, US lawmakers say",
-          "• Adm Frank Bradley testified in closed-door hearings before lawmakers"
-        ],
-        "stakes_bullets": [
-          "• Admiral testified Hegseth did not give 'kill them all' order, US lawmakers say",
-          "• Adm Frank Bradley testified in closed-door hearings before lawmakers",
-          "• White House has said Adm Bradley was responsible for the strikes and that he acted within the law "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "32e2834e2260"
-    },
-    {
       "id": "bb52deb47b53",
       "title": "Police recover $19k Fabergé egg swallowed by NZ man",
       "outlet": "BBC News",
@@ -9336,18 +9333,18 @@
       ]
     },
     {
-      "id": "32e2834e2260",
-      "topic": "admiral did give hegseth",
+      "id": "ac50d2a2fa76",
+      "topic": "back bring germany military",
       "keywords": [
-        "admiral",
-        "did",
-        "give",
-        "hegseth",
-        "kill",
-        "testified"
+        "back",
+        "bring",
+        "germany",
+        "military",
+        "voluntary",
+        "vote"
       ],
       "item_ids": [
-        "3a235999b7bb"
+        "e086ceafdfd7"
       ],
       "outlets": [
         "BBC News"
@@ -9444,6 +9441,24 @@
       ]
     },
     {
+      "id": "606ed6139a9e",
+      "topic": "deal despite health kenya",
+      "keywords": [
+        "deal",
+        "despite",
+        "health",
+        "kenya",
+        "landmark",
+        "sign"
+      ],
+      "item_ids": [
+        "ae19fc212944"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "ace3008846b8",
       "topic": "bros close deal netflix",
       "keywords": [
@@ -9474,24 +9489,6 @@
       ],
       "item_ids": [
         "4d83815c7cd2"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "bef7aed23e19",
-      "topic": "anti hama leader militia",
-      "keywords": [
-        "anti",
-        "hama",
-        "leader",
-        "militia",
-        "prominent",
-        "yasser"
-      ],
-      "item_ids": [
-        "619382488e1a"
       ],
       "outlets": [
         "BBC News"
@@ -10038,24 +10035,6 @@
       ]
     },
     {
-      "id": "6fcb7be99ff1",
-      "topic": "beauty hike pop retailer",
-      "keywords": [
-        "beauty",
-        "hike",
-        "pop",
-        "retailer",
-        "share",
-        "ulta"
-      ],
-      "item_ids": [
-        "8b8e0f8cafaa"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "25c23d48c808",
       "topic": "announce apple counsel departure",
       "keywords": [
@@ -10074,36 +10053,36 @@
       ]
     },
     {
-      "id": "d85535fd1941",
-      "topic": "bros discovery fairnes paramount",
+      "id": "0fdc20bf739b",
+      "topic": "foxconn nvidia partner report",
       "keywords": [
-        "bros",
-        "discovery",
-        "fairnes",
-        "paramount",
-        "question",
-        "warner"
+        "foxconn",
+        "nvidia",
+        "partner",
+        "report",
+        "revenue",
+        "spike"
       ],
       "item_ids": [
-        "a33a72e420d1"
+        "3a86254c0576"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "47737c861896",
-      "topic": "hold nyc rally starbuck",
+      "id": "6fcb7be99ff1",
+      "topic": "beauty hike pop retailer",
       "keywords": [
-        "hold",
-        "nyc",
-        "rally",
-        "starbuck",
-        "united",
-        "worker"
+        "beauty",
+        "hike",
+        "pop",
+        "retailer",
+        "share",
+        "ulta"
       ],
       "item_ids": [
-        "0969cd1ca9c2"
+        "8b8e0f8cafaa"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10146,18 +10125,18 @@
       ]
     },
     {
-      "id": "238e6eca0c26",
-      "topic": "call ceo commodity feature",
+      "id": "47737c861896",
+      "topic": "hold nyc rally starbuck",
       "keywords": [
-        "call",
-        "ceo",
-        "commodity",
-        "feature",
-        "salesforce",
-        "technology"
+        "hold",
+        "nyc",
+        "rally",
+        "starbuck",
+        "united",
+        "worker"
       ],
       "item_ids": [
-        "0d31426409f2"
+        "0969cd1ca9c2"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10194,6 +10173,24 @@
       ],
       "item_ids": [
         "f60d0e8ebf7b"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "d85535fd1941",
+      "topic": "bros discovery fairnes paramount",
+      "keywords": [
+        "bros",
+        "discovery",
+        "fairnes",
+        "paramount",
+        "question",
+        "warner"
+      ],
+      "item_ids": [
+        "a33a72e420d1"
       ],
       "outlets": [
         "US Top News and Analysis"
