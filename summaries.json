@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-05T08:01:28Z",
+  "generated_at": "2025-12-05T08:23:58Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -6941,6 +6941,40 @@
       "cluster_id": "2daa60016122"
     },
     {
+      "id": "fb892229b946",
+      "title": "Samba Schutte Defends Pluribus' Most Controversial Character",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/pluribus-samba-schutte-interview/",
+      "published_at": "Fri, 05 Dec 2025 08:00:19 GMT",
+      "bullets": [
+        "• Pluribus Season 1, Episode 6, \"HDP,\" is now streaming on Apple TV",
+        "• The sci-fi series is about a hive mind virus that has taken over the majority of the world's population",
+        "• Samba Schutte, played by Rhea Seehorn, defends his character's more divisive actions "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Pluribus Season 1, Episode 6, \"HDP,\" is now streaming on Apple TV",
+          "• The sci-fi series is about a hive mind virus that has taken over the majority of the world's population"
+        ],
+        "hopeful_bullets": [
+          "• Pluribus Season 1, Episode 6, \"HDP,\" is now streaming on Apple TV",
+          "• The sci-fi series is about a hive mind virus that has taken over the majority of the world's population"
+        ],
+        "stakes_bullets": [
+          "• Pluribus Season 1, Episode 6, \"HDP,\" is now streaming on Apple TV",
+          "• The sci-fi series is about a hive mind virus that has taken over the majority of the world's population",
+          "• Samba Schutte, played by Rhea Seehorn, defends his character's more divisive actions "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "53ad2316416c"
+    },
+    {
       "id": "a4d65650272e",
       "title": "Logitech Promo Code: $25 Off This Holiday Season",
       "outlet": "WIRED",
@@ -7899,41 +7933,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "b874cf761d38"
-    },
-    {
-      "id": "181493f6f78d",
-      "title": "Firefly's Most Problematic Character Still Deserves Better 23 Years Later",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/firefly-most-problematic-character-inara-deserves-better-23-years-later/",
-      "published_at": "Fri, 05 Dec 2025 02:10:12 GMT",
-      "bullets": [
-        "• Inara Serra is one of the most unique characters in the series",
-        "• She's given more time to develop than any other major character in the show",
-        "• However, the writing of her character is often criticized for being sexist",
-        "• The series is great, but the writing isn't as good as it should have been "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Inara Serra is one of the most unique characters in the series",
-          "• She's given more time to develop than any other major character in the show"
-        ],
-        "hopeful_bullets": [
-          "• Inara Serra is one of the most unique characters in the series",
-          "• She's given more time to develop than any other major character in the show"
-        ],
-        "stakes_bullets": [
-          "• Inara Serra is one of the most unique characters in the series",
-          "• She's given more time to develop than any other major character in the show",
-          "• However, the writing of her character is often criticized for being sexist"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "eb16870f534b"
     },
     {
       "id": "908fa9099cbb",
@@ -13342,6 +13341,24 @@
       ]
     },
     {
+      "id": "53ad2316416c",
+      "topic": "controversial defend most pluribu",
+      "keywords": [
+        "controversial",
+        "defend",
+        "most",
+        "pluribu",
+        "samba",
+        "schutte"
+      ],
+      "item_ids": [
+        "fb892229b946"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "21b8f96170eb",
       "topic": "2nd arc island jeju",
       "keywords": [
@@ -13497,24 +13514,6 @@
       ],
       "item_ids": [
         "9202903e79d8"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "eb16870f534b",
-      "topic": "character deserve firefly most",
-      "keywords": [
-        "character",
-        "deserve",
-        "firefly",
-        "most",
-        "problematic",
-        "still"
-      ],
-      "item_ids": [
-        "181493f6f78d"
       ],
       "outlets": [
         "CBR"
