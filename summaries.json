@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-06T11:54:10Z",
+  "generated_at": "2025-12-06T12:15:31Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -3136,6 +3136,107 @@
       "cluster_id": "e5bef44664ca"
     },
     {
+      "id": "738d96d5a43b",
+      "title": "Russia bombards Ukraine as US says progress made in talks with Kyiv",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 06 Dec 2025 11:34:21 GMT",
+      "bullets": [
+        "• Russia launched 653 drones and 51 missiles, most of which were downed",
+        "• One strike hit a railway hub at the town of Fastiv, destroying the main station building and damaging rolling stock",
+        "• Ukraine's energy ministry said Russian attacks had hit energy facilities in eight regions, causing blackouts "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Russia launched 653 drones and 51 missiles, most of which were downed",
+          "• One strike hit a railway hub at the town of Fastiv, destroying the main station building and damaging rolling stock"
+        ],
+        "hopeful_bullets": [
+          "• Russia launched 653 drones and 51 missiles, most of which were downed",
+          "• One strike hit a railway hub at the town of Fastiv, destroying the main station building and damaging rolling stock"
+        ],
+        "stakes_bullets": [
+          "• Russia launched 653 drones and 51 missiles, most of which were downed",
+          "• One strike hit a railway hub at the town of Fastiv, destroying the main station building and damaging rolling stock",
+          "• Ukraine's energy ministry said Russian attacks had hit energy facilities in eight regions, causing blackouts "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "f0c462d55219"
+    },
+    {
+      "id": "f66127f70302",
+      "title": "Canyon Deflectr RLS Bike Helmet Review: Game-Changing Safety Technology",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/review/canyon-deflectr-rls-bike-helmet/",
+      "published_at": "Sat, 06 Dec 2025 11:30:00 +0000",
+      "bullets": [
+        "• RLS is the first helmet with a new design to be developed in the UK",
+        "• The design is designed to prevent rotational impact from hitting the head",
+        "• The new design has been designed to reduce the risk of injury by four times",
+        "• It is the latest in a long line of helmets designed to protect against impact "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• RLS is the first helmet with a new design to be developed in the UK",
+          "• The design is designed to prevent rotational impact from hitting the head"
+        ],
+        "hopeful_bullets": [
+          "• The new design has been designed to reduce the risk of injury by four times",
+          "• It is the latest in a long line of helmets designed to protect against impact "
+        ],
+        "stakes_bullets": [
+          "• The design is designed to prevent rotational impact from hitting the head",
+          "• The new design has been designed to reduce the risk of injury by four times",
+          "• It is the latest in a long line of helmets designed to protect against impact "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "9fe304612a0c"
+    },
+    {
+      "id": "f1c44cea1bf3",
+      "title": "Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/",
+      "published_at": "Sat, 06 Dec 2025 11:30:00 +0000",
+      "bullets": [
+        "• An AI image creator startup left its database unsecured, exposing more than a million images and videos its users had created",
+        "• A new New York law will require retailers to disclose if personal data collected about you results in algorithmic changes to their prices",
+        "• We profiled a new cellular carrier aiming to offer the closest thing possible to truly anonymous phone service "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• An AI image creator startup left its database unsecured, exposing more than a million images and videos its users had created",
+          "• A new New York law will require retailers to disclose if personal data collected about you results in algorithmic changes to their prices"
+        ],
+        "hopeful_bullets": [
+          "• An AI image creator startup left its database unsecured, exposing more than a million images and videos its users had created",
+          "• A new New York law will require retailers to disclose if personal data collected about you results in algorithmic changes to their prices"
+        ],
+        "stakes_bullets": [
+          "• A new New York law will require retailers to disclose if personal data collected about you results in algorithmic changes to their prices"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "dd74a02ed620"
+    },
+    {
       "id": "8b7b7a4c1b90",
       "title": "Gevi Espresso Machine Review: Quick but Quirky",
       "outlet": "WIRED",
@@ -3202,39 +3303,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "642e7ad11bdc"
-    },
-    {
-      "id": "738d96d5a43b",
-      "title": "US says progress made at talks with Ukraine as Russia attacks infrastructure",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 06 Dec 2025 10:58:37 GMT",
-      "bullets": [
-        "• Russia has launched more than 50 strikes on Ukraine's infrastructure in recent weeks",
-        "• Russia has intensified attacks on the country's energy infrastructure",
-        "• Russia and Ukraine have been unable to reach a deal to end the conflict",
-        "• Russia says it will continue to attack the infrastructure of Ukraine's energy fields "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.97
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Russia has launched more than 50 strikes on Ukraine's infrastructure in recent weeks",
-          "• Russia has intensified attacks on the country's energy infrastructure"
-        ],
-        "hopeful_bullets": [
-          "• Russia has launched more than 50 strikes on Ukraine's infrastructure in recent weeks",
-          "• Russia has intensified attacks on the country's energy infrastructure"
-        ],
-        "stakes_bullets": [
-          "• Russia says it will continue to attack the infrastructure of Ukraine's energy fields "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6e492666fa75"
     },
     {
       "id": "ddc5eef61ab1",
@@ -7004,38 +7072,6 @@
       "cluster_id": "921c8e4cbaec"
     },
     {
-      "id": "c389600fa6db",
-      "title": "Here’s What You Should Know About Launching an AI Startup",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/",
-      "published_at": "Fri, 05 Dec 2025 16:00:00 +0000",
-      "bullets": [
-        "• Julie Bornstein thought it would be a cinch to implement her idea for an AI startup",
-        "• The reality was much harder than she expected",
-        "• Study after study has shown that the technology has not yet delivered a significant boost in productivity",
-        "• A study published in August found that 19 out of 20 AI enterprise pilot projects delivered no measurable value "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Julie Bornstein thought it would be a cinch to implement her idea for an AI startup",
-          "• The reality was much harder than she expected"
-        ],
-        "hopeful_bullets": [
-          "• Study after study has shown that the technology has not yet delivered a significant boost in productivity"
-        ],
-        "stakes_bullets": [
-          "• The reality was much harder than she expected"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "d2d9d80ea475"
-    },
-    {
       "id": "98babe616ecd",
       "title": "Lily Allen to Perform ‘West End Girl’ in Its Entirety on 2026 North American Tour",
       "outlet": "Music News",
@@ -7338,37 +7374,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "3567ef033b96"
-    },
-    {
-      "id": "1ca770116071",
-      "title": "GoTrax Mustang Electric Bike Review: Punchy and Tiny",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/review/gotrax-mustang-electric-bike/",
-      "published_at": "Fri, 05 Dec 2025 14:00:00 +0000",
-      "bullets": [
-        "• The GoTrax Mustang is powered by a 750-watt motor that can deliver up to 90 newton-meters of torque to its wheel",
-        "• The bike is surprisingly nimble and easy to operate, owing in large part to its relatively short wheelbase "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The GoTrax Mustang is powered by a 750-watt motor that can deliver up to 90 newton-meters of torque to its wheel",
-          "• The bike is surprisingly nimble and easy to operate, owing in large part to its relatively short wheelbase "
-        ],
-        "hopeful_bullets": [
-          "• The bike is surprisingly nimble and easy to operate, owing in large part to its relatively short wheelbase "
-        ],
-        "stakes_bullets": [
-          "• The GoTrax Mustang is powered by a 750-watt motor that can deliver up to 90 newton-meters of torque to its wheel",
-          "• The bike is surprisingly nimble and easy to operate, owing in large part to its relatively short wheelbase "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "e3bc49609957"
     },
     {
       "id": "75ecdb4c45d6",
@@ -9318,10 +9323,10 @@
   ],
   "clusters": [
     {
-      "id": "6e492666fa75",
-      "topic": "attack made progres russia",
+      "id": "f0c462d55219",
+      "topic": "bombard made progres russia",
       "keywords": [
-        "attack",
+        "bombard",
         "made",
         "progres",
         "russia",
@@ -10128,24 +10133,6 @@
       ]
     },
     {
-      "id": "49b7f7c69d5c",
-      "topic": "bomb brian cole jan",
-      "keywords": [
-        "bomb",
-        "brian",
-        "cole",
-        "jan",
-        "pipe",
-        "suspect"
-      ],
-      "item_ids": [
-        "9864615b7a1e"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "beb7d0a82210",
       "topic": "208 investor million out",
       "keywords": [
@@ -10158,6 +10145,24 @@
       ],
       "item_ids": [
         "28e036215d8d"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "49b7f7c69d5c",
+      "topic": "bomb brian cole jan",
+      "keywords": [
+        "bomb",
+        "brian",
+        "cole",
+        "jan",
+        "pipe",
+        "suspect"
+      ],
+      "item_ids": [
+        "9864615b7a1e"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10196,6 +10201,42 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "9fe304612a0c",
+      "topic": "bike canyon deflectr helmet",
+      "keywords": [
+        "bike",
+        "canyon",
+        "deflectr",
+        "helmet",
+        "review",
+        "rls"
+      ],
+      "item_ids": [
+        "f66127f70302"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "dd74a02ed620",
+      "topic": "camera crap kohler security",
+      "keywords": [
+        "camera",
+        "crap",
+        "kohler",
+        "security",
+        "toilet",
+        "week"
+      ],
+      "item_ids": [
+        "f1c44cea1bf3"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10336,40 +10377,6 @@
       ],
       "item_ids": [
         "1644419206c0"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "d2d9d80ea475",
-      "topic": "here know launching startup",
-      "keywords": [
-        "here",
-        "know",
-        "launching",
-        "startup"
-      ],
-      "item_ids": [
-        "c389600fa6db"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "e3bc49609957",
-      "topic": "bike electric gotrax mustang",
-      "keywords": [
-        "bike",
-        "electric",
-        "gotrax",
-        "mustang",
-        "punchy",
-        "review"
-      ],
-      "item_ids": [
-        "1ca770116071"
       ],
       "outlets": [
         "WIRED"
