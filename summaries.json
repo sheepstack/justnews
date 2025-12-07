@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-07T07:58:10Z",
+  "generated_at": "2025-12-07T08:15:23Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -4837,38 +4837,6 @@
       "cluster_id": "f49c56d11221"
     },
     {
-      "id": "f1c44cea1bf3",
-      "title": "Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/",
-      "published_at": "Sat, 06 Dec 2025 11:30:00 +0000",
-      "bullets": [
-        "• An AI image creator startup left its database unsecured, exposing more than a million images and videos its users had created",
-        "• A new New York law will require retailers to disclose if personal data collected about you results in algorithmic changes to their prices",
-        "• We profiled a new cellular carrier aiming to offer the closest thing possible to truly anonymous phone service "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• An AI image creator startup left its database unsecured, exposing more than a million images and videos its users had created",
-          "• A new New York law will require retailers to disclose if personal data collected about you results in algorithmic changes to their prices"
-        ],
-        "hopeful_bullets": [
-          "• An AI image creator startup left its database unsecured, exposing more than a million images and videos its users had created",
-          "• A new New York law will require retailers to disclose if personal data collected about you results in algorithmic changes to their prices"
-        ],
-        "stakes_bullets": [
-          "• A new New York law will require retailers to disclose if personal data collected about you results in algorithmic changes to their prices"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "dd74a02ed620"
-    },
-    {
       "id": "f66127f70302",
       "title": "Canyon Deflectr RLS Bike Helmet Review: Game-Changing Safety Technology",
       "outlet": "WIRED",
@@ -4902,6 +4870,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "9fe304612a0c"
+    },
+    {
+      "id": "f1c44cea1bf3",
+      "title": "Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/",
+      "published_at": "Sat, 06 Dec 2025 11:30:00 +0000",
+      "bullets": [
+        "• An AI image creator startup left its database unsecured, exposing more than a million images and videos its users had created",
+        "• A new New York law will require retailers to disclose if personal data collected about you results in algorithmic changes to their prices",
+        "• We profiled a new cellular carrier aiming to offer the closest thing possible to truly anonymous phone service "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• An AI image creator startup left its database unsecured, exposing more than a million images and videos its users had created",
+          "• A new New York law will require retailers to disclose if personal data collected about you results in algorithmic changes to their prices"
+        ],
+        "hopeful_bullets": [
+          "• An AI image creator startup left its database unsecured, exposing more than a million images and videos its users had created",
+          "• A new New York law will require retailers to disclose if personal data collected about you results in algorithmic changes to their prices"
+        ],
+        "stakes_bullets": [
+          "• A new New York law will require retailers to disclose if personal data collected about you results in algorithmic changes to their prices"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "dd74a02ed620"
     },
     {
       "id": "8b7b7a4c1b90",
@@ -10250,24 +10250,6 @@
       ]
     },
     {
-      "id": "dd74a02ed620",
-      "topic": "camera crap kohler security",
-      "keywords": [
-        "camera",
-        "crap",
-        "kohler",
-        "security",
-        "toilet",
-        "week"
-      ],
-      "item_ids": [
-        "f1c44cea1bf3"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
       "id": "9fe304612a0c",
       "topic": "bike canyon deflectr helmet",
       "keywords": [
@@ -10280,6 +10262,24 @@
       ],
       "item_ids": [
         "f66127f70302"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "dd74a02ed620",
+      "topic": "camera crap kohler security",
+      "keywords": [
+        "camera",
+        "crap",
+        "kohler",
+        "security",
+        "toilet",
+        "week"
+      ],
+      "item_ids": [
+        "f1c44cea1bf3"
       ],
       "outlets": [
         "WIRED"
