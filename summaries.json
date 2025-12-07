@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-07T06:18:32Z",
+  "generated_at": "2025-12-07T07:10:22Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2636,6 +2636,39 @@
       "cluster_id": "85c2f547443d"
     },
     {
+      "id": "b8eccd65b38f",
+      "title": "‘No one knows where it came from’: first wild beaver spotted in Norfolk for 400 years",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/dec/07/no-one-knows-where-it-came-from-first-wild-beaver-spotted-in-norfolk-for-400-years",
+      "published_at": "Sun, 07 Dec 2025 06:00:15 GMT",
+      "bullets": [
+        "• It is the first time a free-living beaver has been recorded in Norfolk since 2015",
+        "• Beavers were hunted to extinction in England at the beginning of the 16th century",
+        "• It was filmed dragging logs and establishing a lodge in a 'perfect beaver habitat'"
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.907
+      },
+      "moods": {
+        "brief_bullets": [
+          "• It is the first time a free-living beaver has been recorded in Norfolk since 2015",
+          "• Beavers were hunted to extinction in England at the beginning of the 16th century"
+        ],
+        "hopeful_bullets": [
+          "• It is the first time a free-living beaver has been recorded in Norfolk since 2015"
+        ],
+        "stakes_bullets": [
+          "• It is the first time a free-living beaver has been recorded in Norfolk since 2015",
+          "• Beavers were hunted to extinction in England at the beginning of the 16th century",
+          "• It was filmed dragging logs and establishing a lodge in a 'perfect beaver habitat'"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8e7fe652b5ae"
+    },
+    {
       "id": "16972b0d90d8",
       "title": "Ukrainian city hit by 'massive' strike as peace talks in US conclude",
       "outlet": "BBC News",
@@ -3814,26 +3847,26 @@
       "url": "https://www.bbc.com/news/articles/cr7l4n89lr1o?at_medium=RSS&at_campaign=rss",
       "published_at": "Sat, 06 Dec 2025 19:32:41 GMT",
       "bullets": [
-        "• US National Park Service removes free entry on MLK Day and Juneteenth",
+        "• US National Park Service removes free entry on MLK Jr Day and Juneteenth",
         "• The move is part of President Donald Trump's \"modernisation\" of the park service",
-        "• People who are not US citizens will still have to pay fees on fee-free days "
+        "• People who are not US citizens will still have to pay fees on the fee-free dates "
       ],
       "category": "World",
       "sentiment": {
         "label": "positive",
-        "score": 0.956
+        "score": 0.922
       },
       "moods": {
         "brief_bullets": [
-          "• US National Park Service removes free entry on MLK Day and Juneteenth",
+          "• US National Park Service removes free entry on MLK Jr Day and Juneteenth",
           "• The move is part of President Donald Trump's \"modernisation\" of the park service"
         ],
         "hopeful_bullets": [
-          "• US National Park Service removes free entry on MLK Day and Juneteenth",
+          "• US National Park Service removes free entry on MLK Jr Day and Juneteenth",
           "• The move is part of President Donald Trump's \"modernisation\" of the park service"
         ],
         "stakes_bullets": [
-          "• People who are not US citizens will still have to pay fees on fee-free days "
+          "• People who are not US citizens will still have to pay fees on the fee-free dates "
         ]
       },
       "read_minutes": 2,
@@ -7549,41 +7582,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "402a652c5c27"
-    },
-    {
-      "id": "125526addfa6",
-      "title": "South Australian bus ads misled public by claiming gas is ‘clean and green’, regulator finds",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/06/south-australia-bus-advertising-natural-gas-clean-green",
-      "published_at": "Fri, 05 Dec 2025 14:00:27 GMT",
-      "bullets": [
-        "• SA Department for Transport and Infrastructure has agreed to remove the ads",
-        "• Ad Standards upheld a complaint from the not-for-profit organisation Comms Declare",
-        "• The ads have appeared on the side of buses that run on “compressed natural gas” or CNG",
-        "• The Ad Standards panel agreed the ads breached three sections of its environmental claims code "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• SA Department for Transport and Infrastructure has agreed to remove the ads",
-          "• Ad Standards upheld a complaint from the not-for-profit organisation Comms Declare"
-        ],
-        "hopeful_bullets": [
-          "• SA Department for Transport and Infrastructure has agreed to remove the ads",
-          "• Ad Standards upheld a complaint from the not-for-profit organisation Comms Declare"
-        ],
-        "stakes_bullets": [
-          "• SA Department for Transport and Infrastructure has agreed to remove the ads",
-          "• Ad Standards upheld a complaint from the not-for-profit organisation Comms Declare",
-          "• The ads have appeared on the side of buses that run on “compressed natural gas” or CNG"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3567ef033b96"
     },
     {
       "id": "75ecdb4c45d6",
@@ -11440,6 +11438,24 @@
       ]
     },
     {
+      "id": "8e7fe652b5ae",
+      "topic": "beaver came first know",
+      "keywords": [
+        "beaver",
+        "came",
+        "first",
+        "know",
+        "spotted",
+        "wild"
+      ],
+      "item_ids": [
+        "b8eccd65b38f"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "3af4cf6860aa",
       "topic": "agency bill environment face",
       "keywords": [
@@ -11470,24 +11486,6 @@
       ],
       "item_ids": [
         "233cce0abfc1"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "3567ef033b96",
-      "topic": "ads australian bus misled",
-      "keywords": [
-        "ads",
-        "australian",
-        "bus",
-        "misled",
-        "public",
-        "south"
-      ],
-      "item_ids": [
-        "125526addfa6"
       ],
       "outlets": [
         "Environment | The Guardian"
