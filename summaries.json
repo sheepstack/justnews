@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-09T19:01:16Z",
+  "generated_at": "2025-12-09T19:55:02Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -624,46 +624,475 @@
       "cluster_id": "cfbb41388719"
     },
     {
-      "id": "93def208a499",
-      "title": "Netflix Finally Confirms Lupin Season 4 Return Date",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/netflix-lupin-season-4-return-date/",
-      "published_at": "Tue, 09 Dec 2025 18:53:06 GMT",
+      "id": "61bb0be67f00",
+      "title": "KATSEYE, a Sixty-Year-Old Hit, and the New Global Music Map",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/katseye-tiktok-1235480090/",
+      "published_at": "Tue, 09 Dec 2025 19:41:55 +0000",
       "bullets": [
-        "• Netflix has confirmed that Lupin Season 4 will have the biggest gap, with a release window for the fall of 2026",
-        "• The show started production for Season 4 this year in May, and it hasn't wrapped yet",
-        "• The new entry will bring back Omar Sy as Assane Diop, the world-famous gentleman thief "
+        "• KATSEYE has been crowned TikTok’s Global Artist of the Year 2025",
+        "• The group was formed in 2023 with six members hailing from U.S., South Korea, Switzerland, and the Philippines",
+        "• In just two years, they’ve amassed over 15 million TikTok followers, landed their first Grammy nominations "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• KATSEYE has been crowned TikTok’s Global Artist of the Year 2025",
+          "• The group was formed in 2023 with six members hailing from U.S., South Korea, Switzerland, and the Philippines"
+        ],
+        "hopeful_bullets": [
+          "• KATSEYE has been crowned TikTok’s Global Artist of the Year 2025",
+          "• The group was formed in 2023 with six members hailing from U.S., South Korea, Switzerland, and the Philippines"
+        ],
+        "stakes_bullets": [
+          "• KATSEYE has been crowned TikTok’s Global Artist of the Year 2025",
+          "• The group was formed in 2023 with six members hailing from U.S., South Korea, Switzerland, and the Philippines",
+          "• In just two years, they’ve amassed over 15 million TikTok followers, landed their first Grammy nominations "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "02bcae36e137"
+    },
+    {
+      "id": "9633b453fd29",
+      "title": "Kevin Costner's Drama With Jake Gyllenhaal Honeymoon With Harry Gets Filming Window",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/kevin-costner-jake-gyllenhaal-honeymoon-with-harry-update-filming-start/",
+      "published_at": "Tue, 09 Dec 2025 19:36:28 GMT",
+      "bullets": [
+        "• Paradise's Dan Fogelman teased that Honeymoon with Harry will start shooting in March 2026",
+        "• Jake Gyllenhaal and Kevin Costner joined the project in August 2025",
+        "• Glenn Ficarra and John Requa are set to direct "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Paradise's Dan Fogelman teased that Honeymoon with Harry will start shooting in March 2026",
+          "• Jake Gyllenhaal and Kevin Costner joined the project in August 2025"
+        ],
+        "hopeful_bullets": [
+          "• Paradise's Dan Fogelman teased that Honeymoon with Harry will start shooting in March 2026",
+          "• Jake Gyllenhaal and Kevin Costner joined the project in August 2025"
+        ],
+        "stakes_bullets": [
+          "• Paradise's Dan Fogelman teased that Honeymoon with Harry will start shooting in March 2026"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "8d94662f9a2d"
+    },
+    {
+      "id": "c4c73b10e6b4",
+      "title": "An Evening With PinkPantheress Extends Into 2026",
+      "outlet": "RSS: News",
+      "url": "https://pitchfork.com/news/pinkpantheress-announces-2026-tour-dates/",
+      "published_at": "Tue, 09 Dec 2025 19:20:42 +0000",
+      "bullets": [
+        "• PinkPantheress will return to the stage next year",
+        "• The tour will support her 2025 mixtape Fancy That? and its remixed sequel",
+        "• The dates will start in Mexico City in April before heading to the States for Coachella",
+        "• A full list of stops is below "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• PinkPantheress will return to the stage next year",
+          "• The tour will support her 2025 mixtape Fancy That? and its remixed sequel"
+        ],
+        "hopeful_bullets": [
+          "• PinkPantheress will return to the stage next year",
+          "• The tour will support her 2025 mixtape Fancy That? and its remixed sequel"
+        ],
+        "stakes_bullets": [
+          "• PinkPantheress will return to the stage next year",
+          "• The tour will support her 2025 mixtape Fancy That? and its remixed sequel",
+          "• The dates will start in Mexico City in April before heading to the States for Coachella"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "8aae11a34a89"
+    },
+    {
+      "id": "6c11e6ecbc5d",
+      "title": "‘Bug’ Shares Gripping Insight Into Modern Radicalization from the Director of ‘The Exorcist’",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/editorials/550918/bug-shares-gripping-insight-into-modern-radicalization-from-the-director-of-the-exorcist/",
+      "published_at": "Tue, 09 Dec 2025 19:20:22 +0000",
+      "bullets": [
+        "• William Friedkin’s Bug is a meditation on rabbitholes, delusion, mental illness, and substance abuse",
+        "• It portrays an eerily relevant recipe for modern radicalization",
+        "• The film begins with a bookending image and a phone call; Agnes operates in a disheveled haze "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• William Friedkin’s Bug is a meditation on rabbitholes, delusion, mental illness, and substance abuse",
+          "• It portrays an eerily relevant recipe for modern radicalization"
+        ],
+        "hopeful_bullets": [
+          "• William Friedkin’s Bug is a meditation on rabbitholes, delusion, mental illness, and substance abuse",
+          "• It portrays an eerily relevant recipe for modern radicalization"
+        ],
+        "stakes_bullets": [
+          "• William Friedkin’s Bug is a meditation on rabbitholes, delusion, mental illness, and substance abuse"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "b458942ba062"
+    },
+    {
+      "id": "62cf9dcfede1",
+      "title": "Biblical Horror ‘The Carpenter’s Son’ Starring Nicolas Cage Is Now on Digital",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/home-video/3920989/biblical-horror-the-carpenters-son-starring-nicolas-cage-is-now-on-digital/",
+      "published_at": "Tue, 09 Dec 2025 19:18:12 +0000",
+      "bullets": [
+        "• Nicolas Cage stars as Joseph in the genre-bending horror thriller",
+        "• Noah Jupe (A Quiet Place) as Jesus and FKA twigs (The Crow) as Mary",
+        "• Writer-director Lotfy Nathan draws from his Coptic Christian background to craft unshakeable images of the divine and demonic at war "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.968
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nicolas Cage stars as Joseph in the genre-bending horror thriller",
+          "• Noah Jupe (A Quiet Place) as Jesus and FKA twigs (The Crow) as Mary"
+        ],
+        "hopeful_bullets": [
+          "• Nicolas Cage stars as Joseph in the genre-bending horror thriller",
+          "• Noah Jupe (A Quiet Place) as Jesus and FKA twigs (The Crow) as Mary"
+        ],
+        "stakes_bullets": [
+          "• Nicolas Cage stars as Joseph in the genre-bending horror thriller",
+          "• Noah Jupe (A Quiet Place) as Jesus and FKA twigs (The Crow) as Mary",
+          "• Writer-director Lotfy Nathan draws from his Coptic Christian background to craft unshakeable images of the divine and demonic at war "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e43b75c66dbc"
+    },
+    {
+      "id": "53518e0261e5",
+      "title": "Listen to the Hypnotic Sounds of the Sky in Exclusive Clip from RABBIT TRAP",
+      "outlet": "Daily Dead",
+      "url": "https://dailydead.com/listen-to-the-hypnotic-sounds-of-the-sky-in-exclusive-clip-from-rabbit-trap/",
+      "published_at": "Tue, 09 Dec 2025 19:17:08 +0000",
+      "bullets": [
+        "• The film is now available on Blu-ray, DVD, and VOD platforms via Magnet Releasing",
+        "• The film stars Dev Patel and Rosy McEwan as musician couple Daphne (Daphne) and Darcy (Patel) get more than they bargained for in Rabbit Trap "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The film is now available on Blu-ray, DVD, and VOD platforms via Magnet Releasing",
+          "• The film stars Dev Patel and Rosy McEwan as musician couple Daphne (Daphne) and Darcy (Patel) get more than they bargained for in Rabbit Trap "
+        ],
+        "hopeful_bullets": [
+          "• The film is now available on Blu-ray, DVD, and VOD platforms via Magnet Releasing",
+          "• The film stars Dev Patel and Rosy McEwan as musician couple Daphne (Daphne) and Darcy (Patel) get more than they bargained for in Rabbit Trap "
+        ],
+        "stakes_bullets": [
+          "• The film is now available on Blu-ray, DVD, and VOD platforms via Magnet Releasing",
+          "• The film stars Dev Patel and Rosy McEwan as musician couple Daphne (Daphne) and Darcy (Patel) get more than they bargained for in Rabbit Trap "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "2eb05a1e050b"
+    },
+    {
+      "id": "e7e695a642cd",
+      "title": "Smokey Robinson Says Jane Doe Accuser ‘Brazenly’ Raided His Storage Unit Last Month",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/smokey-robinson-accuser-storage-unit-1235480864/",
+      "published_at": "Tue, 09 Dec 2025 19:13:26 +0000",
+      "bullets": [
+        "• Motown legend Smokey Robinson and his wife claim one of the Jane Doe accusers used an old key to break into the couple’s storage unit without permission on Nov",
+        "• 22 and swipe property worth thousands of dollars",
+        "• The Robinsons are seeking an emergency restraining order forcing the woman to surrender any remaining keys, return the allegedly pilfered property, and stay 100 yards away",
+        "• Jane Doe 4 worked as a housekeeper, cook, and personal assistant for nearly two decades "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Motown legend Smokey Robinson and his wife claim one of the Jane Doe accusers used an old key to break into the couple’s storage unit without permission on Nov",
+          "• 22 and swipe property worth thousands of dollars"
+        ],
+        "hopeful_bullets": [
+          "• Motown legend Smokey Robinson and his wife claim one of the Jane Doe accusers used an old key to break into the couple’s storage unit without permission on Nov",
+          "• 22 and swipe property worth thousands of dollars"
+        ],
+        "stakes_bullets": [
+          "• Motown legend Smokey Robinson and his wife claim one of the Jane Doe accusers used an old key to break into the couple’s storage unit without permission on Nov",
+          "• 22 and swipe property worth thousands of dollars",
+          "• The Robinsons are seeking an emergency restraining order forcing the woman to surrender any remaining keys, return the allegedly pilfered property, and stay 100 yards away"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "6e6ae144516b"
+    },
+    {
+      "id": "9cfb189f8f9e",
+      "title": "Sigourney Weaver Cast in Live-Action Tomb Raider Series",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/sigourney-weaver-tomb-raider-prime-video-series/",
+      "published_at": "Tue, 09 Dec 2025 19:11:26 GMT",
+      "bullets": [
+        "• Prime Video is casting Sigourney Weaver for a new Tomb Raider series",
+        "• The series is set to begin filming on January 19",
+        "• It is unknown if the series is based on the video game series or is a new creation",
+        "• The new series will be on Prime Video from 2023 "
       ],
       "category": "Comics",
       "sentiment": {
         "label": "negative",
-        "score": 0.978
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• Netflix has confirmed that Lupin Season 4 will have the biggest gap, with a release window for the fall of 2026",
-          "• The show started production for Season 4 this year in May, and it hasn't wrapped yet"
+          "• Prime Video is casting Sigourney Weaver for a new Tomb Raider series",
+          "• The series is set to begin filming on January 19"
         ],
         "hopeful_bullets": [
-          "• Netflix has confirmed that Lupin Season 4 will have the biggest gap, with a release window for the fall of 2026"
+          "• Prime Video is casting Sigourney Weaver for a new Tomb Raider series",
+          "• The series is set to begin filming on January 19"
         ],
         "stakes_bullets": [
-          "• Netflix has confirmed that Lupin Season 4 will have the biggest gap, with a release window for the fall of 2026",
-          "• The new entry will bring back Omar Sy as Assane Diop, the world-famous gentleman thief "
+          "• The new series will be on Prime Video from 2023 "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "77e1fdad492d"
+    },
+    {
+      "id": "cc0932cef60f",
+      "title": "Sigourney Weaver in Talks to Join Live Action ‘Tomb Raider’ Series",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/tv/3920990/sigourney-weaver-in-talks-to-join-live-action-tomb-raider-series/",
+      "published_at": "Tue, 09 Dec 2025 19:08:15 +0000",
+      "bullets": [
+        "• Phoebe Waller-Bridge (“Fleabag”) is developing and writing the upcoming series",
+        "• Sophie Turner (‘Game of Thrones’) will play Lara Croft in the Prime Video series",
+        "• It is unknown who Weaver would play "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.801
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Phoebe Waller-Bridge (“Fleabag”) is developing and writing the upcoming series",
+          "• Sophie Turner (‘Game of Thrones’) will play Lara Croft in the Prime Video series"
+        ],
+        "hopeful_bullets": [
+          "• Phoebe Waller-Bridge (“Fleabag”) is developing and writing the upcoming series",
+          "• Sophie Turner (‘Game of Thrones’) will play Lara Croft in the Prime Video series"
+        ],
+        "stakes_bullets": [
+          "• Sophie Turner (‘Game of Thrones’) will play Lara Croft in the Prime Video series"
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "5cf5a261e8bf"
+      "cluster_id": "9b71ff75c951"
+    },
+    {
+      "id": "0057b633e913",
+      "title": "Powerful storms dump heavy rain and swell rivers across US Pacific north-west",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/09/pacific-north-west-washington-oregon-storms",
+      "published_at": "Tue, 09 Dec 2025 19:07:38 GMT",
+      "bullets": [
+        "• An unusually strong storm system called an atmospheric river is passing through the region",
+        "• Flood watches are in effect along the Pacific coast and into the Cascades through midweek",
+        "• In Snohomish county, north of Seattle, fire crews rescued two people trapped by floodwaters "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• An unusually strong storm system called an atmospheric river is passing through the region",
+          "• Flood watches are in effect along the Pacific coast and into the Cascades through midweek"
+        ],
+        "hopeful_bullets": [
+          "• An unusually strong storm system called an atmospheric river is passing through the region"
+        ],
+        "stakes_bullets": [
+          "• Flood watches are in effect along the Pacific coast and into the Cascades through midweek"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "eba2d71bcdbe"
+    },
+    {
+      "id": "0a30dac0d683",
+      "title": "Former justice department workers sign letter decrying Trump’s ‘near destruction’ of civil rights division – live",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/dec/09/hegseth-rubio-venezuela-trump-tariffs-pennsylvania-nvidia-china-us-politics-latest-news-updates",
+      "published_at": "Tue, 09 Dec 2025 19:07:25 GMT",
+      "bullets": [
+        "• More than 200 former employees sign letter decrying 'near destruction' of civil rights division",
+        "• They say they left because the division ‘turned the Division’s core mission upside down, largely abandoning its duty to protect civil rights’ ‘That could not be further from the truth",
+        "• We left because this Administration turned the mission around’"
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• More than 200 former employees sign letter decrying 'near destruction' of civil rights division",
+          "• They say they left because the division ‘turned the Division’s core mission upside down, largely abandoning its duty to protect civil rights’ ‘That could not be further from the truth"
+        ],
+        "hopeful_bullets": [
+          "• More than 200 former employees sign letter decrying 'near destruction' of civil rights division",
+          "• They say they left because the division ‘turned the Division’s core mission upside down, largely abandoning its duty to protect civil rights’ ‘That could not be further from the truth"
+        ],
+        "stakes_bullets": [
+          "• They say they left because the division ‘turned the Division’s core mission upside down, largely abandoning its duty to protect civil rights’ ‘That could not be further from the truth",
+          "• We left because this Administration turned the mission around’"
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "d8390fa2a244"
+    },
+    {
+      "id": "0be92701fa99",
+      "title": "Take a look inside Target's new fashion-focused store in New York's SoHo neighborhood",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/09/new-target-store-soho-new-york-fashion.html",
+      "published_at": "Tue, 09 Dec 2025 19:05:11 GMT",
+      "bullets": [
+        "• New York City is in the midst of a major overhaul of its big-city retail stores",
+        "• The city is trying to get back to growth after four years of declining sales",
+        "• The new store will have rotating displays of merchandise and special programming "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.819
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New York City is in the midst of a major overhaul of its big-city retail stores",
+          "• The city is trying to get back to growth after four years of declining sales"
+        ],
+        "hopeful_bullets": [
+          "• The city is trying to get back to growth after four years of declining sales"
+        ],
+        "stakes_bullets": [
+          "• The new store will have rotating displays of merchandise and special programming "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "6e3cb63dd75a"
+    },
+    {
+      "id": "25c8e3774e3b",
+      "title": "Tyler Doupe´’s Top 10 Horror Movies of 2025 [Dread Central Selects]",
+      "outlet": "Dread Central",
+      "url": "https://www.dreadcentral.com/editorials/best-of-2025/551154/tyler-doupes-top-10-horror-movies-of-2025-dread-central-selects/",
+      "published_at": "Tue, 09 Dec 2025 19:04:06 +0000",
+      "bullets": [
+        "• Last year, The Substance earned five Oscar nominations and won Best Makeup and Hairstyling",
+        "• Sinners is poised to follow suit and win big during awards season",
+        "• This year’s lineup features a variety of indie sleepers, box office smashes, and even a legacy sequel "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Last year, The Substance earned five Oscar nominations and won Best Makeup and Hairstyling",
+          "• Sinners is poised to follow suit and win big during awards season"
+        ],
+        "hopeful_bullets": [
+          "• Sinners is poised to follow suit and win big during awards season"
+        ],
+        "stakes_bullets": [
+          "• Last year, The Substance earned five Oscar nominations and won Best Makeup and Hairstyling",
+          "• Sinners is poised to follow suit and win big during awards season",
+          "• This year’s lineup features a variety of indie sleepers, box office smashes, and even a legacy sequel "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "b5c5895d521d"
+    },
+    {
+      "id": "102ca9bb7022",
+      "title": "15 Years Later, TV’s Sharpest Spy Thriller Hits Even Harder",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/nikita-greatest-spy-thriller/",
+      "published_at": "Tue, 09 Dec 2025 19:00:11 GMT",
+      "bullets": [
+        "• The show follows Nikita's efforts to take down Division, the secret agency that trained her",
+        "• Audiences are thrust into the world of black-ops programs, covert missions, double-crosses, and operatives who weaponize every lie",
+        "• Nikita is not alone in her endeavor; she has a partner working from within to dismantle the system "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The show follows Nikita's efforts to take down Division, the secret agency that trained her",
+          "• Audiences are thrust into the world of black-ops programs, covert missions, double-crosses, and operatives who weaponize every lie"
+        ],
+        "hopeful_bullets": [
+          "• The show follows Nikita's efforts to take down Division, the secret agency that trained her",
+          "• Audiences are thrust into the world of black-ops programs, covert missions, double-crosses, and operatives who weaponize every lie"
+        ],
+        "stakes_bullets": [
+          "• The show follows Nikita's efforts to take down Division, the secret agency that trained her",
+          "• Audiences are thrust into the world of black-ops programs, covert missions, double-crosses, and operatives who weaponize every lie",
+          "• Nikita is not alone in her endeavor; she has a partner working from within to dismantle the system "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "0797113a0774"
     },
     {
       "id": "e3cf9b37cb82",
       "title": "Trump administration moves to remove millions of student loan borrowers from payment pause",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/12/09/save-student-loan-payment-pause.html",
-      "published_at": "Tue, 09 Dec 2025 18:38:21 GMT",
+      "published_at": "Tue, 09 Dec 2025 18:58:05 GMT",
       "bullets": [
         "• The Saving on a Valuable Education plan has been blocked since February",
-        "• Republican-led states argued former President Joe Biden lacked authority to establish the plan",
+        "• GOP states argued former President Joe Biden lacked the authority to establish the student loan relief plan",
         "• Borrowers who remain in the plan will need to select a new repayment option, the Department of Education says "
       ],
       "category": "Business",
@@ -674,20 +1103,115 @@
       "moods": {
         "brief_bullets": [
           "• The Saving on a Valuable Education plan has been blocked since February",
-          "• Republican-led states argued former President Joe Biden lacked authority to establish the plan"
+          "• GOP states argued former President Joe Biden lacked the authority to establish the student loan relief plan"
         ],
         "hopeful_bullets": [
-          "• The Saving on a Valuable Education plan has been blocked since February",
-          "• Republican-led states argued former President Joe Biden lacked authority to establish the plan"
+          "• GOP states argued former President Joe Biden lacked the authority to establish the student loan relief plan"
         ],
         "stakes_bullets": [
           "• The Saving on a Valuable Education plan has been blocked since February",
-          "• Republican-led states argued former President Joe Biden lacked authority to establish the plan",
+          "• GOP states argued former President Joe Biden lacked the authority to establish the student loan relief plan",
           "• Borrowers who remain in the plan will need to select a new repayment option, the Department of Education says "
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "204ceaed0fec"
+    },
+    {
+      "id": "a4789bc7283d",
+      "title": "James Wan to Produce Survival Horror Film ‘Doomtown’ from ‘Texas Chainsaw Massacre’ Writer",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3920974/james-wan-to-produce-survival-horror-film-doomtown-from-texas-chainsaw-massacre-writer/",
+      "published_at": "Tue, 09 Dec 2025 18:55:24 +0000",
+      "bullets": [
+        "• James Wan to produce Survival Horror Film ‘Doomtown’ from ‘Texas Chainsaw Massacre 2022, Cobweb",
+        "• The logline is being kept under wraps, but Deadline has heard that James Wan is interested in directing the project, though sources close to the filmmaker have denied that "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.963
+      },
+      "moods": {
+        "brief_bullets": [
+          "• James Wan to produce Survival Horror Film ‘Doomtown’ from ‘Texas Chainsaw Massacre 2022, Cobweb",
+          "• The logline is being kept under wraps, but Deadline has heard that James Wan is interested in directing the project, though sources close to the filmmaker have denied that "
+        ],
+        "hopeful_bullets": [
+          "• James Wan to produce Survival Horror Film ‘Doomtown’ from ‘Texas Chainsaw Massacre 2022, Cobweb",
+          "• The logline is being kept under wraps, but Deadline has heard that James Wan is interested in directing the project, though sources close to the filmmaker have denied that "
+        ],
+        "stakes_bullets": [
+          "• The logline is being kept under wraps, but Deadline has heard that James Wan is interested in directing the project, though sources close to the filmmaker have denied that "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "2aabe4f5176c"
+    },
+    {
+      "id": "93def208a499",
+      "title": "Netflix Finally Confirms Lupin Season 4 Return Date",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/netflix-lupin-season-4-return-date/",
+      "published_at": "Tue, 09 Dec 2025 18:53:06 GMT",
+      "bullets": [
+        "• Netflix has confirmed that Lupin Season 4 will have a release date for the fall of 2026",
+        "• Omar Sy will return to star as Assane Diop, the world-famous gentleman thief",
+        "• The show started production for Season 4 this year in May and it hasn't wrapped yet "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.936
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Netflix has confirmed that Lupin Season 4 will have a release date for the fall of 2026",
+          "• Omar Sy will return to star as Assane Diop, the world-famous gentleman thief"
+        ],
+        "hopeful_bullets": [
+          "• Netflix has confirmed that Lupin Season 4 will have a release date for the fall of 2026",
+          "• Omar Sy will return to star as Assane Diop, the world-famous gentleman thief"
+        ],
+        "stakes_bullets": [
+          "• Netflix has confirmed that Lupin Season 4 will have a release date for the fall of 2026",
+          "• Omar Sy will return to star as Assane Diop, the world-famous gentleman thief"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "5cf5a261e8bf"
+    },
+    {
+      "id": "5638a441a56f",
+      "title": "Trump clears way for Nvidia to sell powerful AI chips to China",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/technology/2025/dec/08/trump-nvidia-ai-chips-china",
+      "published_at": "Tue, 09 Dec 2025 18:45:24 GMT",
+      "bullets": [
+        "• Donald Trump has cleared the way for Nvidia to begin selling its powerful AI computer chips to China",
+        "• The president said the US would receive 25% of the proceeds, more than the 15% previously agreed to with Nvidia in an earlier deal to lift restrictions",
+        "• Trump said he was planning to make the same offer to other chip companies, including AMD and Intel "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.814
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Donald Trump has cleared the way for Nvidia to begin selling its powerful AI computer chips to China",
+          "• The president said the US would receive 25% of the proceeds, more than the 15% previously agreed to with Nvidia in an earlier deal to lift restrictions"
+        ],
+        "hopeful_bullets": [
+          "• Donald Trump has cleared the way for Nvidia to begin selling its powerful AI computer chips to China",
+          "• The president said the US would receive 25% of the proceeds, more than the 15% previously agreed to with Nvidia in an earlier deal to lift restrictions"
+        ],
+        "stakes_bullets": [
+          "• Trump said he was planning to make the same offer to other chip companies, including AMD and Intel "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "4ab36522fd5c"
     },
     {
       "id": "b007d0b17fca",
@@ -887,41 +1411,8 @@
           "• The episode is scheduled to premiere on Dec"
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 3,
       "cluster_id": "df5e9e03cc70"
-    },
-    {
-      "id": "0a30dac0d683",
-      "title": "Former justice department workers sign letter decrying Trump’s ‘near destruction’ of civil rights division – live",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/dec/09/hegseth-rubio-venezuela-trump-tariffs-pennsylvania-nvidia-china-us-politics-latest-news-updates",
-      "published_at": "Tue, 09 Dec 2025 18:22:53 GMT",
-      "bullets": [
-        "• More than 200 former employees sign letter decrying 'near destruction' of civil rights division",
-        "• They say they left because the division ‘turned the Division’s core mission upside down, largely abandoning its duty to protect civil rights’ ‘That could not be further from the truth",
-        "• We left because this Administration turned the mission around’"
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• More than 200 former employees sign letter decrying 'near destruction' of civil rights division",
-          "• They say they left because the division ‘turned the Division’s core mission upside down, largely abandoning its duty to protect civil rights’ ‘That could not be further from the truth"
-        ],
-        "hopeful_bullets": [
-          "• More than 200 former employees sign letter decrying 'near destruction' of civil rights division",
-          "• They say they left because the division ‘turned the Division’s core mission upside down, largely abandoning its duty to protect civil rights’ ‘That could not be further from the truth"
-        ],
-        "stakes_bullets": [
-          "• They say they left because the division ‘turned the Division’s core mission upside down, largely abandoning its duty to protect civil rights’ ‘That could not be further from the truth",
-          "• We left because this Administration turned the mission around’"
-        ]
-      },
-      "read_minutes": 18,
-      "cluster_id": "d8390fa2a244"
     },
     {
       "id": "fdfe4f036e5d",
@@ -958,7 +1449,7 @@
     },
     {
       "id": "d4c68b32994c",
-      "title": "US sanctions network accused of enlisting Colombian mercenaries to fight in Sudan war",
+      "title": "US puts sanctions on network said to funnel Colombian mercenaries to Sudan",
       "outlet": "World news | The Guardian",
       "url": "https://www.theguardian.com/world/2025/dec/09/colombian-mercenaries-sudan-sanctions",
       "published_at": "Tue, 09 Dec 2025 18:20:48 GMT",
@@ -969,7 +1460,7 @@
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.937
+        "score": 0.976
       },
       "moods": {
         "brief_bullets": [
@@ -986,7 +1477,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "532cdb270b25"
+      "cluster_id": "8ce6f11df16e"
     },
     {
       "id": "bce4630df068",
@@ -1021,40 +1512,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "60e38f35d3f4"
-    },
-    {
-      "id": "8d8620567e4c",
-      "title": "Solo Leveling Asks Fans to ‘Arise’ to the Challenge in New 2026 Update",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/solo-leveling-arise-championship-2026-update/",
-      "published_at": "Tue, 09 Dec 2025 18:14:22 GMT",
-      "bullets": [
-        "• Second annual Solo Leveling: Arise Championship is now underway for 2026",
-        "• Registration for the global 2026 championship is underway",
-        "• 16 finalists from around the world, such as Asia, Europe, North America, and South America, competed in the popular game mode, “Battlefield of Time\""
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Second annual Solo Leveling: Arise Championship is now underway for 2026",
-          "• Registration for the global 2026 championship is underway"
-        ],
-        "hopeful_bullets": [
-          "• Second annual Solo Leveling: Arise Championship is now underway for 2026",
-          "• Registration for the global 2026 championship is underway"
-        ],
-        "stakes_bullets": [
-          "• Second annual Solo Leveling: Arise Championship is now underway for 2026",
-          "• Registration for the global 2026 championship is underway",
-          "• 16 finalists from around the world, such as Asia, Europe, North America, and South America, competed in the popular game mode, “Battlefield of Time\""
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e88e8a0cab9f"
     },
     {
       "id": "f58f6d9f58dc",
@@ -1248,39 +1705,6 @@
       "cluster_id": "c45fbbfc43d7"
     },
     {
-      "id": "84bade61e21b",
-      "title": "Upcoming Superman / Spider-Man Team Up Reveals Creative Team, Must-See Cover Art, and Release Date",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/superman-spider-man-crossover-creative-team-cover-art-release-date/",
-      "published_at": "Tue, 09 Dec 2025 18:00:11 GMT",
-      "bullets": [
-        "• Marvel and DC Comics have unveiled their next big crossover",
-        "• Superman/Spider-Man #1 is set to be released on March 25, 2026",
-        "• The one-shot anthology will feature multiple stories from all-star creative teams",
-        "• It is perfect for the 50th anniversary of the original crossover "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Marvel and DC Comics have unveiled their next big crossover",
-          "• Superman/Spider-Man #1 is set to be released on March 25, 2026"
-        ],
-        "hopeful_bullets": [
-          "• Marvel and DC Comics have unveiled their next big crossover",
-          "• Superman/Spider-Man #1 is set to be released on March 25, 2026"
-        ],
-        "stakes_bullets": [
-          "• The one-shot anthology will feature multiple stories from all-star creative teams"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2e6b4e46527a"
-    },
-    {
       "id": "35439b70f586",
       "title": "There's no Dow or S&P 500 for cryptocurrencies yet. Bitwise is getting a step closer with new ETF",
       "outlet": "US Top News and Analysis",
@@ -1313,70 +1737,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "83c25c41265a"
-    },
-    {
-      "id": "eb2039c7c5da",
-      "title": "Russell Crowe Reveals Gladiator 2's Biggest Mistake",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/gladiator-2-biggest-mistake-russell-crowe/",
-      "published_at": "Tue, 09 Dec 2025 17:53:39 GMT",
-      "bullets": [
-        "• Russell Crowe said the sequel lacked the main character's \"moral core\" The actor didn't specifically name Gladiator II, but it was obvious he was referring to the recent historical epic",
-        "• The actor admitted production on the first film didn't run smoothly "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Russell Crowe said the sequel lacked the main character's \"moral core\" The actor didn't specifically name Gladiator II, but it was obvious he was referring to the recent historical epic",
-          "• The actor admitted production on the first film didn't run smoothly "
-        ],
-        "hopeful_bullets": [
-          "• Russell Crowe said the sequel lacked the main character's \"moral core\" The actor didn't specifically name Gladiator II, but it was obvious he was referring to the recent historical epic",
-          "• The actor admitted production on the first film didn't run smoothly "
-        ],
-        "stakes_bullets": [
-          "• Russell Crowe said the sequel lacked the main character's \"moral core\" The actor didn't specifically name Gladiator II, but it was obvious he was referring to the recent historical epic",
-          "• The actor admitted production on the first film didn't run smoothly "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4520a3003110"
-    },
-    {
-      "id": "a35a2869eaa2",
-      "title": "Neon Genesis Evangelion Anime & Manga Origins",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/1990s-best-sci-fi-anime-neon-genesis-evangelion-manga-origins/",
-      "published_at": "Tue, 09 Dec 2025 17:51:38 GMT",
-      "bullets": [
-        "• '90s anime was considered to have been in a creative slump, until one series dragged it out of stagnation",
-        "• The brainchild of Hideaki Anno, Neon Genesis Evangelion is still celebrated as one of the most influential science fiction anime series of all time "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• '90s anime was considered to have been in a creative slump, until one series dragged it out of stagnation",
-          "• The brainchild of Hideaki Anno, Neon Genesis Evangelion is still celebrated as one of the most influential science fiction anime series of all time "
-        ],
-        "hopeful_bullets": [
-          "• '90s anime was considered to have been in a creative slump, until one series dragged it out of stagnation",
-          "• The brainchild of Hideaki Anno, Neon Genesis Evangelion is still celebrated as one of the most influential science fiction anime series of all time "
-        ],
-        "stakes_bullets": [
-          "• '90s anime was considered to have been in a creative slump, until one series dragged it out of stagnation",
-          "• The brainchild of Hideaki Anno, Neon Genesis Evangelion is still celebrated as one of the most influential science fiction anime series of all time "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "4a614a469a56"
     },
     {
       "id": "df375e79f657",
@@ -1899,39 +2259,6 @@
       "cluster_id": "e48d6d9582d1"
     },
     {
-      "id": "04cd55724b7d",
-      "title": "Trump had two mortgages he claimed were primary dwellings, records show",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/09/trump-mortgage-records-primary-dwelling",
-      "published_at": "Tue, 09 Dec 2025 16:43:32 GMT",
-      "bullets": [
-        "• Donald Trump signed mortgage documents in the 1990s claiming two separate Florida properties would each serve as his principal residence",
-        "• Instead of living in them, he rented both out as investment properties",
-        "• Trump has called the same behavior – having two primary dwelling mortgages – “deceitful and potentially criminal” in relation to mortgage fraud charges against the Federal Reserve governor "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Donald Trump signed mortgage documents in the 1990s claiming two separate Florida properties would each serve as his principal residence",
-          "• Instead of living in them, he rented both out as investment properties"
-        ],
-        "hopeful_bullets": [
-          "• Trump has called the same behavior – having two primary dwelling mortgages – “deceitful and potentially criminal” in relation to mortgage fraud charges against the Federal Reserve governor "
-        ],
-        "stakes_bullets": [
-          "• Donald Trump signed mortgage documents in the 1990s claiming two separate Florida properties would each serve as his principal residence",
-          "• Instead of living in them, he rented both out as investment properties",
-          "• Trump has called the same behavior – having two primary dwelling mortgages – “deceitful and potentially criminal” in relation to mortgage fraud charges against the Federal Reserve governor "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "849a2bacdae9"
-    },
-    {
       "id": "835ccbe6cead",
       "title": "Merry Saw-Lidays: Lionsgate Launches Official ‘SAW’ Holiday Merchandise Collection",
       "outlet": "Bloody Disgusting!",
@@ -2206,25 +2533,25 @@
       "published_at": "Tue, 09 Dec 2025 16:08:44 GMT",
       "bullets": [
         "• Lithuania declares emergency situation over Belarus balloons",
-        "• About 600 balloons linked to smuggling and almost 200 drones have entered Lithuanian airspace this year",
-        "• Belarusian leader Alexander Lukashenko denies being behind the incursions, alleging the issue has been \"politicised\""
+        "• About 600 balloons linked to smuggling and almost 200 drones have entered Lithuanian airspace",
+        "• Belarus leader Alexander Lukashenko denies being behind the incursions, alleging the issue has been \"politicised\" by Lithuania "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.98
+        "score": 0.981
       },
       "moods": {
         "brief_bullets": [
           "• Lithuania declares emergency situation over Belarus balloons",
-          "• About 600 balloons linked to smuggling and almost 200 drones have entered Lithuanian airspace this year"
+          "• About 600 balloons linked to smuggling and almost 200 drones have entered Lithuanian airspace"
         ],
         "hopeful_bullets": [
           "• Lithuania declares emergency situation over Belarus balloons",
-          "• About 600 balloons linked to smuggling and almost 200 drones have entered Lithuanian airspace this year"
+          "• About 600 balloons linked to smuggling and almost 200 drones have entered Lithuanian airspace"
         ],
         "stakes_bullets": [
-          "• Belarusian leader Alexander Lukashenko denies being behind the incursions, alleging the issue has been \"politicised\""
+          "• Belarus leader Alexander Lukashenko denies being behind the incursions, alleging the issue has been \"politicised\" by Lithuania "
         ]
       },
       "read_minutes": 2,
@@ -2394,38 +2721,6 @@
       "cluster_id": "be0d40cd828f"
     },
     {
-      "id": "bafd955ad14e",
-      "title": "Closed Beta Sign-ups Now Open for Roguelike Survival Horror Game ‘ROGUE MANSION’",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/video-games/3920834/closed-beta-sign-ups-now-open-for-roguelike-survival-horror-game-rogue-mansion/",
-      "published_at": "Tue, 09 Dec 2025 15:38:45 +0000",
-      "bullets": [
-        "• Almenara Games’ upcoming survival horror roguelike, ROGUE MANSION, will be entering Closed Beta tentatively planned for January 2026",
-        "• Those selected to participate in the Closed Beta will gain access to a full run of the game with a single playable character "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.888
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Almenara Games’ upcoming survival horror roguelike, ROGUE MANSION, will be entering Closed Beta tentatively planned for January 2026",
-          "• Those selected to participate in the Closed Beta will gain access to a full run of the game with a single playable character "
-        ],
-        "hopeful_bullets": [
-          "• Almenara Games’ upcoming survival horror roguelike, ROGUE MANSION, will be entering Closed Beta tentatively planned for January 2026",
-          "• Those selected to participate in the Closed Beta will gain access to a full run of the game with a single playable character "
-        ],
-        "stakes_bullets": [
-          "• Almenara Games’ upcoming survival horror roguelike, ROGUE MANSION, will be entering Closed Beta tentatively planned for January 2026",
-          "• Those selected to participate in the Closed Beta will gain access to a full run of the game with a single playable character "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d30c193bece1"
-    },
-    {
       "id": "4cc0e17c2e15",
       "title": "Asked why we need Golden Dome, the man in charge points to a Hollywood film",
       "outlet": "Ars Technica - All content",
@@ -2459,73 +2754,6 @@
       "cluster_id": "bdbbf9df0fdc"
     },
     {
-      "id": "e33c58884f95",
-      "title": "‘The Dead 3’ – Apocalyptic Zombie Trilogy Capper in the Works from Original Filmmakers",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3920877/the-dead-3-apocalyptic-zombie-trilogy-capper-in-the-works-from-original-filmmakers/",
-      "published_at": "Tue, 09 Dec 2025 15:30:09 +0000",
-      "bullets": [
-        "• The Dead 3 is the latest installment of a three-part series of zombie films",
-        "• The Dead 2: India was released in 2013",
-        "• The final film is set to be released in 2015",
-        "• Original filmmakers say it will be the most explosive, hard-hitting film ever made "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Dead 3 is the latest installment of a three-part series of zombie films",
-          "• The Dead 2: India was released in 2013"
-        ],
-        "hopeful_bullets": [
-          "• The Dead 3 is the latest installment of a three-part series of zombie films",
-          "• The Dead 2: India was released in 2013"
-        ],
-        "stakes_bullets": [
-          "• Original filmmakers say it will be the most explosive, hard-hitting film ever made "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "5422e1997673"
-    },
-    {
-      "id": "4d5ed66b90ff",
-      "title": "‘Key of Bones: Curse of the Ghost Pirate’ – Horror Website iHorror Announces Their Own Horror-Comedy",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3920885/key-of-bones-curse-of-the-ghost-pirate-horror-website-ihorror-announces-their-own-horror-comedy/",
-      "published_at": "Tue, 09 Dec 2025 15:18:21 +0000",
-      "bullets": [
-        "• Horror website iHorror is moving into the feature filmmaking arena with Key of Bones: Curse of the Ghost Pirate",
-        "• The supernatural horror-comedy blends pirate mythology, ghost-story thrills, and the eccentric island energy that makes the Keys world-famous",
-        "• The film follows a local waitress, a ghost-tour guide, and an unlucky tourist "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Horror website iHorror is moving into the feature filmmaking arena with Key of Bones: Curse of the Ghost Pirate",
-          "• The supernatural horror-comedy blends pirate mythology, ghost-story thrills, and the eccentric island energy that makes the Keys world-famous"
-        ],
-        "hopeful_bullets": [
-          "• Horror website iHorror is moving into the feature filmmaking arena with Key of Bones: Curse of the Ghost Pirate",
-          "• The supernatural horror-comedy blends pirate mythology, ghost-story thrills, and the eccentric island energy that makes the Keys world-famous"
-        ],
-        "stakes_bullets": [
-          "• Horror website iHorror is moving into the feature filmmaking arena with Key of Bones: Curse of the Ghost Pirate",
-          "• The supernatural horror-comedy blends pirate mythology, ghost-story thrills, and the eccentric island energy that makes the Keys world-famous",
-          "• The film follows a local waitress, a ghost-tour guide, and an unlucky tourist "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "218322b77f6c"
-    },
-    {
       "id": "43f1e3cce869",
       "title": "US judge strikes down Trump order blocking wind energy projects",
       "outlet": "Environment | The Guardian",
@@ -2555,38 +2783,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "1643ddf42424"
-    },
-    {
-      "id": "7663c69a032a",
-      "title": "Florida declares US Muslim civil rights group a foreign terrorist organization",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/09/florida-cair-foreign-terrorist-organization-desantis",
-      "published_at": "Tue, 09 Dec 2025 15:16:02 GMT",
-      "bullets": [
-        "• Florida is declaring the Council on American-Islamic Relations (Cair) – a US civil rights and liberties group – a foreign terrorist organization, the Republican governor, Ron DeSantis, announced on Monday",
-        "• The move closely follows a similar order issued in November by Texas’s governor, Greg Abbott "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Florida is declaring the Council on American-Islamic Relations (Cair) – a US civil rights and liberties group – a foreign terrorist organization, the Republican governor, Ron DeSantis, announced on Monday",
-          "• The move closely follows a similar order issued in November by Texas’s governor, Greg Abbott "
-        ],
-        "hopeful_bullets": [
-          "• Florida is declaring the Council on American-Islamic Relations (Cair) – a US civil rights and liberties group – a foreign terrorist organization, the Republican governor, Ron DeSantis, announced on Monday",
-          "• The move closely follows a similar order issued in November by Texas’s governor, Greg Abbott "
-        ],
-        "stakes_bullets": [
-          "• Florida is declaring the Council on American-Islamic Relations (Cair) – a US civil rights and liberties group – a foreign terrorist organization, the Republican governor, Ron DeSantis, announced on Monday",
-          "• The move closely follows a similar order issued in November by Texas’s governor, Greg Abbott "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "31ab11d61004"
     },
     {
       "id": "5b1195459fca",
@@ -2749,40 +2945,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "021b83dbdf28"
-    },
-    {
-      "id": "0be92701fa99",
-      "title": "Take a look inside Target's new fashion-focused store in New York's SoHo neighborhood",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/09/new-target-store-soho-new-york-fashion.html",
-      "published_at": "Tue, 09 Dec 2025 14:45:20 GMT",
-      "bullets": [
-        "• Target unveils a one-of-a-kind concept store in New York's SoHo neighborhood",
-        "• The store will have rotating merchandise, curated displays chosen by celebrities and influencers",
-        "• Target is in the middle of a turnaround effort and on the cusp of a CEO change",
-        "• Incoming CEO Michael Fiddelke will start the role in February "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Target unveils a one-of-a-kind concept store in New York's SoHo neighborhood",
-          "• The store will have rotating merchandise, curated displays chosen by celebrities and influencers"
-        ],
-        "hopeful_bullets": [
-          "• Target unveils a one-of-a-kind concept store in New York's SoHo neighborhood",
-          "• The store will have rotating merchandise, curated displays chosen by celebrities and influencers"
-        ],
-        "stakes_bullets": [
-          "• The store will have rotating merchandise, curated displays chosen by celebrities and influencers",
-          "• Incoming CEO Michael Fiddelke will start the role in February "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "6e3cb63dd75a"
     },
     {
       "id": "b01b5e6c5b24",
@@ -3042,6 +3204,39 @@
       "cluster_id": "6a7f03f8d1a8"
     },
     {
+      "id": "27ff8b5dbeca",
+      "title": "iFixit Put a Chatbot Repair Expert in an App",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/ifixit-chatbot-app-fixbot-point-your-camera-at-what-you-want-to-fix/",
+      "published_at": "Tue, 09 Dec 2025 13:00:00 +0000",
+      "bullets": [
+        "• iFixit's new chatbot, FixBot, is out for iOS and Android today",
+        "• The chatbot is a fusion of a dozen different AI models from just about every player in the generative AI space",
+        "• The bot is intended to focus solely on repair, pulling from the service's ever growing pool of repair guides "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.814
+      },
+      "moods": {
+        "brief_bullets": [
+          "• iFixit's new chatbot, FixBot, is out for iOS and Android today",
+          "• The chatbot is a fusion of a dozen different AI models from just about every player in the generative AI space"
+        ],
+        "hopeful_bullets": [
+          "• The bot is intended to focus solely on repair, pulling from the service's ever growing pool of repair guides "
+        ],
+        "stakes_bullets": [
+          "• iFixit's new chatbot, FixBot, is out for iOS and Android today",
+          "• The chatbot is a fusion of a dozen different AI models from just about every player in the generative AI space",
+          "• The bot is intended to focus solely on repair, pulling from the service's ever growing pool of repair guides "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "da339dee1553"
+    },
+    {
       "id": "a95c07d8d7d3",
       "title": "How to Shop for a Mechanical Keyboard (2025): Switches, Materials, and Layouts Explained",
       "outlet": "WIRED",
@@ -3074,39 +3269,6 @@
       },
       "read_minutes": 22,
       "cluster_id": "39284641327a"
-    },
-    {
-      "id": "27ff8b5dbeca",
-      "title": "iFixit Put a Chatbot Repair Expert in an App",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/ifixit-chatbot-app-fixbot-point-your-camera-at-what-you-want-to-fix/",
-      "published_at": "Tue, 09 Dec 2025 13:00:00 +0000",
-      "bullets": [
-        "• iFixit's new chatbot, FixBot, is out for iOS and Android today",
-        "• The chatbot is a fusion of a dozen different AI models from just about every player in the generative AI space",
-        "• The bot is intended to focus solely on repair, pulling from the service's ever growing pool of repair guides "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.814
-      },
-      "moods": {
-        "brief_bullets": [
-          "• iFixit's new chatbot, FixBot, is out for iOS and Android today",
-          "• The chatbot is a fusion of a dozen different AI models from just about every player in the generative AI space"
-        ],
-        "hopeful_bullets": [
-          "• The bot is intended to focus solely on repair, pulling from the service's ever growing pool of repair guides "
-        ],
-        "stakes_bullets": [
-          "• iFixit's new chatbot, FixBot, is out for iOS and Android today",
-          "• The chatbot is a fusion of a dozen different AI models from just about every player in the generative AI space",
-          "• The bot is intended to focus solely on repair, pulling from the service's ever growing pool of repair guides "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "da339dee1553"
     },
     {
       "id": "3eaa094c80f2",
@@ -3217,13 +3379,13 @@
       "bullets": [
         "• Gov",
         "• Greg Abbott announced his reelection campaign in November, promising to lower property taxes",
-        "• His plan has three points, which The Texas Tribune is breaking down over a series of articles",
+        "• His plan covers three areas, which The Texas Tribune is breaking down over a series of articles",
         "• So far, several Texas House lawmakers have signed on to the platform "
       ],
       "category": "Texas",
       "sentiment": {
         "label": "negative",
-        "score": 0.983
+        "score": 0.944
       },
       "moods": {
         "brief_bullets": [
@@ -3235,7 +3397,7 @@
           "• Greg Abbott announced his reelection campaign in November, promising to lower property taxes"
         ],
         "stakes_bullets": [
-          "• His plan has three points, which The Texas Tribune is breaking down over a series of articles"
+          "• His plan covers three areas, which The Texas Tribune is breaking down over a series of articles"
         ]
       },
       "read_minutes": 7,
@@ -5058,69 +5220,6 @@
       "cluster_id": "61932cf045ef"
     },
     {
-      "id": "f7ab077cb813",
-      "title": "Hulu Now Streaming Gruesome, Genre-Blending Chiller: “A pitch-perfect blend of dark comedy and body horror”",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/streaming-news/551131/hulu-now-streaming-gruesome-genre-blending-chiller-a-pitch-perfect-blend-of-dark-comedy-and-body-horror/",
-      "published_at": "Thu, 04 Dec 2025 23:00:00 +0000",
-      "bullets": [
-        "• Anna Zlokovic’s feature film directorial debut, Appendage, is a Hulu original",
-        "• The picture has garnered praise for its commentary on mental health and supremely ghastly effects work",
-        "• Critics have taken care to draw complimentary comparisons to the output of genre film mainstays like Larry Cohen and John Carpenter "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Anna Zlokovic’s feature film directorial debut, Appendage, is a Hulu original",
-          "• The picture has garnered praise for its commentary on mental health and supremely ghastly effects work"
-        ],
-        "hopeful_bullets": [
-          "• Anna Zlokovic’s feature film directorial debut, Appendage, is a Hulu original",
-          "• The picture has garnered praise for its commentary on mental health and supremely ghastly effects work"
-        ],
-        "stakes_bullets": [
-          "• The picture has garnered praise for its commentary on mental health and supremely ghastly effects work"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d08a00fc3827"
-    },
-    {
-      "id": "eb9e89ab5735",
-      "title": "‘Halloween’ – Watch First Footage of Map From Upcoming Official Video Game",
-      "outlet": "Dread Central",
-      "url": "https://www.dreadcentral.com/news/551193/halloween-watch-first-footage-of-map-from-upcoming-official-video-game-watch/",
-      "published_at": "Thu, 04 Dec 2025 22:12:24 +0000",
-      "bullets": [
-        "• Illfonic (the creators behind Friday the 13th: The Game) released our first detailed look at one of the Halloween maps dubbed “Haddonfield Heights” in the video below",
-        "• The game features a 1v4 asymmetrical play style, pitting players against each other online "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.918
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Illfonic (the creators behind Friday the 13th: The Game) released our first detailed look at one of the Halloween maps dubbed “Haddonfield Heights” in the video below",
-          "• The game features a 1v4 asymmetrical play style, pitting players against each other online "
-        ],
-        "hopeful_bullets": [
-          "• The game features a 1v4 asymmetrical play style, pitting players against each other online "
-        ],
-        "stakes_bullets": [
-          "• Illfonic (the creators behind Friday the 13th: The Game) released our first detailed look at one of the Halloween maps dubbed “Haddonfield Heights” in the video below",
-          "• The game features a 1v4 asymmetrical play style, pitting players against each other online "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "018eb23eaa23"
-    },
-    {
       "id": "af02bae8e9e5",
       "title": "Review: FIVE NIGHTS AT FREDDY’S 2 Relies Too Much on Frustrating Video Game Logic",
       "outlet": "Daily Dead",
@@ -5220,38 +5319,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "d4ed7029a8be"
-    },
-    {
-      "id": "275ef4821765",
-      "title": "“If You Could Be Any Animal, What Would You Be?” — Watch an Exclusive Clip from THE CREEP TAPES Season 2 Episode “Ava”",
-      "outlet": "Daily Dead",
-      "url": "https://dailydead.com/if-you-could-be-any-animal-what-would-you-be-watch-an-exclusive-clip-from-the-creep-tapes-season-2-episode-ava/",
-      "published_at": "Thu, 04 Dec 2025 15:52:00 +0000",
-      "bullets": [
-        "• The Creep Tapes Season 2 premieres this Friday, December 5th on Shudder and AMC+",
-        "• Episode 204 of the new series is titled \"Ava\" Episode 204 guest stars Taylor Garron opposite Mark Duplass as the chameleon-like serial killer known by many names and personalities, most notably his deadly alter ego, Peachfuzz "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Creep Tapes Season 2 premieres this Friday, December 5th on Shudder and AMC+",
-          "• Episode 204 of the new series is titled \"Ava\" Episode 204 guest stars Taylor Garron opposite Mark Duplass as the chameleon-like serial killer known by many names and personalities, most notably his deadly alter ego, Peachfuzz "
-        ],
-        "hopeful_bullets": [
-          "• The Creep Tapes Season 2 premieres this Friday, December 5th on Shudder and AMC+",
-          "• Episode 204 of the new series is titled \"Ava\" Episode 204 guest stars Taylor Garron opposite Mark Duplass as the chameleon-like serial killer known by many names and personalities, most notably his deadly alter ego, Peachfuzz "
-        ],
-        "stakes_bullets": [
-          "• The Creep Tapes Season 2 premieres this Friday, December 5th on Shudder and AMC+",
-          "• Episode 204 of the new series is titled \"Ava\" Episode 204 guest stars Taylor Garron opposite Mark Duplass as the chameleon-like serial killer known by many names and personalities, most notably his deadly alter ego, Peachfuzz "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "f76152aa4521"
     },
     {
       "id": "56836a6bfb39",
@@ -6160,27 +6227,27 @@
       "url": "https://www.rollingstone.com/music/music-news/dijon-psychosis-creating-baby-album-1235480342/",
       "published_at": "Mon, 08 Dec 2025 22:15:18 +0000",
       "bullets": [
-        "• Dijon says a friend tried to stop him from reading Thomas Pynchon's Gravity’s Rainbow",
-        "• He says the novel sent him into \"psychosis-level\" psychosis",
+        "• Dijon says a friend tried to stop him from reading Thomas Pynchon's Gravity's Rainbow",
+        "• The novel sent him into \"psychosis-level\" psychosis, he says",
         "• The musician says he was fixated on the idea of making a new kind of thing "
       ],
       "category": "Music",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• Dijon says a friend tried to stop him from reading Thomas Pynchon's Gravity’s Rainbow",
-          "• He says the novel sent him into \"psychosis-level\" psychosis"
+          "• Dijon says a friend tried to stop him from reading Thomas Pynchon's Gravity's Rainbow",
+          "• The novel sent him into \"psychosis-level\" psychosis, he says"
         ],
         "hopeful_bullets": [
-          "• Dijon says a friend tried to stop him from reading Thomas Pynchon's Gravity’s Rainbow",
-          "• He says the novel sent him into \"psychosis-level\" psychosis"
+          "• Dijon says a friend tried to stop him from reading Thomas Pynchon's Gravity's Rainbow",
+          "• The novel sent him into \"psychosis-level\" psychosis, he says"
         ],
         "stakes_bullets": [
-          "• Dijon says a friend tried to stop him from reading Thomas Pynchon's Gravity’s Rainbow",
-          "• He says the novel sent him into \"psychosis-level\" psychosis",
+          "• Dijon says a friend tried to stop him from reading Thomas Pynchon's Gravity's Rainbow",
+          "• The novel sent him into \"psychosis-level\" psychosis, he says",
           "• The musician says he was fixated on the idea of making a new kind of thing "
         ]
       },
@@ -7185,39 +7252,6 @@
       "cluster_id": "5ad88fb8c8d1"
     },
     {
-      "id": "50e689369d42",
-      "title": "Bright Eyes Announce Anniversary Shows for Seminal 2005 Albums",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/bright-eyes-2026-anniversary-shows-wide-awake-digital-ash-1235478868/",
-      "published_at": "Mon, 08 Dec 2025 15:41:01 +0000",
-      "bullets": [
-        "• Bright Eyes will celebrate the 21st anniversary of their seminal albums I’m Wide Awake, It’s Morning and Digital Ash in a Digital Urn",
-        "• The two albums were released on the same day in January 2005",
-        "• Tilly and the Wall, The Moldy Peaches, and Built to Spill will join Bright Eyes "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Bright Eyes will celebrate the 21st anniversary of their seminal albums I’m Wide Awake, It’s Morning and Digital Ash in a Digital Urn",
-          "• The two albums were released on the same day in January 2005"
-        ],
-        "hopeful_bullets": [
-          "• Bright Eyes will celebrate the 21st anniversary of their seminal albums I’m Wide Awake, It’s Morning and Digital Ash in a Digital Urn",
-          "• The two albums were released on the same day in January 2005"
-        ],
-        "stakes_bullets": [
-          "• Bright Eyes will celebrate the 21st anniversary of their seminal albums I’m Wide Awake, It’s Morning and Digital Ash in a Digital Urn",
-          "• Tilly and the Wall, The Moldy Peaches, and Built to Spill will join Bright Eyes "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f1917ae835f4"
-    },
-    {
       "id": "5e5bcf16a295",
       "title": "Golden Globes 2026: Nick Cave, Jonny Greenwood, Max Richter Nominated",
       "outlet": "RSS: News",
@@ -7281,71 +7315,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "ffe4e6c9df99"
-    },
-    {
-      "id": "4b9b3187067b",
-      "title": "Bright Eyes Announce Anniversary Concerts for I’m Wide Awake, It’s Morning and Digital Ash in a Digital Urn",
-      "outlet": "RSS: News",
-      "url": "https://pitchfork.com/news/bright-eyes-announce-anniversary-concerts-for-im-wide-awake-its-morning-and-digital-ash-in-a-digital-urn/",
-      "published_at": "Mon, 08 Dec 2025 15:06:06 +0000",
-      "bullets": [
-        "• Bright Eyes are celebrating the 21st anniversary of their back-to-back albums I’m Wide Awake, It’s Morning and Digital Ash in a Digital Urn",
-        "• Conor Oberst, Mike Mogis, and Nathaniel Walcott will perform the two albums in full during headlining shows next year",
-        "• Tilly and the Wall, the Moldy Peaches, and Built to Spill are slated to trade off as support acts "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.795
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Bright Eyes are celebrating the 21st anniversary of their back-to-back albums I’m Wide Awake, It’s Morning and Digital Ash in a Digital Urn",
-          "• Conor Oberst, Mike Mogis, and Nathaniel Walcott will perform the two albums in full during headlining shows next year"
-        ],
-        "hopeful_bullets": [
-          "• Bright Eyes are celebrating the 21st anniversary of their back-to-back albums I’m Wide Awake, It’s Morning and Digital Ash in a Digital Urn",
-          "• Conor Oberst, Mike Mogis, and Nathaniel Walcott will perform the two albums in full during headlining shows next year"
-        ],
-        "stakes_bullets": [
-          "• Conor Oberst, Mike Mogis, and Nathaniel Walcott will perform the two albums in full during headlining shows next year"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "bcd31c024a6a"
-    },
-    {
-      "id": "392fbc221b85",
-      "title": "‘KPop Demon Hunters’ Puts the ‘Golden’ in Golden Globes With Three Nominations",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/kpop-demon-hunters-golden-globes-nominations-1235479838/",
-      "published_at": "Mon, 08 Dec 2025 14:50:00 +0000",
-      "bullets": [
-        "• Netflix film scores three nominations for 2026 Golden Globes",
-        "• Songwriters EJAE and Mark Sonnenblick share the nomination",
-        "• “Golden” has spent 23 weeks on the Billboard Hot 100",
-        "• Other nominees in the Best Original Song — Motion Picture category include “Dream as One” from Avatar: Fire and Ash "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Netflix film scores three nominations for 2026 Golden Globes",
-          "• Songwriters EJAE and Mark Sonnenblick share the nomination"
-        ],
-        "hopeful_bullets": [
-          "• Netflix film scores three nominations for 2026 Golden Globes",
-          "• Songwriters EJAE and Mark Sonnenblick share the nomination"
-        ],
-        "stakes_bullets": [
-          "• “Golden” has spent 23 weeks on the Billboard Hot 100"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "4e79488ff7aa"
     },
     {
       "id": "f30db95a4a25",
@@ -8467,6 +8436,137 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "cdcbb842b76f",
+      "title": "I’m obsessed with Redfin’s AI search",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/840190/redfin-ai-search-chatbot",
+      "published_at": "2025-12-09T14:15:00-05:00",
+      "bullets": [
+        "• AI is a surprisingly useful tool when you’re sifting through real estate listings",
+        "• I can spend hours on a real estate listing website imagining all the ways we could downsize, upsize, and sideways-size",
+        "• You better believe I’m taking a gander inside the house down the street the moment a for-sale sign pops up in the yard "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.521
+      },
+      "moods": {
+        "brief_bullets": [
+          "• AI is a surprisingly useful tool when you’re sifting through real estate listings",
+          "• I can spend hours on a real estate listing website imagining all the ways we could downsize, upsize, and sideways-size"
+        ],
+        "hopeful_bullets": [
+          "• AI is a surprisingly useful tool when you’re sifting through real estate listings",
+          "• I can spend hours on a real estate listing website imagining all the ways we could downsize, upsize, and sideways-size"
+        ],
+        "stakes_bullets": [
+          "• I can spend hours on a real estate listing website imagining all the ways we could downsize, upsize, and sideways-size"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "caebaa7326e3"
+    },
+    {
+      "id": "41be1ef82fdd",
+      "title": "The best gifts for dads that have everything (but deserve more)",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/gadgets/780847/best-dad-gift-ideas",
+      "published_at": "2025-12-09T14:00:00-05:00",
+      "bullets": [
+        "• The best gifts for dads that have everything (but deserve more) are here",
+        "• With the help of Verge staffers, we’ve compiled suggestions for dads of every make and model",
+        "• It doesn’t matter if he’s the type to get up early to prep the smart smoker or if his idea of a perfect Sunday is watching his favorite team absolutely crush it on a big-screen OLED "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.957
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The best gifts for dads that have everything (but deserve more) are here",
+          "• With the help of Verge staffers, we’ve compiled suggestions for dads of every make and model"
+        ],
+        "hopeful_bullets": [
+          "• With the help of Verge staffers, we’ve compiled suggestions for dads of every make and model"
+        ],
+        "stakes_bullets": [
+          "• The best gifts for dads that have everything (but deserve more) are here",
+          "• With the help of Verge staffers, we’ve compiled suggestions for dads of every make and model",
+          "• It doesn’t matter if he’s the type to get up early to prep the smart smoker or if his idea of a perfect Sunday is watching his favorite team absolutely crush it on a big-screen OLED "
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "d59f88385149"
+    },
+    {
+      "id": "79cbade1c5f1",
+      "title": "The best deals on MacBooks right now",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+      "published_at": "2025-12-09T14:00:00-05:00",
+      "bullets": [
+        "• Apple’s latest MacBook Air and Pro laptops are on sale, as is the newest Mac Mini",
+        "• Walmart is still selling the M1 MacBook Air that has long since been discontinued",
+        "• Apple has recently shaken things up by increasing the starting price of several models "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Apple’s latest MacBook Air and Pro laptops are on sale, as is the newest Mac Mini",
+          "• Walmart is still selling the M1 MacBook Air that has long since been discontinued"
+        ],
+        "hopeful_bullets": [
+          "• Apple’s latest MacBook Air and Pro laptops are on sale, as is the newest Mac Mini",
+          "• Walmart is still selling the M1 MacBook Air that has long since been discontinued"
+        ],
+        "stakes_bullets": [
+          "• Apple’s latest MacBook Air and Pro laptops are on sale, as is the newest Mac Mini",
+          "• Walmart is still selling the M1 MacBook Air that has long since been discontinued",
+          "• Apple has recently shaken things up by increasing the starting price of several models "
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "3319bfc55bb4"
+    },
+    {
+      "id": "fd08398d803c",
+      "title": "Nothing&#8217;s community-designed Phone 3A adds some color and matching dice",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/841019/nothing-phone-3a-community-edition",
+      "published_at": "2025-12-09T13:46:14-05:00",
+      "bullets": [
+        "• The Nothing Phone 3A Community Edition revamps Nothing’s usual monochrome look with a 90s-inspired design infused by pops of color",
+        "• The ‘Translucent Memories’ design was selected from a pool of over 700 user submissions",
+        "• It will be available “across all markets,” but that unfortunately doesn’t include the US "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Nothing Phone 3A Community Edition revamps Nothing’s usual monochrome look with a 90s-inspired design infused by pops of color",
+          "• The ‘Translucent Memories’ design was selected from a pool of over 700 user submissions"
+        ],
+        "hopeful_bullets": [
+          "• The Nothing Phone 3A Community Edition revamps Nothing’s usual monochrome look with a 90s-inspired design infused by pops of color",
+          "• The ‘Translucent Memories’ design was selected from a pool of over 700 user submissions"
+        ],
+        "stakes_bullets": [
+          "• It will be available “across all markets,” but that unfortunately doesn’t include the US "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7e8e85865054"
+    },
+    {
       "id": "155c72cf1e1d",
       "title": "Facebook&#8217;s redesign is making it more like Instagram",
       "outlet": "The Verge",
@@ -8560,7 +8660,7 @@
           "• The result is a severe shortage in RAM for consumer products, contributing to price hikes on the RAM kits used by PC builders "
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 4,
       "cluster_id": "db15d1d8d97e"
     },
     {
@@ -8658,136 +8758,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "9ef53260d97a"
-    },
-    {
-      "id": "df206fa62879",
-      "title": "YouTube creators can now test multiple video titles",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/840789/youtube-video-title-a-b-testing-feature",
-      "published_at": "2025-12-09T11:28:58-05:00",
-      "bullets": [
-        "• YouTube is giving more creators a way to test how different titles perform on their videos",
-        "• The expanded A/B testing options will automatically apply titles and thumbnails that earn the highest watch time",
-        "• Creators can now upload up to three titles or a combination of titles on videos "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.966
-      },
-      "moods": {
-        "brief_bullets": [
-          "• YouTube is giving more creators a way to test how different titles perform on their videos",
-          "• The expanded A/B testing options will automatically apply titles and thumbnails that earn the highest watch time"
-        ],
-        "hopeful_bullets": [
-          "• YouTube is giving more creators a way to test how different titles perform on their videos",
-          "• The expanded A/B testing options will automatically apply titles and thumbnails that earn the highest watch time"
-        ],
-        "stakes_bullets": [
-          "• The expanded A/B testing options will automatically apply titles and thumbnails that earn the highest watch time"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "732a22a7f388"
-    },
-    {
-      "id": "722d36ad2b59",
-      "title": "Some of Ikea’s Matter-compatible smart devices are now available in the US",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/840727/ikea-smart-home-matter-thread-sensors-now-available",
-      "published_at": "2025-12-09T11:18:53-05:00",
-      "bullets": [
-        "• Some of Ikea’s Matter-compatible smart devices are now available in the US",
-        "• Some of the 21 new Matter-over-Thread devices were announced in November",
-        "• The new hardware will be available in January 2026, but some of them are still available in Europe",
-        "• We also finally know how some of the hardware is priced "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.971
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Some of Ikea’s Matter-compatible smart devices are now available in the US",
-          "• Some of the 21 new Matter-over-Thread devices were announced in November"
-        ],
-        "hopeful_bullets": [
-          "• Some of Ikea’s Matter-compatible smart devices are now available in the US",
-          "• Some of the 21 new Matter-over-Thread devices were announced in November"
-        ],
-        "stakes_bullets": [
-          "• The new hardware will be available in January 2026, but some of them are still available in Europe"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "1c5d770b582c"
-    },
-    {
-      "id": "fc3c1c671701",
-      "title": "Spotify’s music videos feature arrives in the US and Canada",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/840308/spotify-music-videos-beta-us-canada",
-      "published_at": "2025-12-09T10:01:00-05:00",
-      "bullets": [
-        "• Spotify's music videos feature is now available to Premium subscribers in the US and Canada",
-        "• The feature is currently limited to songs by specific artists, including Ariana Grande, Olivia Dean, Babymonster, Addison Rae, Tyler Childers, Natanael Cano, and Carín León "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Spotify's music videos feature is now available to Premium subscribers in the US and Canada",
-          "• The feature is currently limited to songs by specific artists, including Ariana Grande, Olivia Dean, Babymonster, Addison Rae, Tyler Childers, Natanael Cano, and Carín León "
-        ],
-        "hopeful_bullets": [
-          "• Spotify's music videos feature is now available to Premium subscribers in the US and Canada",
-          "• The feature is currently limited to songs by specific artists, including Ariana Grande, Olivia Dean, Babymonster, Addison Rae, Tyler Childers, Natanael Cano, and Carín León "
-        ],
-        "stakes_bullets": [
-          "• Spotify's music videos feature is now available to Premium subscribers in the US and Canada",
-          "• The feature is currently limited to songs by specific artists, including Ariana Grande, Olivia Dean, Babymonster, Addison Rae, Tyler Childers, Natanael Cano, and Carín León "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0643e65a4ad4"
-    },
-    {
-      "id": "3c0284ca2cbc",
-      "title": "The next Pebble gadget is the Index 01, a ring with a microphone",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/gadgets/840352/pebble-index-smart-ring-launch-price",
-      "published_at": "2025-12-09T10:00:00-05:00",
-      "bullets": [
-        "• The Index 01 is a $75 ring meant to be worn on your (surprise!) index finger",
-        "• It has a microphone, a button for activating that microphone, and nothing else",
-        "• You press and hold the ring’s button with the thumb next to the ring to record "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Index 01 is a $75 ring meant to be worn on your (surprise!) index finger",
-          "• It has a microphone, a button for activating that microphone, and nothing else"
-        ],
-        "hopeful_bullets": [
-          "• You press and hold the ring’s button with the thumb next to the ring to record "
-        ],
-        "stakes_bullets": [
-          "• The Index 01 is a $75 ring meant to be worn on your (surprise!) index finger",
-          "• It has a microphone, a button for activating that microphone, and nothing else",
-          "• You press and hold the ring’s button with the thumb next to the ring to record "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e8fb98447d8b"
     },
     {
       "id": "c41ff758b36a",
@@ -8924,6 +8894,100 @@
       },
       "read_minutes": 9,
       "cluster_id": "8a1f3b14891e"
+    },
+    {
+      "id": "123754f53a6e",
+      "title": "Weekend projections: Five Nights at Freddy’s 2 holds strong through weekend with $63-million chart-topping debut",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260410830-Weekend-projections-Five-Nights-at-Freddys-2-holds-strong-through-weekend-with-63-million-chart-topping-debut",
+      "published_at": null,
+      "bullets": [
+        "• Five Nights at Freddy’s 2 is enjoying a relatively strong hold through the weekend, and will top the box office chart with about $63 million",
+        "• While its Thursday-to-weekend multiple is on the low side, at 8.75, that figure is notably better than the 7.77 multiple for the original "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Five Nights at Freddy’s 2 is enjoying a relatively strong hold through the weekend, and will top the box office chart with about $63 million",
+          "• While its Thursday-to-weekend multiple is on the low side, at 8.75, that figure is notably better than the 7.77 multiple for the original "
+        ],
+        "hopeful_bullets": [
+          "• Five Nights at Freddy’s 2 is enjoying a relatively strong hold through the weekend, and will top the box office chart with about $63 million"
+        ],
+        "stakes_bullets": [
+          "• Five Nights at Freddy’s 2 is enjoying a relatively strong hold through the weekend, and will top the box office chart with about $63 million"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8108ab0d0439"
+    },
+    {
+      "id": "8aa66fcc4c94",
+      "title": "Weekend predictions: Five Nights aiming for mid-50s",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260400830-Weekend-predictions-Five-Nights-aiming-for-mid-50s",
+      "published_at": null,
+      "bullets": [
+        "• The weekend after Thanksgiving tends to be one of the weakest of the year, and theaters aren’t likely to be packed this weekend",
+        "• Zootopia 2 and Wicked: For Good both look likely to fall sharply from their Thanksgiving weekends "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The weekend after Thanksgiving tends to be one of the weakest of the year, and theaters aren’t likely to be packed this weekend",
+          "• Zootopia 2 and Wicked: For Good both look likely to fall sharply from their Thanksgiving weekends "
+        ],
+        "hopeful_bullets": [
+          "• The weekend after Thanksgiving tends to be one of the weakest of the year, and theaters aren’t likely to be packed this weekend",
+          "• Zootopia 2 and Wicked: For Good both look likely to fall sharply from their Thanksgiving weekends "
+        ],
+        "stakes_bullets": [
+          "• The weekend after Thanksgiving tends to be one of the weakest of the year, and theaters aren’t likely to be packed this weekend",
+          "• Zootopia 2 and Wicked: For Good both look likely to fall sharply from their Thanksgiving weekends "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "7aaf1e0c2610"
+    },
+    {
+      "id": "6ac008cce69e",
+      "title": "Theater counts: Zootopia 2 fends off a surge of new titles to retain its spot as the widest release.",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260390830-Theater-counts-Zootopia-2-fends-off-a-surge-of-new-titles-to-retain-its-spot-as-the-widest-release",
+      "published_at": null,
+      "bullets": [
+        "• Zootopia 2 scored $158.8 million in its first five days at the domestic box office and snatching the number one spot from Wicked: For Good",
+        "• This weekend the two top contenders will face off with a bevy of newcomers, including another sequel, looking to unseat the current champs",
+        "• The widest of those newcomers is Five Nights at Freddy’s 2, which starts out in 3,412 theaters "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Zootopia 2 scored $158.8 million in its first five days at the domestic box office and snatching the number one spot from Wicked: For Good",
+          "• This weekend the two top contenders will face off with a bevy of newcomers, including another sequel, looking to unseat the current champs"
+        ],
+        "hopeful_bullets": [
+          "• Zootopia 2 scored $158.8 million in its first five days at the domestic box office and snatching the number one spot from Wicked: For Good",
+          "• This weekend the two top contenders will face off with a bevy of newcomers, including another sequel, looking to unseat the current champs"
+        ],
+        "stakes_bullets": [
+          "• This weekend the two top contenders will face off with a bevy of newcomers, including another sequel, looking to unseat the current champs"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d42b241e9c55"
     },
     {
       "id": "f6a4716fa942",
@@ -9091,6 +9155,65 @@
       },
       "read_minutes": 3,
       "cluster_id": "87d3679fb736"
+    },
+    {
+      "id": "9bd27e9cb2ff",
+      "title": "Weekend predictions: Wicked on target for the best opening of 2025",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260320830-Weekend-predictions-Wicked-on-target-for-the-best-opening-of-2025",
+      "published_at": null,
+      "bullets": [
+        "• Wicked: For Good will easily beat Wicked’s $112.5-million debut this time last year, but the real question is whether it can top A Minecraft Movie's $162.8 million to claim the crown as having the biggest weekend of the year "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Wicked: For Good will easily beat Wicked’s $112.5-million debut this time last year, but the real question is whether it can top A Minecraft Movie's $162.8 million to claim the crown as having the biggest weekend of the year "
+        ],
+        "hopeful_bullets": [
+          "• Wicked: For Good will easily beat Wicked’s $112.5-million debut this time last year, but the real question is whether it can top A Minecraft Movie's $162.8 million to claim the crown as having the biggest weekend of the year "
+        ],
+        "stakes_bullets": [
+          "• Wicked: For Good will easily beat Wicked’s $112.5-million debut this time last year, but the real question is whether it can top A Minecraft Movie's $162.8 million to claim the crown as having the biggest weekend of the year "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "826cfc1e2353"
+    },
+    {
+      "id": "8820c287b772",
+      "title": "Theater counts: Wicked: For Good twirls onto the big screen, launching in 4,115 theaters",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260310830-Theater-counts-Wicked-For-Good-twirls-onto-the-big-screen-launching-in-4-115-theaters",
+      "published_at": null,
+      "bullets": [
+        "• Now You See Me Now You Don't grabbed the box office honors with a three-day haul of just over $21 million, outperforming second-place finisher, The Running Man, picking up $16.5 million in its opening foray",
+        "• Neither film will get close to touching the top spot for a second weekend "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.632
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Now You See Me Now You Don't grabbed the box office honors with a three-day haul of just over $21 million, outperforming second-place finisher, The Running Man, picking up $16.5 million in its opening foray",
+          "• Neither film will get close to touching the top spot for a second weekend "
+        ],
+        "hopeful_bullets": [
+          "• Now You See Me Now You Don't grabbed the box office honors with a three-day haul of just over $21 million, outperforming second-place finisher, The Running Man, picking up $16.5 million in its opening foray",
+          "• Neither film will get close to touching the top spot for a second weekend "
+        ],
+        "stakes_bullets": [
+          "• Neither film will get close to touching the top spot for a second weekend "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "683e45b155a3"
     }
   ],
   "clusters": [
@@ -9275,14 +9398,14 @@
       ]
     },
     {
-      "id": "532cdb270b25",
-      "topic": "accused colombian enlisting mercenarie",
+      "id": "8ce6f11df16e",
+      "topic": "colombian funnel mercenarie network",
       "keywords": [
-        "accused",
         "colombian",
-        "enlisting",
+        "funnel",
         "mercenarie",
         "network",
+        "puts",
         "sanction"
       ],
       "item_ids": [
@@ -9455,6 +9578,24 @@
       ]
     },
     {
+      "id": "eba2d71bcdbe",
+      "topic": "dump heavy powerful rain",
+      "keywords": [
+        "dump",
+        "heavy",
+        "powerful",
+        "rain",
+        "storm",
+        "swell"
+      ],
+      "item_ids": [
+        "0057b633e913"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "f795acfb81be",
       "topic": "block enough gerrymandered organizer",
       "keywords": [
@@ -9581,36 +9722,18 @@
       ]
     },
     {
-      "id": "31ab11d61004",
-      "topic": "civil declare florida group",
+      "id": "4ab36522fd5c",
+      "topic": "clear nvidia powerful sell",
       "keywords": [
-        "civil",
-        "declare",
-        "florida",
-        "group",
-        "muslim",
-        "right"
+        "clear",
+        "nvidia",
+        "powerful",
+        "sell",
+        "trump",
+        "way"
       ],
       "item_ids": [
-        "7663c69a032a"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "849a2bacdae9",
-      "topic": "claimed dwelling mortgage primary",
-      "keywords": [
-        "claimed",
-        "dwelling",
-        "mortgage",
-        "primary",
-        "record",
-        "trump"
-      ],
-      "item_ids": [
-        "04cd55724b7d"
+        "5638a441a56f"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9813,24 +9936,6 @@
       ]
     },
     {
-      "id": "d837cdfdc8a3",
-      "topic": "avocado causing llama meta",
-      "keywords": [
-        "avocado",
-        "causing",
-        "llama",
-        "meta",
-        "shifting",
-        "strategy"
-      ],
-      "item_ids": [
-        "2253ea5886fb"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "3026bb00db10",
       "topic": "again buying china falling",
       "keywords": [
@@ -9867,36 +9972,18 @@
       ]
     },
     {
-      "id": "83c25c41265a",
-      "topic": "500 bitwise cryptocurrencie dow",
+      "id": "d837cdfdc8a3",
+      "topic": "avocado causing llama meta",
       "keywords": [
-        "500",
-        "bitwise",
-        "cryptocurrencie",
-        "dow",
-        "there",
-        "yet"
+        "avocado",
+        "causing",
+        "llama",
+        "meta",
+        "shifting",
+        "strategy"
       ],
       "item_ids": [
-        "35439b70f586"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "ca60e81da307",
-      "topic": "ghislaine grand judge jury",
-      "keywords": [
-        "ghislaine",
-        "grand",
-        "judge",
-        "jury",
-        "maxwell",
-        "unseal"
-      ],
-      "item_ids": [
-        "f6e130d57ec3"
+        "2253ea5886fb"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9933,6 +10020,42 @@
       ],
       "item_ids": [
         "0be92701fa99"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "ca60e81da307",
+      "topic": "ghislaine grand judge jury",
+      "keywords": [
+        "ghislaine",
+        "grand",
+        "judge",
+        "jury",
+        "maxwell",
+        "unseal"
+      ],
+      "item_ids": [
+        "f6e130d57ec3"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "83c25c41265a",
+      "topic": "500 bitwise cryptocurrencie dow",
+      "keywords": [
+        "500",
+        "bitwise",
+        "cryptocurrencie",
+        "dow",
+        "there",
+        "yet"
+      ],
+      "item_ids": [
+        "35439b70f586"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10101,24 +10224,6 @@
       ]
     },
     {
-      "id": "39284641327a",
-      "topic": "2025 keyboard material mechanical",
-      "keywords": [
-        "2025",
-        "keyboard",
-        "material",
-        "mechanical",
-        "shop",
-        "switche"
-      ],
-      "item_ids": [
-        "a95c07d8d7d3"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
       "id": "da339dee1553",
       "topic": "app chatbot expert ifixit",
       "keywords": [
@@ -10131,6 +10236,24 @@
       ],
       "item_ids": [
         "27ff8b5dbeca"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "39284641327a",
+      "topic": "2025 keyboard material mechanical",
+      "keywords": [
+        "2025",
+        "keyboard",
+        "material",
+        "mechanical",
+        "shop",
+        "switche"
+      ],
+      "item_ids": [
+        "a95c07d8d7d3"
       ],
       "outlets": [
         "WIRED"
@@ -10152,6 +10275,73 @@
       ],
       "outlets": [
         "WIRED"
+      ]
+    },
+    {
+      "id": "caebaa7326e3",
+      "topic": "obsessed redfin search",
+      "keywords": [
+        "obsessed",
+        "redfin",
+        "search"
+      ],
+      "item_ids": [
+        "cdcbb842b76f"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "d59f88385149",
+      "topic": "best dads deserve everything",
+      "keywords": [
+        "best",
+        "dads",
+        "deserve",
+        "everything",
+        "gift"
+      ],
+      "item_ids": [
+        "41be1ef82fdd"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "3319bfc55bb4",
+      "topic": "best deal macbook now",
+      "keywords": [
+        "best",
+        "deal",
+        "macbook",
+        "now",
+        "right"
+      ],
+      "item_ids": [
+        "79cbade1c5f1"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "7e8e85865054",
+      "topic": "8217 adds community designed",
+      "keywords": [
+        "8217",
+        "adds",
+        "community",
+        "designed",
+        "nothing",
+        "phone"
+      ],
+      "item_ids": [
+        "fd08398d803c"
+      ],
+      "outlets": [
+        "The Verge"
       ]
     },
     {
@@ -10257,78 +10447,6 @@
       ],
       "item_ids": [
         "5dbe7dbb21b3"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "732a22a7f388",
-      "topic": "creator multiple now test",
-      "keywords": [
-        "creator",
-        "multiple",
-        "now",
-        "test",
-        "video",
-        "youtube"
-      ],
-      "item_ids": [
-        "df206fa62879"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "1c5d770b582c",
-      "topic": "compatible device ikea matter",
-      "keywords": [
-        "compatible",
-        "device",
-        "ikea",
-        "matter",
-        "smart",
-        "some"
-      ],
-      "item_ids": [
-        "722d36ad2b59"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "0643e65a4ad4",
-      "topic": "arrive canada feature music",
-      "keywords": [
-        "arrive",
-        "canada",
-        "feature",
-        "music",
-        "spotify",
-        "video"
-      ],
-      "item_ids": [
-        "fc3c1c671701"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "e8fb98447d8b",
-      "topic": "gadget index microphone next",
-      "keywords": [
-        "gadget",
-        "index",
-        "microphone",
-        "next",
-        "pebble",
-        "ring"
-      ],
-      "item_ids": [
-        "3c0284ca2cbc"
       ],
       "outlets": [
         "The Verge"
@@ -11500,6 +11618,60 @@
       ]
     },
     {
+      "id": "8108ab0d0439",
+      "topic": "five freddy hold night",
+      "keywords": [
+        "five",
+        "freddy",
+        "hold",
+        "night",
+        "projection",
+        "weekend"
+      ],
+      "item_ids": [
+        "123754f53a6e"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "7aaf1e0c2610",
+      "topic": "aiming five mid night",
+      "keywords": [
+        "aiming",
+        "five",
+        "mid",
+        "night",
+        "prediction",
+        "weekend"
+      ],
+      "item_ids": [
+        "8aa66fcc4c94"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "d42b241e9c55",
+      "topic": "count fend off surge",
+      "keywords": [
+        "count",
+        "fend",
+        "off",
+        "surge",
+        "theater",
+        "zootopia"
+      ],
+      "item_ids": [
+        "6ac008cce69e"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
       "id": "089004f0f074",
       "topic": "2026 busines forecast number",
       "keywords": [
@@ -11587,6 +11759,96 @@
       ],
       "outlets": [
         "The Numbers"
+      ]
+    },
+    {
+      "id": "826cfc1e2353",
+      "topic": "best opening prediction target",
+      "keywords": [
+        "best",
+        "opening",
+        "prediction",
+        "target",
+        "weekend",
+        "wicked"
+      ],
+      "item_ids": [
+        "9bd27e9cb2ff"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "683e45b155a3",
+      "topic": "count good onto theater",
+      "keywords": [
+        "count",
+        "good",
+        "onto",
+        "theater",
+        "twirl",
+        "wicked"
+      ],
+      "item_ids": [
+        "8820c287b772"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "e43b75c66dbc",
+      "topic": "biblical carpenter horror nicola",
+      "keywords": [
+        "biblical",
+        "carpenter",
+        "horror",
+        "nicola",
+        "son",
+        "starring"
+      ],
+      "item_ids": [
+        "62cf9dcfede1"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "9b71ff75c951",
+      "topic": "action join live sigourney",
+      "keywords": [
+        "action",
+        "join",
+        "live",
+        "sigourney",
+        "talk",
+        "weaver"
+      ],
+      "item_ids": [
+        "cc0932cef60f"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
+      "id": "2aabe4f5176c",
+      "topic": "film horror jame produce",
+      "keywords": [
+        "film",
+        "horror",
+        "jame",
+        "produce",
+        "survival",
+        "wan"
+      ],
+      "item_ids": [
+        "a4789bc7283d"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
       ]
     },
     {
@@ -11716,57 +11978,21 @@
       ]
     },
     {
-      "id": "d30c193bece1",
-      "topic": "beta closed now open",
+      "id": "2eb05a1e050b",
+      "topic": "clip exclusive hypnotic listen",
       "keywords": [
-        "beta",
-        "closed",
-        "now",
-        "open",
-        "sign",
-        "ups"
+        "clip",
+        "exclusive",
+        "hypnotic",
+        "listen",
+        "sky",
+        "sound"
       ],
       "item_ids": [
-        "bafd955ad14e"
+        "53518e0261e5"
       ],
       "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "5422e1997673",
-      "topic": "apocalyptic capper dead trilogy",
-      "keywords": [
-        "apocalyptic",
-        "capper",
-        "dead",
-        "trilogy",
-        "work",
-        "zombie"
-      ],
-      "item_ids": [
-        "e33c58884f95"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "218322b77f6c",
-      "topic": "bone curse ghost horror",
-      "keywords": [
-        "bone",
-        "curse",
-        "ghost",
-        "horror",
-        "key",
-        "pirate"
-      ],
-      "item_ids": [
-        "4d5ed66b90ff"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
+        "Daily Dead"
       ]
     },
     {
@@ -11932,21 +12158,39 @@
       ]
     },
     {
-      "id": "f76152aa4521",
-      "topic": "animal any clip creep",
+      "id": "b458942ba062",
+      "topic": "bug gripping insight modern",
       "keywords": [
-        "animal",
-        "any",
-        "clip",
-        "creep",
-        "exclusive",
-        "watch"
+        "bug",
+        "gripping",
+        "insight",
+        "modern",
+        "radicalization",
+        "share"
       ],
       "item_ids": [
-        "275ef4821765"
+        "6c11e6ecbc5d"
       ],
       "outlets": [
-        "Daily Dead"
+        "Dread Central"
+      ]
+    },
+    {
+      "id": "b5c5895d521d",
+      "topic": "2025 doupe horror movie",
+      "keywords": [
+        "2025",
+        "doupe",
+        "horror",
+        "movie",
+        "top",
+        "tyler"
+      ],
+      "item_ids": [
+        "25c8e3774e3b"
+      ],
+      "outlets": [
+        "Dread Central"
       ]
     },
     {
@@ -12087,42 +12331,6 @@
       ],
       "item_ids": [
         "75ecdb4c45d6"
-      ],
-      "outlets": [
-        "Dread Central"
-      ]
-    },
-    {
-      "id": "d08a00fc3827",
-      "topic": "blending genre gruesome hulu",
-      "keywords": [
-        "blending",
-        "genre",
-        "gruesome",
-        "hulu",
-        "now",
-        "streaming"
-      ],
-      "item_ids": [
-        "f7ab077cb813"
-      ],
-      "outlets": [
-        "Dread Central"
-      ]
-    },
-    {
-      "id": "018eb23eaa23",
-      "topic": "first footage halloween map",
-      "keywords": [
-        "first",
-        "footage",
-        "halloween",
-        "map",
-        "upcoming",
-        "watch"
-      ],
-      "item_ids": [
-        "eb9e89ab5735"
       ],
       "outlets": [
         "Dread Central"
@@ -13094,6 +13302,60 @@
       ]
     },
     {
+      "id": "8d94662f9a2d",
+      "topic": "costner drama gyllenhaal honeymoon",
+      "keywords": [
+        "costner",
+        "drama",
+        "gyllenhaal",
+        "honeymoon",
+        "jake",
+        "kevin"
+      ],
+      "item_ids": [
+        "9633b453fd29"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "77e1fdad492d",
+      "topic": "action cast live sigourney",
+      "keywords": [
+        "action",
+        "cast",
+        "live",
+        "sigourney",
+        "tomb",
+        "weaver"
+      ],
+      "item_ids": [
+        "9cfb189f8f9e"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "0797113a0774",
+      "topic": "hits later sharpest spy",
+      "keywords": [
+        "hits",
+        "later",
+        "sharpest",
+        "spy",
+        "thriller",
+        "year"
+      ],
+      "item_ids": [
+        "102ca9bb7022"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "5cf5a261e8bf",
       "topic": "confirm finally lupin netflix",
       "keywords": [
@@ -13194,78 +13456,6 @@
       ],
       "item_ids": [
         "bce4630df068"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "e88e8a0cab9f",
-      "topic": "arise asks challenge fans",
-      "keywords": [
-        "arise",
-        "asks",
-        "challenge",
-        "fans",
-        "leveling",
-        "solo"
-      ],
-      "item_ids": [
-        "8d8620567e4c"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "2e6b4e46527a",
-      "topic": "man reveal spider superman",
-      "keywords": [
-        "man",
-        "reveal",
-        "spider",
-        "superman",
-        "team",
-        "upcoming"
-      ],
-      "item_ids": [
-        "84bade61e21b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "4520a3003110",
-      "topic": "biggest crowe gladiator mistake",
-      "keywords": [
-        "biggest",
-        "crowe",
-        "gladiator",
-        "mistake",
-        "reveal",
-        "russell"
-      ],
-      "item_ids": [
-        "eb2039c7c5da"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "4a614a469a56",
-      "topic": "anime evangelion genesi manga",
-      "keywords": [
-        "anime",
-        "evangelion",
-        "genesi",
-        "manga",
-        "neon",
-        "origin"
-      ],
-      "item_ids": [
-        "a35a2869eaa2"
       ],
       "outlets": [
         "CBR"
@@ -13450,6 +13640,42 @@
       ]
     },
     {
+      "id": "02bcae36e137",
+      "topic": "global hit katseye old",
+      "keywords": [
+        "global",
+        "hit",
+        "katseye",
+        "old",
+        "sixty",
+        "year"
+      ],
+      "item_ids": [
+        "61bb0be67f00"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
+      "id": "6e6ae144516b",
+      "topic": "accuser brazenly doe jane",
+      "keywords": [
+        "accuser",
+        "brazenly",
+        "doe",
+        "jane",
+        "robinson",
+        "smokey"
+      ],
+      "item_ids": [
+        "e7e695a642cd"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "97915acb3737",
       "topic": "global old song tiktok",
       "keywords": [
@@ -13594,39 +13820,19 @@
       ]
     },
     {
-      "id": "f1917ae835f4",
-      "topic": "anniversary announce bright eyes",
+      "id": "8aae11a34a89",
+      "topic": "2026 evening extend pinkpantheres",
       "keywords": [
-        "anniversary",
-        "announce",
-        "bright",
-        "eyes",
-        "seminal",
-        "show"
+        "2026",
+        "evening",
+        "extend",
+        "pinkpantheres"
       ],
       "item_ids": [
-        "50e689369d42"
+        "c4c73b10e6b4"
       ],
       "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "4e79488ff7aa",
-      "topic": "demon globe golden hunter",
-      "keywords": [
-        "demon",
-        "globe",
-        "golden",
-        "hunter",
-        "kpop",
-        "puts"
-      ],
-      "item_ids": [
-        "392fbc221b85"
-      ],
-      "outlets": [
-        "Music News"
+        "RSS: News"
       ]
     },
     {
@@ -13782,24 +13988,6 @@
       ],
       "item_ids": [
         "5e5bcf16a295"
-      ],
-      "outlets": [
-        "RSS: News"
-      ]
-    },
-    {
-      "id": "bcd31c024a6a",
-      "topic": "anniversary announce bright concert",
-      "keywords": [
-        "anniversary",
-        "announce",
-        "bright",
-        "concert",
-        "eyes",
-        "wide"
-      ],
-      "item_ids": [
-        "4b9b3187067b"
       ],
       "outlets": [
         "RSS: News"
