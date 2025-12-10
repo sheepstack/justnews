@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-10T08:02:21Z",
+  "generated_at": "2025-12-10T08:11:24Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -967,38 +967,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "21a9bc67cfaa"
-    },
-    {
-      "id": "0a3931ccf20d",
-      "title": "Trump says he 'heard' Biden Fed appointments were signed by autopen, tells aide to investigate",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/09/trump-biden-fed-autopen-powell.html",
-      "published_at": "Wed, 10 Dec 2025 03:25:16 GMT",
-      "bullets": [
-        "• All four members of the Federal Reserve's Board of Governors are signed by \"autopen\" President Trump says they are not authorized to serve in those roles",
-        "• The move comes on the eve of a meeting by the Federal Open Market Committee",
-        "• The FOCC is expected to meet on Wednesday "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• All four members of the Federal Reserve's Board of Governors are signed by \"autopen\" President Trump says they are not authorized to serve in those roles",
-          "• The move comes on the eve of a meeting by the Federal Open Market Committee"
-        ],
-        "hopeful_bullets": [
-          "• All four members of the Federal Reserve's Board of Governors are signed by \"autopen\" President Trump says they are not authorized to serve in those roles",
-          "• The move comes on the eve of a meeting by the Federal Open Market Committee"
-        ],
-        "stakes_bullets": [
-          "• The FOCC is expected to meet on Wednesday "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "eb888e7f3032"
     },
     {
       "id": "733a3d4df7c7",
@@ -2317,6 +2285,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "076a0c797139"
+    },
+    {
+      "id": "349cb3c8537a",
+      "title": "Jim Cramer rejects Wall Street doubts about Nvidia, Apple and Warner Bros. Discovery",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/09/jim-cramer-rejects-doubts-about-nvidia-apple-warner-bros-discovery.html",
+      "published_at": "Tue, 09 Dec 2025 23:36:54 GMT",
+      "bullets": [
+        "• CNBC's Jim Cramer told investors that it can be worthwhile to put trust in a good stock",
+        "• He reviewed prominent concerns with three major companies: Nvidia, Apple and Warner Bros",
+        "• Discovery",
+        "• Cramer reiterated his confidence in Nvidia's success and called Apple a long-term winner "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• CNBC's Jim Cramer told investors that it can be worthwhile to put trust in a good stock",
+          "• He reviewed prominent concerns with three major companies: Nvidia, Apple and Warner Bros"
+        ],
+        "hopeful_bullets": [
+          "• Cramer reiterated his confidence in Nvidia's success and called Apple a long-term winner "
+        ],
+        "stakes_bullets": [
+          "• CNBC's Jim Cramer told investors that it can be worthwhile to put trust in a good stock",
+          "• He reviewed prominent concerns with three major companies: Nvidia, Apple and Warner Bros",
+          "• Discovery"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "afd9fa632d26"
     },
     {
       "id": "ec9560243170",
@@ -10155,24 +10157,6 @@
       ]
     },
     {
-      "id": "eb888e7f3032",
-      "topic": "appointment biden fed heard",
-      "keywords": [
-        "appointment",
-        "biden",
-        "fed",
-        "heard",
-        "signed",
-        "trump"
-      ],
-      "item_ids": [
-        "0a3931ccf20d"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "6e3cb63dd75a",
       "topic": "fashion focused inside look",
       "keywords": [
@@ -10185,6 +10169,24 @@
       ],
       "item_ids": [
         "0be92701fa99"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "afd9fa632d26",
+      "topic": "cramer doubt jim reject",
+      "keywords": [
+        "cramer",
+        "doubt",
+        "jim",
+        "reject",
+        "street",
+        "wall"
+      ],
+      "item_ids": [
+        "349cb3c8537a"
       ],
       "outlets": [
         "US Top News and Analysis"
