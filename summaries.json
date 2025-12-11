@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-11T23:00:21Z",
+  "generated_at": "2025-12-11T23:22:29Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -535,6 +535,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "35ec36bbe812"
+    },
+    {
+      "id": "ee86e7f750f4",
+      "title": "Migrants held at Fort Bliss suffering physical abuse, unsafe conditions, human rights groups claim",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17229209/texas-migrant-detention-fort-bliss-abuse-allegations-aclu-report",
+      "published_at": "Wed, 10 Dec 2025 19:59:39 +0000",
+      "bullets": [
+        "• Immigrants detained at Camp East Montana at Fort Bliss say they have been coerced to cross the border into the Mexican desert",
+        "• Human rights groups say the facility has become a \"human and civil rights catastrophe\" The organizations are calling for the camp to be shut down "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Immigrants detained at Camp East Montana at Fort Bliss say they have been coerced to cross the border into the Mexican desert",
+          "• Human rights groups say the facility has become a \"human and civil rights catastrophe\" The organizations are calling for the camp to be shut down "
+        ],
+        "hopeful_bullets": [
+          "• Immigrants detained at Camp East Montana at Fort Bliss say they have been coerced to cross the border into the Mexican desert",
+          "• Human rights groups say the facility has become a \"human and civil rights catastrophe\" The organizations are calling for the camp to be shut down "
+        ],
+        "stakes_bullets": [
+          "• Immigrants detained at Camp East Montana at Fort Bliss say they have been coerced to cross the border into the Mexican desert",
+          "• Human rights groups say the facility has become a \"human and civil rights catastrophe\" The organizations are calling for the camp to be shut down "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "73fc9ea46257"
     },
     {
       "id": "637d5d470743",
@@ -1424,40 +1456,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "188434184956"
-    },
-    {
-      "id": "7695903727e7",
-      "title": "Your glitchy video calls may make people mistrust you",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/03/nx-s1-5628360/glitchy-video-calls-zoom-teams-creepy-mistrust",
-      "published_at": "Wed, 03 Dec 2025 11:26:48 -0500",
-      "bullets": [
-        "• Glitchy video calls may make people mistrust you, researchers say",
-        "• The glitches may undermine your success in everything from job interviews to sales pitches",
-        "• Rural areas may be getting dinged by the very technology that's been lauded as a way of ensuring that they have equal access to services like medical care or job opportunities "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Glitchy video calls may make people mistrust you, researchers say",
-          "• The glitches may undermine your success in everything from job interviews to sales pitches"
-        ],
-        "hopeful_bullets": [
-          "• Glitchy video calls may make people mistrust you, researchers say",
-          "• The glitches may undermine your success in everything from job interviews to sales pitches"
-        ],
-        "stakes_bullets": [
-          "• Glitchy video calls may make people mistrust you, researchers say",
-          "• The glitches may undermine your success in everything from job interviews to sales pitches",
-          "• Rural areas may be getting dinged by the very technology that's been lauded as a way of ensuring that they have equal access to services like medical care or job opportunities "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "9d2ba10c31db"
     },
     {
       "id": "672524b11f6d",
@@ -2373,11 +2371,44 @@
       "cluster_id": "b5ebb78247cb"
     },
     {
+      "id": "7d3740f44958",
+      "title": "The Greatest Sci-Fi Villain Twist in Movie History Hasn't Been Topped in 34 Years",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/greatest-sci-fi-villain-twist-terminator-2-judgment-day/",
+      "published_at": "Thu, 11 Dec 2025 23:00:12 GMT",
+      "bullets": [
+        "• James Cameron was possibly the biggest name in Hollywood when talking about great-quality sci-fi movies",
+        "• The Terminator 2: Judgment Day paved the way for Cameron to make True Lies, Titanic, and eventually, the Avatar films",
+        "• Terminator 2 was one of the biggest blockbusters ever made at the time",
+        "• The sequel completely changed the game for computerized special effects "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• James Cameron was possibly the biggest name in Hollywood when talking about great-quality sci-fi movies",
+          "• The Terminator 2: Judgment Day paved the way for Cameron to make True Lies, Titanic, and eventually, the Avatar films"
+        ],
+        "hopeful_bullets": [
+          "• James Cameron was possibly the biggest name in Hollywood when talking about great-quality sci-fi movies",
+          "• The Terminator 2: Judgment Day paved the way for Cameron to make True Lies, Titanic, and eventually, the Avatar films"
+        ],
+        "stakes_bullets": [
+          "• The sequel completely changed the game for computerized special effects "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "bb6989c4800e"
+    },
+    {
       "id": "a710e433bceb",
-      "title": "Indiana Senate rejects redistricting bill that Trump demanded",
+      "title": "Indiana redistricting bill that Trump demanded defeated in state Senate",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/12/11/indiana-trump-republicans-redistricting-congress.html",
-      "published_at": "Thu, 11 Dec 2025 22:30:50 GMT",
+      "published_at": "Thu, 11 Dec 2025 22:45:26 GMT",
       "bullets": [
         "• The Indiana Senate voted down a bill to redraw the state's congressional districts to favor Republicans",
         "• The bill failed in a 19-31 vote, with most Republicans joining Democrats to oppose the measure",
@@ -2387,7 +2418,7 @@
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
@@ -2405,7 +2436,73 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "a1338aa3dc0d"
+      "cluster_id": "0cf1f24cd556"
+    },
+    {
+      "id": "e2393b3562cc",
+      "title": "Costco tops Wall Street's sales and revenue expectations",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/11/costco-cost-earnings-q1-2026.html",
+      "published_at": "Thu, 11 Dec 2025 22:44:11 GMT",
+      "bullets": [
+        "• Costco posted year-over-year sales growth of 8.2% in its fiscal first quarter",
+        "• Digital sales jumped by 20.5% year over year",
+        "• Same-day delivery service offered through Instacart and Uber and DoorDash grew at a faster pace than overall digital sales "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.846
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Costco posted year-over-year sales growth of 8.2% in its fiscal first quarter",
+          "• Digital sales jumped by 20.5% year over year"
+        ],
+        "hopeful_bullets": [
+          "• Costco posted year-over-year sales growth of 8.2% in its fiscal first quarter"
+        ],
+        "stakes_bullets": [
+          "• Costco posted year-over-year sales growth of 8.2% in its fiscal first quarter",
+          "• Digital sales jumped by 20.5% year over year",
+          "• Same-day delivery service offered through Instacart and Uber and DoorDash grew at a faster pace than overall digital sales "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "68365408795e"
+    },
+    {
+      "id": "4aa8ccb37c4b",
+      "title": "Broadcom beats on earnings and revenue, says AI chip sales will double in current quarter",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/11/broadcom-avgo-q4-earnings-2025.html",
+      "published_at": "Thu, 11 Dec 2025 22:33:51 GMT",
+      "bullets": [
+        "• Broadcom reported fourth-quarter results that beat expectations for earnings and revenue",
+        "• CEO Hock Tan said he expects AI chip sales this quarter to double from a year earlier to $8.2 billion",
+        "• The company's stock price is up 75% so far in 2025, after doubling last year "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.935
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Broadcom reported fourth-quarter results that beat expectations for earnings and revenue",
+          "• CEO Hock Tan said he expects AI chip sales this quarter to double from a year earlier to $8.2 billion"
+        ],
+        "hopeful_bullets": [
+          "• Broadcom reported fourth-quarter results that beat expectations for earnings and revenue",
+          "• CEO Hock Tan said he expects AI chip sales this quarter to double from a year earlier to $8.2 billion"
+        ],
+        "stakes_bullets": [
+          "• Broadcom reported fourth-quarter results that beat expectations for earnings and revenue",
+          "• CEO Hock Tan said he expects AI chip sales this quarter to double from a year earlier to $8.2 billion"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c9fc233c5d6d"
     },
     {
       "id": "c8c1c11c516b",
@@ -2510,37 +2607,39 @@
       "cluster_id": "8a62b7d61540"
     },
     {
-      "id": "4aa8ccb37c4b",
-      "title": "Broadcom beats on earnings and revenue, says AI chip sales will double in current quarter",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/11/broadcom-avgo-q4-earnings-2025.html",
-      "published_at": "Thu, 11 Dec 2025 22:23:39 GMT",
+      "id": "93ed06ac101d",
+      "title": "Twenty-one Indiana Republicans vote with state Democrats to block Trump’s redistricting effort ahead of midterms – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/dec/11/us-seizes-venezuela-tanker-democrats-republicans-donald-trump-latest-news",
+      "published_at": "Thu, 11 Dec 2025 22:27:52 GMT",
       "bullets": [
-        "• Broadcom reported fourth-quarter results that beat expectations for earnings and revenue",
-        "• CEO Hock Tan said he expects AI chip sales this quarter to double from a year earlier to $8.2 billion",
-        "• The company's stock price is up 75% so far in 2025, after doubling last year "
+        "• Indiana Republicans vote down redistricting in major blow to Trump",
+        "• 21 Republicans join 10 Democrats in rejecting the new maps",
+        "• The measure failed 19-31, with 21 Republicans joining 10 Democrats",
+        "• The Salvadorian national who has been subject to attacks by the Trump administration has been freed "
       ],
-      "category": "Business",
+      "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.935
+        "score": 0.985
       },
       "moods": {
         "brief_bullets": [
-          "• Broadcom reported fourth-quarter results that beat expectations for earnings and revenue",
-          "• CEO Hock Tan said he expects AI chip sales this quarter to double from a year earlier to $8.2 billion"
+          "• Indiana Republicans vote down redistricting in major blow to Trump",
+          "• 21 Republicans join 10 Democrats in rejecting the new maps"
         ],
         "hopeful_bullets": [
-          "• Broadcom reported fourth-quarter results that beat expectations for earnings and revenue",
-          "• CEO Hock Tan said he expects AI chip sales this quarter to double from a year earlier to $8.2 billion"
+          "• Indiana Republicans vote down redistricting in major blow to Trump",
+          "• 21 Republicans join 10 Democrats in rejecting the new maps"
         ],
         "stakes_bullets": [
-          "• Broadcom reported fourth-quarter results that beat expectations for earnings and revenue",
-          "• CEO Hock Tan said he expects AI chip sales this quarter to double from a year earlier to $8.2 billion"
+          "• Indiana Republicans vote down redistricting in major blow to Trump",
+          "• 21 Republicans join 10 Democrats in rejecting the new maps",
+          "• The measure failed 19-31, with 21 Republicans joining 10 Democrats"
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "c9fc233c5d6d"
+      "read_minutes": 11,
+      "cluster_id": "66bcd74d1e7a"
     },
     {
       "id": "0ab678979dab",
@@ -2618,30 +2717,29 @@
       "published_at": "Thu, 11 Dec 2025 22:19:59 +0000",
       "bullets": [
         "• Do Kwon pleaded guilty to defrauding investors who purchased crypto coins issued by his company, Terraform Labs",
-        "• In August, the abrupt collapse of those coins wiped out $40 billion and sent the crypto economy into a tailspin",
-        "• Prosecutors had petitioned for a twelve-year prison term, but a more punitive sentence was required "
+        "• In May 2022, the abrupt collapse of those coins wiped out $40 billion and sent the crypto economy into a tailspin",
+        "• Kwon said he took sole responsibility for the fraud "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
           "• Do Kwon pleaded guilty to defrauding investors who purchased crypto coins issued by his company, Terraform Labs",
-          "• In August, the abrupt collapse of those coins wiped out $40 billion and sent the crypto economy into a tailspin"
+          "• In May 2022, the abrupt collapse of those coins wiped out $40 billion and sent the crypto economy into a tailspin"
         ],
         "hopeful_bullets": [
           "• Do Kwon pleaded guilty to defrauding investors who purchased crypto coins issued by his company, Terraform Labs",
-          "• In August, the abrupt collapse of those coins wiped out $40 billion and sent the crypto economy into a tailspin"
+          "• In May 2022, the abrupt collapse of those coins wiped out $40 billion and sent the crypto economy into a tailspin"
         ],
         "stakes_bullets": [
           "• Do Kwon pleaded guilty to defrauding investors who purchased crypto coins issued by his company, Terraform Labs",
-          "• In August, the abrupt collapse of those coins wiped out $40 billion and sent the crypto economy into a tailspin",
-          "• Prosecutors had petitioned for a twelve-year prison term, but a more punitive sentence was required "
+          "• In May 2022, the abrupt collapse of those coins wiped out $40 billion and sent the crypto economy into a tailspin"
         ]
       },
-      "read_minutes": 5,
+      "read_minutes": 6,
       "cluster_id": "562f8d5707f4"
     },
     {
@@ -2652,28 +2750,26 @@
       "published_at": "Thu, 11 Dec 2025 22:15:56 +0000",
       "bullets": [
         "• Lawmakers urge Congress to re-authorize surveillance of Americans' communications without a warrant",
-        "• The law was passed by Congress last year, but it has not been implemented since then",
-        "• It is now under consideration again to be reinstated in the U.S",
-        "• Congress "
+        "• The law was passed by Congress last year",
+        "• The bill would allow the government to use the law to spy on Americans in the U.S",
+        "• without charge of surveillance "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.987
+        "score": 0.977
       },
       "moods": {
         "brief_bullets": [
           "• Lawmakers urge Congress to re-authorize surveillance of Americans' communications without a warrant",
-          "• The law was passed by Congress last year, but it has not been implemented since then"
+          "• The law was passed by Congress last year"
         ],
         "hopeful_bullets": [
           "• Lawmakers urge Congress to re-authorize surveillance of Americans' communications without a warrant",
-          "• The law was passed by Congress last year, but it has not been implemented since then"
+          "• The law was passed by Congress last year"
         ],
         "stakes_bullets": [
-          "• Lawmakers urge Congress to re-authorize surveillance of Americans' communications without a warrant",
-          "• The law was passed by Congress last year, but it has not been implemented since then",
-          "• It is now under consideration again to be reinstated in the U.S"
+          "• The bill would allow the government to use the law to spy on Americans in the U.S"
         ]
       },
       "read_minutes": 8,
@@ -2853,26 +2949,26 @@
       "published_at": "Thu, 11 Dec 2025 22:06:48 +0000",
       "bullets": [
         "• Kevin Lewis is the director behind Willy’s Wonderland and The Accursed",
-        "• His latest film, Pig Hill, is based on the novel Pig by Nancy Williams",
-        "• The film follows a local aspiring author, Carrie, searching for the truth behind missing women and the local legend "
+        "• He is currently in post-production on two movies, including a crime thriller and another horror movie, The Driver",
+        "• Pig Hill is based on the novel by Nancy Williams and follows a local aspiring author "
       ],
       "category": "Horror",
       "sentiment": {
         "label": "positive",
-        "score": 0.997
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
           "• Kevin Lewis is the director behind Willy’s Wonderland and The Accursed",
-          "• His latest film, Pig Hill, is based on the novel Pig by Nancy Williams"
+          "• He is currently in post-production on two movies, including a crime thriller and another horror movie, The Driver"
         ],
         "hopeful_bullets": [
           "• Kevin Lewis is the director behind Willy’s Wonderland and The Accursed",
-          "• His latest film, Pig Hill, is based on the novel Pig by Nancy Williams"
+          "• He is currently in post-production on two movies, including a crime thriller and another horror movie, The Driver"
         ],
         "stakes_bullets": [
           "• Kevin Lewis is the director behind Willy’s Wonderland and The Accursed",
-          "• His latest film, Pig Hill, is based on the novel Pig by Nancy Williams"
+          "• Pig Hill is based on the novel by Nancy Williams and follows a local aspiring author "
         ]
       },
       "read_minutes": 8,
@@ -2911,37 +3007,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "0bbf5a39666c"
-    },
-    {
-      "id": "93ed06ac101d",
-      "title": "‘Shoving Americans off a cliff’: Democrats condemn failed healthcare votes as Obamacare subsidies set to expire – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/dec/11/us-seizes-venezuela-tanker-democrats-republicans-donald-trump-latest-news",
-      "published_at": "Thu, 11 Dec 2025 22:02:10 GMT",
-      "bullets": [
-        "• Indiana Republicans vote down redistricting in major blow to Trump",
-        "• The measure failed 19-31, with 21 Republicans joining 10 Democrats in rejecting the new maps",
-        "• Trump tweeted that anyone who voted against redistricting will be met with a \"MAGA Primary in the Spring\""
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Indiana Republicans vote down redistricting in major blow to Trump",
-          "• The measure failed 19-31, with 21 Republicans joining 10 Democrats in rejecting the new maps"
-        ],
-        "hopeful_bullets": [
-          "• Trump tweeted that anyone who voted against redistricting will be met with a \"MAGA Primary in the Spring\""
-        ],
-        "stakes_bullets": [
-          "• Trump tweeted that anyone who voted against redistricting will be met with a \"MAGA Primary in the Spring\""
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "bb95415c6f43"
     },
     {
       "id": "802b25db335b",
@@ -3203,76 +3268,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "d0f596290ec7"
-    },
-    {
-      "id": "e2393b3562cc",
-      "title": "Costco tops Wall Street's sales and revenue expectations",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/11/costco-cost-earnings-q1-2026.html",
-      "published_at": "Thu, 11 Dec 2025 21:40:02 GMT",
-      "bullets": [
-        "• Costco's net income rose to $2 billion, or $4.50 per share, from $1.80 billion in the year-ago quarter",
-        "• Comparable sales increased 5.9% in the U.S",
-        "• and 6.4% across the globe",
-        "• The warehouse club does not share a full-year outlook "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Costco's net income rose to $2 billion, or $4.50 per share, from $1.80 billion in the year-ago quarter",
-          "• Comparable sales increased 5.9% in the U.S"
-        ],
-        "hopeful_bullets": [
-          "• Costco's net income rose to $2 billion, or $4.50 per share, from $1.80 billion in the year-ago quarter",
-          "• Comparable sales increased 5.9% in the U.S"
-        ],
-        "stakes_bullets": [
-          "• Costco's net income rose to $2 billion, or $4.50 per share, from $1.80 billion in the year-ago quarter",
-          "• Comparable sales increased 5.9% in the U.S"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "68365408795e"
-    },
-    {
-      "id": "510ead5d06fa",
-      "title": "Christopher Nolan’s Interstelar Gets High Praise From Space Expert",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/christopher-nolan-interstellar-sci-fi-high-praise-space-expert/",
-      "published_at": "Thu, 11 Dec 2025 21:29:50 GMT",
-      "bullets": [
-        "• An astrophysicist criticizes Christopher Nolan's sci-fi film Interstellar in a new video",
-        "• Paul M",
-        "• Sutter gives it a 9/10 rating for accuracy",
-        "• He praises the scenes involving a massive black hole in the film",
-        "• Sutter says there is \"so much good science in the black hole image\""
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• An astrophysicist criticizes Christopher Nolan's sci-fi film Interstellar in a new video",
-          "• Paul M"
-        ],
-        "hopeful_bullets": [
-          "• An astrophysicist criticizes Christopher Nolan's sci-fi film Interstellar in a new video",
-          "• Paul M"
-        ],
-        "stakes_bullets": [
-          "• An astrophysicist criticizes Christopher Nolan's sci-fi film Interstellar in a new video",
-          "• Paul M",
-          "• Sutter gives it a 9/10 rating for accuracy"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "75c39a2ce6e5"
     },
     {
       "id": "4dbbfd335a7b",
@@ -5451,26 +5446,27 @@
       "url": "https://www.theguardian.com/us-news/2025/dec/11/kilmar-abrego-garcia-released",
       "published_at": "Thu, 11 Dec 2025 15:37:06 GMT",
       "bullets": [
-        "• Kilmar Ábrego García will be advised on his release conditions in a separate criminal case in Tennessee",
-        "• The case of the Salvadorian national who was a construction worker in Maryland has become a proxy for the partisan struggle over Donald Trump's sweeping immigration policy and mass deportation agenda "
+        "• Kilmar Ábrego García has been freed from an immigration detention facility in Pennsylvania after a federal judge in Maryland ordered his release on Thursday",
+        "• The judge ruled that the federal government lacked authority to keep him in custody because no final deportation order had been issued",
+        "• The Department of Homeland Security condemned the judge’s decision and announced plans to appeal "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.968
+        "score": 0.987
       },
       "moods": {
         "brief_bullets": [
-          "• Kilmar Ábrego García will be advised on his release conditions in a separate criminal case in Tennessee",
-          "• The case of the Salvadorian national who was a construction worker in Maryland has become a proxy for the partisan struggle over Donald Trump's sweeping immigration policy and mass deportation agenda "
+          "• Kilmar Ábrego García has been freed from an immigration detention facility in Pennsylvania after a federal judge in Maryland ordered his release on Thursday",
+          "• The judge ruled that the federal government lacked authority to keep him in custody because no final deportation order had been issued"
         ],
         "hopeful_bullets": [
-          "• Kilmar Ábrego García will be advised on his release conditions in a separate criminal case in Tennessee",
-          "• The case of the Salvadorian national who was a construction worker in Maryland has become a proxy for the partisan struggle over Donald Trump's sweeping immigration policy and mass deportation agenda "
+          "• Kilmar Ábrego García has been freed from an immigration detention facility in Pennsylvania after a federal judge in Maryland ordered his release on Thursday",
+          "• The judge ruled that the federal government lacked authority to keep him in custody because no final deportation order had been issued"
         ],
         "stakes_bullets": [
-          "• Kilmar Ábrego García will be advised on his release conditions in a separate criminal case in Tennessee",
-          "• The case of the Salvadorian national who was a construction worker in Maryland has become a proxy for the partisan struggle over Donald Trump's sweeping immigration policy and mass deportation agenda "
+          "• The judge ruled that the federal government lacked authority to keep him in custody because no final deportation order had been issued",
+          "• The Department of Homeland Security condemned the judge’s decision and announced plans to appeal "
         ]
       },
       "read_minutes": 2,
@@ -6671,39 +6667,6 @@
       "cluster_id": "f5c7ee03b0a9"
     },
     {
-      "id": "76cfd4e1dd2c",
-      "title": "Elizabeth Warren says both bids to buy Warner Bros. Discovery are bad for consumers",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/11/nx-s1-5638608/elizabeth-warren-warner-bros-discovery-netflix",
-      "published_at": "Thu, 11 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• Elizabeth Warren calls for scrutiny of two bids to acquire Warner Bros",
-        "• Discovery",
-        "• She says the deals raise serious concerns about competition for viewers and workers",
-        "• Warren also raised questions about whether news could be \"controlled by the President\" Listen to the full interview with Elizabeth Warren on Morning Edition "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Elizabeth Warren calls for scrutiny of two bids to acquire Warner Bros",
-          "• Discovery"
-        ],
-        "hopeful_bullets": [
-          "• Elizabeth Warren calls for scrutiny of two bids to acquire Warner Bros",
-          "• Discovery"
-        ],
-        "stakes_bullets": [
-          "• Warren also raised questions about whether news could be \"controlled by the President\" Listen to the full interview with Elizabeth Warren on Morning Edition "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "4712b11d6624"
-    },
-    {
       "id": "a199d4934a3a",
       "title": "Trump calls affordability crisis a 'hoax.' The data tells a different story",
       "outlet": "NPR Topics: Politics",
@@ -6736,6 +6699,39 @@
       },
       "read_minutes": 4,
       "cluster_id": "0da6a2f35b60"
+    },
+    {
+      "id": "76cfd4e1dd2c",
+      "title": "Elizabeth Warren says both bids to buy Warner Bros. Discovery are bad for consumers",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/12/11/nx-s1-5638608/elizabeth-warren-warner-bros-discovery-netflix",
+      "published_at": "Thu, 11 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• Elizabeth Warren calls for scrutiny of two bids to acquire Warner Bros",
+        "• Discovery",
+        "• She says the deals raise serious concerns about competition for viewers and workers",
+        "• Warren also raised questions about whether news could be \"controlled by the President\" Listen to the full interview with Elizabeth Warren on Morning Edition "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Elizabeth Warren calls for scrutiny of two bids to acquire Warner Bros",
+          "• Discovery"
+        ],
+        "hopeful_bullets": [
+          "• Elizabeth Warren calls for scrutiny of two bids to acquire Warner Bros",
+          "• Discovery"
+        ],
+        "stakes_bullets": [
+          "• Warren also raised questions about whether news could be \"controlled by the President\" Listen to the full interview with Elizabeth Warren on Morning Edition "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "4712b11d6624"
     },
     {
       "id": "44e0fdb472f3",
@@ -8362,6 +8358,134 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "586c8028b440",
+      "title": "Google brings Gemini’s Chrome integration to iPhone and iPad",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/842987/google-gemini-chrome-ios",
+      "published_at": "2025-12-11T17:51:27-05:00",
+      "bullets": [
+        "• Built-in Gemini AI features in Chrome are now becoming more widely available on the iOS version of Google’s browser",
+        "• They’re popping up several months after the features’ rollout on the desktop version started in September",
+        "• Chrome users will see a new icon in the left corner of the address bar (where the Google Lens icon used to be), shaped like a notebook page with the Gemini star symbol "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.947
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Built-in Gemini AI features in Chrome are now becoming more widely available on the iOS version of Google’s browser",
+          "• They’re popping up several months after the features’ rollout on the desktop version started in September"
+        ],
+        "hopeful_bullets": [
+          "• Built-in Gemini AI features in Chrome are now becoming more widely available on the iOS version of Google’s browser",
+          "• They’re popping up several months after the features’ rollout on the desktop version started in September"
+        ],
+        "stakes_bullets": [
+          "• Chrome users will see a new icon in the left corner of the address bar (where the Google Lens icon used to be), shaped like a notebook page with the Gemini star symbol "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d4cc7c81cd80"
+    },
+    {
+      "id": "056ba955f225",
+      "title": "Tim Cook’s lobbying hangs over a key kids online safety vote",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/policy/842993/kids-online-safety-markup-energy-commerce-tim-cook-apple",
+      "published_at": "2025-12-11T17:50:24-05:00",
+      "bullets": [
+        "• At a congressional meeting to vote on the future of kids online safety, the most spirited debate of the day was about a bill that wasn’t even on the agenda and Apple CEO Tim Cook",
+        "• The bills that aim to regulate the internet to protect children are now headed for a vote before the full Energy and Commerce Committee "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.963
+      },
+      "moods": {
+        "brief_bullets": [
+          "• At a congressional meeting to vote on the future of kids online safety, the most spirited debate of the day was about a bill that wasn’t even on the agenda and Apple CEO Tim Cook",
+          "• The bills that aim to regulate the internet to protect children are now headed for a vote before the full Energy and Commerce Committee "
+        ],
+        "hopeful_bullets": [
+          "• At a congressional meeting to vote on the future of kids online safety, the most spirited debate of the day was about a bill that wasn’t even on the agenda and Apple CEO Tim Cook",
+          "• The bills that aim to regulate the internet to protect children are now headed for a vote before the full Energy and Commerce Committee "
+        ],
+        "stakes_bullets": [
+          "• At a congressional meeting to vote on the future of kids online safety, the most spirited debate of the day was about a bill that wasn’t even on the agenda and Apple CEO Tim Cook",
+          "• The bills that aim to regulate the internet to protect children are now headed for a vote before the full Energy and Commerce Committee "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "bcccf8d9d765"
+    },
+    {
+      "id": "1680c22926e0",
+      "title": "Amazon Prime Video pulls AI-powered recaps after Fallout flub",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap",
+      "published_at": "2025-12-11T17:46:11-05:00",
+      "bullets": [
+        "• Amazon Prime Video has pulled its AI-powered video recap of Fallout after viewers noticed that it got key parts of the story wrong",
+        "• The streaming service began testing Video Recaps last month, and now they're missing from the shows included in the test",
+        "• The feature is supposed to use AI to analyze a show’s key plot points and sum it all in a bite-sized video "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Amazon Prime Video has pulled its AI-powered video recap of Fallout after viewers noticed that it got key parts of the story wrong",
+          "• The streaming service began testing Video Recaps last month, and now they're missing from the shows included in the test"
+        ],
+        "hopeful_bullets": [
+          "• Amazon Prime Video has pulled its AI-powered video recap of Fallout after viewers noticed that it got key parts of the story wrong",
+          "• The streaming service began testing Video Recaps last month, and now they're missing from the shows included in the test"
+        ],
+        "stakes_bullets": [
+          "• Amazon Prime Video has pulled its AI-powered video recap of Fallout after viewers noticed that it got key parts of the story wrong",
+          "• The streaming service began testing Video Recaps last month, and now they're missing from the shows included in the test",
+          "• The feature is supposed to use AI to analyze a show’s key plot points and sum it all in a bite-sized video "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b1dee09b04ed"
+    },
+    {
+      "id": "fc06f4e38191",
+      "title": "Apple loses contempt appeal in Epic case",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/842991/apple-epic-appeal-loses-contempt",
+      "published_at": "2025-12-11T17:44:27-05:00",
+      "bullets": [
+        "• Apple has lost its appeal of a massive district court ruling in its antitrust dispute with Epic Games",
+        "• An April ruling from Judge Yvonne Gonzalez Rogers said that Apple “willingly” failed to comply with a 2021 order allowing mobile app developers to link to payment options outside of Apple’s "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Apple has lost its appeal of a massive district court ruling in its antitrust dispute with Epic Games",
+          "• An April ruling from Judge Yvonne Gonzalez Rogers said that Apple “willingly” failed to comply with a 2021 order allowing mobile app developers to link to payment options outside of Apple’s "
+        ],
+        "hopeful_bullets": [
+          "• An April ruling from Judge Yvonne Gonzalez Rogers said that Apple “willingly” failed to comply with a 2021 order allowing mobile app developers to link to payment options outside of Apple’s "
+        ],
+        "stakes_bullets": [
+          "• An April ruling from Judge Yvonne Gonzalez Rogers said that Apple “willingly” failed to comply with a 2021 order allowing mobile app developers to link to payment options outside of Apple’s "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "148677659c11"
+    },
+    {
       "id": "daf00acc3123",
       "title": "The best phone to buy right now",
       "outlet": "The Verge",
@@ -8555,137 +8679,6 @@
       },
       "read_minutes": 14,
       "cluster_id": "589a564ebcbc"
-    },
-    {
-      "id": "c2af061f281d",
-      "title": "I tested a bunch of Switch 2 screen protectors, and these are the best",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte",
-      "published_at": "2025-12-11T13:37:58-05:00",
-      "bullets": [
-        "• A glass screen protector is one of a few essential accessories that every Switch 2 owner should buy",
-        "• Make sure it’s glass, not plastic, then decide if you want it to be glossy or matte",
-        "• Some protectors are glossy and some are anti-reflective, each with its own tradeoffs "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A glass screen protector is one of a few essential accessories that every Switch 2 owner should buy",
-          "• Make sure it’s glass, not plastic, then decide if you want it to be glossy or matte"
-        ],
-        "hopeful_bullets": [
-          "• A glass screen protector is one of a few essential accessories that every Switch 2 owner should buy",
-          "• Make sure it’s glass, not plastic, then decide if you want it to be glossy or matte"
-        ],
-        "stakes_bullets": [
-          "• A glass screen protector is one of a few essential accessories that every Switch 2 owner should buy",
-          "• Make sure it’s glass, not plastic, then decide if you want it to be glossy or matte",
-          "• Some protectors are glossy and some are anti-reflective, each with its own tradeoffs "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "76ab51f2050e"
-    },
-    {
-      "id": "670ab8475c9a",
-      "title": "Hoto’s new PixelDrive electric screwdriver is on sale for the first time",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/gadgets/842687/hoto-pixeldrive-electric-screwdriver-deal-sale",
-      "published_at": "2025-12-11T13:18:35-05:00",
-      "bullets": [
-        "• Hoto’s new PixelDrive electric screwdriver is on sale for the first time at Amazon for $59.99 ($20 off) The small tool comes with a built-in display and adjustable torque and speed settings",
-        "• It's strong enough for assembling electronics, putting together furniture, and handling most small home repairs "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.572
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hoto’s new PixelDrive electric screwdriver is on sale for the first time at Amazon for $59.99 ($20 off) The small tool comes with a built-in display and adjustable torque and speed settings",
-          "• It's strong enough for assembling electronics, putting together furniture, and handling most small home repairs "
-        ],
-        "hopeful_bullets": [
-          "• It's strong enough for assembling electronics, putting together furniture, and handling most small home repairs "
-        ],
-        "stakes_bullets": [
-          "• Hoto’s new PixelDrive electric screwdriver is on sale for the first time at Amazon for $59.99 ($20 off) The small tool comes with a built-in display and adjustable torque and speed settings",
-          "• It's strong enough for assembling electronics, putting together furniture, and handling most small home repairs "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "9c36f89b227a"
-    },
-    {
-      "id": "b08a5e158f3f",
-      "title": "Google is building an experimental new browser and a new kind of web app",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment",
-      "published_at": "2025-12-11T13:10:36-05:00",
-      "bullets": [
-        "• The Chrome team at Google recently built a new browser called Disco",
-        "• It takes a query or prompt, opens a bunch of related tabs for you, and then builds you a custom app for whatever you’re trying to do",
-        "• Google is launching both as experiments in the Search Labs today "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.657
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Chrome team at Google recently built a new browser called Disco",
-          "• It takes a query or prompt, opens a bunch of related tabs for you, and then builds you a custom app for whatever you’re trying to do"
-        ],
-        "hopeful_bullets": [
-          "• The Chrome team at Google recently built a new browser called Disco",
-          "• It takes a query or prompt, opens a bunch of related tabs for you, and then builds you a custom app for whatever you’re trying to do"
-        ],
-        "stakes_bullets": [
-          "• The Chrome team at Google recently built a new browser called Disco",
-          "• It takes a query or prompt, opens a bunch of related tabs for you, and then builds you a custom app for whatever you’re trying to do",
-          "• Google is launching both as experiments in the Search Labs today "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "25c7bcdb55c0"
-    },
-    {
-      "id": "107319c4cb5d",
-      "title": "ChatGPT&#8217;s ‘adult mode’ is expected to debut in Q1 2026",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026",
-      "published_at": "2025-12-11T13:10:19-05:00",
-      "bullets": [
-        "• ChatGPT’s ‘adult mode’ is expected to debut in Q1 2026",
-        "• OpenAI wants to get its age-prediction model right before launching the feature",
-        "• The company is testing its age prediction model in certain countries to gauge its ability to identify teens "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• ChatGPT’s ‘adult mode’ is expected to debut in Q1 2026",
-          "• OpenAI wants to get its age-prediction model right before launching the feature"
-        ],
-        "hopeful_bullets": [
-          "• ChatGPT’s ‘adult mode’ is expected to debut in Q1 2026",
-          "• OpenAI wants to get its age-prediction model right before launching the feature"
-        ],
-        "stakes_bullets": [
-          "• ChatGPT’s ‘adult mode’ is expected to debut in Q1 2026"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "726b05654c1b"
     },
     {
       "id": "c41ff758b36a",
@@ -9506,15 +9499,15 @@
       ]
     },
     {
-      "id": "bb95415c6f43",
-      "topic": "american cliff condemn democrat",
+      "id": "66bcd74d1e7a",
+      "topic": "democrat indiana republican state",
       "keywords": [
-        "american",
-        "cliff",
-        "condemn",
         "democrat",
-        "off",
-        "shoving"
+        "indiana",
+        "republican",
+        "state",
+        "twenty",
+        "vote"
       ],
       "item_ids": [
         "93ed06ac101d"
@@ -9923,14 +9916,14 @@
       ]
     },
     {
-      "id": "a1338aa3dc0d",
-      "topic": "bill indiana redistricting reject",
+      "id": "0cf1f24cd556",
+      "topic": "bill defeated demanded indiana",
       "keywords": [
         "bill",
+        "defeated",
+        "demanded",
         "indiana",
         "redistricting",
-        "reject",
-        "senate",
         "trump"
       ],
       "item_ids": [
@@ -10191,6 +10184,78 @@
       ]
     },
     {
+      "id": "d4cc7c81cd80",
+      "topic": "bring chrome gemini google",
+      "keywords": [
+        "bring",
+        "chrome",
+        "gemini",
+        "google",
+        "integration",
+        "iphone"
+      ],
+      "item_ids": [
+        "586c8028b440"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "bcccf8d9d765",
+      "topic": "cook hang key kids",
+      "keywords": [
+        "cook",
+        "hang",
+        "key",
+        "kids",
+        "lobbying",
+        "tim"
+      ],
+      "item_ids": [
+        "056ba955f225"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "b1dee09b04ed",
+      "topic": "amazon powered prime pull",
+      "keywords": [
+        "amazon",
+        "powered",
+        "prime",
+        "pull",
+        "recap",
+        "video"
+      ],
+      "item_ids": [
+        "1680c22926e0"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "148677659c11",
+      "topic": "appeal apple case contempt",
+      "keywords": [
+        "appeal",
+        "apple",
+        "case",
+        "contempt",
+        "epic",
+        "lose"
+      ],
+      "item_ids": [
+        "fc06f4e38191"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "97cd7af4d445",
       "topic": "best buy now phone",
       "keywords": [
@@ -10292,78 +10357,6 @@
       ],
       "item_ids": [
         "0466d9cbc132"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "76ab51f2050e",
-      "topic": "bunch protector screen switch",
-      "keywords": [
-        "bunch",
-        "protector",
-        "screen",
-        "switch",
-        "tested",
-        "these"
-      ],
-      "item_ids": [
-        "c2af061f281d"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "9c36f89b227a",
-      "topic": "electric first hoto pixeldrive",
-      "keywords": [
-        "electric",
-        "first",
-        "hoto",
-        "pixeldrive",
-        "sale",
-        "screwdriver"
-      ],
-      "item_ids": [
-        "670ab8475c9a"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "25c7bcdb55c0",
-      "topic": "browser building experimental google",
-      "keywords": [
-        "browser",
-        "building",
-        "experimental",
-        "google",
-        "kind",
-        "web"
-      ],
-      "item_ids": [
-        "b08a5e158f3f"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "726b05654c1b",
-      "topic": "8217 adult chatgpt debut",
-      "keywords": [
-        "8217",
-        "adult",
-        "chatgpt",
-        "debut",
-        "expected",
-        "mode"
-      ],
-      "item_ids": [
-        "107319c4cb5d"
       ],
       "outlets": [
         "The Verge"
@@ -10869,24 +10862,6 @@
       ]
     },
     {
-      "id": "9d2ba10c31db",
-      "topic": "call glitchy make mistrust",
-      "keywords": [
-        "call",
-        "glitchy",
-        "make",
-        "mistrust",
-        "people",
-        "video"
-      ],
-      "item_ids": [
-        "7695903727e7"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "f041e9453670",
       "topic": "aca competing fail health",
       "keywords": [
@@ -10923,24 +10898,6 @@
       ]
     },
     {
-      "id": "4712b11d6624",
-      "topic": "bids both buy elizabeth",
-      "keywords": [
-        "bids",
-        "both",
-        "buy",
-        "elizabeth",
-        "warner",
-        "warren"
-      ],
-      "item_ids": [
-        "76cfd4e1dd2c"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
       "id": "0da6a2f35b60",
       "topic": "affordability call crisi data",
       "keywords": [
@@ -10953,6 +10910,24 @@
       ],
       "item_ids": [
         "a199d4934a3a"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "4712b11d6624",
+      "topic": "bids both buy elizabeth",
+      "keywords": [
+        "bids",
+        "both",
+        "buy",
+        "elizabeth",
+        "warner",
+        "warren"
+      ],
+      "item_ids": [
+        "76cfd4e1dd2c"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -13144,6 +13119,24 @@
       ]
     },
     {
+      "id": "bb6989c4800e",
+      "topic": "greatest history movie sci",
+      "keywords": [
+        "greatest",
+        "history",
+        "movie",
+        "sci",
+        "twist",
+        "villain"
+      ],
+      "item_ids": [
+        "7d3740f44958"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "24f47c5fac9f",
       "topic": "big bonney finally give",
       "keywords": [
@@ -13299,24 +13292,6 @@
       ],
       "item_ids": [
         "8ae7d5b1b9e0"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "75c39a2ce6e5",
-      "topic": "christopher gets high interstelar",
-      "keywords": [
-        "christopher",
-        "gets",
-        "high",
-        "interstelar",
-        "nolan",
-        "praise"
-      ],
-      "item_ids": [
-        "510ead5d06fa"
       ],
       "outlets": [
         "CBR"
@@ -13978,6 +13953,24 @@
       ],
       "item_ids": [
         "c61876f6d46d"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "73fc9ea46257",
+      "topic": "blis fort held migrant",
+      "keywords": [
+        "blis",
+        "fort",
+        "held",
+        "migrant",
+        "physical",
+        "suffering"
+      ],
+      "item_ids": [
+        "ee86e7f750f4"
       ],
       "outlets": [
         "The Texas Tribune"
