@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-11T08:05:15Z",
+  "generated_at": "2025-12-11T09:13:42Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -202,40 +202,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "418aa8f4cabd"
-    },
-    {
-      "id": "a9b549b1c42b",
-      "title": "No arrests or suspects in mass shooting at toddler’s birthday party in Stockton",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/10/mass-shooting-stockton-birthday-party",
-      "published_at": "Wed, 10 Dec 2025 23:12:54 GMT",
-      "bullets": [
-        "• Investigators have found at least 50 shell casings, believe at least five firearms were used in the shooting, sheriff says",
-        "• Four people were killed and 17 others were injured at a toddler's birthday party in Stockton, California, last week",
-        "• Law enforcement has yet to make arrests or name any suspects "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Investigators have found at least 50 shell casings, believe at least five firearms were used in the shooting, sheriff says",
-          "• Four people were killed and 17 others were injured at a toddler's birthday party in Stockton, California, last week"
-        ],
-        "hopeful_bullets": [
-          "• Investigators have found at least 50 shell casings, believe at least five firearms were used in the shooting, sheriff says",
-          "• Four people were killed and 17 others were injured at a toddler's birthday party in Stockton, California, last week"
-        ],
-        "stakes_bullets": [
-          "• Investigators have found at least 50 shell casings, believe at least five firearms were used in the shooting, sheriff says",
-          "• Four people were killed and 17 others were injured at a toddler's birthday party in Stockton, California, last week",
-          "• Law enforcement has yet to make arrests or name any suspects "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "537d4033a983"
     },
     {
       "id": "c61876f6d46d",
@@ -4982,6 +4948,108 @@
       "cluster_id": "b5ebb78247cb"
     },
     {
+      "id": "93ed06ac101d",
+      "title": "US lawmakers voice concerns about Venezuelan tanker seizure: ‘sounds a lot like the beginning of a war’ – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/dec/11/us-seizes-venezuela-tanker-democrats-republicans-donald-trump-latest-news",
+      "published_at": "Thu, 11 Dec 2025 08:19:20 GMT",
+      "bullets": [
+        "• Pete Hegseth was made Donald Trump's secretary of war last month",
+        "• The former Fox News talkshow host has been accused of war crimes",
+        "• A damning report into his handling of classified information has come back",
+        "• Senator Rand Paul said the action ‘sounds a lot like the beginning of a war’"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Pete Hegseth was made Donald Trump's secretary of war last month",
+          "• The former Fox News talkshow host has been accused of war crimes"
+        ],
+        "hopeful_bullets": [
+          "• Pete Hegseth was made Donald Trump's secretary of war last month",
+          "• The former Fox News talkshow host has been accused of war crimes"
+        ],
+        "stakes_bullets": [
+          "• Pete Hegseth was made Donald Trump's secretary of war last month",
+          "• The former Fox News talkshow host has been accused of war crimes",
+          "• A damning report into his handling of classified information has come back"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "5111c4f3fc2f"
+    },
+    {
+      "id": "3524db4f65e9",
+      "title": "More than 30 dead after Myanmar military air strike hits hospital",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqxq3lg2gwxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 11 Dec 2025 08:12:36 GMT",
+      "bullets": [
+        "• More than 30 dead after Myanmar military air strike hits hospital in west",
+        "• Hospital is located in Mrauk-U town in Rakhine state controlled by Arakan Army",
+        "• Thousands have died and millions have been displaced since the military seized power in a coup in 2021 "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• More than 30 dead after Myanmar military air strike hits hospital in west",
+          "• Hospital is located in Mrauk-U town in Rakhine state controlled by Arakan Army"
+        ],
+        "hopeful_bullets": [
+          "• More than 30 dead after Myanmar military air strike hits hospital in west",
+          "• Hospital is located in Mrauk-U town in Rakhine state controlled by Arakan Army"
+        ],
+        "stakes_bullets": [
+          "• More than 30 dead after Myanmar military air strike hits hospital in west",
+          "• Hospital is located in Mrauk-U town in Rakhine state controlled by Arakan Army",
+          "• Thousands have died and millions have been displaced since the military seized power in a coup in 2021 "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "29a66209100a"
+    },
+    {
+      "id": "777219d01789",
+      "title": "Asia-Pacific markets give up early gains after third Fed cut of the year; Kospi and CSI 300 mark third straight day of losses",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/11/asia-pacific-markets-live-thursday-fed-third-rate-cut-jerome-powell-nikkei-225-hang-seng.html",
+      "published_at": "Thu, 11 Dec 2025 07:50:13 GMT",
+      "bullets": [
+        "• The Federal Reserve reduced the Federal Funds rate by 25 basis points to 3.5%-3.75%, signaling it is done easing for now",
+        "• Japan's Nikkei 225 ended the day down 0.9% to close at 50,148.82",
+        "• South Korea's Kospi also reversed course to dip 0.59% and end at 4,110.6, marking a third straight day of losses "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Federal Reserve reduced the Federal Funds rate by 25 basis points to 3.5%-3.75%, signaling it is done easing for now",
+          "• Japan's Nikkei 225 ended the day down 0.9% to close at 50,148.82"
+        ],
+        "hopeful_bullets": [
+          "• The Federal Reserve reduced the Federal Funds rate by 25 basis points to 3.5%-3.75%, signaling it is done easing for now"
+        ],
+        "stakes_bullets": [
+          "• The Federal Reserve reduced the Federal Funds rate by 25 basis points to 3.5%-3.75%, signaling it is done easing for now",
+          "• Japan's Nikkei 225 ended the day down 0.9% to close at 50,148.82",
+          "• South Korea's Kospi also reversed course to dip 0.59% and end at 4,110.6, marking a third straight day of losses "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ed98e8848e1c"
+    },
+    {
       "id": "139d82acb3ca",
       "title": "Lily Allen’s ‘West End Girl’ May Become a Play in London’s West End",
       "outlet": "Music News",
@@ -5052,35 +5120,35 @@
     },
     {
       "id": "12cb3d4b6012",
-      "title": "US seizes oil tanker off the coast of Venezuela, Trump says",
+      "title": "US seizes oil tanker off Venezuela as Caracas condemns 'act of piracy'",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss",
       "published_at": "Thu, 11 Dec 2025 07:08:35 GMT",
       "bullets": [
-        "• President Maduro says Venezuela will not become an oil-rich nation",
-        "• President of Venezuela has vowed to protect his country's oil wealth",
-        "• The country is home to some of the world's largest oil reserves",
-        "• The United States is looking to boost its own oil reserves in Venezuela "
+        "• President Maduro says Venezuela will not become an oil-rich nation again",
+        "• Venezuela is the world's largest oil producer",
+        "• The country has been hit by a series of oil-related incidents in the past year",
+        "• The United States is seeking to use the country's oil wealth to boost its oil reserves "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.995
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• President Maduro says Venezuela will not become an oil-rich nation",
-          "• President of Venezuela has vowed to protect his country's oil wealth"
+          "• President Maduro says Venezuela will not become an oil-rich nation again",
+          "• Venezuela is the world's largest oil producer"
         ],
         "hopeful_bullets": [
-          "• The United States is looking to boost its own oil reserves in Venezuela "
+          "• The United States is seeking to use the country's oil wealth to boost its oil reserves "
         ],
         "stakes_bullets": [
-          "• President Maduro says Venezuela will not become an oil-rich nation"
+          "• President Maduro says Venezuela will not become an oil-rich nation again"
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "3c510cf8c151"
+      "cluster_id": "d0dbf1309dec"
     },
     {
       "id": "bcfb4d408ca4",
@@ -5116,41 +5184,6 @@
       },
       "read_minutes": 24,
       "cluster_id": "afeec43a9d22"
-    },
-    {
-      "id": "777219d01789",
-      "title": "Asia-Pacific markets give up early gains after third Fed cut of the year; Kospi marks third straight day of losses",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/11/asia-pacific-markets-live-thursday-fed-third-rate-cut-jerome-powell-nikkei-225-hang-seng.html",
-      "published_at": "Thu, 11 Dec 2025 06:58:07 GMT",
-      "bullets": [
-        "• Asia-Pacific markets give up earlier gains to trade mostly lower Thursday",
-        "• U.S",
-        "• dollar index fell as much as 98.54 on Thursday, marking its weakest level since Oct",
-        "• 21",
-        "• Japan's Nikkei 225 was down 0.9% to close at 50,148.82"
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Asia-Pacific markets give up earlier gains to trade mostly lower Thursday",
-          "• U.S"
-        ],
-        "hopeful_bullets": [
-          "• Asia-Pacific markets give up earlier gains to trade mostly lower Thursday"
-        ],
-        "stakes_bullets": [
-          "• Asia-Pacific markets give up earlier gains to trade mostly lower Thursday",
-          "• U.S",
-          "• dollar index fell as much as 98.54 on Thursday, marking its weakest level since Oct"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "ed98e8848e1c"
     },
     {
       "id": "16c15cc0d09f",
@@ -5393,31 +5426,31 @@
       "url": "https://www.wired.com/story/lg-promo-code/",
       "published_at": "Thu, 11 Dec 2025 06:00:00 +0000",
       "bullets": [
-        "• LG’s new evo AI G5 OLED TV is poised to be one of the brightest, most beautiful TVs released this year",
-        "• The new quad-stack panel is a scorcher that keeps the perfect black levels and fabulous colors for which LG OLED TVs are praised",
-        "• Save over 40% with LG promo codes and online exclusive discounts on home appliances, gaming monitors, and more tech "
+        "• Save over 40% with LG promo codes and online exclusive discounts on home appliances, gaming monitors, and more tech",
+        "• LG makes some of the best TVs you can buy",
+        "• The Korean brand offers multiple products across the A/V landscape, from soundbars to Bluetooth speakers "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 1.0
+        "score": 0.996
       },
       "moods": {
         "brief_bullets": [
-          "• LG’s new evo AI G5 OLED TV is poised to be one of the brightest, most beautiful TVs released this year",
-          "• The new quad-stack panel is a scorcher that keeps the perfect black levels and fabulous colors for which LG OLED TVs are praised"
+          "• Save over 40% with LG promo codes and online exclusive discounts on home appliances, gaming monitors, and more tech",
+          "• LG makes some of the best TVs you can buy"
         ],
         "hopeful_bullets": [
-          "• LG’s new evo AI G5 OLED TV is poised to be one of the brightest, most beautiful TVs released this year",
-          "• The new quad-stack panel is a scorcher that keeps the perfect black levels and fabulous colors for which LG OLED TVs are praised"
+          "• Save over 40% with LG promo codes and online exclusive discounts on home appliances, gaming monitors, and more tech",
+          "• LG makes some of the best TVs you can buy"
         ],
         "stakes_bullets": [
-          "• LG’s new evo AI G5 OLED TV is poised to be one of the brightest, most beautiful TVs released this year",
-          "• The new quad-stack panel is a scorcher that keeps the perfect black levels and fabulous colors for which LG OLED TVs are praised",
-          "• Save over 40% with LG promo codes and online exclusive discounts on home appliances, gaming monitors, and more tech "
+          "• Save over 40% with LG promo codes and online exclusive discounts on home appliances, gaming monitors, and more tech",
+          "• LG makes some of the best TVs you can buy",
+          "• The Korean brand offers multiple products across the A/V landscape, from soundbars to Bluetooth speakers "
         ]
       },
-      "read_minutes": 5,
+      "read_minutes": 3,
       "cluster_id": "6e37780d85b0"
     },
     {
@@ -5451,40 +5484,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "19dda99c57d9"
-    },
-    {
-      "id": "25e0bca8ca82",
-      "title": "Mexico approves up to 50% tariffs on China and other countries",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 11 Dec 2025 05:44:21 GMT",
-      "bullets": [
-        "• Mexico approves up to 50% tariffs on China and other countries",
-        "• Tariffs will be imposed on more than 1,400 products",
-        "• Move comes as Mexico is in negotiations with the US to impose new tariffs",
-        "• Chinese companies have been expanding their operations in Mexico in recent years "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.898
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mexico approves up to 50% tariffs on China and other countries",
-          "• Tariffs will be imposed on more than 1,400 products"
-        ],
-        "hopeful_bullets": [
-          "• Mexico approves up to 50% tariffs on China and other countries",
-          "• Tariffs will be imposed on more than 1,400 products"
-        ],
-        "stakes_bullets": [
-          "• Tariffs will be imposed on more than 1,400 products",
-          "• Chinese companies have been expanding their operations in Mexico in recent years "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3f5cafd3b74a"
     },
     {
       "id": "d70467d02eed",
@@ -5960,26 +5959,26 @@
       "published_at": "Thu, 11 Dec 2025 03:36:40 GMT",
       "bullets": [
         "• Venezuelan opposition leader María Corina Machado emerges to collect prize in Oslo after months in hiding",
-        "• The 58-year-old made the covert journey despite a travel ban and a threat from the Venezuelan government",
-        "• Her daughter, Ana Corina Sosa, accepted the Nobel Peace Prize on her mother's behalf "
+        "• It was the first time she has been seen in public since January",
+        "• The 58-year-old made the covert journey despite a travel ban and a threat from the Venezuelan government that she would be labelled a fugitive "
       ],
       "category": "World",
       "sentiment": {
         "label": "neutral",
-        "score": 0.65
+        "score": 0.631
       },
       "moods": {
         "brief_bullets": [
           "• Venezuelan opposition leader María Corina Machado emerges to collect prize in Oslo after months in hiding",
-          "• The 58-year-old made the covert journey despite a travel ban and a threat from the Venezuelan government"
+          "• It was the first time she has been seen in public since January"
         ],
         "hopeful_bullets": [
           "• Venezuelan opposition leader María Corina Machado emerges to collect prize in Oslo after months in hiding",
-          "• The 58-year-old made the covert journey despite a travel ban and a threat from the Venezuelan government"
+          "• It was the first time she has been seen in public since January"
         ],
         "stakes_bullets": [
           "• Venezuelan opposition leader María Corina Machado emerges to collect prize in Oslo after months in hiding",
-          "• The 58-year-old made the covert journey despite a travel ban and a threat from the Venezuelan government"
+          "• The 58-year-old made the covert journey despite a travel ban and a threat from the Venezuelan government that she would be labelled a fugitive "
         ]
       },
       "read_minutes": 5,
@@ -6087,29 +6086,29 @@
       "url": "https://www.theguardian.com/us-news/2025/dec/10/trump-news-at-a-glance-seizure-of-oil-tanker-marks-new-level-of-tensions-between-us-and-venezuela",
       "published_at": "Thu, 11 Dec 2025 02:23:42 GMT",
       "bullets": [
-        "• Video shows US forces landing on a crude oil tanker off the coast of Venezuela",
-        "• President Maduro urged citizens to ‘smash the teeth of the North American empire if necessary’ The objective of this week’s reported incident was not immediately clear "
+        "• Video shows US forces landing on oil tanker off the coast of Venezuela",
+        "• President Maduro urges citizens to ‘smash the teeth of the North American empire if necessary’ The US government has been under pressure from Venezuela's president to accept a referendum on the issue "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.971
       },
       "moods": {
         "brief_bullets": [
-          "• Video shows US forces landing on a crude oil tanker off the coast of Venezuela",
-          "• President Maduro urged citizens to ‘smash the teeth of the North American empire if necessary’ The objective of this week’s reported incident was not immediately clear "
+          "• Video shows US forces landing on oil tanker off the coast of Venezuela",
+          "• President Maduro urges citizens to ‘smash the teeth of the North American empire if necessary’ The US government has been under pressure from Venezuela's president to accept a referendum on the issue "
         ],
         "hopeful_bullets": [
-          "• Video shows US forces landing on a crude oil tanker off the coast of Venezuela",
-          "• President Maduro urged citizens to ‘smash the teeth of the North American empire if necessary’ The objective of this week’s reported incident was not immediately clear "
+          "• Video shows US forces landing on oil tanker off the coast of Venezuela",
+          "• President Maduro urges citizens to ‘smash the teeth of the North American empire if necessary’ The US government has been under pressure from Venezuela's president to accept a referendum on the issue "
         ],
         "stakes_bullets": [
-          "• Video shows US forces landing on a crude oil tanker off the coast of Venezuela",
-          "• President Maduro urged citizens to ‘smash the teeth of the North American empire if necessary’ The objective of this week’s reported incident was not immediately clear "
+          "• Video shows US forces landing on oil tanker off the coast of Venezuela",
+          "• President Maduro urges citizens to ‘smash the teeth of the North American empire if necessary’ The US government has been under pressure from Venezuela's president to accept a referendum on the issue "
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 4,
       "cluster_id": "8d8d9efa91f7"
     },
     {
@@ -8985,40 +8984,6 @@
       "cluster_id": "d42b241e9c55"
     },
     {
-      "id": "f6a4716fa942",
-      "title": "The Numbers Business Report: our official forecast for 2026",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260380830-Numbers-Business-Report-our-official-forecast-for-2026-The",
-      "published_at": null,
-      "bullets": [
-        "• The Numbers Business Report: our official forecast for 2026 box office",
-        "• Box office receipts are projected to reach $9.8 billion, a 10% increase on the anticipated 2025 total of $8.87 billion",
-        "• The Super Mario Galaxy, due on April 3, tops the slate with forecast receipts of $550 million",
-        "• Mid‑tier wide releases are forecast to generate $4.57 billion, up 10% year on year "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Numbers Business Report: our official forecast for 2026 box office",
-          "• Box office receipts are projected to reach $9.8 billion, a 10% increase on the anticipated 2025 total of $8.87 billion"
-        ],
-        "hopeful_bullets": [
-          "• The Numbers Business Report: our official forecast for 2026 box office",
-          "• Box office receipts are projected to reach $9.8 billion, a 10% increase on the anticipated 2025 total of $8.87 billion"
-        ],
-        "stakes_bullets": [
-          "• Box office receipts are projected to reach $9.8 billion, a 10% increase on the anticipated 2025 total of $8.87 billion",
-          "• Mid‑tier wide releases are forecast to generate $4.57 billion, up 10% year on year "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "089004f0f074"
-    },
-    {
       "id": "64b12ff48f6c",
       "title": "Weekend projections: Zootopia 2 lands stellar Thanksgiving opening, as Wicked continues to prosper",
       "outlet": "The Numbers",
@@ -9054,38 +9019,6 @@
       "cluster_id": "4100b6fa556c"
     },
     {
-      "id": "dcdb69a4205d",
-      "title": "Holiday theater counts: Wicked continues its reign as Zootopia 2 enters the arena",
-      "outlet": "The Numbers",
-      "url": "https://www.the-numbers.com/news/260350830-Holiday-theater-counts-Wicked-continues-its-reign-as-Zootopia-2-enters-the-arena",
-      "published_at": null,
-      "bullets": [
-        "• Wicked: For Good racked up an impressive $147 million in its debut this past weekend",
-        "• Zootopia 2 brings back detectives Judy Hopps and Nick Wilde, who are once again partners in the police force, but their working relationship is under strain",
-        "• Walt Disney will release the sequel in 4,000 theaters throughout North America "
-      ],
-      "category": "Movies",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.906
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Wicked: For Good racked up an impressive $147 million in its debut this past weekend",
-          "• Zootopia 2 brings back detectives Judy Hopps and Nick Wilde, who are once again partners in the police force, but their working relationship is under strain"
-        ],
-        "hopeful_bullets": [
-          "• Wicked: For Good racked up an impressive $147 million in its debut this past weekend",
-          "• Zootopia 2 brings back detectives Judy Hopps and Nick Wilde, who are once again partners in the police force, but their working relationship is under strain"
-        ],
-        "stakes_bullets": [
-          "• Walt Disney will release the sequel in 4,000 theaters throughout North America "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "abb6a634b0f1"
-    },
-    {
       "id": "0f357e48baa9",
       "title": "Weekend projections: Wicked: For Good soars to $150-million domestic debut",
       "outlet": "The Numbers",
@@ -9116,6 +9049,99 @@
       },
       "read_minutes": 2,
       "cluster_id": "0ef3cd2769f8"
+    },
+    {
+      "id": "b22e7e3a48e1",
+      "title": "The Numbers Business Report rolls out our full predictions for 2026 at the box office",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260330830-Numbers-Business-Report-rolls-out-our-full-predictions-for-2026-at-the-box-office-The",
+      "published_at": null,
+      "bullets": [
+        "• The Numbers Business Report rolls out our full predictions for 2026 at the box office",
+        "• To qualify as a wide release in our OpusData database and here on The Numbers website, a movie needs to play in 600 domestic theaters",
+        "• Today, getting a movie into 600 theaters isn’t nearly the same logistical challenge "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.754
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Numbers Business Report rolls out our full predictions for 2026 at the box office",
+          "• To qualify as a wide release in our OpusData database and here on The Numbers website, a movie needs to play in 600 domestic theaters"
+        ],
+        "hopeful_bullets": [
+          "• The Numbers Business Report rolls out our full predictions for 2026 at the box office",
+          "• To qualify as a wide release in our OpusData database and here on The Numbers website, a movie needs to play in 600 domestic theaters"
+        ],
+        "stakes_bullets": [
+          "• The Numbers Business Report rolls out our full predictions for 2026 at the box office",
+          "• To qualify as a wide release in our OpusData database and here on The Numbers website, a movie needs to play in 600 domestic theaters",
+          "• Today, getting a movie into 600 theaters isn’t nearly the same logistical challenge "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "87d3679fb736"
+    },
+    {
+      "id": "9bd27e9cb2ff",
+      "title": "Weekend predictions: Wicked on target for the best opening of 2025",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260320830-Weekend-predictions-Wicked-on-target-for-the-best-opening-of-2025",
+      "published_at": null,
+      "bullets": [
+        "• Wicked: For Good will easily beat Wicked’s $112.5-million debut this time last year, but the real question is whether it can top A Minecraft Movie's $162.8 million to claim the crown as having the biggest weekend of the year "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Wicked: For Good will easily beat Wicked’s $112.5-million debut this time last year, but the real question is whether it can top A Minecraft Movie's $162.8 million to claim the crown as having the biggest weekend of the year "
+        ],
+        "hopeful_bullets": [
+          "• Wicked: For Good will easily beat Wicked’s $112.5-million debut this time last year, but the real question is whether it can top A Minecraft Movie's $162.8 million to claim the crown as having the biggest weekend of the year "
+        ],
+        "stakes_bullets": [
+          "• Wicked: For Good will easily beat Wicked’s $112.5-million debut this time last year, but the real question is whether it can top A Minecraft Movie's $162.8 million to claim the crown as having the biggest weekend of the year "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "826cfc1e2353"
+    },
+    {
+      "id": "8820c287b772",
+      "title": "Theater counts: Wicked: For Good twirls onto the big screen, launching in 4,115 theaters",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260310830-Theater-counts-Wicked-For-Good-twirls-onto-the-big-screen-launching-in-4-115-theaters",
+      "published_at": null,
+      "bullets": [
+        "• Now You See Me Now You Don't grabbed the box office honors with a three-day haul of just over $21 million, outperforming second-place finisher, The Running Man, picking up $16.5 million in its opening foray",
+        "• Neither film will get close to touching the top spot for a second weekend "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.632
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Now You See Me Now You Don't grabbed the box office honors with a three-day haul of just over $21 million, outperforming second-place finisher, The Running Man, picking up $16.5 million in its opening foray",
+          "• Neither film will get close to touching the top spot for a second weekend "
+        ],
+        "hopeful_bullets": [
+          "• Now You See Me Now You Don't grabbed the box office honors with a three-day haul of just over $21 million, outperforming second-place finisher, The Running Man, picking up $16.5 million in its opening foray",
+          "• Neither film will get close to touching the top spot for a second weekend "
+        ],
+        "stakes_bullets": [
+          "• Neither film will get close to touching the top spot for a second weekend "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "683e45b155a3"
     }
   ],
   "clusters": [
@@ -9138,10 +9164,10 @@
       ]
     },
     {
-      "id": "3c510cf8c151",
-      "topic": "coast off oil seize",
+      "id": "d0dbf1309dec",
+      "topic": "caraca off oil seize",
       "keywords": [
-        "coast",
+        "caraca",
         "off",
         "oil",
         "seize",
@@ -9168,6 +9194,24 @@
       ],
       "item_ids": [
         "4698d0ff54b0"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "29a66209100a",
+      "topic": "air dead hits military",
+      "keywords": [
+        "air",
+        "dead",
+        "hits",
+        "military",
+        "myanmar",
+        "strike"
+      ],
+      "item_ids": [
+        "3524db4f65e9"
       ],
       "outlets": [
         "BBC News"
@@ -9228,24 +9272,6 @@
       ]
     },
     {
-      "id": "410bf655a08f",
-      "topic": "association call ches japanese",
-      "keywords": [
-        "association",
-        "call",
-        "ches",
-        "japanese",
-        "out",
-        "player"
-      ],
-      "item_ids": [
-        "fb7a6ee830d6"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "536b7a223ef6",
       "topic": "celebrity debate renew scandal",
       "keywords": [
@@ -9264,6 +9290,24 @@
       ]
     },
     {
+      "id": "410bf655a08f",
+      "topic": "association call ches japanese",
+      "keywords": [
+        "association",
+        "call",
+        "ches",
+        "japanese",
+        "out",
+        "player"
+      ],
+      "item_ids": [
+        "fb7a6ee830d6"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "ff4c135793c9",
       "topic": "become boycott country eurovision",
       "keywords": [
@@ -9276,24 +9320,6 @@
       ],
       "item_ids": [
         "a62701cbfb0d"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "3f5cafd3b74a",
-      "topic": "approve china countrie mexico",
-      "keywords": [
-        "approve",
-        "china",
-        "countrie",
-        "mexico",
-        "other",
-        "tariff"
-      ],
-      "item_ids": [
-        "25e0bca8ca82"
       ],
       "outlets": [
         "BBC News"
@@ -9464,6 +9490,24 @@
       ]
     },
     {
+      "id": "5111c4f3fc2f",
+      "topic": "concern lawmaker seizure tanker",
+      "keywords": [
+        "concern",
+        "lawmaker",
+        "seizure",
+        "tanker",
+        "venezuelan",
+        "voice"
+      ],
+      "item_ids": [
+        "93ed06ac101d"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "d1621000dbb2",
       "topic": "became enemie hasan hate",
       "keywords": [
@@ -9584,24 +9628,6 @@
       ],
       "item_ids": [
         "3872d1c65d98"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "537d4033a983",
-      "topic": "arrest birthday mass shooting",
-      "keywords": [
-        "arrest",
-        "birthday",
-        "mass",
-        "shooting",
-        "suspect",
-        "toddler"
-      ],
-      "item_ids": [
-        "a9b549b1c42b"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -11513,24 +11539,6 @@
       ]
     },
     {
-      "id": "089004f0f074",
-      "topic": "2026 busines forecast number",
-      "keywords": [
-        "2026",
-        "busines",
-        "forecast",
-        "number",
-        "official",
-        "report"
-      ],
-      "item_ids": [
-        "f6a4716fa942"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
       "id": "4100b6fa556c",
       "topic": "land projection stellar thanksgiving",
       "keywords": [
@@ -11549,24 +11557,6 @@
       ]
     },
     {
-      "id": "abb6a634b0f1",
-      "topic": "continue count holiday reign",
-      "keywords": [
-        "continue",
-        "count",
-        "holiday",
-        "reign",
-        "theater",
-        "wicked"
-      ],
-      "item_ids": [
-        "dcdb69a4205d"
-      ],
-      "outlets": [
-        "The Numbers"
-      ]
-    },
-    {
       "id": "0ef3cd2769f8",
       "topic": "150 good projection soar",
       "keywords": [
@@ -11579,6 +11569,60 @@
       ],
       "item_ids": [
         "0f357e48baa9"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "87d3679fb736",
+      "topic": "busines full number out",
+      "keywords": [
+        "busines",
+        "full",
+        "number",
+        "out",
+        "report",
+        "roll"
+      ],
+      "item_ids": [
+        "b22e7e3a48e1"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "826cfc1e2353",
+      "topic": "best opening prediction target",
+      "keywords": [
+        "best",
+        "opening",
+        "prediction",
+        "target",
+        "weekend",
+        "wicked"
+      ],
+      "item_ids": [
+        "9bd27e9cb2ff"
+      ],
+      "outlets": [
+        "The Numbers"
+      ]
+    },
+    {
+      "id": "683e45b155a3",
+      "topic": "count good onto theater",
+      "keywords": [
+        "count",
+        "good",
+        "onto",
+        "theater",
+        "twirl",
+        "wicked"
+      ],
+      "item_ids": [
+        "8820c287b772"
       ],
       "outlets": [
         "The Numbers"
