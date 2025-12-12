@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-12T10:04:42Z",
+  "generated_at": "2025-12-12T11:04:35Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -861,72 +861,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "1ffa0a90c4b8"
-    },
-    {
-      "id": "fc08905ff467",
-      "title": "Scientists Say the Forever Chemical TFA Could Cause Irreversible Harm. In Eastern North Carolina, It’s Everywhere.",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/10122025/north-carolina-tfa-forever-chemicals-chemours/",
-      "published_at": "Wed, 10 Dec 2025 10:00:00 +0000",
-      "bullets": [
-        "• Jane Hoppin, an environmental epidemiologist at N.C",
-        "• State University, wanted to learn if high concentrations of PFAS in the city’s drinking water were also present in donors’ blood",
-        "• She found TFA, a chemical industry has touted its toxicity as being ‘of lower concern,” because it breaks down quickly in the body "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jane Hoppin, an environmental epidemiologist at N.C",
-          "• State University, wanted to learn if high concentrations of PFAS in the city’s drinking water were also present in donors’ blood"
-        ],
-        "hopeful_bullets": [
-          "• Jane Hoppin, an environmental epidemiologist at N.C",
-          "• State University, wanted to learn if high concentrations of PFAS in the city’s drinking water were also present in donors’ blood"
-        ],
-        "stakes_bullets": [
-          "• She found TFA, a chemical industry has touted its toxicity as being ‘of lower concern,” because it breaks down quickly in the body "
-        ]
-      },
-      "read_minutes": 18,
-      "cluster_id": "d2e4c75cbde1"
-    },
-    {
-      "id": "2551447cfb33",
-      "title": "Gas Stoves Account For More Than Half of Some Americans’ Exposure to a Known Toxin, New Research Concludes",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/10122025/gas-stoves-nitrogen-dioxide-exposure/",
-      "published_at": "Wed, 10 Dec 2025 09:55:00 +0000",
-      "bullets": [
-        "• Gas stoves account for more than half of some Americans' exposure to nitrogen dioxide, a toxin linked to asthma",
-        "• The findings provide the first nationwide, community-level estimates of residential NO2 exposure",
-        "• NO2 can irritate airways and aggravate respiratory diseases, particularly asthma "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.921
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Gas stoves account for more than half of some Americans' exposure to nitrogen dioxide, a toxin linked to asthma",
-          "• The findings provide the first nationwide, community-level estimates of residential NO2 exposure"
-        ],
-        "hopeful_bullets": [
-          "• Gas stoves account for more than half of some Americans' exposure to nitrogen dioxide, a toxin linked to asthma",
-          "• The findings provide the first nationwide, community-level estimates of residential NO2 exposure"
-        ],
-        "stakes_bullets": [
-          "• Gas stoves account for more than half of some Americans' exposure to nitrogen dioxide, a toxin linked to asthma",
-          "• The findings provide the first nationwide, community-level estimates of residential NO2 exposure",
-          "• NO2 can irritate airways and aggravate respiratory diseases, particularly asthma "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "f70a24233b45"
     },
     {
       "id": "8b41c6de413e",
@@ -2338,6 +2272,40 @@
       "cluster_id": "b8a54ef8d733"
     },
     {
+      "id": "e2393b3562cc",
+      "title": "Costco tops Wall Street's sales and revenue expectations",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/11/costco-cost-earnings-q1-2026.html",
+      "published_at": "Thu, 11 Dec 2025 23:08:13 GMT",
+      "bullets": [
+        "• Costco posted year-over-year sales growth of 8.2% in its fiscal first quarter",
+        "• Digital sales jumped by 20.5% year over year",
+        "• Same-day delivery service offered through Instacart in the U.S",
+        "• and Uber and DoorDash internationally grew at a faster pace than overall digital sales "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.95
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Costco posted year-over-year sales growth of 8.2% in its fiscal first quarter",
+          "• Digital sales jumped by 20.5% year over year"
+        ],
+        "hopeful_bullets": [
+          "• Costco posted year-over-year sales growth of 8.2% in its fiscal first quarter"
+        ],
+        "stakes_bullets": [
+          "• Costco posted year-over-year sales growth of 8.2% in its fiscal first quarter",
+          "• Digital sales jumped by 20.5% year over year",
+          "• Same-day delivery service offered through Instacart in the U.S"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "68365408795e"
+    },
+    {
       "id": "e94ff0ccd516",
       "title": "Instead of fixing WoW’s new floating house exploit, Blizzard makes it official",
       "outlet": "Ars Technica - All content",
@@ -2369,6 +2337,41 @@
       },
       "read_minutes": 1,
       "cluster_id": "3d73896d8325"
+    },
+    {
+      "id": "96d2201753d8",
+      "title": "House passes INVEST Act to ease investment standards and boost capital in markets",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/11/house-invest-act-bill-markets.html",
+      "published_at": "Thu, 11 Dec 2025 23:01:27 GMT",
+      "bullets": [
+        "• The bill passed the House of Representatives on Thursday",
+        "• It would allow more investors to be able to invest in private markets",
+        "• It also would increase the number of people who can be accredited by the Securities and Exchange Commission",
+        "• The bill also would lift the cap on how much money can be invested by private investors "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The bill passed the House of Representatives on Thursday",
+          "• It would allow more investors to be able to invest in private markets"
+        ],
+        "hopeful_bullets": [
+          "• The bill passed the House of Representatives on Thursday",
+          "• It would allow more investors to be able to invest in private markets"
+        ],
+        "stakes_bullets": [
+          "• The bill passed the House of Representatives on Thursday",
+          "• It also would increase the number of people who can be accredited by the Securities and Exchange Commission",
+          "• The bill also would lift the cap on how much money can be invested by private investors "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d618bd00b07a"
     },
     {
       "id": "0f58da36b47b",
@@ -3101,6 +3104,37 @@
       "cluster_id": "dbed80c875c2"
     },
     {
+      "id": "5950e2615502",
+      "title": "The case for more Fed rate cuts could rest on a 'systematic overcount' of jobs numbers",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/11/case-for-more-fed-rate-cuts-could-rest-on-systemic-overcount-of-jobs.html",
+      "published_at": "Thu, 11 Dec 2025 19:50:52 GMT",
+      "bullets": [
+        "• Federal Reserve votes to lower key interest rate by a 9-3 margin",
+        "• Powell: \"Gradual cooling in the labor market has continued, just a touch more gradually than we thought\" An apparent overcounting of jobs numbers could give the Fed an edge heading into 2026 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Federal Reserve votes to lower key interest rate by a 9-3 margin",
+          "• Powell: \"Gradual cooling in the labor market has continued, just a touch more gradually than we thought\" An apparent overcounting of jobs numbers could give the Fed an edge heading into 2026 "
+        ],
+        "hopeful_bullets": [
+          "• Federal Reserve votes to lower key interest rate by a 9-3 margin",
+          "• Powell: \"Gradual cooling in the labor market has continued, just a touch more gradually than we thought\" An apparent overcounting of jobs numbers could give the Fed an edge heading into 2026 "
+        ],
+        "stakes_bullets": [
+          "• Powell: \"Gradual cooling in the labor market has continued, just a touch more gradually than we thought\" An apparent overcounting of jobs numbers could give the Fed an edge heading into 2026 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ba33ba8dfe6f"
+    },
+    {
       "id": "ed7adea9b2f4",
       "title": "Kelly Clarkson Will Open NFL Christmas Gameday With ‘Underneath the Tree’",
       "outlet": "Music News",
@@ -3133,38 +3167,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "d05fd65abcef"
-    },
-    {
-      "id": "963fc95cf5c0",
-      "title": "US’s polarization affecting military ability to remain apolitical, says former joint chiefs chair",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/11/us-polarization-military-politics",
-      "published_at": "Thu, 11 Dec 2025 19:40:17 GMT",
-      "bullets": [
-        "• Former chairman of the joint chiefs of staff calls political environment 'challenging' and 'most dangerous time' in his memory",
-        "• Mullen: 'Very few individuals [in the military] are ready to be part of the political world, honestly, including myself'"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Former chairman of the joint chiefs of staff calls political environment 'challenging' and 'most dangerous time' in his memory",
-          "• Mullen: 'Very few individuals [in the military] are ready to be part of the political world, honestly, including myself'"
-        ],
-        "hopeful_bullets": [
-          "• Former chairman of the joint chiefs of staff calls political environment 'challenging' and 'most dangerous time' in his memory",
-          "• Mullen: 'Very few individuals [in the military] are ready to be part of the political world, honestly, including myself'"
-        ],
-        "stakes_bullets": [
-          "• Former chairman of the joint chiefs of staff calls political environment 'challenging' and 'most dangerous time' in his memory",
-          "• Mullen: 'Very few individuals [in the military] are ready to be part of the political world, honestly, including myself'"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "c88db3daec8e"
     },
     {
       "id": "a8aec29241c5",
@@ -3370,37 +3372,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "6355cfe1472f"
-    },
-    {
-      "id": "8492d9e33e1c",
-      "title": "Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People’s Private Data",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/",
-      "published_at": "Thu, 11 Dec 2025 18:54:50 +0000",
-      "bullets": [
-        "• Jacksonville Sheriff’s Office received an emergency data request via email from a hacking group",
-        "• It took just minutes to respond, with the name, home address, phone numbers, and email address of the “target” It was sent by a member of a group that provides doing-as-a-service to customers willing to pay for highly sensitive personal data held by tech companies "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jacksonville Sheriff’s Office received an emergency data request via email from a hacking group",
-          "• It took just minutes to respond, with the name, home address, phone numbers, and email address of the “target” It was sent by a member of a group that provides doing-as-a-service to customers willing to pay for highly sensitive personal data held by tech companies "
-        ],
-        "hopeful_bullets": [
-          "• Jacksonville Sheriff’s Office received an emergency data request via email from a hacking group",
-          "• It took just minutes to respond, with the name, home address, phone numbers, and email address of the “target” It was sent by a member of a group that provides doing-as-a-service to customers willing to pay for highly sensitive personal data held by tech companies "
-        ],
-        "stakes_bullets": [
-          "• It took just minutes to respond, with the name, home address, phone numbers, and email address of the “target” It was sent by a member of a group that provides doing-as-a-service to customers willing to pay for highly sensitive personal data held by tech companies "
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "71051af72298"
     },
     {
       "id": "c737c745b44a",
@@ -4191,37 +4162,6 @@
       "cluster_id": "f041e9453670"
     },
     {
-      "id": "aeee27b344e0",
-      "title": "Walton family fortune: How America's richest family manages their wealth",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/11/walton-fortune-family-offices.html",
-      "published_at": "Thu, 11 Dec 2025 15:57:58 GMT",
-      "bullets": [
-        "• Walmart stock has soared 25% this year, putting America's largest retailer on track to a $1 trillion market cap",
-        "• At the center of the windfall is the Walton family, worth $482 billion by Bloomberg's estimate",
-        "• None of the Waltons work directly for the retailer, though one serves on Walmart's board "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Walmart stock has soared 25% this year, putting America's largest retailer on track to a $1 trillion market cap",
-          "• At the center of the windfall is the Walton family, worth $482 billion by Bloomberg's estimate"
-        ],
-        "hopeful_bullets": [
-          "• At the center of the windfall is the Walton family, worth $482 billion by Bloomberg's estimate"
-        ],
-        "stakes_bullets": [
-          "• At the center of the windfall is the Walton family, worth $482 billion by Bloomberg's estimate"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "dc50d7818c91"
-    },
-    {
       "id": "bd6b0680e7da",
       "title": "Watch Charli XCX Hide Inside a Giant Lighter in New The Moment Trailer",
       "outlet": "RSS: News",
@@ -4325,73 +4265,6 @@
       "cluster_id": "7846ebed6e8a"
     },
     {
-      "id": "7b0f18003335",
-      "title": "Billion-dollar OpenAI deal allows users to make content with Disney characters",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/11/nx-s1-5640837/disney-openai-sora-deal",
-      "published_at": "Thu, 11 Dec 2025 14:22:56 -0500",
-      "bullets": [
-        "• Disney has reached a three-year licensing agreement with artificial intelligence company OpenAI",
-        "• Disney will invest $1 billion into OpenAI and become a \"major customer\" of the company",
-        "• The agreement does not include any talent likeness or voices",
-        "• Fairplay, the non-profit advocacy group says the deal \"betrays kids\""
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Disney has reached a three-year licensing agreement with artificial intelligence company OpenAI",
-          "• Disney will invest $1 billion into OpenAI and become a \"major customer\" of the company"
-        ],
-        "hopeful_bullets": [
-          "• Disney has reached a three-year licensing agreement with artificial intelligence company OpenAI",
-          "• Disney will invest $1 billion into OpenAI and become a \"major customer\" of the company"
-        ],
-        "stakes_bullets": [
-          "• Disney will invest $1 billion into OpenAI and become a \"major customer\" of the company"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "f44a0eb94730"
-    },
-    {
-      "id": "206addfec0fb",
-      "title": "The State Department reinstates an old font, in a typeface about-face",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/11/nx-s1-5640715/state-department-font-times-new-roman-calibri",
-      "published_at": "Thu, 11 Dec 2025 14:19:01 -0500",
-      "bullets": [
-        "• The State Department reinstates an old font, in a typeface about-face",
-        "• Times New Roman had been the State Department's official font for nearly two decades, from 2004 until 2023",
-        "• Calibri is a sans serif font, meaning it doesn't have decorative tops and tails at the ends of letters "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The State Department reinstates an old font, in a typeface about-face",
-          "• Times New Roman had been the State Department's official font for nearly two decades, from 2004 until 2023"
-        ],
-        "hopeful_bullets": [
-          "• The State Department reinstates an old font, in a typeface about-face",
-          "• Times New Roman had been the State Department's official font for nearly two decades, from 2004 until 2023"
-        ],
-        "stakes_bullets": [
-          "• The State Department reinstates an old font, in a typeface about-face",
-          "• Times New Roman had been the State Department's official font for nearly two decades, from 2004 until 2023",
-          "• Calibri is a sans serif font, meaning it doesn't have decorative tops and tails at the ends of letters "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "658a2fe46fc7"
-    },
-    {
       "id": "e66ea228dbec",
       "title": "Review: DUST BUNNY is a Delightful Action-Horror Romp",
       "outlet": "Daily Dead",
@@ -4423,72 +4296,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "034d1911ccdb"
-    },
-    {
-      "id": "598304a210fc",
-      "title": "U.S. and Japan flex military muscles in a show of force amid Tokyo's feud with Beijing",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/11/g-s1-101702/us-japan-military-china-tensions",
-      "published_at": "Thu, 11 Dec 2025 13:12:12 -0500",
-      "bullets": [
-        "• U.S",
-        "• and Japan flex military muscles in a show of force amid Tokyo's feud with Beijing",
-        "• The drills included two B-52 strategic bombers and six Japanese F-35 and F-15 fighter jets",
-        "• This follows joint drills by Chinese and Russian bombers and fighters on Tuesday "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• and Japan flex military muscles in a show of force amid Tokyo's feud with Beijing"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• and Japan flex military muscles in a show of force amid Tokyo's feud with Beijing"
-        ],
-        "stakes_bullets": [
-          "• U.S",
-          "• and Japan flex military muscles in a show of force amid Tokyo's feud with Beijing",
-          "• The drills included two B-52 strategic bombers and six Japanese F-35 and F-15 fighter jets"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "20a344205899"
-    },
-    {
-      "id": "8d8c97471458",
-      "title": "Farmers welcome Trump's $12 billion aid package, say additional relief is needed",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/11/nx-s1-5640049/farmers-welcome-trumps-12-billion-aid-package-say-additional-relief-is-needed",
-      "published_at": "Thu, 11 Dec 2025 12:52:58 -0500",
-      "bullets": [
-        "• Farmers welcome $12 billion aid package, say additional relief is needed",
-        "• But there's evidence that his trade policies are a big reason many farmers aren't profitable this year",
-        "• The Chinese market evaporated as prices farmers pay for fertilizer and other products have been rising sharply "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Farmers welcome $12 billion aid package, say additional relief is needed",
-          "• But there's evidence that his trade policies are a big reason many farmers aren't profitable this year"
-        ],
-        "hopeful_bullets": [
-          "• Farmers welcome $12 billion aid package, say additional relief is needed"
-        ],
-        "stakes_bullets": [
-          "• Farmers welcome $12 billion aid package, say additional relief is needed"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "333ac429662c"
     },
     {
       "id": "c0119e0c674c",
@@ -4820,73 +4627,6 @@
       "cluster_id": "f10aac51ac9f"
     },
     {
-      "id": "7f2926b5ae76",
-      "title": "Senate to vote on 2 health care proposals. And, the latest U.S. move against Venezuela",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/11/g-s1-101694/up-first-newsletter-aca-vote-federal-reserve-interest-rates-venezuela",
-      "published_at": "Thu, 11 Dec 2025 07:14:51 -0500",
-      "bullets": [
-        "• Senate to vote on 2 health care proposals",
-        "• Some House Republicans want to force a vote to extend subsidies for the Affordable Care Act",
-        "• Polling suggests that the enhanced subsidies are quite popular across party lines, NPR's Selena Simmons-Duffin says "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.551
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Senate to vote on 2 health care proposals",
-          "• Some House Republicans want to force a vote to extend subsidies for the Affordable Care Act"
-        ],
-        "hopeful_bullets": [
-          "• Senate to vote on 2 health care proposals",
-          "• Some House Republicans want to force a vote to extend subsidies for the Affordable Care Act"
-        ],
-        "stakes_bullets": [
-          "• Senate to vote on 2 health care proposals",
-          "• Some House Republicans want to force a vote to extend subsidies for the Affordable Care Act",
-          "• Polling suggests that the enhanced subsidies are quite popular across party lines, NPR's Selena Simmons-Duffin says "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "6c38df3bf7e6"
-    },
-    {
-      "id": "279a08db6ec4",
-      "title": "Senate to vote on competing health care proposals as ACA subsidies deadline approaches",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/11/nx-s1-5639982/senate-to-vote-on-competing-health-care-proposals-as-aca-subsidies-deadline-approaches",
-      "published_at": "Thu, 11 Dec 2025 06:51:42 -0500",
-      "bullets": [
-        "• Senate to vote on competing health care proposals as ACA subsidies deadline approaches",
-        "• House Republicans want to force a vote that would extend Obamacare health insurance subsidies that are set to expire in less than three weeks",
-        "• Senators today consider two health policy plans aimed at reducing health care costs for those who buy their insurance on HealthCare.gov "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.889
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Senate to vote on competing health care proposals as ACA subsidies deadline approaches",
-          "• House Republicans want to force a vote that would extend Obamacare health insurance subsidies that are set to expire in less than three weeks"
-        ],
-        "hopeful_bullets": [
-          "• Senate to vote on competing health care proposals as ACA subsidies deadline approaches",
-          "• House Republicans want to force a vote that would extend Obamacare health insurance subsidies that are set to expire in less than three weeks"
-        ],
-        "stakes_bullets": [
-          "• Senate to vote on competing health care proposals as ACA subsidies deadline approaches",
-          "• Senators today consider two health policy plans aimed at reducing health care costs for those who buy their insurance on HealthCare.gov "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6c38df3bf7e6"
-    },
-    {
       "id": "31f14de5269c",
       "title": "Fire-making materials at 400,000-year-old site are the oldest evidence of humans making fire",
       "outlet": "NPR Topics: Science",
@@ -5148,37 +4888,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "2301c1616146"
-    },
-    {
-      "id": "56836a6bfb39",
-      "title": "This High Arctic rhino may change what we know about ancient animal migrations",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/04/nx-s1-5630889/high-arctic-rhino-hornless-canada-land-bridge",
-      "published_at": "Thu, 04 Dec 2025 06:00:00 -0500",
-      "bullets": [
-        "• Epiatheracerium itjilik is the northernmost rhino known to have ever walked the planet",
-        "• It's already reshaping scientists' understanding of when many ancient animals spread across the continents",
-        "• The fossil record suggests that in the past, well over 50 species may have walked the Earth "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Epiatheracerium itjilik is the northernmost rhino known to have ever walked the planet",
-          "• It's already reshaping scientists' understanding of when many ancient animals spread across the continents"
-        ],
-        "hopeful_bullets": [
-          "• The fossil record suggests that in the past, well over 50 species may have walked the Earth "
-        ],
-        "stakes_bullets": [
-          "• Epiatheracerium itjilik is the northernmost rhino known to have ever walked the planet"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "b980485ae562"
     },
     {
       "id": "b72963244510",
@@ -6212,11 +5921,11 @@
       "title": "AI-led tech slide extends into third day as Oracle, Nvidia, fall in premarket trading",
       "outlet": "US Top News and Analysis",
       "url": "https://www.cnbc.com/2025/12/12/ai-led-tech-slide-extends-as-oracle-nvidia-down-in-premarket-trading.html",
-      "published_at": "Fri, 12 Dec 2025 09:36:08 GMT",
+      "published_at": "Fri, 12 Dec 2025 10:30:48 GMT",
       "bullets": [
-        "• Oracle was 1.3% lower in premarket trading, Nvidia and Micron fell 0.9%, and CoreWeave was down 1.4% at 4:30 a.m",
-        "• ET",
-        "• The share price of cloud computing and database software maker Oracle plummeted on Thursday after revenue earnings missed analyst expectations "
+        "• Oracle was 0.9% lower in premarket trading, paring earlier losses which saw it fall 1.3%",
+        "• Broadcom, which reported a strong quarter on Thursday, was last seen down 5%",
+        "• It dragged other AI-related names down with it despite a record-breaking rally elsewhere on Wall Street "
       ],
       "category": "Business",
       "sentiment": {
@@ -6225,21 +5934,151 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Oracle was 1.3% lower in premarket trading, Nvidia and Micron fell 0.9%, and CoreWeave was down 1.4% at 4:30 a.m",
-          "• ET"
+          "• Oracle was 0.9% lower in premarket trading, paring earlier losses which saw it fall 1.3%",
+          "• Broadcom, which reported a strong quarter on Thursday, was last seen down 5%"
         ],
         "hopeful_bullets": [
-          "• Oracle was 1.3% lower in premarket trading, Nvidia and Micron fell 0.9%, and CoreWeave was down 1.4% at 4:30 a.m",
-          "• ET"
+          "• Broadcom, which reported a strong quarter on Thursday, was last seen down 5%",
+          "• It dragged other AI-related names down with it despite a record-breaking rally elsewhere on Wall Street "
         ],
         "stakes_bullets": [
-          "• Oracle was 1.3% lower in premarket trading, Nvidia and Micron fell 0.9%, and CoreWeave was down 1.4% at 4:30 a.m",
-          "• ET",
-          "• The share price of cloud computing and database software maker Oracle plummeted on Thursday after revenue earnings missed analyst expectations "
+          "• Oracle was 0.9% lower in premarket trading, paring earlier losses which saw it fall 1.3%",
+          "• Broadcom, which reported a strong quarter on Thursday, was last seen down 5%",
+          "• It dragged other AI-related names down with it despite a record-breaking rally elsewhere on Wall Street "
         ]
       },
       "read_minutes": 1,
       "cluster_id": "ba301001d04f"
+    },
+    {
+      "id": "0c48bf09ac92",
+      "title": "Trump officials ‘conspiring to illegally intimidate’ non-citizens via new VA report, lawmakers say",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/12/veterans-affairs-homeland-security-data-report",
+      "published_at": "Fri, 12 Dec 2025 10:00:33 GMT",
+      "bullets": [
+        "• More than 20 members of Congress are demanding answers from the Department of Veterans Affairs",
+        "• The letter will “seed fear in noncitizens who perform duties in service to the nation’s veterans’ interests” The letter is expected to be finalized this month "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.98
+      },
+      "moods": {
+        "brief_bullets": [
+          "• More than 20 members of Congress are demanding answers from the Department of Veterans Affairs",
+          "• The letter will “seed fear in noncitizens who perform duties in service to the nation’s veterans’ interests” The letter is expected to be finalized this month "
+        ],
+        "hopeful_bullets": [
+          "• More than 20 members of Congress are demanding answers from the Department of Veterans Affairs",
+          "• The letter will “seed fear in noncitizens who perform duties in service to the nation’s veterans’ interests” The letter is expected to be finalized this month "
+        ],
+        "stakes_bullets": [
+          "• The letter will “seed fear in noncitizens who perform duties in service to the nation’s veterans’ interests” The letter is expected to be finalized this month "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "8e0a09984ceb"
+    },
+    {
+      "id": "ce0d3c57ee38",
+      "title": "The Best Meteor Shower of the Year Is Coming—Here’s How to Watch",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/how-to-watch-the-geminids-meteor-shower/",
+      "published_at": "Fri, 12 Dec 2025 10:00:00 +0000",
+      "bullets": [
+        "• The Geminids are active from about December 4 to December 17, peaking overnight from December 13 to December 14",
+        "• They have a sharp peak, so the night of the 13th is the best time for skywatching",
+        "• This is just one of nine major meteor showers that grace skies throughout the year "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Geminids are active from about December 4 to December 17, peaking overnight from December 13 to December 14",
+          "• They have a sharp peak, so the night of the 13th is the best time for skywatching"
+        ],
+        "hopeful_bullets": [
+          "• The Geminids are active from about December 4 to December 17, peaking overnight from December 13 to December 14",
+          "• They have a sharp peak, so the night of the 13th is the best time for skywatching"
+        ],
+        "stakes_bullets": [
+          "• The Geminids are active from about December 4 to December 17, peaking overnight from December 13 to December 14",
+          "• They have a sharp peak, so the night of the 13th is the best time for skywatching",
+          "• This is just one of nine major meteor showers that grace skies throughout the year "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "4306fdf131b1"
+    },
+    {
+      "id": "d7423488b803",
+      "title": "Sharks and Rays Gain Landmark Protections as Nations Move to Curb International Trade",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/12122025/sharks-rays-landmark-protection-against-international-trade/",
+      "published_at": "Fri, 12 Dec 2025 10:00:00 +0000",
+      "bullets": [
+        "• More than 70 shark and ray species, including oceanic whitetip sharks, whale sharks and manta rays, received new safeguards under the Convention on International Trade in Endangered Species of Wild Fauna and Flora",
+        "• The convention, known as CITES, requires countries to regulate or prohibit international trade in species whose survival is threatened "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• More than 70 shark and ray species, including oceanic whitetip sharks, whale sharks and manta rays, received new safeguards under the Convention on International Trade in Endangered Species of Wild Fauna and Flora",
+          "• The convention, known as CITES, requires countries to regulate or prohibit international trade in species whose survival is threatened "
+        ],
+        "hopeful_bullets": [
+          "• More than 70 shark and ray species, including oceanic whitetip sharks, whale sharks and manta rays, received new safeguards under the Convention on International Trade in Endangered Species of Wild Fauna and Flora",
+          "• The convention, known as CITES, requires countries to regulate or prohibit international trade in species whose survival is threatened "
+        ],
+        "stakes_bullets": [
+          "• The convention, known as CITES, requires countries to regulate or prohibit international trade in species whose survival is threatened "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "4405da5bf9fe"
+    },
+    {
+      "id": "8e2a085da8bd",
+      "title": "Gaza Faces Another Catastrophic Winter as Environmental and Humanitarian Devastation Mount",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/12122025/gaza-catastrophic-winter-amid-environmental-humanitarian-devastation/",
+      "published_at": "Fri, 12 Dec 2025 09:55:00 +0000",
+      "bullets": [
+        "• Rajaa Musleh, a nurse and humanitarian worker, evacuated from Gaza to Cairo last year",
+        "• Her 75-year-old mother and other family members are still in Gaza, where they face constant dangers",
+        "• Israel has killed more than 70,000 Palestinians over the past two years and two months, according to official estimates "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rajaa Musleh, a nurse and humanitarian worker, evacuated from Gaza to Cairo last year",
+          "• Her 75-year-old mother and other family members are still in Gaza, where they face constant dangers"
+        ],
+        "hopeful_bullets": [
+          "• Rajaa Musleh, a nurse and humanitarian worker, evacuated from Gaza to Cairo last year",
+          "• Her 75-year-old mother and other family members are still in Gaza, where they face constant dangers"
+        ],
+        "stakes_bullets": [
+          "• Rajaa Musleh, a nurse and humanitarian worker, evacuated from Gaza to Cairo last year",
+          "• Her 75-year-old mother and other family members are still in Gaza, where they face constant dangers",
+          "• Israel has killed more than 70,000 Palestinians over the past two years and two months, according to official estimates "
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "63cee47c1d39"
     },
     {
       "id": "810b6959c7e5",
@@ -6373,41 +6212,6 @@
       "cluster_id": "1638cebca544"
     },
     {
-      "id": "27db693a1bc6",
-      "title": "UK economy unexpectedly shrunk before Budget",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/12/uk-economy-unexpectedly-shrinks-in-3-months-to-october.html",
-      "published_at": "Fri, 12 Dec 2025 07:51:05 GMT",
-      "bullets": [
-        "• The U.K",
-        "• economy unexpectedly contracted 0.1% in the three months to October",
-        "• Economists had expected 0% growth over the period",
-        "• Services output stalled, construction output fell and production output fell 0.5%",
-        "• The Bank of England's Monetary Policy Committee will meet on Dec"
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The U.K",
-          "• economy unexpectedly contracted 0.1% in the three months to October"
-        ],
-        "hopeful_bullets": [
-          "• Economists had expected 0% growth over the period"
-        ],
-        "stakes_bullets": [
-          "• economy unexpectedly contracted 0.1% in the three months to October",
-          "• Economists had expected 0% growth over the period",
-          "• The Bank of England's Monetary Policy Committee will meet on Dec"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "cddc3d47db1d"
-    },
-    {
       "id": "1049949438ee",
       "title": "Lenny Kravitz To Play Bond Villain in ‘007: First Light’ Video Game",
       "outlet": "Music News",
@@ -6505,7 +6309,7 @@
           "• Alyssa Tapley, 13, from Leicestershire, was the first in the world to receive the treatment "
         ]
       },
-      "read_minutes": 7,
+      "read_minutes": 8,
       "cluster_id": "a1551df30f82"
     },
     {
@@ -6773,14 +6577,14 @@
     },
     {
       "id": "0fac633a30af",
-      "title": "Flood misery for Gazans awaiting next stage of peace plan",
+      "title": "Trump's Gaza peace plan struggles to progress as Israel and Hamas face tough choices",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss",
       "published_at": "Fri, 12 Dec 2025 05:43:02 GMT",
       "bullets": [
-        "• Heavy rain has already deluged camps and led several buildings to collapse",
-        "• Two months into an American-imposed ceasefire, Gaza is stuck in the first phase of Donald Trump's peace plan",
-        "• The search continues for Israel's last missing hostage, Ran Gvili "
+        "• Trump's Gaza peace plan struggles to progress as Israel and Hamas face tough choices",
+        "• Heavy rain has deluged camps and led several buildings to collapse, as a powerful winter storm sweeps through the Strip",
+        "• Two months into an American-imposed ceasefire, Gaza is stuck in the first phase of the peace plan "
       ],
       "category": "World",
       "sentiment": {
@@ -6789,19 +6593,20 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Heavy rain has already deluged camps and led several buildings to collapse",
-          "• Two months into an American-imposed ceasefire, Gaza is stuck in the first phase of Donald Trump's peace plan"
+          "• Trump's Gaza peace plan struggles to progress as Israel and Hamas face tough choices",
+          "• Heavy rain has deluged camps and led several buildings to collapse, as a powerful winter storm sweeps through the Strip"
         ],
         "hopeful_bullets": [
-          "• Heavy rain has already deluged camps and led several buildings to collapse",
-          "• Two months into an American-imposed ceasefire, Gaza is stuck in the first phase of Donald Trump's peace plan"
+          "• Trump's Gaza peace plan struggles to progress as Israel and Hamas face tough choices",
+          "• Heavy rain has deluged camps and led several buildings to collapse, as a powerful winter storm sweeps through the Strip"
         ],
         "stakes_bullets": [
-          "• Two months into an American-imposed ceasefire, Gaza is stuck in the first phase of Donald Trump's peace plan"
+          "• Trump's Gaza peace plan struggles to progress as Israel and Hamas face tough choices",
+          "• Two months into an American-imposed ceasefire, Gaza is stuck in the first phase of the peace plan "
         ]
       },
       "read_minutes": 5,
-      "cluster_id": "52aaac4b794e"
+      "cluster_id": "ed20f5785bd2"
     },
     {
       "id": "d8f43a4fd4ad",
@@ -6900,6 +6705,39 @@
       "cluster_id": "e2c498ccd59c"
     },
     {
+      "id": "7e240503acae",
+      "title": "For 50 years, Rockalina the turtle lived on a kitchen floor. Now she has a new friend",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/12/nx-s1-5639989/rockalina-box-turtle-friend",
+      "published_at": "Fri, 12 Dec 2025 05:01:00 -0500",
+      "bullets": [
+        "• Rockalina the turtle was rescued after nearly a half-century of neglect",
+        "• She was taken from the wild in the 1970s by a New York boy",
+        "• She survived on a linoleum kitchen floor, her legs entangled in cat hair, her claws bent upward",
+        "• An Oreo-sized baby turtle will be her new friend "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rockalina the turtle was rescued after nearly a half-century of neglect",
+          "• She was taken from the wild in the 1970s by a New York boy"
+        ],
+        "hopeful_bullets": [
+          "• Rockalina the turtle was rescued after nearly a half-century of neglect",
+          "• She was taken from the wild in the 1970s by a New York boy"
+        ],
+        "stakes_bullets": [
+          "• An Oreo-sized baby turtle will be her new friend "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "3245d84bd17c"
+    },
+    {
       "id": "fd9ed89dc3e3",
       "title": "Health and safety rules holding UK infrastructure back, says writer of government report",
       "outlet": "Environment | The Guardian",
@@ -6931,6 +6769,73 @@
       },
       "read_minutes": 3,
       "cluster_id": "1870dbd95a23"
+    },
+    {
+      "id": "e22d7cd443a2",
+      "title": "U.S. military members fear personal legal blowback tied to boat strikes",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/12/nx-s1-5629164/boat-strikes-service-members-legal-risk",
+      "published_at": "Fri, 12 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• U.S",
+        "• military members fear personal legal blowback tied to boat strikes on suspected drug boats",
+        "• Administration says it is taking action to stop the flow of drugs into the United States",
+        "• Many legal experts say the strikes against alleged civilian narcotraffickers are unlawful and amount to murder "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• military members fear personal legal blowback tied to boat strikes on suspected drug boats"
+        ],
+        "hopeful_bullets": [
+          "• Many legal experts say the strikes against alleged civilian narcotraffickers are unlawful and amount to murder "
+        ],
+        "stakes_bullets": [
+          "• U.S",
+          "• military members fear personal legal blowback tied to boat strikes on suspected drug boats",
+          "• Administration says it is taking action to stop the flow of drugs into the United States"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "a41011789b25"
+    },
+    {
+      "id": "c9d1cbe303aa",
+      "title": "Trump struggles to find his economic messaging amid voter skepticism",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/12/nx-s1-5639903/trump-economic-messaging",
+      "published_at": "Fri, 12 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• President Trump is trying to convince Americans that the cost of living in the U.S",
+        "• isn't real",
+        "• The White House has a $12 billion budget for the next two years",
+        "• The president has been criticized for being out-of-touch with voters "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Trump is trying to convince Americans that the cost of living in the U.S",
+          "• isn't real"
+        ],
+        "hopeful_bullets": [
+          "• President Trump is trying to convince Americans that the cost of living in the U.S",
+          "• isn't real"
+        ],
+        "stakes_bullets": [
+          "• The White House has a $12 billion budget for the next two years"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "526278ff72bd"
     },
     {
       "id": "4ce2d56fca51",
@@ -7486,40 +7391,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "5b1d10d65d19"
-    },
-    {
-      "id": "7f6340348572",
-      "title": "CNBC's Inside India newsletter: India's $3.3 trillion opportunity for global fund houses",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/11/cnbcs-inside-india-newsletter-indias-3point3-trillion-opportunity-for-global-fund-houses-.html",
-      "published_at": "Fri, 12 Dec 2025 02:40:10 GMT",
-      "bullets": [
-        "• The growing pool of investors in India is attracting global attention — and renewed interest from fund houses",
-        "• Global companies, from the U.S",
-        "• to South Korea, are looking to list their Indian business units",
-        "• India's individual mutual fund assets are less than 15% of its GDP, compared to 80% for mature economies "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.955
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The growing pool of investors in India is attracting global attention — and renewed interest from fund houses",
-          "• Global companies, from the U.S"
-        ],
-        "hopeful_bullets": [
-          "• The growing pool of investors in India is attracting global attention — and renewed interest from fund houses"
-        ],
-        "stakes_bullets": [
-          "• The growing pool of investors in India is attracting global attention — and renewed interest from fund houses",
-          "• Global companies, from the U.S",
-          "• to South Korea, are looking to list their Indian business units"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "fc930ddab0cf"
     },
     {
       "id": "4b0bdb963c77",
@@ -9127,15 +8998,15 @@
   ],
   "clusters": [
     {
-      "id": "52aaac4b794e",
-      "topic": "awaiting flood gazan misery",
+      "id": "ed20f5785bd2",
+      "topic": "gaza peace plan progres",
       "keywords": [
-        "awaiting",
-        "flood",
-        "gazan",
-        "misery",
-        "next",
-        "stage"
+        "gaza",
+        "peace",
+        "plan",
+        "progres",
+        "struggle",
+        "trump"
       ],
       "item_ids": [
         "0fac633a30af"
@@ -9488,6 +9359,24 @@
       ]
     },
     {
+      "id": "8e0a09984ceb",
+      "topic": "conspiring illegally intimidate non",
+      "keywords": [
+        "conspiring",
+        "illegally",
+        "intimidate",
+        "non",
+        "official",
+        "trump"
+      ],
+      "item_ids": [
+        "0c48bf09ac92"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "041a73771148",
       "topic": "glance meeting president sick",
       "keywords": [
@@ -9632,21 +9521,57 @@
       ]
     },
     {
-      "id": "c88db3daec8e",
-      "topic": "ability affecting apolitical military",
+      "id": "3245d84bd17c",
+      "topic": "floor kitchen lived rockalina",
       "keywords": [
-        "ability",
-        "affecting",
-        "apolitical",
-        "military",
-        "polarization",
-        "remain"
+        "floor",
+        "kitchen",
+        "lived",
+        "rockalina",
+        "turtle",
+        "year"
       ],
       "item_ids": [
-        "963fc95cf5c0"
+        "7e240503acae"
       ],
       "outlets": [
-        "US news | The Guardian"
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "a41011789b25",
+      "topic": "blowback fear legal member",
+      "keywords": [
+        "blowback",
+        "fear",
+        "legal",
+        "member",
+        "military",
+        "personal"
+      ],
+      "item_ids": [
+        "e22d7cd443a2"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "526278ff72bd",
+      "topic": "economic find messaging struggle",
+      "keywords": [
+        "economic",
+        "find",
+        "messaging",
+        "struggle",
+        "trump",
+        "voter"
+      ],
+      "item_ids": [
+        "c9d1cbe303aa"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9740,78 +9665,6 @@
       ]
     },
     {
-      "id": "f44a0eb94730",
-      "topic": "allow billion deal dollar",
-      "keywords": [
-        "allow",
-        "billion",
-        "deal",
-        "dollar",
-        "openai",
-        "user"
-      ],
-      "item_ids": [
-        "7b0f18003335"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "658a2fe46fc7",
-      "topic": "department font old reinstate",
-      "keywords": [
-        "department",
-        "font",
-        "old",
-        "reinstate",
-        "state",
-        "typeface"
-      ],
-      "item_ids": [
-        "206addfec0fb"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "20a344205899",
-      "topic": "flex force japan military",
-      "keywords": [
-        "flex",
-        "force",
-        "japan",
-        "military",
-        "muscle",
-        "show"
-      ],
-      "item_ids": [
-        "598304a210fc"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "333ac429662c",
-      "topic": "aid billion farmer package",
-      "keywords": [
-        "aid",
-        "billion",
-        "farmer",
-        "package",
-        "trump",
-        "welcome"
-      ],
-      "item_ids": [
-        "8d8c97471458"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "ba301001d04f",
       "topic": "day extend led slide",
       "keywords": [
@@ -9824,42 +9677,6 @@
       ],
       "item_ids": [
         "e6ae02c8e09f"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "310317a15b77",
-      "topic": "altman launched musk nonprofit",
-      "keywords": [
-        "altman",
-        "launched",
-        "musk",
-        "nonprofit",
-        "openai",
-        "year"
-      ],
-      "item_ids": [
-        "0f71a7d24133"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "129b8ca14d6b",
-      "topic": "europe national scared security",
-      "keywords": [
-        "europe",
-        "national",
-        "scared",
-        "security",
-        "strategy",
-        "trump"
-      ],
-      "item_ids": [
-        "d8f43a4fd4ad"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9884,23 +9701,6 @@
       ]
     },
     {
-      "id": "cddc3d47db1d",
-      "topic": "before budget economy shrunk",
-      "keywords": [
-        "before",
-        "budget",
-        "economy",
-        "shrunk",
-        "unexpectedly"
-      ],
-      "item_ids": [
-        "27db693a1bc6"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "c9fc233c5d6d",
       "topic": "beat broadcom chip earning",
       "keywords": [
@@ -9919,18 +9719,54 @@
       ]
     },
     {
-      "id": "fc930ddab0cf",
-      "topic": "cnbc india inside newsletter",
+      "id": "ba33ba8dfe6f",
+      "topic": "case cuts fed rate",
       "keywords": [
-        "cnbc",
-        "india",
-        "inside",
-        "newsletter",
-        "opportunity",
-        "trillion"
+        "case",
+        "cuts",
+        "fed",
+        "rate",
+        "rest",
+        "systematic"
       ],
       "item_ids": [
-        "7f6340348572"
+        "5950e2615502"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "129b8ca14d6b",
+      "topic": "europe national scared security",
+      "keywords": [
+        "europe",
+        "national",
+        "scared",
+        "security",
+        "strategy",
+        "trump"
+      ],
+      "item_ids": [
+        "d8f43a4fd4ad"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "68365408795e",
+      "topic": "costco revenue sale street",
+      "keywords": [
+        "costco",
+        "revenue",
+        "sale",
+        "street",
+        "tops",
+        "wall"
+      ],
+      "item_ids": [
+        "e2393b3562cc"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9955,18 +9791,36 @@
       ]
     },
     {
-      "id": "dc50d7818c91",
-      "topic": "america family fortune manage",
+      "id": "d618bd00b07a",
+      "topic": "act ease house invest",
       "keywords": [
-        "america",
-        "family",
-        "fortune",
-        "manage",
-        "richest",
-        "walton"
+        "act",
+        "ease",
+        "house",
+        "invest",
+        "investment",
+        "passe"
       ],
       "item_ids": [
-        "aeee27b344e0"
+        "96d2201753d8"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "310317a15b77",
+      "topic": "altman launched musk nonprofit",
+      "keywords": [
+        "altman",
+        "launched",
+        "musk",
+        "nonprofit",
+        "openai",
+        "year"
+      ],
+      "item_ids": [
+        "0f71a7d24133"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9988,6 +9842,24 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "4306fdf131b1",
+      "topic": "best coming here meteor",
+      "keywords": [
+        "best",
+        "coming",
+        "here",
+        "meteor",
+        "shower",
+        "year"
+      ],
+      "item_ids": [
+        "ce0d3c57ee38"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10147,24 +10019,6 @@
       ],
       "item_ids": [
         "0baa7fc41fdf"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "71051af72298",
-      "topic": "big cops doxer posing",
-      "keywords": [
-        "big",
-        "cops",
-        "doxer",
-        "posing",
-        "tech",
-        "tricking"
-      ],
-      "item_ids": [
-        "8492d9e33e1c"
       ],
       "outlets": [
         "WIRED"
@@ -10840,24 +10694,6 @@
       ]
     },
     {
-      "id": "b980485ae562",
-      "topic": "ancient arctic change high",
-      "keywords": [
-        "ancient",
-        "arctic",
-        "change",
-        "high",
-        "know",
-        "rhino"
-      ],
-      "item_ids": [
-        "56836a6bfb39"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "60b0df6ca1b1",
       "topic": "down indiana lawmaker republican",
       "keywords": [
@@ -10905,26 +10741,6 @@
       ],
       "item_ids": [
         "7f85297b6149"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "6c38df3bf7e6",
-      "topic": "care competing health move",
-      "keywords": [
-        "care",
-        "competing",
-        "health",
-        "move",
-        "proposal",
-        "senate",
-        "vote"
-      ],
-      "item_ids": [
-        "7f2926b5ae76",
-        "279a08db6ec4"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11263,6 +11079,42 @@
       ]
     },
     {
+      "id": "4405da5bf9fe",
+      "topic": "gain landmark nation protection",
+      "keywords": [
+        "gain",
+        "landmark",
+        "nation",
+        "protection",
+        "rays",
+        "shark"
+      ],
+      "item_ids": [
+        "d7423488b803"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "63cee47c1d39",
+      "topic": "another catastrophic environmental face",
+      "keywords": [
+        "another",
+        "catastrophic",
+        "environmental",
+        "face",
+        "gaza",
+        "winter"
+      ],
+      "item_ids": [
+        "8e2a085da8bd"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "8351fc6a2956",
       "topic": "abruptly cancel fema house",
       "keywords": [
@@ -11401,42 +11253,6 @@
       ],
       "item_ids": [
         "71b934982b48"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "d2e4c75cbde1",
-      "topic": "cause chemical forever say",
-      "keywords": [
-        "cause",
-        "chemical",
-        "forever",
-        "say",
-        "scientist",
-        "tfa"
-      ],
-      "item_ids": [
-        "fc08905ff467"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "f70a24233b45",
-      "topic": "account american gas half",
-      "keywords": [
-        "account",
-        "american",
-        "gas",
-        "half",
-        "some",
-        "stove"
-      ],
-      "item_ids": [
-        "2551447cfb33"
       ],
       "outlets": [
         "Inside Climate News"
