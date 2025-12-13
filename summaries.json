@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-13T09:07:04Z",
+  "generated_at": "2025-12-13T09:58:31Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2739,6 +2739,40 @@
       "cluster_id": "8e9430e546a3"
     },
     {
+      "id": "31a25546940a",
+      "title": "Witkoff to meet Zelensky for latest Ukraine war talks",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0l9954yr9ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 13 Dec 2025 08:42:19 GMT",
+      "bullets": [
+        "• President Donald Trump's envoy will travel to Germany for latest round of peace talks",
+        "• The White House is pushing for a deal to be in place by Christmas",
+        "• It has not yet been confirmed which European leaders will attend the talks",
+        "• Meanwhile, Russia has launched a series of attacks in the south of the country "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump's envoy will travel to Germany for latest round of peace talks",
+          "• The White House is pushing for a deal to be in place by Christmas"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump's envoy will travel to Germany for latest round of peace talks",
+          "• The White House is pushing for a deal to be in place by Christmas"
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump's envoy will travel to Germany for latest round of peace talks",
+          "• It has not yet been confirmed which European leaders will attend the talks"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "55529c90f7cd"
+    },
+    {
       "id": "efe224356c89",
       "title": "YouTube’s CEO limits his kids’ social media use — other tech bosses do the same",
       "outlet": "US Top News and Analysis",
@@ -2803,40 +2837,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "b544732977db"
-    },
-    {
-      "id": "31a25546940a",
-      "title": "Witkoff to meet Zelensky for latest Ukraine war talks",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0l9954yr9ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 13 Dec 2025 05:09:11 GMT",
-      "bullets": [
-        "• US President Donald Trump to meet with Russian President Vladimir Putin in Berlin",
-        "• Meeting is latest attempt to reach a deal between Russia and Ukraine to end Ukraine conflict",
-        "• Russia has refused to take control of territory in the east of the country and wants to take back control of Crimea "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.595
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US President Donald Trump to meet with Russian President Vladimir Putin in Berlin",
-          "• Meeting is latest attempt to reach a deal between Russia and Ukraine to end Ukraine conflict"
-        ],
-        "hopeful_bullets": [
-          "• US President Donald Trump to meet with Russian President Vladimir Putin in Berlin",
-          "• Meeting is latest attempt to reach a deal between Russia and Ukraine to end Ukraine conflict"
-        ],
-        "stakes_bullets": [
-          "• US President Donald Trump to meet with Russian President Vladimir Putin in Berlin",
-          "• Meeting is latest attempt to reach a deal between Russia and Ukraine to end Ukraine conflict",
-          "• Russia has refused to take control of territory in the east of the country and wants to take back control of Crimea "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "55529c90f7cd"
     },
     {
       "id": "d713b3b9c19a",
@@ -6644,29 +6644,31 @@
       "published_at": "Fri, 12 Dec 2025 15:26:42 -0500",
       "bullets": [
         "• Syrian Foreign Ministry calls it a \"pivotal moment\" that would restore opportunities denied to the Syrian people for years",
-        "• U.S",
-        "• House of Representatives on Wednesday voted to repeal sanctions related to the Caesar Act, passed in 2019 as more evidence emerged of killings and torture by the Assad regime",
-        "• The removal of sanctions would pave the way for billions of dollars in spending on infrastructure and humanitarian needs "
+        "• The U.S",
+        "• House of Representatives voted to repeal sanctions related to the Caesar Act, passed in 2019",
+        "• The Senate is expected to approve the repeal of the sweeping sanctions next week",
+        "• Their removal would pave the way for billions of dollars in spending on infrastructure and humanitarian needs "
       ],
       "category": "General",
       "sentiment": {
         "label": "positive",
-        "score": 0.996
+        "score": 0.997
       },
       "moods": {
         "brief_bullets": [
           "• Syrian Foreign Ministry calls it a \"pivotal moment\" that would restore opportunities denied to the Syrian people for years",
-          "• U.S"
+          "• The U.S"
         ],
         "hopeful_bullets": [
           "• Syrian Foreign Ministry calls it a \"pivotal moment\" that would restore opportunities denied to the Syrian people for years",
-          "• U.S"
+          "• The U.S"
         ],
         "stakes_bullets": [
-          "• The removal of sanctions would pave the way for billions of dollars in spending on infrastructure and humanitarian needs "
+          "• The Senate is expected to approve the repeal of the sweeping sanctions next week",
+          "• Their removal would pave the way for billions of dollars in spending on infrastructure and humanitarian needs "
         ]
       },
-      "read_minutes": 5,
+      "read_minutes": 4,
       "cluster_id": "d8294aa7f7c6"
     },
     {
