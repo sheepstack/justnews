@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-14T11:00:47Z",
+  "generated_at": "2025-12-14T11:19:17Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2728,37 +2728,6 @@
       "cluster_id": "d9d8bbc8328b"
     },
     {
-      "id": "efe714a076d6",
-      "title": "The 'magic' of walking with grief",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/14/nx-s1-5642731/grief-death-walking-help",
-      "published_at": "Sun, 14 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• A walking bereavement group gathers outside once a week in Northampton, Massachusetts",
-        "• Most join the group after a spouse has died, but some are there to remember a sibling, a parent or a child",
-        "• \"This group is quite a bit of help,\" says Maureen Cahillane, 91, whose husband died more than two years ago "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A walking bereavement group gathers outside once a week in Northampton, Massachusetts",
-          "• Most join the group after a spouse has died, but some are there to remember a sibling, a parent or a child"
-        ],
-        "hopeful_bullets": [
-          "• \"This group is quite a bit of help,\" says Maureen Cahillane, 91, whose husband died more than two years ago "
-        ],
-        "stakes_bullets": [
-          "• \"This group is quite a bit of help,\" says Maureen Cahillane, 91, whose husband died more than two years ago "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "acec44414c3f"
-    },
-    {
       "id": "9f6f39b61d53",
       "title": "With federal relief on the horizon, Black farmers worry it won't come soon enough",
       "outlet": "NPR Topics: News",
@@ -2791,6 +2760,37 @@
       },
       "read_minutes": 6,
       "cluster_id": "b881886222ef"
+    },
+    {
+      "id": "efe714a076d6",
+      "title": "The 'magic' of walking with grief",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/14/nx-s1-5642731/grief-death-walking-help",
+      "published_at": "Sun, 14 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• A walking bereavement group gathers outside once a week in Northampton, Massachusetts",
+        "• Most join the group after a spouse has died, but some are there to remember a sibling, a parent or a child",
+        "• \"This group is quite a bit of help,\" says Maureen Cahillane, 91, whose husband died more than two years ago "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A walking bereavement group gathers outside once a week in Northampton, Massachusetts",
+          "• Most join the group after a spouse has died, but some are there to remember a sibling, a parent or a child"
+        ],
+        "hopeful_bullets": [
+          "• \"This group is quite a bit of help,\" says Maureen Cahillane, 91, whose husband died more than two years ago "
+        ],
+        "stakes_bullets": [
+          "• \"This group is quite a bit of help,\" says Maureen Cahillane, 91, whose husband died more than two years ago "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "acec44414c3f"
     },
     {
       "id": "166655d4bee4",
@@ -7507,6 +7507,40 @@
       "cluster_id": "718bf5c103af"
     },
     {
+      "id": "6f37b422264c",
+      "title": "Jasmine Crockett leads James Talarico by 8 points in Senate Democratic primary, new poll finds",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17231400/texas-senate-democratic-primary-poll-jasmine-crockett-james-talarico",
+      "published_at": "Fri, 12 Dec 2025 15:20:10 +0000",
+      "bullets": [
+        "• U.S",
+        "• Rep",
+        "• Jasmine Crockett leads state Rep",
+        "• James Talarico by 8 percentage points in the Democratic Senate primary",
+        "• The poll is the first public survey conducted and released since former Rep"
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.821
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• Rep"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• Rep"
+        ],
+        "stakes_bullets": [
+          "• Jasmine Crockett leads state Rep"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "feeda372a553"
+    },
+    {
       "id": "92733f3c45e6",
       "title": "Gorillaz Hit the Road to ‘Damascus’ on New Song With Yasiin Bey and Omar Souleyman",
       "outlet": "Music News",
@@ -9740,21 +9774,6 @@
       ]
     },
     {
-      "id": "acec44414c3f",
-      "topic": "grief magic walking",
-      "keywords": [
-        "grief",
-        "magic",
-        "walking"
-      ],
-      "item_ids": [
-        "efe714a076d6"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "b881886222ef",
       "topic": "black farmer federal horizon",
       "keywords": [
@@ -9767,6 +9786,21 @@
       ],
       "item_ids": [
         "9f6f39b61d53"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "acec44414c3f",
+      "topic": "grief magic walking",
+      "keywords": [
+        "grief",
+        "magic",
+        "walking"
+      ],
+      "item_ids": [
+        "efe714a076d6"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -14025,6 +14059,24 @@
       ],
       "item_ids": [
         "86f694a6bfdf"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
+      "id": "feeda372a553",
+      "topic": "crockett jame jasmine lead",
+      "keywords": [
+        "crockett",
+        "jame",
+        "jasmine",
+        "lead",
+        "point",
+        "talarico"
+      ],
+      "item_ids": [
+        "6f37b422264c"
       ],
       "outlets": [
         "The Texas Tribune"
