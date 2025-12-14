@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-14T07:10:54Z",
+  "generated_at": "2025-12-14T07:58:57Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2303,6 +2303,65 @@
       "cluster_id": "f2bfdbda393f"
     },
     {
+      "id": "c05de879dc09",
+      "title": "Alpine A390 Review: Price, Specs, Availability",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/review/review-alpine-a390/",
+      "published_at": "Sun, 14 Dec 2025 07:00:00 +0000",
+      "bullets": [
+        "• Alpine's A110 sports car is a masterpiece of lightweight analogue driving entertainment",
+        "• A global expansion of the brand is planned, including the US, where it's expected to launch a three-car electric lineup in 2027",
+        "• Overall, it's individual, and that’s a win given the soul-crushingly generic nature of so many new cars "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Alpine's A110 sports car is a masterpiece of lightweight analogue driving entertainment",
+          "• A global expansion of the brand is planned, including the US, where it's expected to launch a three-car electric lineup in 2027"
+        ],
+        "hopeful_bullets": [
+          "• Overall, it's individual, and that’s a win given the soul-crushingly generic nature of so many new cars "
+        ],
+        "stakes_bullets": [
+          "• A global expansion of the brand is planned, including the US, where it's expected to launch a three-car electric lineup in 2027"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a1332b3c545c"
+    },
+    {
+      "id": "fbf25a82df85",
+      "title": "For the First Time, AI Analyzes Language as Well as a Human Expert",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/",
+      "published_at": "Sun, 14 Dec 2025 07:00:00 +0000",
+      "bullets": [
+        "• Language has been a top candidate at least since Aristotle, who wrote that humanity was “the animal that has language” Researchers want to know if there are specific aspects of human language that simply have no parallels in the communication systems of other animals or artificially intelligent devices "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.844
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Language has been a top candidate at least since Aristotle, who wrote that humanity was “the animal that has language” Researchers want to know if there are specific aspects of human language that simply have no parallels in the communication systems of other animals or artificially intelligent devices "
+        ],
+        "hopeful_bullets": [
+          "• Language has been a top candidate at least since Aristotle, who wrote that humanity was “the animal that has language” Researchers want to know if there are specific aspects of human language that simply have no parallels in the communication systems of other animals or artificially intelligent devices "
+        ],
+        "stakes_bullets": [
+          "• Language has been a top candidate at least since Aristotle, who wrote that humanity was “the animal that has language” Researchers want to know if there are specific aspects of human language that simply have no parallels in the communication systems of other animals or artificially intelligent devices "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "02616b24003d"
+    },
+    {
       "id": "a4c6b28164ef",
       "title": "Two dead in Brown University shooting – as it happened",
       "outlet": "US news | The Guardian",
@@ -2368,6 +2427,41 @@
       },
       "read_minutes": 3,
       "cluster_id": "6e7d7ea892c7"
+    },
+    {
+      "id": "7ce0cb0e049f",
+      "title": "Manhunt continues after two killed in shooting at Brown University",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 14 Dec 2025 05:34:25 GMT",
+      "bullets": [
+        "• Two students killed and nine injured in shooting at Brown University in Providence, Rhode Island",
+        "• Gunman opened fire in a classroom at around 16:00 local time (21:00 GMT) on Saturday",
+        "• Police have released limited information about the male suspect, including an identity or motive",
+        "• Most of the injured are in a \"critical but stable\" condition "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Two students killed and nine injured in shooting at Brown University in Providence, Rhode Island",
+          "• Gunman opened fire in a classroom at around 16:00 local time (21:00 GMT) on Saturday"
+        ],
+        "hopeful_bullets": [
+          "• Two students killed and nine injured in shooting at Brown University in Providence, Rhode Island",
+          "• Gunman opened fire in a classroom at around 16:00 local time (21:00 GMT) on Saturday"
+        ],
+        "stakes_bullets": [
+          "• Two students killed and nine injured in shooting at Brown University in Providence, Rhode Island",
+          "• Gunman opened fire in a classroom at around 16:00 local time (21:00 GMT) on Saturday",
+          "• Police have released limited information about the male suspect, including an identity or motive"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "38cbdb33fd79"
     },
     {
       "id": "d2ecdbfae0ed",
@@ -3041,9 +3135,10 @@
       "url": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
       "published_at": "Sat, 13 Dec 2025 21:42:05 GMT",
       "bullets": [
-        "• Three Americans killed by IS gunman in Syria, US military says",
-        "• US President Donald Trump tweets that it was an ISIS attack on the US and Syria",
-        "• The identities of those killed are being withheld for 24 hours until their next of kin has been informed "
+        "• Two US soldiers and a US civilian interpreter killed in Palmyra, Syria, US military says",
+        "• Three other service members were injured in the attack, US Central Command says",
+        "• US President Donald Trump said it was \"an ISIS attack\" against the US and Syria",
+        "• No group has claimed responsibility for the attack "
       ],
       "category": "World",
       "sentiment": {
@@ -3052,17 +3147,16 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Three Americans killed by IS gunman in Syria, US military says",
-          "• US President Donald Trump tweets that it was an ISIS attack on the US and Syria"
+          "• Two US soldiers and a US civilian interpreter killed in Palmyra, Syria, US military says",
+          "• Three other service members were injured in the attack, US Central Command says"
         ],
         "hopeful_bullets": [
-          "• Three Americans killed by IS gunman in Syria, US military says",
-          "• US President Donald Trump tweets that it was an ISIS attack on the US and Syria"
+          "• US President Donald Trump said it was \"an ISIS attack\" against the US and Syria"
         ],
         "stakes_bullets": [
-          "• Three Americans killed by IS gunman in Syria, US military says",
-          "• US President Donald Trump tweets that it was an ISIS attack on the US and Syria",
-          "• The identities of those killed are being withheld for 24 hours until their next of kin has been informed "
+          "• Two US soldiers and a US civilian interpreter killed in Palmyra, Syria, US military says",
+          "• Three other service members were injured in the attack, US Central Command says",
+          "• US President Donald Trump said it was \"an ISIS attack\" against the US and Syria"
         ]
       },
       "read_minutes": 2,
@@ -4369,40 +4463,6 @@
       "cluster_id": "7872c918c57f"
     },
     {
-      "id": "23c087a4502e",
-      "title": "How to Use Smart Lighting Around the Home: Reviewer Recommendations",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/how-to-use-smart-lighting/",
-      "published_at": "Sat, 13 Dec 2025 10:30:00 +0000",
-      "bullets": [
-        "• The importance of light in our daily lives is often underestimated",
-        "• Light wakes us, guides us, and nourishes us",
-        "• It can motivate and make you feel energized or create a cozy feel and help you relax",
-        "• We’ve never had more choice or control over the light in homes, so switch to smart lighting "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The importance of light in our daily lives is often underestimated",
-          "• Light wakes us, guides us, and nourishes us"
-        ],
-        "hopeful_bullets": [
-          "• It can motivate and make you feel energized or create a cozy feel and help you relax"
-        ],
-        "stakes_bullets": [
-          "• The importance of light in our daily lives is often underestimated",
-          "• Light wakes us, guides us, and nourishes us",
-          "• It can motivate and make you feel energized or create a cozy feel and help you relax"
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "5abdafd12400"
-    },
-    {
       "id": "bfd757815064",
       "title": "Church Nativity scenes add zip ties and gas masks to protest immigration raids",
       "outlet": "NPR Topics: News",
@@ -4436,39 +4496,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "6c468ab886b2"
-    },
-    {
-      "id": "a05e91f8f9be",
-      "title": "The Instagram-Fueled Boom in Copycat Vintage Car-Body Shells",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/the-instagram-fueled-boom-in-copycat-vintage-car-body-shells/",
-      "published_at": "Sat, 13 Dec 2025 10:00:00 +0000",
-      "bullets": [
-        "• Indonesian firm handcrafts drop-dead gorgeous copies of 1950s Mercedes 300SL Gullwing and other legendary sports cars",
-        "• Chinese factories stamping out 3D-scanned body shells for icons such as Ford Broncos of the 1960s and 1970s",
-        "• Today’s cars are safer and easier to drive than vintage ones "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Indonesian firm handcrafts drop-dead gorgeous copies of 1950s Mercedes 300SL Gullwing and other legendary sports cars",
-          "• Chinese factories stamping out 3D-scanned body shells for icons such as Ford Broncos of the 1960s and 1970s"
-        ],
-        "hopeful_bullets": [
-          "• Indonesian firm handcrafts drop-dead gorgeous copies of 1950s Mercedes 300SL Gullwing and other legendary sports cars"
-        ],
-        "stakes_bullets": [
-          "• Indonesian firm handcrafts drop-dead gorgeous copies of 1950s Mercedes 300SL Gullwing and other legendary sports cars",
-          "• Chinese factories stamping out 3D-scanned body shells for icons such as Ford Broncos of the 1960s and 1970s",
-          "• Today’s cars are safer and easier to drive than vintage ones "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "a825b9f7eec8"
     },
     {
       "id": "2d749de5bc56",
@@ -5130,40 +5157,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "0b0913f5ba71"
-    },
-    {
-      "id": "6083b933c6f6",
-      "title": "Ukraine's health supplies hit in series of Russian strikes on medical warehouses",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqlkk9qk7vyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 13 Dec 2025 00:05:21 GMT",
-      "bullets": [
-        "• Ukraine's health supplies hit in series of Russian strikes on medical warehouses",
-        "• Warehouses supplying the vast majority of Ukraine's pharmacies have been destroyed in recent months",
-        "• Medical supplies worth about $200m (£145m) were destroyed in just two strikes in December and October "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ukraine's health supplies hit in series of Russian strikes on medical warehouses",
-          "• Warehouses supplying the vast majority of Ukraine's pharmacies have been destroyed in recent months"
-        ],
-        "hopeful_bullets": [
-          "• Ukraine's health supplies hit in series of Russian strikes on medical warehouses",
-          "• Warehouses supplying the vast majority of Ukraine's pharmacies have been destroyed in recent months"
-        ],
-        "stakes_bullets": [
-          "• Ukraine's health supplies hit in series of Russian strikes on medical warehouses",
-          "• Warehouses supplying the vast majority of Ukraine's pharmacies have been destroyed in recent months",
-          "• Medical supplies worth about $200m (£145m) were destroyed in just two strikes in December and October "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d3b3ebf02f1c"
     },
     {
       "id": "28d65d9f6170",
@@ -9250,6 +9243,24 @@
   ],
   "clusters": [
     {
+      "id": "38cbdb33fd79",
+      "topic": "brown continue killed manhunt",
+      "keywords": [
+        "brown",
+        "continue",
+        "killed",
+        "manhunt",
+        "shooting",
+        "university"
+      ],
+      "item_ids": [
+        "7ce0cb0e049f"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "8569d7d33f72",
       "topic": "american gunman killed military",
       "keywords": [
@@ -9405,24 +9416,6 @@
       ],
       "item_ids": [
         "835c9bb6e6fa"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "d3b3ebf02f1c",
-      "topic": "health hit russian serie",
-      "keywords": [
-        "health",
-        "hit",
-        "russian",
-        "serie",
-        "supplie",
-        "ukraine"
-      ],
-      "item_ids": [
-        "6083b933c6f6"
       ],
       "outlets": [
         "BBC News"
@@ -10147,6 +10140,42 @@
       ]
     },
     {
+      "id": "a1332b3c545c",
+      "topic": "a390 alpine availability price",
+      "keywords": [
+        "a390",
+        "alpine",
+        "availability",
+        "price",
+        "review",
+        "spec"
+      ],
+      "item_ids": [
+        "c05de879dc09"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "02616b24003d",
+      "topic": "analyze first human language",
+      "keywords": [
+        "analyze",
+        "first",
+        "human",
+        "language",
+        "time",
+        "well"
+      ],
+      "item_ids": [
+        "fbf25a82df85"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "96c486269dfd",
       "topic": "2025 cold gift people",
       "keywords": [
@@ -10284,42 +10313,6 @@
       ],
       "item_ids": [
         "016f271ebc29"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "5abdafd12400",
-      "topic": "around home lighting reviewer",
-      "keywords": [
-        "around",
-        "home",
-        "lighting",
-        "reviewer",
-        "smart",
-        "use"
-      ],
-      "item_ids": [
-        "23c087a4502e"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "a825b9f7eec8",
-      "topic": "boom car copycat fueled",
-      "keywords": [
-        "boom",
-        "car",
-        "copycat",
-        "fueled",
-        "instagram",
-        "vintage"
-      ],
-      "item_ids": [
-        "a05e91f8f9be"
       ],
       "outlets": [
         "WIRED"
