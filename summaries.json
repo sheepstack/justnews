@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-17T10:10:02Z",
+  "generated_at": "2025-12-17T11:06:54Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -70,37 +70,237 @@
       "cluster_id": "2310b1aa0d50"
     },
     {
-      "id": "d628295ebde9",
-      "title": "European markets rise; sterling falls as UK inflation cools",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/17/european-markets-on-dec-17-stoxx-600-ftse-dax-cac.html",
-      "published_at": "Wed, 17 Dec 2025 08:58:55 GMT",
+      "id": "692daa3c4d81",
+      "title": "Tuft & Needle Is Offering a Free Pillow Set With Mattress Purchase",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/tuft-and-needle-pillow-deal-2025/",
+      "published_at": "Wed, 17 Dec 2025 10:32:00 +0000",
       "bullets": [
-        "• The pan-European Stoxx 600 was 0.3% higher shortly after the opening bell",
-        "• European Central Bank set to hold its final policy meeting of the year on Thursday",
-        "• Bank of England, Riksbank, and Norges Bank will also hold their last monetary policy decisions for 2025 "
+        "• Tuft & Needle is giving away a foam pillow set with purchase of any size mattress",
+        "• A set of two standard foam pillows usually starts at $160, and right now it’s added to your purchase for free",
+        "• The Original Hybrid mattress has three kinds of proprietary foam with pocketed coils "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tuft & Needle is giving away a foam pillow set with purchase of any size mattress",
+          "• A set of two standard foam pillows usually starts at $160, and right now it’s added to your purchase for free"
+        ],
+        "hopeful_bullets": [
+          "• Tuft & Needle is giving away a foam pillow set with purchase of any size mattress",
+          "• A set of two standard foam pillows usually starts at $160, and right now it’s added to your purchase for free"
+        ],
+        "stakes_bullets": [
+          "• Tuft & Needle is giving away a foam pillow set with purchase of any size mattress",
+          "• A set of two standard foam pillows usually starts at $160, and right now it’s added to your purchase for free",
+          "• The Original Hybrid mattress has three kinds of proprietary foam with pocketed coils "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "9a3469f24494"
+    },
+    {
+      "id": "447e298d1798",
+      "title": "Microsoft Will Finally Kill an Encryption Cipher That Enabled a Decade of Windows Hacks",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/microsoft-will-finally-kill-an-encryption-cipher-that-enabled-a-decade-of-windows-hacks/",
+      "published_at": "Wed, 17 Dec 2025 10:30:00 +0000",
+      "bullets": [
+        "• Microsoft is killing off an obsolete and vulnerable encryption cipher that Windows has supported by default for 26 years",
+        "• RC4, short for Rivist Cipher 4, is a nod to mathematician and cryptographer Ron Rivest of RSA Security, who developed the stream cipher in 1987",
+        "• The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Microsoft is killing off an obsolete and vulnerable encryption cipher that Windows has supported by default for 26 years",
+          "• RC4, short for Rivist Cipher 4, is a nod to mathematician and cryptographer Ron Rivest of RSA Security, who developed the stream cipher in 1987"
+        ],
+        "hopeful_bullets": [
+          "• Microsoft is killing off an obsolete and vulnerable encryption cipher that Windows has supported by default for 26 years"
+        ],
+        "stakes_bullets": [
+          "• Microsoft is killing off an obsolete and vulnerable encryption cipher that Windows has supported by default for 26 years",
+          "• RC4, short for Rivist Cipher 4, is a nod to mathematician and cryptographer Ron Rivest of RSA Security, who developed the stream cipher in 1987",
+          "• The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e2fa9d6404c7"
+    },
+    {
+      "id": "104d0e598001",
+      "title": "US accused of using illegal workers at centre processing refugee claims in South Africa",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2468q3y75vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 17 Dec 2025 10:08:52 GMT",
+      "bullets": [
+        "• Seven people illegally entered South Africa on work visas, officials say",
+        "• South Africa says they will now be banned from entering the country for five years",
+        "• The US has reduced its yearly intake of refugees from around the world from 125,000 to 7,500 "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Seven people illegally entered South Africa on work visas, officials say",
+          "• South Africa says they will now be banned from entering the country for five years"
+        ],
+        "hopeful_bullets": [
+          "• The US has reduced its yearly intake of refugees from around the world from 125,000 to 7,500 "
+        ],
+        "stakes_bullets": [
+          "• South Africa says they will now be banned from entering the country for five years"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "24e759ce80dc"
+    },
+    {
+      "id": "0a3f1c4aaaa8",
+      "title": "China’s Clean Energy Investments Abroad Are a Boon for Climate, but Human Rights and the Environment Are a Different Story",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/17122025/china-oversea-clean-energy-investments/",
+      "published_at": "Wed, 17 Dec 2025 10:00:00 +0000",
+      "bullets": [
+        "• Chinese battery giant CATL is nearing completion on what could be Europe's largest electric vehicle battery factory",
+        "• The industrial park where it is located, outside Debrecen, Hungary’s second-largest city, also hosts several other manufacturers of battery parts and supplies",
+        "• At least two of those are owned by Chinese companies "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.949
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Chinese battery giant CATL is nearing completion on what could be Europe's largest electric vehicle battery factory",
+          "• The industrial park where it is located, outside Debrecen, Hungary’s second-largest city, also hosts several other manufacturers of battery parts and supplies"
+        ],
+        "hopeful_bullets": [
+          "• Chinese battery giant CATL is nearing completion on what could be Europe's largest electric vehicle battery factory",
+          "• The industrial park where it is located, outside Debrecen, Hungary’s second-largest city, also hosts several other manufacturers of battery parts and supplies"
+        ],
+        "stakes_bullets": [
+          "• Chinese battery giant CATL is nearing completion on what could be Europe's largest electric vehicle battery factory"
+        ]
+      },
+      "read_minutes": 18,
+      "cluster_id": "f23005d2ea74"
+    },
+    {
+      "id": "8bc7e74aa7b4",
+      "title": "Ohio Farmers Say Regenerative Agriculture Methods Helped Them Survive a Drought. State and Federal Leaders Are Slashing Programs That Fund Them.",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/17122025/ohio-regenerative-agriculture-drought-protection/",
+      "published_at": "Wed, 17 Dec 2025 09:55:00 +0000",
+      "bullets": [
+        "• The drought hit hardest in the state’s northwest, where the bulk of its farms are",
+        "• Farmers who used regenerative techniques to cultivate healthy, carbon-rich soil beat the forecast",
+        "• Republican lawmakers gutted incentives for those same practices in July "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The drought hit hardest in the state’s northwest, where the bulk of its farms are",
+          "• Farmers who used regenerative techniques to cultivate healthy, carbon-rich soil beat the forecast"
+        ],
+        "hopeful_bullets": [
+          "• The drought hit hardest in the state’s northwest, where the bulk of its farms are",
+          "• Farmers who used regenerative techniques to cultivate healthy, carbon-rich soil beat the forecast"
+        ],
+        "stakes_bullets": [
+          "• The drought hit hardest in the state’s northwest, where the bulk of its farms are",
+          "• Farmers who used regenerative techniques to cultivate healthy, carbon-rich soil beat the forecast",
+          "• Republican lawmakers gutted incentives for those same practices in July "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "609f938c4395"
+    },
+    {
+      "id": "e8f63eb5e2b0",
+      "title": "‘Orwellian’: Ben & Jerry’s founder tells CNBC he’s alarmed by Magnum’s board overhaul",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/17/ben-jerrys-founder-lashes-out-against-parent-magnums-board-changes.html",
+      "published_at": "Wed, 17 Dec 2025 09:47:58 GMT",
+      "bullets": [
+        "• Ben & Jerry's co-founder Ben Cohen slams parent Magnum Ice Cream Company",
+        "• Co-founder says parent company is \"destroying\" the ice cream brand",
+        "• Three directors have been ousted from the independent board of Ben and Jerry's",
+        "• Cohen: \"It's another desperate power grab\""
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.957
+        "score": 1.0
       },
       "moods": {
         "brief_bullets": [
-          "• The pan-European Stoxx 600 was 0.3% higher shortly after the opening bell",
-          "• European Central Bank set to hold its final policy meeting of the year on Thursday"
+          "• Ben & Jerry's co-founder Ben Cohen slams parent Magnum Ice Cream Company",
+          "• Co-founder says parent company is \"destroying\" the ice cream brand"
         ],
         "hopeful_bullets": [
-          "• The pan-European Stoxx 600 was 0.3% higher shortly after the opening bell",
-          "• European Central Bank set to hold its final policy meeting of the year on Thursday"
+          "• Ben & Jerry's co-founder Ben Cohen slams parent Magnum Ice Cream Company",
+          "• Co-founder says parent company is \"destroying\" the ice cream brand"
         ],
         "stakes_bullets": [
-          "• European Central Bank set to hold its final policy meeting of the year on Thursday",
-          "• Bank of England, Riksbank, and Norges Bank will also hold their last monetary policy decisions for 2025 "
+          "• Ben & Jerry's co-founder Ben Cohen slams parent Magnum Ice Cream Company",
+          "• Co-founder says parent company is \"destroying\" the ice cream brand",
+          "• Three directors have been ousted from the independent board of Ben and Jerry's"
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "6834046d49f4"
+      "read_minutes": 5,
+      "cluster_id": "4f331b33711e"
+    },
+    {
+      "id": "165af6a3bbeb",
+      "title": "Alleged Bondi gunman charged with 15 counts of murder",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 17 Dec 2025 09:46:16 GMT",
+      "bullets": [
+        "• Naveed Akram charged with 59 offences, including 15 counts of murder and one of committing a terrorist act",
+        "• His father Sajid Akram, 50, was killed in an exchange of fire with police at the scene",
+        "• The case has been adjourned until April 2026 "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.976
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Naveed Akram charged with 59 offences, including 15 counts of murder and one of committing a terrorist act",
+          "• His father Sajid Akram, 50, was killed in an exchange of fire with police at the scene"
+        ],
+        "hopeful_bullets": [
+          "• Naveed Akram charged with 59 offences, including 15 counts of murder and one of committing a terrorist act",
+          "• His father Sajid Akram, 50, was killed in an exchange of fire with police at the scene"
+        ],
+        "stakes_bullets": [
+          "• Naveed Akram charged with 59 offences, including 15 counts of murder and one of committing a terrorist act",
+          "• His father Sajid Akram, 50, was killed in an exchange of fire with police at the scene",
+          "• The case has been adjourned until April 2026 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "bab79ec2ae1d"
     },
     {
       "id": "771c57e2d696",
@@ -137,6 +337,40 @@
       "cluster_id": "09d677c0d5cb"
     },
     {
+      "id": "95f146444148",
+      "title": "'An unspeakable loss': Funeral takes place for rabbi killed in Bondi shooting",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cyvg17y24jmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 17 Dec 2025 08:25:50 GMT",
+      "bullets": [
+        "• First of the funerals for victims of the Bondi shooting has taken place in Sydney",
+        "• Rabbi Eli Schlanger was among 15 people killed when two gunmen opened fire on a festival marking the first day of Hanukkah",
+        "• The 41-year-old was known as the \"Bondi Rabbi\" and was born in the UK "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• First of the funerals for victims of the Bondi shooting has taken place in Sydney",
+          "• Rabbi Eli Schlanger was among 15 people killed when two gunmen opened fire on a festival marking the first day of Hanukkah"
+        ],
+        "hopeful_bullets": [
+          "• First of the funerals for victims of the Bondi shooting has taken place in Sydney",
+          "• Rabbi Eli Schlanger was among 15 people killed when two gunmen opened fire on a festival marking the first day of Hanukkah"
+        ],
+        "stakes_bullets": [
+          "• First of the funerals for victims of the Bondi shooting has taken place in Sydney",
+          "• Rabbi Eli Schlanger was among 15 people killed when two gunmen opened fire on a festival marking the first day of Hanukkah",
+          "• The 41-year-old was known as the \"Bondi Rabbi\" and was born in the UK "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e1fea256fba9"
+    },
+    {
       "id": "90bc1856d250",
       "title": "Nick Reiner charged with murder of his parents Rob and Michele",
       "outlet": "BBC News",
@@ -167,106 +401,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "18f2462d0098"
-    },
-    {
-      "id": "165af6a3bbeb",
-      "title": "Alleged Bondi gunman charged with 15 counts of murder",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 17 Dec 2025 07:49:25 GMT",
-      "bullets": [
-        "• Naveed Akram charged with 59 offences, including 15 counts of murder and one of committing a terrorist act",
-        "• His father Sajid Akram, 50, was killed in an exchange of fire with police at the scene",
-        "• The case has been adjourned until April 2026 "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.976
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Naveed Akram charged with 59 offences, including 15 counts of murder and one of committing a terrorist act",
-          "• His father Sajid Akram, 50, was killed in an exchange of fire with police at the scene"
-        ],
-        "hopeful_bullets": [
-          "• Naveed Akram charged with 59 offences, including 15 counts of murder and one of committing a terrorist act",
-          "• His father Sajid Akram, 50, was killed in an exchange of fire with police at the scene"
-        ],
-        "stakes_bullets": [
-          "• Naveed Akram charged with 59 offences, including 15 counts of murder and one of committing a terrorist act",
-          "• His father Sajid Akram, 50, was killed in an exchange of fire with police at the scene",
-          "• The case has been adjourned until April 2026 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "bab79ec2ae1d"
-    },
-    {
-      "id": "d80672e16320",
-      "title": "UK inflation falls sharply to 3.2% in November, fueling likelihood of Christmas rate cut",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/17/uk-inflation-cools-to-3point2-in-november.html",
-      "published_at": "Wed, 17 Dec 2025 07:32:45 GMT",
-      "bullets": [
-        "• The U.K.'s inflation rate cooled sharply to 3.2% in November, down from 3.4% in October",
-        "• Lower food prices were the main driver of the fall, ONS Chief Economist Grant Fitzner said",
-        "• The Bank of England is expected to cut interest rates at its final meeting of the year on Thursday "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The U.K.'s inflation rate cooled sharply to 3.2% in November, down from 3.4% in October",
-          "• Lower food prices were the main driver of the fall, ONS Chief Economist Grant Fitzner said"
-        ],
-        "hopeful_bullets": [
-          "• The U.K.'s inflation rate cooled sharply to 3.2% in November, down from 3.4% in October",
-          "• Lower food prices were the main driver of the fall, ONS Chief Economist Grant Fitzner said"
-        ],
-        "stakes_bullets": [
-          "• The Bank of England is expected to cut interest rates at its final meeting of the year on Thursday "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "04bb35306af7"
-    },
-    {
-      "id": "e8f63eb5e2b0",
-      "title": "‘Orwellian’: Ben & Jerry’s founder tells CNBC he’s alarmed by Magnum’s board overhaul",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/17/ben-jerrys-founder-lashes-out-against-parent-magnums-board-changes.html",
-      "published_at": "Wed, 17 Dec 2025 07:23:09 GMT",
-      "bullets": [
-        "• Ben & Jerry's co-founder Ben Cohen slams parent company Magnum Ice Cream Company",
-        "• Co-founder calls it \"Orwellian\" and \"desperate power grab\" Three directors have been ousted from the independent board of Ben and Jerry's",
-        "• The company officially spun off into an independent company last week "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ben & Jerry's co-founder Ben Cohen slams parent company Magnum Ice Cream Company",
-          "• Co-founder calls it \"Orwellian\" and \"desperate power grab\" Three directors have been ousted from the independent board of Ben and Jerry's"
-        ],
-        "hopeful_bullets": [
-          "• Ben & Jerry's co-founder Ben Cohen slams parent company Magnum Ice Cream Company",
-          "• Co-founder calls it \"Orwellian\" and \"desperate power grab\" Three directors have been ousted from the independent board of Ben and Jerry's"
-        ],
-        "stakes_bullets": [
-          "• Ben & Jerry's co-founder Ben Cohen slams parent company Magnum Ice Cream Company",
-          "• Co-founder calls it \"Orwellian\" and \"desperate power grab\" Three directors have been ousted from the independent board of Ben and Jerry's",
-          "• The company officially spun off into an independent company last week "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "4f331b33711e"
     },
     {
       "id": "d9da8767851a",
@@ -367,6 +501,40 @@
       "cluster_id": "dc20221e2169"
     },
     {
+      "id": "0c0741e3917b",
+      "title": "Recent attacks have been 'inspired' by Islamic State. What does that mean?",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5645825/isis-islamic-australia-syria",
+      "published_at": "Wed, 17 Dec 2025 05:01:00 -0500",
+      "bullets": [
+        "• Recent attacks have been 'inspired' by Islamic State, experts say",
+        "• At its peak, the group, also known under its Arabic acronym Daesh, had more than 40,000 foreign fighters",
+        "• By 2019, the ISIS \"caliphate\" that briefly ruled millions of people in Iraq and Syria had largely collapsed "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Recent attacks have been 'inspired' by Islamic State, experts say",
+          "• At its peak, the group, also known under its Arabic acronym Daesh, had more than 40,000 foreign fighters"
+        ],
+        "hopeful_bullets": [
+          "• Recent attacks have been 'inspired' by Islamic State, experts say",
+          "• At its peak, the group, also known under its Arabic acronym Daesh, had more than 40,000 foreign fighters"
+        ],
+        "stakes_bullets": [
+          "• Recent attacks have been 'inspired' by Islamic State, experts say",
+          "• At its peak, the group, also known under its Arabic acronym Daesh, had more than 40,000 foreign fighters",
+          "• By 2019, the ISIS \"caliphate\" that briefly ruled millions of people in Iraq and Syria had largely collapsed "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "2cc2c7b64b6b"
+    },
+    {
       "id": "d99ed478a19f",
       "title": "‘Magical’ galaxy frogs disappear after reports of photographers destroying their habitats",
       "outlet": "Environment | The Guardian",
@@ -397,6 +565,237 @@
       },
       "read_minutes": 2,
       "cluster_id": "deb71f32a5d8"
+    },
+    {
+      "id": "ecbc8905ffc1",
+      "title": "How the long-running Obamacare fight came to thwart enhanced subsidies in Congress",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5645846/congress-health-care-subsidies",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The enhanced subsidies for ACA marketplace plans will expire at the end of the year",
+        "• Many are seeing the price tag of their plans double or triple",
+        "• Some subscribers say they will forgo health insurance because they can no longer afford the premiums without the subsidies "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The enhanced subsidies for ACA marketplace plans will expire at the end of the year",
+          "• Many are seeing the price tag of their plans double or triple"
+        ],
+        "hopeful_bullets": [
+          "• The enhanced subsidies for ACA marketplace plans will expire at the end of the year",
+          "• Many are seeing the price tag of their plans double or triple"
+        ],
+        "stakes_bullets": [
+          "• The enhanced subsidies for ACA marketplace plans will expire at the end of the year",
+          "• Many are seeing the price tag of their plans double or triple",
+          "• Some subscribers say they will forgo health insurance because they can no longer afford the premiums without the subsidies "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "545ec8b43be1"
+    },
+    {
+      "id": "b90342b2ae45",
+      "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• Trump's rush to build nuclear reactors across the U.S",
+        "• raises safety worries",
+        "• Billions of dollars in capital are currently flowing into dozens of companies chasing new kinds of nuclear technologies",
+        "• Trump administration program is sidestepping regulatory system that's overseen the nuclear industry for 50 years "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.581
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump's rush to build nuclear reactors across the U.S",
+          "• raises safety worries"
+        ],
+        "hopeful_bullets": [
+          "• Billions of dollars in capital are currently flowing into dozens of companies chasing new kinds of nuclear technologies"
+        ],
+        "stakes_bullets": [
+          "• Billions of dollars in capital are currently flowing into dozens of companies chasing new kinds of nuclear technologies"
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "43bbb6302f3a"
+    },
+    {
+      "id": "dd7f24148c40",
+      "title": "Trump's economic approval hits a new low at 36%, poll finds",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5645003/trump-poll-economy-approval",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• Just 36% of Americans approve of President Trump's plan to lower taxes",
+        "• That's a new low for the first time in six years",
+        "• Democrats are slightly more trusted to be more trusted in the White House than Republicans",
+        "• The White House is trying to make it clear that Americans are struggling to make ends meet "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Just 36% of Americans approve of President Trump's plan to lower taxes",
+          "• That's a new low for the first time in six years"
+        ],
+        "hopeful_bullets": [
+          "• Just 36% of Americans approve of President Trump's plan to lower taxes",
+          "• That's a new low for the first time in six years"
+        ],
+        "stakes_bullets": [
+          "• Just 36% of Americans approve of President Trump's plan to lower taxes"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "e58025a9ad35"
+    },
+    {
+      "id": "dec497bd43c7",
+      "title": "Thousands of guns are found at crime scenes. What do they tell us?",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5641154/crime-guns-database-everytown-report",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• Everytown For Gun Safety analyzed data from more than 50 U.S",
+        "• cities from 2020 to 2024",
+        "• 3D-printed guns can be made at home and are generally untraceable because they lack a serial number",
+        "• In 2020, 20 cities recovered 32 of the printed firearms at crime scenes in 2020, a 1,000% increase "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Everytown For Gun Safety analyzed data from more than 50 U.S",
+          "• cities from 2020 to 2024"
+        ],
+        "hopeful_bullets": [
+          "• Everytown For Gun Safety analyzed data from more than 50 U.S",
+          "• cities from 2020 to 2024"
+        ],
+        "stakes_bullets": [
+          "• 3D-printed guns can be made at home and are generally untraceable because they lack a serial number",
+          "• In 2020, 20 cities recovered 32 of the printed firearms at crime scenes in 2020, a 1,000% increase "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "6963c61acd9a"
+    },
+    {
+      "id": "887c9b0f612e",
+      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The mistletoe is a plant with small, oval evergreen leaves and waxy white berries",
+        "• The name stems from the way its seeds are carried by birds and dropped after passing through their digestive tract",
+        "• The method of seed dispersal is called endozoochory "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.976
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The mistletoe is a plant with small, oval evergreen leaves and waxy white berries",
+          "• The name stems from the way its seeds are carried by birds and dropped after passing through their digestive tract"
+        ],
+        "hopeful_bullets": [
+          "• The mistletoe is a plant with small, oval evergreen leaves and waxy white berries",
+          "• The name stems from the way its seeds are carried by birds and dropped after passing through their digestive tract"
+        ],
+        "stakes_bullets": [
+          "• The mistletoe is a plant with small, oval evergreen leaves and waxy white berries"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6e35bfde9a6"
+    },
+    {
+      "id": "939c3c539da8",
+      "title": "Beware the Christmas coronary. How to spot signs of holiday heart trouble",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5645820/holidays-heart-christmas-health",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The risk of having a heart attack or stroke rises during the holiday season",
+        "• Cardiologist: \"We definitely see it in the ER over the holidays\" Too much merry-making with rich foods and alcohol can strain the heart",
+        "• An acute stressor that activates the fight-or-flight response could exacerbate the situation "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The risk of having a heart attack or stroke rises during the holiday season",
+          "• Cardiologist: \"We definitely see it in the ER over the holidays\" Too much merry-making with rich foods and alcohol can strain the heart"
+        ],
+        "hopeful_bullets": [
+          "• The risk of having a heart attack or stroke rises during the holiday season",
+          "• Cardiologist: \"We definitely see it in the ER over the holidays\" Too much merry-making with rich foods and alcohol can strain the heart"
+        ],
+        "stakes_bullets": [
+          "• The risk of having a heart attack or stroke rises during the holiday season",
+          "• An acute stressor that activates the fight-or-flight response could exacerbate the situation "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2fa131600993"
+    },
+    {
+      "id": "da217319f7bd",
+      "title": "Is the viral cheese pull saving chain restaurants?",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5598332/chain-restaurants-viral-cheese-pull-social-media",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The Cheesecake Factory, Olive Garden and Raising Cane's are popular American chain restaurants",
+        "• Despite financial struggles, a tough economy and shifting diet trends, these restaurants withstand time",
+        "• A good one brings in millions of views and, increasingly, helps lure diners off their phones "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Cheesecake Factory, Olive Garden and Raising Cane's are popular American chain restaurants",
+          "• Despite financial struggles, a tough economy and shifting diet trends, these restaurants withstand time"
+        ],
+        "hopeful_bullets": [
+          "• A good one brings in millions of views and, increasingly, helps lure diners off their phones "
+        ],
+        "stakes_bullets": [
+          "• The Cheesecake Factory, Olive Garden and Raising Cane's are popular American chain restaurants",
+          "• Despite financial struggles, a tough economy and shifting diet trends, these restaurants withstand time",
+          "• A good one brings in millions of views and, increasingly, helps lure diners off their phones "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "1f3d69164fb6"
     },
     {
       "id": "40d030e37f88",
@@ -541,31 +940,64 @@
       "published_at": "Wed, 17 Dec 2025 04:34:05 GMT",
       "bullets": [
         "• Sarah Dzafce has been stripped of her Miss Finland crown",
-        "• The 22-year-old uploaded the photo with the caption \"eating with a Chinese\" The photo drew backlash in Japan, South Korea and China",
-        "• Finland's prime minister said the controversy was \"damaging\" to the country "
+        "• The 22-year-old posted a photo of her pulling the corners of her eyes with the caption \"eating with a Chinese\" The photo drew backlash in Japan, South Korea and China",
+        "• Finland's prime minister called the photo \"thoughtless and stupid\""
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 1.0
       },
       "moods": {
         "brief_bullets": [
           "• Sarah Dzafce has been stripped of her Miss Finland crown",
-          "• The 22-year-old uploaded the photo with the caption \"eating with a Chinese\" The photo drew backlash in Japan, South Korea and China"
+          "• The 22-year-old posted a photo of her pulling the corners of her eyes with the caption \"eating with a Chinese\" The photo drew backlash in Japan, South Korea and China"
         ],
         "hopeful_bullets": [
           "• Sarah Dzafce has been stripped of her Miss Finland crown",
-          "• The 22-year-old uploaded the photo with the caption \"eating with a Chinese\" The photo drew backlash in Japan, South Korea and China"
+          "• The 22-year-old posted a photo of her pulling the corners of her eyes with the caption \"eating with a Chinese\" The photo drew backlash in Japan, South Korea and China"
         ],
         "stakes_bullets": [
           "• Sarah Dzafce has been stripped of her Miss Finland crown",
-          "• The 22-year-old uploaded the photo with the caption \"eating with a Chinese\" The photo drew backlash in Japan, South Korea and China",
-          "• Finland's prime minister said the controversy was \"damaging\" to the country "
+          "• The 22-year-old posted a photo of her pulling the corners of her eyes with the caption \"eating with a Chinese\" The photo drew backlash in Japan, South Korea and China",
+          "• Finland's prime minister called the photo \"thoughtless and stupid\""
         ]
       },
       "read_minutes": 3,
       "cluster_id": "281d8682e7df"
+    },
+    {
+      "id": "fa7abedd3c29",
+      "title": "California judge rules that Tesla engaged in deceptive marketing around Autopilot",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/16/california-judge-says-tesla-engaged-in-deceptive-autopilot-marketing-.html",
+      "published_at": "Wed, 17 Dec 2025 04:20:42 GMT",
+      "bullets": [
+        "• A California judge ruled that Tesla's marketing around its \"Autopilot\" and \"Full Self-Driving\" systems was deceptive",
+        "• A 30-day suspension of each of Tesla's licenses to sell and manufacture cars in the state will be lifted",
+        "• The DMV says it will give Tesla a chance to fix any deceptive or confusing claims "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A California judge ruled that Tesla's marketing around its \"Autopilot\" and \"Full Self-Driving\" systems was deceptive",
+          "• A 30-day suspension of each of Tesla's licenses to sell and manufacture cars in the state will be lifted"
+        ],
+        "hopeful_bullets": [
+          "• A California judge ruled that Tesla's marketing around its \"Autopilot\" and \"Full Self-Driving\" systems was deceptive",
+          "• A 30-day suspension of each of Tesla's licenses to sell and manufacture cars in the state will be lifted"
+        ],
+        "stakes_bullets": [
+          "• A 30-day suspension of each of Tesla's licenses to sell and manufacture cars in the state will be lifted",
+          "• The DMV says it will give Tesla a chance to fix any deceptive or confusing claims "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "cf3b99d66031"
     },
     {
       "id": "f2b2ab904cd5",
@@ -1037,7 +1469,7 @@
     {
       "id": "6e25c240d355",
       "title": "Trump expands travel ban and restrictions to include an additional 20 countries",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/12/17/g-s1-102569/trump-expands-travel-ban-restrictions",
       "published_at": "Wed, 17 Dec 2025 02:42:27 -0500",
       "bullets": [
@@ -1046,7 +1478,7 @@
         "• entry standards for travel and immigration",
         "• Critics say the restrictions unfairly prevent travel for people from a broad range of countries "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "positive",
         "score": 0.964
@@ -1631,6 +2063,40 @@
       "cluster_id": "560c58650fc7"
     },
     {
+      "id": "7c705bad90a4",
+      "title": "The Next Hasbro Star Wars Fanstream Launches This Thursday",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-09-the-next-hasbro-star-wars-fanstream-launches-this-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=the-next-hasbro-star-wars-fanstream-launches-this-thursday",
+      "published_at": "Wed, 10 Dec 2025 00:50:25 +0000",
+      "bullets": [
+        "• Hasbro Pulse has announced their next Fanstream, set for this Thursday, December 11 at 11 AM Eastern",
+        "• Join Brandon, Chris, and Tom from the Hasbro STAR WARS team on Thursday, December 11th at 11:00 AM ET",
+        "• Join them as they unveil new additions coming to STAR Wars The Vintage Collection and Star Wars The Black Series "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.976
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro Pulse has announced their next Fanstream, set for this Thursday, December 11 at 11 AM Eastern",
+          "• Join Brandon, Chris, and Tom from the Hasbro STAR WARS team on Thursday, December 11th at 11:00 AM ET"
+        ],
+        "hopeful_bullets": [
+          "• Hasbro Pulse has announced their next Fanstream, set for this Thursday, December 11 at 11 AM Eastern",
+          "• Join Brandon, Chris, and Tom from the Hasbro STAR WARS team on Thursday, December 11th at 11:00 AM ET"
+        ],
+        "stakes_bullets": [
+          "• Hasbro Pulse has announced their next Fanstream, set for this Thursday, December 11 at 11 AM Eastern",
+          "• Join Brandon, Chris, and Tom from the Hasbro STAR WARS team on Thursday, December 11th at 11:00 AM ET",
+          "• Join them as they unveil new additions coming to STAR Wars The Vintage Collection and Star Wars The Black Series "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c3f51dfd0efe"
+    },
+    {
       "id": "8bc2e543862e",
       "title": "The Boba Fett Trailer has us Geeking Out Loud – SWR #479",
       "outlet": "The Star Wars Report Podcast",
@@ -2125,38 +2591,6 @@
       "cluster_id": "95d0d0d9903e"
     },
     {
-      "id": "06c1ad20840e",
-      "title": "Why China’s young are flocking to government jobs in record numbers",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/17/china-youth-unemployment-civil-service-jobs-economy-slowdown.html",
-      "published_at": "Tue, 16 Dec 2025 22:59:31 GMT",
-      "bullets": [
-        "• As many as 3.7 million Chinese students sat for the annual exam last month",
-        "• Only one in about 100 is expected to secure a place among the 38,100 expected to take part in the job",
-        "• The number of students in China has risen to 17% since July, compared to 10% in the United States "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• As many as 3.7 million Chinese students sat for the annual exam last month",
-          "• Only one in about 100 is expected to secure a place among the 38,100 expected to take part in the job"
-        ],
-        "hopeful_bullets": [
-          "• As many as 3.7 million Chinese students sat for the annual exam last month",
-          "• Only one in about 100 is expected to secure a place among the 38,100 expected to take part in the job"
-        ],
-        "stakes_bullets": [
-          "• Only one in about 100 is expected to secure a place among the 38,100 expected to take part in the job"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "4c0c2b0e97fb"
-    },
-    {
       "id": "2caca036cc65",
       "title": "‘Final Destination Bloodlines’ Directors In Final Talks For Sci-Fi Drama ‘The Traveler’",
       "outlet": "Bloody Disgusting!",
@@ -2254,38 +2688,39 @@
       "cluster_id": "cd7e927d3a0d"
     },
     {
-      "id": "c9f71387853f",
-      "title": "Tesla stock closes at record as investors rally around Musk's robotaxi hype despite slow EV sales",
+      "id": "bdc944c74876",
+      "title": "ACA subsidy fraud is 'rampant,' Republicans say. Some health policy experts disagree",
       "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/16/tesla-stock-hits-record-on-robotaxi-hype-despite-drop-in-ev-sales.html",
-      "published_at": "Tue, 16 Dec 2025 22:22:31 GMT",
+      "url": "https://www.cnbc.com/2025/12/16/aca-subsidy-fraud.html",
+      "published_at": "Tue, 16 Dec 2025 22:09:57 GMT",
       "bullets": [
-        "• Tesla shares reached an all-time closing high of $489.88 on Tuesday, jumping 3.1% on Tuesday",
-        "• They're now up 21% for the year",
-        "• CEO Elon Musk said Tesla has been testing driverless vehicles in Austin, Texas, with no occupants on board "
+        "• Republicans cite reports of fraud in the health insurance marketplace as a reason to extend enhanced premium subsidies",
+        "• GOP lawmakers cite a report from the U.S",
+        "• Government Accountability Office on fraud tied to ACA subsidies",
+        "• Experts say the scope of the fraud isn't as severe as GOP lawmakers have suggested "
       ],
       "category": "Business",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.984
       },
       "moods": {
         "brief_bullets": [
-          "• Tesla shares reached an all-time closing high of $489.88 on Tuesday, jumping 3.1% on Tuesday",
-          "• They're now up 21% for the year"
+          "• Republicans cite reports of fraud in the health insurance marketplace as a reason to extend enhanced premium subsidies",
+          "• GOP lawmakers cite a report from the U.S"
         ],
         "hopeful_bullets": [
-          "• Tesla shares reached an all-time closing high of $489.88 on Tuesday, jumping 3.1% on Tuesday",
-          "• They're now up 21% for the year"
+          "• Republicans cite reports of fraud in the health insurance marketplace as a reason to extend enhanced premium subsidies",
+          "• GOP lawmakers cite a report from the U.S"
         ],
         "stakes_bullets": [
-          "• Tesla shares reached an all-time closing high of $489.88 on Tuesday, jumping 3.1% on Tuesday",
-          "• They're now up 21% for the year",
-          "• CEO Elon Musk said Tesla has been testing driverless vehicles in Austin, Texas, with no occupants on board "
+          "• Republicans cite reports of fraud in the health insurance marketplace as a reason to extend enhanced premium subsidies",
+          "• GOP lawmakers cite a report from the U.S",
+          "• Government Accountability Office on fraud tied to ACA subsidies"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "a7f9a72f2387"
+      "read_minutes": 7,
+      "cluster_id": "facd26006a30"
     },
     {
       "id": "ced781d07463",
@@ -2787,6 +3222,39 @@
       "cluster_id": "ba3d0cda5bb7"
     },
     {
+      "id": "a2aa3bf66bb8",
+      "title": "Second doctor sentenced in Matthew Perry overdose death",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj691n02g8ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 16 Dec 2025 20:10:45 GMT",
+      "bullets": [
+        "• Second doctor sentenced in Matthew Perry's death to eight months of home detention",
+        "• Five people have pleaded guilty to drug-related charges stemming from the actor's death",
+        "• Dr Chavez is the second doctor to be sentenced to three years of supervised release",
+        "• He is one of five people involved in the death of Friends star Matthew Perry in Los Angeles "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.945
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Second doctor sentenced in Matthew Perry's death to eight months of home detention",
+          "• Five people have pleaded guilty to drug-related charges stemming from the actor's death"
+        ],
+        "hopeful_bullets": [
+          "• Second doctor sentenced in Matthew Perry's death to eight months of home detention",
+          "• Five people have pleaded guilty to drug-related charges stemming from the actor's death"
+        ],
+        "stakes_bullets": [
+          "• Five people have pleaded guilty to drug-related charges stemming from the actor's death"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e8431edda6f2"
+    },
+    {
       "id": "ea73b6829e44",
       "title": "Karl Urban Calls ‘Mortal Kombat II’ “The Most Challenging Role That I’ve Ever Undertaken”",
       "outlet": "Bloody Disgusting!",
@@ -2813,6 +3281,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "c3adacd8d2f0"
+    },
+    {
+      "id": "2a131964b2cc",
+      "title": "Trump to tout accomplishments in address to nation on Wednesday, White House says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/16/-trump-address.html",
+      "published_at": "Tue, 16 Dec 2025 20:04:43 GMT",
+      "bullets": [
+        "• President Donald Trump will deliver a live address from the White House on Wednesday night",
+        "• The address is slated for 9 p.m",
+        "• ET, the president posted on Truth Social on Tuesday",
+        "• White House press secretary Karoline Leavitt said that Trump would tout his first 11 months in office "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• President Donald Trump will deliver a live address from the White House on Wednesday night",
+          "• The address is slated for 9 p.m"
+        ],
+        "hopeful_bullets": [
+          "• President Donald Trump will deliver a live address from the White House on Wednesday night",
+          "• The address is slated for 9 p.m"
+        ],
+        "stakes_bullets": [
+          "• President Donald Trump will deliver a live address from the White House on Wednesday night"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "34f8eebf857a"
     },
     {
       "id": "0ebc4a3878a9",
@@ -3076,39 +3577,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "37c9a82b1eb2"
-    },
-    {
-      "id": "9c53f660318c",
-      "title": "EU waters down plans to end new petrol and diesel car sales by 2035",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crk78y7k8ezo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 16 Dec 2025 19:28:36 GMT",
-      "bullets": [
-        "• EU waters down plans to end new petrol and diesel car sales by 2035",
-        "• 90% of new cars sold from 2035 would have to be zero-emission, rather than 100%",
-        "• The remaining 10% could be made up of conventional petrol or diesel cars, along with hybrids "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• EU waters down plans to end new petrol and diesel car sales by 2035",
-          "• 90% of new cars sold from 2035 would have to be zero-emission, rather than 100%"
-        ],
-        "hopeful_bullets": [
-          "• EU waters down plans to end new petrol and diesel car sales by 2035",
-          "• 90% of new cars sold from 2035 would have to be zero-emission, rather than 100%"
-        ],
-        "stakes_bullets": [
-          "• EU waters down plans to end new petrol and diesel car sales by 2035",
-          "• The remaining 10% could be made up of conventional petrol or diesel cars, along with hybrids "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5faf2200305f"
     },
     {
       "id": "3ff6fd131af2",
@@ -3376,6 +3844,39 @@
       "cluster_id": "2bb6301953d2"
     },
     {
+      "id": "21575fdc7cba",
+      "title": "Nasdaq moves to make trading nearly 24 hours. Why some on Wall Street say that's a bad idea",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/16/nasdaq-moves-to-near-24-hour-trading-some-say-thats-a-bad-idea.html",
+      "published_at": "Tue, 16 Dec 2025 18:47:39 GMT",
+      "bullets": [
+        "• Nasdaq plans to allow U.S.-listed equities to trade nearly 24 hours a day, five days a week",
+        "• Critics say the move could lead to an increasingly \"gamified\" trading environment",
+        "• The proposal would be submitted to the Securities and Exchange Commission in the summer of 2026 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nasdaq plans to allow U.S.-listed equities to trade nearly 24 hours a day, five days a week",
+          "• Critics say the move could lead to an increasingly \"gamified\" trading environment"
+        ],
+        "hopeful_bullets": [
+          "• Nasdaq plans to allow U.S.-listed equities to trade nearly 24 hours a day, five days a week",
+          "• Critics say the move could lead to an increasingly \"gamified\" trading environment"
+        ],
+        "stakes_bullets": [
+          "• Nasdaq plans to allow U.S.-listed equities to trade nearly 24 hours a day, five days a week",
+          "• Critics say the move could lead to an increasingly \"gamified\" trading environment"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d5c688faace9"
+    },
+    {
       "id": "9e8a54341589",
       "title": "US designates Colombia’s biggest drug cartel Gulf Clan as terrorist organization",
       "outlet": "World news | The Guardian",
@@ -3407,39 +3908,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "ae45d4eff4fa"
-    },
-    {
-      "id": "ed8837657ac0",
-      "title": "Nick Reiner will be charged with first degree murder in his parents' killing",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/16/nx-s1-5646666/rob-reiner-michele-singer-reiner-dead-son-nick-charges-first-degree-murder",
-      "published_at": "Tue, 16 Dec 2025 18:11:04 -0500",
-      "bullets": [
-        "• Nick Reiner will be charged with first degree murder in his parents' deaths",
-        "• The charges carry a maximum sentence of life in prison without the possibility of parole",
-        "• The cause and time of the deaths aren't known at this time as they await updates from the coroner's office "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nick Reiner will be charged with first degree murder in his parents' deaths",
-          "• The charges carry a maximum sentence of life in prison without the possibility of parole"
-        ],
-        "hopeful_bullets": [
-          "• Nick Reiner will be charged with first degree murder in his parents' deaths",
-          "• The charges carry a maximum sentence of life in prison without the possibility of parole"
-        ],
-        "stakes_bullets": [
-          "• Nick Reiner will be charged with first degree murder in his parents' deaths",
-          "• The cause and time of the deaths aren't known at this time as they await updates from the coroner's office "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "edea08f9cb26"
     },
     {
       "id": "022bc31b003d",
@@ -3572,39 +4040,6 @@
       "cluster_id": "efd8366ba91e"
     },
     {
-      "id": "cf69708c577a",
-      "title": "After outcry over prices, FIFA to sell $60 tickets for the World Cup -- with a catch",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/16/nx-s1-5646548/fifa-world-cup-ticket-prices",
-      "published_at": "Tue, 16 Dec 2025 17:26:29 -0500",
-      "bullets": [
-        "• FIFA plans to sell $60 tickets for each of the 104 games of the 2026 World Cup",
-        "• Only 10% of the total number of tickets provided to each qualified team would be available at $60 per game",
-        "• Tickets will only be available to supporters of qualified teams and limited in quantity "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• FIFA plans to sell $60 tickets for each of the 104 games of the 2026 World Cup",
-          "• Only 10% of the total number of tickets provided to each qualified team would be available at $60 per game"
-        ],
-        "hopeful_bullets": [
-          "• FIFA plans to sell $60 tickets for each of the 104 games of the 2026 World Cup",
-          "• Only 10% of the total number of tickets provided to each qualified team would be available at $60 per game"
-        ],
-        "stakes_bullets": [
-          "• FIFA plans to sell $60 tickets for each of the 104 games of the 2026 World Cup",
-          "• Tickets will only be available to supporters of qualified teams and limited in quantity "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "52280c624e99"
-    },
-    {
       "id": "7ea4478497bb",
       "title": "Only two species can survive in Great Salt Lake? Scientist says — hold my Nalgene",
       "outlet": "NPR Topics: Science",
@@ -3706,7 +4141,7 @@
     {
       "id": "fa0a1ebea487",
       "title": "What to know from Susie Wiles' interviews with 'Vanity Fair,' according to the writer",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/12/16/nx-s1-5645884/white-house-chief-staff-susie-wiles-interviews-vanity-fair",
       "published_at": "Tue, 16 Dec 2025 17:05:51 -0500",
       "bullets": [
@@ -3714,7 +4149,7 @@
         "• Whipple says the piece is based on 11 in-depth, on-the-record interviews with Wiles",
         "• Wiles calls the profile a \"disingenuously framed hit piece\""
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.998
@@ -3829,40 +4264,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "17973bea05a3"
-    },
-    {
-      "id": "6fd1cb09b967",
-      "title": "Bondi Beach attack casts a shadow on Hanukkah celebrations in Israel",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/16/g-s1-102420/israel-hanukkah-bondi-beach-attack",
-      "published_at": "Tue, 16 Dec 2025 16:27:47 -0500",
-      "bullets": [
-        "• Israel celebrates Hanukkah, and mourns those killed in Australia shooting",
-        "• Two gunmen opened fire on Sunday killing at least 16 people, including a 10-year-old girl and a Holocaust survivor",
-        "• The attack in Sydney, Australia, is casting a heavy shadow over the Jewish festival of lights "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.664
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Israel celebrates Hanukkah, and mourns those killed in Australia shooting",
-          "• Two gunmen opened fire on Sunday killing at least 16 people, including a 10-year-old girl and a Holocaust survivor"
-        ],
-        "hopeful_bullets": [
-          "• Israel celebrates Hanukkah, and mourns those killed in Australia shooting",
-          "• Two gunmen opened fire on Sunday killing at least 16 people, including a 10-year-old girl and a Holocaust survivor"
-        ],
-        "stakes_bullets": [
-          "• Israel celebrates Hanukkah, and mourns those killed in Australia shooting",
-          "• Two gunmen opened fire on Sunday killing at least 16 people, including a 10-year-old girl and a Holocaust survivor",
-          "• The attack in Sydney, Australia, is casting a heavy shadow over the Jewish festival of lights "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "5ecf44eb9074"
     },
     {
       "id": "0647a539699a",
@@ -4063,74 +4464,6 @@
       "cluster_id": "f10da5775e15"
     },
     {
-      "id": "eb02689c00d4",
-      "title": "Psychologists are increasingly using — and worrying about — AI tools, poll finds",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/12/16/nx-s1-5645840/american-psychological-association-artificial-intelligence-ai",
-      "published_at": "Tue, 16 Dec 2025 14:27:04 -0500",
-      "bullets": [
-        "• 56% of psychologists surveyed by the American Psychological Association are using AI tools in their practices",
-        "• That's significantly higher than the 29% who said the same last year",
-        "• Nearly a third of respondents said they use these tools on a monthly basis "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 56% of psychologists surveyed by the American Psychological Association are using AI tools in their practices",
-          "• That's significantly higher than the 29% who said the same last year"
-        ],
-        "hopeful_bullets": [
-          "• 56% of psychologists surveyed by the American Psychological Association are using AI tools in their practices",
-          "• That's significantly higher than the 29% who said the same last year"
-        ],
-        "stakes_bullets": [
-          "• 56% of psychologists surveyed by the American Psychological Association are using AI tools in their practices",
-          "• That's significantly higher than the 29% who said the same last year",
-          "• Nearly a third of respondents said they use these tools on a monthly basis "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ab833426767a"
-    },
-    {
-      "id": "b578feec964b",
-      "title": "American Giant Redesigns Its Iconic Classic Full Zip Hoodie",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/american-giant-redesign-classic-full-zip-hoodie/",
-      "published_at": "Tue, 16 Dec 2025 14:00:00 +0000",
-      "bullets": [
-        "• American Giant's Classic Full Zip hoodie has been relaunched as a softer and more breathable piece",
-        "• The biggest upgrade, though, is to the cotton fleece itself",
-        "• The new design just gives you more room to move around the waist and shoulders "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• American Giant's Classic Full Zip hoodie has been relaunched as a softer and more breathable piece",
-          "• The biggest upgrade, though, is to the cotton fleece itself"
-        ],
-        "hopeful_bullets": [
-          "• American Giant's Classic Full Zip hoodie has been relaunched as a softer and more breathable piece",
-          "• The biggest upgrade, though, is to the cotton fleece itself"
-        ],
-        "stakes_bullets": [
-          "• American Giant's Classic Full Zip hoodie has been relaunched as a softer and more breathable piece",
-          "• The biggest upgrade, though, is to the cotton fleece itself",
-          "• The new design just gives you more room to move around the waist and shoulders "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a61657e8fff7"
-    },
-    {
       "id": "22bf00dca4c2",
       "title": "Billy Joel’s Carnegie Hall Tribute to Feature Rob Thomas, Pat Monahan, and Rufus Wainwright",
       "outlet": "Music News",
@@ -4227,43 +4560,9 @@
       "cluster_id": "4db20cd04c14"
     },
     {
-      "id": "17834f7aa7d3",
-      "title": "16 Best White Elephant Gifts (2025): Coffee Pot Mug, Legos, Sushi Magnets, and More",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-white-elephant-gifts-2025/",
-      "published_at": "Tue, 16 Dec 2025 13:36:00 +0000",
-      "bullets": [
-        "• The true thrill of the game comes from finding something great in a pile of who-knows-what",
-        "• Some of my favorite white elephant gifts include a coffee-pot-shaped mug, a fun Lego set, and sushi-shaped magnets",
-        "• Cannabis Infused Beverage, starting at $40, is a white elephant classic "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The true thrill of the game comes from finding something great in a pile of who-knows-what",
-          "• Some of my favorite white elephant gifts include a coffee-pot-shaped mug, a fun Lego set, and sushi-shaped magnets"
-        ],
-        "hopeful_bullets": [
-          "• The true thrill of the game comes from finding something great in a pile of who-knows-what",
-          "• Some of my favorite white elephant gifts include a coffee-pot-shaped mug, a fun Lego set, and sushi-shaped magnets"
-        ],
-        "stakes_bullets": [
-          "• The true thrill of the game comes from finding something great in a pile of who-knows-what",
-          "• Some of my favorite white elephant gifts include a coffee-pot-shaped mug, a fun Lego set, and sushi-shaped magnets",
-          "• Cannabis Infused Beverage, starting at $40, is a white elephant classic "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "d272d6c7da55"
-    },
-    {
       "id": "19ef45155e41",
       "title": "Her 1951 walkout helped end school segregation. Now her statue is in the U.S. Capitol",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/12/16/nx-s1-5645727/barbara-rose-johns-capitol-statue",
       "published_at": "Tue, 16 Dec 2025 13:07:59 -0500",
       "bullets": [
@@ -4273,7 +4572,7 @@
         "• Her 1951 walkout helped end school segregation",
         "• The fight was taken up by the NAACP and eventually became one of the five cases reviewed in Brown v"
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "positive",
         "score": 0.886
@@ -4296,38 +4595,36 @@
       "cluster_id": "ab39a027ae0f"
     },
     {
-      "id": "f43433d18e5d",
-      "title": "Sudan's RSF trying to cover up mass killings in el-Fasher, researchers say",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c75veyzz2g2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 16 Dec 2025 13:02:26 GMT",
+      "id": "1acb08ef7363",
+      "title": "Hot Toys Revenge of the Sith MagnaGuard (MMS856) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-16-hot-toys-revenge-of-the-sith-magnaguard-mms856-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-revenge-of-the-sith-magnaguard-mms856-1-6-scale-figure",
+      "published_at": "Tue, 16 Dec 2025 12:20:33 +0000",
       "bullets": [
-        "• Sudan's Rapid Support Forces (RSF) has been trying to cover up mass killings in el-Fasher, researchers say",
-        "• The paramilitary group has been fighting Sudan's regular army since April 2023, when a power struggle between the two parties erupted into a brutal civil war",
-        "• The UN has described the conflict as the world's worst humanitarian disaster "
+        "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+        "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
       ],
-      "category": "World",
+      "category": "Star Wars",
       "sentiment": {
-        "label": "negative",
-        "score": 1.0
+        "label": "positive",
+        "score": 0.712
       },
       "moods": {
         "brief_bullets": [
-          "• Sudan's Rapid Support Forces (RSF) has been trying to cover up mass killings in el-Fasher, researchers say",
-          "• The paramilitary group has been fighting Sudan's regular army since April 2023, when a power struggle between the two parties erupted into a brutal civil war"
+          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
         ],
         "hopeful_bullets": [
-          "• Sudan's Rapid Support Forces (RSF) has been trying to cover up mass killings in el-Fasher, researchers say",
-          "• The paramilitary group has been fighting Sudan's regular army since April 2023, when a power struggle between the two parties erupted into a brutal civil war"
+          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
         ],
         "stakes_bullets": [
-          "• Sudan's Rapid Support Forces (RSF) has been trying to cover up mass killings in el-Fasher, researchers say",
-          "• The paramilitary group has been fighting Sudan's regular army since April 2023, when a power struggle between the two parties erupted into a brutal civil war",
-          "• The UN has described the conflict as the world's worst humanitarian disaster "
+          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "0a83c5fca216"
+      "read_minutes": 1,
+      "cluster_id": "e035bc8e7532"
     },
     {
       "id": "3e28bad60119",
@@ -4364,7 +4661,7 @@
     {
       "id": "50901b12fa3b",
       "title": "Orange rivers and melting glaciers: federal report shows rapid change in the Arctic",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2025/12/16/nx-s1-5639224/arctic-climate-change-noaa-report",
       "published_at": "Tue, 16 Dec 2025 12:00:00 -0500",
       "bullets": [
@@ -4372,7 +4669,7 @@
         "• The finding was reported in the National Oceanic and Atmospheric Administration's annual Arctic Report Card",
         "• NOAA has released the report for 20 years as a way to track rapid changes in the northern part of the planet "
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "positive",
         "score": 0.996
@@ -4393,72 +4690,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "646e29d1164d"
-    },
-    {
-      "id": "1fa5a21eabdf",
-      "title": "Search for body of last hostage held by Hamas in Gaza is delayed due to bad weather",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/16/g-s1-102430/gaza-rain-israel-hostage",
-      "published_at": "Tue, 16 Dec 2025 11:31:28 -0500",
-      "bullets": [
-        "• Search for body of last hostage held by Hamas in Gaza is delayed due to bad weather",
-        "• Official: Search efforts are \"expected to resume as soon as ground conditions allow\" The body of Ran Gvili, 24, is the last Israeli hostage held "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Search for body of last hostage held by Hamas in Gaza is delayed due to bad weather",
-          "• Official: Search efforts are \"expected to resume as soon as ground conditions allow\" The body of Ran Gvili, 24, is the last Israeli hostage held "
-        ],
-        "hopeful_bullets": [
-          "• Search for body of last hostage held by Hamas in Gaza is delayed due to bad weather",
-          "• Official: Search efforts are \"expected to resume as soon as ground conditions allow\" The body of Ran Gvili, 24, is the last Israeli hostage held "
-        ],
-        "stakes_bullets": [
-          "• Official: Search efforts are \"expected to resume as soon as ground conditions allow\" The body of Ran Gvili, 24, is the last Israeli hostage held "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f14cda76706f"
-    },
-    {
-      "id": "dfdb1e2749b9",
-      "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 16 Dec 2025 11:07:53 GMT",
-      "bullets": [
-        "• Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
-        "• Boris Gurman, 69, and his wife Sofia, 61, courageously stepped in to try and protect others",
-        "• Video shows Mr Gurman wrestling with one of the gunmen and taking the weapon off him",
-        "• The attacker is then thought to have got another gun which he used to kill them "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.95
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
-          "• Boris Gurman, 69, and his wife Sofia, 61, courageously stepped in to try and protect others"
-        ],
-        "hopeful_bullets": [
-          "• Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
-          "• Boris Gurman, 69, and his wife Sofia, 61, courageously stepped in to try and protect others"
-        ],
-        "stakes_bullets": [
-          "• Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
-          "• Boris Gurman, 69, and his wife Sofia, 61, courageously stepped in to try and protect others",
-          "• Video shows Mr Gurman wrestling with one of the gunmen and taking the weapon off him"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "69717ddce486"
     },
     {
       "id": "eed033f3233c",
@@ -5016,76 +5247,6 @@
       "cluster_id": "23626b13d359"
     },
     {
-      "id": "fe6fc77c11ef",
-      "title": "Mahmood Mamdani on how Uganda's history shaped his belonging — and his son's moment",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/16/nx-s1-5600099/mahmood-mamdani-father-zohran-uganda-new-york",
-      "published_at": "Tue, 16 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• Mahmood Mamdani is often described as the father of NYC's next mayor",
-        "• His work is rooted in his own experience as a Ugandan citizen of Indian origin",
-        "• He was twice rendered stateless due to political turmoil in East Africa during the 1970s and 80s",
-        "• His latest book focuses on the making of the Ugandan state post British colonialism "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mahmood Mamdani is often described as the father of NYC's next mayor",
-          "• His work is rooted in his own experience as a Ugandan citizen of Indian origin"
-        ],
-        "hopeful_bullets": [
-          "• Mahmood Mamdani is often described as the father of NYC's next mayor",
-          "• His work is rooted in his own experience as a Ugandan citizen of Indian origin"
-        ],
-        "stakes_bullets": [
-          "• Mahmood Mamdani is often described as the father of NYC's next mayor",
-          "• His work is rooted in his own experience as a Ugandan citizen of Indian origin",
-          "• He was twice rendered stateless due to political turmoil in East Africa during the 1970s and 80s"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "e3dae857fbd7"
-    },
-    {
-      "id": "74d15dcbf6b8",
-      "title": "U.S. military says strikes on 3 boats in the eastern Pacific Ocean kill 8 people",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/16/g-s1-102401/u-s-military-strikes-3-boats-pacific-ocean-kill-8",
-      "published_at": "Tue, 16 Dec 2025 03:34:45 -0500",
-      "bullets": [
-        "• U.S",
-        "• military says strikes on 3 boats in the eastern Pacific Ocean kill 8 people",
-        "• It didn't provide evidence of their alleged drug trafficking but posted a video of a boat moving through water before exploding",
-        "• President Donald Trump has justified the attacks as a necessary escalation to stem the flow of drugs into the United States "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• military says strikes on 3 boats in the eastern Pacific Ocean kill 8 people"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• military says strikes on 3 boats in the eastern Pacific Ocean kill 8 people"
-        ],
-        "stakes_bullets": [
-          "• U.S",
-          "• military says strikes on 3 boats in the eastern Pacific Ocean kill 8 people",
-          "• It didn't provide evidence of their alleged drug trafficking but posted a video of a boat moving through water before exploding"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "b6704dbc4ce1"
-    },
-    {
       "id": "1296528da128",
       "title": "‘Normal’ Trailer — Bob Odenkirk Just Got Here And He’s Having A Real Bad Day [Watch]",
       "outlet": "Dread Central",
@@ -5283,6 +5444,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "77b853d969ba"
+    },
+    {
+      "id": "9dd7ad09e70f",
+      "title": "Filippo Loreti Launches Line Of Darth Vader-Themed Watches",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-09-filippo-loreti-launches-line-of-darth-vader-themed-watches/?utm_source=rss&utm_medium=rss&utm_campaign=filippo-loreti-launches-line-of-darth-vader-themed-watches",
+      "published_at": "Tue, 09 Dec 2025 22:00:27 +0000",
+      "bullets": [
+        "• Filippo Loreti has unveiled a collection of Star Wars-themed timepieces",
+        "• Over the course of a seven-day event beginning December 11th, a new watch will be revealed each day",
+        "• Click through for an early preview of the lineup, and be sure to check the full reveal page each day for more details "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.979
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Filippo Loreti has unveiled a collection of Star Wars-themed timepieces",
+          "• Over the course of a seven-day event beginning December 11th, a new watch will be revealed each day"
+        ],
+        "hopeful_bullets": [
+          "• Filippo Loreti has unveiled a collection of Star Wars-themed timepieces",
+          "• Over the course of a seven-day event beginning December 11th, a new watch will be revealed each day"
+        ],
+        "stakes_bullets": [
+          "• Over the course of a seven-day event beginning December 11th, a new watch will be revealed each day"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e101db73aa78"
     },
     {
       "id": "da4044b0142f",
@@ -5776,38 +5969,69 @@
       "cluster_id": "f92010ec98b6"
     },
     {
-      "id": "ee3a020c8279",
-      "title": "Forget flowers: These ancient plants attract pollinators by getting hot",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/11/nx-s1-5637486/ancient-heat-producing-plants-glow-infrared-scent-not-color",
-      "published_at": "Thu, 11 Dec 2025 14:30:37 -0500",
+      "id": "aa4c0a156448",
+      "title": "The Black Series Reveals From Today's Hasbro Fanstream",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-11-the-black-series-reveals-from-todays-hasbro-fanstream-3/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-series-reveals-from-todays-hasbro-fanstream-3",
+      "published_at": "Thu, 11 Dec 2025 16:35:52 +0000",
       "bullets": [
-        "• Some of the earliest plants attracted pollinators by producing heat that made these plants glow with infrared light",
-        "• These heat-producing plants, called cycads, exist today in tropical forests around the world",
-        "• They're related to pines, and male and female plants each produce fleshy, pine-cone-like structures that contain pollen and seeds "
+        "• The Black Series gets two new 2-packs, both exclusive to Hasbro Pulse and Disney Store, so no fan channel release and not available at Walmart, Target or Amazon",
+        "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
       ],
-      "category": "Science",
+      "category": "Star Wars",
       "sentiment": {
-        "label": "positive",
-        "score": 0.994
+        "label": "negative",
+        "score": 0.992
       },
       "moods": {
         "brief_bullets": [
-          "• Some of the earliest plants attracted pollinators by producing heat that made these plants glow with infrared light",
-          "• These heat-producing plants, called cycads, exist today in tropical forests around the world"
+          "• The Black Series gets two new 2-packs, both exclusive to Hasbro Pulse and Disney Store, so no fan channel release and not available at Walmart, Target or Amazon",
+          "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
         ],
         "hopeful_bullets": [
-          "• Some of the earliest plants attracted pollinators by producing heat that made these plants glow with infrared light",
-          "• These heat-producing plants, called cycads, exist today in tropical forests around the world"
+          "• The Black Series gets two new 2-packs, both exclusive to Hasbro Pulse and Disney Store, so no fan channel release and not available at Walmart, Target or Amazon",
+          "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
         ],
         "stakes_bullets": [
-          "• Some of the earliest plants attracted pollinators by producing heat that made these plants glow with infrared light",
-          "• These heat-producing plants, called cycads, exist today in tropical forests around the world",
-          "• They're related to pines, and male and female plants each produce fleshy, pine-cone-like structures that contain pollen and seeds "
+          "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
         ]
       },
-      "read_minutes": 5,
-      "cluster_id": "7846ebed6e8a"
+      "read_minutes": 1,
+      "cluster_id": "833f992e43b1"
+    },
+    {
+      "id": "021b3a34bfe8",
+      "title": "Today's Hasbro Fanstream Starts At 11 AM ET",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-11-todays-hasbro-fanstream-starts-at-11-am-et-3/?utm_source=rss&utm_medium=rss&utm_campaign=todays-hasbro-fanstream-starts-at-11-am-et-3",
+      "published_at": "Thu, 11 Dec 2025 15:00:18 +0000",
+      "bullets": [
+        "• Hasbro’s latest Fanstream kicks off shortly",
+        "• Join us right here to watch the latest reveals or catch the stream directly on the Hasbro Pulse YouTube channel",
+        "• The Vintage Collection Mandalorian Shriek-Hawk on sale for $34 "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.732
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hasbro’s latest Fanstream kicks off shortly",
+          "• Join us right here to watch the latest reveals or catch the stream directly on the Hasbro Pulse YouTube channel"
+        ],
+        "hopeful_bullets": [
+          "• Hasbro’s latest Fanstream kicks off shortly",
+          "• Join us right here to watch the latest reveals or catch the stream directly on the Hasbro Pulse YouTube channel"
+        ],
+        "stakes_bullets": [
+          "• Hasbro’s latest Fanstream kicks off shortly",
+          "• Join us right here to watch the latest reveals or catch the stream directly on the Hasbro Pulse YouTube channel",
+          "• The Vintage Collection Mandalorian Shriek-Hawk on sale for $34 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "433b369caf2e"
     },
     {
       "id": "e66ea228dbec",
@@ -5873,38 +6097,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "ff9c1cbfb9ea"
-    },
-    {
-      "id": "31f14de5269c",
-      "title": "Fire-making materials at 400,000-year-old site are the oldest evidence of humans making fire",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/11/nx-s1-5640109/early-humans-fire-making-oldest-discovery-archaeology",
-      "published_at": "Thu, 11 Dec 2025 06:00:00 -0500",
-      "bullets": [
-        "• Fire-making materials at 400,000-year-old site are the oldest evidence of humans making fire",
-        "• Discovery suggests early humans were making fire more than 350,000 years earlier than previously known",
-        "• Early humans could only make use of fire when one started naturally, like when lightning struck a tree "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.957
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Fire-making materials at 400,000-year-old site are the oldest evidence of humans making fire",
-          "• Discovery suggests early humans were making fire more than 350,000 years earlier than previously known"
-        ],
-        "hopeful_bullets": [
-          "• Fire-making materials at 400,000-year-old site are the oldest evidence of humans making fire",
-          "• Discovery suggests early humans were making fire more than 350,000 years earlier than previously known"
-        ],
-        "stakes_bullets": [
-          "• Early humans could only make use of fire when one started naturally, like when lightning struck a tree "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f5c7ee03b0a9"
     },
     {
       "id": "dfa71b9e1765",
@@ -6171,37 +6363,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "c5d71c8f7c8c"
-    },
-    {
-      "id": "a01f6d8a9224",
-      "title": "Wyoming Ranchers Hoping Solar Can Lower Costs Say Utilities and the State Stand in Their Way",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/14122025/cokeville-wyoming-ranch-scale-solar/",
-      "published_at": "Sun, 14 Dec 2025 10:00:00 +0000",
-      "bullets": [
-        "• Tim Teichert and Jason Thornock applied for Rural Energy for America Program grants in 2023",
-        "• The Biden administration infused with $2 billion to help support farmers interested in renewable energy",
-        "• The two ranchers say they should have used solar to cover their own electrical demand "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Tim Teichert and Jason Thornock applied for Rural Energy for America Program grants in 2023",
-          "• The Biden administration infused with $2 billion to help support farmers interested in renewable energy"
-        ],
-        "hopeful_bullets": [
-          "• The Biden administration infused with $2 billion to help support farmers interested in renewable energy"
-        ],
-        "stakes_bullets": [
-          "• The Biden administration infused with $2 billion to help support farmers interested in renewable energy"
-        ]
-      },
-      "read_minutes": 15,
-      "cluster_id": "b69af1ed791f"
     },
     {
       "id": "eb57e9ca09a9",
@@ -6973,6 +7134,38 @@
       "cluster_id": "f3c7c2439a56"
     },
     {
+      "id": "9f99c5067546",
+      "title": "Looking Back At The Force Awakens",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-15-looking-back-at-the-force-awakens/?utm_source=rss&utm_medium=rss&utm_campaign=looking-back-at-the-force-awakens",
+      "published_at": "Mon, 15 Dec 2025 16:16:09 +0000",
+      "bullets": [
+        "• This week marks the 10th anniversary of The Force Awakens",
+        "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th",
+        "• Its repercussions still haunt Lucasfilm to this day and its effects are still felt everywhere "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• This week marks the 10th anniversary of The Force Awakens",
+          "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th"
+        ],
+        "hopeful_bullets": [
+          "• This week marks the 10th anniversary of The Force Awakens",
+          "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th"
+        ],
+        "stakes_bullets": [
+          "• Its repercussions still haunt Lucasfilm to this day and its effects are still felt everywhere "
+        ]
+      },
+      "read_minutes": 16,
+      "cluster_id": "e2f4eb0bcf07"
+    },
+    {
       "id": "3d912df797d5",
       "title": "Ice Spice, Leif and More: This Week’s Pitchfork Selects Playlist",
       "outlet": "RSS: News",
@@ -7168,74 +7361,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "893226e07182"
-    },
-    {
-      "id": "b5568a802041",
-      "title": "ACA shoppers face sticker shock as Congress dithers on health care",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/12/15/nx-s1-5644978/aca-costs-congress-health-care",
-      "published_at": "Mon, 15 Dec 2025 13:57:04 -0500",
-      "bullets": [
-        "• Congress is still debating whether to extend the subsidies to pay consumers' health care costs",
-        "• Some lawmakers say the extension of the subsidies would have a big impact on their vote for Congress",
-        "• Consumers say they will wait to see what happens before deciding whether to sign up to vote "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Congress is still debating whether to extend the subsidies to pay consumers' health care costs",
-          "• Some lawmakers say the extension of the subsidies would have a big impact on their vote for Congress"
-        ],
-        "hopeful_bullets": [
-          "• Congress is still debating whether to extend the subsidies to pay consumers' health care costs",
-          "• Some lawmakers say the extension of the subsidies would have a big impact on their vote for Congress"
-        ],
-        "stakes_bullets": [
-          "• Congress is still debating whether to extend the subsidies to pay consumers' health care costs",
-          "• Some lawmakers say the extension of the subsidies would have a big impact on their vote for Congress",
-          "• Consumers say they will wait to see what happens before deciding whether to sign up to vote "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "81401ea181d9"
-    },
-    {
-      "id": "339ed0d9ae4f",
-      "title": "Trump says Rob Reiner had 'Trump Derangement Syndrome' in post on his death",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/15/nx-s1-5644927/trump-rob-reiner-death-truth-social",
-      "published_at": "Mon, 15 Dec 2025 11:14:30 -0500",
-      "bullets": [
-        "• Trump says Rob Reiner had 'Trump Derangement Syndrome' in post on his death",
-        "• Reiner and his wife died over the weekend in what officials are investigating as a homicide",
-        "• Their 32-year-old son, Nick, has been arrested "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump says Rob Reiner had 'Trump Derangement Syndrome' in post on his death",
-          "• Reiner and his wife died over the weekend in what officials are investigating as a homicide"
-        ],
-        "hopeful_bullets": [
-          "• Trump says Rob Reiner had 'Trump Derangement Syndrome' in post on his death",
-          "• Reiner and his wife died over the weekend in what officials are investigating as a homicide"
-        ],
-        "stakes_bullets": [
-          "• Trump says Rob Reiner had 'Trump Derangement Syndrome' in post on his death",
-          "• Reiner and his wife died over the weekend in what officials are investigating as a homicide",
-          "• Their 32-year-old son, Nick, has been arrested "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f0c3f04f0509"
     },
     {
       "id": "e3b227da4dea",
@@ -7437,37 +7562,6 @@
       "cluster_id": "2c00dda72093"
     },
     {
-      "id": "8d8c3b72ad5f",
-      "title": "One Big, Shining Beacon for Climate Hope",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/15122025/bill-mckibben-here-comes-the-sun-climate-hope/",
-      "published_at": "Mon, 15 Dec 2025 09:55:00 +0000",
-      "bullets": [
-        "• Bill McKibben is a leading environmental activist on climate change and nature",
-        "• He helped found the global grassroots climate campaign 350.org",
-        "• He’s also written 20 books, starting with “The End of Nature” and most recently, “Here Comes the Sun”"
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Bill McKibben is a leading environmental activist on climate change and nature",
-          "• He helped found the global grassroots climate campaign 350.org"
-        ],
-        "hopeful_bullets": [
-          "• He helped found the global grassroots climate campaign 350.org"
-        ],
-        "stakes_bullets": [
-          "• Bill McKibben is a leading environmental activist on climate change and nature"
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "fba747f6355c"
-    },
-    {
       "id": "e18ab1677ce3",
       "title": "Breaking boundaries: the headsets bringing cricket to partially sighted fans",
       "outlet": "Positive News",
@@ -7498,40 +7592,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "b7a0d1c7688d"
-    },
-    {
-      "id": "81ed590a6a78",
-      "title": "With ACA deadline approaching, House to vote on plans to address rising costs",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/15/nx-s1-5644107/with-aca-deadline-approaching-house-to-vote-on-plans-to-address-rising-costs",
-      "published_at": "Mon, 15 Dec 2025 05:08:34 -0500",
-      "bullets": [
-        "• With ACA deadline approaching, House to vote on plans to address rising costs",
-        "• House expected to vote this week on several proposals this week to avert rising costs as the deadline for Affordable Care Act subsidies fast approaches",
-        "• House Speaker Mike Johnson has promised a vote on his health care proposal, which does something different",
-        "• NPR's Luke Garrett is here to tell us about the proposal "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.973
-      },
-      "moods": {
-        "brief_bullets": [
-          "• With ACA deadline approaching, House to vote on plans to address rising costs",
-          "• House expected to vote this week on several proposals this week to avert rising costs as the deadline for Affordable Care Act subsidies fast approaches"
-        ],
-        "hopeful_bullets": [
-          "• With ACA deadline approaching, House to vote on plans to address rising costs",
-          "• House expected to vote this week on several proposals this week to avert rising costs as the deadline for Affordable Care Act subsidies fast approaches"
-        ],
-        "stakes_bullets": [
-          "• With ACA deadline approaching, House to vote on plans to address rising costs",
-          "• House expected to vote this week on several proposals this week to avert rising costs as the deadline for Affordable Care Act subsidies fast approaches"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "4adacfb7beab"
     },
     {
       "id": "11607afa6306",
@@ -7862,6 +7922,40 @@
       "cluster_id": "ab77f19f8934"
     },
     {
+      "id": "2bf07c12aa9e",
+      "title": "Pre-Order Hasbro's The Vintage Collection Fan Channel Wave",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-12-pre-order-hasbros-the-vintage-collection-fan-channel-wave/?utm_source=rss&utm_medium=rss&utm_campaign=pre-order-hasbros-the-vintage-collection-fan-channel-wave",
+      "published_at": "Fri, 12 Dec 2025 18:12:44 +0000",
+      "bullets": [
+        "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
+        "• Click below for links: Full Case Via Entertainment Earth",
+        "• Pre-Orders The Black Series [Phase IV] The Vintage Series "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
+          "• Click below for links: Full Case Via Entertainment Earth"
+        ],
+        "hopeful_bullets": [
+          "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
+          "• Click below for links: Full Case Via Entertainment Earth"
+        ],
+        "stakes_bullets": [
+          "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
+          "• Click below for links: Full Case Via Entertainment Earth",
+          "• Pre-Orders The Black Series [Phase IV] The Vintage Series "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "fa61653efed2"
+    },
+    {
       "id": "994bb2207adb",
       "title": "Flooding remains threat in Pacific north-west as Washington declares emergency",
       "outlet": "Environment | The Guardian",
@@ -7926,6 +8020,41 @@
       },
       "read_minutes": 4,
       "cluster_id": "01245a5f8aaa"
+    },
+    {
+      "id": "6f373d98f2fa",
+      "title": "Brand New Knights Of The Old Republic Game Announced!",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-12-brand-new-knights-of-the-old-republic-game-announced/?utm_source=rss&utm_medium=rss&utm_campaign=brand-new-knights-of-the-old-republic-game-announced",
+      "published_at": "Fri, 12 Dec 2025 13:14:10 +0000",
+      "bullets": [
+        "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
+        "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy",
+        "• The game will be a narrative driven single player RPG",
+        "• It is intended for release on PC and consoles (so not an exclusive title)"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.922
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
+          "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy"
+        ],
+        "hopeful_bullets": [
+          "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
+          "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy"
+        ],
+        "stakes_bullets": [
+          "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
+          "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy",
+          "• The game will be a narrative driven single player RPG"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "807bcb52eaa5"
     },
     {
       "id": "2108915dafea",
@@ -8661,6 +8790,72 @@
       "cluster_id": "8a1f3b14891e"
     },
     {
+      "id": "17ceaba71f81",
+      "title": "Weekend projections: Zootopia returns to the top of the chart as Ella McCay disappoints",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260440830-Weekend-projections-Zootopia-returns-to-the-top-of-the-chart-as-Ella-McCay-disappoints",
+      "published_at": null,
+      "bullets": [
+        "• Zootopia returns to top of the chart as Five Nights at Freddy’s 2 takes a steep drop from its opening weekend",
+        "• Ella McCay's $2.1 million on debut is a disappointment, and only enough for seventh place on the chart "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Zootopia returns to top of the chart as Five Nights at Freddy’s 2 takes a steep drop from its opening weekend",
+          "• Ella McCay's $2.1 million on debut is a disappointment, and only enough for seventh place on the chart "
+        ],
+        "hopeful_bullets": [
+          "• Zootopia returns to top of the chart as Five Nights at Freddy’s 2 takes a steep drop from its opening weekend",
+          "• Ella McCay's $2.1 million on debut is a disappointment, and only enough for seventh place on the chart "
+        ],
+        "stakes_bullets": [
+          "• Zootopia returns to top of the chart as Five Nights at Freddy’s 2 takes a steep drop from its opening weekend",
+          "• Ella McCay's $2.1 million on debut is a disappointment, and only enough for seventh place on the chart "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "762360ec61f8"
+    },
+    {
+      "id": "2a0052b4ec2e",
+      "title": "Weekend predictions: Zootopia likely winner in last weekend before the Holiday rush",
+      "outlet": "The Numbers",
+      "url": "https://www.the-numbers.com/news/260430830-Weekend-predictions-Zootopia-likely-winner-in-last-weekend-before-the-Holiday-rush",
+      "published_at": null,
+      "bullets": [
+        "• Zootopia 2 is the clear favorite to come top at the box office this weekend",
+        "• Five Nights at Freddy’s 2 likely to take a steep fall from its $64-million opening last weekend",
+        "• Wicked: For Good should land third, with Ella McCay (the only new release playing in over 2,000 theaters) and How the Grinch Stole Christmas looking likely to battle for fourth and fifth places "
+      ],
+      "category": "Movies",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.819
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Zootopia 2 is the clear favorite to come top at the box office this weekend",
+          "• Five Nights at Freddy’s 2 likely to take a steep fall from its $64-million opening last weekend"
+        ],
+        "hopeful_bullets": [
+          "• Zootopia 2 is the clear favorite to come top at the box office this weekend",
+          "• Five Nights at Freddy’s 2 likely to take a steep fall from its $64-million opening last weekend"
+        ],
+        "stakes_bullets": [
+          "• Zootopia 2 is the clear favorite to come top at the box office this weekend",
+          "• Five Nights at Freddy’s 2 likely to take a steep fall from its $64-million opening last weekend",
+          "• Wicked: For Good should land third, with Ella McCay (the only new release playing in over 2,000 theaters) and How the Grinch Stole Christmas looking likely to battle for fourth and fifth places "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "144f80f5d4d4"
+    },
+    {
       "id": "72c95f94e646",
       "title": "Theater counts: Zootopia 2 barrels into its third weekend, holding strong as the widest release",
       "outlet": "The Numbers",
@@ -8939,18 +9134,18 @@
       ]
     },
     {
-      "id": "69717ddce486",
-      "topic": "couple dashcam show stop",
+      "id": "e1fea256fba9",
+      "topic": "funeral loss place rabbi",
       "keywords": [
-        "couple",
-        "dashcam",
-        "show",
-        "stop",
-        "trying",
-        "video"
+        "funeral",
+        "loss",
+        "place",
+        "rabbi",
+        "take",
+        "unspeakable"
       ],
       "item_ids": [
-        "dfdb1e2749b9"
+        "95f146444148"
       ],
       "outlets": [
         "BBC News"
@@ -8995,18 +9190,18 @@
       ]
     },
     {
-      "id": "53a577517587",
-      "topic": "ban countrie expand five",
+      "id": "24e759ce80dc",
+      "topic": "accused centre illegal processing",
       "keywords": [
-        "ban",
-        "countrie",
-        "expand",
-        "five",
-        "travel",
-        "trump"
+        "accused",
+        "centre",
+        "illegal",
+        "processing",
+        "using",
+        "worker"
       ],
       "item_ids": [
-        "829bd7b45aa1"
+        "104d0e598001"
       ],
       "outlets": [
         "BBC News"
@@ -9049,6 +9244,42 @@
       ]
     },
     {
+      "id": "53a577517587",
+      "topic": "ban countrie expand five",
+      "keywords": [
+        "ban",
+        "countrie",
+        "expand",
+        "five",
+        "travel",
+        "trump"
+      ],
+      "item_ids": [
+        "829bd7b45aa1"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "e8431edda6f2",
+      "topic": "doctor matthew overdose perry",
+      "keywords": [
+        "doctor",
+        "matthew",
+        "overdose",
+        "perry",
+        "second",
+        "sentenced"
+      ],
+      "item_ids": [
+        "a2aa3bf66bb8"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "ea36ab865b5e",
       "topic": "chief dispute fair staff",
       "keywords": [
@@ -9061,42 +9292,6 @@
       ],
       "item_ids": [
         "136a28b4cb1c"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "5faf2200305f",
-      "topic": "diesel down end petrol",
-      "keywords": [
-        "diesel",
-        "down",
-        "end",
-        "petrol",
-        "plan",
-        "water"
-      ],
-      "item_ids": [
-        "9c53f660318c"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "0a83c5fca216",
-      "topic": "cover killing mass rsf",
-      "keywords": [
-        "cover",
-        "killing",
-        "mass",
-        "rsf",
-        "sudan",
-        "trying"
-      ],
-      "item_ids": [
-        "f43433d18e5d"
       ],
       "outlets": [
         "BBC News"
@@ -9427,6 +9622,150 @@
       ]
     },
     {
+      "id": "2cc2c7b64b6b",
+      "topic": "attack does inspired islamic",
+      "keywords": [
+        "attack",
+        "does",
+        "inspired",
+        "islamic",
+        "recent",
+        "state"
+      ],
+      "item_ids": [
+        "0c0741e3917b"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "545ec8b43be1",
+      "topic": "came fight long obamacare",
+      "keywords": [
+        "came",
+        "fight",
+        "long",
+        "obamacare",
+        "running",
+        "thwart"
+      ],
+      "item_ids": [
+        "ecbc8905ffc1"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "43bbb6302f3a",
+      "topic": "acros build nuclear reactor",
+      "keywords": [
+        "acros",
+        "build",
+        "nuclear",
+        "reactor",
+        "rush",
+        "trump"
+      ],
+      "item_ids": [
+        "b90342b2ae45"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "e58025a9ad35",
+      "topic": "approval economic hits low",
+      "keywords": [
+        "approval",
+        "economic",
+        "hits",
+        "low",
+        "poll",
+        "trump"
+      ],
+      "item_ids": [
+        "dd7f24148c40"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "6963c61acd9a",
+      "topic": "crime found guns scene",
+      "keywords": [
+        "crime",
+        "found",
+        "guns",
+        "scene",
+        "tell",
+        "thousand"
+      ],
+      "item_ids": [
+        "dec497bd43c7"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "a6e35bfde9a6",
+      "topic": "bird dropping ended holiday",
+      "keywords": [
+        "bird",
+        "dropping",
+        "ended",
+        "holiday",
+        "kisse",
+        "under"
+      ],
+      "item_ids": [
+        "887c9b0f612e"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "2fa131600993",
+      "topic": "beware christma coronary holiday",
+      "keywords": [
+        "beware",
+        "christma",
+        "coronary",
+        "holiday",
+        "sign",
+        "spot"
+      ],
+      "item_ids": [
+        "939c3c539da8"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "1f3d69164fb6",
+      "topic": "chain cheese pull restaurant",
+      "keywords": [
+        "chain",
+        "cheese",
+        "pull",
+        "restaurant",
+        "saving",
+        "viral"
+      ],
+      "item_ids": [
+        "da217319f7bd"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "0f74a127728c",
       "topic": "beach bondi charged gunman",
       "keywords": [
@@ -9445,165 +9784,21 @@
       ]
     },
     {
-      "id": "473823dcf918",
-      "topic": "ban expand include restriction",
+      "id": "4f331b33711e",
+      "topic": "ben cnbc founder jerry",
       "keywords": [
-        "ban",
-        "expand",
-        "include",
-        "restriction",
-        "travel",
-        "trump"
+        "ben",
+        "cnbc",
+        "founder",
+        "jerry",
+        "orwellian",
+        "tell"
       ],
       "item_ids": [
-        "6e25c240d355"
+        "e8f63eb5e2b0"
       ],
       "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "edea08f9cb26",
-      "topic": "charged degree first murder",
-      "keywords": [
-        "charged",
-        "degree",
-        "first",
-        "murder",
-        "nick",
-        "reiner"
-      ],
-      "item_ids": [
-        "ed8837657ac0"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "52280c624e99",
-      "topic": "fifa outcry price sell",
-      "keywords": [
-        "fifa",
-        "outcry",
-        "price",
-        "sell",
-        "ticket",
-        "world"
-      ],
-      "item_ids": [
-        "cf69708c577a"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "28db3c8de774",
-      "topic": "fair interview know susie",
-      "keywords": [
-        "fair",
-        "interview",
-        "know",
-        "susie",
-        "vanity",
-        "wile"
-      ],
-      "item_ids": [
-        "fa0a1ebea487"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "5ecf44eb9074",
-      "topic": "attack beach bondi cast",
-      "keywords": [
-        "attack",
-        "beach",
-        "bondi",
-        "cast",
-        "hanukkah",
-        "shadow"
-      ],
-      "item_ids": [
-        "6fd1cb09b967"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "ab833426767a",
-      "topic": "increasingly poll psychologist tool",
-      "keywords": [
-        "increasingly",
-        "poll",
-        "psychologist",
-        "tool",
-        "using",
-        "worrying"
-      ],
-      "item_ids": [
-        "eb02689c00d4"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "ab39a027ae0f",
-      "topic": "1951 end helped school",
-      "keywords": [
-        "1951",
-        "end",
-        "helped",
-        "school",
-        "segregation",
-        "walkout"
-      ],
-      "item_ids": [
-        "19ef45155e41"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "646e29d1164d",
-      "topic": "federal glacier melting orange",
-      "keywords": [
-        "federal",
-        "glacier",
-        "melting",
-        "orange",
-        "report",
-        "river"
-      ],
-      "item_ids": [
-        "50901b12fa3b"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "f14cda76706f",
-      "topic": "body hama held hostage",
-      "keywords": [
-        "body",
-        "hama",
-        "held",
-        "hostage",
-        "last",
-        "search"
-      ],
-      "item_ids": [
-        "1fa5a21eabdf"
-      ],
-      "outlets": [
-        "NPR Topics: News"
+        "US Top News and Analysis"
       ]
     },
     {
@@ -9643,18 +9838,36 @@
       ]
     },
     {
-      "id": "4f331b33711e",
-      "topic": "ben cnbc founder jerry",
+      "id": "cf3b99d66031",
+      "topic": "california deceptive engaged judge",
       "keywords": [
-        "ben",
-        "cnbc",
-        "founder",
-        "jerry",
-        "orwellian",
-        "tell"
+        "california",
+        "deceptive",
+        "engaged",
+        "judge",
+        "rule",
+        "tesla"
       ],
       "item_ids": [
-        "e8f63eb5e2b0"
+        "fa7abedd3c29"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "d5c688faace9",
+      "topic": "hour make move nasdaq",
+      "keywords": [
+        "hour",
+        "make",
+        "move",
+        "nasdaq",
+        "nearly",
+        "trading"
+      ],
+      "item_ids": [
+        "21575fdc7cba"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9679,72 +9892,36 @@
       ]
     },
     {
-      "id": "04bb35306af7",
-      "topic": "fall fueling inflation likelihood",
+      "id": "facd26006a30",
+      "topic": "aca fraud rampant republican",
       "keywords": [
-        "fall",
-        "fueling",
-        "inflation",
-        "likelihood",
-        "november",
-        "sharply"
+        "aca",
+        "fraud",
+        "rampant",
+        "republican",
+        "say",
+        "subsidy"
       ],
       "item_ids": [
-        "d80672e16320"
+        "bdc944c74876"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "6834046d49f4",
-      "topic": "european fall inflation market",
+      "id": "34f8eebf857a",
+      "topic": "accomplishment addres nation tout",
       "keywords": [
-        "european",
-        "fall",
-        "inflation",
-        "market",
-        "rise",
-        "sterling"
+        "accomplishment",
+        "addres",
+        "nation",
+        "tout",
+        "trump",
+        "wednesday"
       ],
       "item_ids": [
-        "d628295ebde9"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "0ef17b10929d",
-      "topic": "alphabet billion owned raise",
-      "keywords": [
-        "alphabet",
-        "billion",
-        "owned",
-        "raise",
-        "talk",
-        "waymo"
-      ],
-      "item_ids": [
-        "a0a3f3839a63"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "a7f9a72f2387",
-      "topic": "close investor rally record",
-      "keywords": [
-        "close",
-        "investor",
-        "rally",
-        "record",
-        "stock",
-        "tesla"
-      ],
-      "item_ids": [
-        "c9f71387853f"
+        "2a131964b2cc"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9769,21 +9946,57 @@
       ]
     },
     {
-      "id": "4c0c2b0e97fb",
-      "topic": "china flocking government jobs",
+      "id": "0ef17b10929d",
+      "topic": "alphabet billion owned raise",
       "keywords": [
-        "china",
-        "flocking",
-        "government",
-        "jobs",
-        "record",
-        "young"
+        "alphabet",
+        "billion",
+        "owned",
+        "raise",
+        "talk",
+        "waymo"
       ],
       "item_ids": [
-        "06c1ad20840e"
+        "a0a3f3839a63"
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "9a3469f24494",
+      "topic": "free needle offering pillow",
+      "keywords": [
+        "free",
+        "needle",
+        "offering",
+        "pillow",
+        "set",
+        "tuft"
+      ],
+      "item_ids": [
+        "692daa3c4d81"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "e2fa9d6404c7",
+      "topic": "cipher enabled encryption finally",
+      "keywords": [
+        "cipher",
+        "enabled",
+        "encryption",
+        "finally",
+        "kill",
+        "microsoft"
+      ],
+      "item_ids": [
+        "447e298d1798"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -9925,42 +10138,6 @@
       ],
       "item_ids": [
         "116c3a5bf28b"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "a61657e8fff7",
-      "topic": "american classic full giant",
-      "keywords": [
-        "american",
-        "classic",
-        "full",
-        "giant",
-        "iconic",
-        "redesign"
-      ],
-      "item_ids": [
-        "b578feec964b"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "d272d6c7da55",
-      "topic": "2025 best coffee elephant",
-      "keywords": [
-        "2025",
-        "best",
-        "coffee",
-        "elephant",
-        "gift",
-        "white"
-      ],
-      "item_ids": [
-        "17834f7aa7d3"
       ],
       "outlets": [
         "WIRED"
@@ -10514,6 +10691,24 @@
       ]
     },
     {
+      "id": "646e29d1164d",
+      "topic": "federal glacier melting orange",
+      "keywords": [
+        "federal",
+        "glacier",
+        "melting",
+        "orange",
+        "report",
+        "river"
+      ],
+      "item_ids": [
+        "50901b12fa3b"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
       "id": "e8920b36fe06",
       "topic": "geminid meteor peak rejoice",
       "keywords": [
@@ -10621,39 +10816,57 @@
       ]
     },
     {
-      "id": "7846ebed6e8a",
-      "topic": "ancient attract flower forget",
+      "id": "473823dcf918",
+      "topic": "ban expand include restriction",
       "keywords": [
-        "ancient",
-        "attract",
-        "flower",
-        "forget",
-        "plant",
-        "these"
+        "ban",
+        "expand",
+        "include",
+        "restriction",
+        "travel",
+        "trump"
       ],
       "item_ids": [
-        "ee3a020c8279"
+        "6e25c240d355"
       ],
       "outlets": [
-        "NPR Topics: Science"
+        "NPR Topics: Politics"
       ]
     },
     {
-      "id": "f5c7ee03b0a9",
-      "topic": "000 400 fire making",
+      "id": "28db3c8de774",
+      "topic": "fair interview know susie",
       "keywords": [
-        "000",
-        "400",
-        "fire",
-        "making",
-        "material",
-        "year"
+        "fair",
+        "interview",
+        "know",
+        "susie",
+        "vanity",
+        "wile"
       ],
       "item_ids": [
-        "31f14de5269c"
+        "fa0a1ebea487"
       ],
       "outlets": [
-        "NPR Topics: Science"
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "ab39a027ae0f",
+      "topic": "1951 end helped school",
+      "keywords": [
+        "1951",
+        "end",
+        "helped",
+        "school",
+        "segregation",
+        "walkout"
+      ],
+      "item_ids": [
+        "19ef45155e41"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
       ]
     },
     {
@@ -10684,96 +10897,6 @@
       ],
       "item_ids": [
         "a4dea2e7d0cb"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "e3dae857fbd7",
-      "topic": "belonging history mahmood mamdani",
-      "keywords": [
-        "belonging",
-        "history",
-        "mahmood",
-        "mamdani",
-        "shaped",
-        "uganda"
-      ],
-      "item_ids": [
-        "fe6fc77c11ef"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "b6704dbc4ce1",
-      "topic": "boat eastern military ocean",
-      "keywords": [
-        "boat",
-        "eastern",
-        "military",
-        "ocean",
-        "pacific",
-        "strike"
-      ],
-      "item_ids": [
-        "74d15dcbf6b8"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "81401ea181d9",
-      "topic": "aca congres face shock",
-      "keywords": [
-        "aca",
-        "congres",
-        "face",
-        "shock",
-        "shopper",
-        "sticker"
-      ],
-      "item_ids": [
-        "b5568a802041"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "f0c3f04f0509",
-      "topic": "derangement post reiner rob",
-      "keywords": [
-        "derangement",
-        "post",
-        "reiner",
-        "rob",
-        "syndrome",
-        "trump"
-      ],
-      "item_ids": [
-        "339ed0d9ae4f"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "4adacfb7beab",
-      "topic": "aca approaching deadline house",
-      "keywords": [
-        "aca",
-        "approaching",
-        "deadline",
-        "house",
-        "plan",
-        "vote"
-      ],
-      "item_ids": [
-        "81ed590a6a78"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -11094,6 +11217,42 @@
       ]
     },
     {
+      "id": "f23005d2ea74",
+      "topic": "abroad boon china clean",
+      "keywords": [
+        "abroad",
+        "boon",
+        "china",
+        "clean",
+        "energy",
+        "investment"
+      ],
+      "item_ids": [
+        "0a3f1c4aaaa8"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "609f938c4395",
+      "topic": "agriculture farmer method ohio",
+      "keywords": [
+        "agriculture",
+        "farmer",
+        "method",
+        "ohio",
+        "regenerative",
+        "say"
+      ],
+      "item_ids": [
+        "8bc7e74aa7b4"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
       "id": "48d741d400de",
       "topic": "ape deadly flood pushed",
       "keywords": [
@@ -11237,38 +11396,39 @@
       ]
     },
     {
-      "id": "fba747f6355c",
-      "topic": "beacon big climate hope",
+      "id": "762360ec61f8",
+      "topic": "chart projection return top",
       "keywords": [
-        "beacon",
-        "big",
-        "climate",
-        "hope",
-        "shining"
+        "chart",
+        "projection",
+        "return",
+        "top",
+        "weekend",
+        "zootopia"
       ],
       "item_ids": [
-        "8d8c3b72ad5f"
+        "17ceaba71f81"
       ],
       "outlets": [
-        "Inside Climate News"
+        "The Numbers"
       ]
     },
     {
-      "id": "b69af1ed791f",
-      "topic": "cost hoping lower rancher",
+      "id": "144f80f5d4d4",
+      "topic": "last likely prediction weekend",
       "keywords": [
-        "cost",
-        "hoping",
-        "lower",
-        "rancher",
-        "solar",
-        "wyoming"
+        "last",
+        "likely",
+        "prediction",
+        "weekend",
+        "winner",
+        "zootopia"
       ],
       "item_ids": [
-        "a01f6d8a9224"
+        "2a0052b4ec2e"
       ],
       "outlets": [
-        "Inside Climate News"
+        "The Numbers"
       ]
     },
     {
@@ -12289,6 +12449,146 @@
       ],
       "outlets": [
         "HorrorFix"
+      ]
+    },
+    {
+      "id": "e035bc8e7532",
+      "topic": "hot magnaguard mms856 revenge",
+      "keywords": [
+        "hot",
+        "magnaguard",
+        "mms856",
+        "revenge",
+        "sith",
+        "toys"
+      ],
+      "item_ids": [
+        "1acb08ef7363"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "e2f4eb0bcf07",
+      "topic": "awaken back force looking",
+      "keywords": [
+        "awaken",
+        "back",
+        "force",
+        "looking"
+      ],
+      "item_ids": [
+        "9f99c5067546"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "fa61653efed2",
+      "topic": "collection fan hasbro order",
+      "keywords": [
+        "collection",
+        "fan",
+        "hasbro",
+        "order",
+        "pre",
+        "vintage"
+      ],
+      "item_ids": [
+        "2bf07c12aa9e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "807bcb52eaa5",
+      "topic": "announced brand game knight",
+      "keywords": [
+        "announced",
+        "brand",
+        "game",
+        "knight",
+        "old",
+        "republic"
+      ],
+      "item_ids": [
+        "6f373d98f2fa"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "833f992e43b1",
+      "topic": "black fanstream hasbro reveal",
+      "keywords": [
+        "black",
+        "fanstream",
+        "hasbro",
+        "reveal",
+        "serie",
+        "today"
+      ],
+      "item_ids": [
+        "aa4c0a156448"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "433b369caf2e",
+      "topic": "fanstream hasbro start today",
+      "keywords": [
+        "fanstream",
+        "hasbro",
+        "start",
+        "today"
+      ],
+      "item_ids": [
+        "021b3a34bfe8"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "c3f51dfd0efe",
+      "topic": "fanstream hasbro launche next",
+      "keywords": [
+        "fanstream",
+        "hasbro",
+        "launche",
+        "next",
+        "star",
+        "wars"
+      ],
+      "item_ids": [
+        "7c705bad90a4"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "e101db73aa78",
+      "topic": "darth filippo launche line",
+      "keywords": [
+        "darth",
+        "filippo",
+        "launche",
+        "line",
+        "loreti",
+        "vader"
+      ],
+      "item_ids": [
+        "9dd7ad09e70f"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
       ]
     },
     {
