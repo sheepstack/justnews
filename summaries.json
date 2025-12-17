@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-17T05:12:56Z",
+  "generated_at": "2025-12-17T06:05:23Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -70,6 +70,73 @@
       "cluster_id": "2310b1aa0d50"
     },
     {
+      "id": "d99ed478a19f",
+      "title": "‘Magical’ galaxy frogs disappear after reports of photographers destroying their habitats",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/dec/17/galaxy-frogs-disappear-photographers-habitat-kerala",
+      "published_at": "Wed, 17 Dec 2025 05:00:27 GMT",
+      "bullets": [
+        "• Melanobatrachus indicus is the only species in its family, and lives under logs in the rainforest in Kerala, India",
+        "• Their miraculous spots do not indicate poison, as people sometimes assume, but are thought to be used as a mode of communication "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Melanobatrachus indicus is the only species in its family, and lives under logs in the rainforest in Kerala, India",
+          "• Their miraculous spots do not indicate poison, as people sometimes assume, but are thought to be used as a mode of communication "
+        ],
+        "hopeful_bullets": [
+          "• Melanobatrachus indicus is the only species in its family, and lives under logs in the rainforest in Kerala, India",
+          "• Their miraculous spots do not indicate poison, as people sometimes assume, but are thought to be used as a mode of communication "
+        ],
+        "stakes_bullets": [
+          "• Melanobatrachus indicus is the only species in its family, and lives under logs in the rainforest in Kerala, India",
+          "• Their miraculous spots do not indicate poison, as people sometimes assume, but are thought to be used as a mode of communication "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "deb71f32a5d8"
+    },
+    {
+      "id": "40d030e37f88",
+      "title": "Nick Cagnetti talks The Spirit of Shadows comic",
+      "outlet": "Wicked Horror",
+      "url": "https://wickedhorror.com/horror-news/nick-cagnetti-talks-the-spirit-of-shadows-comic/",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 +0000",
+      "bullets": [
+        "• Spirit of the Shadows is the first full-length comic book to be released in 2026",
+        "• Issue No",
+        "• 1 is written by Cagnetti and co-written by the author of the book",
+        "• The book is set to be the first in the world of a new series "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Spirit of the Shadows is the first full-length comic book to be released in 2026",
+          "• Issue No"
+        ],
+        "hopeful_bullets": [
+          "• Spirit of the Shadows is the first full-length comic book to be released in 2026",
+          "• Issue No"
+        ],
+        "stakes_bullets": [
+          "• Spirit of the Shadows is the first full-length comic book to be released in 2026",
+          "• Issue No",
+          "• 1 is written by Cagnetti and co-written by the author of the book"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "485bdfd86a43"
+    },
+    {
       "id": "00a1f7eaadaf",
       "title": "One Piece Makes History With Chapter 1168",
       "outlet": "CBR",
@@ -102,6 +169,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "799f42d431aa"
+    },
+    {
+      "id": "fa7680283270",
+      "title": "OpenAI in talks with Amazon about investment that could exceed $10 billion",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/16/openai-in-talks-with-amazon-about-investment-could-top-10-billion.html",
+      "published_at": "Wed, 17 Dec 2025 04:42:44 GMT",
+      "bullets": [
+        "• OpenAI is in discussions with Amazon about a potential investment and an agreement to use its artificial intelligence chips",
+        "• Amazon has been designing its own AI chips since around 2015, and the hardware has become crucial for AI companies that are trying to train models and meet demand for compute "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.551
+      },
+      "moods": {
+        "brief_bullets": [
+          "• OpenAI is in discussions with Amazon about a potential investment and an agreement to use its artificial intelligence chips",
+          "• Amazon has been designing its own AI chips since around 2015, and the hardware has become crucial for AI companies that are trying to train models and meet demand for compute "
+        ],
+        "hopeful_bullets": [
+          "• OpenAI is in discussions with Amazon about a potential investment and an agreement to use its artificial intelligence chips",
+          "• Amazon has been designing its own AI chips since around 2015, and the hardware has become crucial for AI companies that are trying to train models and meet demand for compute "
+        ],
+        "stakes_bullets": [
+          "• OpenAI is in discussions with Amazon about a potential investment and an agreement to use its artificial intelligence chips",
+          "• Amazon has been designing its own AI chips since around 2015, and the hardware has become crucial for AI companies that are trying to train models and meet demand for compute "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "43fbe94e751e"
     },
     {
       "id": "c1c9113265ec",
@@ -439,39 +538,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "d4e04118bfb2"
-    },
-    {
-      "id": "20533e55f983",
-      "title": "Japan's exports record fastest growth in nine months, sharply beating expectations",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/17/japans-exports-imports-trade-data-november.html",
-      "published_at": "Wed, 17 Dec 2025 03:35:35 GMT",
-      "bullets": [
-        "• Japan's exports in November rose at 6.1% year on year, data from the country's finance ministry released Wednesday",
-        "• The growth sharply beat expectations of an average 4.8% rise estimated by economists polled by Reuters",
-        "• The data comes after revised GDP numbers for the third quarter showed that Japan's economy contracted more than initially estimated "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.92
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Japan's exports in November rose at 6.1% year on year, data from the country's finance ministry released Wednesday",
-          "• The growth sharply beat expectations of an average 4.8% rise estimated by economists polled by Reuters"
-        ],
-        "hopeful_bullets": [
-          "• The growth sharply beat expectations of an average 4.8% rise estimated by economists polled by Reuters"
-        ],
-        "stakes_bullets": [
-          "• Japan's exports in November rose at 6.1% year on year, data from the country's finance ministry released Wednesday",
-          "• The growth sharply beat expectations of an average 4.8% rise estimated by economists polled by Reuters",
-          "• The data comes after revised GDP numbers for the third quarter showed that Japan's economy contracted more than initially estimated "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "64eb6ffa1eef"
     },
     {
       "id": "04ff8ca14bee",
@@ -3531,40 +3597,6 @@
       "cluster_id": "6661ab09cb60"
     },
     {
-      "id": "19258aab919c",
-      "title": "Arctic endured year of record heat as climate scientists warn of ‘winter being redefined’",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/dec/16/artic-record-heat-shrunken-sea-ice-report",
-      "published_at": "Tue, 16 Dec 2025 17:01:09 GMT",
-      "bullets": [
-        "• From October 2024 to September 2025, temperatures across the entire Arctic region were the hottest in 125 years of modern record keeping",
-        "• The maximum extent of sea ice in 2025 was the lowest in the 47-year satellite record",
-        "• The region's oldest, thickest ice has declined by more than 95% since the 1980s "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.973
-      },
-      "moods": {
-        "brief_bullets": [
-          "• From October 2024 to September 2025, temperatures across the entire Arctic region were the hottest in 125 years of modern record keeping",
-          "• The maximum extent of sea ice in 2025 was the lowest in the 47-year satellite record"
-        ],
-        "hopeful_bullets": [
-          "• From October 2024 to September 2025, temperatures across the entire Arctic region were the hottest in 125 years of modern record keeping",
-          "• The maximum extent of sea ice in 2025 was the lowest in the 47-year satellite record"
-        ],
-        "stakes_bullets": [
-          "• From October 2024 to September 2025, temperatures across the entire Arctic region were the hottest in 125 years of modern record keeping",
-          "• The maximum extent of sea ice in 2025 was the lowest in the 47-year satellite record",
-          "• The region's oldest, thickest ice has declined by more than 95% since the 1980s "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a19b1258ed9d"
-    },
-    {
       "id": "8ef8e006d55a",
       "title": "Utah leaders hinder efforts to develop solar energy supply",
       "outlet": "Ars Technica - All content",
@@ -6203,38 +6235,6 @@
       "cluster_id": "d69b4c693308"
     },
     {
-      "id": "0ed239aed088",
-      "title": "What’s Coming to Wicked Horror TV in November?",
-      "outlet": "Wicked Horror",
-      "url": "https://wickedhorror.com/horror-news/whats-coming-to-wicked-horror-tv-in-november/",
-      "published_at": "Sun, 26 Oct 2025 03:58:00 +0000",
-      "bullets": [
-        "• Lots of horror and scares are coming to Wicked Horror TV in November",
-        "• You’ll find mad butchers and serial killers, a vampire circus and a private eye with strange found footage to explain",
-        "• Scroll down to see all there will be to see in November and even a little before!"
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Lots of horror and scares are coming to Wicked Horror TV in November",
-          "• You’ll find mad butchers and serial killers, a vampire circus and a private eye with strange found footage to explain"
-        ],
-        "hopeful_bullets": [
-          "• Lots of horror and scares are coming to Wicked Horror TV in November",
-          "• You’ll find mad butchers and serial killers, a vampire circus and a private eye with strange found footage to explain"
-        ],
-        "stakes_bullets": [
-          "• Scroll down to see all there will be to see in November and even a little before!"
-        ]
-      },
-      "read_minutes": 13,
-      "cluster_id": "f2bfdbda393f"
-    },
-    {
       "id": "f34c3e3856cf",
       "title": "Ghanaian students at UK universities face deportation amid funding crisis",
       "outlet": "World news | The Guardian",
@@ -6433,7 +6433,7 @@
         ]
       },
       "read_minutes": 13,
-      "cluster_id": "f2bfdbda393f"
+      "cluster_id": "85c9ad75c505"
     },
     {
       "id": "f216a779aac4",
@@ -9970,6 +9970,24 @@
       ]
     },
     {
+      "id": "43fbe94e751e",
+      "topic": "amazon billion exceed investment",
+      "keywords": [
+        "amazon",
+        "billion",
+        "exceed",
+        "investment",
+        "openai",
+        "talk"
+      ],
+      "item_ids": [
+        "fa7680283270"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "58c036b65d49",
       "topic": "designate government regime terrorist",
       "keywords": [
@@ -10090,24 +10108,6 @@
       ],
       "item_ids": [
         "da3de5b9421d"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "64eb6ffa1eef",
-      "topic": "export fastest growth japan",
-      "keywords": [
-        "export",
-        "fastest",
-        "growth",
-        "japan",
-        "nine",
-        "record"
-      ],
-      "item_ids": [
-        "20533e55f983"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -11421,6 +11421,24 @@
       ]
     },
     {
+      "id": "deb71f32a5d8",
+      "topic": "disappear frog galaxy magical",
+      "keywords": [
+        "disappear",
+        "frog",
+        "galaxy",
+        "magical",
+        "photographer",
+        "report"
+      ],
+      "item_ids": [
+        "d99ed478a19f"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "d9a866da62ce",
       "topic": "common found household poison",
       "keywords": [
@@ -11451,24 +11469,6 @@
       ],
       "item_ids": [
         "9a321ddcb631"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "a19b1258ed9d",
-      "topic": "arctic climate endured heat",
-      "keywords": [
-        "arctic",
-        "climate",
-        "endured",
-        "heat",
-        "record",
-        "year"
-      ],
-      "item_ids": [
-        "19258aab919c"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -12373,6 +12373,24 @@
       ]
     },
     {
+      "id": "485bdfd86a43",
+      "topic": "cagnetti comic nick shadow",
+      "keywords": [
+        "cagnetti",
+        "comic",
+        "nick",
+        "shadow",
+        "spirit",
+        "talk"
+      ],
+      "item_ids": [
+        "40d030e37f88"
+      ],
+      "outlets": [
+        "Wicked Horror"
+      ]
+    },
+    {
       "id": "8fe219b46753",
       "topic": "game hitchcockian play rabid",
       "keywords": [
@@ -12391,18 +12409,16 @@
       ]
     },
     {
-      "id": "f2bfdbda393f",
-      "topic": "coming december horror november",
+      "id": "85c9ad75c505",
+      "topic": "coming december horror wicked",
       "keywords": [
         "coming",
         "december",
         "horror",
-        "november",
         "wicked"
       ],
       "item_ids": [
-        "c39d610858a7",
-        "0ed239aed088"
+        "c39d610858a7"
       ],
       "outlets": [
         "Wicked Horror"
