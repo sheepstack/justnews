@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-17T12:05:43Z",
+  "generated_at": "2025-12-17T12:18:38Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -68,6 +68,40 @@
       },
       "read_minutes": 40,
       "cluster_id": "2310b1aa0d50"
+    },
+    {
+      "id": "1a25f3ff3f28",
+      "title": "Apple Engineers Are Inspecting Bacon Packaging to Help Level Up US Manufacturers",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/apple-manufacturing-academy-michigan/",
+      "published_at": "Wed, 17 Dec 2025 11:30:00 +0000",
+      "bullets": [
+        "• ImageTek, a small manufacturer in Springfield, Vermont, customizes an open source AI tool for Apple",
+        "• Apple engineers developed a computer vision system to automatically identify color errors",
+        "• The technology requires finagling that comes easy with experience in AI",
+        "• Apple announced a $600 billion investment in US manufacturing through 2028 this year "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.973
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ImageTek, a small manufacturer in Springfield, Vermont, customizes an open source AI tool for Apple",
+          "• Apple engineers developed a computer vision system to automatically identify color errors"
+        ],
+        "hopeful_bullets": [
+          "• ImageTek, a small manufacturer in Springfield, Vermont, customizes an open source AI tool for Apple",
+          "• Apple engineers developed a computer vision system to automatically identify color errors"
+        ],
+        "stakes_bullets": [
+          "• The technology requires finagling that comes easy with experience in AI",
+          "• Apple announced a $600 billion investment in US manufacturing through 2028 this year "
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "625971491fe8"
     },
     {
       "id": "d55456d74cab",
@@ -926,6 +960,39 @@
       "cluster_id": "545ec8b43be1"
     },
     {
+      "id": "dd7f24148c40",
+      "title": "Trump's economic approval hits a new low at 36%, poll finds",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5645003/trump-poll-economy-approval",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• Just 36% of Americans approve of President Trump's plan to lower taxes",
+        "• That's a new low for the first time in six years",
+        "• Democrats are slightly more trusted to be more trusted in the White House than Republicans",
+        "• The White House is trying to make it clear that Americans are struggling to make ends meet "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Just 36% of Americans approve of President Trump's plan to lower taxes",
+          "• That's a new low for the first time in six years"
+        ],
+        "hopeful_bullets": [
+          "• Just 36% of Americans approve of President Trump's plan to lower taxes",
+          "• That's a new low for the first time in six years"
+        ],
+        "stakes_bullets": [
+          "• Just 36% of Americans approve of President Trump's plan to lower taxes"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "e58025a9ad35"
+    },
+    {
       "id": "dec497bd43c7",
       "title": "Thousands of guns are found at crime scenes. What do they tell us?",
       "outlet": "NPR Topics: News",
@@ -958,39 +1025,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "6963c61acd9a"
-    },
-    {
-      "id": "dd7f24148c40",
-      "title": "Trump's economic approval hits a new low at 36%, poll finds",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5645003/trump-poll-economy-approval",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• Just 36% of Americans approve of President Trump's plan to lower taxes",
-        "• That's a new low for the first time in six years",
-        "• Democrats are slightly more trusted to be more trusted in the White House than Republicans",
-        "• The White House is trying to make it clear that Americans are struggling to make ends meet "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Just 36% of Americans approve of President Trump's plan to lower taxes",
-          "• That's a new low for the first time in six years"
-        ],
-        "hopeful_bullets": [
-          "• Just 36% of Americans approve of President Trump's plan to lower taxes",
-          "• That's a new low for the first time in six years"
-        ],
-        "stakes_bullets": [
-          "• Just 36% of Americans approve of President Trump's plan to lower taxes"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "e58025a9ad35"
     },
     {
       "id": "887c9b0f612e",
@@ -1058,38 +1092,6 @@
       "cluster_id": "2fa131600993"
     },
     {
-      "id": "b90342b2ae45",
-      "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• Trump's rush to build nuclear reactors across the U.S",
-        "• raises safety worries",
-        "• Billions of dollars in capital are currently flowing into dozens of companies chasing new kinds of nuclear technologies",
-        "• Trump administration program is sidestepping regulatory system that's overseen the nuclear industry for 50 years "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.581
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump's rush to build nuclear reactors across the U.S",
-          "• raises safety worries"
-        ],
-        "hopeful_bullets": [
-          "• Billions of dollars in capital are currently flowing into dozens of companies chasing new kinds of nuclear technologies"
-        ],
-        "stakes_bullets": [
-          "• Billions of dollars in capital are currently flowing into dozens of companies chasing new kinds of nuclear technologies"
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "43bbb6302f3a"
-    },
-    {
       "id": "da217319f7bd",
       "title": "Is the viral cheese pull saving chain restaurants?",
       "outlet": "NPR Topics: News",
@@ -1121,6 +1123,38 @@
       },
       "read_minutes": 5,
       "cluster_id": "1f3d69164fb6"
+    },
+    {
+      "id": "b90342b2ae45",
+      "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• Trump's rush to build nuclear reactors across the U.S",
+        "• raises safety worries",
+        "• Billions of dollars in capital are currently flowing into new kinds of nuclear technologies",
+        "• Trump administration program is sidestepping regulatory system that's overseen the nuclear industry for 50 years "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.619
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump's rush to build nuclear reactors across the U.S",
+          "• raises safety worries"
+        ],
+        "hopeful_bullets": [
+          "• Billions of dollars in capital are currently flowing into new kinds of nuclear technologies"
+        ],
+        "stakes_bullets": [
+          "• Billions of dollars in capital are currently flowing into new kinds of nuclear technologies"
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "43bbb6302f3a"
     },
     {
       "id": "40d030e37f88",
@@ -1784,6 +1818,37 @@
       },
       "read_minutes": 4,
       "cluster_id": "17b200992390"
+    },
+    {
+      "id": "7d5dfc4a7582",
+      "title": "Robinhood is rolling out NFL parlay and prop bets on prediction markets platform",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/16/robinhood-is-rolling-out-nfl-parlay-and-prop-bets-on-prediction-markets-platform.html",
+      "published_at": "Wed, 17 Dec 2025 02:30:01 GMT",
+      "bullets": [
+        "• Robinhood is stepping up the capabilities of its fastest growing prediction markets product",
+        "• Users are able to trade preset combinations of the outcome, totals and spreads of individual NFL games",
+        "• Starting in early 2026, users will have the ability to create custom combos of up to 10 outcomes across NFL games, company says "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Robinhood is stepping up the capabilities of its fastest growing prediction markets product",
+          "• Users are able to trade preset combinations of the outcome, totals and spreads of individual NFL games"
+        ],
+        "hopeful_bullets": [
+          "• Robinhood is stepping up the capabilities of its fastest growing prediction markets product"
+        ],
+        "stakes_bullets": [
+          "• Starting in early 2026, users will have the ability to create custom combos of up to 10 outcomes across NFL games, company says "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "298efc12668b"
     },
     {
       "id": "fb6254481ba7",
@@ -2715,10 +2780,10 @@
       "url": "https://pitchfork.com/news/marilyn-manson-lawsuit-ex-assistant-dismissed/",
       "published_at": "Tue, 16 Dec 2025 23:10:10 +0000",
       "bullets": [
-        "• Ashley Walters' sexual assault lawsuit against Marilyn Manson has been dismissed",
-        "• A judge ruled that Walters' claims fell outside the statute of limitations",
-        "• Walters worked as Manson's personal assistant between 2010 and 2011",
-        "• Her initial suit against Manson was dismissed the following year before being revived on appeal "
+        "• Ashley Walters worked as Marilyn Manson's personal assistant between 2010 and 2011",
+        "• She claims she was sexually harassed by the singer and subjected to verbal, physical, and psychological abuse",
+        "• A Los Angeles County judge dismissed the lawsuit",
+        "• The judge noted that Walters’ claims fell outside the statute of limitations "
       ],
       "category": "Music",
       "sentiment": {
@@ -2727,20 +2792,20 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Ashley Walters' sexual assault lawsuit against Marilyn Manson has been dismissed",
-          "• A judge ruled that Walters' claims fell outside the statute of limitations"
+          "• Ashley Walters worked as Marilyn Manson's personal assistant between 2010 and 2011",
+          "• She claims she was sexually harassed by the singer and subjected to verbal, physical, and psychological abuse"
         ],
         "hopeful_bullets": [
-          "• Ashley Walters' sexual assault lawsuit against Marilyn Manson has been dismissed",
-          "• Her initial suit against Manson was dismissed the following year before being revived on appeal "
+          "• Ashley Walters worked as Marilyn Manson's personal assistant between 2010 and 2011",
+          "• She claims she was sexually harassed by the singer and subjected to verbal, physical, and psychological abuse"
         ],
         "stakes_bullets": [
-          "• Ashley Walters' sexual assault lawsuit against Marilyn Manson has been dismissed",
-          "• A judge ruled that Walters' claims fell outside the statute of limitations",
-          "• Walters worked as Manson's personal assistant between 2010 and 2011"
+          "• Ashley Walters worked as Marilyn Manson's personal assistant between 2010 and 2011",
+          "• She claims she was sexually harassed by the singer and subjected to verbal, physical, and psychological abuse",
+          "• A Los Angeles County judge dismissed the lawsuit"
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "e233aa48fb5e"
     },
     {
@@ -2946,6 +3011,41 @@
       "cluster_id": "97ef84c9445d"
     },
     {
+      "id": "bdc944c74876",
+      "title": "ACA subsidy fraud is 'rampant,' Republicans say. Some health policy experts disagree",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/16/aca-subsidy-fraud.html",
+      "published_at": "Tue, 16 Dec 2025 22:09:57 GMT",
+      "bullets": [
+        "• Republicans cite reports of fraud in the health insurance marketplace as a reason to extend enhanced premium subsidies",
+        "• GOP lawmakers cite a report from the U.S",
+        "• Government Accountability Office on fraud tied to ACA subsidies",
+        "• Experts say the scope of the fraud isn't as severe as GOP lawmakers have suggested "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Republicans cite reports of fraud in the health insurance marketplace as a reason to extend enhanced premium subsidies",
+          "• GOP lawmakers cite a report from the U.S"
+        ],
+        "hopeful_bullets": [
+          "• Republicans cite reports of fraud in the health insurance marketplace as a reason to extend enhanced premium subsidies",
+          "• GOP lawmakers cite a report from the U.S"
+        ],
+        "stakes_bullets": [
+          "• Republicans cite reports of fraud in the health insurance marketplace as a reason to extend enhanced premium subsidies",
+          "• GOP lawmakers cite a report from the U.S",
+          "• Government Accountability Office on fraud tied to ACA subsidies"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "facd26006a30"
+    },
+    {
       "id": "ced781d07463",
       "title": "Netflix Just Added This Horror Remake That Outclasses the Original",
       "outlet": "Dread Central",
@@ -3148,40 +3248,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "c97fd2c77061"
-    },
-    {
-      "id": "2525b4ed121a",
-      "title": "Trump defends chief of staff Susie Wiles after she says he has 'alcoholic's personality'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/16/trump-susie-wiles-lawsuits-epstein-musk.html",
-      "published_at": "Tue, 16 Dec 2025 21:19:24 GMT",
-      "bullets": [
-        "• President Donald Trump defends White House chief of staff Susie Wiles",
-        "• Wiles told Vanity Fair reporter that Trump has an \"alcoholic's personality\" in a series of interviews this year",
-        "• Trump does not drink, but he has \"an alcoholic's personality,\" Wiles said "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.946
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump defends White House chief of staff Susie Wiles",
-          "• Wiles told Vanity Fair reporter that Trump has an \"alcoholic's personality\" in a series of interviews this year"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump defends White House chief of staff Susie Wiles",
-          "• Wiles told Vanity Fair reporter that Trump has an \"alcoholic's personality\" in a series of interviews this year"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump defends White House chief of staff Susie Wiles",
-          "• Wiles told Vanity Fair reporter that Trump has an \"alcoholic's personality\" in a series of interviews this year",
-          "• Trump does not drink, but he has \"an alcoholic's personality,\" Wiles said "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "7427a5287a60"
     },
     {
       "id": "2a73bc0259df",
@@ -3869,38 +3935,6 @@
       "cluster_id": "37c9a82b1eb2"
     },
     {
-      "id": "3ff6fd131af2",
-      "title": "Sheryl Sandberg says corporate climate 'one of the worst' she has ever seen",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/16/sheryl-sandberg-corporate-culture-women-careers-opportunities.html",
-      "published_at": "Tue, 16 Dec 2025 19:21:04 GMT",
-      "bullets": [
-        "• Sheryl Sandberg says public displays of misogyny and \"tech bro\" rhetoric are damaging corporate culture at the world's biggest companies",
-        "• Sandberg ran operations at Meta for over a decade and founded LeanIn.org, a non-profit aimed at advancing women in the workforce "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Sheryl Sandberg says public displays of misogyny and \"tech bro\" rhetoric are damaging corporate culture at the world's biggest companies",
-          "• Sandberg ran operations at Meta for over a decade and founded LeanIn.org, a non-profit aimed at advancing women in the workforce "
-        ],
-        "hopeful_bullets": [
-          "• Sheryl Sandberg says public displays of misogyny and \"tech bro\" rhetoric are damaging corporate culture at the world's biggest companies",
-          "• Sandberg ran operations at Meta for over a decade and founded LeanIn.org, a non-profit aimed at advancing women in the workforce "
-        ],
-        "stakes_bullets": [
-          "• Sheryl Sandberg says public displays of misogyny and \"tech bro\" rhetoric are damaging corporate culture at the world's biggest companies",
-          "• Sandberg ran operations at Meta for over a decade and founded LeanIn.org, a non-profit aimed at advancing women in the workforce "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "7ba41f4a9521"
-    },
-    {
       "id": "688646c8c0b3",
       "title": "‘Return to Silent Hill’ – Official Poster Drags You Back to Hell",
       "outlet": "Bloody Disgusting!",
@@ -4264,39 +4298,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "eef6ac1fbab4"
-    },
-    {
-      "id": "e3a9338ade97",
-      "title": "OpenAI Rolls Back ChatGPT’s Model Router System for Most Users",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/openai-router-relaunch-gpt-5-sam-altman/",
-      "published_at": "Tue, 16 Dec 2025 17:30:00 +0000",
-      "bullets": [
-        "• ChatGPT users will now default to GPT-5.2 Instant, the fastest and cheapest-to-serve version of OpenAI’s new model series",
-        "• Free and Go users will still be able to access reasoning models, but they will have to select them manually",
-        "• Previously, users accessed advanced systems through a confusing “model picker” menu "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• ChatGPT users will now default to GPT-5.2 Instant, the fastest and cheapest-to-serve version of OpenAI’s new model series",
-          "• Free and Go users will still be able to access reasoning models, but they will have to select them manually"
-        ],
-        "hopeful_bullets": [
-          "• ChatGPT users will now default to GPT-5.2 Instant, the fastest and cheapest-to-serve version of OpenAI’s new model series",
-          "• Free and Go users will still be able to access reasoning models, but they will have to select them manually"
-        ],
-        "stakes_bullets": [
-          "• ChatGPT users will now default to GPT-5.2 Instant, the fastest and cheapest-to-serve version of OpenAI’s new model series",
-          "• Free and Go users will still be able to access reasoning models, but they will have to select them manually"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "636de6a84108"
     },
     {
       "id": "bfa03abbf412",
@@ -4782,41 +4783,6 @@
       "cluster_id": "4db20cd04c14"
     },
     {
-      "id": "19ef45155e41",
-      "title": "Her 1951 walkout helped end school segregation. Now her statue is in the U.S. Capitol",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/16/nx-s1-5645727/barbara-rose-johns-capitol-statue",
-      "published_at": "Tue, 16 Dec 2025 13:07:59 -0500",
-      "bullets": [
-        "• Barbara Rose Johns led a walkout of her segregated Virginia high school in 1951",
-        "• Her statue replaces that of a Confederate general in the U.S",
-        "• Capitol",
-        "• Her 1951 walkout helped end school segregation",
-        "• The fight was taken up by the NAACP and eventually became one of the five cases reviewed in Brown v"
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.886
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Barbara Rose Johns led a walkout of her segregated Virginia high school in 1951",
-          "• Her statue replaces that of a Confederate general in the U.S"
-        ],
-        "hopeful_bullets": [
-          "• Her 1951 walkout helped end school segregation"
-        ],
-        "stakes_bullets": [
-          "• Barbara Rose Johns led a walkout of her segregated Virginia high school in 1951",
-          "• Her statue replaces that of a Confederate general in the U.S",
-          "• Capitol"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "ab39a027ae0f"
-    },
-    {
       "id": "1acb08ef7363",
       "title": "Hot Toys Revenge of the Sith MagnaGuard (MMS856) 1/6 Scale Figure",
       "outlet": "Jedi Temple Archives",
@@ -5272,39 +5238,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "af835551e344"
-    },
-    {
-      "id": "170a0495d6a5",
-      "title": "The Warner Bros. Curse",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/sections/planet-money/2025/12/16/g-s1-102314/the-warner-bros-curse",
-      "published_at": "Tue, 16 Dec 2025 06:30:00 -0500",
-      "bullets": [
-        "• Netflix and Paramount are in One Big Battle After Another to buy Warner Bros",
-        "• The studio has a long history of messy corporate marriages and divorces",
-        "• In 2018, AT&T acquired what was then called Time Warner for $85.4 billion",
-        "• The company has made a series of bizarre decisions "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Netflix and Paramount are in One Big Battle After Another to buy Warner Bros",
-          "• The studio has a long history of messy corporate marriages and divorces"
-        ],
-        "hopeful_bullets": [
-          "• Netflix and Paramount are in One Big Battle After Another to buy Warner Bros",
-          "• The studio has a long history of messy corporate marriages and divorces"
-        ],
-        "stakes_bullets": [
-          "• In 2018, AT&T acquired what was then called Time Warner for $85.4 billion"
-        ]
-      },
-      "read_minutes": 14,
-      "cluster_id": "11e1a823dff8"
     },
     {
       "id": "79e1aac9f71c",
@@ -8283,6 +8216,37 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "5122a2cdbad8",
+      "title": "Tesla misled customers about self-driving features, judge rules",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv",
+      "published_at": "2025-12-17T06:48:33-05:00",
+      "bullets": [
+        "• California’s DMV has ordered Tesla to rename ‘Autopilot’ or face a sales suspension in the state",
+        "• Tesla could be temporarily locked out of its biggest US market if it doesn’t change deceptive marketing that exaggerates the self-driving capabilities of its cars "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• California’s DMV has ordered Tesla to rename ‘Autopilot’ or face a sales suspension in the state",
+          "• Tesla could be temporarily locked out of its biggest US market if it doesn’t change deceptive marketing that exaggerates the self-driving capabilities of its cars "
+        ],
+        "hopeful_bullets": [
+          "• California’s DMV has ordered Tesla to rename ‘Autopilot’ or face a sales suspension in the state",
+          "• Tesla could be temporarily locked out of its biggest US market if it doesn’t change deceptive marketing that exaggerates the self-driving capabilities of its cars "
+        ],
+        "stakes_bullets": [
+          "• Tesla could be temporarily locked out of its biggest US market if it doesn’t change deceptive marketing that exaggerates the self-driving capabilities of its cars "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "14e602230068"
+    },
+    {
       "id": "b5d719e14f36",
       "title": "Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts",
       "outlet": "The Verge",
@@ -8578,39 +8542,6 @@
       },
       "read_minutes": 16,
       "cluster_id": "77eb0487a187"
-    },
-    {
-      "id": "60f9fd65b800",
-      "title": "A vague study on Nazi bots created chaos in the Taylor Swift fan universe",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/report/845725/taylor-swift-gudea-report-rolling-stone-social-media-discourse-bots",
-      "published_at": "2025-12-16T16:30:14-05:00",
-      "bullets": [
-        "• An analysis of social media posts following Swift’s album release found “inauthentic” activity online",
-        "• The Taylor Swift media ecosystem is divided over what it means",
-        "• Soon enough in corners of the internet, the album release was consumed by fights "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• An analysis of social media posts following Swift’s album release found “inauthentic” activity online",
-          "• The Taylor Swift media ecosystem is divided over what it means"
-        ],
-        "hopeful_bullets": [
-          "• An analysis of social media posts following Swift’s album release found “inauthentic” activity online"
-        ],
-        "stakes_bullets": [
-          "• An analysis of social media posts following Swift’s album release found “inauthentic” activity online",
-          "• The Taylor Swift media ecosystem is divided over what it means",
-          "• Soon enough in corners of the internet, the album release was consumed by fights "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "4adb92503dfc"
     },
     {
       "id": "c41ff758b36a",
@@ -9651,24 +9582,6 @@
       ]
     },
     {
-      "id": "6963c61acd9a",
-      "topic": "crime found guns scene",
-      "keywords": [
-        "crime",
-        "found",
-        "guns",
-        "scene",
-        "tell",
-        "thousand"
-      ],
-      "item_ids": [
-        "dec497bd43c7"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "e58025a9ad35",
       "topic": "approval economic hits low",
       "keywords": [
@@ -9681,6 +9594,24 @@
       ],
       "item_ids": [
         "dd7f24148c40"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "6963c61acd9a",
+      "topic": "crime found guns scene",
+      "keywords": [
+        "crime",
+        "found",
+        "guns",
+        "scene",
+        "tell",
+        "thousand"
+      ],
+      "item_ids": [
+        "dec497bd43c7"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9723,24 +9654,6 @@
       ]
     },
     {
-      "id": "43bbb6302f3a",
-      "topic": "acros build nuclear reactor",
-      "keywords": [
-        "acros",
-        "build",
-        "nuclear",
-        "reactor",
-        "rush",
-        "trump"
-      ],
-      "item_ids": [
-        "b90342b2ae45"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "1f3d69164fb6",
       "topic": "chain cheese pull restaurant",
       "keywords": [
@@ -9753,6 +9666,24 @@
       ],
       "item_ids": [
         "da217319f7bd"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "43bbb6302f3a",
+      "topic": "acros build nuclear reactor",
+      "keywords": [
+        "acros",
+        "build",
+        "nuclear",
+        "reactor",
+        "rush",
+        "trump"
+      ],
+      "item_ids": [
+        "b90342b2ae45"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9903,39 +9834,57 @@
       ]
     },
     {
-      "id": "7427a5287a60",
-      "topic": "chief defend staff susie",
+      "id": "facd26006a30",
+      "topic": "aca fraud rampant republican",
       "keywords": [
-        "chief",
-        "defend",
-        "staff",
-        "susie",
-        "trump",
-        "wile"
+        "aca",
+        "fraud",
+        "rampant",
+        "republican",
+        "say",
+        "subsidy"
       ],
       "item_ids": [
-        "2525b4ed121a"
+        "bdc944c74876"
       ],
       "outlets": [
         "US Top News and Analysis"
       ]
     },
     {
-      "id": "7ba41f4a9521",
-      "topic": "climate corporate sandberg she",
+      "id": "298efc12668b",
+      "topic": "nfl out parlay prop",
       "keywords": [
-        "climate",
-        "corporate",
-        "sandberg",
-        "she",
-        "sheryl",
-        "worst"
+        "nfl",
+        "out",
+        "parlay",
+        "prop",
+        "robinhood",
+        "rolling"
       ],
       "item_ids": [
-        "3ff6fd131af2"
+        "7d5dfc4a7582"
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "625971491fe8",
+      "topic": "apple bacon engineer help",
+      "keywords": [
+        "apple",
+        "bacon",
+        "engineer",
+        "help",
+        "inspecting",
+        "packaging"
+      ],
+      "item_ids": [
+        "1a25f3ff3f28"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10100,21 +10049,21 @@
       ]
     },
     {
-      "id": "636de6a84108",
-      "topic": "back chatgpt model openai",
+      "id": "14e602230068",
+      "topic": "customer driving feature misled",
       "keywords": [
-        "back",
-        "chatgpt",
-        "model",
-        "openai",
-        "roll",
-        "router"
+        "customer",
+        "driving",
+        "feature",
+        "misled",
+        "self",
+        "tesla"
       ],
       "item_ids": [
-        "e3a9338ade97"
+        "5122a2cdbad8"
       ],
       "outlets": [
-        "WIRED"
+        "The Verge"
       ]
     },
     {
@@ -10269,24 +10218,6 @@
       ],
       "item_ids": [
         "b57496c1abc7"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "4adb92503dfc",
-      "topic": "bots chao created nazi",
-      "keywords": [
-        "bots",
-        "chao",
-        "created",
-        "nazi",
-        "study",
-        "vague"
-      ],
-      "item_ids": [
-        "60f9fd65b800"
       ],
       "outlets": [
         "The Verge"
@@ -10823,39 +10754,6 @@
       ],
       "item_ids": [
         "fa0a1ebea487"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "ab39a027ae0f",
-      "topic": "1951 end helped school",
-      "keywords": [
-        "1951",
-        "end",
-        "helped",
-        "school",
-        "segregation",
-        "walkout"
-      ],
-      "item_ids": [
-        "19ef45155e41"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "11e1a823dff8",
-      "topic": "bros curse warner",
-      "keywords": [
-        "bros",
-        "curse",
-        "warner"
-      ],
-      "item_ids": [
-        "170a0495d6a5"
       ],
       "outlets": [
         "NPR Topics: Politics"
