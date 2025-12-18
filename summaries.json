@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-18T07:18:21Z",
+  "generated_at": "2025-12-18T08:02:38Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -695,38 +695,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "59237ab1bb07"
-    },
-    {
-      "id": "aa178f472c17",
-      "title": "Obamacare subsidies extension to get vote after 4 Republicans buck leadership",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/17/johnson-aca-republicans-health.html",
-      "published_at": "Wed, 17 Dec 2025 22:18:23 GMT",
-      "bullets": [
-        "• Four moderate House Republicans join Democrats to force a vote on extending Obamacare subsidies",
-        "• The subsidies are set to expire at the end of the year",
-        "• If approved by the House and Senate, they will extend enhanced tax credits for customers of Affordable Care Act health insurance plans "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.814
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Four moderate House Republicans join Democrats to force a vote on extending Obamacare subsidies",
-          "• The subsidies are set to expire at the end of the year"
-        ],
-        "hopeful_bullets": [
-          "• Four moderate House Republicans join Democrats to force a vote on extending Obamacare subsidies",
-          "• The subsidies are set to expire at the end of the year"
-        ],
-        "stakes_bullets": [
-          "• If approved by the House and Senate, they will extend enhanced tax credits for customers of Affordable Care Act health insurance plans "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "a3f8db6630c6"
     },
     {
       "id": "fcb50124586e",
@@ -3180,41 +3148,6 @@
       "cluster_id": "bb85076dba79"
     },
     {
-      "id": "f2c846576daa",
-      "title": "Trump's BBC lawsuit: A botched report, BritBox, and porn",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5646697/trump-sues-bbc-florida-britbox-porn",
-      "published_at": "Wed, 17 Dec 2025 06:00:00 -0500",
-      "bullets": [
-        "• President Trump filed a lawsuit against the BBC on Monday against him",
-        "• The move comes after the president's remarks were made public",
-        "• The president said in a speech to his supporters that they would march to the U.S",
-        "• Capitol to make their voices heard",
-        "• The lawsuit is the latest in a series of attacks on the president "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Trump filed a lawsuit against the BBC on Monday against him",
-          "• The move comes after the president's remarks were made public"
-        ],
-        "hopeful_bullets": [
-          "• President Trump filed a lawsuit against the BBC on Monday against him"
-        ],
-        "stakes_bullets": [
-          "• President Trump filed a lawsuit against the BBC on Monday against him",
-          "• The move comes after the president's remarks were made public",
-          "• The president said in a speech to his supporters that they would march to the U.S"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "6073475e9a74"
-    },
-    {
       "id": "9a4a81c857c8",
       "title": "A hidden star found where dust shouldn’t exist",
       "outlet": "All Top News -- ScienceDaily",
@@ -5059,6 +4992,40 @@
       "cluster_id": "fae2f8de0cfb"
     },
     {
+      "id": "e585984a7e3d",
+      "title": "BP names Meg O’Neill as new CEO — its fourth in 6 years",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/18/woodside-energys-meg-oneill-to-replace-murray-auchincloss-as-bp-ceo.html",
+      "published_at": "Thu, 18 Dec 2025 07:17:01 GMT",
+      "bullets": [
+        "• British oil giant BP appoints Meg O'Neill as its next CEO",
+        "• O’Neill replaces Murray Auchincloss after less than two years in the role",
+        "• Carol Howle, BP's executive vice president for supply, trading and shipping, will serve as interim CEO until April 1",
+        "• She will be BP's fourth CEO in six years "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• British oil giant BP appoints Meg O'Neill as its next CEO",
+          "• O’Neill replaces Murray Auchincloss after less than two years in the role"
+        ],
+        "hopeful_bullets": [
+          "• British oil giant BP appoints Meg O'Neill as its next CEO",
+          "• O’Neill replaces Murray Auchincloss after less than two years in the role"
+        ],
+        "stakes_bullets": [
+          "• Carol Howle, BP's executive vice president for supply, trading and shipping, will serve as interim CEO until April 1",
+          "• She will be BP's fourth CEO in six years "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "ee772c485d36"
+    },
+    {
       "id": "29b8a9f1c744",
       "title": "Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook",
       "outlet": "Positive News",
@@ -5892,6 +5859,39 @@
       },
       "read_minutes": 3,
       "cluster_id": "86e3f8a22d3c"
+    },
+    {
+      "id": "56ca72cd09e4",
+      "title": "US announces massive package of arms sales to Taiwan valued at more than $10 billion",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/12/18/nx-s1-5648080/us-arms-sales-taiwan-10-billion",
+      "published_at": "Thu, 18 Dec 2025 02:25:47 -0500",
+      "bullets": [
+        "• U.S",
+        "• announces massive package of arms sales to Taiwan valued at more than $10 billion",
+        "• Package includes medium-range missiles, howitzers and drones",
+        "• Move is sure to infuriate China, which has said it must reunify with Taiwan "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• announces massive package of arms sales to Taiwan valued at more than $10 billion"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• announces massive package of arms sales to Taiwan valued at more than $10 billion"
+        ],
+        "stakes_bullets": [
+          "• announces massive package of arms sales to Taiwan valued at more than $10 billion"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "43a7e8b06bb2"
     },
     {
       "id": "20dc9b1c3d12",
@@ -8337,6 +8337,74 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "5eccd274d90d",
+      "title": "Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/reviews/846094/kuxiu-s3-solid-state-power-bank-review",
+      "published_at": "2025-12-18T02:30:14-05:00",
+      "bullets": [
+        "• Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode",
+        "• Semi-solid state chemistry is less prone to thermal runaway than the all-liquid Lithium-ion batteries found in most power banks",
+        "• The S3 is more expensive to purchase than other 10,000mAh power banks, typically rated for 300-500 cycles "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode",
+          "• Semi-solid state chemistry is less prone to thermal runaway than the all-liquid Lithium-ion batteries found in most power banks"
+        ],
+        "hopeful_bullets": [
+          "• Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode",
+          "• Semi-solid state chemistry is less prone to thermal runaway than the all-liquid Lithium-ion batteries found in most power banks"
+        ],
+        "stakes_bullets": [
+          "• Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode",
+          "• Semi-solid state chemistry is less prone to thermal runaway than the all-liquid Lithium-ion batteries found in most power banks",
+          "• The S3 is more expensive to purchase than other 10,000mAh power banks, typically rated for 300-500 cycles "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "545c36807af6"
+    },
+    {
+      "id": "72e7debf08b9",
+      "title": "Cowboy saddles up with a new owner",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/847097/cowboy-acquired-by-rebirth-recycles-bankruptcy",
+      "published_at": "2025-12-18T02:02:10-05:00",
+      "bullets": [
+        "• Brussels-based electric bike company Cowboy has closed its deal to be acquired by ReBirth Group Holding",
+        "• ReBirth owns Peugeot, Gitane, and Solex",
+        "• Cowboy was plagued by issues in 2025, including delayed deliveries and repairs, as well as costly frame recall "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Brussels-based electric bike company Cowboy has closed its deal to be acquired by ReBirth Group Holding",
+          "• ReBirth owns Peugeot, Gitane, and Solex"
+        ],
+        "hopeful_bullets": [
+          "• Brussels-based electric bike company Cowboy has closed its deal to be acquired by ReBirth Group Holding",
+          "• ReBirth owns Peugeot, Gitane, and Solex"
+        ],
+        "stakes_bullets": [
+          "• Brussels-based electric bike company Cowboy has closed its deal to be acquired by ReBirth Group Holding",
+          "• ReBirth owns Peugeot, Gitane, and Solex",
+          "• Cowboy was plagued by issues in 2025, including delayed deliveries and repairs, as well as costly frame recall "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c3c8b59f294d"
+    },
+    {
       "id": "3d403246df40",
       "title": "The ChatGPT app store is here",
       "outlet": "The Verge",
@@ -8601,73 +8669,6 @@
       },
       "read_minutes": 9,
       "cluster_id": "6a573d85dc85"
-    },
-    {
-      "id": "715e4fb99f00",
-      "title": "Meta pauses third-party Horizon VR headsets program",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/846762/meta-vr-headsets-third-party-program-horizon-os",
-      "published_at": "2025-12-17T16:24:00-05:00",
-      "bullets": [
-        "• Meta paused program to license its VR operating system to other hardware companies so they could build their own headsets using the platform",
-        "• With the program, announced in April 2024, Meta announced that it would be licensing the Quest OS headset headset to hardware makers like Lenovo and Asus",
-        "• Instead, the company plans to focus on ‘world-class first-party hardware and software’"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Meta paused program to license its VR operating system to other hardware companies so they could build their own headsets using the platform",
-          "• With the program, announced in April 2024, Meta announced that it would be licensing the Quest OS headset headset to hardware makers like Lenovo and Asus"
-        ],
-        "hopeful_bullets": [
-          "• Meta paused program to license its VR operating system to other hardware companies so they could build their own headsets using the platform",
-          "• With the program, announced in April 2024, Meta announced that it would be licensing the Quest OS headset headset to hardware makers like Lenovo and Asus"
-        ],
-        "stakes_bullets": [
-          "• Meta paused program to license its VR operating system to other hardware companies so they could build their own headsets using the platform",
-          "• Instead, the company plans to focus on ‘world-class first-party hardware and software’"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0c6a0b666075"
-    },
-    {
-      "id": "4724f687513d",
-      "title": "Democratic lawmakers are investigating data centers’ impact on electricity costs",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation",
-      "published_at": "2025-12-17T16:12:16-05:00",
-      "bullets": [
-        "• The US has far more data centers than any other country in the world",
-        "• Power demand is suddenly increasing after more than a decade without much change",
-        "• “Data centers’ energy use should not come at the expense of energy availability for American families,” lawmakers say "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.75
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The US has far more data centers than any other country in the world",
-          "• Power demand is suddenly increasing after more than a decade without much change"
-        ],
-        "hopeful_bullets": [
-          "• The US has far more data centers than any other country in the world",
-          "• Power demand is suddenly increasing after more than a decade without much change"
-        ],
-        "stakes_bullets": [
-          "• The US has far more data centers than any other country in the world",
-          "• Power demand is suddenly increasing after more than a decade without much change",
-          "• “Data centers’ energy use should not come at the expense of energy availability for American families,” lawmakers say "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "4bed017373d7"
     },
     {
       "id": "c41ff758b36a",
@@ -9816,6 +9817,24 @@
       ]
     },
     {
+      "id": "ee772c485d36",
+      "topic": "ceo fourth meg name",
+      "keywords": [
+        "ceo",
+        "fourth",
+        "meg",
+        "name",
+        "neill",
+        "year"
+      ],
+      "item_ids": [
+        "e585984a7e3d"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "aeae7731fa50",
       "topic": "776 announce dividend every",
       "keywords": [
@@ -9936,24 +9955,6 @@
       ],
       "item_ids": [
         "8c05160ccf68"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "a3f8db6630c6",
-      "topic": "extension get obamacare republican",
-      "keywords": [
-        "extension",
-        "get",
-        "obamacare",
-        "republican",
-        "subsidie",
-        "vote"
-      ],
-      "item_ids": [
-        "aa178f472c17"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10157,6 +10158,39 @@
       ]
     },
     {
+      "id": "545c36807af6",
+      "topic": "bank better bigger kuxiu",
+      "keywords": [
+        "bank",
+        "better",
+        "bigger",
+        "kuxiu",
+        "magsafe",
+        "power"
+      ],
+      "item_ids": [
+        "5eccd274d90d"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "c3c8b59f294d",
+      "topic": "cowboy owner saddle",
+      "keywords": [
+        "cowboy",
+        "owner",
+        "saddle"
+      ],
+      "item_ids": [
+        "72e7debf08b9"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "4f4c9540e00d",
       "topic": "app chatgpt here store",
       "keywords": [
@@ -10289,42 +10323,6 @@
       ],
       "item_ids": [
         "23d82310e9c5"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "0c6a0b666075",
-      "topic": "headset horizon meta party",
-      "keywords": [
-        "headset",
-        "horizon",
-        "meta",
-        "party",
-        "pause",
-        "third"
-      ],
-      "item_ids": [
-        "715e4fb99f00"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "4bed017373d7",
-      "topic": "center data democratic impact",
-      "keywords": [
-        "center",
-        "data",
-        "democratic",
-        "impact",
-        "investigating",
-        "lawmaker"
-      ],
-      "item_ids": [
-        "4724f687513d"
       ],
       "outlets": [
         "The Verge"
@@ -10848,6 +10846,24 @@
       ]
     },
     {
+      "id": "43a7e8b06bb2",
+      "topic": "announce arms massive package",
+      "keywords": [
+        "announce",
+        "arms",
+        "massive",
+        "package",
+        "sale",
+        "taiwan"
+      ],
+      "item_ids": [
+        "56ca72cd09e4"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "661890ca6979",
       "topic": "2026 congres return seat",
       "keywords": [
@@ -10913,24 +10929,6 @@
       ],
       "item_ids": [
         "2ee150118896"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "6073475e9a74",
-      "topic": "bbc botched britbox lawsuit",
-      "keywords": [
-        "bbc",
-        "botched",
-        "britbox",
-        "lawsuit",
-        "report",
-        "trump"
-      ],
-      "item_ids": [
-        "f2c846576daa"
       ],
       "outlets": [
         "NPR Topics: Politics"
