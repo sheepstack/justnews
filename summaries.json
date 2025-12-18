@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-18T11:04:46Z",
+  "generated_at": "2025-12-18T11:57:35Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -233,6 +233,39 @@
       },
       "read_minutes": 8,
       "cluster_id": "becb0626b27f"
+    },
+    {
+      "id": "fd0de38f60c2",
+      "title": "Medline stock is a little too expensive to buy post IPO, Jim Cramer says",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/17/medline-stock-too-expensive-post-ipo-jim-cramer.html",
+      "published_at": "Wed, 17 Dec 2025 23:41:01 GMT",
+      "bullets": [
+        "• Medline was the biggest IPO of the year globally",
+        "• The company raised $6.26 billion",
+        "• The stock opened up $35, up from its initial pricing of $29",
+        "• Jim Cramer said he'd wait for a pullback to buy the stock "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Medline was the biggest IPO of the year globally",
+          "• The company raised $6.26 billion"
+        ],
+        "hopeful_bullets": [
+          "• Medline was the biggest IPO of the year globally",
+          "• The company raised $6.26 billion"
+        ],
+        "stakes_bullets": [
+          "• The company raised $6.26 billion"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "134133908dae"
     },
     {
       "id": "36a055d3f78d",
@@ -540,62 +573,31 @@
       "published_at": "Wed, 17 Dec 2025 22:45:06 GMT",
       "bullets": [
         "• Nick Reiner, 32, is charged with two counts of first-degree murder in Los Angeles",
-        "• His parents were found dead in their Los Angeles home on Sunday",
+        "• His parents were found dead on Sunday in their Los Angeles home",
         "• Their children have spoken out for the first time about the \"devastating\" loss "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.831
+        "score": 0.819
       },
       "moods": {
         "brief_bullets": [
           "• Nick Reiner, 32, is charged with two counts of first-degree murder in Los Angeles",
-          "• His parents were found dead in their Los Angeles home on Sunday"
+          "• His parents were found dead on Sunday in their Los Angeles home"
         ],
         "hopeful_bullets": [
           "• Nick Reiner, 32, is charged with two counts of first-degree murder in Los Angeles",
-          "• His parents were found dead in their Los Angeles home on Sunday"
+          "• His parents were found dead on Sunday in their Los Angeles home"
         ],
         "stakes_bullets": [
           "• Nick Reiner, 32, is charged with two counts of first-degree murder in Los Angeles",
-          "• His parents were found dead in their Los Angeles home on Sunday",
+          "• His parents were found dead on Sunday in their Los Angeles home",
           "• Their children have spoken out for the first time about the \"devastating\" loss "
         ]
       },
       "read_minutes": 3,
       "cluster_id": "20141fc796d4"
-    },
-    {
-      "id": "7c3b509340f9",
-      "title": "US judge will block hundreds of Trump administration layoffs, citing shutdown law",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/17/trump-administration-shutdown-law",
-      "published_at": "Wed, 17 Dec 2025 22:44:33 GMT",
-      "bullets": [
-        "• US district judge Susan Illston said hundreds of layoffs at four agencies were likely not allowed under a law Congress passed last month to end a 43-day government shutdown",
-        "• Illston, an appointee of Democratic former president Bill Clinton, said she would block the US state department and education department from laying off about 250 and 150 employees respectively, pending the outcome of a lawsuit by unions "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US district judge Susan Illston said hundreds of layoffs at four agencies were likely not allowed under a law Congress passed last month to end a 43-day government shutdown",
-          "• Illston, an appointee of Democratic former president Bill Clinton, said she would block the US state department and education department from laying off about 250 and 150 employees respectively, pending the outcome of a lawsuit by unions "
-        ],
-        "hopeful_bullets": [
-          "• US district judge Susan Illston said hundreds of layoffs at four agencies were likely not allowed under a law Congress passed last month to end a 43-day government shutdown",
-          "• Illston, an appointee of Democratic former president Bill Clinton, said she would block the US state department and education department from laying off about 250 and 150 employees respectively, pending the outcome of a lawsuit by unions "
-        ],
-        "stakes_bullets": [
-          "• Illston, an appointee of Democratic former president Bill Clinton, said she would block the US state department and education department from laying off about 250 and 150 employees respectively, pending the outcome of a lawsuit by unions "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "27f62d5049d4"
     },
     {
       "id": "8354aa40a91c",
@@ -765,6 +767,38 @@
       "cluster_id": "59237ab1bb07"
     },
     {
+      "id": "aa178f472c17",
+      "title": "Obamacare subsidies extension to get vote after 4 Republicans buck leadership",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/17/johnson-aca-republicans-health.html",
+      "published_at": "Wed, 17 Dec 2025 22:18:23 GMT",
+      "bullets": [
+        "• Four moderate House Republicans join Democrats to force a vote on extending Obamacare subsidies",
+        "• The subsidies are set to expire at the end of the year",
+        "• If approved by the House and Senate, they will extend enhanced tax credits for customers of Affordable Care Act health insurance plans "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.814
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Four moderate House Republicans join Democrats to force a vote on extending Obamacare subsidies",
+          "• The subsidies are set to expire at the end of the year"
+        ],
+        "hopeful_bullets": [
+          "• Four moderate House Republicans join Democrats to force a vote on extending Obamacare subsidies",
+          "• The subsidies are set to expire at the end of the year"
+        ],
+        "stakes_bullets": [
+          "• If approved by the House and Senate, they will extend enhanced tax credits for customers of Affordable Care Act health insurance plans "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "a3f8db6630c6"
+    },
+    {
       "id": "fcb50124586e",
       "title": "‘Wicked’ Director Jon M. Chu on ‘What Makes Art Beautiful’ in the AI Era",
       "outlet": "WIRED",
@@ -865,6 +899,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "f6f381dd7a27"
+    },
+    {
+      "id": "7d804f54fb71",
+      "title": "Delta president Glen Hauenstein, who helped turn airline into industry profit leader, to retire in February",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/17/delta-air-lines-president-glen-hauenstein.html",
+      "published_at": "Wed, 17 Dec 2025 21:39:17 GMT",
+      "bullets": [
+        "• Glen Hauenstein is retiring in February",
+        "• Hauenstein helped Delta become the industry's profit leader",
+        "• He championed the airline's embrace of travelers willing to spend a little extra for a more luxurious travel experience",
+        "• In October, Delta said that premium-travel revenue would overtake sales from main cabin next year "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.866
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Glen Hauenstein is retiring in February",
+          "• Hauenstein helped Delta become the industry's profit leader"
+        ],
+        "hopeful_bullets": [
+          "• Hauenstein helped Delta become the industry's profit leader"
+        ],
+        "stakes_bullets": [
+          "• Hauenstein helped Delta become the industry's profit leader",
+          "• He championed the airline's embrace of travelers willing to spend a little extra for a more luxurious travel experience"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "81b9b7fa6069"
     },
     {
       "id": "be64b7ebf01a",
@@ -1301,40 +1368,6 @@
       "cluster_id": "33d662026063"
     },
     {
-      "id": "d5036c905a6c",
-      "title": "FCC chief Brendan Carr tells Senate that his agency is 'not formally ... independent'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/17/fcc-carr-senate-jimmy-kimmel-kirk.html",
-      "published_at": "Wed, 17 Dec 2025 19:55:29 GMT",
-      "bullets": [
-        "• President Donald Trump appointee says he's working with the White House on the issue",
-        "• The White House has been criticized for its lack of oversight of the federal government",
-        "• White House says it is working with Congress to find a way to address the issue of free speech "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump appointee says he's working with the White House on the issue",
-          "• The White House has been criticized for its lack of oversight of the federal government"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump appointee says he's working with the White House on the issue",
-          "• The White House has been criticized for its lack of oversight of the federal government"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump appointee says he's working with the White House on the issue",
-          "• The White House has been criticized for its lack of oversight of the federal government",
-          "• White House says it is working with Congress to find a way to address the issue of free speech "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "af242b455051"
-    },
-    {
       "id": "68fa7763ad45",
       "title": "Daisy Ridley, Rupert Grint, More Join Ti West’s ‘Ebenezer: A Christmas Carol’",
       "outlet": "Bloody Disgusting!",
@@ -1373,63 +1406,32 @@
       "url": "https://arstechnica.com/cars/2025/12/donut-labs-hub-motor-meets-watts-battery-to-create-new-ev-skateboard/",
       "published_at": "Wed, 17 Dec 2025 19:18:29 +0000",
       "bullets": [
-        "• Donut Lab and WATT Electric Vehicle Company have teamed up to develop electric vehicles",
-        "• The vehicle will have two motors for each of its rear wheels, with one for each wheel",
-        "• The two companies see plenty of potential for the platform, which they say could give rise to “multiple vehicle configurations”"
+        "• Donut Electric Vehicle Company is developing a lightweight electric vehicle",
+        "• The vehicle will have two motors for each of its rear wheels",
+        "• The company says it could be used in other vehicles, such as wind turbines and even cars",
+        "• The two companies hope to use the technology to develop new models of vehicles "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.997
+        "score": 0.929
       },
       "moods": {
         "brief_bullets": [
-          "• Donut Lab and WATT Electric Vehicle Company have teamed up to develop electric vehicles",
-          "• The vehicle will have two motors for each of its rear wheels, with one for each wheel"
+          "• Donut Electric Vehicle Company is developing a lightweight electric vehicle",
+          "• The vehicle will have two motors for each of its rear wheels"
         ],
         "hopeful_bullets": [
-          "• Donut Lab and WATT Electric Vehicle Company have teamed up to develop electric vehicles",
-          "• The vehicle will have two motors for each of its rear wheels, with one for each wheel"
+          "• The company says it could be used in other vehicles, such as wind turbines and even cars",
+          "• The two companies hope to use the technology to develop new models of vehicles "
         ],
         "stakes_bullets": [
-          "• The vehicle will have two motors for each of its rear wheels, with one for each wheel",
-          "• The two companies see plenty of potential for the platform, which they say could give rise to “multiple vehicle configurations”"
+          "• The vehicle will have two motors for each of its rear wheels",
+          "• The company says it could be used in other vehicles, such as wind turbines and even cars"
         ]
       },
       "read_minutes": 1,
       "cluster_id": "0570412dc072"
-    },
-    {
-      "id": "1a1f0e238f60",
-      "title": "The Oscars are heading to YouTube in 2029",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/17/youtube-stream-oscars-2029.html",
-      "published_at": "Wed, 17 Dec 2025 19:18:00 GMT",
-      "bullets": [
-        "• The Academy of Motion Picture Arts and Sciences signs a deal with YouTube",
-        "• The deal includes red carpet coverage, behind-the-scenes content and access to the Governors Ball",
-        "• The Oscars will be available for free on YouTube for viewers around the world "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.529
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Academy of Motion Picture Arts and Sciences signs a deal with YouTube",
-          "• The deal includes red carpet coverage, behind-the-scenes content and access to the Governors Ball"
-        ],
-        "hopeful_bullets": [
-          "• The Academy of Motion Picture Arts and Sciences signs a deal with YouTube",
-          "• The deal includes red carpet coverage, behind-the-scenes content and access to the Governors Ball"
-        ],
-        "stakes_bullets": [
-          "• The Oscars will be available for free on YouTube for viewers around the world "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "3181b670a792"
     },
     {
       "id": "209bd9e888e5",
@@ -2455,40 +2457,6 @@
       "cluster_id": "af6953ceb98d"
     },
     {
-      "id": "131c9ea8ee43",
-      "title": "16 Best Food Gifts, as Tested by Our Tastebuds (2025)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-food-gifts/",
-      "published_at": "Wed, 17 Dec 2025 13:36:00 +0000",
-      "bullets": [
-        "• The Best Food Gifts You Can Buy Online for Friends, Family, or yourself",
-        "• The best panettone is flown in fresh from Olivieri 1882 bakery and café in Arzignano, Italy",
-        "• The world is your oyster (and I mean that quite literally, if future testing has anything to say about it)"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Best Food Gifts You Can Buy Online for Friends, Family, or yourself",
-          "• The best panettone is flown in fresh from Olivieri 1882 bakery and café in Arzignano, Italy"
-        ],
-        "hopeful_bullets": [
-          "• The Best Food Gifts You Can Buy Online for Friends, Family, or yourself",
-          "• The best panettone is flown in fresh from Olivieri 1882 bakery and café in Arzignano, Italy"
-        ],
-        "stakes_bullets": [
-          "• The Best Food Gifts You Can Buy Online for Friends, Family, or yourself",
-          "• The best panettone is flown in fresh from Olivieri 1882 bakery and café in Arzignano, Italy",
-          "• The world is your oyster (and I mean that quite literally, if future testing has anything to say about it)"
-        ]
-      },
-      "read_minutes": 16,
-      "cluster_id": "2f0c99764e71"
-    },
-    {
       "id": "186208c8a8a1",
       "title": "British baker outrages Mexicans with attack on their ‘ugly’ bread",
       "outlet": "World news | The Guardian",
@@ -2918,36 +2886,36 @@
       "cluster_id": "fad72c56ec96"
     },
     {
-      "id": "d99ed478a19f",
-      "title": "‘Magical’ galaxy frogs disappear after reports of photographers destroying their habitats",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/dec/17/galaxy-frogs-disappear-photographers-habitat-kerala",
-      "published_at": "Wed, 17 Dec 2025 05:00:27 GMT",
+      "id": "b90342b2ae45",
+      "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
       "bullets": [
-        "• Melanobatrachus indicus is the only species in its family, and lives under logs in the rainforest in Kerala, India",
-        "• Their miraculous spots do not indicate poison, as people sometimes assume, but are thought to be used as a mode of communication "
+        "• Trump's rush to build nuclear reactors across the U.S",
+        "• raises safety worries",
+        "• Billions of dollars in capital are currently flowing into dozens of companies chasing new kinds of nuclear technologies",
+        "• Trump administration program is sidestepping regulatory system that's overseen the nuclear industry for 50 years "
       ],
-      "category": "Environment",
+      "category": "Science",
       "sentiment": {
-        "label": "negative",
-        "score": 0.996
+        "label": "neutral",
+        "score": 0.581
       },
       "moods": {
         "brief_bullets": [
-          "• Melanobatrachus indicus is the only species in its family, and lives under logs in the rainforest in Kerala, India",
-          "• Their miraculous spots do not indicate poison, as people sometimes assume, but are thought to be used as a mode of communication "
+          "• Trump's rush to build nuclear reactors across the U.S",
+          "• raises safety worries"
         ],
         "hopeful_bullets": [
-          "• Melanobatrachus indicus is the only species in its family, and lives under logs in the rainforest in Kerala, India",
-          "• Their miraculous spots do not indicate poison, as people sometimes assume, but are thought to be used as a mode of communication "
+          "• Billions of dollars in capital are currently flowing into dozens of companies chasing new kinds of nuclear technologies"
         ],
         "stakes_bullets": [
-          "• Melanobatrachus indicus is the only species in its family, and lives under logs in the rainforest in Kerala, India",
-          "• Their miraculous spots do not indicate poison, as people sometimes assume, but are thought to be used as a mode of communication "
+          "• Billions of dollars in capital are currently flowing into dozens of companies chasing new kinds of nuclear technologies"
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "deb71f32a5d8"
+      "read_minutes": 10,
+      "cluster_id": "43bbb6302f3a"
     },
     {
       "id": "887c9b0f612e",
@@ -2979,38 +2947,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "a6e35bfde9a6"
-    },
-    {
-      "id": "b90342b2ae45",
-      "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• Trump's rush to build nuclear reactors across the U.S",
-        "• raises safety worries",
-        "• Billions of dollars in capital are currently flowing into dozens of companies chasing new kinds of nuclear technologies",
-        "• Trump administration program is sidestepping regulatory system that's overseen the nuclear industry for 50 years "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.581
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump's rush to build nuclear reactors across the U.S",
-          "• raises safety worries"
-        ],
-        "hopeful_bullets": [
-          "• Billions of dollars in capital are currently flowing into dozens of companies chasing new kinds of nuclear technologies"
-        ],
-        "stakes_bullets": [
-          "• Billions of dollars in capital are currently flowing into dozens of companies chasing new kinds of nuclear technologies"
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "43bbb6302f3a"
     },
     {
       "id": "40d030e37f88",
@@ -3709,39 +3645,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "80aa5444c67b"
-    },
-    {
-      "id": "9f4f895be12d",
-      "title": "A Progressive Case for a Student-Centered Education Agenda",
-      "outlet": "The Texas Tribune",
-      "url": "https://feeds.texastribune.org/link/16799/17235748/a-progressive-case-for-a-student-centered-education-agenda",
-      "published_at": "Tue, 16 Dec 2025 19:06:47 +0000",
-      "bullets": [
-        "• Voters are reacting to the second Trump era by electing Democrats at every level of government",
-        "• In Miami, voters just elected their first Democratic mayor in 30 years",
-        "• Virginia voters flipped 13 House of Delegates seats and every statewide office",
-        "• The energy is unmistakable, and with 2026 approaching, Texas could be next "
-      ],
-      "category": "Texas",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Voters are reacting to the second Trump era by electing Democrats at every level of government",
-          "• In Miami, voters just elected their first Democratic mayor in 30 years"
-        ],
-        "hopeful_bullets": [
-          "• Voters are reacting to the second Trump era by electing Democrats at every level of government",
-          "• In Miami, voters just elected their first Democratic mayor in 30 years"
-        ],
-        "stakes_bullets": [
-          "• The energy is unmistakable, and with 2026 approaching, Texas could be next "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e2f9c0e5246d"
     },
     {
       "id": "ab087987fd11",
@@ -4696,6 +4599,332 @@
       "cluster_id": "fae2f8de0cfb"
     },
     {
+      "id": "2ee6f7c98d92",
+      "title": "November's inflation report is the first to be released after the shutdown. Here's what to expect",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/17/novembers-inflation-report-is-the-first-to-be-released-after-the-shutdown.html",
+      "published_at": "Thu, 18 Dec 2025 11:27:57 GMT",
+      "bullets": [
+        "• The November consumer price index report is expected to show a 12-month inflation rate of 3.1%",
+        "• When excluding food and energy, core CPI is forecast to post a 3.0% annual rate",
+        "• The Bureau of Labor Statistics has said the report will not include 1-month percent changes for November 2025 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The November consumer price index report is expected to show a 12-month inflation rate of 3.1%",
+          "• When excluding food and energy, core CPI is forecast to post a 3.0% annual rate"
+        ],
+        "hopeful_bullets": [
+          "• The November consumer price index report is expected to show a 12-month inflation rate of 3.1%",
+          "• When excluding food and energy, core CPI is forecast to post a 3.0% annual rate"
+        ],
+        "stakes_bullets": [
+          "• The November consumer price index report is expected to show a 12-month inflation rate of 3.1%",
+          "• The Bureau of Labor Statistics has said the report will not include 1-month percent changes for November 2025 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "b2b634042306"
+    },
+    {
+      "id": "582b2d9866ec",
+      "title": "Zelensky appeals to EU leaders facing crunch decision on Russia's frozen cash",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 18 Dec 2025 11:25:49 GMT",
+      "bullets": [
+        "• EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine",
+        "• Most of Russia's €210bn (£185bn; $245bn) worth of assets in the EU are held by Belgium-based organisation Euroclear",
+        "• Without a boost in funding, Ukraine's finances are set to run dry in a matter of months "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine",
+          "• Most of Russia's €210bn (£185bn; $245bn) worth of assets in the EU are held by Belgium-based organisation Euroclear"
+        ],
+        "hopeful_bullets": [
+          "• Without a boost in funding, Ukraine's finances are set to run dry in a matter of months "
+        ],
+        "stakes_bullets": [
+          "• EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "1ce50b95903e"
+    },
+    {
+      "id": "e3e8e768a01a",
+      "title": "Russia says it hopes Trump will not make ‘fatal mistake’ after latest US strike on vessel in eastern Pacific kills four – US politics live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2025/dec/18/us-politics-live-venezuela-russia-strikes-trump-news-updates",
+      "published_at": "Thu, 18 Dec 2025 11:21:03 GMT",
+      "bullets": [
+        "• Russia says it hopes Trump will not make 'a fatal mistake' on Venezuela after latest deadly vessel strike",
+        "• US military carried out its latest lethal strike on a vessel in the eastern Pacific on Wednesday, killing four men",
+        "• US has over 20 vessels in the Pacific and Caribbean near Venezuela as part of escalating campaign in region "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.52
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Russia says it hopes Trump will not make 'a fatal mistake' on Venezuela after latest deadly vessel strike",
+          "• US military carried out its latest lethal strike on a vessel in the eastern Pacific on Wednesday, killing four men"
+        ],
+        "hopeful_bullets": [
+          "• Russia says it hopes Trump will not make 'a fatal mistake' on Venezuela after latest deadly vessel strike"
+        ],
+        "stakes_bullets": [
+          "• Russia says it hopes Trump will not make 'a fatal mistake' on Venezuela after latest deadly vessel strike"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7d6dbc506fe1"
+    },
+    {
+      "id": "b349e57fa0af",
+      "title": "Australian PM announces crackdown on hate speech after Bondi shooting",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 18 Dec 2025 11:18:54 GMT",
+      "bullets": [
+        "• Australian PM announces crackdown on hate speech after Bondi shooting",
+        "• New laws will target those who spread hate, division and radicalisation",
+        "• New powers will also be given to cancel or refuse visas for those who commit hate",
+        "• 15 people were killed when two gunmen opened fire at a Hanukkah festival on Sunday "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Australian PM announces crackdown on hate speech after Bondi shooting",
+          "• New laws will target those who spread hate, division and radicalisation"
+        ],
+        "hopeful_bullets": [
+          "• Australian PM announces crackdown on hate speech after Bondi shooting",
+          "• New laws will target those who spread hate, division and radicalisation"
+        ],
+        "stakes_bullets": [
+          "• New laws will target those who spread hate, division and radicalisation",
+          "• New powers will also be given to cancel or refuse visas for those who commit hate"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "0b1147c98bdb"
+    },
+    {
+      "id": "d72457b138bf",
+      "title": "2025’s AI boom caused huge CO2 emissions and use of water, research finds",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds",
+      "published_at": "Thu, 18 Dec 2025 11:15:59 GMT",
+      "bullets": [
+        "• AI-related water use now exceeds the entirety of global bottled-water demand",
+        "• Greenhouse gas emissions equivalent to 8% of global aviation emissions",
+        "• Dutch academic Alex de Vries-Gao compiled the study using technology companies' own reporting",
+        "• He called for stricter requirements for companies to be more transparent about their climate impact "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• AI-related water use now exceeds the entirety of global bottled-water demand",
+          "• Greenhouse gas emissions equivalent to 8% of global aviation emissions"
+        ],
+        "hopeful_bullets": [
+          "• AI-related water use now exceeds the entirety of global bottled-water demand",
+          "• Greenhouse gas emissions equivalent to 8% of global aviation emissions"
+        ],
+        "stakes_bullets": [
+          "• He called for stricter requirements for companies to be more transparent about their climate impact "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "6c8e8c24b8a1"
+    },
+    {
+      "id": "d780dd7a5fe4",
+      "title": "Americans’ view on their mental health at record low, according to new poll",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/18/us-mental-health-poll",
+      "published_at": "Thu, 18 Dec 2025 11:00:07 GMT",
+      "bullets": [
+        "• A record low proportion of Americans rate their mental health as “good” or “excellent” according to a Gallup poll released on Thursday",
+        "• Experts said that, while this decline is cause for public health concern, the news isn’t all bad "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.582
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A record low proportion of Americans rate their mental health as “good” or “excellent” according to a Gallup poll released on Thursday",
+          "• Experts said that, while this decline is cause for public health concern, the news isn’t all bad "
+        ],
+        "hopeful_bullets": [
+          "• A record low proportion of Americans rate their mental health as “good” or “excellent” according to a Gallup poll released on Thursday"
+        ],
+        "stakes_bullets": [
+          "• Experts said that, while this decline is cause for public health concern, the news isn’t all bad "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ac04f727abf3"
+    },
+    {
+      "id": "00ab27bdef5e",
+      "title": "What's ahead for media in 2026? Anonymous executives make bold predictions",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/18/2026-media-predictions-anonymous-executives.html",
+      "published_at": "Thu, 18 Dec 2025 11:00:01 GMT",
+      "bullets": [
+        "• CNBC spoke with 16 of the most powerful and influential executives in U.S",
+        "• media, sports and entertainment",
+        "• One executive predicted Comcast would acquire the studio and streaming assets of Warner Bros",
+        "• Discovery and merge with NBCUniversal",
+        "• Another predicted a big tech company would acquire videogame maker Electronic Arts "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.955
+      },
+      "moods": {
+        "brief_bullets": [
+          "• CNBC spoke with 16 of the most powerful and influential executives in U.S",
+          "• media, sports and entertainment"
+        ],
+        "hopeful_bullets": [
+          "• CNBC spoke with 16 of the most powerful and influential executives in U.S",
+          "• media, sports and entertainment"
+        ],
+        "stakes_bullets": [
+          "• CNBC spoke with 16 of the most powerful and influential executives in U.S",
+          "• One executive predicted Comcast would acquire the studio and streaming assets of Warner Bros"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "4a44a793936b"
+    },
+    {
+      "id": "dfa26cd5e223",
+      "title": "new Apple iOS update is wrecking my iPhone",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/phone-updates-used-to-be-annoying-the-latest-ios-is-awful/",
+      "published_at": "Thu, 18 Dec 2025 11:00:00 +0000",
+      "bullets": [
+        "• Tech companies are accustomed to a certain amount of kicking and screaming after foisting new interfaces on the public",
+        "• But with the latest iOS, released last week, revolt is in the air",
+        "• Ask your friends about the operating system update, and you will be swept away in a river of anger",
+        "• One Reddit thread was posted under the headline “New iPhone update made me so ove ove ove"
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tech companies are accustomed to a certain amount of kicking and screaming after foisting new interfaces on the public",
+          "• But with the latest iOS, released last week, revolt is in the air"
+        ],
+        "hopeful_bullets": [
+          "• Tech companies are accustomed to a certain amount of kicking and screaming after foisting new interfaces on the public",
+          "• But with the latest iOS, released last week, revolt is in the air"
+        ],
+        "stakes_bullets": [
+          "• Ask your friends about the operating system update, and you will be swept away in a river of anger"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "2c7fb831360b"
+    },
+    {
+      "id": "e6bef674ad39",
+      "title": "How cutting transgender instruction at Texas medical schools undermines health groups’ recommendations",
+      "outlet": "The Texas Tribune",
+      "url": "https://feeds.texastribune.org/link/16799/17236982/texas-transgender-medical-school-instruction",
+      "published_at": "Thu, 18 Dec 2025 11:00:00 +0000",
+      "bullets": [
+        "• Texas medical schools have turned to Kelly Marshall to help teach mental and physical health care students to better treat their transgender patients",
+        "• Despite winning accolades for their work, universities have stopped asking Marshall to speak in medical classrooms about this specialized form of care",
+        "• Transgender social worker Marshall discusses topics that can be implemented across all types of health care "
+      ],
+      "category": "Texas",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.952
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Texas medical schools have turned to Kelly Marshall to help teach mental and physical health care students to better treat their transgender patients",
+          "• Despite winning accolades for their work, universities have stopped asking Marshall to speak in medical classrooms about this specialized form of care"
+        ],
+        "hopeful_bullets": [
+          "• Texas medical schools have turned to Kelly Marshall to help teach mental and physical health care students to better treat their transgender patients",
+          "• Despite winning accolades for their work, universities have stopped asking Marshall to speak in medical classrooms about this specialized form of care"
+        ],
+        "stakes_bullets": [
+          "• Texas medical schools have turned to Kelly Marshall to help teach mental and physical health care students to better treat their transgender patients",
+          "• Despite winning accolades for their work, universities have stopped asking Marshall to speak in medical classrooms about this specialized form of care",
+          "• Transgender social worker Marshall discusses topics that can be implemented across all types of health care "
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "79c2ff6e6178"
+    },
+    {
+      "id": "7a2955f2fd64",
+      "title": "Dan Bongino stepping down as FBI deputy director",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgj0p5yl92o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 18 Dec 2025 10:35:30 GMT",
+      "bullets": [
+        "• Dan Bongino says he will step down as FBI deputy director in January",
+        "• The former podcast host was appointed to the role by President Trump in February",
+        "• He thanked the president and US attorney general for the \"opportunity to serve with purpose\""
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.856
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dan Bongino says he will step down as FBI deputy director in January",
+          "• The former podcast host was appointed to the role by President Trump in February"
+        ],
+        "hopeful_bullets": [
+          "• Dan Bongino says he will step down as FBI deputy director in January",
+          "• The former podcast host was appointed to the role by President Trump in February"
+        ],
+        "stakes_bullets": [
+          "• Dan Bongino says he will step down as FBI deputy director in January"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "44101339792a"
+    },
+    {
       "id": "8181e82904ea",
       "title": "Pumped Hydro Energy Storage Is Having a Renaissance",
       "outlet": "WIRED",
@@ -4729,37 +4958,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "323c818f9ca3"
-    },
-    {
-      "id": "582b2d9866ec",
-      "title": "EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 18 Dec 2025 10:23:17 GMT",
-      "bullets": [
-        "• EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine",
-        "• Most of Russia's €210bn (£185bn; $245bn) worth of assets in the EU are held by Belgium-based organisation Euroclear",
-        "• Without a boost in funding, Ukraine's finances are set to run dry in a matter of months "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine",
-          "• Most of Russia's €210bn (£185bn; $245bn) worth of assets in the EU are held by Belgium-based organisation Euroclear"
-        ],
-        "hopeful_bullets": [
-          "• Without a boost in funding, Ukraine's finances are set to run dry in a matter of months "
-        ],
-        "stakes_bullets": [
-          "• EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "bf3ce34fdc97"
     },
     {
       "id": "1d00d956bae5",
@@ -4861,41 +5059,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "e68db8c3e133"
-    },
-    {
-      "id": "b349e57fa0af",
-      "title": "Australian PM announces crackdown on hate speech after Bondi shooting",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 18 Dec 2025 09:18:25 GMT",
-      "bullets": [
-        "• Australian PM announces crackdown on hate speech after Bondi shooting",
-        "• New laws will target those who spread hate, division and radicalisation",
-        "• New powers will also be given to cancel or refuse visas for those who commit hate",
-        "• The new laws will also include penalties for preachers and leaders who promote violence "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Australian PM announces crackdown on hate speech after Bondi shooting",
-          "• New laws will target those who spread hate, division and radicalisation"
-        ],
-        "hopeful_bullets": [
-          "• Australian PM announces crackdown on hate speech after Bondi shooting",
-          "• New laws will target those who spread hate, division and radicalisation"
-        ],
-        "stakes_bullets": [
-          "• New laws will target those who spread hate, division and radicalisation",
-          "• New powers will also be given to cancel or refuse visas for those who commit hate",
-          "• The new laws will also include penalties for preachers and leaders who promote violence "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "0b1147c98bdb"
     },
     {
       "id": "96f56ba38212",
@@ -5366,39 +5529,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "0dc355d50664"
-    },
-    {
-      "id": "2ee6f7c98d92",
-      "title": "November's inflation report is the first to be released after the shutdown. Here's what to expect",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/17/novembers-inflation-report-is-the-first-to-be-released-after-the-shutdown.html",
-      "published_at": "Thu, 18 Dec 2025 04:30:55 GMT",
-      "bullets": [
-        "• The November consumer price index report is expected to show a 12-month inflation rate of 3.1%",
-        "• When excluding food and energy, core CPI is forecast to post a 3.0% annual rate",
-        "• The Bureau of Labor Statistics has said the report will not include 1-month percent changes for November 2025 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The November consumer price index report is expected to show a 12-month inflation rate of 3.1%",
-          "• When excluding food and energy, core CPI is forecast to post a 3.0% annual rate"
-        ],
-        "hopeful_bullets": [
-          "• The November consumer price index report is expected to show a 12-month inflation rate of 3.1%",
-          "• When excluding food and energy, core CPI is forecast to post a 3.0% annual rate"
-        ],
-        "stakes_bullets": [
-          "• The November consumer price index report is expected to show a 12-month inflation rate of 3.1%",
-          "• The Bureau of Labor Statistics has said the report will not include 1-month percent changes for November 2025 "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b2b634042306"
     },
     {
       "id": "454072b6b514",
@@ -5968,104 +6098,6 @@
       "cluster_id": "bf14e5b790f8"
     },
     {
-      "id": "a966481fb5e9",
-      "title": "Instacart shares drop on report that FTC is probing company over AI pricing tool",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/17/instacart-sec-probe-pricing-tool.html",
-      "published_at": "Thu, 18 Dec 2025 01:23:59 GMT",
-      "bullets": [
-        "• The FTC is investigating Instacart's pricing practices, Reuters reports",
-        "• The company declined to comment but said reporting has mischaracterized its pricing system",
-        "• A study last week showed that prices for the same products in the same supermarkets can vary by around 7% "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The FTC is investigating Instacart's pricing practices, Reuters reports",
-          "• The company declined to comment but said reporting has mischaracterized its pricing system"
-        ],
-        "hopeful_bullets": [
-          "• The FTC is investigating Instacart's pricing practices, Reuters reports",
-          "• The company declined to comment but said reporting has mischaracterized its pricing system"
-        ],
-        "stakes_bullets": [
-          "• The FTC is investigating Instacart's pricing practices, Reuters reports",
-          "• The company declined to comment but said reporting has mischaracterized its pricing system",
-          "• A study last week showed that prices for the same products in the same supermarkets can vary by around 7% "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "6f7b9b07d3b5"
-    },
-    {
-      "id": "7a2955f2fd64",
-      "title": "Dan Bongino stepping down as FBI deputy director",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgj0p5yl92o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 18 Dec 2025 01:02:40 GMT",
-      "bullets": [
-        "• Dan Bongino will step down as FBI deputy director in January",
-        "• He was appointed to the role by President Trump in February",
-        "• The former New York City police officer had no prior experience with the agency",
-        "• Trump said earlier on Wednesday that he \"did a great job\" in office "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.544
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dan Bongino will step down as FBI deputy director in January",
-          "• He was appointed to the role by President Trump in February"
-        ],
-        "hopeful_bullets": [
-          "• Dan Bongino will step down as FBI deputy director in January",
-          "• He was appointed to the role by President Trump in February"
-        ],
-        "stakes_bullets": [
-          "• Dan Bongino will step down as FBI deputy director in January"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "44101339792a"
-    },
-    {
-      "id": "3fa783410155",
-      "title": "Coinbase adds prediction markets and stock trading in push to be one-stop trading app",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/17/coinbase-prediction-markets-stock-trading-stablecoins.html",
-      "published_at": "Thu, 18 Dec 2025 01:01:49 GMT",
-      "bullets": [
-        "• Coinbase is rolling out a major slate of new products designed to turn it into a one-stop financial app",
-        "• The digital asset exchange is expanding into stocks, more advanced trading, and prediction markets",
-        "• CEO Brian Armstrong is looking to make his platform the place to trade everything "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.647
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Coinbase is rolling out a major slate of new products designed to turn it into a one-stop financial app",
-          "• The digital asset exchange is expanding into stocks, more advanced trading, and prediction markets"
-        ],
-        "hopeful_bullets": [
-          "• CEO Brian Armstrong is looking to make his platform the place to trade everything "
-        ],
-        "stakes_bullets": [
-          "• The digital asset exchange is expanding into stocks, more advanced trading, and prediction markets"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5d0cf08c8243"
-    },
-    {
       "id": "2daddc9843d3",
       "title": "A Taylor Swift Lyric Was One of the Most-Viewed on Genius. Guessing the Song Won’t Be… Hard",
       "outlet": "Music News",
@@ -6230,7 +6262,7 @@
     {
       "id": "8349fabad02b",
       "title": "Washington state flooding damage profound but unclear, governor warns",
-      "outlet": "US news | The Guardian",
+      "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/dec/17/washington-flooding-damage-governor",
       "published_at": "Thu, 18 Dec 2025 00:00:17 GMT",
       "bullets": [
@@ -6238,7 +6270,7 @@
         "• High winds and flooding are expected to continue for the next two days",
         "• Flood warnings are in effect for the rest of the week, with more rain expected to hit the area "
       ],
-      "category": "US",
+      "category": "Environment",
       "sentiment": {
         "label": "negative",
         "score": 0.98
@@ -8450,28 +8482,29 @@
       "url": "https://www.theverge.com/news/846903/billionaire-jared-isaacman-confirmed-as-new-head-of-nasa",
       "published_at": "2025-12-17T18:36:06-05:00",
       "bullets": [
-        "• The Senate confirmed the two-time nominee as the new head of NASA on Wednesday",
-        "• President Donald Trump picked the man for the second time in November",
-        "• Trump said in May that it would be “inappropriate” to nominate the man to head the space agency "
+        "• The Senate confirmed Jared Isaacman as the new head of NASA on Wednesday",
+        "• President Donald Trump nominated Isaacman again in November",
+        "• Isaacman is the founder and CEO of a payments platform called Shift4",
+        "• He has flown to space twice with Elon Musk’s SpaceX "
       ],
       "category": "Technology",
       "sentiment": {
-        "label": "negative",
-        "score": 0.996
+        "label": "positive",
+        "score": 0.982
       },
       "moods": {
         "brief_bullets": [
-          "• The Senate confirmed the two-time nominee as the new head of NASA on Wednesday",
-          "• President Donald Trump picked the man for the second time in November"
+          "• The Senate confirmed Jared Isaacman as the new head of NASA on Wednesday",
+          "• President Donald Trump nominated Isaacman again in November"
         ],
         "hopeful_bullets": [
-          "• The Senate confirmed the two-time nominee as the new head of NASA on Wednesday",
-          "• President Donald Trump picked the man for the second time in November"
+          "• The Senate confirmed Jared Isaacman as the new head of NASA on Wednesday",
+          "• President Donald Trump nominated Isaacman again in November"
         ],
         "stakes_bullets": [
-          "• The Senate confirmed the two-time nominee as the new head of NASA on Wednesday",
-          "• President Donald Trump picked the man for the second time in November",
-          "• Trump said in May that it would be “inappropriate” to nominate the man to head the space agency "
+          "• The Senate confirmed Jared Isaacman as the new head of NASA on Wednesday",
+          "• President Donald Trump nominated Isaacman again in November",
+          "• Isaacman is the founder and CEO of a payments platform called Shift4"
         ]
       },
       "read_minutes": 1,
@@ -9043,15 +9076,15 @@
       ]
     },
     {
-      "id": "bf3ce34fdc97",
-      "topic": "crunch decision face leader",
+      "id": "1ce50b95903e",
+      "topic": "appeal crunch decision facing",
       "keywords": [
+        "appeal",
         "crunch",
         "decision",
-        "face",
+        "facing",
         "leader",
-        "loaning",
-        "russia"
+        "zelensky"
       ],
       "item_ids": [
         "582b2d9866ec"
@@ -9349,6 +9382,42 @@
       ]
     },
     {
+      "id": "7d6dbc506fe1",
+      "topic": "fatal hope make mistake",
+      "keywords": [
+        "fatal",
+        "hope",
+        "make",
+        "mistake",
+        "russia",
+        "trump"
+      ],
+      "item_ids": [
+        "e3e8e768a01a"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "ac04f727abf3",
+      "topic": "american health low mental",
+      "keywords": [
+        "american",
+        "health",
+        "low",
+        "mental",
+        "record",
+        "view"
+      ],
+      "item_ids": [
+        "d780dd7a5fe4"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "9f4bf5d936e1",
       "topic": "addres bah feeling humbug",
       "keywords": [
@@ -9457,24 +9526,6 @@
       ]
     },
     {
-      "id": "8e3898e2d005",
-      "topic": "damage flooding profound state",
-      "keywords": [
-        "damage",
-        "flooding",
-        "profound",
-        "state",
-        "unclear",
-        "washington"
-      ],
-      "item_ids": [
-        "8349fabad02b"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "b11c49ddc953",
       "topic": "bongino dan deputy director",
       "keywords": [
@@ -9491,24 +9542,6 @@
       ],
       "outlets": [
         "NPR Topics: News",
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "27f62d5049d4",
-      "topic": "administration block hundred judge",
-      "keywords": [
-        "administration",
-        "block",
-        "hundred",
-        "judge",
-        "layoff",
-        "trump"
-      ],
-      "item_ids": [
-        "7c3b509340f9"
-      ],
-      "outlets": [
         "US news | The Guardian"
       ]
     },
@@ -9674,6 +9707,24 @@
       ]
     },
     {
+      "id": "4a44a793936b",
+      "topic": "2026 ahead anonymou executive",
+      "keywords": [
+        "2026",
+        "ahead",
+        "anonymou",
+        "executive",
+        "make",
+        "media"
+      ],
+      "item_ids": [
+        "00ab27bdef5e"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "aeae7731fa50",
       "topic": "776 announce dividend every",
       "keywords": [
@@ -9710,6 +9761,42 @@
       ]
     },
     {
+      "id": "a3f8db6630c6",
+      "topic": "extension get obamacare republican",
+      "keywords": [
+        "extension",
+        "get",
+        "obamacare",
+        "republican",
+        "subsidie",
+        "vote"
+      ],
+      "item_ids": [
+        "aa178f472c17"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "81b9b7fa6069",
+      "topic": "delta glen hauenstein helped",
+      "keywords": [
+        "delta",
+        "glen",
+        "hauenstein",
+        "helped",
+        "president",
+        "turn"
+      ],
+      "item_ids": [
+        "7d804f54fb71"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "a08e6dc840f9",
       "topic": "computer forecast memory micron",
       "keywords": [
@@ -9728,52 +9815,18 @@
       ]
     },
     {
-      "id": "5d0cf08c8243",
-      "topic": "adds coinbase market prediction",
+      "id": "134133908dae",
+      "topic": "buy expensive little medline",
       "keywords": [
-        "adds",
-        "coinbase",
-        "market",
-        "prediction",
+        "buy",
+        "expensive",
+        "little",
+        "medline",
         "stock",
-        "trading"
+        "too"
       ],
       "item_ids": [
-        "3fa783410155"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "6f7b9b07d3b5",
-      "topic": "drop ftc instacart probing",
-      "keywords": [
-        "drop",
-        "ftc",
-        "instacart",
-        "probing",
-        "report",
-        "share"
-      ],
-      "item_ids": [
-        "a966481fb5e9"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "3181b670a792",
-      "topic": "2029 heading oscar youtube",
-      "keywords": [
-        "2029",
-        "heading",
-        "oscar",
-        "youtube"
-      ],
-      "item_ids": [
-        "1a1f0e238f60"
+        "fd0de38f60c2"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9816,21 +9869,19 @@
       ]
     },
     {
-      "id": "af242b455051",
-      "topic": "brendan carr chief fcc",
+      "id": "2c7fb831360b",
+      "topic": "apple ios iphone wrecking",
       "keywords": [
-        "brendan",
-        "carr",
-        "chief",
-        "fcc",
-        "senate",
-        "tell"
+        "apple",
+        "ios",
+        "iphone",
+        "wrecking"
       ],
       "item_ids": [
-        "d5036c905a6c"
+        "dfa26cd5e223"
       ],
       "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
       ]
     },
     {
@@ -9990,24 +10041,6 @@
       ],
       "item_ids": [
         "8152c9471c34"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "2f0c99764e71",
-      "topic": "2025 best food gift",
-      "keywords": [
-        "2025",
-        "best",
-        "food",
-        "gift",
-        "tastebud",
-        "tested"
-      ],
-      "item_ids": [
-        "131c9ea8ee43"
       ],
       "outlets": [
         "WIRED"
@@ -10559,24 +10592,6 @@
       ]
     },
     {
-      "id": "a6e35bfde9a6",
-      "topic": "bird dropping ended holiday",
-      "keywords": [
-        "bird",
-        "dropping",
-        "ended",
-        "holiday",
-        "kisse",
-        "under"
-      ],
-      "item_ids": [
-        "887c9b0f612e"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "43bbb6302f3a",
       "topic": "acros build nuclear reactor",
       "keywords": [
@@ -10589,6 +10604,24 @@
       ],
       "item_ids": [
         "b90342b2ae45"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "a6e35bfde9a6",
+      "topic": "bird dropping ended holiday",
+      "keywords": [
+        "bird",
+        "dropping",
+        "ended",
+        "holiday",
+        "kisse",
+        "under"
+      ],
+      "item_ids": [
+        "887c9b0f612e"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -10890,6 +10923,24 @@
       ]
     },
     {
+      "id": "8e3898e2d005",
+      "topic": "damage flooding profound state",
+      "keywords": [
+        "damage",
+        "flooding",
+        "profound",
+        "state",
+        "unclear",
+        "washington"
+      ],
+      "item_ids": [
+        "8349fabad02b"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "f4ebed1a57d8",
       "topic": "administration climate dismantle key",
       "keywords": [
@@ -10998,6 +11049,24 @@
       ]
     },
     {
+      "id": "6c8e8c24b8a1",
+      "topic": "2025 boom caused co2",
+      "keywords": [
+        "2025",
+        "boom",
+        "caused",
+        "co2",
+        "emission",
+        "huge"
+      ],
+      "item_ids": [
+        "d72457b138bf"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "3aacac9782ce",
       "topic": "2026 above bring heat",
       "keywords": [
@@ -11028,24 +11097,6 @@
       ],
       "item_ids": [
         "029aa09122e8"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "deb71f32a5d8",
-      "topic": "disappear frog galaxy magical",
-      "keywords": [
-        "disappear",
-        "frog",
-        "galaxy",
-        "magical",
-        "photographer",
-        "report"
-      ],
-      "item_ids": [
-        "d99ed478a19f"
       ],
       "outlets": [
         "Environment | The Guardian"
@@ -13629,6 +13680,24 @@
       ]
     },
     {
+      "id": "79c2ff6e6178",
+      "topic": "cutting instruction medical school",
+      "keywords": [
+        "cutting",
+        "instruction",
+        "medical",
+        "school",
+        "texa",
+        "transgender"
+      ],
+      "item_ids": [
+        "e6bef674ad39"
+      ],
+      "outlets": [
+        "The Texas Tribune"
+      ]
+    },
+    {
       "id": "ad0e27bb149f",
       "topic": "ken launche line office",
       "keywords": [
@@ -13766,24 +13835,6 @@
       ],
       "item_ids": [
         "2b6896094ef3"
-      ],
-      "outlets": [
-        "The Texas Tribune"
-      ]
-    },
-    {
-      "id": "e2f9c0e5246d",
-      "topic": "agenda case centered education",
-      "keywords": [
-        "agenda",
-        "case",
-        "centered",
-        "education",
-        "progressive",
-        "student"
-      ],
-      "item_ids": [
-        "9f4f895be12d"
       ],
       "outlets": [
         "The Texas Tribune"
