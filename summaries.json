@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-18T05:13:58Z",
+  "generated_at": "2025-12-18T06:05:42Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -100,6 +100,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "ea3e9a9b71d7"
+    },
+    {
+      "id": "04456595f79c",
+      "title": "AI detects cancer but it’s also reading who you are",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/12/251217231230.htm",
+      "published_at": "Wed, 17 Dec 2025 23:53:41 EST",
+      "bullets": [
+        "• AI detects cancer but itâs also reading who you are, says Harvard Medical School",
+        "• New research shows these systems can infer patient demographics from pathology slides, leading to biased results for certain groups",
+        "• The bias stems from how the models are trained and the data they see, not just from missing samples "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• AI detects cancer but itâs also reading who you are, says Harvard Medical School",
+          "• New research shows these systems can infer patient demographics from pathology slides, leading to biased results for certain groups"
+        ],
+        "hopeful_bullets": [
+          "• AI detects cancer but itâs also reading who you are, says Harvard Medical School",
+          "• New research shows these systems can infer patient demographics from pathology slides, leading to biased results for certain groups"
+        ],
+        "stakes_bullets": [
+          "• New research shows these systems can infer patient demographics from pathology slides, leading to biased results for certain groups"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "14ac038eba50"
     },
     {
       "id": "db88091535ed",
@@ -1194,41 +1226,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "19cba3ae50ab"
-    },
-    {
-      "id": "6c445d697472",
-      "title": "Star Wars Vs Star Trek",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-12-17-star-wars-vs-star-trek/?utm_source=rss&utm_medium=rss&utm_campaign=star-wars-vs-star-trek",
-      "published_at": "Wed, 17 Dec 2025 20:24:58 +0000",
-      "bullets": [
-        "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
-        "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet",
-        "• The Enterprise-E for some weird reason finds itself in a galaxy far, far away",
-        "• And they appear in the vicinity of a lone Imperial Star Destroyer on patrol "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.898
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
-          "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet"
-        ],
-        "hopeful_bullets": [
-          "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
-          "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet"
-        ],
-        "stakes_bullets": [
-          "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
-          "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet",
-          "• The Enterprise-E for some weird reason finds itself in a galaxy far, far away"
-        ]
-      },
-      "read_minutes": 24,
-      "cluster_id": "7e4f4b714cd0"
     },
     {
       "id": "1c5c9f5ccaff",
@@ -3343,6 +3340,37 @@
       "cluster_id": "deb71f32a5d8"
     },
     {
+      "id": "887c9b0f612e",
+      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "hopeful_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "stakes_bullets": [
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6e35bfde9a6"
+    },
+    {
       "id": "b90342b2ae45",
       "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
       "outlet": "NPR Topics: Science",
@@ -3373,37 +3401,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "43bbb6302f3a"
-    },
-    {
-      "id": "887c9b0f612e",
-      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "hopeful_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "stakes_bullets": [
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a6e35bfde9a6"
     },
     {
       "id": "40d030e37f88",
@@ -3906,38 +3903,6 @@
       "cluster_id": "1c12a4d2eb95"
     },
     {
-      "id": "b77f0ab27550",
-      "title": "This 8,000-year-old art shows math before numbers existed",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/12/251216081937.htm",
-      "published_at": "Tue, 16 Dec 2025 23:26:36 EST",
-      "bullets": [
-        "• Early farming communities in northern Mesopotamia were already thinking mathematicallyâlong before numbers were written down",
-        "• By closely examining prehistoric pottery, researchers traced the oldest consistent use of plant imagery in human art to more than 8,000 years ago",
-        "• The findings show that early farming communities carefully painted flowers, shrubs, branches, and trees "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Early farming communities in northern Mesopotamia were already thinking mathematicallyâlong before numbers were written down",
-          "• By closely examining prehistoric pottery, researchers traced the oldest consistent use of plant imagery in human art to more than 8,000 years ago"
-        ],
-        "hopeful_bullets": [
-          "• Early farming communities in northern Mesopotamia were already thinking mathematicallyâlong before numbers were written down",
-          "• By closely examining prehistoric pottery, researchers traced the oldest consistent use of plant imagery in human art to more than 8,000 years ago"
-        ],
-        "stakes_bullets": [
-          "• By closely examining prehistoric pottery, researchers traced the oldest consistent use of plant imagery in human art to more than 8,000 years ago"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d15c8a4dfe37"
-    },
-    {
       "id": "df0e498b4b13",
       "title": "Texas AG Ken Paxton seeks damages from energy company linked to Texas’ largest wildfire",
       "outlet": "The Texas Tribune",
@@ -4430,38 +4395,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "4db20cd04c14"
-    },
-    {
-      "id": "1acb08ef7363",
-      "title": "Hot Toys Revenge of the Sith MagnaGuard (MMS856) 1/6 Scale Figure",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-12-16-hot-toys-revenge-of-the-sith-magnaguard-mms856-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-revenge-of-the-sith-magnaguard-mms856-1-6-scale-figure",
-      "published_at": "Tue, 16 Dec 2025 12:20:33 +0000",
-      "bullets": [
-        "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
-        "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.712
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
-          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
-        ],
-        "hopeful_bullets": [
-          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
-          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
-        ],
-        "stakes_bullets": [
-          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
-          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "e035bc8e7532"
     },
     {
       "id": "3e28bad60119",
@@ -5184,6 +5117,38 @@
       },
       "read_minutes": 2,
       "cluster_id": "fae2f8de0cfb"
+    },
+    {
+      "id": "b06bdfce5634",
+      "title": "U.S. approves largest ever arms sale to Taiwan as tensions simmer around the island",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/18/us-taiwan-china-arms-sale-.html",
+      "published_at": "Thu, 18 Dec 2025 05:29:20 GMT",
+      "bullets": [
+        "• U.S",
+        "• approves largest arms sale to Taiwan at $11.15 billion",
+        "• Sale includes artillery systems, antitank missiles, as well as spare parts for helicopters and anti-ship missiles",
+        "• President Lai Ching-te last month vowed to build up Taiwan's self-defense capabilities in the face of growing threats from Beijing "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.818
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• approves largest arms sale to Taiwan at $11.15 billion"
+        ],
+        "hopeful_bullets": [
+          "• President Lai Ching-te last month vowed to build up Taiwan's self-defense capabilities in the face of growing threats from Beijing "
+        ],
+        "stakes_bullets": [
+          "• approves largest arms sale to Taiwan at $11.15 billion"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c0a96a4e8a12"
     },
     {
       "id": "6c35ea1f7806",
@@ -6016,7 +5981,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "251b3b9ef802"
+      "cluster_id": "44101339792a"
     },
     {
       "id": "2daddc9843d3",
@@ -6147,39 +6112,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "c64b82ca02d6"
-    },
-    {
-      "id": "9a8d4a831897",
-      "title": "FBI Deputy Director Dan Bongino is stepping down in January",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/17/fbi-dan-bongino-steps-down-epstein-jan-6.html",
-      "published_at": "Thu, 18 Dec 2025 00:11:31 GMT",
-      "bullets": [
-        "• Bongino is one of the first major figures in President Trump's second term to step down",
-        "• He is a former police officer, and conservative radio and podcast host",
-        "• He will leave after less than a year on the No",
-        "• 2 post at the FBI "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Bongino is one of the first major figures in President Trump's second term to step down",
-          "• He is a former police officer, and conservative radio and podcast host"
-        ],
-        "hopeful_bullets": [
-          "• Bongino is one of the first major figures in President Trump's second term to step down",
-          "• He is a former police officer, and conservative radio and podcast host"
-        ],
-        "stakes_bullets": [
-          "• He will leave after less than a year on the No"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "251b3b9ef802"
     },
     {
       "id": "833dc5143a6a",
@@ -6469,71 +6401,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "f92010ec98b6"
-    },
-    {
-      "id": "aa4c0a156448",
-      "title": "The Black Series Reveals From Today's Hasbro Fanstream",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-12-11-the-black-series-reveals-from-todays-hasbro-fanstream-3/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-series-reveals-from-todays-hasbro-fanstream-3",
-      "published_at": "Thu, 11 Dec 2025 16:35:52 +0000",
-      "bullets": [
-        "• The Black Series gets two new 2-packs, both exclusive to Hasbro Pulse and Disney Store, so no fan channel release and not available at Walmart, Target or Amazon",
-        "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Black Series gets two new 2-packs, both exclusive to Hasbro Pulse and Disney Store, so no fan channel release and not available at Walmart, Target or Amazon",
-          "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
-        ],
-        "hopeful_bullets": [
-          "• The Black Series gets two new 2-packs, both exclusive to Hasbro Pulse and Disney Store, so no fan channel release and not available at Walmart, Target or Amazon",
-          "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
-        ],
-        "stakes_bullets": [
-          "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "833f992e43b1"
-    },
-    {
-      "id": "021b3a34bfe8",
-      "title": "Today's Hasbro Fanstream Starts At 11 AM ET",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-12-11-todays-hasbro-fanstream-starts-at-11-am-et-3/?utm_source=rss&utm_medium=rss&utm_campaign=todays-hasbro-fanstream-starts-at-11-am-et-3",
-      "published_at": "Thu, 11 Dec 2025 15:00:18 +0000",
-      "bullets": [
-        "• Hasbro’s latest Fanstream kicks off shortly",
-        "• Join us right here to watch the latest reveals or catch the stream directly on the Hasbro Pulse YouTube channel",
-        "• The Vintage Collection Mandalorian Shriek-Hawk on sale for $34 "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.732
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hasbro’s latest Fanstream kicks off shortly",
-          "• Join us right here to watch the latest reveals or catch the stream directly on the Hasbro Pulse YouTube channel"
-        ],
-        "hopeful_bullets": [
-          "• Hasbro’s latest Fanstream kicks off shortly",
-          "• Join us right here to watch the latest reveals or catch the stream directly on the Hasbro Pulse YouTube channel"
-        ],
-        "stakes_bullets": [
-          "• Hasbro’s latest Fanstream kicks off shortly",
-          "• Join us right here to watch the latest reveals or catch the stream directly on the Hasbro Pulse YouTube channel",
-          "• The Vintage Collection Mandalorian Shriek-Hawk on sale for $34 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "433b369caf2e"
     },
     {
       "id": "186988486d66",
@@ -7373,38 +7240,6 @@
       "cluster_id": "a12cdebaccb7"
     },
     {
-      "id": "9f99c5067546",
-      "title": "Looking Back At The Force Awakens",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-12-15-looking-back-at-the-force-awakens/?utm_source=rss&utm_medium=rss&utm_campaign=looking-back-at-the-force-awakens",
-      "published_at": "Mon, 15 Dec 2025 16:16:09 +0000",
-      "bullets": [
-        "• This week marks the 10th anniversary of The Force Awakens",
-        "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th",
-        "• Its repercussions still haunt Lucasfilm to this day and its effects are still felt everywhere "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• This week marks the 10th anniversary of The Force Awakens",
-          "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th"
-        ],
-        "hopeful_bullets": [
-          "• This week marks the 10th anniversary of The Force Awakens",
-          "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th"
-        ],
-        "stakes_bullets": [
-          "• Its repercussions still haunt Lucasfilm to this day and its effects are still felt everywhere "
-        ]
-      },
-      "read_minutes": 16,
-      "cluster_id": "e2f4eb0bcf07"
-    },
-    {
       "id": "28f08f39d4d5",
       "title": "Now Playing: The Holly Jolly Slasher You’ve Been Waiting For | SILENT NIGHT, DEADLY NIGHT",
       "outlet": "HorrorFix",
@@ -7894,40 +7729,6 @@
       "cluster_id": "ab77f19f8934"
     },
     {
-      "id": "2bf07c12aa9e",
-      "title": "Pre-Order Hasbro's The Vintage Collection Fan Channel Wave",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-12-12-pre-order-hasbros-the-vintage-collection-fan-channel-wave/?utm_source=rss&utm_medium=rss&utm_campaign=pre-order-hasbros-the-vintage-collection-fan-channel-wave",
-      "published_at": "Fri, 12 Dec 2025 18:12:44 +0000",
-      "bullets": [
-        "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
-        "• Click below for links: Full Case Via Entertainment Earth",
-        "• Pre-Orders The Black Series [Phase IV] The Vintage Series "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
-          "• Click below for links: Full Case Via Entertainment Earth"
-        ],
-        "hopeful_bullets": [
-          "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
-          "• Click below for links: Full Case Via Entertainment Earth"
-        ],
-        "stakes_bullets": [
-          "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
-          "• Click below for links: Full Case Via Entertainment Earth",
-          "• Pre-Orders The Black Series [Phase IV] The Vintage Series "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "fa61653efed2"
-    },
-    {
       "id": "994bb2207adb",
       "title": "Flooding remains threat in Pacific north-west as Washington declares emergency",
       "outlet": "Environment | The Guardian",
@@ -7992,41 +7793,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "01245a5f8aaa"
-    },
-    {
-      "id": "6f373d98f2fa",
-      "title": "Brand New Knights Of The Old Republic Game Announced!",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-12-12-brand-new-knights-of-the-old-republic-game-announced/?utm_source=rss&utm_medium=rss&utm_campaign=brand-new-knights-of-the-old-republic-game-announced",
-      "published_at": "Fri, 12 Dec 2025 13:14:10 +0000",
-      "bullets": [
-        "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
-        "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy",
-        "• The game will be a narrative driven single player RPG",
-        "• It is intended for release on PC and consoles (so not an exclusive title)"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.922
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
-          "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy"
-        ],
-        "hopeful_bullets": [
-          "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
-          "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy"
-        ],
-        "stakes_bullets": [
-          "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
-          "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy",
-          "• The game will be a narrative driven single player RPG"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "807bcb52eaa5"
     },
     {
       "id": "2108915dafea",
@@ -9163,24 +8929,21 @@
       ]
     },
     {
-      "id": "251b3b9ef802",
-      "topic": "bongino dan deputy director",
+      "id": "44101339792a",
+      "topic": "bongino dan deputy down",
       "keywords": [
         "bongino",
         "dan",
         "deputy",
-        "director",
         "down",
         "fbi",
         "stepping"
       ],
       "item_ids": [
-        "7a2955f2fd64",
-        "9a8d4a831897"
+        "7a2955f2fd64"
       ],
       "outlets": [
-        "BBC News",
-        "US Top News and Analysis"
+        "BBC News"
       ]
     },
     {
@@ -9773,6 +9536,24 @@
       ],
       "item_ids": [
         "02fa91d22bce"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "c0a96a4e8a12",
+      "topic": "approve arms ever largest",
+      "keywords": [
+        "approve",
+        "arms",
+        "ever",
+        "largest",
+        "sale",
+        "taiwan"
+      ],
+      "item_ids": [
+        "b06bdfce5634"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10437,6 +10218,21 @@
       ]
     },
     {
+      "id": "14ac038eba50",
+      "topic": "cancer detect reading",
+      "keywords": [
+        "cancer",
+        "detect",
+        "reading"
+      ],
+      "item_ids": [
+        "04456595f79c"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "30fd31a38a7d",
       "topic": "control feel help hungry",
       "keywords": [
@@ -10599,21 +10395,21 @@
       ]
     },
     {
-      "id": "d15c8a4dfe37",
-      "topic": "000 art math old",
+      "id": "a6e35bfde9a6",
+      "topic": "bird dropping ended holiday",
       "keywords": [
-        "000",
-        "art",
-        "math",
-        "old",
-        "show",
-        "year"
+        "bird",
+        "dropping",
+        "ended",
+        "holiday",
+        "kisse",
+        "under"
       ],
       "item_ids": [
-        "b77f0ab27550"
+        "887c9b0f612e"
       ],
       "outlets": [
-        "All Top News -- ScienceDaily"
+        "NPR Topics: Science"
       ]
     },
     {
@@ -10629,24 +10425,6 @@
       ],
       "item_ids": [
         "b90342b2ae45"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "a6e35bfde9a6",
-      "topic": "bird dropping ended holiday",
-      "keywords": [
-        "bird",
-        "dropping",
-        "ended",
-        "holiday",
-        "kisse",
-        "under"
-      ],
-      "item_ids": [
-        "887c9b0f612e"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -12396,125 +12174,6 @@
       ],
       "outlets": [
         "HorrorFix"
-      ]
-    },
-    {
-      "id": "7e4f4b714cd0",
-      "topic": "star trek wars",
-      "keywords": [
-        "star",
-        "trek",
-        "wars"
-      ],
-      "item_ids": [
-        "6c445d697472"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "e035bc8e7532",
-      "topic": "hot magnaguard mms856 revenge",
-      "keywords": [
-        "hot",
-        "magnaguard",
-        "mms856",
-        "revenge",
-        "sith",
-        "toys"
-      ],
-      "item_ids": [
-        "1acb08ef7363"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "e2f4eb0bcf07",
-      "topic": "awaken back force looking",
-      "keywords": [
-        "awaken",
-        "back",
-        "force",
-        "looking"
-      ],
-      "item_ids": [
-        "9f99c5067546"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "fa61653efed2",
-      "topic": "collection fan hasbro order",
-      "keywords": [
-        "collection",
-        "fan",
-        "hasbro",
-        "order",
-        "pre",
-        "vintage"
-      ],
-      "item_ids": [
-        "2bf07c12aa9e"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "807bcb52eaa5",
-      "topic": "announced brand game knight",
-      "keywords": [
-        "announced",
-        "brand",
-        "game",
-        "knight",
-        "old",
-        "republic"
-      ],
-      "item_ids": [
-        "6f373d98f2fa"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "833f992e43b1",
-      "topic": "black fanstream hasbro reveal",
-      "keywords": [
-        "black",
-        "fanstream",
-        "hasbro",
-        "reveal",
-        "serie",
-        "today"
-      ],
-      "item_ids": [
-        "aa4c0a156448"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "433b369caf2e",
-      "topic": "fanstream hasbro start today",
-      "keywords": [
-        "fanstream",
-        "hasbro",
-        "start",
-        "today"
-      ],
-      "item_ids": [
-        "021b3a34bfe8"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
       ]
     },
     {
