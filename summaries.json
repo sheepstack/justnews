@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-19T08:21:59Z",
+  "generated_at": "2025-12-19T09:11:51Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -6742,6 +6742,73 @@
       "cluster_id": "03d1fc91252a"
     },
     {
+      "id": "bbb77ccfd64d",
+      "title": "US suspends green card lottery scheme after Brown shooting",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gp4ze002mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 19 Dec 2025 07:56:38 GMT",
+      "bullets": [
+        "• US suspends green card lottery scheme after mass shooting at Brown University last week",
+        "• President Donald Trump has suspended the scheme in the wake of the shooting",
+        "• The programme makes up to 50,000 visas available each year through a random selection process",
+        "• Homeland Security Secretary Kristi Noem said she has paused the scheme under Trump's direction "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US suspends green card lottery scheme after mass shooting at Brown University last week",
+          "• President Donald Trump has suspended the scheme in the wake of the shooting"
+        ],
+        "hopeful_bullets": [
+          "• US suspends green card lottery scheme after mass shooting at Brown University last week",
+          "• President Donald Trump has suspended the scheme in the wake of the shooting"
+        ],
+        "stakes_bullets": [
+          "• US suspends green card lottery scheme after mass shooting at Brown University last week",
+          "• President Donald Trump has suspended the scheme in the wake of the shooting",
+          "• The programme makes up to 50,000 visas available each year through a random selection process"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "98484d84befb"
+    },
+    {
+      "id": "7741a1b8a702",
+      "title": "Bank of Japan raises benchmark rates to highest in 30 years, lifting 10-year JGB yield past 2%",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/19/bank-of-japan-boj-rate-cpi-inflation-takaichi-ueda.html",
+      "published_at": "Fri, 19 Dec 2025 07:51:10 GMT",
+      "bullets": [
+        "• The Bank of Japan raised benchmark rates by 25 basis points to 0.75%, their highest level since 1995",
+        "• The yen weakened 0.25% to 155.92 against the dollar, and the benchmark Nikkei 225 stock index gained 1.28%",
+        "• The central bank said real interest rates are expected to remain \"significantly negative\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Bank of Japan raised benchmark rates by 25 basis points to 0.75%, their highest level since 1995",
+          "• The yen weakened 0.25% to 155.92 against the dollar, and the benchmark Nikkei 225 stock index gained 1.28%"
+        ],
+        "hopeful_bullets": [
+          "• The yen weakened 0.25% to 155.92 against the dollar, and the benchmark Nikkei 225 stock index gained 1.28%"
+        ],
+        "stakes_bullets": [
+          "• The Bank of Japan raised benchmark rates by 25 basis points to 0.75%, their highest level since 1995",
+          "• The central bank said real interest rates are expected to remain \"significantly negative\""
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "76dd0b3c0b9a"
+    },
+    {
       "id": "158b753f9b8a",
       "title": "TikTok owner signs deal to avoid US ban",
       "outlet": "BBC News",
@@ -7073,37 +7140,7 @@
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "af74f6607320"
-    },
-    {
-      "id": "7741a1b8a702",
-      "title": "Bank of Japan raises benchmark rates to highest in 30 years, lifting 10-year JGB yield past 2%",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/19/bank-of-japan-boj-rate-cpi-inflation-takaichi-ueda.html",
-      "published_at": "Fri, 19 Dec 2025 05:47:06 GMT",
-      "bullets": [
-        "• The Bank of Japan raised benchmark rates by 25 basis points to 0.75%, their highest level since 1995",
-        "• The yen weakened 0.25% to 155.92 against the dollar, and the benchmark Nikkei 225 stock index gained 1.28% "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.957
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Bank of Japan raised benchmark rates by 25 basis points to 0.75%, their highest level since 1995",
-          "• The yen weakened 0.25% to 155.92 against the dollar, and the benchmark Nikkei 225 stock index gained 1.28% "
-        ],
-        "hopeful_bullets": [
-          "• The yen weakened 0.25% to 155.92 against the dollar, and the benchmark Nikkei 225 stock index gained 1.28% "
-        ],
-        "stakes_bullets": [
-          "• The Bank of Japan raised benchmark rates by 25 basis points to 0.75%, their highest level since 1995"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "76dd0b3c0b9a"
+      "cluster_id": "eea871099c8a"
     },
     {
       "id": "41ad988c5409",
@@ -7180,28 +7217,28 @@
       "url": "https://www.theguardian.com/us-news/2025/dec/18/suspect-brown-university-shooting",
       "published_at": "Fri, 19 Dec 2025 05:22:50 GMT",
       "bullets": [
-        "• A man suspected of killing two and wounding nine at Brown University is found dead in a New Hampshire storage facility",
-        "• The suspect, a Portuguese national, was found dead on Thursday evening from a self-inflicted gunshot wound",
-        "• He was found with a bag, and two firearms, as well as evidence in the car "
+        "• Man suspected of killing two and wounding nine others at Brown University found dead in New Hampshire storage facility",
+        "• Police say he took his own life from a self-inflicted gunshot wound",
+        "• Nuno FG Loureiro, a physics professor, was shot in his home on Monday, two days after the attack "
       ],
       "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.998
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• A man suspected of killing two and wounding nine at Brown University is found dead in a New Hampshire storage facility",
-          "• The suspect, a Portuguese national, was found dead on Thursday evening from a self-inflicted gunshot wound"
+          "• Man suspected of killing two and wounding nine others at Brown University found dead in New Hampshire storage facility",
+          "• Police say he took his own life from a self-inflicted gunshot wound"
         ],
         "hopeful_bullets": [
-          "• A man suspected of killing two and wounding nine at Brown University is found dead in a New Hampshire storage facility",
-          "• The suspect, a Portuguese national, was found dead on Thursday evening from a self-inflicted gunshot wound"
+          "• Man suspected of killing two and wounding nine others at Brown University found dead in New Hampshire storage facility",
+          "• Police say he took his own life from a self-inflicted gunshot wound"
         ],
         "stakes_bullets": [
-          "• A man suspected of killing two and wounding nine at Brown University is found dead in a New Hampshire storage facility",
-          "• The suspect, a Portuguese national, was found dead on Thursday evening from a self-inflicted gunshot wound",
-          "• He was found with a bag, and two firearms, as well as evidence in the car "
+          "• Man suspected of killing two and wounding nine others at Brown University found dead in New Hampshire storage facility",
+          "• Police say he took his own life from a self-inflicted gunshot wound",
+          "• Nuno FG Loureiro, a physics professor, was shot in his home on Monday, two days after the attack "
         ]
       },
       "read_minutes": 3,
@@ -7376,40 +7413,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "cc471f674d6d"
-    },
-    {
-      "id": "1b476894e78d",
-      "title": "Brown University shooting suspect found dead, police say",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 19 Dec 2025 04:23:33 GMT",
-      "bullets": [
-        "• Claudio Neves Valente, 48, was found dead in a storage facility in Salem, New Hampshire, police say",
-        "• Valente was a Portuguese national who studied at Brown University about 25 years ago",
-        "• Police say they also believe Valente killed a Massachusetts Institute of Technology professor two days after the shooting "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Claudio Neves Valente, 48, was found dead in a storage facility in Salem, New Hampshire, police say",
-          "• Valente was a Portuguese national who studied at Brown University about 25 years ago"
-        ],
-        "hopeful_bullets": [
-          "• Claudio Neves Valente, 48, was found dead in a storage facility in Salem, New Hampshire, police say",
-          "• Valente was a Portuguese national who studied at Brown University about 25 years ago"
-        ],
-        "stakes_bullets": [
-          "• Claudio Neves Valente, 48, was found dead in a storage facility in Salem, New Hampshire, police say",
-          "• Valente was a Portuguese national who studied at Brown University about 25 years ago",
-          "• Police say they also believe Valente killed a Massachusetts Institute of Technology professor two days after the shooting "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "75fbc610a1a5"
     },
     {
       "id": "4a6d145e5d6d",
@@ -7845,7 +7848,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "af74f6607320"
+      "cluster_id": "98484d84befb"
     },
     {
       "id": "16b17614d463",
@@ -8548,6 +8551,39 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "38c8e14f4af6",
+      "title": "A Starlink satellite seems to have exploded",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/847891/a-starlink-satellite-seems-to-have-exploded",
+      "published_at": "2025-12-19T03:15:30-05:00",
+      "bullets": [
+        "• SpaceX says it has lost control of a Starlink satellite that’s now falling back to Earth after suffering an anomaly",
+        "• The anomaly caused a sudden drop in altitude and created a debris field",
+        "• SpaceX says the satellite will burn up in the atmosphere “within weeks”"
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• SpaceX says it has lost control of a Starlink satellite that’s now falling back to Earth after suffering an anomaly",
+          "• The anomaly caused a sudden drop in altitude and created a debris field"
+        ],
+        "hopeful_bullets": [
+          "• SpaceX says it has lost control of a Starlink satellite that’s now falling back to Earth after suffering an anomaly",
+          "• The anomaly caused a sudden drop in altitude and created a debris field"
+        ],
+        "stakes_bullets": [
+          "• The anomaly caused a sudden drop in altitude and created a debris field",
+          "• SpaceX says the satellite will burn up in the atmosphere “within weeks”"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "387fca6d01d8"
+    },
+    {
       "id": "c41f70415e63",
       "title": "TikTok ban: all the news on the app’s shutdown and return in the US",
       "outlet": "The Verge",
@@ -8842,38 +8878,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "7e3b434317a7"
-    },
-    {
-      "id": "e1455793df65",
-      "title": "Google&#8217;s Gemini app can check videos to see if they were made with Google AI",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos",
-      "published_at": "2025-12-18T15:31:22-05:00",
-      "bullets": [
-        "• Google’s Gemini app can check videos to see if they were made with Google AI",
-        "• Users can ask Gemini to determine if an uploaded video is AI-generated by asking, “Was this generated using Google AI?” The company rolled out this capability for images in November "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Google’s Gemini app can check videos to see if they were made with Google AI",
-          "• Users can ask Gemini to determine if an uploaded video is AI-generated by asking, “Was this generated using Google AI?” The company rolled out this capability for images in November "
-        ],
-        "hopeful_bullets": [
-          "• Google’s Gemini app can check videos to see if they were made with Google AI",
-          "• Users can ask Gemini to determine if an uploaded video is AI-generated by asking, “Was this generated using Google AI?” The company rolled out this capability for images in November "
-        ],
-        "stakes_bullets": [
-          "• Google’s Gemini app can check videos to see if they were made with Google AI",
-          "• Users can ask Gemini to determine if an uploaded video is AI-generated by asking, “Was this generated using Google AI?” The company rolled out this capability for images in November "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "9d2677b6523c"
     },
     {
       "id": "c41ff758b36a",
@@ -9358,21 +9362,24 @@
       ]
     },
     {
-      "id": "75fbc610a1a5",
-      "topic": "brown dead found shooting",
+      "id": "98484d84befb",
+      "topic": "brown card green lottery",
       "keywords": [
         "brown",
-        "dead",
-        "found",
-        "shooting",
-        "suspect",
-        "university"
+        "card",
+        "green",
+        "lottery",
+        "scheme",
+        "suspend",
+        "trump"
       ],
       "item_ids": [
-        "1b476894e78d"
+        "bbb77ccfd64d",
+        "11c8ce01e73e"
       ],
       "outlets": [
-        "BBC News"
+        "BBC News",
+        "NPR Topics: News"
       ]
     },
     {
@@ -9718,10 +9725,9 @@
       ]
     },
     {
-      "id": "af74f6607320",
-      "topic": "brown card green lottery",
+      "id": "eea871099c8a",
+      "topic": "card green lottery suspend",
       "keywords": [
-        "brown",
         "card",
         "green",
         "lottery",
@@ -9730,11 +9736,9 @@
         "wake"
       ],
       "item_ids": [
-        "9292f902cb45",
-        "11c8ce01e73e"
+        "9292f902cb45"
       ],
       "outlets": [
-        "NPR Topics: News",
         "US news | The Guardian"
       ]
     },
@@ -10403,6 +10407,22 @@
       ]
     },
     {
+      "id": "387fca6d01d8",
+      "topic": "exploded satellite seem starlink",
+      "keywords": [
+        "exploded",
+        "satellite",
+        "seem",
+        "starlink"
+      ],
+      "item_ids": [
+        "38c8e14f4af6"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "7f5fa1becf4c",
       "topic": "all app ban return",
       "keywords": [
@@ -10552,24 +10572,6 @@
       ],
       "item_ids": [
         "20212f9ba980"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "9d2677b6523c",
-      "topic": "8217 app check gemini",
-      "keywords": [
-        "8217",
-        "app",
-        "check",
-        "gemini",
-        "google",
-        "video"
-      ],
-      "item_ids": [
-        "e1455793df65"
       ],
       "outlets": [
         "The Verge"
