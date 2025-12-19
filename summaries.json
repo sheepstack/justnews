@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-19T05:14:33Z",
+  "generated_at": "2025-12-19T06:02:47Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2547,27 +2547,26 @@
       "published_at": "Thu, 18 Dec 2025 21:55:57 GMT",
       "bullets": [
         "• Violence breaks out in Bangladesh after death of youth protest leader",
-        "• Sharif Osman Hadi was shot by masked attackers while leaving a mosque in Dhaka",
+        "• Sharif Osman Hadi was shot by masked attackers while leaving a mosque in Dhaka last week",
         "• Hundreds of his supporters gathered in a square in the capital city to protest",
-        "• Protesters vandalised the offices of prominent Bangladeshi newspapers The Daily Star and Prothom Ali "
+        "• One building set on fire and journalists rescued from journalists trapped inside the building "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.982
+        "score": 0.973
       },
       "moods": {
         "brief_bullets": [
           "• Violence breaks out in Bangladesh after death of youth protest leader",
-          "• Sharif Osman Hadi was shot by masked attackers while leaving a mosque in Dhaka"
+          "• Sharif Osman Hadi was shot by masked attackers while leaving a mosque in Dhaka last week"
         ],
         "hopeful_bullets": [
           "• Violence breaks out in Bangladesh after death of youth protest leader",
-          "• Sharif Osman Hadi was shot by masked attackers while leaving a mosque in Dhaka"
+          "• Sharif Osman Hadi was shot by masked attackers while leaving a mosque in Dhaka last week"
         ],
         "stakes_bullets": [
-          "• Violence breaks out in Bangladesh after death of youth protest leader",
-          "• Protesters vandalised the offices of prominent Bangladeshi newspapers The Daily Star and Prothom Ali "
+          "• Violence breaks out in Bangladesh after death of youth protest leader"
         ]
       },
       "read_minutes": 2,
@@ -2606,7 +2605,7 @@
           "• Valente was a former Brown University student and a Portuguese national"
         ]
       },
-      "read_minutes": 3,
+      "read_minutes": 4,
       "cluster_id": "c2bac43c0dd3"
     },
     {
@@ -3075,9 +3074,9 @@
       "url": "https://www.bbc.com/news/articles/cg7vp937jyxo?at_medium=RSS&at_campaign=rss",
       "published_at": "Thu, 18 Dec 2025 20:07:40 GMT",
       "bullets": [
-        "• HR exec in viral video at Coldplay concert speaks of abuse, threats and trying to find a new job",
-        "• Kristin Cabot was seen hugging Andy Byron, then-CEO of Astronomer, at the show in July",
-        "• Video quickly went viral after Coldplay's lead singer Chris Martin said: \"Either they're having an affair, or they're just very shy\""
+        "• HR exec in viral Coldplay clip speaks of abuse, threats and trying to find a new job",
+        "• Kristin Cabot was seen hugging Andy Byron, then-CEO of tech firm Astronomer, before they ducked and hid",
+        "• Video quickly went viral after Coldplay's lead singer said: \"Either they're having an affair, or they're very shy\""
       ],
       "category": "World",
       "sentiment": {
@@ -3086,15 +3085,15 @@
       },
       "moods": {
         "brief_bullets": [
-          "• HR exec in viral video at Coldplay concert speaks of abuse, threats and trying to find a new job",
-          "• Kristin Cabot was seen hugging Andy Byron, then-CEO of Astronomer, at the show in July"
+          "• HR exec in viral Coldplay clip speaks of abuse, threats and trying to find a new job",
+          "• Kristin Cabot was seen hugging Andy Byron, then-CEO of tech firm Astronomer, before they ducked and hid"
         ],
         "hopeful_bullets": [
-          "• HR exec in viral video at Coldplay concert speaks of abuse, threats and trying to find a new job",
-          "• Kristin Cabot was seen hugging Andy Byron, then-CEO of Astronomer, at the show in July"
+          "• HR exec in viral Coldplay clip speaks of abuse, threats and trying to find a new job",
+          "• Kristin Cabot was seen hugging Andy Byron, then-CEO of tech firm Astronomer, before they ducked and hid"
         ],
         "stakes_bullets": [
-          "• Video quickly went viral after Coldplay's lead singer Chris Martin said: \"Either they're having an affair, or they're just very shy\""
+          "• Video quickly went viral after Coldplay's lead singer said: \"Either they're having an affair, or they're very shy\""
         ]
       },
       "read_minutes": 4,
@@ -7112,6 +7111,39 @@
       "cluster_id": "04c5dba1d0e0"
     },
     {
+      "id": "b5a98083819b",
+      "title": "India's ICICI Prudential AMC sees shares jump 20% in market debut after stellar IPO",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/19/icici-prudential-amc-shares-market-debut-ipo.html",
+      "published_at": "Fri, 19 Dec 2025 05:30:32 GMT",
+      "bullets": [
+        "• ICICI Prudential AMC is India's largest asset management company in terms of assets managed under active mutual fund schemes",
+        "• IPO was subscribed more than 39 times during the bidding process, driven primarily by strong demand from institutional investors",
+        "• Retail portion of the IPO saw relatively tepid individual investor interest "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• ICICI Prudential AMC is India's largest asset management company in terms of assets managed under active mutual fund schemes",
+          "• IPO was subscribed more than 39 times during the bidding process, driven primarily by strong demand from institutional investors"
+        ],
+        "hopeful_bullets": [
+          "• IPO was subscribed more than 39 times during the bidding process, driven primarily by strong demand from institutional investors"
+        ],
+        "stakes_bullets": [
+          "• ICICI Prudential AMC is India's largest asset management company in terms of assets managed under active mutual fund schemes",
+          "• IPO was subscribed more than 39 times during the bidding process, driven primarily by strong demand from institutional investors",
+          "• Retail portion of the IPO saw relatively tepid individual investor interest "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ecdf27db090a"
+    },
+    {
       "id": "cd7b0b5810d7",
       "title": "Jeff Mills’ Live at Liquid Room Comes to Streaming for the First Time",
       "outlet": "RSS: News",
@@ -7144,6 +7176,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "ef57a77e0942"
+    },
+    {
+      "id": "41ad988c5409",
+      "title": "Brown and MIT prof shooter suspect Neves Valente is found dead, authorities say",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/19/brown-mit-shooter-dead-valente.html",
+      "published_at": "Fri, 19 Dec 2025 05:00:20 GMT",
+      "bullets": [
+        "• Claudio Manuel Neves Valente, 48, was a graduate student in physics at Brown in the early 2000s",
+        "• He was found dead from suicide in a storage unit in Salem, New Hampshire, with guns found at the scene of the shootings",
+        "• Authorities identified him as their suspect on Wednesday after a man who noticed him hanging around Brown's campus described him to police "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Claudio Manuel Neves Valente, 48, was a graduate student in physics at Brown in the early 2000s",
+          "• He was found dead from suicide in a storage unit in Salem, New Hampshire, with guns found at the scene of the shootings"
+        ],
+        "hopeful_bullets": [
+          "• Claudio Manuel Neves Valente, 48, was a graduate student in physics at Brown in the early 2000s",
+          "• He was found dead from suicide in a storage unit in Salem, New Hampshire, with guns found at the scene of the shootings"
+        ],
+        "stakes_bullets": [
+          "• Claudio Manuel Neves Valente, 48, was a graduate student in physics at Brown in the early 2000s",
+          "• He was found dead from suicide in a storage unit in Salem, New Hampshire, with guns found at the scene of the shootings",
+          "• Authorities identified him as their suspect on Wednesday after a man who noticed him hanging around Brown's campus described him to police "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "2d06723076dc"
     },
     {
       "id": "00325b451d4c",
@@ -7248,40 +7314,6 @@
       "cluster_id": "8ece52a4aad6"
     },
     {
-      "id": "41ad988c5409",
-      "title": "Suspected Brown and MIT prof shooter Neves Valente is found dead, authorities say",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/19/brown-mit-shooter-dead-valente.html",
-      "published_at": "Fri, 19 Dec 2025 04:41:32 GMT",
-      "bullets": [
-        "• Claudio Manuel Neves Valente, 48, was a graduate student in physics at Brown in the early 2000s",
-        "• He was found dead in a storage unit in Salem, New Hampshire, with guns at the scene",
-        "• He is suspected of two counts of murder and multiple assault counts related to the shootings "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Claudio Manuel Neves Valente, 48, was a graduate student in physics at Brown in the early 2000s",
-          "• He was found dead in a storage unit in Salem, New Hampshire, with guns at the scene"
-        ],
-        "hopeful_bullets": [
-          "• Claudio Manuel Neves Valente, 48, was a graduate student in physics at Brown in the early 2000s",
-          "• He was found dead in a storage unit in Salem, New Hampshire, with guns at the scene"
-        ],
-        "stakes_bullets": [
-          "• Claudio Manuel Neves Valente, 48, was a graduate student in physics at Brown in the early 2000s",
-          "• He was found dead in a storage unit in Salem, New Hampshire, with guns at the scene",
-          "• He is suspected of two counts of murder and multiple assault counts related to the shootings "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2d06723076dc"
-    },
-    {
       "id": "e45c235a5295",
       "title": "European Union approves over $105 billion toward Ukraine aid package for next two years",
       "outlet": "US Top News and Analysis",
@@ -7313,6 +7345,40 @@
       },
       "read_minutes": 2,
       "cluster_id": "d93537fd0672"
+    },
+    {
+      "id": "131100538590",
+      "title": "Brown University shooting suspect died from self-inflicted gunshot wound, officials say",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/18/suspect-brown-university-shooting",
+      "published_at": "Fri, 19 Dec 2025 04:32:32 GMT",
+      "bullets": [
+        "• A man suspected of killing two and wounding nine at Brown University is found dead in a New Hampshire storage facility",
+        "• The suspect, a Portuguese national, was found dead on Thursday evening from a self-inflicted gunshot wound",
+        "• He was found with a bag, and two firearms, as well as evidence in the car "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A man suspected of killing two and wounding nine at Brown University is found dead in a New Hampshire storage facility",
+          "• The suspect, a Portuguese national, was found dead on Thursday evening from a self-inflicted gunshot wound"
+        ],
+        "hopeful_bullets": [
+          "• A man suspected of killing two and wounding nine at Brown University is found dead in a New Hampshire storage facility",
+          "• The suspect, a Portuguese national, was found dead on Thursday evening from a self-inflicted gunshot wound"
+        ],
+        "stakes_bullets": [
+          "• A man suspected of killing two and wounding nine at Brown University is found dead in a New Hampshire storage facility",
+          "• The suspect, a Portuguese national, was found dead on Thursday evening from a self-inflicted gunshot wound",
+          "• He was found with a bag, and two firearms, as well as evidence in the car "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "f227f8c5b38b"
     },
     {
       "id": "0d20c5346db1",
@@ -7383,38 +7449,6 @@
       "cluster_id": "75fbc610a1a5"
     },
     {
-      "id": "7741a1b8a702",
-      "title": "Bank of Japan raises benchmark rates to highest in 30 years, lifting 10-year JGB yield past 2%",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/19/bank-of-japan-boj-rate-cpi-inflation-takaichi-ueda.html",
-      "published_at": "Fri, 19 Dec 2025 04:15:34 GMT",
-      "bullets": [
-        "• The Bank of Japan raised benchmark rates by 25 basis points to 0.75%, their highest level since 1995",
-        "• Yield on 10-year Japanese government bonds breached the 2% mark for the first time since 2006",
-        "• Inflation has run above above the BOJ's 2% target for 44 straight months "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.7
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Bank of Japan raised benchmark rates by 25 basis points to 0.75%, their highest level since 1995",
-          "• Yield on 10-year Japanese government bonds breached the 2% mark for the first time since 2006"
-        ],
-        "hopeful_bullets": [
-          "• The Bank of Japan raised benchmark rates by 25 basis points to 0.75%, their highest level since 1995",
-          "• Yield on 10-year Japanese government bonds breached the 2% mark for the first time since 2006"
-        ],
-        "stakes_bullets": [
-          "• The Bank of Japan raised benchmark rates by 25 basis points to 0.75%, their highest level since 1995"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "76dd0b3c0b9a"
-    },
-    {
       "id": "4a6d145e5d6d",
       "title": "The SNES Game With the Best Story of the '90s",
       "outlet": "CBR",
@@ -7445,38 +7479,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "df438b5d69f5"
-    },
-    {
-      "id": "131100538590",
-      "title": "Suspect in Brown University shooting committed suicide, officials say",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/18/suspect-brown-university-shooting",
-      "published_at": "Fri, 19 Dec 2025 04:04:33 GMT",
-      "bullets": [
-        "• Claudio Neves Valente, 48, a Portuguese national and a former Brown student, was found dead on Thursday evening from a self-inflicted gunshot wound",
-        "• Valente is also believed to have killed a Massachusetts Institute of Technology professor at his Boston-area home "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Claudio Neves Valente, 48, a Portuguese national and a former Brown student, was found dead on Thursday evening from a self-inflicted gunshot wound",
-          "• Valente is also believed to have killed a Massachusetts Institute of Technology professor at his Boston-area home "
-        ],
-        "hopeful_bullets": [
-          "• Claudio Neves Valente, 48, a Portuguese national and a former Brown student, was found dead on Thursday evening from a self-inflicted gunshot wound",
-          "• Valente is also believed to have killed a Massachusetts Institute of Technology professor at his Boston-area home "
-        ],
-        "stakes_bullets": [
-          "• Claudio Neves Valente, 48, a Portuguese national and a former Brown student, was found dead on Thursday evening from a self-inflicted gunshot wound",
-          "• Valente is also believed to have killed a Massachusetts Institute of Technology professor at his Boston-area home "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "0e776081386c"
     },
     {
       "id": "f2cc41780007",
@@ -9702,13 +9704,13 @@
       ]
     },
     {
-      "id": "0e776081386c",
-      "topic": "brown committed shooting suicide",
+      "id": "f227f8c5b38b",
+      "topic": "brown died self shooting",
       "keywords": [
         "brown",
-        "committed",
+        "died",
+        "self",
         "shooting",
-        "suicide",
         "suspect",
         "university"
       ],
@@ -10088,7 +10090,7 @@
         "neve",
         "prof",
         "shooter",
-        "suspected"
+        "suspect"
       ],
       "item_ids": [
         "41ad988c5409"
@@ -10128,6 +10130,24 @@
       ],
       "item_ids": [
         "169164d2bd30"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "ecdf27db090a",
+      "topic": "amc icici india prudential",
+      "keywords": [
+        "amc",
+        "icici",
+        "india",
+        "prudential",
+        "sees",
+        "share"
+      ],
+      "item_ids": [
+        "b5a98083819b"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10218,24 +10238,6 @@
       ],
       "item_ids": [
         "0f697d85e308"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "76dd0b3c0b9a",
-      "topic": "bank benchmark highest japan",
-      "keywords": [
-        "bank",
-        "benchmark",
-        "highest",
-        "japan",
-        "raise",
-        "rate"
-      ],
-      "item_ids": [
-        "7741a1b8a702"
       ],
       "outlets": [
         "US Top News and Analysis"
