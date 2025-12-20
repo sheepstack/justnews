@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-20T10:58:56Z",
+  "generated_at": "2025-12-20T11:17:17Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -267,6 +267,37 @@
       "cluster_id": "af6953ceb98d"
     },
     {
+      "id": "887c9b0f612e",
+      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "hopeful_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "stakes_bullets": [
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6e35bfde9a6"
+    },
+    {
       "id": "b90342b2ae45",
       "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
       "outlet": "NPR Topics: Science",
@@ -297,37 +328,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "43bbb6302f3a"
-    },
-    {
-      "id": "887c9b0f612e",
-      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "hopeful_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "stakes_bullets": [
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a6e35bfde9a6"
     },
     {
       "id": "40d030e37f88",
@@ -2466,18 +2466,18 @@
     },
     {
       "id": "38b44548dba7",
-      "title": "Epstein files appear to show ex-prince Andrew lying on laps watched by Ghislaine Maxwell",
+      "title": "Photos of Andrew reveal how ex-prince gave Jeffrey Epstein access to British high society",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/uk-news/2025/dec/20/epstein-files-appear-to-show-ex-prince-andrew-lying-on-laps-watched-by-ghislaine-maxwell",
-      "published_at": "Sat, 20 Dec 2025 10:07:26 GMT",
+      "published_at": "Sat, 20 Dec 2025 10:38:29 GMT",
       "bullets": [
         "• Photographs of Jeffrey Epstein and Ghislaine Maxwell released by US justice department appear to show how Andrew Mountbatten-Windsor facilitated their access to British high society",
         "• Epstein and Maxwell are pictured hunting with the former prince at Balmoral and with him in the royal box at Ascot "
       ],
       "category": "US",
       "sentiment": {
-        "label": "negative",
-        "score": 0.986
+        "label": "positive",
+        "score": 0.981
       },
       "moods": {
         "brief_bullets": [
@@ -2493,7 +2493,74 @@
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "ab475c7ae71d"
+      "cluster_id": "cdc5d8f79fb8"
+    },
+    {
+      "id": "8b8a16b37633",
+      "title": "US launches airstrikes against dozens of Islamic State targets in Syria",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/19/us-military-syria-airstrikes-trump",
+      "published_at": "Sat, 20 Dec 2025 10:36:44 GMT",
+      "bullets": [
+        "• US strikes hit more than 70 targets across central Syria, US Central Command says",
+        "• Syrian government says it fully supported the US strikes",
+        "• Two Iowa national guard members and a civilian interpreter were killed last weekend in Syria",
+        "• Syria reiterated its commitment to fighting Islamic State and ensuring it had ‘no safe havens”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.565
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US strikes hit more than 70 targets across central Syria, US Central Command says",
+          "• Syrian government says it fully supported the US strikes"
+        ],
+        "hopeful_bullets": [
+          "• US strikes hit more than 70 targets across central Syria, US Central Command says",
+          "• Syrian government says it fully supported the US strikes"
+        ],
+        "stakes_bullets": [
+          "• US strikes hit more than 70 targets across central Syria, US Central Command says",
+          "• Syrian government says it fully supported the US strikes",
+          "• Two Iowa national guard members and a civilian interpreter were killed last weekend in Syria"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "03f88c27b72c"
+    },
+    {
+      "id": "07bd2e5e1177",
+      "title": "Imran Khan and wife given further jail terms after state gift fraud case",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62vx2pgl0eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 20 Dec 2025 10:32:21 GMT",
+      "bullets": [
+        "• Imran Khan and Bushra Bibi given further jail terms after state gift fraud case",
+        "• They were convicted of breaking Pakistan's rules on gifts after Bibi was given jewellery by Saudi Arabia's Mohammed bin Salman during a 2021 state visit",
+        "• Khan has described the charges as politically motivated and his lawyer said his team plan to challenge the verdict "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Imran Khan and Bushra Bibi given further jail terms after state gift fraud case",
+          "• They were convicted of breaking Pakistan's rules on gifts after Bibi was given jewellery by Saudi Arabia's Mohammed bin Salman during a 2021 state visit"
+        ],
+        "hopeful_bullets": [
+          "• Imran Khan and Bushra Bibi given further jail terms after state gift fraud case",
+          "• They were convicted of breaking Pakistan's rules on gifts after Bibi was given jewellery by Saudi Arabia's Mohammed bin Salman during a 2021 state visit"
+        ],
+        "stakes_bullets": [
+          "• Khan has described the charges as politically motivated and his lawyer said his team plan to challenge the verdict "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d4cf8af9110a"
     },
     {
       "id": "b6af586f1861",
@@ -3255,41 +3322,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "6d30f4e90f1c"
-    },
-    {
-      "id": "8b8a16b37633",
-      "title": "US launches airstrikes against dozens of Islamic State targets in Syria",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/19/us-military-syria-airstrikes-trump",
-      "published_at": "Sat, 20 Dec 2025 03:02:08 GMT",
-      "bullets": [
-        "• US Central Command said the strikes hit more than 70 targets across central Syria",
-        "• Syrian government says it fully supported the US strikes",
-        "• Two US Iowa national guard members and a civilian interpreter were killed in Palmyra on Saturday",
-        "• Three other US soldiers were also wounded in the attack "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.636
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US Central Command said the strikes hit more than 70 targets across central Syria",
-          "• Syrian government says it fully supported the US strikes"
-        ],
-        "hopeful_bullets": [
-          "• US Central Command said the strikes hit more than 70 targets across central Syria",
-          "• Syrian government says it fully supported the US strikes"
-        ],
-        "stakes_bullets": [
-          "• US Central Command said the strikes hit more than 70 targets across central Syria",
-          "• Syrian government says it fully supported the US strikes",
-          "• Two US Iowa national guard members and a civilian interpreter were killed in Palmyra on Saturday"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "03f88c27b72c"
     },
     {
       "id": "3720517ea009",
@@ -5520,40 +5552,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "1525f72fbc60"
-    },
-    {
-      "id": "ffec3d9b92e3",
-      "title": "Tourists to face €2 fee to get near Rome's Trevi Fountain",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 19 Dec 2025 20:05:52 GMT",
-      "bullets": [
-        "• New €2 fee to see Rome's Trevi Fountain comes into effect from 1 February 2026",
-        "• The fee will be used to pay for maintenance of the fountain and other parts of the city",
-        "• Children under the age of five and those with disabilities will not be charged "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.921
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New €2 fee to see Rome's Trevi Fountain comes into effect from 1 February 2026",
-          "• The fee will be used to pay for maintenance of the fountain and other parts of the city"
-        ],
-        "hopeful_bullets": [
-          "• New €2 fee to see Rome's Trevi Fountain comes into effect from 1 February 2026",
-          "• The fee will be used to pay for maintenance of the fountain and other parts of the city"
-        ],
-        "stakes_bullets": [
-          "• New €2 fee to see Rome's Trevi Fountain comes into effect from 1 February 2026",
-          "• The fee will be used to pay for maintenance of the fountain and other parts of the city",
-          "• Children under the age of five and those with disabilities will not be charged "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "c55721d81f18"
     },
     {
       "id": "e9c07c478d51",
@@ -9279,6 +9277,24 @@
       ]
     },
     {
+      "id": "d4cf8af9110a",
+      "topic": "further given imran jail",
+      "keywords": [
+        "further",
+        "given",
+        "imran",
+        "jail",
+        "khan",
+        "wife"
+      ],
+      "item_ids": [
+        "07bd2e5e1177"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "2d0a80fb0207",
       "topic": "putin russia treat vows",
       "keywords": [
@@ -9417,24 +9433,6 @@
       ],
       "item_ids": [
         "2d786a7c246a"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "c55721d81f18",
-      "topic": "face fee get near",
-      "keywords": [
-        "face",
-        "fee",
-        "get",
-        "near",
-        "rome",
-        "tourist"
-      ],
-      "item_ids": [
-        "ffec3d9b92e3"
       ],
       "outlets": [
         "BBC News"
@@ -9621,18 +9619,36 @@
       ]
     },
     {
-      "id": "ab475c7ae71d",
-      "topic": "andrew appear epstein file",
+      "id": "cdc5d8f79fb8",
+      "topic": "andrew gave jeffrey photo",
       "keywords": [
         "andrew",
-        "appear",
-        "epstein",
-        "file",
+        "gave",
+        "jeffrey",
+        "photo",
         "prince",
-        "show"
+        "reveal"
       ],
       "item_ids": [
         "38b44548dba7"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "03f88c27b72c",
+      "topic": "against airstrike dozen islamic",
+      "keywords": [
+        "against",
+        "airstrike",
+        "dozen",
+        "islamic",
+        "launche",
+        "state"
+      ],
+      "item_ids": [
+        "8b8a16b37633"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9669,24 +9685,6 @@
       ],
       "item_ids": [
         "657d57dd5636"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "03f88c27b72c",
-      "topic": "against airstrike dozen islamic",
-      "keywords": [
-        "against",
-        "airstrike",
-        "dozen",
-        "islamic",
-        "launche",
-        "state"
-      ],
-      "item_ids": [
-        "8b8a16b37633"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -10889,24 +10887,6 @@
       ]
     },
     {
-      "id": "43bbb6302f3a",
-      "topic": "acros build nuclear reactor",
-      "keywords": [
-        "acros",
-        "build",
-        "nuclear",
-        "reactor",
-        "rush",
-        "trump"
-      ],
-      "item_ids": [
-        "b90342b2ae45"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "a6e35bfde9a6",
       "topic": "bird dropping ended holiday",
       "keywords": [
@@ -10919,6 +10899,24 @@
       ],
       "item_ids": [
         "887c9b0f612e"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "43bbb6302f3a",
+      "topic": "acros build nuclear reactor",
+      "keywords": [
+        "acros",
+        "build",
+        "nuclear",
+        "reactor",
+        "rush",
+        "trump"
+      ],
+      "item_ids": [
+        "b90342b2ae45"
       ],
       "outlets": [
         "NPR Topics: Science"
