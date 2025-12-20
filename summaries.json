@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-20T07:57:05Z",
+  "generated_at": "2025-12-20T08:16:24Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2497,6 +2497,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "8e9430e546a3"
+    },
+    {
+      "id": "020bfec94d53",
+      "title": "Australian state plans to ban intifada chants after Bondi shooting",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c14v23vppz8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sat, 20 Dec 2025 07:20:49 GMT",
+      "bullets": [
+        "• Australian state plans to ban the phrase \"globalise the intifada\" as part of a crackdown on \"hateful\" slogans",
+        "• NSW premier Chris Minns has also called for a Royal Commission into the Bondi shooting",
+        "• 15 people were killed and dozens injured last Sunday when gunmen opened fire on a Jewish festival "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Australian state plans to ban the phrase \"globalise the intifada\" as part of a crackdown on \"hateful\" slogans",
+          "• NSW premier Chris Minns has also called for a Royal Commission into the Bondi shooting"
+        ],
+        "hopeful_bullets": [
+          "• Australian state plans to ban the phrase \"globalise the intifada\" as part of a crackdown on \"hateful\" slogans",
+          "• NSW premier Chris Minns has also called for a Royal Commission into the Bondi shooting"
+        ],
+        "stakes_bullets": [
+          "• Australian state plans to ban the phrase \"globalise the intifada\" as part of a crackdown on \"hateful\" slogans"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "40e1cdbaf090"
     },
     {
       "id": "81c7b5f466f5",
@@ -6956,40 +6988,6 @@
       "cluster_id": "7a0fc11561a5"
     },
     {
-      "id": "dd0546e61546",
-      "title": "Norway's crown princess likely needs lung transplant, palace says",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpq4p535347o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 19 Dec 2025 15:33:29 GMT",
-      "bullets": [
-        "• Crown Princess Mette-Marit's health has worsened in recent months, palace says",
-        "• The 52-year-old was diagnosed with pulmonary fibrosis in 2018",
-        "• The degenerative disease creates scar tissue that stiffens the lungs making it difficult to breathe and for oxygen to enter the bloodstream "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Crown Princess Mette-Marit's health has worsened in recent months, palace says",
-          "• The 52-year-old was diagnosed with pulmonary fibrosis in 2018"
-        ],
-        "hopeful_bullets": [
-          "• Crown Princess Mette-Marit's health has worsened in recent months, palace says",
-          "• The 52-year-old was diagnosed with pulmonary fibrosis in 2018"
-        ],
-        "stakes_bullets": [
-          "• Crown Princess Mette-Marit's health has worsened in recent months, palace says",
-          "• The 52-year-old was diagnosed with pulmonary fibrosis in 2018",
-          "• The degenerative disease creates scar tissue that stiffens the lungs making it difficult to breathe and for oxygen to enter the bloodstream "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "476f7430842f"
-    },
-    {
       "id": "0d8e3d0d22f2",
       "title": "Beware of Sharp Objects and Dangerous Obsession in Exclusive Preview of Ann Nocenti, Dan McDaid, and Michelle Madsen’s “A Pocket Full of Nails” from EC Comics’ TORTURED HEARTS #1, Coming February 11th from Oni Press!",
       "outlet": "Daily Dead",
@@ -9232,6 +9230,24 @@
   ],
   "clusters": [
     {
+      "id": "9383d4095c31",
+      "topic": "against carrie massive out",
+      "keywords": [
+        "against",
+        "carrie",
+        "massive",
+        "out",
+        "strike",
+        "syria"
+      ],
+      "item_ids": [
+        "f701fbe9d713"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "2d0a80fb0207",
       "topic": "putin russia treat vows",
       "keywords": [
@@ -9268,18 +9284,18 @@
       ]
     },
     {
-      "id": "9383d4095c31",
-      "topic": "against carrie massive out",
+      "id": "40e1cdbaf090",
+      "topic": "australian ban chant intifada",
       "keywords": [
-        "against",
-        "carrie",
-        "massive",
-        "out",
-        "strike",
-        "syria"
+        "australian",
+        "ban",
+        "chant",
+        "intifada",
+        "plan",
+        "state"
       ],
       "item_ids": [
-        "f701fbe9d713"
+        "020bfec94d53"
       ],
       "outlets": [
         "BBC News"
@@ -9388,24 +9404,6 @@
       ],
       "item_ids": [
         "ffec3d9b92e3"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "476f7430842f",
-      "topic": "crown likely lung need",
-      "keywords": [
-        "crown",
-        "likely",
-        "lung",
-        "need",
-        "norway",
-        "princes"
-      ],
-      "item_ids": [
-        "dd0546e61546"
       ],
       "outlets": [
         "BBC News"
