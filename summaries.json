@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-20T06:00:58Z",
+  "generated_at": "2025-12-20T06:22:12Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -267,6 +267,37 @@
       "cluster_id": "af6953ceb98d"
     },
     {
+      "id": "887c9b0f612e",
+      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "hopeful_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "stakes_bullets": [
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6e35bfde9a6"
+    },
+    {
       "id": "b90342b2ae45",
       "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
       "outlet": "NPR Topics: Science",
@@ -297,37 +328,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "43bbb6302f3a"
-    },
-    {
-      "id": "887c9b0f612e",
-      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "hopeful_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "stakes_bullets": [
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a6e35bfde9a6"
     },
     {
       "id": "40d030e37f88",
@@ -2503,7 +2503,7 @@
       "title": "‘The most important documents are missing,’ says Democratic representative of Epstein files release – live",
       "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2025/dec/19/jeffrey-epstein-files-released-trump-administration",
-      "published_at": "Sat, 20 Dec 2025 04:43:22 GMT",
+      "published_at": "Sat, 20 Dec 2025 05:37:19 GMT",
       "bullets": [
         "• Ro Khanna says this 'document dump does not comply with' law to compel full release of Epstein files",
         "• Khanna: “They released one document from a New York grand jury of a 119 pages totally blacked out! This despite a judge ordering them to release that document, and our law requires them to explain redactions.”"
@@ -10854,24 +10854,6 @@
       ]
     },
     {
-      "id": "43bbb6302f3a",
-      "topic": "acros build nuclear reactor",
-      "keywords": [
-        "acros",
-        "build",
-        "nuclear",
-        "reactor",
-        "rush",
-        "trump"
-      ],
-      "item_ids": [
-        "b90342b2ae45"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "a6e35bfde9a6",
       "topic": "bird dropping ended holiday",
       "keywords": [
@@ -10884,6 +10866,24 @@
       ],
       "item_ids": [
         "887c9b0f612e"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "43bbb6302f3a",
+      "topic": "acros build nuclear reactor",
+      "keywords": [
+        "acros",
+        "build",
+        "nuclear",
+        "reactor",
+        "rush",
+        "trump"
+      ],
+      "item_ids": [
+        "b90342b2ae45"
       ],
       "outlets": [
         "NPR Topics: Science"
