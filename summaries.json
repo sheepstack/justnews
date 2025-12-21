@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-21T11:18:24Z",
+  "generated_at": "2025-12-21T11:56:16Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -267,6 +267,37 @@
       "cluster_id": "af6953ceb98d"
     },
     {
+      "id": "887c9b0f612e",
+      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "hopeful_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "stakes_bullets": [
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6e35bfde9a6"
+    },
+    {
       "id": "b90342b2ae45",
       "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
       "outlet": "NPR Topics: Science",
@@ -297,37 +328,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "43bbb6302f3a"
-    },
-    {
-      "id": "887c9b0f612e",
-      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "hopeful_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "stakes_bullets": [
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a6e35bfde9a6"
     },
     {
       "id": "40d030e37f88",
@@ -1711,37 +1711,6 @@
       "cluster_id": "f20f4e72a4ce"
     },
     {
-      "id": "cd8daeabfb8e",
-      "title": "A hidden T cell switch could make cancer immunotherapy work for more people",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/12/251218074429.htm",
-      "published_at": "Thu, 18 Dec 2025 07:56:05 EST",
-      "bullets": [
-        "• Scientists have discovered that T cell receptors activate through a hidden spring-like motion that had never been seen before",
-        "• Breakthrough may help explain why immunotherapy works for some cancers and how it could be improved for others",
-        "• T cell immunotherapy has emerged as one of the most promising developments in cancer treatment "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Scientists have discovered that T cell receptors activate through a hidden spring-like motion that had never been seen before",
-          "• Breakthrough may help explain why immunotherapy works for some cancers and how it could be improved for others"
-        ],
-        "hopeful_bullets": [
-          "• Breakthrough may help explain why immunotherapy works for some cancers and how it could be improved for others"
-        ],
-        "stakes_bullets": [
-          "• Breakthrough may help explain why immunotherapy works for some cancers and how it could be improved for others"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "ce3e2814a888"
-    },
-    {
       "id": "29b8a9f1c744",
       "title": "Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook",
       "outlet": "Positive News",
@@ -2169,35 +2138,165 @@
       "title": "Gunmen kill nine in South Africa tavern attack",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 21 Dec 2025 10:30:55 GMT",
+      "published_at": "Sun, 21 Dec 2025 11:09:12 GMT",
       "bullets": [
         "• Seven men and two women were killed in Bekkersdal, near Johannesburg",
-        "• Unidentified gunmen opened fire at patrons in two vehicles and continued shooting randomly, police say",
+        "• Unidentified gunmen opened fire at patrons in two vehicles and continued shooting as they fled",
         "• South Africa has one of the highest murder rates in the world",
         "• Sixty-three people were killed every day on average between April and September "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.987
+        "score": 0.977
       },
       "moods": {
         "brief_bullets": [
           "• Seven men and two women were killed in Bekkersdal, near Johannesburg",
-          "• Unidentified gunmen opened fire at patrons in two vehicles and continued shooting randomly, police say"
+          "• Unidentified gunmen opened fire at patrons in two vehicles and continued shooting as they fled"
         ],
         "hopeful_bullets": [
           "• Seven men and two women were killed in Bekkersdal, near Johannesburg",
-          "• Unidentified gunmen opened fire at patrons in two vehicles and continued shooting randomly, police say"
+          "• Unidentified gunmen opened fire at patrons in two vehicles and continued shooting as they fled"
         ],
         "stakes_bullets": [
           "• Seven men and two women were killed in Bekkersdal, near Johannesburg",
-          "• Unidentified gunmen opened fire at patrons in two vehicles and continued shooting randomly, police say",
+          "• Unidentified gunmen opened fire at patrons in two vehicles and continued shooting as they fled",
           "• South Africa has one of the highest murder rates in the world"
         ]
       },
       "read_minutes": 2,
       "cluster_id": "69d3d2402c99"
+    },
+    {
+      "id": "ad1ddfdcfa47",
+      "title": "Epstein files: A number of documents, including Trump photo, reportedly removed from DOJ release site",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/20/trump-epstein-files-doj-photo.html",
+      "published_at": "Sun, 21 Dec 2025 11:03:59 GMT",
+      "bullets": [
+        "• A photo showing President Donald Trump's face appears to have been removed from the DOJ website",
+        "• The photo was released Friday along with at least 16 other files related to the Epstein scandal",
+        "• Democrats on the House Oversight Committee were quick to note that the image was missing "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A photo showing President Donald Trump's face appears to have been removed from the DOJ website",
+          "• The photo was released Friday along with at least 16 other files related to the Epstein scandal"
+        ],
+        "hopeful_bullets": [
+          "• A photo showing President Donald Trump's face appears to have been removed from the DOJ website"
+        ],
+        "stakes_bullets": [
+          "• A photo showing President Donald Trump's face appears to have been removed from the DOJ website",
+          "• The photo was released Friday along with at least 16 other files related to the Epstein scandal",
+          "• Democrats on the House Oversight Committee were quick to note that the image was missing "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d955ff9127b4"
+    },
+    {
+      "id": "ecdaf6d80f5a",
+      "title": "The US healthcare system hurts poor Americans. It’s about to get worse",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/21/us-healthcare-system-trump",
+      "published_at": "Sun, 21 Dec 2025 11:00:04 GMT",
+      "bullets": [
+        "• In January, millions of Americans may lose their health insurance as premiums rise",
+        "• Meanwhile, in some corner of the US, people are ploughing money into research into rejuvenating cells",
+        "• American average life expectancy in 2023 was shorter than it was in 2 years ago "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In January, millions of Americans may lose their health insurance as premiums rise",
+          "• Meanwhile, in some corner of the US, people are ploughing money into research into rejuvenating cells"
+        ],
+        "hopeful_bullets": [
+          "• In January, millions of Americans may lose their health insurance as premiums rise",
+          "• Meanwhile, in some corner of the US, people are ploughing money into research into rejuvenating cells"
+        ],
+        "stakes_bullets": [
+          "• In January, millions of Americans may lose their health insurance as premiums rise",
+          "• Meanwhile, in some corner of the US, people are ploughing money into research into rejuvenating cells",
+          "• American average life expectancy in 2023 was shorter than it was in 2 years ago "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "ad194a394e01"
+    },
+    {
+      "id": "a6cf4c02ef89",
+      "title": "UK supermarkets turn to European turkeys as avian flu hits supply",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/business/2025/dec/21/uk-supermarkets-european-turkeys-avian-flu-hits-supply-christmas",
+      "published_at": "Sun, 21 Dec 2025 11:00:02 GMT",
+      "bullets": [
+        "• Several of the UK’s biggest retailers have been forced to import their own-branded turkeys from abroad",
+        "• The move is described as ‘unprecedented’ and ‘only in exceptional circumstances’ by the British Poultry Council "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Several of the UK’s biggest retailers have been forced to import their own-branded turkeys from abroad",
+          "• The move is described as ‘unprecedented’ and ‘only in exceptional circumstances’ by the British Poultry Council "
+        ],
+        "hopeful_bullets": [
+          "• Several of the UK’s biggest retailers have been forced to import their own-branded turkeys from abroad",
+          "• The move is described as ‘unprecedented’ and ‘only in exceptional circumstances’ by the British Poultry Council "
+        ],
+        "stakes_bullets": [
+          "• Several of the UK’s biggest retailers have been forced to import their own-branded turkeys from abroad",
+          "• The move is described as ‘unprecedented’ and ‘only in exceptional circumstances’ by the British Poultry Council "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "5fe30658ee0d"
+    },
+    {
+      "id": "137f5f4cfd1c",
+      "title": "What Is Lossless Audio, and Do You Really Need It?",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/what-is-lossless-audio-and-do-you-really-need-it/",
+      "published_at": "Sun, 21 Dec 2025 11:00:00 +0000",
+      "bullets": [
+        "• Lossless audio is digital audio that has lost none of the information originally contained in the recording",
+        "• Both lossless and “lossy” files will have been through a process of compression in order to make sure the file is of manageable size",
+        "• The size of the file after that compression that defines whether it’s lossless or not "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Lossless audio is digital audio that has lost none of the information originally contained in the recording",
+          "• Both lossless and “lossy” files will have been through a process of compression in order to make sure the file is of manageable size"
+        ],
+        "hopeful_bullets": [
+          "• Lossless audio is digital audio that has lost none of the information originally contained in the recording"
+        ],
+        "stakes_bullets": [
+          "• Both lossless and “lossy” files will have been through a process of compression in order to make sure the file is of manageable size"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "15f79fff56df"
     },
     {
       "id": "c55123209b42",
@@ -2231,6 +2330,107 @@
       },
       "read_minutes": 20,
       "cluster_id": "fc5c775e7bae"
+    },
+    {
+      "id": "9114bd4d9716",
+      "title": "The ‘Toxic Cocktail’ Brewing in Pennsylvania’s Waterways",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/21122025/pennsylvania-fracking-waste-water-pollution/",
+      "published_at": "Sun, 21 Dec 2025 10:00:00 +0000",
+      "bullets": [
+        "• Pennsylvania's Westmoreland Sanitary Landfill accepted hundreds of thousands of tons of oil and gas waste and wastewater",
+        "• Toxic and often radioactive byproducts were accepted as part of the fracking industry",
+        "• Scientists and residents are keeping a close watch at the landfill site "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.938
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Pennsylvania's Westmoreland Sanitary Landfill accepted hundreds of thousands of tons of oil and gas waste and wastewater",
+          "• Toxic and often radioactive byproducts were accepted as part of the fracking industry"
+        ],
+        "hopeful_bullets": [
+          "• Pennsylvania's Westmoreland Sanitary Landfill accepted hundreds of thousands of tons of oil and gas waste and wastewater",
+          "• Toxic and often radioactive byproducts were accepted as part of the fracking industry"
+        ],
+        "stakes_bullets": [
+          "• Pennsylvania's Westmoreland Sanitary Landfill accepted hundreds of thousands of tons of oil and gas waste and wastewater",
+          "• Toxic and often radioactive byproducts were accepted as part of the fracking industry",
+          "• Scientists and residents are keeping a close watch at the landfill site "
+        ]
+      },
+      "read_minutes": 15,
+      "cluster_id": "067d0563b84d"
+    },
+    {
+      "id": "ed4d3ae03653",
+      "title": "Countries Want Debt Relief for Conservation. Is China Ready to Play a Role?",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/21122025/ecuador-debt-for-nature-swap-china-conservation/",
+      "published_at": "Sun, 21 Dec 2025 09:55:00 +0000",
+      "bullets": [
+        "• Ecuador's $49 billion debt is one of the biggest threats to the Amazon",
+        "• In a deal, the government will refinance some of its costliest debt for pennies on the dollar and replace it with a lower-interest bond",
+        "• In return, Ecuador agreed to expand protections across its Amazonian region "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Ecuador's $49 billion debt is one of the biggest threats to the Amazon",
+          "• In a deal, the government will refinance some of its costliest debt for pennies on the dollar and replace it with a lower-interest bond"
+        ],
+        "hopeful_bullets": [
+          "• Ecuador's $49 billion debt is one of the biggest threats to the Amazon",
+          "• In a deal, the government will refinance some of its costliest debt for pennies on the dollar and replace it with a lower-interest bond"
+        ],
+        "stakes_bullets": [
+          "• Ecuador's $49 billion debt is one of the biggest threats to the Amazon",
+          "• In a deal, the government will refinance some of its costliest debt for pennies on the dollar and replace it with a lower-interest bond",
+          "• In return, Ecuador agreed to expand protections across its Amazonian region "
+        ]
+      },
+      "read_minutes": 21,
+      "cluster_id": "c0ad65442f15"
+    },
+    {
+      "id": "36071c69c3c4",
+      "title": "A Messy Trail of Toxic Oil and Gas Waste",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/21122025/icn-sunday-morning-pennsylvania-fracking-waste/",
+      "published_at": "Sun, 21 Dec 2025 09:50:00 +0000",
+      "bullets": [
+        "• Pennsylvania fracking has increased natural gas production 37-fold since 2008",
+        "• But the state’s ability to track waste has failed to keep up with the increase in production",
+        "• A new ICN investigation found huge discrepancies in state records",
+        "• ICN Sunday Morning is now available as a podcast!"
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Pennsylvania fracking has increased natural gas production 37-fold since 2008",
+          "• But the state’s ability to track waste has failed to keep up with the increase in production"
+        ],
+        "hopeful_bullets": [
+          "• A new ICN investigation found huge discrepancies in state records"
+        ],
+        "stakes_bullets": [
+          "• Pennsylvania fracking has increased natural gas production 37-fold since 2008",
+          "• But the state’s ability to track waste has failed to keep up with the increase in production"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "89f7837abc3e"
     },
     {
       "id": "9cdcdcf656a8",
@@ -2602,6 +2802,74 @@
       "cluster_id": "dbf36b5716b5"
     },
     {
+      "id": "ff2258c02b46",
+      "title": "A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/21/nx-s1-5616684/amsterdam-sudan-radio-usaid",
+      "published_at": "Sun, 21 Dec 2025 06:00:00 -0500",
+      "bullets": [
+        "• Radio Dabanga is the last independent Sudanese news station broadcasting from exile in Amsterdam since 2008",
+        "• For millions of Sudanese living through a deadly civil war, it is a rare source of verified information",
+        "• President Trump slashed most U.S",
+        "• foreign assistance programs this year "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Radio Dabanga is the last independent Sudanese news station broadcasting from exile in Amsterdam since 2008",
+          "• For millions of Sudanese living through a deadly civil war, it is a rare source of verified information"
+        ],
+        "hopeful_bullets": [
+          "• Radio Dabanga is the last independent Sudanese news station broadcasting from exile in Amsterdam since 2008",
+          "• For millions of Sudanese living through a deadly civil war, it is a rare source of verified information"
+        ],
+        "stakes_bullets": [
+          "• Radio Dabanga is the last independent Sudanese news station broadcasting from exile in Amsterdam since 2008"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "b4e24129aba5"
+    },
+    {
+      "id": "d20fe89a3317",
+      "title": "9 killed, 10 wounded in South African pub shooting",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/21/g-s1-103241/9-killed-10-wounded-in-south-african-pub-shooting",
+      "published_at": "Sun, 21 Dec 2025 05:57:57 -0500",
+      "bullets": [
+        "• 9 killed, 10 wounded in South African pub shooting",
+        "• Incident occurred in Bekkersdal, west of Johannesburg",
+        "• It is the second mass shooting to happen in South Africa in three weeks",
+        "• One of the victims was a driver from an online car-hailing service, police say "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 9 killed, 10 wounded in South African pub shooting",
+          "• Incident occurred in Bekkersdal, west of Johannesburg"
+        ],
+        "hopeful_bullets": [
+          "• 9 killed, 10 wounded in South African pub shooting",
+          "• Incident occurred in Bekkersdal, west of Johannesburg"
+        ],
+        "stakes_bullets": [
+          "• 9 killed, 10 wounded in South African pub shooting",
+          "• Incident occurred in Bekkersdal, west of Johannesburg",
+          "• It is the second mass shooting to happen in South Africa in three weeks"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "cce766ff82c6"
+    },
+    {
       "id": "277e383001fd",
       "title": "'Congress is in a coma.' Former lawmakers sound alarm on health of the House",
       "outlet": "NPR Topics: News",
@@ -2834,6 +3102,74 @@
       "cluster_id": "7e60f6dbf0cd"
     },
     {
+      "id": "92eb70fcf2cb",
+      "title": "Scientists unlocked a superconductor mystery under crushing pressure",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/12/251219093328.htm",
+      "published_at": "Sun, 21 Dec 2025 03:15:55 EST",
+      "bullets": [
+        "• Scientists have taken a major step toward practical, high-temperature superconductors by peering inside one of the most promising materials ever discovered",
+        "• Superconductors promise loss-free electricity, but most only work at extreme cold",
+        "• Researchers have directly measured the superconducting state of hydrogen sulfide using a novel tunneling method, confirming how its electrons pair so efficiently "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.615
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists have taken a major step toward practical, high-temperature superconductors by peering inside one of the most promising materials ever discovered",
+          "• Superconductors promise loss-free electricity, but most only work at extreme cold"
+        ],
+        "hopeful_bullets": [
+          "• Scientists have taken a major step toward practical, high-temperature superconductors by peering inside one of the most promising materials ever discovered",
+          "• Superconductors promise loss-free electricity, but most only work at extreme cold"
+        ],
+        "stakes_bullets": [
+          "• Scientists have taken a major step toward practical, high-temperature superconductors by peering inside one of the most promising materials ever discovered",
+          "• Superconductors promise loss-free electricity, but most only work at extreme cold",
+          "• Researchers have directly measured the superconducting state of hydrogen sulfide using a novel tunneling method, confirming how its electrons pair so efficiently "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "9222c8ca775e"
+    },
+    {
+      "id": "6ad3f82e86f3",
+      "title": "Astrophysicists map the invisible universe using warped galaxies",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/12/251219093323.htm",
+      "published_at": "Sun, 21 Dec 2025 02:42:31 EST",
+      "bullets": [
+        "• Astrophysicists map the invisible universe using warped galaxies",
+        "• 95 percent of the universe is made up of dark matter and dark energy",
+        "• Dark matter provides extra gravity that helps shape galaxies and clusters",
+        "• Dark energy is linked to the universe's accelerating expansion "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.806
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Astrophysicists map the invisible universe using warped galaxies",
+          "• 95 percent of the universe is made up of dark matter and dark energy"
+        ],
+        "hopeful_bullets": [
+          "• Dark matter provides extra gravity that helps shape galaxies and clusters"
+        ],
+        "stakes_bullets": [
+          "• Astrophysicists map the invisible universe using warped galaxies",
+          "• 95 percent of the universe is made up of dark matter and dark energy",
+          "• Dark matter provides extra gravity that helps shape galaxies and clusters"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "3887ca794300"
+    },
+    {
       "id": "c40816306243",
       "title": "Trump news at a glance: Anger grows about redactions, apparent removal of Epstein files from DoJ website",
       "outlet": "US news | The Guardian",
@@ -2899,6 +3235,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "26d3639a02ab"
+    },
+    {
+      "id": "322aefce08ee",
+      "title": "Scientists found climate change hidden in old military air samples",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/12/251219093325.htm",
+      "published_at": "Sun, 21 Dec 2025 01:10:14 EST",
+      "bullets": [
+        "• Scientists found climate change hidden in old military air samples",
+        "• Researchers at Lund University in Sweden have uncovered clear evidence that the seasonal release of spores by northern mosses has changed dramatically over the last 35 years",
+        "• The research shows that moss spores are now released several weeks earlier than they were in the past "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.963
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists found climate change hidden in old military air samples",
+          "• Researchers at Lund University in Sweden have uncovered clear evidence that the seasonal release of spores by northern mosses has changed dramatically over the last 35 years"
+        ],
+        "hopeful_bullets": [
+          "• Scientists found climate change hidden in old military air samples",
+          "• Researchers at Lund University in Sweden have uncovered clear evidence that the seasonal release of spores by northern mosses has changed dramatically over the last 35 years"
+        ],
+        "stakes_bullets": [
+          "• Scientists found climate change hidden in old military air samples",
+          "• Researchers at Lund University in Sweden have uncovered clear evidence that the seasonal release of spores by northern mosses has changed dramatically over the last 35 years",
+          "• The research shows that moss spores are now released several weeks earlier than they were in the past "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "ec0e909f862d"
     },
     {
       "id": "81966d954d6c",
@@ -3103,39 +3473,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "1a66096b04db"
-    },
-    {
-      "id": "ad1ddfdcfa47",
-      "title": "Epstein files: A number of documents, including Trump photo, reportedly removed from DOJ release site",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/20/trump-epstein-files-doj-photo.html",
-      "published_at": "Sat, 20 Dec 2025 23:10:47 GMT",
-      "bullets": [
-        "• A photo showing President Donald Trump's face appears to have been removed from the DOJ website",
-        "• The photo was released Friday along with at least 16 other files related to the Epstein scandal",
-        "• Democrats on the House Oversight Committee were quick to note that the image was missing "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A photo showing President Donald Trump's face appears to have been removed from the DOJ website",
-          "• The photo was released Friday along with at least 16 other files related to the Epstein scandal"
-        ],
-        "hopeful_bullets": [
-          "• A photo showing President Donald Trump's face appears to have been removed from the DOJ website"
-        ],
-        "stakes_bullets": [
-          "• A photo showing President Donald Trump's face appears to have been removed from the DOJ website",
-          "• The photo was released Friday along with at least 16 other files related to the Epstein scandal",
-          "• Democrats on the House Oversight Committee were quick to note that the image was missing "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d955ff9127b4"
     },
     {
       "id": "d1ff0543edf7",
@@ -3769,41 +4106,6 @@
       "cluster_id": "3bb5d1f8af45"
     },
     {
-      "id": "9c9d31661d9c",
-      "title": "Epstein files: which royals, politicians, musicians and actors are in the photos?",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/20/epstein-files-which-royalty-politicians-musicians-and-actors-are-in-the-photos",
-      "published_at": "Sat, 20 Dec 2025 15:09:36 GMT",
-      "bullets": [
-        "• Documents related to Jeffrey Epstein released by US justice department",
-        "• Photographs of late financier and his accomplice, British socialite Ghislaine Maxwell",
-        "• Maxwell is serving a 20-year jail sentence for child sex trafficking",
-        "• Jeffrey Epstein died in prison in 2019 while awaiting trial "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Documents related to Jeffrey Epstein released by US justice department",
-          "• Photographs of late financier and his accomplice, British socialite Ghislaine Maxwell"
-        ],
-        "hopeful_bullets": [
-          "• Documents related to Jeffrey Epstein released by US justice department",
-          "• Photographs of late financier and his accomplice, British socialite Ghislaine Maxwell"
-        ],
-        "stakes_bullets": [
-          "• Documents related to Jeffrey Epstein released by US justice department",
-          "• Photographs of late financier and his accomplice, British socialite Ghislaine Maxwell",
-          "• Maxwell is serving a 20-year jail sentence for child sex trafficking"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "9cc9de4d8c24"
-    },
-    {
       "id": "6962e53f1ef2",
       "title": "‘The biggest transformation in a century’: how California remade itself as a clean energy powerhouse",
       "outlet": "Environment | The Guardian",
@@ -3966,42 +4268,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "8edee66414d2"
-    },
-    {
-      "id": "b1a8eada5cdc",
-      "title": "U.S. forces stop a 2nd merchant vessel off Venezuela coast, officials say",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/20/nx-s1-5650779/venezuela-merchant-vessel-stopped-us-military",
-      "published_at": "Sat, 20 Dec 2025 14:21:31 -0500",
-      "bullets": [
-        "• U.S",
-        "• forces stop a 2nd merchant vessel off Venezuela coast, officials say",
-        "• The move comes days after Trump announced a \"blockade\" of all sanctioned oil tankers coming in and out of the South American country",
-        "• It follows the Dec",
-        "• 10 seizure by American forces of an oil tanker off Venezuela's coast "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• forces stop a 2nd merchant vessel off Venezuela coast, officials say"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• forces stop a 2nd merchant vessel off Venezuela coast, officials say"
-        ],
-        "stakes_bullets": [
-          "• U.S",
-          "• forces stop a 2nd merchant vessel off Venezuela coast, officials say",
-          "• The move comes days after Trump announced a \"blockade\" of all sanctioned oil tankers coming in and out of the South American country"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "0e6a743dc1c5"
     },
     {
       "id": "156b0761be51",
@@ -4433,38 +4699,6 @@
       "cluster_id": "4ac1476e86d2"
     },
     {
-      "id": "d052ffa8d459",
-      "title": "Hackers Stole Millions of PornHub Users’ Data for Extortion",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/security-news-this-week-hackers-stole-millions-of-pornhub-users-data-for-extortion/",
-      "published_at": "Sat, 20 Dec 2025 11:30:00 +0000",
-      "bullets": [
-        "• Chinese-language artificial intelligence app Haotian can be used to create “nearly perfect” face swaps during live video chats",
-        "• US Customs and Border Protection is transitioning from testing small drones to using them as standard surveillance tools",
-        "• US Immigration and Customs Enforcement is planning to incorporate a broad cybersecurity contract that will include expanding employee surveillance and monitoring "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Chinese-language artificial intelligence app Haotian can be used to create “nearly perfect” face swaps during live video chats",
-          "• US Customs and Border Protection is transitioning from testing small drones to using them as standard surveillance tools"
-        ],
-        "hopeful_bullets": [
-          "• Chinese-language artificial intelligence app Haotian can be used to create “nearly perfect” face swaps during live video chats",
-          "• US Customs and Border Protection is transitioning from testing small drones to using them as standard surveillance tools"
-        ],
-        "stakes_bullets": [
-          "• US Immigration and Customs Enforcement is planning to incorporate a broad cybersecurity contract that will include expanding employee surveillance and monitoring "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e9e8cb1c00a3"
-    },
-    {
       "id": "498475ddadd5",
       "title": "25 Amazon Super Saturday Deals on Last-Minute Gifts We've Tested (2025)",
       "outlet": "WIRED",
@@ -4497,6 +4731,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "c144b704289d"
+    },
+    {
+      "id": "d052ffa8d459",
+      "title": "Hackers Stole Millions of PornHub Users’ Data for Extortion",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/security-news-this-week-hackers-stole-millions-of-pornhub-users-data-for-extortion/",
+      "published_at": "Sat, 20 Dec 2025 11:30:00 +0000",
+      "bullets": [
+        "• Chinese-language artificial intelligence app Haotian can be used to create “nearly perfect” face swaps during live video chats",
+        "• US Customs and Border Protection is transitioning from testing small drones to using them as standard surveillance tools",
+        "• US Immigration and Customs Enforcement is planning to incorporate a broad cybersecurity contract that will include expanding employee surveillance and monitoring "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Chinese-language artificial intelligence app Haotian can be used to create “nearly perfect” face swaps during live video chats",
+          "• US Customs and Border Protection is transitioning from testing small drones to using them as standard surveillance tools"
+        ],
+        "hopeful_bullets": [
+          "• Chinese-language artificial intelligence app Haotian can be used to create “nearly perfect” face swaps during live video chats",
+          "• US Customs and Border Protection is transitioning from testing small drones to using them as standard surveillance tools"
+        ],
+        "stakes_bullets": [
+          "• US Immigration and Customs Enforcement is planning to incorporate a broad cybersecurity contract that will include expanding employee surveillance and monitoring "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e9e8cb1c00a3"
     },
     {
       "id": "a27dbf3e74d3",
@@ -4566,40 +4832,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "80478bc6e1e2"
-    },
-    {
-      "id": "834b8828c626",
-      "title": "7 Useful Tips for Anyone Connecting to Public Wi-Fi",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/7-useful-tips-for-anyone-connecting-to-public-wi-fi/",
-      "published_at": "Sat, 20 Dec 2025 11:00:00 +0000",
-      "bullets": [
-        "• It's no longer difficult to find Wi-Fi when you leave the house, but there are ways to make more of it",
-        "• These networks are not the same as your home or office Wi-FI, and that means there are different points to consider",
-        "• Keep apps and browser tabs down to a minimum and switch off those cloud storage syncs temporarily "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• It's no longer difficult to find Wi-Fi when you leave the house, but there are ways to make more of it",
-          "• These networks are not the same as your home or office Wi-FI, and that means there are different points to consider"
-        ],
-        "hopeful_bullets": [
-          "• It's no longer difficult to find Wi-Fi when you leave the house, but there are ways to make more of it",
-          "• These networks are not the same as your home or office Wi-FI, and that means there are different points to consider"
-        ],
-        "stakes_bullets": [
-          "• It's no longer difficult to find Wi-Fi when you leave the house, but there are ways to make more of it",
-          "• These networks are not the same as your home or office Wi-FI, and that means there are different points to consider",
-          "• Keep apps and browser tabs down to a minimum and switch off those cloud storage syncs temporarily "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "21c5aa45336e"
     },
     {
       "id": "f506541e5679",
@@ -4733,7 +4965,7 @@
     {
       "id": "11ca6860337f",
       "title": "Special elections ordered for Mississippi Supreme Court after voting rights violation",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/12/20/nx-s1-5650747/mississippi-supreme-court-special-election-ordered-voting-rights",
       "published_at": "Sat, 20 Dec 2025 09:58:03 -0500",
       "bullets": [
@@ -4743,7 +4975,7 @@
         "• The Friday ruling gives the Mississippi Legislature until the end of its 2026 regular session",
         "• The order follows a 2022 lawsuit by the American Civil Liberties Union "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.997
@@ -7121,38 +7353,6 @@
       "cluster_id": "3ca0a0305d81"
     },
     {
-      "id": "933cee9d10be",
-      "title": "A River That Millions Rely on for Water Is on the Brink. A Deal to Save It Isn’t.",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/19122025/negotiators-remain-stuck-at-colorado-river-users-summit/",
-      "published_at": "Fri, 19 Dec 2025 17:38:36 +0000",
-      "bullets": [
-        "• The Colorado River Basin is, quite literally, 50 feet away from collapse",
-        "• Talks over how to manage the river after 2026, when current drought mitigation guidelines expire",
-        "• The 1922 Colorado River Compact overestimated how much water the river could provide, leading to state allocations that promised more "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.975
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Colorado River Basin is, quite literally, 50 feet away from collapse",
-          "• Talks over how to manage the river after 2026, when current drought mitigation guidelines expire"
-        ],
-        "hopeful_bullets": [
-          "• The Colorado River Basin is, quite literally, 50 feet away from collapse",
-          "• Talks over how to manage the river after 2026, when current drought mitigation guidelines expire"
-        ],
-        "stakes_bullets": [
-          "• The 1922 Colorado River Compact overestimated how much water the river could provide, leading to state allocations that promised more "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "87c852cddd52"
-    },
-    {
       "id": "4625ef4f41e3",
       "title": "‘Amityvillenado’ Trailer – A Soul-Sucking Tornado Hits Amityville",
       "outlet": "Bloody Disgusting!",
@@ -7183,41 +7383,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "76568cb35ab4"
-    },
-    {
-      "id": "f90c0f7c71cd",
-      "title": "U.S. Company Releasing Unauthorized Emissions From Peru LNG Terminal",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/19122025/u-s-company-releasing-unauthorized-emissions-from-peru-lng-terminal/",
-      "published_at": "Fri, 19 Dec 2025 17:24:51 +0000",
-      "bullets": [
-        "• Hunt Oil Co",
-        "• has been emitting large volumes of greenhouse gases from a major gas export terminal in Peru without authorization for at least 12 years",
-        "• The facility burned off an estimated 55.5 million cubic meters of unused gas, according to satellite data",
-        "• The findings have raised significant concerns about oversight and regulation of energy companies in Peru "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Hunt Oil Co",
-          "• has been emitting large volumes of greenhouse gases from a major gas export terminal in Peru without authorization for at least 12 years"
-        ],
-        "hopeful_bullets": [
-          "• Hunt Oil Co",
-          "• has been emitting large volumes of greenhouse gases from a major gas export terminal in Peru without authorization for at least 12 years"
-        ],
-        "stakes_bullets": [
-          "• Hunt Oil Co",
-          "• has been emitting large volumes of greenhouse gases from a major gas export terminal in Peru without authorization for at least 12 years",
-          "• The facility burned off an estimated 55.5 million cubic meters of unused gas, according to satellite data"
-        ]
-      },
-      "read_minutes": 9,
-      "cluster_id": "d0e2cd074f0c"
     },
     {
       "id": "36481cc41759",
@@ -7784,107 +7949,6 @@
       "cluster_id": "b7bd8cdd1734"
     },
     {
-      "id": "d754b52e20f6",
-      "title": "Food becoming more calorific but less nutritious due to rising carbon dioxide",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/dec/19/higher-carbon-dioxide-food-more-calorific-less-nutritious-study",
-      "published_at": "Fri, 19 Dec 2025 10:00:05 GMT",
-      "bullets": [
-        "• Leiden University in the Netherlands created a method to compare multiple studies on plants' responses to increased CO2 levels",
-        "• Although crop yields increase, they become less nutrient-dense",
-        "• While zinc levels in particular drop, lead levels increase",
-        "• This raises the question of whether we should adjust our diets in some way "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.8
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Leiden University in the Netherlands created a method to compare multiple studies on plants' responses to increased CO2 levels",
-          "• Although crop yields increase, they become less nutrient-dense"
-        ],
-        "hopeful_bullets": [
-          "• Leiden University in the Netherlands created a method to compare multiple studies on plants' responses to increased CO2 levels",
-          "• Although crop yields increase, they become less nutrient-dense"
-        ],
-        "stakes_bullets": [
-          "• Leiden University in the Netherlands created a method to compare multiple studies on plants' responses to increased CO2 levels",
-          "• Although crop yields increase, they become less nutrient-dense",
-          "• While zinc levels in particular drop, lead levels increase"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "30535519ed97"
-    },
-    {
-      "id": "d7082a9fcec4",
-      "title": "Tracking Oil and Gas Waste in Pennsylvania Is Still a ‘Logistical Mess’",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/19122025/pennsylvania-oil-and-gas-waste-tracking-logistical-mess/",
-      "published_at": "Fri, 19 Dec 2025 10:00:00 +0000",
-      "bullets": [
-        "• An analysis of state records from 2017 to 2024 found discrepancies totaling almost 1.4 million tons",
-        "• Some landfills in southwestern part of the state report receiving far more oil and gas waste than Pennsylvania operators say was sent there",
-        "• Pennsylvania Department of Environmental Protection promised to investigate the discrepancies and look into updating its reporting standards "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• An analysis of state records from 2017 to 2024 found discrepancies totaling almost 1.4 million tons",
-          "• Some landfills in southwestern part of the state report receiving far more oil and gas waste than Pennsylvania operators say was sent there"
-        ],
-        "hopeful_bullets": [
-          "• An analysis of state records from 2017 to 2024 found discrepancies totaling almost 1.4 million tons"
-        ],
-        "stakes_bullets": [
-          "• An analysis of state records from 2017 to 2024 found discrepancies totaling almost 1.4 million tons",
-          "• Some landfills in southwestern part of the state report receiving far more oil and gas waste than Pennsylvania operators say was sent there",
-          "• Pennsylvania Department of Environmental Protection promised to investigate the discrepancies and look into updating its reporting standards "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "af8dc8dedd90"
-    },
-    {
-      "id": "0681c1aa2945",
-      "title": "Ancient oceans were ruled by super predators unlike anything today",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/12/251218060611.htm",
-      "published_at": "Fri, 19 Dec 2025 09:25:16 EST",
-      "bullets": [
-        "• McGill University reconstructs 130-million-year-old marine ecosystem from Colombia's Paja Formation",
-        "• The prehistoric sea was filled with enormous marine reptiles that occupied a previously unseen seventh level of the food chain",
-        "• This extreme complexity reveals how intense competition helped drive the evolution of modern marine ecosystems "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• McGill University reconstructs 130-million-year-old marine ecosystem from Colombia's Paja Formation",
-          "• The prehistoric sea was filled with enormous marine reptiles that occupied a previously unseen seventh level of the food chain"
-        ],
-        "hopeful_bullets": [
-          "• This extreme complexity reveals how intense competition helped drive the evolution of modern marine ecosystems "
-        ],
-        "stakes_bullets": [
-          "• McGill University reconstructs 130-million-year-old marine ecosystem from Colombia's Paja Formation",
-          "• The prehistoric sea was filled with enormous marine reptiles that occupied a previously unseen seventh level of the food chain",
-          "• This extreme complexity reveals how intense competition helped drive the evolution of modern marine ecosystems "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "c7604e0e1974"
-    },
-    {
       "id": "2404218290e0",
       "title": "‘I can’t think of a place more pristine’: 133,000 hectares of Chilean Patagonia preserved after local fundraising",
       "outlet": "World news | The Guardian",
@@ -8083,39 +8147,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "e40434f77dde"
-    },
-    {
-      "id": "3ca76facf836",
-      "title": "A stunning new forecast shows when thousands of glaciers will vanish",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/12/251219030455.htm",
-      "published_at": "Fri, 19 Dec 2025 03:19:31 EST",
-      "bullets": [
-        "• New research reveals when glaciers around the world will vanish and why every fraction of a degree of warming could decide their fate",
-        "• The Alps could reach their highest rate of glacier loss between 2033 and 2041",
-        "• At +1.5 °C warming, this peak is projected to occur around 2041 with about 2,000 glaciers disappearing in a single year "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New research reveals when glaciers around the world will vanish and why every fraction of a degree of warming could decide their fate",
-          "• The Alps could reach their highest rate of glacier loss between 2033 and 2041"
-        ],
-        "hopeful_bullets": [
-          "• New research reveals when glaciers around the world will vanish and why every fraction of a degree of warming could decide their fate",
-          "• The Alps could reach their highest rate of glacier loss between 2033 and 2041"
-        ],
-        "stakes_bullets": [
-          "• New research reveals when glaciers around the world will vanish and why every fraction of a degree of warming could decide their fate",
-          "• The Alps could reach their highest rate of glacier loss between 2033 and 2041"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "414555fabf33"
     },
     {
       "id": "c61a75dba0e1",
@@ -9605,6 +9636,24 @@
       ]
     },
     {
+      "id": "ad194a394e01",
+      "topic": "american get healthcare hurt",
+      "keywords": [
+        "american",
+        "get",
+        "healthcare",
+        "hurt",
+        "poor",
+        "system"
+      ],
+      "item_ids": [
+        "ecdaf6d80f5a"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "19b4571bed92",
       "topic": "anger apparent glance grow",
       "keywords": [
@@ -9731,24 +9780,6 @@
       ]
     },
     {
-      "id": "9cc9de4d8c24",
-      "topic": "epstein file musician politician",
-      "keywords": [
-        "epstein",
-        "file",
-        "musician",
-        "politician",
-        "royal",
-        "which"
-      ],
-      "item_ids": [
-        "9c9d31661d9c"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "97570c13c90c",
       "topic": "death fight lawyer luigi",
       "keywords": [
@@ -9764,6 +9795,42 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "b4e24129aba5",
+      "topic": "amsterdam lifeline radio station",
+      "keywords": [
+        "amsterdam",
+        "lifeline",
+        "radio",
+        "station",
+        "sudan",
+        "usaid"
+      ],
+      "item_ids": [
+        "ff2258c02b46"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "cce766ff82c6",
+      "topic": "african killed pub shooting",
+      "keywords": [
+        "african",
+        "killed",
+        "pub",
+        "shooting",
+        "south",
+        "wounded"
+      ],
+      "item_ids": [
+        "d20fe89a3317"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9911,54 +9978,18 @@
       ]
     },
     {
-      "id": "0e6a743dc1c5",
-      "topic": "2nd force merchant off",
+      "id": "063b3a1aa551",
+      "topic": "000 2025 behind here",
       "keywords": [
-        "2nd",
-        "force",
-        "merchant",
-        "off",
-        "stop",
-        "vessel"
+        "000",
+        "2025",
+        "behind",
+        "here",
+        "layoff",
+        "top"
       ],
       "item_ids": [
-        "b1a8eada5cdc"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "5475aef0cf0c",
-      "topic": "court election mississippi ordered",
-      "keywords": [
-        "court",
-        "election",
-        "mississippi",
-        "ordered",
-        "special",
-        "supreme"
-      ],
-      "item_ids": [
-        "11ca6860337f"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "80b7550822a2",
-      "topic": "dominance google losing promoted",
-      "keywords": [
-        "dominance",
-        "google",
-        "losing",
-        "promoted",
-        "risk",
-        "until"
-      ],
-      "item_ids": [
-        "cf20c7253e77"
+        "57d10f96c473"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9977,24 +10008,6 @@
       ],
       "item_ids": [
         "ad1ddfdcfa47"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "063b3a1aa551",
-      "topic": "000 2025 behind here",
-      "keywords": [
-        "000",
-        "2025",
-        "behind",
-        "here",
-        "layoff",
-        "top"
-      ],
-      "item_ids": [
-        "57d10f96c473"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10031,6 +10044,24 @@
       ],
       "item_ids": [
         "09b17774db8b"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "80b7550822a2",
+      "topic": "dominance google losing promoted",
+      "keywords": [
+        "dominance",
+        "google",
+        "losing",
+        "promoted",
+        "risk",
+        "until"
+      ],
+      "item_ids": [
+        "cf20c7253e77"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10124,6 +10155,22 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "15f79fff56df",
+      "topic": "audio lossles need really",
+      "keywords": [
+        "audio",
+        "lossles",
+        "need",
+        "really"
+      ],
+      "item_ids": [
+        "137f5f4cfd1c"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10235,24 +10282,6 @@
       ]
     },
     {
-      "id": "e9e8cb1c00a3",
-      "topic": "data hacker million pornhub",
-      "keywords": [
-        "data",
-        "hacker",
-        "million",
-        "pornhub",
-        "stole",
-        "user"
-      ],
-      "item_ids": [
-        "d052ffa8d459"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
       "id": "c144b704289d",
       "topic": "amazon deal last minute",
       "keywords": [
@@ -10271,6 +10300,24 @@
       ]
     },
     {
+      "id": "e9e8cb1c00a3",
+      "topic": "data hacker million pornhub",
+      "keywords": [
+        "data",
+        "hacker",
+        "million",
+        "pornhub",
+        "stole",
+        "user"
+      ],
+      "item_ids": [
+        "d052ffa8d459"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "80478bc6e1e2",
       "topic": "debut gear google led",
       "keywords": [
@@ -10283,23 +10330,6 @@
       ],
       "item_ids": [
         "7a1c97b6adcc"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "21c5aa45336e",
-      "topic": "anyone connecting public tips",
-      "keywords": [
-        "anyone",
-        "connecting",
-        "public",
-        "tips",
-        "useful"
-      ],
-      "item_ids": [
-        "834b8828c626"
       ],
       "outlets": [
         "WIRED"
@@ -10678,6 +10708,60 @@
       ]
     },
     {
+      "id": "9222c8ca775e",
+      "topic": "crushing mystery scientist superconductor",
+      "keywords": [
+        "crushing",
+        "mystery",
+        "scientist",
+        "superconductor",
+        "under",
+        "unlocked"
+      ],
+      "item_ids": [
+        "92eb70fcf2cb"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "ec0e909f862d",
+      "topic": "change climate found hidden",
+      "keywords": [
+        "change",
+        "climate",
+        "found",
+        "hidden",
+        "old",
+        "scientist"
+      ],
+      "item_ids": [
+        "322aefce08ee"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
+      "id": "3887ca794300",
+      "topic": "astrophysicist invisible map universe",
+      "keywords": [
+        "astrophysicist",
+        "invisible",
+        "map",
+        "universe",
+        "using",
+        "warped"
+      ],
+      "item_ids": [
+        "6ad3f82e86f3"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "4ac1476e86d2",
       "topic": "all bizarre break fungu",
       "keywords": [
@@ -10786,60 +10870,6 @@
       ]
     },
     {
-      "id": "414555fabf33",
-      "topic": "forecast glacier show stunning",
-      "keywords": [
-        "forecast",
-        "glacier",
-        "show",
-        "stunning",
-        "thousand",
-        "vanish"
-      ],
-      "item_ids": [
-        "3ca76facf836"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "ce3e2814a888",
-      "topic": "cancer cell hidden immunotherapy",
-      "keywords": [
-        "cancer",
-        "cell",
-        "hidden",
-        "immunotherapy",
-        "make",
-        "switch"
-      ],
-      "item_ids": [
-        "cd8daeabfb8e"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "c7604e0e1974",
-      "topic": "ancient ocean predator ruled",
-      "keywords": [
-        "ancient",
-        "ocean",
-        "predator",
-        "ruled",
-        "super",
-        "unlike"
-      ],
-      "item_ids": [
-        "0681c1aa2945"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
       "id": "f20f4e72a4ce",
       "topic": "astronaut billionaire isaacman jared",
       "keywords": [
@@ -10876,24 +10906,6 @@
       ]
     },
     {
-      "id": "43bbb6302f3a",
-      "topic": "acros build nuclear reactor",
-      "keywords": [
-        "acros",
-        "build",
-        "nuclear",
-        "reactor",
-        "rush",
-        "trump"
-      ],
-      "item_ids": [
-        "b90342b2ae45"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "a6e35bfde9a6",
       "topic": "bird dropping ended holiday",
       "keywords": [
@@ -10906,6 +10918,24 @@
       ],
       "item_ids": [
         "887c9b0f612e"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "43bbb6302f3a",
+      "topic": "acros build nuclear reactor",
+      "keywords": [
+        "acros",
+        "build",
+        "nuclear",
+        "reactor",
+        "rush",
+        "trump"
+      ],
+      "item_ids": [
+        "b90342b2ae45"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11016,6 +11046,24 @@
       ],
       "outlets": [
         "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "5475aef0cf0c",
+      "topic": "court election mississippi ordered",
+      "keywords": [
+        "court",
+        "election",
+        "mississippi",
+        "ordered",
+        "special",
+        "supreme"
+      ],
+      "item_ids": [
+        "11ca6860337f"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
       ]
     },
     {
@@ -11384,6 +11432,24 @@
       ]
     },
     {
+      "id": "5fe30658ee0d",
+      "topic": "avian european flu supermarket",
+      "keywords": [
+        "avian",
+        "european",
+        "flu",
+        "supermarket",
+        "turkey",
+        "turn"
+      ],
+      "item_ids": [
+        "a6cf4c02ef89"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "1f892cffe277",
       "topic": "borrowed crop food losse",
       "keywords": [
@@ -11420,21 +11486,56 @@
       ]
     },
     {
-      "id": "30535519ed97",
-      "topic": "becoming calorific due food",
+      "id": "067d0563b84d",
+      "topic": "brewing cocktail pennsylvania toxic",
       "keywords": [
-        "becoming",
-        "calorific",
-        "due",
-        "food",
-        "less",
-        "nutritiou"
+        "brewing",
+        "cocktail",
+        "pennsylvania",
+        "toxic",
+        "waterway"
       ],
       "item_ids": [
-        "d754b52e20f6"
+        "9114bd4d9716"
       ],
       "outlets": [
-        "Environment | The Guardian"
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "c0ad65442f15",
+      "topic": "china conservation countrie debt",
+      "keywords": [
+        "china",
+        "conservation",
+        "countrie",
+        "debt",
+        "relief",
+        "want"
+      ],
+      "item_ids": [
+        "ed4d3ae03653"
+      ],
+      "outlets": [
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "89f7837abc3e",
+      "topic": "gas messy oil toxic",
+      "keywords": [
+        "gas",
+        "messy",
+        "oil",
+        "toxic",
+        "trail",
+        "waste"
+      ],
+      "item_ids": [
+        "36071c69c3c4"
+      ],
+      "outlets": [
+        "Inside Climate News"
       ]
     },
     {
@@ -11558,60 +11659,6 @@
       ],
       "item_ids": [
         "4de596a5b8e4"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "87c852cddd52",
-      "topic": "brink deal million rely",
-      "keywords": [
-        "brink",
-        "deal",
-        "million",
-        "rely",
-        "river",
-        "water"
-      ],
-      "item_ids": [
-        "933cee9d10be"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "d0e2cd074f0c",
-      "topic": "company emission lng peru",
-      "keywords": [
-        "company",
-        "emission",
-        "lng",
-        "peru",
-        "releasing",
-        "unauthorized"
-      ],
-      "item_ids": [
-        "f90c0f7c71cd"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "af8dc8dedd90",
-      "topic": "gas oil pennsylvania still",
-      "keywords": [
-        "gas",
-        "oil",
-        "pennsylvania",
-        "still",
-        "tracking",
-        "waste"
-      ],
-      "item_ids": [
-        "d7082a9fcec4"
       ],
       "outlets": [
         "Inside Climate News"
