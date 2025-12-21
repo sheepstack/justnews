@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-21T06:01:41Z",
+  "generated_at": "2025-12-21T06:19:43Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -4230,38 +4230,6 @@
       "cluster_id": "4ac1476e86d2"
     },
     {
-      "id": "d052ffa8d459",
-      "title": "Hackers Stole Millions of PornHub Users’ Data for Extortion",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/security-news-this-week-hackers-stole-millions-of-pornhub-users-data-for-extortion/",
-      "published_at": "Sat, 20 Dec 2025 11:30:00 +0000",
-      "bullets": [
-        "• Chinese-language artificial intelligence app Haotian can be used to create “nearly perfect” face swaps during live video chats",
-        "• US Customs and Border Protection is transitioning from testing small drones to using them as standard surveillance tools",
-        "• US Immigration and Customs Enforcement is planning to incorporate a broad cybersecurity contract that will include expanding employee surveillance and monitoring "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Chinese-language artificial intelligence app Haotian can be used to create “nearly perfect” face swaps during live video chats",
-          "• US Customs and Border Protection is transitioning from testing small drones to using them as standard surveillance tools"
-        ],
-        "hopeful_bullets": [
-          "• Chinese-language artificial intelligence app Haotian can be used to create “nearly perfect” face swaps during live video chats",
-          "• US Customs and Border Protection is transitioning from testing small drones to using them as standard surveillance tools"
-        ],
-        "stakes_bullets": [
-          "• US Immigration and Customs Enforcement is planning to incorporate a broad cybersecurity contract that will include expanding employee surveillance and monitoring "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e9e8cb1c00a3"
-    },
-    {
       "id": "498475ddadd5",
       "title": "25 Amazon Super Saturday Deals on Last-Minute Gifts We've Tested (2025)",
       "outlet": "WIRED",
@@ -4294,6 +4262,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "c144b704289d"
+    },
+    {
+      "id": "d052ffa8d459",
+      "title": "Hackers Stole Millions of PornHub Users’ Data for Extortion",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/security-news-this-week-hackers-stole-millions-of-pornhub-users-data-for-extortion/",
+      "published_at": "Sat, 20 Dec 2025 11:30:00 +0000",
+      "bullets": [
+        "• Chinese-language artificial intelligence app Haotian can be used to create “nearly perfect” face swaps during live video chats",
+        "• US Customs and Border Protection is transitioning from testing small drones to using them as standard surveillance tools",
+        "• US Immigration and Customs Enforcement is planning to incorporate a broad cybersecurity contract that will include expanding employee surveillance and monitoring "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.983
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Chinese-language artificial intelligence app Haotian can be used to create “nearly perfect” face swaps during live video chats",
+          "• US Customs and Border Protection is transitioning from testing small drones to using them as standard surveillance tools"
+        ],
+        "hopeful_bullets": [
+          "• Chinese-language artificial intelligence app Haotian can be used to create “nearly perfect” face swaps during live video chats",
+          "• US Customs and Border Protection is transitioning from testing small drones to using them as standard surveillance tools"
+        ],
+        "stakes_bullets": [
+          "• US Immigration and Customs Enforcement is planning to incorporate a broad cybersecurity contract that will include expanding employee surveillance and monitoring "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e9e8cb1c00a3"
     },
     {
       "id": "a27dbf3e74d3",
@@ -10250,24 +10250,6 @@
       ]
     },
     {
-      "id": "e9e8cb1c00a3",
-      "topic": "data hacker million pornhub",
-      "keywords": [
-        "data",
-        "hacker",
-        "million",
-        "pornhub",
-        "stole",
-        "user"
-      ],
-      "item_ids": [
-        "d052ffa8d459"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
       "id": "c144b704289d",
       "topic": "amazon deal last minute",
       "keywords": [
@@ -10280,6 +10262,24 @@
       ],
       "item_ids": [
         "498475ddadd5"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "e9e8cb1c00a3",
+      "topic": "data hacker million pornhub",
+      "keywords": [
+        "data",
+        "hacker",
+        "million",
+        "pornhub",
+        "stole",
+        "user"
+      ],
+      "item_ids": [
+        "d052ffa8d459"
       ],
       "outlets": [
         "WIRED"
