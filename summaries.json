@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-21T20:13:53Z",
+  "generated_at": "2025-12-21T20:54:40Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -233,6 +233,37 @@
       "cluster_id": "af6953ceb98d"
     },
     {
+      "id": "887c9b0f612e",
+      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "hopeful_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "stakes_bullets": [
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6e35bfde9a6"
+    },
+    {
       "id": "b90342b2ae45",
       "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
       "outlet": "NPR Topics: Science",
@@ -263,37 +294,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "43bbb6302f3a"
-    },
-    {
-      "id": "887c9b0f612e",
-      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "hopeful_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "stakes_bullets": [
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a6e35bfde9a6"
     },
     {
       "id": "40d030e37f88",
@@ -1509,40 +1509,6 @@
       "cluster_id": "c53f90b394f9"
     },
     {
-      "id": "3de4869fedb2",
-      "title": "Morocco accused of ‘horrific’ abuse of detained gen Z protesters",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/global-development/2025/dec/18/morocco-genz212-protests-police-mass-arrests-beatings-detentions-rights",
-      "published_at": "Thu, 18 Dec 2025 06:00:27 GMT",
-      "bullets": [
-        "• A wave of youth-led demonstrations swept across Morocco in late September and early October",
-        "• The government responded to the protests by arbitrarily arresting thousands of people",
-        "• Human rights groups say people were beaten and left for hours without food or water while in police custody "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A wave of youth-led demonstrations swept across Morocco in late September and early October",
-          "• The government responded to the protests by arbitrarily arresting thousands of people"
-        ],
-        "hopeful_bullets": [
-          "• A wave of youth-led demonstrations swept across Morocco in late September and early October",
-          "• The government responded to the protests by arbitrarily arresting thousands of people"
-        ],
-        "stakes_bullets": [
-          "• A wave of youth-led demonstrations swept across Morocco in late September and early October",
-          "• The government responded to the protests by arbitrarily arresting thousands of people",
-          "• Human rights groups say people were beaten and left for hours without food or water while in police custody "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "89bb117d1c22"
-    },
-    {
       "id": "8349fabad02b",
       "title": "Washington state flooding damage profound but unclear, governor warns",
       "outlet": "Environment | The Guardian",
@@ -1898,6 +1864,171 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "6594b0ce7217",
+      "title": "10 Comic Masterpieces from the '80s You Forgot Existed",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/throwback-80s-masterpieces-hidden-gem-comics/",
+      "published_at": "Sun, 21 Dec 2025 20:45:11 GMT",
+      "bullets": [
+        "• The '80s were an incredible decade for comic books, with generational works like Watchmen and Frank Miller's Daredevil",
+        "• While comics like Mike Grell's Green Arrow might be old, the stories they tell are timeless, and they're just waiting to be rediscovered "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The '80s were an incredible decade for comic books, with generational works like Watchmen and Frank Miller's Daredevil",
+          "• While comics like Mike Grell's Green Arrow might be old, the stories they tell are timeless, and they're just waiting to be rediscovered "
+        ],
+        "hopeful_bullets": [
+          "• The '80s were an incredible decade for comic books, with generational works like Watchmen and Frank Miller's Daredevil",
+          "• While comics like Mike Grell's Green Arrow might be old, the stories they tell are timeless, and they're just waiting to be rediscovered "
+        ],
+        "stakes_bullets": [
+          "• The '80s were an incredible decade for comic books, with generational works like Watchmen and Frank Miller's Daredevil",
+          "• While comics like Mike Grell's Green Arrow might be old, the stories they tell are timeless, and they're just waiting to be rediscovered "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "581e095d43f7"
+    },
+    {
+      "id": "210af8afef04",
+      "title": "Nicki Minaj Joins Erika Kirk at Turning Point USA’s AmFest, Praises Trump and Vance: ‘They’re One of Us’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/nicki-minaj-erika-kirk-turning-point-usa-amfest-trump-vance-1235488547/",
+      "published_at": "Sun, 21 Dec 2025 20:37:24 +0000",
+      "bullets": [
+        "• Nicki Minaj made a surprise appearance at Turning Point USA’s AmericaFest in Phoenix",
+        "• Minaj praised President Donald Trump and Vice President J.D",
+        "• Vance as ‘one of us” Erika Kirk, the widow of TPUSA founder Charlie Kirk, invited Minaj to read some of her tweets criticizing Gov",
+        "• Gavin Newsom "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nicki Minaj made a surprise appearance at Turning Point USA’s AmericaFest in Phoenix",
+          "• Minaj praised President Donald Trump and Vice President J.D"
+        ],
+        "hopeful_bullets": [
+          "• Nicki Minaj made a surprise appearance at Turning Point USA’s AmericaFest in Phoenix",
+          "• Minaj praised President Donald Trump and Vice President J.D"
+        ],
+        "stakes_bullets": [
+          "• Nicki Minaj made a surprise appearance at Turning Point USA’s AmericaFest in Phoenix",
+          "• Minaj praised President Donald Trump and Vice President J.D",
+          "• Vance as ‘one of us” Erika Kirk, the widow of TPUSA founder Charlie Kirk, invited Minaj to read some of her tweets criticizing Gov"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "0d7358034404"
+    },
+    {
+      "id": "99322e7632e2",
+      "title": "Mass power outages affect 130,000 in San Francisco and disrupt traffic",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/21/power-outages-san-francisco-traffic-waymo-taxis-traffic",
+      "published_at": "Sun, 21 Dec 2025 20:20:49 GMT",
+      "bullets": [
+        "• A widespread power failure in San Francisco caused chaos on Saturday night",
+        "• Autonomous Waymo vehicles were unable to drive in the middle of streets and intersections",
+        "• By Saturday evening, about 30% of PG&E customers in the city were without power "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A widespread power failure in San Francisco caused chaos on Saturday night",
+          "• Autonomous Waymo vehicles were unable to drive in the middle of streets and intersections"
+        ],
+        "hopeful_bullets": [
+          "• A widespread power failure in San Francisco caused chaos on Saturday night",
+          "• Autonomous Waymo vehicles were unable to drive in the middle of streets and intersections"
+        ],
+        "stakes_bullets": [
+          "• A widespread power failure in San Francisco caused chaos on Saturday night"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e910a901bbb1"
+    },
+    {
+      "id": "ede266ecc76c",
+      "title": "Waymo pauses robotaxi service in San Francisco after blackout chaos — Musk says Tesla car service unaffected",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/21/waymo-robotaxi-san-francisco-blackout.html",
+      "published_at": "Sun, 21 Dec 2025 20:20:26 GMT",
+      "bullets": [
+        "• Alphabet-owned Waymo has suspended its driverless ride-hail service in the San Francisco Bay Area",
+        "• Power outages began around 1:09 p.m",
+        "• Saturday and peaked about two hours later, affecting about 130,000 customers",
+        "• The outage was caused by a fire at a substation that resulted in \"significant\" damage "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Alphabet-owned Waymo has suspended its driverless ride-hail service in the San Francisco Bay Area",
+          "• Power outages began around 1:09 p.m"
+        ],
+        "hopeful_bullets": [
+          "• Alphabet-owned Waymo has suspended its driverless ride-hail service in the San Francisco Bay Area",
+          "• Power outages began around 1:09 p.m"
+        ],
+        "stakes_bullets": [
+          "• Saturday and peaked about two hours later, affecting about 130,000 customers",
+          "• The outage was caused by a fire at a substation that resulted in \"significant\" damage "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "2cf67a645591"
+    },
+    {
+      "id": "5a06db9c1684",
+      "title": "Another 130 kidnapped schoolchildren released in Nigeria",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria",
+      "published_at": "Sun, 21 Dec 2025 20:05:09 GMT",
+      "bullets": [
+        "• In late November, gunmen kidnapped hundreds of students and staff from St Mary’s co-educational boarding school in Niger state",
+        "• The number of people taken and how many have remained in captivity has been unclear since",
+        "• 100 were freed earlier this month, and the remaining children will be taken to Minna, the capital of Niger state on Tuesday "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In late November, gunmen kidnapped hundreds of students and staff from St Mary’s co-educational boarding school in Niger state",
+          "• The number of people taken and how many have remained in captivity has been unclear since"
+        ],
+        "hopeful_bullets": [
+          "• In late November, gunmen kidnapped hundreds of students and staff from St Mary’s co-educational boarding school in Niger state",
+          "• The number of people taken and how many have remained in captivity has been unclear since"
+        ],
+        "stakes_bullets": [
+          "• 100 were freed earlier this month, and the remaining children will be taken to Minna, the capital of Niger state on Tuesday "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "46f109bf445c"
+    },
+    {
       "id": "781e62f1a623",
       "title": "Landman Season 2 Quietly Rewrites Tommy's Entire Backstory",
       "outlet": "CBR",
@@ -2032,40 +2163,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "649f51629270"
-    },
-    {
-      "id": "ede266ecc76c",
-      "title": "Waymo pauses robotaxi service in San Francisco after blackout chaos — Musk says Tesla car service unaffected",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/21/waymo-robotaxi-san-francisco-blackout.html",
-      "published_at": "Sun, 21 Dec 2025 19:34:37 GMT",
-      "bullets": [
-        "• Alphabet-owned Waymo has suspended its driverless ride-hail service in the San Francisco Bay Area",
-        "• Power outages began around 1:09 p.m",
-        "• Saturday and peaked two hours later, affecting about 130,000 customers",
-        "• The outage was caused by a fire at a substation that resulted in \"significant and extensive\" damage "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Alphabet-owned Waymo has suspended its driverless ride-hail service in the San Francisco Bay Area",
-          "• Power outages began around 1:09 p.m"
-        ],
-        "hopeful_bullets": [
-          "• Alphabet-owned Waymo has suspended its driverless ride-hail service in the San Francisco Bay Area",
-          "• Power outages began around 1:09 p.m"
-        ],
-        "stakes_bullets": [
-          "• Saturday and peaked two hours later, affecting about 130,000 customers",
-          "• The outage was caused by a fire at a substation that resulted in \"significant and extensive\" damage "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2cf67a645591"
     },
     {
       "id": "cad5567b14b7",
@@ -2333,41 +2430,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "43ba87b57da2"
-    },
-    {
-      "id": "306044962d4c",
-      "title": "31 Years Later, This PS1 Hidden Gem Is More Important Than Ever",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/ps1-hidden-gem-throwback-kings-field-fromsoftware/",
-      "published_at": "Sun, 21 Dec 2025 18:16:12 GMT",
-      "bullets": [
-        "• King's Field was FromSoftware's debut video game and a PS1 launch title",
-        "• While it's a first-person action RPG, the gameplay focuses on exploration and combat",
-        "• It can be completed in about three hours, and there are only five floors to explore",
-        "• Even though it's limited by its hardware, it feels like a FromSoft-era Souls game "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.94
-      },
-      "moods": {
-        "brief_bullets": [
-          "• King's Field was FromSoftware's debut video game and a PS1 launch title",
-          "• While it's a first-person action RPG, the gameplay focuses on exploration and combat"
-        ],
-        "hopeful_bullets": [
-          "• King's Field was FromSoftware's debut video game and a PS1 launch title",
-          "• While it's a first-person action RPG, the gameplay focuses on exploration and combat"
-        ],
-        "stakes_bullets": [
-          "• King's Field was FromSoftware's debut video game and a PS1 launch title",
-          "• While it's a first-person action RPG, the gameplay focuses on exploration and combat",
-          "• It can be completed in about three hours, and there are only five floors to explore"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "77826c964340"
     },
     {
       "id": "65ce0ab10eac",
@@ -3229,40 +3291,6 @@
       "cluster_id": "c5c9716d588a"
     },
     {
-      "id": "ecdaf6d80f5a",
-      "title": "The US healthcare system hurts poor Americans. It’s about to get worse",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/21/us-healthcare-system-trump",
-      "published_at": "Sun, 21 Dec 2025 11:00:04 GMT",
-      "bullets": [
-        "• In January, millions of Americans may lose their health insurance as premiums rise",
-        "• Meanwhile, in some corner of the US, people are ploughing money into research into rejuvenating cells",
-        "• American average life expectancy in 2023 was shorter than it was in 2 years ago "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In January, millions of Americans may lose their health insurance as premiums rise",
-          "• Meanwhile, in some corner of the US, people are ploughing money into research into rejuvenating cells"
-        ],
-        "hopeful_bullets": [
-          "• In January, millions of Americans may lose their health insurance as premiums rise",
-          "• Meanwhile, in some corner of the US, people are ploughing money into research into rejuvenating cells"
-        ],
-        "stakes_bullets": [
-          "• In January, millions of Americans may lose their health insurance as premiums rise",
-          "• Meanwhile, in some corner of the US, people are ploughing money into research into rejuvenating cells",
-          "• American average life expectancy in 2023 was shorter than it was in 2 years ago "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "ad194a394e01"
-    },
-    {
       "id": "a6cf4c02ef89",
       "title": "UK supermarkets turn to European turkeys as avian flu hits supply",
       "outlet": "Environment | The Guardian",
@@ -3555,39 +3583,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "b32e3aba5986"
-    },
-    {
-      "id": "57d10f96c473",
-      "title": "AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html",
-      "published_at": "Sun, 21 Dec 2025 08:10:42 GMT",
-      "bullets": [
-        "• AI was responsible for almost 55,000 U.S",
-        "• job cuts this year, according to Challenger, Gray & Christmas",
-        "• There were in total 1.17 million job cuts through 2025, the highest level since the Covid-19 pandemic in 2020 when there were 2.2 million layoffs "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.952
-      },
-      "moods": {
-        "brief_bullets": [
-          "• AI was responsible for almost 55,000 U.S",
-          "• job cuts this year, according to Challenger, Gray & Christmas"
-        ],
-        "hopeful_bullets": [
-          "• AI was responsible for almost 55,000 U.S",
-          "• job cuts this year, according to Challenger, Gray & Christmas"
-        ],
-        "stakes_bullets": [
-          "• job cuts this year, according to Challenger, Gray & Christmas",
-          "• There were in total 1.17 million job cuts through 2025, the highest level since the Covid-19 pandemic in 2020 when there were 2.2 million layoffs "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "063b3a1aa551"
     },
     {
       "id": "3d155cfeb910",
@@ -4697,6 +4692,38 @@
       },
       "read_minutes": 14,
       "cluster_id": "f9d9b30901e6"
+    },
+    {
+      "id": "7c08d183b117",
+      "title": "Lucid's big SUV arrives with high expectations, and big risks",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/20/lucids-gravity-suv-arrives-with-high-expectations-and-big-risks.html",
+      "published_at": "Sat, 20 Dec 2025 13:30:01 GMT",
+      "bullets": [
+        "• Arizona-based EV maker Lucid Motors has struggled to meet production targets",
+        "• The company's third-quarter results were worse than Wall Street expected, with a net loss of $1 billion",
+        "• Lucid is ramping up production of its high-end, three-row, Gravity SUV, though it has sold only a few hundred units so far in 2025 "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Arizona-based EV maker Lucid Motors has struggled to meet production targets",
+          "• The company's third-quarter results were worse than Wall Street expected, with a net loss of $1 billion"
+        ],
+        "hopeful_bullets": [
+          "• Arizona-based EV maker Lucid Motors has struggled to meet production targets",
+          "• The company's third-quarter results were worse than Wall Street expected, with a net loss of $1 billion"
+        ],
+        "stakes_bullets": [
+          "• The company's third-quarter results were worse than Wall Street expected, with a net loss of $1 billion"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "71213fae0e92"
     },
     {
       "id": "8a09477bac71",
@@ -6949,40 +6976,6 @@
       "cluster_id": "515aabcb2d0b"
     },
     {
-      "id": "d9a44f0b030a",
-      "title": "Taylor Swift Shares the Secrets Behind That ‘Reputation’ Bodysuit",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/taylor-swift-reputation-gold-reputation-bodysuit-doc-series-1235487475/",
-      "published_at": "Fri, 19 Dec 2025 18:59:20 +0000",
-      "bullets": [
-        "• Taylor Swift donned a new black and gold bodysuit on the Eras Tour in Miami",
-        "• The black and red outfit was designed by Roberto Cavalli",
-        "• Swift’s stylist Joseph Cassell reveals that the designer was on a time crunch to create it in time "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Taylor Swift donned a new black and gold bodysuit on the Eras Tour in Miami",
-          "• The black and red outfit was designed by Roberto Cavalli"
-        ],
-        "hopeful_bullets": [
-          "• Taylor Swift donned a new black and gold bodysuit on the Eras Tour in Miami",
-          "• The black and red outfit was designed by Roberto Cavalli"
-        ],
-        "stakes_bullets": [
-          "• Taylor Swift donned a new black and gold bodysuit on the Eras Tour in Miami",
-          "• The black and red outfit was designed by Roberto Cavalli",
-          "• Swift’s stylist Joseph Cassell reveals that the designer was on a time crunch to create it in time "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2f156d711784"
-    },
-    {
       "id": "8c455affe1b5",
       "title": "Morrissey Signs With Sire Records",
       "outlet": "RSS: News",
@@ -9184,6 +9177,24 @@
       ]
     },
     {
+      "id": "46f109bf445c",
+      "topic": "130 another kidnapped nigeria",
+      "keywords": [
+        "130",
+        "another",
+        "kidnapped",
+        "nigeria",
+        "released",
+        "schoolchildren"
+      ],
+      "item_ids": [
+        "5a06db9c1684"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "d78f8a5defb8",
       "topic": "help hidden manchester museum",
       "keywords": [
@@ -9250,24 +9261,6 @@
       ],
       "item_ids": [
         "23bd8c82b1fb"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "89bb117d1c22",
-      "topic": "abuse accused detained gen",
-      "keywords": [
-        "abuse",
-        "accused",
-        "detained",
-        "gen",
-        "horrific",
-        "morocco"
-      ],
-      "item_ids": [
-        "3de4869fedb2"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -9361,6 +9354,24 @@
       ],
       "outlets": [
         "World news | The Guardian"
+      ]
+    },
+    {
+      "id": "e910a901bbb1",
+      "topic": "000 130 affect mass",
+      "keywords": [
+        "000",
+        "130",
+        "affect",
+        "mass",
+        "outage",
+        "power"
+      ],
+      "item_ids": [
+        "99322e7632e2"
+      ],
+      "outlets": [
+        "US news | The Guardian"
       ]
     },
     {
@@ -9502,24 +9513,6 @@
       ],
       "item_ids": [
         "65cbbbee193d"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "ad194a394e01",
-      "topic": "american get healthcare hurt",
-      "keywords": [
-        "american",
-        "get",
-        "healthcare",
-        "hurt",
-        "poor",
-        "system"
-      ],
-      "item_ids": [
-        "ecdaf6d80f5a"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9850,6 +9843,24 @@
       ]
     },
     {
+      "id": "71213fae0e92",
+      "topic": "arrive big expectation high",
+      "keywords": [
+        "arrive",
+        "big",
+        "expectation",
+        "high",
+        "lucid",
+        "suv"
+      ],
+      "item_ids": [
+        "7c08d183b117"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "09757a910fad",
       "topic": "christma cost elf movie",
       "keywords": [
@@ -9880,24 +9891,6 @@
       ],
       "item_ids": [
         "38531a113adb"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "063b3a1aa551",
-      "topic": "000 2025 behind here",
-      "keywords": [
-        "000",
-        "2025",
-        "behind",
-        "here",
-        "layoff",
-        "top"
-      ],
-      "item_ids": [
-        "57d10f96c473"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10641,24 +10634,6 @@
       ]
     },
     {
-      "id": "43bbb6302f3a",
-      "topic": "acros build nuclear reactor",
-      "keywords": [
-        "acros",
-        "build",
-        "nuclear",
-        "reactor",
-        "rush",
-        "trump"
-      ],
-      "item_ids": [
-        "b90342b2ae45"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "a6e35bfde9a6",
       "topic": "bird dropping ended holiday",
       "keywords": [
@@ -10671,6 +10646,24 @@
       ],
       "item_ids": [
         "887c9b0f612e"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "43bbb6302f3a",
+      "topic": "acros build nuclear reactor",
+      "keywords": [
+        "acros",
+        "build",
+        "nuclear",
+        "reactor",
+        "rush",
+        "trump"
+      ],
+      "item_ids": [
+        "b90342b2ae45"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -12961,6 +12954,23 @@
       ]
     },
     {
+      "id": "581e095d43f7",
+      "topic": "80s comic existed forgot",
+      "keywords": [
+        "80s",
+        "comic",
+        "existed",
+        "forgot",
+        "masterpiece"
+      ],
+      "item_ids": [
+        "6594b0ce7217"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "3e70c0d82cb8",
       "topic": "entire landman quietly rewrite",
       "keywords": [
@@ -13112,24 +13122,6 @@
       ],
       "item_ids": [
         "ee1cfe3f8ca6"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "77826c964340",
-      "topic": "gem hidden important later",
-      "keywords": [
-        "gem",
-        "hidden",
-        "important",
-        "later",
-        "ps1",
-        "year"
-      ],
-      "item_ids": [
-        "306044962d4c"
       ],
       "outlets": [
         "CBR"
@@ -13314,6 +13306,24 @@
       ]
     },
     {
+      "id": "0d7358034404",
+      "topic": "erika join kirk minaj",
+      "keywords": [
+        "erika",
+        "join",
+        "kirk",
+        "minaj",
+        "nicki",
+        "turning"
+      ],
+      "item_ids": [
+        "210af8afef04"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "c2a0e67dd5ac",
       "topic": "20th cyru hannah marking",
       "keywords": [
@@ -13470,24 +13480,6 @@
       ],
       "item_ids": [
         "ad8008a326f5"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "2f156d711784",
-      "topic": "behind reputation secret share",
-      "keywords": [
-        "behind",
-        "reputation",
-        "secret",
-        "share",
-        "swift",
-        "taylor"
-      ],
-      "item_ids": [
-        "d9a44f0b030a"
       ],
       "outlets": [
         "Music News"
