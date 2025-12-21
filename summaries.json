@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-21T07:59:34Z",
+  "generated_at": "2025-12-21T08:15:10Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2165,6 +2165,40 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "46c8d5b0175b",
+      "title": "It's Finally Official: Chainsaw Man Is Returning for Its New Anime Arc",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/chainsaw-man-international-assassins-anime-production-confirm/",
+      "published_at": "Sun, 21 Dec 2025 07:55:28 GMT",
+      "bullets": [
+        "• Chainsaw Man's next anime arc has officially been announced at Jump Festa 2026",
+        "• The anime is adapting the \"International Assassins\" arc",
+        "• The Reze Arc film's story followed directly from the end of Season 1",
+        "• A release window or release window has yet to be announced "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.965
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Chainsaw Man's next anime arc has officially been announced at Jump Festa 2026",
+          "• The anime is adapting the \"International Assassins\" arc"
+        ],
+        "hopeful_bullets": [
+          "• A release window or release window has yet to be announced "
+        ],
+        "stakes_bullets": [
+          "• Chainsaw Man's next anime arc has officially been announced at Jump Festa 2026",
+          "• The anime is adapting the \"International Assassins\" arc",
+          "• The Reze Arc film's story followed directly from the end of Season 1"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c8bf8e2359f2"
+    },
+    {
       "id": "c00574c5b6a0",
       "title": "‘SNL’: Watch Cher Perform ‘DJ Play a Christmas Song,’ ‘Run Rudolph Run’",
       "outlet": "Music News",
@@ -2661,40 +2695,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "19b4571bed92"
-    },
-    {
-      "id": "129a14aaa783",
-      "title": "Controversial New 81Produce EleveLabs Merger Sparks Outrage Over Anime AI",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/anime-ai-voice-actor-81produce-elevenlabs-merger/",
-      "published_at": "Sun, 21 Dec 2025 01:58:09 GMT",
-      "bullets": [
-        "• 81Produce is a Japanese vocal talent agency representing voice actors for anime and games",
-        "• The company recently announced a merger with ElevenLabs, a New York-based artificial intelligence software company",
-        "• The merger proves that the industry's most beloved Japanese voice actors aren't safe either "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 81Produce is a Japanese vocal talent agency representing voice actors for anime and games",
-          "• The company recently announced a merger with ElevenLabs, a New York-based artificial intelligence software company"
-        ],
-        "hopeful_bullets": [
-          "• 81Produce is a Japanese vocal talent agency representing voice actors for anime and games",
-          "• The company recently announced a merger with ElevenLabs, a New York-based artificial intelligence software company"
-        ],
-        "stakes_bullets": [
-          "• 81Produce is a Japanese vocal talent agency representing voice actors for anime and games",
-          "• The company recently announced a merger with ElevenLabs, a New York-based artificial intelligence software company",
-          "• The merger proves that the industry's most beloved Japanese voice actors aren't safe either "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "4ee489083657"
     },
     {
       "id": "a0b54cb24508",
@@ -9389,24 +9389,6 @@
       ]
     },
     {
-      "id": "d4cf8af9110a",
-      "topic": "further given imran jail",
-      "keywords": [
-        "further",
-        "given",
-        "imran",
-        "jail",
-        "khan",
-        "wife"
-      ],
-      "item_ids": [
-        "07bd2e5e1177"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "579a65d11d3d",
       "topic": "become engineer first space",
       "keywords": [
@@ -9425,6 +9407,38 @@
       ]
     },
     {
+      "id": "fde294332ea3",
+      "topic": "epstein file",
+      "keywords": [
+        "epstein",
+        "file"
+      ],
+      "item_ids": [
+        "0113b0ae2af3"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "d4cf8af9110a",
+      "topic": "further given imran jail",
+      "keywords": [
+        "further",
+        "given",
+        "imran",
+        "jail",
+        "khan",
+        "wife"
+      ],
+      "item_ids": [
+        "07bd2e5e1177"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "9383d4095c31",
       "topic": "against carrie massive out",
       "keywords": [
@@ -9437,20 +9451,6 @@
       ],
       "item_ids": [
         "f701fbe9d713"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "fde294332ea3",
-      "topic": "epstein file",
-      "keywords": [
-        "epstein",
-        "file"
-      ],
-      "item_ids": [
-        "0113b0ae2af3"
       ],
       "outlets": [
         "BBC News"
@@ -13385,6 +13385,24 @@
       ]
     },
     {
+      "id": "c8bf8e2359f2",
+      "topic": "anime chainsaw finally man",
+      "keywords": [
+        "anime",
+        "chainsaw",
+        "finally",
+        "man",
+        "official",
+        "returning"
+      ],
+      "item_ids": [
+        "46c8d5b0175b"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "bd4b8b97b12e",
       "topic": "anime black clover officially",
       "keywords": [
@@ -13541,24 +13559,6 @@
       ],
       "item_ids": [
         "4f4d967cf9e6"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "4ee489083657",
-      "topic": "81produce controversial elevelab merger",
-      "keywords": [
-        "81produce",
-        "controversial",
-        "elevelab",
-        "merger",
-        "outrage",
-        "spark"
-      ],
-      "item_ids": [
-        "129a14aaa783"
       ],
       "outlets": [
         "CBR"
