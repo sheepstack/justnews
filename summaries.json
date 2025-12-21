@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-21T08:15:10Z",
+  "generated_at": "2025-12-21T09:09:10Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -267,37 +267,6 @@
       "cluster_id": "af6953ceb98d"
     },
     {
-      "id": "887c9b0f612e",
-      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "hopeful_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "stakes_bullets": [
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a6e35bfde9a6"
-    },
-    {
       "id": "b90342b2ae45",
       "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
       "outlet": "NPR Topics: Science",
@@ -328,6 +297,37 @@
       },
       "read_minutes": 10,
       "cluster_id": "43bbb6302f3a"
+    },
+    {
+      "id": "887c9b0f612e",
+      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "hopeful_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "stakes_bullets": [
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6e35bfde9a6"
     },
     {
       "id": "40d030e37f88",
@@ -2165,34 +2165,99 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "9cdcdcf656a8",
+      "title": "Australian PM announces intelligence review as country mourns Bondi attack",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5ydzl0nwqeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 21 Dec 2025 08:30:09 GMT",
+      "bullets": [
+        "• Prime Minister Anthony Albanese announces intelligence review as country mourns Bondi attack",
+        "• 15 people were killed after two gunmen opened fire at Jewish festival in Sydney",
+        "• Police say the attackers were inspired by \"Islamic State ideology\" A national day of reflection is being held on Sunday "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.974
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Prime Minister Anthony Albanese announces intelligence review as country mourns Bondi attack",
+          "• 15 people were killed after two gunmen opened fire at Jewish festival in Sydney"
+        ],
+        "hopeful_bullets": [
+          "• Prime Minister Anthony Albanese announces intelligence review as country mourns Bondi attack",
+          "• 15 people were killed after two gunmen opened fire at Jewish festival in Sydney"
+        ],
+        "stakes_bullets": [
+          "• Prime Minister Anthony Albanese announces intelligence review as country mourns Bondi attack"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "e9671433e481"
+    },
+    {
+      "id": "07bd2e5e1177",
+      "title": "Imran Khan and wife given further jail terms after state gift fraud case",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62vx2pgl0eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 21 Dec 2025 08:12:45 GMT",
+      "bullets": [
+        "• Imran Khan and wife given further jail terms after state gift fraud case",
+        "• Imran Khan given 10 years for criminal breach of trust and 7 years for misconduct",
+        "• They were convicted of breaking Pakistan's rules on gifts after receiving jewellery from Saudi Arabia",
+        "• Khan has described the charges as politically motivated "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Imran Khan and wife given further jail terms after state gift fraud case",
+          "• Imran Khan given 10 years for criminal breach of trust and 7 years for misconduct"
+        ],
+        "hopeful_bullets": [
+          "• Imran Khan and wife given further jail terms after state gift fraud case",
+          "• Imran Khan given 10 years for criminal breach of trust and 7 years for misconduct"
+        ],
+        "stakes_bullets": [
+          "• Imran Khan and wife given further jail terms after state gift fraud case",
+          "• Imran Khan given 10 years for criminal breach of trust and 7 years for misconduct",
+          "• They were convicted of breaking Pakistan's rules on gifts after receiving jewellery from Saudi Arabia"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d4cf8af9110a"
+    },
+    {
       "id": "46c8d5b0175b",
       "title": "It's Finally Official: Chainsaw Man Is Returning for Its New Anime Arc",
       "outlet": "CBR",
       "url": "https://www.cbr.com/chainsaw-man-international-assassins-anime-production-confirm/",
       "published_at": "Sun, 21 Dec 2025 07:55:28 GMT",
       "bullets": [
-        "• Chainsaw Man's next anime arc has officially been announced at Jump Festa 2026",
-        "• The anime is adapting the \"International Assassins\" arc",
-        "• The Reze Arc film's story followed directly from the end of Season 1",
-        "• A release window or release window has yet to be announced "
+        "• Chainsaw Man's next anime arc by studio MAPPA has officially been announced at Jump Festa 2026",
+        "• The anime will adapt the \"International Assassins\" arc, adapting the \"Reze Arc\" arc",
+        "• The Reze Arc film's story followed directly from the end of Season 1, telling the canonical story from Tatsuki Fujimoto "
       ],
       "category": "Comics",
       "sentiment": {
         "label": "positive",
-        "score": 0.965
+        "score": 0.995
       },
       "moods": {
         "brief_bullets": [
-          "• Chainsaw Man's next anime arc has officially been announced at Jump Festa 2026",
-          "• The anime is adapting the \"International Assassins\" arc"
+          "• Chainsaw Man's next anime arc by studio MAPPA has officially been announced at Jump Festa 2026",
+          "• The anime will adapt the \"International Assassins\" arc, adapting the \"Reze Arc\" arc"
         ],
         "hopeful_bullets": [
-          "• A release window or release window has yet to be announced "
+          "• Chainsaw Man's next anime arc by studio MAPPA has officially been announced at Jump Festa 2026",
+          "• The anime will adapt the \"International Assassins\" arc, adapting the \"Reze Arc\" arc"
         ],
         "stakes_bullets": [
-          "• Chainsaw Man's next anime arc has officially been announced at Jump Festa 2026",
-          "• The anime is adapting the \"International Assassins\" arc",
-          "• The Reze Arc film's story followed directly from the end of Season 1"
+          "• The anime will adapt the \"International Assassins\" arc, adapting the \"Reze Arc\" arc"
         ]
       },
       "read_minutes": 2,
@@ -2233,6 +2298,41 @@
       "cluster_id": "6764ee559e58"
     },
     {
+      "id": "7d15b017766c",
+      "title": "Survivors 'nervous and sceptical' about release of remaining Epstein files",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 21 Dec 2025 07:42:39 GMT",
+      "bullets": [
+        "• Survivors 'nervous and sceptical' about release of remaining Epstein files",
+        "• US department of justice releases thousands of pages of documents related to Jeffrey Epstein's abuse",
+        "• Lawmakers who pushed for documents to see the light of day described the DOJ's efforts as insincere",
+        "• Some legal experts say the redactions may only fuel ongoing conspiracy theories "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Survivors 'nervous and sceptical' about release of remaining Epstein files",
+          "• US department of justice releases thousands of pages of documents related to Jeffrey Epstein's abuse"
+        ],
+        "hopeful_bullets": [
+          "• Survivors 'nervous and sceptical' about release of remaining Epstein files",
+          "• US department of justice releases thousands of pages of documents related to Jeffrey Epstein's abuse"
+        ],
+        "stakes_bullets": [
+          "• Survivors 'nervous and sceptical' about release of remaining Epstein files",
+          "• US department of justice releases thousands of pages of documents related to Jeffrey Epstein's abuse",
+          "• Lawmakers who pushed for documents to see the light of day described the DOJ's efforts as insincere"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "e9aaaa669929"
+    },
+    {
       "id": "bd177058dfb5",
       "title": "Black Clover Anime Officially Returns With New Trailer Ahead of 2026 Release",
       "outlet": "CBR",
@@ -2266,37 +2366,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "bd4b8b97b12e"
-    },
-    {
-      "id": "9cdcdcf656a8",
-      "title": "Australian PM announces intelligence review as country mourns Bondi attack",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5ydzl0nwqeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 21 Dec 2025 06:41:49 GMT",
-      "bullets": [
-        "• Australian PM announces intelligence review as country mourns Bondi attack",
-        "• Police say attackers were inspired by \"Islamic State ideology\" A minute's silence will be held at 18:47 (07:47 GMT) for the victims of the attack "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.963
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Australian PM announces intelligence review as country mourns Bondi attack",
-          "• Police say attackers were inspired by \"Islamic State ideology\" A minute's silence will be held at 18:47 (07:47 GMT) for the victims of the attack "
-        ],
-        "hopeful_bullets": [
-          "• Australian PM announces intelligence review as country mourns Bondi attack",
-          "• Police say attackers were inspired by \"Islamic State ideology\" A minute's silence will be held at 18:47 (07:47 GMT) for the victims of the attack "
-        ],
-        "stakes_bullets": [
-          "• Police say attackers were inspired by \"Islamic State ideology\" A minute's silence will be held at 18:47 (07:47 GMT) for the victims of the attack "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e9671433e481"
     },
     {
       "id": "25b187c0bd67",
@@ -2499,38 +2568,6 @@
       "cluster_id": "63facba546fc"
     },
     {
-      "id": "7d15b017766c",
-      "title": "Survivors 'nervous and sceptical' about release of remaining Epstein files",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 21 Dec 2025 04:13:31 GMT",
-      "bullets": [
-        "• Thousands of pages of documents related to Jeffrey Epstein's crimes have been released",
-        "• Lawmakers who pushed for the release have described it as 'insincere' and 'incomplete' Some of the documents have been redactions, and others have not been shared publicly "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Thousands of pages of documents related to Jeffrey Epstein's crimes have been released",
-          "• Lawmakers who pushed for the release have described it as 'insincere' and 'incomplete' Some of the documents have been redactions, and others have not been shared publicly "
-        ],
-        "hopeful_bullets": [
-          "• Thousands of pages of documents related to Jeffrey Epstein's crimes have been released",
-          "• Lawmakers who pushed for the release have described it as 'insincere' and 'incomplete' Some of the documents have been redactions, and others have not been shared publicly "
-        ],
-        "stakes_bullets": [
-          "• Thousands of pages of documents related to Jeffrey Epstein's crimes have been released",
-          "• Lawmakers who pushed for the release have described it as 'insincere' and 'incomplete' Some of the documents have been redactions, and others have not been shared publicly "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "e9aaaa669929"
-    },
-    {
       "id": "3057fd752608",
       "title": "57 Years Later, One of Black Panther's Best Comic Quotes is Still Just as Powerful Today",
       "outlet": "CBR",
@@ -2595,6 +2632,39 @@
       },
       "read_minutes": 5,
       "cluster_id": "ab6433a6cfcc"
+    },
+    {
+      "id": "c531b55b6c81",
+      "title": "Russia says talks on US peace plan for Ukraine 'are proceeding constructively'",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/21/g-s1-103239/russia-says-talks-on-us-peace-plan-for-ukraine-are-proceeding-constructively",
+      "published_at": "Sun, 21 Dec 2025 03:20:28 -0500",
+      "bullets": [
+        "• Russia says peace talks on peace plan for Ukraine 'are proceeding constructively' The talks are part of the Trump administration's monthslong push for peace",
+        "• Ukraine's chief negotiator says much will depend on the U.S",
+        "• posture after discussions with Russia "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.732
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Russia says peace talks on peace plan for Ukraine 'are proceeding constructively' The talks are part of the Trump administration's monthslong push for peace",
+          "• Ukraine's chief negotiator says much will depend on the U.S"
+        ],
+        "hopeful_bullets": [
+          "• Russia says peace talks on peace plan for Ukraine 'are proceeding constructively' The talks are part of the Trump administration's monthslong push for peace",
+          "• Ukraine's chief negotiator says much will depend on the U.S"
+        ],
+        "stakes_bullets": [
+          "• Russia says peace talks on peace plan for Ukraine 'are proceeding constructively' The talks are part of the Trump administration's monthslong push for peace",
+          "• Ukraine's chief negotiator says much will depend on the U.S"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "7e60f6dbf0cd"
     },
     {
       "id": "1e5c57dc8dc5",
@@ -4563,41 +4633,6 @@
       "cluster_id": "f8e982801fcf"
     },
     {
-      "id": "07bd2e5e1177",
-      "title": "Imran Khan and wife given further jail terms after state gift fraud case",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62vx2pgl0eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 20 Dec 2025 10:32:21 GMT",
-      "bullets": [
-        "• Imran Khan and wife given further jail terms after state gift fraud case",
-        "• Imran Khan given 10 years for criminal breach of trust and 7 years for misconduct",
-        "• They were convicted of breaking Pakistan's rules on gifts after receiving jewellery from Saudi Arabia",
-        "• Khan has described the charges as politically motivated "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Imran Khan and wife given further jail terms after state gift fraud case",
-          "• Imran Khan given 10 years for criminal breach of trust and 7 years for misconduct"
-        ],
-        "hopeful_bullets": [
-          "• Imran Khan and wife given further jail terms after state gift fraud case",
-          "• Imran Khan given 10 years for criminal breach of trust and 7 years for misconduct"
-        ],
-        "stakes_bullets": [
-          "• Imran Khan and wife given further jail terms after state gift fraud case",
-          "• Imran Khan given 10 years for criminal breach of trust and 7 years for misconduct",
-          "• They were convicted of breaking Pakistan's rules on gifts after receiving jewellery from Saudi Arabia"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d4cf8af9110a"
-    },
-    {
       "id": "b6af586f1861",
       "title": "The Best Gifts for Sleep, as Tested by Our Team",
       "outlet": "WIRED",
@@ -5723,42 +5758,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "7969a021e9ef"
-    },
-    {
-      "id": "5ef77ed6c385",
-      "title": "U.S. launches strikes in Syria targeting Islamic State fighters after American deaths",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/19/g-s1-103194/u-s-launches-strikes-syria",
-      "published_at": "Fri, 19 Dec 2025 23:18:30 -0500",
-      "bullets": [
-        "• U.S",
-        "• launches strikes in Syria targeting Islamic State fighters and weapons sites",
-        "• The strikes are in retaliation for an ambush attack that killed two U.K",
-        "• troops and an American interpreter last week",
-        "• The new military operation comes even as the Trump administration has said it's looking to focus closer to home in the Western Hemisphere "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• launches strikes in Syria targeting Islamic State fighters and weapons sites"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• launches strikes in Syria targeting Islamic State fighters and weapons sites"
-        ],
-        "stakes_bullets": [
-          "• U.S",
-          "• launches strikes in Syria targeting Islamic State fighters and weapons sites",
-          "• The strikes are in retaliation for an ambush attack that killed two U.K"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "04774b54a851"
     },
     {
       "id": "38cf63901178",
@@ -9799,6 +9798,24 @@
       ]
     },
     {
+      "id": "7e60f6dbf0cd",
+      "topic": "peace plan proceeding russia",
+      "keywords": [
+        "peace",
+        "plan",
+        "proceeding",
+        "russia",
+        "talk",
+        "ukraine"
+      ],
+      "item_ids": [
+        "c531b55b6c81"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "1ccebad172b9",
       "topic": "apple avoid google tell",
       "keywords": [
@@ -9955,24 +9972,6 @@
       ],
       "item_ids": [
         "e944aba99159"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "04774b54a851",
-      "topic": "islamic launche state strike",
-      "keywords": [
-        "islamic",
-        "launche",
-        "state",
-        "strike",
-        "syria",
-        "targeting"
-      ],
-      "item_ids": [
-        "5ef77ed6c385"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10907,24 +10906,6 @@
       ]
     },
     {
-      "id": "a6e35bfde9a6",
-      "topic": "bird dropping ended holiday",
-      "keywords": [
-        "bird",
-        "dropping",
-        "ended",
-        "holiday",
-        "kisse",
-        "under"
-      ],
-      "item_ids": [
-        "887c9b0f612e"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "43bbb6302f3a",
       "topic": "acros build nuclear reactor",
       "keywords": [
@@ -10937,6 +10918,24 @@
       ],
       "item_ids": [
         "b90342b2ae45"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "a6e35bfde9a6",
+      "topic": "bird dropping ended holiday",
+      "keywords": [
+        "bird",
+        "dropping",
+        "ended",
+        "holiday",
+        "kisse",
+        "under"
+      ],
+      "item_ids": [
+        "887c9b0f612e"
       ],
       "outlets": [
         "NPR Topics: Science"
