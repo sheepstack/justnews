@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-21T14:06:56Z",
+  "generated_at": "2025-12-21T14:58:56Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -232,37 +232,6 @@
       "cluster_id": "af6953ceb98d"
     },
     {
-      "id": "887c9b0f612e",
-      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "hopeful_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "stakes_bullets": [
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a6e35bfde9a6"
-    },
-    {
       "id": "b90342b2ae45",
       "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
       "outlet": "NPR Topics: Science",
@@ -293,6 +262,37 @@
       },
       "read_minutes": 10,
       "cluster_id": "43bbb6302f3a"
+    },
+    {
+      "id": "887c9b0f612e",
+      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "hopeful_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "stakes_bullets": [
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6e35bfde9a6"
     },
     {
       "id": "40d030e37f88",
@@ -824,40 +824,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "646e29d1164d"
-    },
-    {
-      "id": "029e1c0d559b",
-      "title": "South Africa in talks with Russia over men ‘tricked’ into fighting in Ukraine",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2025/dec/16/south-africa-russia-men-tricked-fighting-ukraine",
-      "published_at": "Tue, 16 Dec 2025 09:08:39 GMT",
-      "bullets": [
-        "• South Africa’s government is in talks with Russia to bring the men back to South Africa",
-        "• The men were lured to Russia by the daughter of former South African president Jacob Zuma",
-        "• Zuma-Suma has been accused of luring the men to Russia in July "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.834
-      },
-      "moods": {
-        "brief_bullets": [
-          "• South Africa’s government is in talks with Russia to bring the men back to South Africa",
-          "• The men were lured to Russia by the daughter of former South African president Jacob Zuma"
-        ],
-        "hopeful_bullets": [
-          "• South Africa’s government is in talks with Russia to bring the men back to South Africa",
-          "• The men were lured to Russia by the daughter of former South African president Jacob Zuma"
-        ],
-        "stakes_bullets": [
-          "• South Africa’s government is in talks with Russia to bring the men back to South Africa",
-          "• The men were lured to Russia by the daughter of former South African president Jacob Zuma",
-          "• Zuma-Suma has been accused of luring the men to Russia in July "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "60f73e0d5999"
     },
     {
       "id": "65e88e7e3350",
@@ -2036,6 +2002,73 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
+      "id": "bcfcf3f07221",
+      "title": "To lower crypto investment risk, the market is starting to diversify its digital asset bets",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/21/crypto-investment-risk-market-diversification.html",
+      "published_at": "Sun, 21 Dec 2025 14:26:08 GMT",
+      "bullets": [
+        "• Bitcoin has been a wild ride, with several sharp drops from $100,000 to $200,000",
+        "• Some investors are telling investors to hold as much as 40% of their portfolio in the volatile asset class",
+        "• But for most investors, there is a strong case to be made for crypto remaining only a modest part of a broadly diversified portfolio "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.874
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Bitcoin has been a wild ride, with several sharp drops from $100,000 to $200,000",
+          "• Some investors are telling investors to hold as much as 40% of their portfolio in the volatile asset class"
+        ],
+        "hopeful_bullets": [
+          "• But for most investors, there is a strong case to be made for crypto remaining only a modest part of a broadly diversified portfolio "
+        ],
+        "stakes_bullets": [
+          "• Bitcoin has been a wild ride, with several sharp drops from $100,000 to $200,000",
+          "• Some investors are telling investors to hold as much as 40% of their portfolio in the volatile asset class",
+          "• But for most investors, there is a strong case to be made for crypto remaining only a modest part of a broadly diversified portfolio "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "32665a1b8de8"
+    },
+    {
+      "id": "f623a3bd9dbb",
+      "title": "10 Harsh Realities of Watching Chainsaw Man: Reze Arc Before the Anime",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/chainsaw-man-reze-arc-harsh-realities-anime-movie-tv-series/",
+      "published_at": "Sun, 21 Dec 2025 14:20:12 GMT",
+      "bullets": [
+        "• The first season of Chainsaw Man, released in 2022, was already a massive hit",
+        "• The Reze Arc film picks up right where the series left off – with Denji’s promised movie date with Makima",
+        "• For first-time viewers, the movie's beginning might feel quite confusing "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The first season of Chainsaw Man, released in 2022, was already a massive hit",
+          "• The Reze Arc film picks up right where the series left off – with Denji’s promised movie date with Makima"
+        ],
+        "hopeful_bullets": [
+          "• The first season of Chainsaw Man, released in 2022, was already a massive hit",
+          "• The Reze Arc film picks up right where the series left off – with Denji’s promised movie date with Makima"
+        ],
+        "stakes_bullets": [
+          "• The first season of Chainsaw Man, released in 2022, was already a massive hit",
+          "• The Reze Arc film picks up right where the series left off – with Denji’s promised movie date with Makima",
+          "• For first-time viewers, the movie's beginning might feel quite confusing "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "334375f1012a"
+    },
+    {
       "id": "8d290720f824",
       "title": "Viggo Mortensen's Appaloosa Is Now Streaming for Free",
       "outlet": "CBR",
@@ -2133,6 +2166,73 @@
       },
       "read_minutes": 6,
       "cluster_id": "d0705eaeab8d"
+    },
+    {
+      "id": "0eef662a73f4",
+      "title": "Sweden and Germany slash aid budgets to focus on Ukraine and defence spending",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/global-development/2025/dec/21/sweden-and-germany-slash-aid-budgets-to-focus-on-ukraine-and-defence-spending",
+      "published_at": "Sun, 21 Dec 2025 14:00:05 GMT",
+      "bullets": [
+        "• Sweden announced 10bn kronor (£800m) cut in development funding to Mozambique, Zimbabwe, Liberia, Tanzania and Bolivia",
+        "• Germany’s humanitarian budget of €1.05bn (£920m) for 2026 will be less than half of last year’�s",
+        "• The UK also announced earlier this year that it would be cutting aid to fund defence spending "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Sweden announced 10bn kronor (£800m) cut in development funding to Mozambique, Zimbabwe, Liberia, Tanzania and Bolivia",
+          "• Germany’s humanitarian budget of €1.05bn (£920m) for 2026 will be less than half of last year’�s"
+        ],
+        "hopeful_bullets": [
+          "• Sweden announced 10bn kronor (£800m) cut in development funding to Mozambique, Zimbabwe, Liberia, Tanzania and Bolivia",
+          "• Germany’s humanitarian budget of €1.05bn (£920m) for 2026 will be less than half of last year’�s"
+        ],
+        "stakes_bullets": [
+          "• Sweden announced 10bn kronor (£800m) cut in development funding to Mozambique, Zimbabwe, Liberia, Tanzania and Bolivia",
+          "• Germany’s humanitarian budget of €1.05bn (£920m) for 2026 will be less than half of last year’�s",
+          "• The UK also announced earlier this year that it would be cutting aid to fund defence spending "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "60ec51a4a4cd"
+    },
+    {
+      "id": "0f55e54f8d10",
+      "title": "Trump does presidency via Truth Social – what are Americans missing out on?",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/21/trump-truth-social-presidency-use",
+      "published_at": "Sun, 21 Dec 2025 14:00:04 GMT",
+      "bullets": [
+        "• Just 3% of people in the US use Truth Social, a company owned by Donald Trump",
+        "• Trump has used the platform to announce policies on everything from the economy to travel bans",
+        "• Americans could be missing out on understanding Trump’s mental state and performance in office "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Just 3% of people in the US use Truth Social, a company owned by Donald Trump",
+          "• Trump has used the platform to announce policies on everything from the economy to travel bans"
+        ],
+        "hopeful_bullets": [
+          "• Just 3% of people in the US use Truth Social, a company owned by Donald Trump",
+          "• Trump has used the platform to announce policies on everything from the economy to travel bans"
+        ],
+        "stakes_bullets": [
+          "• Trump has used the platform to announce policies on everything from the economy to travel bans",
+          "• Americans could be missing out on understanding Trump’s mental state and performance in office "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "73bfb832442b"
     },
     {
       "id": "c2ae8abaeb18",
@@ -2859,39 +2959,6 @@
       "cluster_id": "fe50c3c1feb8"
     },
     {
-      "id": "57d10f96c473",
-      "title": "AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html",
-      "published_at": "Sun, 21 Dec 2025 08:10:42 GMT",
-      "bullets": [
-        "• AI was responsible for almost 55,000 U.S",
-        "• job cuts this year, according to Challenger, Gray & Christmas",
-        "• There were in total 1.17 million job cuts through 2025, the highest level since the Covid-19 pandemic in 2020 when there were 2.2 million layoffs "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.952
-      },
-      "moods": {
-        "brief_bullets": [
-          "• AI was responsible for almost 55,000 U.S",
-          "• job cuts this year, according to Challenger, Gray & Christmas"
-        ],
-        "hopeful_bullets": [
-          "• AI was responsible for almost 55,000 U.S",
-          "• job cuts this year, according to Challenger, Gray & Christmas"
-        ],
-        "stakes_bullets": [
-          "• job cuts this year, according to Challenger, Gray & Christmas",
-          "• There were in total 1.17 million job cuts through 2025, the highest level since the Covid-19 pandemic in 2020 when there were 2.2 million layoffs "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "063b3a1aa551"
-    },
-    {
       "id": "46c8d5b0175b",
       "title": "It's Finally Official: Chainsaw Man Is Returning for Its New Anime Arc",
       "outlet": "CBR",
@@ -3224,38 +3291,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "c0f5f0a09adf"
-    },
-    {
-      "id": "cfd1933d41f0",
-      "title": "Amazing Spider-Man Shows Norman Osborn and Ben Reilly How Hard It Is to Live up to Peter Parker’s Example",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/spider-man-peter-parker-hard-example-follow/",
-      "published_at": "Sun, 21 Dec 2025 04:58:00 GMT",
-      "bullets": [
-        "• Spider-Man #16 is from writer Joe Kelly, penciler John Romita Jr., inker Scott Hanna, colorist Marcio Menyz, and letterer Joe Caramagna",
-        "• It continues the current plotline of the series, where Peter Parker has been sent into outer space by a mysterious new villain, Hellgate "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.966
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Spider-Man #16 is from writer Joe Kelly, penciler John Romita Jr., inker Scott Hanna, colorist Marcio Menyz, and letterer Joe Caramagna",
-          "• It continues the current plotline of the series, where Peter Parker has been sent into outer space by a mysterious new villain, Hellgate "
-        ],
-        "hopeful_bullets": [
-          "• Spider-Man #16 is from writer Joe Kelly, penciler John Romita Jr., inker Scott Hanna, colorist Marcio Menyz, and letterer Joe Caramagna",
-          "• It continues the current plotline of the series, where Peter Parker has been sent into outer space by a mysterious new villain, Hellgate "
-        ],
-        "stakes_bullets": [
-          "• Spider-Man #16 is from writer Joe Kelly, penciler John Romita Jr., inker Scott Hanna, colorist Marcio Menyz, and letterer Joe Caramagna",
-          "• It continues the current plotline of the series, where Peter Parker has been sent into outer space by a mysterious new villain, Hellgate "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "f19b6836f6ac"
     },
     {
       "id": "c531b55b6c81",
@@ -4099,34 +4134,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "f80d53ce077c"
-    },
-    {
-      "id": "306b509835bc",
-      "title": "‘Am I Next?’ protest art in downtown LA boldly asks who’s safe from ICE",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/20/los-angeles-public-art-trump-ice-raids",
-      "published_at": "Sat, 20 Dec 2025 17:00:35 GMT",
-      "bullets": [
-        "• Each evening, drivers on the busy 101 freeway in downtown Los Angeles pass billboard-size portraits of Angelenos that flash across the side of a building with a simple message: Am I Next? The striking black and white images began appearing on 6 November on the facades of the downtown buildings of the California Community Foundation, LA Plaza Cultura y Artes and the Japanese American National Museum "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Each evening, drivers on the busy 101 freeway in downtown Los Angeles pass billboard-size portraits of Angelenos that flash across the side of a building with a simple message: Am I Next? The striking black and white images began appearing on 6 November on the facades of the downtown buildings of the California Community Foundation, LA Plaza Cultura y Artes and the Japanese American National Museum "
-        ],
-        "hopeful_bullets": [
-          "• Each evening, drivers on the busy 101 freeway in downtown Los Angeles pass billboard-size portraits of Angelenos that flash across the side of a building with a simple message: Am I Next? The striking black and white images began appearing on 6 November on the facades of the downtown buildings of the California Community Foundation, LA Plaza Cultura y Artes and the Japanese American National Museum "
-        ],
-        "stakes_bullets": [
-          "• Each evening, drivers on the busy 101 freeway in downtown Los Angeles pass billboard-size portraits of Angelenos that flash across the side of a building with a simple message: Am I Next? The striking black and white images began appearing on 6 November on the facades of the downtown buildings of the California Community Foundation, LA Plaza Cultura y Artes and the Japanese American National Museum "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "f9a37925778e"
     },
     {
       "id": "0af01a419800",
@@ -8208,6 +8215,105 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "7c82b822d856",
+      "title": "Job killer",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/entertainment/847424/park-chan-wook-no-other-choice-interview",
+      "published_at": "2025-12-21T09:30:00-05:00",
+      "bullets": [
+        "• Park Chan-wook’s 12th feature-length movie, No Other Choice, begins with Man-su (Lee Byung-hun) as a proud patriarch at the barbecue, a vision of the platonic ideal domestic life he will spend most of the movie defending",
+        "• Adapted from Donald Westlake's novel The Ax, it captures the perpetual and unsolvable anxiety of living under an economic system built around extracting surplus value from its workers "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Park Chan-wook’s 12th feature-length movie, No Other Choice, begins with Man-su (Lee Byung-hun) as a proud patriarch at the barbecue, a vision of the platonic ideal domestic life he will spend most of the movie defending",
+          "• Adapted from Donald Westlake's novel The Ax, it captures the perpetual and unsolvable anxiety of living under an economic system built around extracting surplus value from its workers "
+        ],
+        "hopeful_bullets": [
+          "• Park Chan-wook’s 12th feature-length movie, No Other Choice, begins with Man-su (Lee Byung-hun) as a proud patriarch at the barbecue, a vision of the platonic ideal domestic life he will spend most of the movie defending",
+          "• Adapted from Donald Westlake's novel The Ax, it captures the perpetual and unsolvable anxiety of living under an economic system built around extracting surplus value from its workers "
+        ],
+        "stakes_bullets": [
+          "• Park Chan-wook’s 12th feature-length movie, No Other Choice, begins with Man-su (Lee Byung-hun) as a proud patriarch at the barbecue, a vision of the platonic ideal domestic life he will spend most of the movie defending"
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "3c70d70ab0bb"
+    },
+    {
+      "id": "96b64c65d93b",
+      "title": "The best thing I bought this year: The Nintendo Switch 2",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/gadgets/845477/nintendo-switch-2-game-system-favorite",
+      "published_at": "2025-12-21T09:00:00-05:00",
+      "bullets": [
+        "• Rumors of an allegedly-real-but-never-released Switch Pro swirled around for years",
+        "• The Nintendo Switch 2’s core strength for me boils down to it being a better version of the original Switch",
+        "• The only native Switch 2 game I’ve played so far is Mario Kart World, which I picked up as part of a bundle "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rumors of an allegedly-real-but-never-released Switch Pro swirled around for years",
+          "• The Nintendo Switch 2’s core strength for me boils down to it being a better version of the original Switch"
+        ],
+        "hopeful_bullets": [
+          "• Rumors of an allegedly-real-but-never-released Switch Pro swirled around for years",
+          "• The Nintendo Switch 2’s core strength for me boils down to it being a better version of the original Switch"
+        ],
+        "stakes_bullets": [
+          "• Rumors of an allegedly-real-but-never-released Switch Pro swirled around for years",
+          "• The Nintendo Switch 2’s core strength for me boils down to it being a better version of the original Switch",
+          "• The only native Switch 2 game I’ve played so far is Mario Kart World, which I picked up as part of a bundle "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "031320502271"
+    },
+    {
+      "id": "3fe503b26d9c",
+      "title": "How AIM taught the internet to chat",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/podcast/848744/aim-aol-instant-messenger-version-history",
+      "published_at": "2025-12-21T08:58:36-05:00",
+      "bullets": [
+        "• AIM was, for a time, the most important chat app on the internet",
+        "• It barely managed to continue to exist, but became an internet icon anyway",
+        "• The app was created by a team that wanted to keep it as the all-powerful walled garden "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• AIM was, for a time, the most important chat app on the internet",
+          "• It barely managed to continue to exist, but became an internet icon anyway"
+        ],
+        "hopeful_bullets": [
+          "• AIM was, for a time, the most important chat app on the internet",
+          "• It barely managed to continue to exist, but became an internet icon anyway"
+        ],
+        "stakes_bullets": [
+          "• AIM was, for a time, the most important chat app on the internet",
+          "• It barely managed to continue to exist, but became an internet icon anyway",
+          "• The app was created by a team that wanted to keep it as the all-powerful walled garden "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ddf57063aae4"
+    },
+    {
       "id": "3cdc8e3395b8",
       "title": "2025: a year in art on The Verge",
       "outlet": "The Verge",
@@ -8436,105 +8542,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "1a7f9dde9d5a"
-    },
-    {
-      "id": "b2286fb95374",
-      "title": "Dogpile&#8217;s puzzles mix Balatro, Tetris, and a pile of puppies",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/entertainment/848041/dogpile-review-inde-game-steam-balatro-puppies",
-      "published_at": "2025-12-20T09:00:00-05:00",
-      "bullets": [
-        "• Dogpile is a deckbuilding match-3 roguelike that builds on the style of merge games like Suika Game",
-        "• Drop matching dogs on top of each other to create bigger dogs that reward you with points to unlock higher levels",
-        "• The dogs themselves are cute, contorted into fun, confounding shapes that sometimes show off a butthole or two "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Dogpile is a deckbuilding match-3 roguelike that builds on the style of merge games like Suika Game",
-          "• Drop matching dogs on top of each other to create bigger dogs that reward you with points to unlock higher levels"
-        ],
-        "hopeful_bullets": [
-          "• Dogpile is a deckbuilding match-3 roguelike that builds on the style of merge games like Suika Game",
-          "• Drop matching dogs on top of each other to create bigger dogs that reward you with points to unlock higher levels"
-        ],
-        "stakes_bullets": [
-          "• The dogs themselves are cute, contorted into fun, confounding shapes that sometimes show off a butthole or two "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5daebd83e72c"
-    },
-    {
-      "id": "822ede165ec2",
-      "title": "You can buy your Xbox Ally an official pair of anti-drift joysticks",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/games/848568/xbox-ally-gulikit-tmr-joysticks",
-      "published_at": "2025-12-20T09:00:00-05:00",
-      "bullets": [
-        "• The Xbox Ally X handheld didn’t ship with magnetic drift-resistant joysticks",
-        "• But for an extra $20 at Amazon, you can buy an official pair of anti-drift joysticks from Gulikit",
-        "• The company says it worked with Xbox Ally manufacturer Asus to create these sticks",
-        "• The sticks will be “automatically recognized” when you swap them in "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.981
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Xbox Ally X handheld didn’t ship with magnetic drift-resistant joysticks",
-          "• But for an extra $20 at Amazon, you can buy an official pair of anti-drift joysticks from Gulikit"
-        ],
-        "hopeful_bullets": [
-          "• The Xbox Ally X handheld didn’t ship with magnetic drift-resistant joysticks",
-          "• But for an extra $20 at Amazon, you can buy an official pair of anti-drift joysticks from Gulikit"
-        ],
-        "stakes_bullets": [
-          "• The sticks will be “automatically recognized” when you swap them in "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "deccc39d3f94"
-    },
-    {
-      "id": "65d9de13440d",
-      "title": "‘Friend slop’ made co-op gaming goofier than ever in 2025",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/entertainment/845347/friend-slop-co-op-games-2025",
-      "published_at": "2025-12-20T08:30:00-05:00",
-      "bullets": [
-        "• Low-cost indie titles took over co-op gaming this year, and they’re embracing their ‘slop’ label",
-        "• The term usually refers to indie games that are best experienced with friends and have an emphasis on humor",
-        "• Some lighthearted flavors of ‘friend slop” popped up this year "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.98
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Low-cost indie titles took over co-op gaming this year, and they’re embracing their ‘slop’ label",
-          "• The term usually refers to indie games that are best experienced with friends and have an emphasis on humor"
-        ],
-        "hopeful_bullets": [
-          "• Low-cost indie titles took over co-op gaming this year, and they’re embracing their ‘slop’ label",
-          "• The term usually refers to indie games that are best experienced with friends and have an emphasis on humor"
-        ],
-        "stakes_bullets": [
-          "• Low-cost indie titles took over co-op gaming this year, and they’re embracing their ‘slop’ label",
-          "• The term usually refers to indie games that are best experienced with friends and have an emphasis on humor",
-          "• Some lighthearted flavors of ‘friend slop” popped up this year "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "15e65d9236e4"
     },
     {
       "id": "c41ff758b36a",
@@ -9178,6 +9185,24 @@
       ]
     },
     {
+      "id": "60ec51a4a4cd",
+      "topic": "aid budget focu germany",
+      "keywords": [
+        "aid",
+        "budget",
+        "focu",
+        "germany",
+        "slash",
+        "sweden"
+      ],
+      "item_ids": [
+        "0eef662a73f4"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "199336ed61d0",
       "topic": "africa called hepatiti plan",
       "keywords": [
@@ -9244,24 +9269,6 @@
       ],
       "item_ids": [
         "3e28bad60119"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "60f73e0d5999",
-      "topic": "africa men russia south",
-      "keywords": [
-        "africa",
-        "men",
-        "russia",
-        "south",
-        "talk",
-        "tricked"
-      ],
-      "item_ids": [
-        "029e1c0d559b"
       ],
       "outlets": [
         "World news | The Guardian"
@@ -9355,6 +9362,24 @@
       ],
       "outlets": [
         "World news | The Guardian"
+      ]
+    },
+    {
+      "id": "73bfb832442b",
+      "topic": "does presidency social trump",
+      "keywords": [
+        "does",
+        "presidency",
+        "social",
+        "trump",
+        "truth",
+        "via"
+      ],
+      "item_ids": [
+        "0f55e54f8d10"
+      ],
+      "outlets": [
+        "US news | The Guardian"
       ]
     },
     {
@@ -9478,24 +9503,6 @@
       ],
       "item_ids": [
         "f1411918f516"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "f9a37925778e",
-      "topic": "art asks boldly downtown",
-      "keywords": [
-        "art",
-        "asks",
-        "boldly",
-        "downtown",
-        "next",
-        "protest"
-      ],
-      "item_ids": [
-        "306b509835bc"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9700,18 +9707,18 @@
       ]
     },
     {
-      "id": "063b3a1aa551",
-      "topic": "000 2025 behind here",
+      "id": "41b050127611",
+      "topic": "console losing mile part",
       "keywords": [
-        "000",
-        "2025",
-        "behind",
-        "here",
-        "layoff",
-        "top"
+        "console",
+        "losing",
+        "mile",
+        "part",
+        "race",
+        "xbox"
       ],
       "item_ids": [
-        "57d10f96c473"
+        "c01a35e31bbb"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9736,18 +9743,18 @@
       ]
     },
     {
-      "id": "41b050127611",
-      "topic": "console losing mile part",
+      "id": "32665a1b8de8",
+      "topic": "crypto investment lower market",
       "keywords": [
-        "console",
-        "losing",
-        "mile",
-        "part",
-        "race",
-        "xbox"
+        "crypto",
+        "investment",
+        "lower",
+        "market",
+        "risk",
+        "starting"
       ],
       "item_ids": [
-        "c01a35e31bbb"
+        "bcfcf3f07221"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10057,6 +10064,54 @@
       ]
     },
     {
+      "id": "3c70d70ab0bb",
+      "topic": "job killer",
+      "keywords": [
+        "job",
+        "killer"
+      ],
+      "item_ids": [
+        "7c82b822d856"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "031320502271",
+      "topic": "best bought nintendo switch",
+      "keywords": [
+        "best",
+        "bought",
+        "nintendo",
+        "switch",
+        "thing",
+        "year"
+      ],
+      "item_ids": [
+        "96b64c65d93b"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
+      "id": "ddf57063aae4",
+      "topic": "aim chat internet taught",
+      "keywords": [
+        "aim",
+        "chat",
+        "internet",
+        "taught"
+      ],
+      "item_ids": [
+        "3fe503b26d9c"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "03407623ce2e",
       "topic": "2025 art verge year",
       "keywords": [
@@ -10167,60 +10222,6 @@
       ],
       "item_ids": [
         "0538a982b7fd"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "5daebd83e72c",
-      "topic": "8217 balatro dogpile mix",
-      "keywords": [
-        "8217",
-        "balatro",
-        "dogpile",
-        "mix",
-        "puzzle",
-        "tetri"
-      ],
-      "item_ids": [
-        "b2286fb95374"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "deccc39d3f94",
-      "topic": "ally anti buy official",
-      "keywords": [
-        "ally",
-        "anti",
-        "buy",
-        "official",
-        "pair",
-        "xbox"
-      ],
-      "item_ids": [
-        "822ede165ec2"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "15e65d9236e4",
-      "topic": "ever friend gaming goofier",
-      "keywords": [
-        "ever",
-        "friend",
-        "gaming",
-        "goofier",
-        "made",
-        "slop"
-      ],
-      "item_ids": [
-        "65d9de13440d"
       ],
       "outlets": [
         "The Verge"
@@ -10622,24 +10623,6 @@
       ]
     },
     {
-      "id": "a6e35bfde9a6",
-      "topic": "bird dropping ended holiday",
-      "keywords": [
-        "bird",
-        "dropping",
-        "ended",
-        "holiday",
-        "kisse",
-        "under"
-      ],
-      "item_ids": [
-        "887c9b0f612e"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "43bbb6302f3a",
       "topic": "acros build nuclear reactor",
       "keywords": [
@@ -10652,6 +10635,24 @@
       ],
       "item_ids": [
         "b90342b2ae45"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "a6e35bfde9a6",
+      "topic": "bird dropping ended holiday",
+      "keywords": [
+        "bird",
+        "dropping",
+        "ended",
+        "holiday",
+        "kisse",
+        "under"
+      ],
+      "item_ids": [
+        "887c9b0f612e"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -12963,6 +12964,24 @@
       ]
     },
     {
+      "id": "334375f1012a",
+      "topic": "chainsaw harsh man realitie",
+      "keywords": [
+        "chainsaw",
+        "harsh",
+        "man",
+        "realitie",
+        "reze",
+        "watching"
+      ],
+      "item_ids": [
+        "f623a3bd9dbb"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "95d650ebf3bc",
       "topic": "appaloosa free mortensen now",
       "keywords": [
@@ -13119,24 +13138,6 @@
       ],
       "item_ids": [
         "25b187c0bd67"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "f19b6836f6ac",
-      "topic": "amazing man norman osborn",
-      "keywords": [
-        "amazing",
-        "man",
-        "norman",
-        "osborn",
-        "show",
-        "spider"
-      ],
-      "item_ids": [
-        "cfd1933d41f0"
       ],
       "outlets": [
         "CBR"
