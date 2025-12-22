@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T02:54:06Z",
+  "generated_at": "2025-12-22T04:28:40Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -2300,6 +2300,40 @@
       "cluster_id": "af0c1cfa02c8"
     },
     {
+      "id": "cc648ea0219c",
+      "title": "Rick Steves steps in to save Seattle-area hygiene center serving homeless residents",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/21/nx-s1-5651294/rick-steves-saves-homeless-seattle-area-hygiene-center",
+      "published_at": "Sun, 21 Dec 2025 21:34:51 -0500",
+      "bullets": [
+        "• Rick Steves steps in to save Seattle-area hygiene center serving homeless residents",
+        "• The Lynnwood Hygiene Center had operated rent-free on the property since 2020",
+        "• Steves said he learned about the center's impending closure by reading about it in a local newspaper "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.957
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Rick Steves steps in to save Seattle-area hygiene center serving homeless residents",
+          "• The Lynnwood Hygiene Center had operated rent-free on the property since 2020"
+        ],
+        "hopeful_bullets": [
+          "• Rick Steves steps in to save Seattle-area hygiene center serving homeless residents",
+          "• The Lynnwood Hygiene Center had operated rent-free on the property since 2020"
+        ],
+        "stakes_bullets": [
+          "• Rick Steves steps in to save Seattle-area hygiene center serving homeless residents",
+          "• The Lynnwood Hygiene Center had operated rent-free on the property since 2020",
+          "• Steves said he learned about the center's impending closure by reading about it in a local newspaper "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "8c7416aa6932"
+    },
+    {
       "id": "99d7b44c2a26",
       "title": "Gripes and infighting on display as Maga stars gather at Turning Point conference",
       "outlet": "US news | The Guardian",
@@ -2399,38 +2433,6 @@
       "cluster_id": "0d7358034404"
     },
     {
-      "id": "99322e7632e2",
-      "title": "Mass power outages affect 130,000 in San Francisco and disrupt traffic",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/21/power-outages-san-francisco-traffic-waymo-taxis-traffic",
-      "published_at": "Sun, 21 Dec 2025 20:20:49 GMT",
-      "bullets": [
-        "• A widespread power failure in San Francisco caused chaos on Saturday night",
-        "• Autonomous Waymo vehicles were unable to drive in the middle of streets and intersections",
-        "• By Saturday evening, about 30% of PG&E customers in the city were without power "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• A widespread power failure in San Francisco caused chaos on Saturday night",
-          "• Autonomous Waymo vehicles were unable to drive in the middle of streets and intersections"
-        ],
-        "hopeful_bullets": [
-          "• A widespread power failure in San Francisco caused chaos on Saturday night",
-          "• Autonomous Waymo vehicles were unable to drive in the middle of streets and intersections"
-        ],
-        "stakes_bullets": [
-          "• A widespread power failure in San Francisco caused chaos on Saturday night"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e910a901bbb1"
-    },
-    {
       "id": "5a06db9c1684",
       "title": "Another 130 kidnapped schoolchildren released in Nigeria",
       "outlet": "World news | The Guardian",
@@ -2460,7 +2462,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "46f109bf445c"
+      "cluster_id": "5dc3bad217ca"
     },
     {
       "id": "a587dfc108ed",
@@ -3294,27 +3296,25 @@
       "url": "https://www.npr.org/2025/12/21/nx-s1-5648546/cartagena-horses-colombia-animal-welfare",
       "published_at": "Sun, 21 Dec 2025 09:48:01 -0500",
       "bullets": [
-        "• Cartagena, Colombia, is one of the most popular tourist destinations in the world",
-        "• The city wants to replace horse carriages with electric vehicles due to concerns over animal welfare",
+        "• Cartagena's iconic horse carriages will be replaced by electric vehicles",
+        "• The city is famous for the horse-drawn buggies that carry tourists through its streets",
         "• The move has angered horse cart owners and traditionalists, pitting them against animal rights activists "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.924
+        "score": 0.985
       },
       "moods": {
         "brief_bullets": [
-          "• Cartagena, Colombia, is one of the most popular tourist destinations in the world",
-          "• The city wants to replace horse carriages with electric vehicles due to concerns over animal welfare"
+          "• Cartagena's iconic horse carriages will be replaced by electric vehicles",
+          "• The city is famous for the horse-drawn buggies that carry tourists through its streets"
         ],
         "hopeful_bullets": [
           "• The move has angered horse cart owners and traditionalists, pitting them against animal rights activists "
         ],
         "stakes_bullets": [
-          "• Cartagena, Colombia, is one of the most popular tourist destinations in the world",
-          "• The city wants to replace horse carriages with electric vehicles due to concerns over animal welfare",
-          "• The move has angered horse cart owners and traditionalists, pitting them against animal rights activists "
+          "• Cartagena's iconic horse carriages will be replaced by electric vehicles"
         ]
       },
       "read_minutes": 4,
@@ -3622,7 +3622,7 @@
     {
       "id": "277e383001fd",
       "title": "'Congress is in a coma.' Former lawmakers sound alarm on health of the House",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2025/12/21/g-s1-101741/congress-is-in-a-coma-former-lawmakers-sound-alarm-on-health-of-the-house",
       "published_at": "Sun, 21 Dec 2025 05:00:00 -0500",
       "bullets": [
@@ -3630,7 +3630,7 @@
         "• Former members of Congress say low morale is a sign that Congress is in trouble",
         "• \"It's hard to tell that it's even as an institution,\" says one former member of Congress "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.999
@@ -3788,40 +3788,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "ec0e909f862d"
-    },
-    {
-      "id": "c3be8485b445",
-      "title": "Comedian Bowen Yang announces Saturday Night Live exit",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyz01l98vjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sun, 21 Dec 2025 00:30:34 GMT",
-      "bullets": [
-        "• Comedian Bowen Yang is leaving the cast of Saturday Night Live",
-        "• The 35-year-old is the first Chinese-American staff actor in the programme's history",
-        "• Yang declined to share the reason for his departure, but said he is 'grateful for every minute of my time'"
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.977
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Comedian Bowen Yang is leaving the cast of Saturday Night Live",
-          "• The 35-year-old is the first Chinese-American staff actor in the programme's history"
-        ],
-        "hopeful_bullets": [
-          "• Comedian Bowen Yang is leaving the cast of Saturday Night Live",
-          "• The 35-year-old is the first Chinese-American staff actor in the programme's history"
-        ],
-        "stakes_bullets": [
-          "• Comedian Bowen Yang is leaving the cast of Saturday Night Live",
-          "• The 35-year-old is the first Chinese-American staff actor in the programme's history",
-          "• Yang declined to share the reason for his departure, but said he is 'grateful for every minute of my time'"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0c5ce0183e57"
     },
     {
       "id": "eb57e9ca09a9",
@@ -5424,6 +5390,300 @@
       "cluster_id": "9c2a1e3cb2fd"
     },
     {
+      "id": "018114ae647d",
+      "title": "The Biggest Gaming Stories of 2025",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/biggest-gaming-stories-2025-clair-obscur-gen-ai/",
+      "published_at": "Mon, 22 Dec 2025 04:15:12 GMT",
+      "bullets": [
+        "• The biggest gaming stories of 2025 have set the stage for the games industry in 2026",
+        "• Call of Duty: Black Ops 7 has seemingly flopped",
+        "• The franchise has been on shaky ground for some time now, but it was seemingly outsold by Battlefield 6 "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The biggest gaming stories of 2025 have set the stage for the games industry in 2026",
+          "• Call of Duty: Black Ops 7 has seemingly flopped"
+        ],
+        "hopeful_bullets": [
+          "• The biggest gaming stories of 2025 have set the stage for the games industry in 2026",
+          "• Call of Duty: Black Ops 7 has seemingly flopped"
+        ],
+        "stakes_bullets": [
+          "• The biggest gaming stories of 2025 have set the stage for the games industry in 2026",
+          "• Call of Duty: Black Ops 7 has seemingly flopped",
+          "• The franchise has been on shaky ground for some time now, but it was seemingly outsold by Battlefield 6 "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "d2b368088379"
+    },
+    {
+      "id": "4765cbf82649",
+      "title": "Jujutsu Kaisen Creator Recommends the Next Hit Dark Fantasy Crime Thriller",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/jjk-gege-akutami-phenomenon-x-recommend/",
+      "published_at": "Mon, 22 Dec 2025 04:00:11 GMT",
+      "bullets": [
+        "• Phenomenon X: Paranormal Crime Files is set in a world where humanity is terrorized by supernatural entities",
+        "• Jujutsu Kaisen creator Gege Akutami recently drew a bottom cover illustration for the new volume",
+        "• The cover for the latest volume of the series can be seen below "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.548
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Phenomenon X: Paranormal Crime Files is set in a world where humanity is terrorized by supernatural entities",
+          "• Jujutsu Kaisen creator Gege Akutami recently drew a bottom cover illustration for the new volume"
+        ],
+        "hopeful_bullets": [
+          "• Phenomenon X: Paranormal Crime Files is set in a world where humanity is terrorized by supernatural entities",
+          "• Jujutsu Kaisen creator Gege Akutami recently drew a bottom cover illustration for the new volume"
+        ],
+        "stakes_bullets": [
+          "• Phenomenon X: Paranormal Crime Files is set in a world where humanity is terrorized by supernatural entities",
+          "• Jujutsu Kaisen creator Gege Akutami recently drew a bottom cover illustration for the new volume",
+          "• The cover for the latest volume of the series can be seen below "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "4f35eadc9797"
+    },
+    {
+      "id": "0b032f292cf7",
+      "title": "US Coast Guard pursuing another oil tanker off coast of Venezuela",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/21/coast-guard-pursuing-oil-tanker-venezuela-coast",
+      "published_at": "Mon, 22 Dec 2025 03:54:29 GMT",
+      "bullets": [
+        "• US Coast Guard officials said on Sunday that they are tracking an oil tanker in international waters close to Venezuela",
+        "• It is the second such action over the weekend – and the third within the past week – as Washington ramps up its pressure campaign targeting the South American nation’s vital oil sector "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.984
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US Coast Guard officials said on Sunday that they are tracking an oil tanker in international waters close to Venezuela",
+          "• It is the second such action over the weekend – and the third within the past week – as Washington ramps up its pressure campaign targeting the South American nation’s vital oil sector "
+        ],
+        "hopeful_bullets": [
+          "• US Coast Guard officials said on Sunday that they are tracking an oil tanker in international waters close to Venezuela",
+          "• It is the second such action over the weekend – and the third within the past week – as Washington ramps up its pressure campaign targeting the South American nation’s vital oil sector "
+        ],
+        "stakes_bullets": [
+          "• US Coast Guard officials said on Sunday that they are tracking an oil tanker in international waters close to Venezuela",
+          "• It is the second such action over the weekend – and the third within the past week – as Washington ramps up its pressure campaign targeting the South American nation’s vital oil sector "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8c6e74581e0c"
+    },
+    {
+      "id": "f412c4753909",
+      "title": "The 10 Greatest Grant Morrison Comics, Ranked",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/greatest-grant-morrison-comics-all-time-ranked/",
+      "published_at": "Mon, 22 Dec 2025 03:50:12 GMT",
+      "bullets": [
+        "• Grant Morrison has been writing some of the best comics since the '80s",
+        "• His Green Lantern run ranks last for not being as consistent as some of his other stories",
+        "• Green Lantern's Green Lantern made it weird again with no other human Lanterns taking the lead "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.523
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Grant Morrison has been writing some of the best comics since the '80s",
+          "• His Green Lantern run ranks last for not being as consistent as some of his other stories"
+        ],
+        "hopeful_bullets": [
+          "• Grant Morrison has been writing some of the best comics since the '80s",
+          "• His Green Lantern run ranks last for not being as consistent as some of his other stories"
+        ],
+        "stakes_bullets": [
+          "• Green Lantern's Green Lantern made it weird again with no other human Lanterns taking the lead "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "713208b98c66"
+    },
+    {
+      "id": "a86125363329",
+      "title": "One of Shonen Jump's Highest-Grossing Manga of All Time Isn't For Children At All",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/gintama-best-mature-shonen-jump-manga-comedy/",
+      "published_at": "Mon, 22 Dec 2025 03:45:11 GMT",
+      "bullets": [
+        "• Gintama is one of the highest-grossing manga, published in the same magazine",
+        "• Despite running in a mainstream magazine, the story's humor and themes require maturity to understand, something that young readers often lack",
+        "• The story has plenty of gag moments about adult frustrations or even themes as heavy as addiction "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Gintama is one of the highest-grossing manga, published in the same magazine",
+          "• Despite running in a mainstream magazine, the story's humor and themes require maturity to understand, something that young readers often lack"
+        ],
+        "hopeful_bullets": [
+          "• Gintama is one of the highest-grossing manga, published in the same magazine",
+          "• Despite running in a mainstream magazine, the story's humor and themes require maturity to understand, something that young readers often lack"
+        ],
+        "stakes_bullets": [
+          "• Despite running in a mainstream magazine, the story's humor and themes require maturity to understand, something that young readers often lack"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "f2539008b205"
+    },
+    {
+      "id": "e0d7a44e086f",
+      "title": "One Piece's Newest Devil Fruit Is Officially Going to Help Luffy Destroy the Entire World",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/one-piece-chapter-1169-review-loki-luffy-elbaph/",
+      "published_at": "Mon, 22 Dec 2025 03:25:22 GMT",
+      "bullets": [
+        "• One Piece Chapter 1169 — titled \"My Death Cannot Come Soon Enough\" — picks up where Chapter 1168 left off",
+        "• It's yet another fantastic showing for Eiichiro Oda's legendary manga, as well as a potential hint that Loki and Luffy have more in common than they think "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One Piece Chapter 1169 — titled \"My Death Cannot Come Soon Enough\" — picks up where Chapter 1168 left off",
+          "• It's yet another fantastic showing for Eiichiro Oda's legendary manga, as well as a potential hint that Loki and Luffy have more in common than they think "
+        ],
+        "hopeful_bullets": [
+          "• It's yet another fantastic showing for Eiichiro Oda's legendary manga, as well as a potential hint that Loki and Luffy have more in common than they think "
+        ],
+        "stakes_bullets": [
+          "• One Piece Chapter 1169 — titled \"My Death Cannot Come Soon Enough\" — picks up where Chapter 1168 left off",
+          "• It's yet another fantastic showing for Eiichiro Oda's legendary manga, as well as a potential hint that Loki and Luffy have more in common than they think "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "4e487dd1d346"
+    },
+    {
+      "id": "2841622cef60",
+      "title": "10 Most Rewatchable Thrillers of the Last 30 Years, Ranked",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/most-rewatchable-thrillers-past-30-years-ranked/",
+      "published_at": "Mon, 22 Dec 2025 03:25:11 GMT",
+      "bullets": [
+        "• The disappearance of the children leads to the parents being driven by desperation to make dark choices",
+        "• The movie builds tension slowly, because it mostly focuses on the characters' feelings rather than the pace of the plot",
+        "• Not a single element of this film is devoid of the tightly interlaced evil of dread "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The disappearance of the children leads to the parents being driven by desperation to make dark choices",
+          "• The movie builds tension slowly, because it mostly focuses on the characters' feelings rather than the pace of the plot"
+        ],
+        "hopeful_bullets": [
+          "• The disappearance of the children leads to the parents being driven by desperation to make dark choices",
+          "• The movie builds tension slowly, because it mostly focuses on the characters' feelings rather than the pace of the plot"
+        ],
+        "stakes_bullets": [
+          "• The disappearance of the children leads to the parents being driven by desperation to make dark choices",
+          "• The movie builds tension slowly, because it mostly focuses on the characters' feelings rather than the pace of the plot"
+        ]
+      },
+      "read_minutes": 8,
+      "cluster_id": "d4c0279d9fdf"
+    },
+    {
+      "id": "6433782edffd",
+      "title": "Howl's Moving Castle By Studio Ghibli Has the Greatest Anime Romance of All Time",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/studio-ghibli-best-anime-romance-howls-moving-castle/",
+      "published_at": "Mon, 22 Dec 2025 03:15:12 GMT",
+      "bullets": [
+        "• Hayao Miyazaki's Howl's Moving Castle has remained one of Studio Ghibli’s most beloved films for more than two decades",
+        "• Released in 2004, the film continues to draw new viewers and repeat audiences alike",
+        "• The film is based on Diana Wynne Jones’ 1986 fantasy novel of the same name, but reshaping the emotional core of the story "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hayao Miyazaki's Howl's Moving Castle has remained one of Studio Ghibli’s most beloved films for more than two decades",
+          "• Released in 2004, the film continues to draw new viewers and repeat audiences alike"
+        ],
+        "hopeful_bullets": [
+          "• Hayao Miyazaki's Howl's Moving Castle has remained one of Studio Ghibli’s most beloved films for more than two decades",
+          "• Released in 2004, the film continues to draw new viewers and repeat audiences alike"
+        ],
+        "stakes_bullets": [
+          "• Hayao Miyazaki's Howl's Moving Castle has remained one of Studio Ghibli’s most beloved films for more than two decades",
+          "• Released in 2004, the film continues to draw new viewers and repeat audiences alike",
+          "• The film is based on Diana Wynne Jones’ 1986 fantasy novel of the same name, but reshaping the emotional core of the story "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "704c34efc0a2"
+    },
+    {
+      "id": "7e09e0111b16",
+      "title": "Bob's Burgers Hid the Greatest Easter Egg in Sitcom History in Plain Sight (& Nobody Noticed)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/bobs-burgers-greatest-easter-egg-sitcom-history/",
+      "published_at": "Mon, 22 Dec 2025 03:00:22 GMT",
+      "bullets": [
+        "• The Bob's Burgers Movie follows the Belchers as a sinkhole opens right in front of their restaurant",
+        "• The show is especially praised for its continuity details, from keeping Bob's half-done tattoo from \"The Equestranauts\" to Louise switching her tricycle for a bicycle after \"As I Walk Through the Alley of the Shadow of Ramps\""
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Bob's Burgers Movie follows the Belchers as a sinkhole opens right in front of their restaurant",
+          "• The show is especially praised for its continuity details, from keeping Bob's half-done tattoo from \"The Equestranauts\" to Louise switching her tricycle for a bicycle after \"As I Walk Through the Alley of the Shadow of Ramps\""
+        ],
+        "hopeful_bullets": [
+          "• The Bob's Burgers Movie follows the Belchers as a sinkhole opens right in front of their restaurant",
+          "• The show is especially praised for its continuity details, from keeping Bob's half-done tattoo from \"The Equestranauts\" to Louise switching her tricycle for a bicycle after \"As I Walk Through the Alley of the Shadow of Ramps\""
+        ],
+        "stakes_bullets": [
+          "• The Bob's Burgers Movie follows the Belchers as a sinkhole opens right in front of their restaurant",
+          "• The show is especially praised for its continuity details, from keeping Bob's half-done tattoo from \"The Equestranauts\" to Louise switching her tricycle for a bicycle after \"As I Walk Through the Alley of the Shadow of Ramps\""
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "841ba52c4691"
+    },
+    {
       "id": "a016d2722ccf",
       "title": "10 Iconic Voice Actors Every Anime Fan Recognizes Immediately",
       "outlet": "CBR",
@@ -5454,6 +5714,39 @@
       },
       "read_minutes": 6,
       "cluster_id": "b8ef62753177"
+    },
+    {
+      "id": "92fa7043f19e",
+      "title": "China keeps benchmark lending rates steady for a seventh straight month despite weak economic data",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/22/china-lpr-1-year-5-year-property-market-weak-economic-data-.html",
+      "published_at": "Mon, 22 Dec 2025 02:38:30 GMT",
+      "bullets": [
+        "• The People's Bank of China kept its 1-year and 5-year loan prime rates unchanged at 3% and 3.5% respectively",
+        "• The decision comes amid downbeat economic data from China in November, including lower-than-expected retail sales and industrial output",
+        "• China's property sector continues to reel from a protracted slump in its real estate sector "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The People's Bank of China kept its 1-year and 5-year loan prime rates unchanged at 3% and 3.5% respectively",
+          "• The decision comes amid downbeat economic data from China in November, including lower-than-expected retail sales and industrial output"
+        ],
+        "hopeful_bullets": [
+          "• The People's Bank of China kept its 1-year and 5-year loan prime rates unchanged at 3% and 3.5% respectively",
+          "• The decision comes amid downbeat economic data from China in November, including lower-than-expected retail sales and industrial output"
+        ],
+        "stakes_bullets": [
+          "• The People's Bank of China kept its 1-year and 5-year loan prime rates unchanged at 3% and 3.5% respectively",
+          "• The decision comes amid downbeat economic data from China in November, including lower-than-expected retail sales and industrial output"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "ada48e2f5a8d"
     },
     {
       "id": "a2252d531ff0",
@@ -5490,35 +5783,37 @@
       "cluster_id": "44596a265162"
     },
     {
-      "id": "171f248ec053",
-      "title": "The Man Who Shot Liberty Valance: John Ford's 1962 Masterpiece with Iconic Cast",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/john-wayne-man-who-shot-liberty-valance-greatest-western-cast/",
-      "published_at": "Mon, 22 Dec 2025 02:35:11 GMT",
+      "id": "c99decaa3d48",
+      "title": "Another 130 abducted schoolchildren released in Nigeria",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3d03943zg8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 22 Dec 2025 02:25:22 GMT",
       "bullets": [
-        "• The Man Who Shot Liberty Valance was a success because it made $8 million against a roughly $3 million budget",
-        "• The film sees another John Ford and John Wayne collaboration come to fruition in the best way possible",
-        "• To this day, the 1962 classic remains a fan-favorite for classical Western fans "
+        "• More than 250 children and staff were abducted from St Mary's Catholic school in Papiri on 21 November",
+        "• Earlier this month about 100 of the children were released",
+        "• Federal government described the latest release as a \"moment of triumph and relief\""
       ],
-      "category": "Comics",
+      "category": "World",
       "sentiment": {
         "label": "positive",
-        "score": 1.0
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• The Man Who Shot Liberty Valance was a success because it made $8 million against a roughly $3 million budget",
-          "• The film sees another John Ford and John Wayne collaboration come to fruition in the best way possible"
+          "• More than 250 children and staff were abducted from St Mary's Catholic school in Papiri on 21 November",
+          "• Earlier this month about 100 of the children were released"
         ],
         "hopeful_bullets": [
-          "• The Man Who Shot Liberty Valance was a success because it made $8 million against a roughly $3 million budget"
+          "• Federal government described the latest release as a \"moment of triumph and relief\""
         ],
         "stakes_bullets": [
-          "• The Man Who Shot Liberty Valance was a success because it made $8 million against a roughly $3 million budget"
+          "• More than 250 children and staff were abducted from St Mary's Catholic school in Papiri on 21 November",
+          "• Earlier this month about 100 of the children were released",
+          "• Federal government described the latest release as a \"moment of triumph and relief\""
         ]
       },
-      "read_minutes": 6,
-      "cluster_id": "ceef78e017f3"
+      "read_minutes": 2,
+      "cluster_id": "5dc3bad217ca"
     },
     {
       "id": "ede266ecc76c",
@@ -5554,75 +5849,6 @@
       "cluster_id": "87b4ceb94966"
     },
     {
-      "id": "68695f13f851",
-      "title": "Disney's X-Files Reboot Already Has the Perfect Secret Weapon 32 Years in the Making",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/disney-x-files-reboot-perfect-secret-weapon-animated-series/",
-      "published_at": "Mon, 22 Dec 2025 02:10:12 GMT",
-      "bullets": [
-        "• The X-Files is one of the most popular and most popular TV shows of the '90s",
-        "• It was announced that Ryan Coogler would be taking on a reboot of the series",
-        "• For a reboot, fans should turn to what they do best: animation "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The X-Files is one of the most popular and most popular TV shows of the '90s",
-          "• It was announced that Ryan Coogler would be taking on a reboot of the series"
-        ],
-        "hopeful_bullets": [
-          "• The X-Files is one of the most popular and most popular TV shows of the '90s",
-          "• It was announced that Ryan Coogler would be taking on a reboot of the series"
-        ],
-        "stakes_bullets": [
-          "• The X-Files is one of the most popular and most popular TV shows of the '90s",
-          "• It was announced that Ryan Coogler would be taking on a reboot of the series",
-          "• For a reboot, fans should turn to what they do best: animation "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e06202a6066c"
-    },
-    {
-      "id": "d0be435a8898",
-      "title": "18 Years Later, One Of The Freakiest Superhero Franchises Of All Time is Finally Available to Stream",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/nicolas-cage-ghost-rider-franchise-stream-free-tubi/",
-      "published_at": "Mon, 22 Dec 2025 02:05:11 GMT",
-      "bullets": [
-        "• Nicolas Cage's Ghost Rider films were released in 2007 and 2011",
-        "• They're now available on streaming",
-        "• The first Ghost Rider is a flawed-but-fun mess",
-        "• Nicolas Cage is at his most unhinged in the film, and that's never a bad thing "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.973
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nicolas Cage's Ghost Rider films were released in 2007 and 2011",
-          "• They're now available on streaming"
-        ],
-        "hopeful_bullets": [
-          "• Nicolas Cage's Ghost Rider films were released in 2007 and 2011",
-          "• They're now available on streaming"
-        ],
-        "stakes_bullets": [
-          "• Nicolas Cage's Ghost Rider films were released in 2007 and 2011",
-          "• They're now available on streaming",
-          "• The first Ghost Rider is a flawed-but-fun mess"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "d3a0344d7802"
-    },
-    {
       "id": "1a5626cadb07",
       "title": "Trump news at a glance: justice department restores Epstein files image featuring Trump after outcry",
       "outlet": "US news | The Guardian",
@@ -5653,37 +5879,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "5528f1559c32"
-    },
-    {
-      "id": "87f683f8212b",
-      "title": "Gundam Returns an Underrated Gunpla to the Spotlight With Surprise Master Grade Re-Release",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/gundam-bandai-gunpla-sniper-ii-master-grade/",
-      "published_at": "Mon, 22 Dec 2025 02:00:11 GMT",
-      "bullets": [
-        "• The MG 1/100 GM SNIPERⅡ [WHITE DINGO TEAM CUSTOM] is a version of a previous Master Grade variant of the GM Sniper mobile suit, this time in the \"White Dingo\" coloration",
-        "• Premium Bandai is set to unleash it for international fans to purchase "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The MG 1/100 GM SNIPERⅡ [WHITE DINGO TEAM CUSTOM] is a version of a previous Master Grade variant of the GM Sniper mobile suit, this time in the \"White Dingo\" coloration",
-          "• Premium Bandai is set to unleash it for international fans to purchase "
-        ],
-        "hopeful_bullets": [
-          "• The MG 1/100 GM SNIPERⅡ [WHITE DINGO TEAM CUSTOM] is a version of a previous Master Grade variant of the GM Sniper mobile suit, this time in the \"White Dingo\" coloration",
-          "• Premium Bandai is set to unleash it for international fans to purchase "
-        ],
-        "stakes_bullets": [
-          "• Premium Bandai is set to unleash it for international fans to purchase "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "0f9679074534"
     },
     {
       "id": "110135f2f88f",
@@ -5717,170 +5912,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "35974b0baeee"
-    },
-    {
-      "id": "92fa7043f19e",
-      "title": "China keeps benchmark lending rates steady for a seventh straight month despite weak economic data",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/22/china-lpr-1-year-5-year-property-market-weak-economic-data-.html",
-      "published_at": "Mon, 22 Dec 2025 01:46:11 GMT",
-      "bullets": [
-        "• The People's Bank of China kept its 1-year and 5-year loan prime rates unchanged at 3% and 3.5% respectively",
-        "• The decision comes amid downbeat economic data from China in November, including lower-than-expected retail sales and industrial output",
-        "• China continues to reel from a protracted slump in its property sector "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The People's Bank of China kept its 1-year and 5-year loan prime rates unchanged at 3% and 3.5% respectively",
-          "• The decision comes amid downbeat economic data from China in November, including lower-than-expected retail sales and industrial output"
-        ],
-        "hopeful_bullets": [
-          "• The People's Bank of China kept its 1-year and 5-year loan prime rates unchanged at 3% and 3.5% respectively",
-          "• The decision comes amid downbeat economic data from China in November, including lower-than-expected retail sales and industrial output"
-        ],
-        "stakes_bullets": [
-          "• The People's Bank of China kept its 1-year and 5-year loan prime rates unchanged at 3% and 3.5% respectively",
-          "• The decision comes amid downbeat economic data from China in November, including lower-than-expected retail sales and industrial output"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ada48e2f5a8d"
-    },
-    {
-      "id": "87c4f6c7f40d",
-      "title": "Boruto's Death Foreshadowing Repeats the Heartbreak of Naruto Losing Kurama For Baryon Mode",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/boruto-two-blue-vortex-chapter-29-naruto-death-flag/",
-      "published_at": "Mon, 22 Dec 2025 01:45:11 GMT",
-      "bullets": [
-        "• The latest developments in Boruto: Two Blue Vortex Chapter 29 have pushed the story into darker territory than ever before",
-        "• To stand a chance against the powerful Shinju, Boruto has made a dangerous deal with the spirit of Momoshiki Otsutsuki",
-        "• This pact allows Boruto to tap into massive power, but it puts his life and soul at risk "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.934
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The latest developments in Boruto: Two Blue Vortex Chapter 29 have pushed the story into darker territory than ever before",
-          "• To stand a chance against the powerful Shinju, Boruto has made a dangerous deal with the spirit of Momoshiki Otsutsuki"
-        ],
-        "hopeful_bullets": [
-          "• To stand a chance against the powerful Shinju, Boruto has made a dangerous deal with the spirit of Momoshiki Otsutsuki"
-        ],
-        "stakes_bullets": [
-          "• This pact allows Boruto to tap into massive power, but it puts his life and soul at risk "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "dead1531fa21"
-    },
-    {
-      "id": "b814338c67cc",
-      "title": "Shang-Chi Getting a Major Costume Upgrade for Avengers: Doomsday",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/avengers-doomsday-shang-chi-costume-upgrade/",
-      "published_at": "Mon, 22 Dec 2025 01:33:52 GMT",
-      "bullets": [
-        "• Simu Liu, known to fans as Shang-Chi, has a completely new look for Avengers: Doomsday",
-        "• Liu is set to be integral to the events within the movie, so much so Marvel decided he needed an entirely new look",
-        "• The actor said it was an \"incredible feeling\" when he arrived on set one day "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Simu Liu, known to fans as Shang-Chi, has a completely new look for Avengers: Doomsday",
-          "• Liu is set to be integral to the events within the movie, so much so Marvel decided he needed an entirely new look"
-        ],
-        "hopeful_bullets": [
-          "• Simu Liu, known to fans as Shang-Chi, has a completely new look for Avengers: Doomsday",
-          "• Liu is set to be integral to the events within the movie, so much so Marvel decided he needed an entirely new look"
-        ],
-        "stakes_bullets": [
-          "• Simu Liu, known to fans as Shang-Chi, has a completely new look for Avengers: Doomsday",
-          "• Liu is set to be integral to the events within the movie, so much so Marvel decided he needed an entirely new look",
-          "• The actor said it was an \"incredible feeling\" when he arrived on set one day "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "099e5f19e42f"
-    },
-    {
-      "id": "506099d02a60",
-      "title": "The Most Overrated PS1 Game Has an Unforgivable Flaw",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/most-overrated-ps1-game-final-fantasy-8/",
-      "published_at": "Mon, 22 Dec 2025 01:30:11 GMT",
-      "bullets": [
-        "• Final Fantasy VIII launched to rave reviews and sold more than 9.6 million copies",
-        "• The use of realistic models was a major leap for the series, but since it had early 3D cutscenes look a little off in some places",
-        "• The game's many quirks are partly thanks to how Square handled the game's development, which kicked off in 1997 "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.96
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Final Fantasy VIII launched to rave reviews and sold more than 9.6 million copies",
-          "• The use of realistic models was a major leap for the series, but since it had early 3D cutscenes look a little off in some places"
-        ],
-        "hopeful_bullets": [
-          "• Final Fantasy VIII launched to rave reviews and sold more than 9.6 million copies",
-          "• The use of realistic models was a major leap for the series, but since it had early 3D cutscenes look a little off in some places"
-        ],
-        "stakes_bullets": [
-          "• The use of realistic models was a major leap for the series, but since it had early 3D cutscenes look a little off in some places"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "eb23abf0bb15"
-    },
-    {
-      "id": "ff87318813eb",
-      "title": "Saruman's Secret Pipe-Weed Habit in Lord of the Rings, Explained",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/lord-of-the-rings-saruman-greatest-lie/",
-      "published_at": "Mon, 22 Dec 2025 01:20:11 GMT",
-      "bullets": [
-        "• One of Saruman's greatest assets in The Lord of the Rings was his ability to deceive others",
-        "• He perpetrated some major falsehoods, such as convincing the story's heroes that he was an ally to the Free Peoples of Middle-earth",
-        "• Still, he also lied about less important matters, often for petty reasons "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.992
-      },
-      "moods": {
-        "brief_bullets": [
-          "• One of Saruman's greatest assets in The Lord of the Rings was his ability to deceive others",
-          "• He perpetrated some major falsehoods, such as convincing the story's heroes that he was an ally to the Free Peoples of Middle-earth"
-        ],
-        "hopeful_bullets": [
-          "• One of Saruman's greatest assets in The Lord of the Rings was his ability to deceive others",
-          "• He perpetrated some major falsehoods, such as convincing the story's heroes that he was an ally to the Free Peoples of Middle-earth"
-        ],
-        "stakes_bullets": [
-          "• One of Saruman's greatest assets in The Lord of the Rings was his ability to deceive others",
-          "• He perpetrated some major falsehoods, such as convincing the story's heroes that he was an ally to the Free Peoples of Middle-earth",
-          "• Still, he also lied about less important matters, often for petty reasons "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "5a93bb9199d3"
     },
     {
       "id": "24131152f49d",
@@ -8499,15 +8530,15 @@
       "cluster_id": "76c61b84461a"
     },
     {
-      "id": "998c24da14e8",
-      "title": "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
+      "id": "c06e1a9ca02b",
+      "title": "Honey: all the news about PayPal’s alleged scam coupon app",
       "outlet": "The Verge",
-      "url": "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage",
-      "published_at": "2025-12-21T14:17:00-05:00",
+      "url": "https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees",
+      "published_at": "2025-12-21T22:46:20-05:00",
       "bullets": [
-        "• A power outage struck San Francisco on Saturday that blacked out about 130,000 customers at its peak",
-        "• Posts all over social media showed the company's autonomous SUVs sitting still in the streets and causing traffic jams",
-        "• Some people posted videos of Teslas using their FSD feature to navigate the same streets "
+        "• PayPal's Honey browser extension has been accused of being a 'scam' and 'stealing money' from small people",
+        "• Some YouTube channels, like Legal Eagle and GamersNexus, are now suing the extension",
+        "• The first video shows a series of emails between Honey and small people who never signed up for it "
       ],
       "category": "Technology",
       "sentiment": {
@@ -8516,20 +8547,54 @@
       },
       "moods": {
         "brief_bullets": [
+          "• PayPal's Honey browser extension has been accused of being a 'scam' and 'stealing money' from small people",
+          "• Some YouTube channels, like Legal Eagle and GamersNexus, are now suing the extension"
+        ],
+        "hopeful_bullets": [
+          "• PayPal's Honey browser extension has been accused of being a 'scam' and 'stealing money' from small people",
+          "• Some YouTube channels, like Legal Eagle and GamersNexus, are now suing the extension"
+        ],
+        "stakes_bullets": [
+          "• PayPal's Honey browser extension has been accused of being a 'scam' and 'stealing money' from small people",
+          "• Some YouTube channels, like Legal Eagle and GamersNexus, are now suing the extension",
+          "• The first video shows a series of emails between Honey and small people who never signed up for it "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "be63468e7a60"
+    },
+    {
+      "id": "998c24da14e8",
+      "title": "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage",
+      "published_at": "2025-12-21T21:45:10-05:00",
+      "bullets": [
+        "• A power outage struck San Francisco on Saturday that blacked out about 130,000 customers at its peak",
+        "• With street lights out and wireless data limited, the Waymo vehicles were causing backups across the city",
+        "• On Sunday evening, Waymo spokesperson Suzanne Philion said “We are resuming ride-hailing service in the San Francisco Bay Area”"
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.722
+      },
+      "moods": {
+        "brief_bullets": [
           "• A power outage struck San Francisco on Saturday that blacked out about 130,000 customers at its peak",
-          "• Posts all over social media showed the company's autonomous SUVs sitting still in the streets and causing traffic jams"
+          "• With street lights out and wireless data limited, the Waymo vehicles were causing backups across the city"
         ],
         "hopeful_bullets": [
           "• A power outage struck San Francisco on Saturday that blacked out about 130,000 customers at its peak",
-          "• Posts all over social media showed the company's autonomous SUVs sitting still in the streets and causing traffic jams"
+          "• With street lights out and wireless data limited, the Waymo vehicles were causing backups across the city"
         ],
         "stakes_bullets": [
           "• A power outage struck San Francisco on Saturday that blacked out about 130,000 customers at its peak",
-          "• Posts all over social media showed the company's autonomous SUVs sitting still in the streets and causing traffic jams",
-          "• Some people posted videos of Teslas using their FSD feature to navigate the same streets "
+          "• With street lights out and wireless data limited, the Waymo vehicles were causing backups across the city",
+          "• On Sunday evening, Waymo spokesperson Suzanne Philion said “We are resuming ride-hailing service in the San Francisco Bay Area”"
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 3,
       "cluster_id": "1ef7a1886a62"
     },
     {
@@ -8793,40 +8858,6 @@
       },
       "read_minutes": 8,
       "cluster_id": "776d54d11001"
-    },
-    {
-      "id": "f21d76db5093",
-      "title": "Our favorite stuff of 2025",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/tech/848567/best-tech-movies-gadgets-2025-installer",
-      "published_at": "2025-12-21T08:00:00-05:00",
-      "bullets": [
-        "• This week’s Installer is your guide to the best and most exciting things in the world",
-        "• This week, we look back at some of our favorite things from this year",
-        "• What are you watching / reading / playing / listening to / putting marshmallows in? Tell me everything: installer@theverge.com"
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• This week’s Installer is your guide to the best and most exciting things in the world",
-          "• This week, we look back at some of our favorite things from this year"
-        ],
-        "hopeful_bullets": [
-          "• This week’s Installer is your guide to the best and most exciting things in the world",
-          "• This week, we look back at some of our favorite things from this year"
-        ],
-        "stakes_bullets": [
-          "• This week’s Installer is your guide to the best and most exciting things in the world",
-          "• This week, we look back at some of our favorite things from this year",
-          "• What are you watching / reading / playing / listening to / putting marshmallows in? Tell me everything: installer@theverge.com"
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "66c8495527ae"
     },
     {
       "id": "c41ff758b36a",
@@ -9328,6 +9359,27 @@
       ]
     },
     {
+      "id": "5dc3bad217ca",
+      "topic": "130 abducted another kidnapped",
+      "keywords": [
+        "130",
+        "abducted",
+        "another",
+        "kidnapped",
+        "nigeria",
+        "released",
+        "schoolchildren"
+      ],
+      "item_ids": [
+        "c99decaa3d48",
+        "5a06db9c1684"
+      ],
+      "outlets": [
+        "BBC News",
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "137b570c9b7c",
       "topic": "approve bank israel occupied",
       "keywords": [
@@ -9382,24 +9434,6 @@
       ]
     },
     {
-      "id": "69d3d2402c99",
-      "topic": "africa gunmen kill nine",
-      "keywords": [
-        "africa",
-        "gunmen",
-        "kill",
-        "nine",
-        "south",
-        "tavern"
-      ],
-      "item_ids": [
-        "6d2a12ee9bb6"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "dbf36b5716b5",
       "topic": "became familie grassroot group",
       "keywords": [
@@ -9412,6 +9446,24 @@
       ],
       "item_ids": [
         "112d0310caab"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "69d3d2402c99",
+      "topic": "africa gunmen kill nine",
+      "keywords": [
+        "africa",
+        "gunmen",
+        "kill",
+        "nine",
+        "south",
+        "tavern"
+      ],
+      "item_ids": [
+        "6d2a12ee9bb6"
       ],
       "outlets": [
         "BBC News"
@@ -9451,42 +9503,6 @@
       ],
       "outlets": [
         "BBC News"
-      ]
-    },
-    {
-      "id": "0c5ce0183e57",
-      "topic": "announce bowen comedian night",
-      "keywords": [
-        "announce",
-        "bowen",
-        "comedian",
-        "night",
-        "saturday",
-        "yang"
-      ],
-      "item_ids": [
-        "c3be8485b445"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "46f109bf445c",
-      "topic": "130 another kidnapped nigeria",
-      "keywords": [
-        "130",
-        "another",
-        "kidnapped",
-        "nigeria",
-        "released",
-        "schoolchildren"
-      ],
-      "item_ids": [
-        "5a06db9c1684"
-      ],
-      "outlets": [
-        "World news | The Guardian"
       ]
     },
     {
@@ -9652,6 +9668,24 @@
       ]
     },
     {
+      "id": "8c6e74581e0c",
+      "topic": "another coast guard oil",
+      "keywords": [
+        "another",
+        "coast",
+        "guard",
+        "oil",
+        "pursuing",
+        "tanker"
+      ],
+      "item_ids": [
+        "0b032f292cf7"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "5528f1559c32",
       "topic": "department epstein glance justice",
       "keywords": [
@@ -9796,24 +9830,6 @@
       ]
     },
     {
-      "id": "e910a901bbb1",
-      "topic": "000 130 affect mass",
-      "keywords": [
-        "000",
-        "130",
-        "affect",
-        "mass",
-        "outage",
-        "power"
-      ],
-      "item_ids": [
-        "99322e7632e2"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "46903320bb30",
       "topic": "bill clinton house spokesperson",
       "keywords": [
@@ -9829,6 +9845,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "8c7416aa6932",
+      "topic": "area rick save seattle",
+      "keywords": [
+        "area",
+        "rick",
+        "save",
+        "seattle",
+        "step",
+        "steve"
+      ],
+      "item_ids": [
+        "cc648ea0219c"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9988,24 +10022,6 @@
       ],
       "item_ids": [
         "d20fe89a3317"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "c0f5f0a09adf",
-      "topic": "alarm coma congres former",
-      "keywords": [
-        "alarm",
-        "coma",
-        "congres",
-        "former",
-        "lawmaker",
-        "sound"
-      ],
-      "item_ids": [
-        "277e383001fd"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10368,6 +10384,24 @@
       ]
     },
     {
+      "id": "be63468e7a60",
+      "topic": "all alleged coupon honey",
+      "keywords": [
+        "all",
+        "alleged",
+        "coupon",
+        "honey",
+        "paypal",
+        "scam"
+      ],
+      "item_ids": [
+        "c06e1a9ca02b"
+      ],
+      "outlets": [
+        "The Verge"
+      ]
+    },
+    {
       "id": "1ef7a1886a62",
       "topic": "backed francisco frozen san",
       "keywords": [
@@ -10512,21 +10546,6 @@
       ],
       "item_ids": [
         "73678a0fdbb2"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "66c8495527ae",
-      "topic": "2025 favorite stuff",
-      "keywords": [
-        "2025",
-        "favorite",
-        "stuff"
-      ],
-      "item_ids": [
-        "f21d76db5093"
       ],
       "outlets": [
         "The Verge"
@@ -11047,6 +11066,24 @@
       ],
       "item_ids": [
         "6273fe476088"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "c0f5f0a09adf",
+      "topic": "alarm coma congres former",
+      "keywords": [
+        "alarm",
+        "coma",
+        "congres",
+        "former",
+        "lawmaker",
+        "sound"
+      ],
+      "item_ids": [
+        "277e383001fd"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -13405,6 +13442,147 @@
       ]
     },
     {
+      "id": "d2b368088379",
+      "topic": "2025 biggest gaming storie",
+      "keywords": [
+        "2025",
+        "biggest",
+        "gaming",
+        "storie"
+      ],
+      "item_ids": [
+        "018114ae647d"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "4f35eadc9797",
+      "topic": "creator hit jujutsu kaisen",
+      "keywords": [
+        "creator",
+        "hit",
+        "jujutsu",
+        "kaisen",
+        "next",
+        "recommend"
+      ],
+      "item_ids": [
+        "4765cbf82649"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "713208b98c66",
+      "topic": "comic grant greatest morrison",
+      "keywords": [
+        "comic",
+        "grant",
+        "greatest",
+        "morrison",
+        "ranked"
+      ],
+      "item_ids": [
+        "f412c4753909"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "f2539008b205",
+      "topic": "all grossing highest jump",
+      "keywords": [
+        "all",
+        "grossing",
+        "highest",
+        "jump",
+        "manga",
+        "shonen"
+      ],
+      "item_ids": [
+        "a86125363329"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "4e487dd1d346",
+      "topic": "devil fruit going newest",
+      "keywords": [
+        "devil",
+        "fruit",
+        "going",
+        "newest",
+        "officially",
+        "piece"
+      ],
+      "item_ids": [
+        "e0d7a44e086f"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "d4c0279d9fdf",
+      "topic": "last most ranked rewatchable",
+      "keywords": [
+        "last",
+        "most",
+        "ranked",
+        "rewatchable",
+        "thriller",
+        "year"
+      ],
+      "item_ids": [
+        "2841622cef60"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "704c34efc0a2",
+      "topic": "castle ghibli greatest howl",
+      "keywords": [
+        "castle",
+        "ghibli",
+        "greatest",
+        "howl",
+        "moving",
+        "studio"
+      ],
+      "item_ids": [
+        "6433782edffd"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "841ba52c4691",
+      "topic": "bob burger easter egg",
+      "keywords": [
+        "bob",
+        "burger",
+        "easter",
+        "egg",
+        "greatest",
+        "hid"
+      ],
+      "item_ids": [
+        "7e09e0111b16"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "b8ef62753177",
       "topic": "actor anime every fan",
       "keywords": [
@@ -13435,150 +13613,6 @@
       ],
       "item_ids": [
         "a2252d531ff0"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "ceef78e017f3",
-      "topic": "ford john liberty man",
-      "keywords": [
-        "ford",
-        "john",
-        "liberty",
-        "man",
-        "shot",
-        "valance"
-      ],
-      "item_ids": [
-        "171f248ec053"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "e06202a6066c",
-      "topic": "already disney file perfect",
-      "keywords": [
-        "already",
-        "disney",
-        "file",
-        "perfect",
-        "reboot",
-        "secret"
-      ],
-      "item_ids": [
-        "68695f13f851"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "d3a0344d7802",
-      "topic": "all franchise freakiest later",
-      "keywords": [
-        "all",
-        "franchise",
-        "freakiest",
-        "later",
-        "superhero",
-        "year"
-      ],
-      "item_ids": [
-        "d0be435a8898"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "0f9679074534",
-      "topic": "gundam gunpla return spotlight",
-      "keywords": [
-        "gundam",
-        "gunpla",
-        "return",
-        "spotlight",
-        "surprise",
-        "underrated"
-      ],
-      "item_ids": [
-        "87f683f8212b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "dead1531fa21",
-      "topic": "boruto death foreshadowing heartbreak",
-      "keywords": [
-        "boruto",
-        "death",
-        "foreshadowing",
-        "heartbreak",
-        "naruto",
-        "repeat"
-      ],
-      "item_ids": [
-        "87c4f6c7f40d"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "099e5f19e42f",
-      "topic": "chi costume getting major",
-      "keywords": [
-        "chi",
-        "costume",
-        "getting",
-        "major",
-        "shang",
-        "upgrade"
-      ],
-      "item_ids": [
-        "b814338c67cc"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "eb23abf0bb15",
-      "topic": "flaw game most overrated",
-      "keywords": [
-        "flaw",
-        "game",
-        "most",
-        "overrated",
-        "ps1",
-        "unforgivable"
-      ],
-      "item_ids": [
-        "506099d02a60"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "5a93bb9199d3",
-      "topic": "habit lord pipe saruman",
-      "keywords": [
-        "habit",
-        "lord",
-        "pipe",
-        "saruman",
-        "secret",
-        "weed"
-      ],
-      "item_ids": [
-        "ff87318813eb"
       ],
       "outlets": [
         "CBR"
