@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-23T09:10:49Z",
+  "generated_at": "2025-12-23T10:04:30Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -205,6 +205,37 @@
       "cluster_id": "af6953ceb98d"
     },
     {
+      "id": "887c9b0f612e",
+      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "hopeful_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "stakes_bullets": [
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6e35bfde9a6"
+    },
+    {
       "id": "b90342b2ae45",
       "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
       "outlet": "NPR Topics: Science",
@@ -235,37 +266,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "43bbb6302f3a"
-    },
-    {
-      "id": "887c9b0f612e",
-      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "hopeful_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "stakes_bullets": [
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a6e35bfde9a6"
     },
     {
       "id": "40d030e37f88",
@@ -536,6 +536,74 @@
       "cluster_id": "6cc9daf95221"
     },
     {
+      "id": "f39e7d571dd4",
+      "title": "Shares in Wegovy-maker Novo Nordisk pop 7% after GLP-1 pill approval",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/23/wegovy-maker-novo-nordisk-shares-surge-after-glp-1-pill-approval.html",
+      "published_at": "Tue, 23 Dec 2025 09:29:17 GMT",
+      "bullets": [
+        "• Novo Nordisk's GLP-1 pill has been approved by the U.S",
+        "• Food and Drug Administration",
+        "• It is a world first for the Wegovy maker, a Danish pharmaceutical giant",
+        "• The approval caps a turbulent year for Novo, which has been marked by board drama and supply chain shortages "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Novo Nordisk's GLP-1 pill has been approved by the U.S",
+          "• Food and Drug Administration"
+        ],
+        "hopeful_bullets": [
+          "• Novo Nordisk's GLP-1 pill has been approved by the U.S",
+          "• Food and Drug Administration"
+        ],
+        "stakes_bullets": [
+          "• Novo Nordisk's GLP-1 pill has been approved by the U.S",
+          "• Food and Drug Administration",
+          "• It is a world first for the Wegovy maker, a Danish pharmaceutical giant"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "0f8c44e39c34"
+    },
+    {
+      "id": "0283cc1e4d88",
+      "title": "Five dead after plane carrying child burns victim crashes in Texas",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1lr1yvqge5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Tue, 23 Dec 2025 08:58:46 GMT",
+      "bullets": [
+        "• Mexican Navy plane carrying child burns victim crashes in Galveston, Texas",
+        "• One person remains missing and two others rescued alive",
+        "• The aircraft was taking part in a medical mission on behalf of the Michou y Mau Foundation",
+        "• The foundation provides care to Mexican children with severe burns "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Mexican Navy plane carrying child burns victim crashes in Galveston, Texas",
+          "• One person remains missing and two others rescued alive"
+        ],
+        "hopeful_bullets": [
+          "• Mexican Navy plane carrying child burns victim crashes in Galveston, Texas",
+          "• One person remains missing and two others rescued alive"
+        ],
+        "stakes_bullets": [
+          "• Mexican Navy plane carrying child burns victim crashes in Galveston, Texas"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "414d94c1a7e7"
+    },
+    {
       "id": "797899c314f3",
       "title": "Inside the rise of Gen Z’s nostalgia-fueled plush-toy craze as they delay adulthood",
       "outlet": "US Top News and Analysis",
@@ -569,40 +637,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "93cd3dfd021c"
-    },
-    {
-      "id": "f39e7d571dd4",
-      "title": "Shares in Wegovy-maker Novo Nordisk pop 6% after GLP-1 pill approval",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/23/wegovy-maker-novo-nordisk-shares-surge-after-glp-1-pill-approval.html",
-      "published_at": "Tue, 23 Dec 2025 08:14:22 GMT",
-      "bullets": [
-        "• Novo Nordisk's GLP-1 pill has been approved by the U.S",
-        "• Food and Drug Administration",
-        "• The Danish pharmaceutical giant secured approval of the drug",
-        "• The approval caps a turbulent year for Novo, which has been marked by board drama, supply chain shortages, bidding war against Pfizer "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Novo Nordisk's GLP-1 pill has been approved by the U.S",
-          "• Food and Drug Administration"
-        ],
-        "hopeful_bullets": [
-          "• The approval caps a turbulent year for Novo, which has been marked by board drama, supply chain shortages, bidding war against Pfizer "
-        ],
-        "stakes_bullets": [
-          "• Novo Nordisk's GLP-1 pill has been approved by the U.S",
-          "• Food and Drug Administration",
-          "• The Danish pharmaceutical giant secured approval of the drug"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "0f8c44e39c34"
     },
     {
       "id": "dd4e3e60e600",
@@ -833,39 +867,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "50b0a999af90"
-    },
-    {
-      "id": "e1fb6af60b43",
-      "title": "Russia escalates attacks on key Ukrainian region of Odesa",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 23 Dec 2025 05:05:28 GMT",
-      "bullets": [
-        "• Russia escalates attacks on key Ukrainian region of Odesa",
-        "• Strikes have caused widespread power cuts and threatened maritime infrastructure",
-        "• Ukrainian Deputy Prime Minister Oleksiy Kuleba said Moscow was carrying out \"systematic\" attacks on the region",
-        "• Russian President Vladimir Putin threatened to sever Ukraine's access to the sea in December "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Russia escalates attacks on key Ukrainian region of Odesa",
-          "• Strikes have caused widespread power cuts and threatened maritime infrastructure"
-        ],
-        "hopeful_bullets": [
-          "• Russia escalates attacks on key Ukrainian region of Odesa",
-          "• Strikes have caused widespread power cuts and threatened maritime infrastructure"
-        ],
-        "stakes_bullets": [
-          "• Strikes have caused widespread power cuts and threatened maritime infrastructure"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "725653813b06"
     },
     {
       "id": "bbfa147e6974",
@@ -1700,28 +1701,28 @@
       "url": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss",
       "published_at": "Tue, 23 Dec 2025 00:48:58 GMT",
       "bullets": [
-        "• Call of Duty co-creator Vince Zampella dies in a car crash in California, aged 55",
-        "• The influential video game developer was travelling in a Ferrari with another person, when it crashed and caught fire on a highway in Los Angeles on Sunday",
-        "• He was also behind other widely popular games including Medal of Honor and Titan Games "
+        "• Call of Duty co-creator Vince Zampella dies in a car crash in California",
+        "• The 55-year-old was travelling in a Ferrari with another person when it crashed and caught fire on a highway in Los Angeles on Sunday",
+        "• He was also behind the Medal of Honor, Titanfall and Titanfall games "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.998
       },
       "moods": {
         "brief_bullets": [
-          "• Call of Duty co-creator Vince Zampella dies in a car crash in California, aged 55",
-          "• The influential video game developer was travelling in a Ferrari with another person, when it crashed and caught fire on a highway in Los Angeles on Sunday"
+          "• Call of Duty co-creator Vince Zampella dies in a car crash in California",
+          "• The 55-year-old was travelling in a Ferrari with another person when it crashed and caught fire on a highway in Los Angeles on Sunday"
         ],
         "hopeful_bullets": [
-          "• Call of Duty co-creator Vince Zampella dies in a car crash in California, aged 55",
-          "• The influential video game developer was travelling in a Ferrari with another person, when it crashed and caught fire on a highway in Los Angeles on Sunday"
+          "• Call of Duty co-creator Vince Zampella dies in a car crash in California",
+          "• The 55-year-old was travelling in a Ferrari with another person when it crashed and caught fire on a highway in Los Angeles on Sunday"
         ],
         "stakes_bullets": [
-          "• Call of Duty co-creator Vince Zampella dies in a car crash in California, aged 55",
-          "• The influential video game developer was travelling in a Ferrari with another person, when it crashed and caught fire on a highway in Los Angeles on Sunday",
-          "• He was also behind other widely popular games including Medal of Honor and Titan Games "
+          "• Call of Duty co-creator Vince Zampella dies in a car crash in California",
+          "• The 55-year-old was travelling in a Ferrari with another person when it crashed and caught fire on a highway in Los Angeles on Sunday",
+          "• He was also behind the Medal of Honor, Titanfall and Titanfall games "
         ]
       },
       "read_minutes": 2,
@@ -9212,6 +9213,42 @@
       ]
     },
     {
+      "id": "414d94c1a7e7",
+      "topic": "burn carrying child dead",
+      "keywords": [
+        "burn",
+        "carrying",
+        "child",
+        "dead",
+        "five",
+        "plane"
+      ],
+      "item_ids": [
+        "0283cc1e4d88"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
+      "id": "6c7b5b3395d0",
+      "topic": "fatal help panic rescued",
+      "keywords": [
+        "fatal",
+        "help",
+        "panic",
+        "rescued",
+        "scream",
+        "tourist"
+      ],
+      "item_ids": [
+        "6e29608be88a"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "4e62090b8cbe",
       "topic": "linked oil pursuing tanker",
       "keywords": [
@@ -9241,42 +9278,6 @@
       ],
       "item_ids": [
         "2bbeb65c0dff"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "6c7b5b3395d0",
-      "topic": "fatal help panic rescued",
-      "keywords": [
-        "fatal",
-        "help",
-        "panic",
-        "rescued",
-        "scream",
-        "tourist"
-      ],
-      "item_ids": [
-        "6e29608be88a"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "725653813b06",
-      "topic": "attack escalate key region",
-      "keywords": [
-        "attack",
-        "escalate",
-        "key",
-        "region",
-        "russia",
-        "ukrainian"
-      ],
-      "item_ids": [
-        "e1fb6af60b43"
       ],
       "outlets": [
         "BBC News"
@@ -10879,24 +10880,6 @@
       ]
     },
     {
-      "id": "43bbb6302f3a",
-      "topic": "acros build nuclear reactor",
-      "keywords": [
-        "acros",
-        "build",
-        "nuclear",
-        "reactor",
-        "rush",
-        "trump"
-      ],
-      "item_ids": [
-        "b90342b2ae45"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "a6e35bfde9a6",
       "topic": "bird dropping ended holiday",
       "keywords": [
@@ -10909,6 +10892,24 @@
       ],
       "item_ids": [
         "887c9b0f612e"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "43bbb6302f3a",
+      "topic": "acros build nuclear reactor",
+      "keywords": [
+        "acros",
+        "build",
+        "nuclear",
+        "reactor",
+        "rush",
+        "trump"
+      ],
+      "item_ids": [
+        "b90342b2ae45"
       ],
       "outlets": [
         "NPR Topics: Science"
