@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-24T11:24:36Z",
+  "generated_at": "2025-12-24T11:58:20Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -34,6 +34,71 @@
       },
       "read_minutes": 1,
       "cluster_id": "edd5409bb9c9"
+    },
+    {
+      "id": "b28d7eb4bce6",
+      "title": "'Witch hunt': Ex-EU commissioner Breton denounces U.S. visa ban targeting 'censorship'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/24/us-bans-visas-for-ex-eu-commissioner-over-alleged-censorship.html",
+      "published_at": "Wed, 24 Dec 2025 11:21:36 GMT",
+      "bullets": [
+        "• The U.S",
+        "• imposed visa bans on Thierry Breton, a former EU commissioner behind the Digital Services Act, and four anti-disinformation campaigners",
+        "• Secretary of State Marco Rubio accused them of censorship",
+        "• Breton wrote on X: \"Is McCarthy's witch hunt back?\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The U.S",
+          "• imposed visa bans on Thierry Breton, a former EU commissioner behind the Digital Services Act, and four anti-disinformation campaigners"
+        ],
+        "hopeful_bullets": [
+          "• The U.S",
+          "• imposed visa bans on Thierry Breton, a former EU commissioner behind the Digital Services Act, and four anti-disinformation campaigners"
+        ],
+        "stakes_bullets": [
+          "• imposed visa bans on Thierry Breton, a former EU commissioner behind the Digital Services Act, and four anti-disinformation campaigners"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "c7906a568751"
+    },
+    {
+      "id": "d33a962a1cf9",
+      "title": "The Age of the All-Access AI Agent Is Here",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/",
+      "published_at": "Wed, 24 Dec 2025 11:00:00 +0000",
+      "bullets": [
+        "• Big AI is increasingly building and pushing toward the adoption of agents and “assistants” that promise to take actions and complete tasks on your behalf",
+        "• To get the most out of them, you’ll need to grant them access to your systems and data "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.978
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Big AI is increasingly building and pushing toward the adoption of agents and “assistants” that promise to take actions and complete tasks on your behalf",
+          "• To get the most out of them, you’ll need to grant them access to your systems and data "
+        ],
+        "hopeful_bullets": [
+          "• Big AI is increasingly building and pushing toward the adoption of agents and “assistants” that promise to take actions and complete tasks on your behalf",
+          "• To get the most out of them, you’ll need to grant them access to your systems and data "
+        ],
+        "stakes_bullets": [
+          "• Big AI is increasingly building and pushing toward the adoption of agents and “assistants” that promise to take actions and complete tasks on your behalf",
+          "• To get the most out of them, you’ll need to grant them access to your systems and data "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "5335da85b1cc"
     },
     {
       "id": "8a3bd23df19b",
@@ -446,39 +511,6 @@
       "cluster_id": "dd51c10d3f41"
     },
     {
-      "id": "b28d7eb4bce6",
-      "title": "'Witch hunt': Ex-EU commissioner Breton denounces U.S. visa ban targeting 'censorship'",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/24/us-bans-visas-for-ex-eu-commissioner-over-alleged-censorship.html",
-      "published_at": "Wed, 24 Dec 2025 08:51:50 GMT",
-      "bullets": [
-        "• Thierry Breton, a former EU commissioner behind the Digital Services Act, received a U.S",
-        "• visa ban for alleged censorship",
-        "• Secretary of State Marco Rubio said the ban has \"potentially serious adverse foreign policy consequences\" Breton hit back: \"Censorship isn't where you think it is\""
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Thierry Breton, a former EU commissioner behind the Digital Services Act, received a U.S",
-          "• visa ban for alleged censorship"
-        ],
-        "hopeful_bullets": [
-          "• Thierry Breton, a former EU commissioner behind the Digital Services Act, received a U.S",
-          "• visa ban for alleged censorship"
-        ],
-        "stakes_bullets": [
-          "• visa ban for alleged censorship",
-          "• Secretary of State Marco Rubio said the ban has \"potentially serious adverse foreign policy consequences\" Breton hit back: \"Censorship isn't where you think it is\""
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c7906a568751"
-    },
-    {
       "id": "51f10f5fcc15",
       "title": "Oil giant BP to sell 65% stake in $10 billion Castrol unit",
       "outlet": "US Top News and Analysis",
@@ -682,6 +714,38 @@
       "cluster_id": "f3a7c5cb18cf"
     },
     {
+      "id": "bd151cb4d727",
+      "title": "We are living in a golden age of species discovery",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/12/251224032345.htm",
+      "published_at": "Wed, 24 Dec 2025 06:06:35 EST",
+      "bullets": [
+        "• Scientists are now identifying more than 16,000 new species each year, revealing far more biodiversity than expected across animals, plants, fungi, and beyond",
+        "• Many species remain undiscovered, especially insects and microbes, and future advances could unlock millions more",
+        "• Each new find also opens doors to conservation and medical breakthroughs "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists are now identifying more than 16,000 new species each year, revealing far more biodiversity than expected across animals, plants, fungi, and beyond",
+          "• Many species remain undiscovered, especially insects and microbes, and future advances could unlock millions more"
+        ],
+        "hopeful_bullets": [
+          "• Each new find also opens doors to conservation and medical breakthroughs "
+        ],
+        "stakes_bullets": [
+          "• Scientists are now identifying more than 16,000 new species each year, revealing far more biodiversity than expected across animals, plants, fungi, and beyond",
+          "• Many species remain undiscovered, especially insects and microbes, and future advances could unlock millions more"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "84aa8956ed23"
+    },
+    {
       "id": "38ecedec8deb",
       "title": "$100 Off Shark Promo Code | This Month",
       "outlet": "WIRED",
@@ -845,38 +909,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "3531b08d121f"
-    },
-    {
-      "id": "0e66e425a50b",
-      "title": "35 years after ADA, people with disabilities still find hotels unaccommodating",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/24/nx-s1-5564041/disabilities-wheelchairs-travel-hotels-accommodations",
-      "published_at": "Wed, 24 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• 35 years after ADA, people with disabilities still find hotels unaccommodating",
-        "• NPR interviewed 50 wheelchair users and more than 200 people who use wheelchairs",
-        "• Despite 35 years of federal law requiring hotels to be made accessible for wheelchairs, travelers say hotels still fail to fully comply with accessibility requirements "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 35 years after ADA, people with disabilities still find hotels unaccommodating",
-          "• NPR interviewed 50 wheelchair users and more than 200 people who use wheelchairs"
-        ],
-        "hopeful_bullets": [
-          "• 35 years after ADA, people with disabilities still find hotels unaccommodating",
-          "• NPR interviewed 50 wheelchair users and more than 200 people who use wheelchairs"
-        ],
-        "stakes_bullets": [
-          "• Despite 35 years of federal law requiring hotels to be made accessible for wheelchairs, travelers say hotels still fail to fully comply with accessibility requirements "
-        ]
-      },
-      "read_minutes": 16,
-      "cluster_id": "b80539535dad"
     },
     {
       "id": "0a8a4a32e2ae",
@@ -1046,6 +1078,38 @@
       "cluster_id": "1d2d0347d2a1"
     },
     {
+      "id": "0e66e425a50b",
+      "title": "35 years after ADA, people with disabilities still find hotels unaccommodating",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/24/nx-s1-5564041/disabilities-wheelchairs-travel-hotels-accommodations",
+      "published_at": "Wed, 24 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• 35 years after ADA, people with disabilities still find hotels unaccommodating",
+        "• NPR interviewed 50 wheelchair users and more than 200 people who use wheelchairs",
+        "• Despite 35 years of federal law requiring hotels to be made accessible for wheelchairs, travelers say hotels still fail to fully comply with accessibility requirements "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 35 years after ADA, people with disabilities still find hotels unaccommodating",
+          "• NPR interviewed 50 wheelchair users and more than 200 people who use wheelchairs"
+        ],
+        "hopeful_bullets": [
+          "• 35 years after ADA, people with disabilities still find hotels unaccommodating",
+          "• NPR interviewed 50 wheelchair users and more than 200 people who use wheelchairs"
+        ],
+        "stakes_bullets": [
+          "• Despite 35 years of federal law requiring hotels to be made accessible for wheelchairs, travelers say hotels still fail to fully comply with accessibility requirements "
+        ]
+      },
+      "read_minutes": 16,
+      "cluster_id": "b80539535dad"
+    },
+    {
       "id": "c54875766473",
       "title": "Trump administration wants to set quota for denaturalizing American citizens",
       "outlet": "NPR Topics: Politics",
@@ -1110,6 +1174,40 @@
       },
       "read_minutes": 4,
       "cluster_id": "9d1b88b81a97"
+    },
+    {
+      "id": "3a9db9055f35",
+      "title": "Most people say cash for Christmas is a good gift, poll finds",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/24/nx-s1-5647447/most-people-say-cash-for-christmas-is-a-good-gift-poll-finds",
+      "published_at": "Wed, 24 Dec 2025 04:49:50 -0500",
+      "bullets": [
+        "• Most people say cash for Christmas is a good gift, poll finds",
+        "• Still looking for a last-minute Christmas gift? A new poll finds that most people find cash or gift cards an acceptable holiday gift",
+        "• Most people find it an acceptable gift, according to the poll "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.823
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Most people say cash for Christmas is a good gift, poll finds",
+          "• Still looking for a last-minute Christmas gift? A new poll finds that most people find cash or gift cards an acceptable holiday gift"
+        ],
+        "hopeful_bullets": [
+          "• Most people say cash for Christmas is a good gift, poll finds",
+          "• Still looking for a last-minute Christmas gift? A new poll finds that most people find cash or gift cards an acceptable holiday gift"
+        ],
+        "stakes_bullets": [
+          "• Most people say cash for Christmas is a good gift, poll finds",
+          "• Still looking for a last-minute Christmas gift? A new poll finds that most people find cash or gift cards an acceptable holiday gift",
+          "• Most people find it an acceptable gift, according to the poll "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "98de43989754"
     },
     {
       "id": "068faec264c2",
@@ -1878,6 +1976,41 @@
       },
       "read_minutes": 40,
       "cluster_id": "2310b1aa0d50"
+    },
+    {
+      "id": "6c445d697472",
+      "title": "Star Wars Vs Star Trek",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-17-star-wars-vs-star-trek/?utm_source=rss&utm_medium=rss&utm_campaign=star-wars-vs-star-trek",
+      "published_at": "Wed, 17 Dec 2025 20:24:58 +0000",
+      "bullets": [
+        "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
+        "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet",
+        "• The Enterprise-E for some weird reason finds itself in a galaxy far, far away",
+        "• And they appear in the vicinity of a lone Imperial Star Destroyer on patrol "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.898
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
+          "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet"
+        ],
+        "hopeful_bullets": [
+          "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
+          "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet"
+        ],
+        "stakes_bullets": [
+          "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
+          "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet",
+          "• The Enterprise-E for some weird reason finds itself in a galaxy far, far away"
+        ]
+      },
+      "read_minutes": 24,
+      "cluster_id": "7e4f4b714cd0"
     },
     {
       "id": "fb51ad26c335",
@@ -3334,39 +3467,6 @@
       "cluster_id": "cb874e759d44"
     },
     {
-      "id": "a8f2591c123d",
-      "title": "Southwest's profits are down 42% this year but it's the top U.S. airline stock",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/23/southwest-luv-airline-stocks.html",
-      "published_at": "Tue, 23 Dec 2025 19:01:55 GMT",
-      "bullets": [
-        "• Southwest Airlines' profit fell 42% in the first nine months of the year compared with the same period in 2024",
-        "• Analysts and investors have high hopes for the carrier next year",
-        "• Southwest is ditching open seating and moving to assigned seats on its all-Boeing 737 fleet "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Southwest Airlines' profit fell 42% in the first nine months of the year compared with the same period in 2024",
-          "• Analysts and investors have high hopes for the carrier next year"
-        ],
-        "hopeful_bullets": [
-          "• Analysts and investors have high hopes for the carrier next year"
-        ],
-        "stakes_bullets": [
-          "• Southwest Airlines' profit fell 42% in the first nine months of the year compared with the same period in 2024",
-          "• Analysts and investors have high hopes for the carrier next year",
-          "• Southwest is ditching open seating and moving to assigned seats on its all-Boeing 737 fleet "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "aaf8700bb073"
-    },
-    {
       "id": "d4457a9e9d67",
       "title": "Wayne Coyne: Steven Drozd’s Reason for Leaving the Flaming Lips Is a Lie",
       "outlet": "RSS: News",
@@ -3602,6 +3702,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "14a9115374bb"
+    },
+    {
+      "id": "820061692641",
+      "title": "Tanger CEO says retailers are 'discounting to meet the consumer' this holiday season",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/23/tanger-ceo-stephen-yalof-holiday-shopping-consumer-spending-confidence.html",
+      "published_at": "Tue, 23 Dec 2025 18:27:35 GMT",
+      "bullets": [
+        "• Tanger CEO Stephen Yalof: Retailers are discounting to meet the consumer",
+        "• He said shoppers are willing to spend despite falling consumer confidence and anxiety over prices",
+        "• In-store shopping accounted for 73% of U.S",
+        "• holiday spending, according to Visa data "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.767
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Tanger CEO Stephen Yalof: Retailers are discounting to meet the consumer",
+          "• He said shoppers are willing to spend despite falling consumer confidence and anxiety over prices"
+        ],
+        "hopeful_bullets": [
+          "• Tanger CEO Stephen Yalof: Retailers are discounting to meet the consumer",
+          "• He said shoppers are willing to spend despite falling consumer confidence and anxiety over prices"
+        ],
+        "stakes_bullets": [
+          "• He said shoppers are willing to spend despite falling consumer confidence and anxiety over prices"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e6982f03b54d"
     },
     {
       "id": "aad49166256c",
@@ -4520,37 +4653,6 @@
       "cluster_id": "c00edce16d95"
     },
     {
-      "id": "a61f36e219ac",
-      "title": "Laptop Buying Guide (2025): How to Choose the Right PC (Step-by-Step Guide)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/",
-      "published_at": "Tue, 23 Dec 2025 13:00:00 +0000",
-      "bullets": [
-        "• Buying a laptop is an exercise in confusion",
-        "• We break down the jargon and explain things on a practical level so you end up with a machine that's the right fit",
-        "• We hope this guide will help you traverse the morass of modern laptops "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.542
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Buying a laptop is an exercise in confusion",
-          "• We break down the jargon and explain things on a practical level so you end up with a machine that's the right fit"
-        ],
-        "hopeful_bullets": [
-          "• We hope this guide will help you traverse the morass of modern laptops "
-        ],
-        "stakes_bullets": [
-          "• We hope this guide will help you traverse the morass of modern laptops "
-        ]
-      },
-      "read_minutes": 25,
-      "cluster_id": "bb4eb49a3da1"
-    },
-    {
       "id": "e2333b02e4a4",
       "title": "‘Gunboat diplomacy on steroids’: US signs security deals across Latin America",
       "outlet": "World news | The Guardian",
@@ -5071,39 +5173,6 @@
       "cluster_id": "4fe0c168e5a5"
     },
     {
-      "id": "eb7d3a5216bb",
-      "title": "Hidden brain maps that make empathy feel physical",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/12/251222043244.htm",
-      "published_at": "Tue, 23 Dec 2025 02:59:51 EST",
-      "bullets": [
-        "• Researchers found eight body-like maps in the visual cortex that organize what we see in the same way the brain organizes touch",
-        "• These maps help us instantly understand actions, emotions, and intentions in others",
-        "• Discovery sheds light on human empathy and opens doors for new brain-based therapies and AI systems "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers found eight body-like maps in the visual cortex that organize what we see in the same way the brain organizes touch",
-          "• These maps help us instantly understand actions, emotions, and intentions in others"
-        ],
-        "hopeful_bullets": [
-          "• These maps help us instantly understand actions, emotions, and intentions in others"
-        ],
-        "stakes_bullets": [
-          "• Researchers found eight body-like maps in the visual cortex that organize what we see in the same way the brain organizes touch",
-          "• These maps help us instantly understand actions, emotions, and intentions in others",
-          "• Discovery sheds light on human empathy and opens doors for new brain-based therapies and AI systems "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8450ec54d1f0"
-    },
-    {
       "id": "61ecf4fa22dc",
       "title": "Russia and China pledge support for Venezuela as Trump ratchets up pressure on Maduro",
       "outlet": "World news | The Guardian",
@@ -5302,6 +5371,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "f10da5775e15"
+    },
+    {
+      "id": "1acb08ef7363",
+      "title": "Hot Toys Revenge of the Sith MagnaGuard (MMS856) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-16-hot-toys-revenge-of-the-sith-magnaguard-mms856-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-revenge-of-the-sith-magnaguard-mms856-1-6-scale-figure",
+      "published_at": "Tue, 16 Dec 2025 12:20:33 +0000",
+      "bullets": [
+        "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+        "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.712
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
+        ],
+        "hopeful_bullets": [
+          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
+        ],
+        "stakes_bullets": [
+          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e035bc8e7532"
     },
     {
       "id": "50901b12fa3b",
@@ -5956,6 +6057,37 @@
       "cluster_id": "b5ebb78247cb"
     },
     {
+      "id": "aa4c0a156448",
+      "title": "The Black Series Reveals From Today's Hasbro Fanstream",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-11-the-black-series-reveals-from-todays-hasbro-fanstream-3/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-series-reveals-from-todays-hasbro-fanstream-3",
+      "published_at": "Thu, 11 Dec 2025 16:35:52 +0000",
+      "bullets": [
+        "• The Black Series gets two new 2-packs, both exclusive to Hasbro Pulse and Disney Store, so no fan channel release and not available at Walmart, Target or Amazon",
+        "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Black Series gets two new 2-packs, both exclusive to Hasbro Pulse and Disney Store, so no fan channel release and not available at Walmart, Target or Amazon",
+          "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
+        ],
+        "hopeful_bullets": [
+          "• The Black Series gets two new 2-packs, both exclusive to Hasbro Pulse and Disney Store, so no fan channel release and not available at Walmart, Target or Amazon",
+          "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
+        ],
+        "stakes_bullets": [
+          "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "833f992e43b1"
+    },
+    {
       "id": "186988486d66",
       "title": "Abandoned oil refineries are becoming unlikely havens for wildlife",
       "outlet": "Positive News",
@@ -6586,6 +6718,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "8e9430e546a3"
+    },
+    {
+      "id": "865da1f58b2e",
+      "title": "Black Series Figure For The Mandalorian & Grogu Has Leaked",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-20-black-series-figure-for-the-mandalorian-grogu-has-leaked/?utm_source=rss&utm_medium=rss&utm_campaign=black-series-figure-for-the-mandalorian-grogu-has-leaked",
+      "published_at": "Sat, 20 Dec 2025 19:36:01 +0000",
+      "bullets": [
+        "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
+        "• The photo was taken with a lowres potato camera and is very blurry",
+        "• It is rumored to be a deluxe set at a price point of maybe $40 (standard figures cost $28)"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
+          "• The photo was taken with a lowres potato camera and is very blurry"
+        ],
+        "hopeful_bullets": [
+          "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
+          "• The photo was taken with a lowres potato camera and is very blurry"
+        ],
+        "stakes_bullets": [
+          "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
+          "• The photo was taken with a lowres potato camera and is very blurry",
+          "• It is rumored to be a deluxe set at a price point of maybe $40 (standard figures cost $28)"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "144accaf8f34"
     },
     {
       "id": "36775b836249",
@@ -7752,6 +7918,38 @@
       "cluster_id": "bf13e2046dac"
     },
     {
+      "id": "9f99c5067546",
+      "title": "Looking Back At The Force Awakens",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-15-looking-back-at-the-force-awakens/?utm_source=rss&utm_medium=rss&utm_campaign=looking-back-at-the-force-awakens",
+      "published_at": "Mon, 15 Dec 2025 16:16:09 +0000",
+      "bullets": [
+        "• This week marks the 10th anniversary of The Force Awakens",
+        "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th",
+        "• Its repercussions still haunt Lucasfilm to this day and its effects are still felt everywhere "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• This week marks the 10th anniversary of The Force Awakens",
+          "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th"
+        ],
+        "hopeful_bullets": [
+          "• This week marks the 10th anniversary of The Force Awakens",
+          "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th"
+        ],
+        "stakes_bullets": [
+          "• Its repercussions still haunt Lucasfilm to this day and its effects are still felt everywhere "
+        ]
+      },
+      "read_minutes": 16,
+      "cluster_id": "e2f4eb0bcf07"
+    },
+    {
       "id": "28f08f39d4d5",
       "title": "Now Playing: The Holly Jolly Slasher You’ve Been Waiting For | SILENT NIGHT, DEADLY NIGHT",
       "outlet": "HorrorFix",
@@ -8011,6 +8209,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "aca13f699a96"
+    },
+    {
+      "id": "a6a708d2b0c3",
+      "title": "The Black Series In 2025",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-19-the-black-series-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-series-in-2025",
+      "published_at": "Fri, 19 Dec 2025 19:14:11 +0000",
+      "bullets": [
+        "• In 2025 a total of 63 sets were released in the Black Series, which contained a total number of 77 figures",
+        "• The 63 sets are the lowest number since 2019, a clear indicator that sales for the line are in decline",
+        "• The number of releases has been dialed down again, probably a direct result of a lower budget for the Star Wars line",
+        "• We still get more sets now than we even got during the sequel trilogy years "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In 2025 a total of 63 sets were released in the Black Series, which contained a total number of 77 figures",
+          "• The 63 sets are the lowest number since 2019, a clear indicator that sales for the line are in decline"
+        ],
+        "hopeful_bullets": [
+          "• In 2025 a total of 63 sets were released in the Black Series, which contained a total number of 77 figures",
+          "• The 63 sets are the lowest number since 2019, a clear indicator that sales for the line are in decline"
+        ],
+        "stakes_bullets": [
+          "• The number of releases has been dialed down again, probably a direct result of a lower budget for the Star Wars line"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "37374d8d656c"
     },
     {
       "id": "8c455affe1b5",
@@ -8341,6 +8572,75 @@
       },
       "read_minutes": 40,
       "cluster_id": "cc7d025ab986"
+    },
+    {
+      "id": "2bf07c12aa9e",
+      "title": "Pre-Order Hasbro's The Vintage Collection Fan Channel Wave",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-12-pre-order-hasbros-the-vintage-collection-fan-channel-wave/?utm_source=rss&utm_medium=rss&utm_campaign=pre-order-hasbros-the-vintage-collection-fan-channel-wave",
+      "published_at": "Fri, 12 Dec 2025 18:12:44 +0000",
+      "bullets": [
+        "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
+        "• Click below for links: Full Case Via Entertainment Earth",
+        "• Pre-Orders The Black Series [Phase IV] The Vintage Series "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
+          "• Click below for links: Full Case Via Entertainment Earth"
+        ],
+        "hopeful_bullets": [
+          "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
+          "• Click below for links: Full Case Via Entertainment Earth"
+        ],
+        "stakes_bullets": [
+          "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
+          "• Click below for links: Full Case Via Entertainment Earth",
+          "• Pre-Orders The Black Series [Phase IV] The Vintage Series "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "fa61653efed2"
+    },
+    {
+      "id": "6f373d98f2fa",
+      "title": "Brand New Knights Of The Old Republic Game Announced!",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-12-brand-new-knights-of-the-old-republic-game-announced/?utm_source=rss&utm_medium=rss&utm_campaign=brand-new-knights-of-the-old-republic-game-announced",
+      "published_at": "Fri, 12 Dec 2025 13:14:10 +0000",
+      "bullets": [
+        "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
+        "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy",
+        "• The game will be a narrative driven single player RPG",
+        "• It is intended for release on PC and consoles (so not an exclusive title)"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.922
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
+          "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy"
+        ],
+        "hopeful_bullets": [
+          "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
+          "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy"
+        ],
+        "stakes_bullets": [
+          "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
+          "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy",
+          "• The game will be a narrative driven single player RPG"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "807bcb52eaa5"
     },
     {
       "id": "2108915dafea",
@@ -9793,24 +10093,6 @@
       ]
     },
     {
-      "id": "b80539535dad",
-      "topic": "ada disabilitie find people",
-      "keywords": [
-        "ada",
-        "disabilitie",
-        "find",
-        "people",
-        "still",
-        "year"
-      ],
-      "item_ids": [
-        "0e66e425a50b"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "ac3a7d8511bc",
       "topic": "christma dinner guided home",
       "keywords": [
@@ -9900,6 +10182,42 @@
       ]
     },
     {
+      "id": "b80539535dad",
+      "topic": "ada disabilitie find people",
+      "keywords": [
+        "ada",
+        "disabilitie",
+        "find",
+        "people",
+        "still",
+        "year"
+      ],
+      "item_ids": [
+        "0e66e425a50b"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "98de43989754",
+      "topic": "cash christma good most",
+      "keywords": [
+        "cash",
+        "christma",
+        "good",
+        "most",
+        "people",
+        "say"
+      ],
+      "item_ids": [
+        "3a9db9055f35"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "73ba1647bbfe",
       "topic": "investor lower mull treasury",
       "keywords": [
@@ -9972,24 +10290,6 @@
       ]
     },
     {
-      "id": "36e17f9b4287",
-      "topic": "alphabet backed fleet management",
-      "keywords": [
-        "alphabet",
-        "backed",
-        "fleet",
-        "management",
-        "motive",
-        "software"
-      ],
-      "item_ids": [
-        "f31aa4d32a2c"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "d118cc0d9491",
       "topic": "blackout driverles fleet francisco",
       "keywords": [
@@ -10026,6 +10326,24 @@
       ]
     },
     {
+      "id": "36e17f9b4287",
+      "topic": "alphabet backed fleet management",
+      "keywords": [
+        "alphabet",
+        "backed",
+        "fleet",
+        "management",
+        "motive",
+        "software"
+      ],
+      "item_ids": [
+        "f31aa4d32a2c"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "4e82d64a7c74",
       "topic": "anyone booming market prediction",
       "keywords": [
@@ -10044,18 +10362,18 @@
       ]
     },
     {
-      "id": "aaf8700bb073",
-      "topic": "airline down profit southwest",
+      "id": "e6982f03b54d",
+      "topic": "ceo consumer discounting meet",
       "keywords": [
-        "airline",
-        "down",
-        "profit",
-        "southwest",
-        "top",
-        "year"
+        "ceo",
+        "consumer",
+        "discounting",
+        "meet",
+        "retailer",
+        "tanger"
       ],
       "item_ids": [
-        "a8f2591c123d"
+        "820061692641"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10077,6 +10395,23 @@
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "5335da85b1cc",
+      "topic": "acces age agent all",
+      "keywords": [
+        "acces",
+        "age",
+        "agent",
+        "all",
+        "here"
+      ],
+      "item_ids": [
+        "d33a962a1cf9"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10235,24 +10570,6 @@
       ],
       "item_ids": [
         "232ba99743e3"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "bb4eb49a3da1",
-      "topic": "2025 buying choose guide",
-      "keywords": [
-        "2025",
-        "buying",
-        "choose",
-        "guide",
-        "laptop",
-        "right"
-      ],
-      "item_ids": [
-        "a61f36e219ac"
       ],
       "outlets": [
         "WIRED"
@@ -10653,6 +10970,23 @@
       ]
     },
     {
+      "id": "84aa8956ed23",
+      "topic": "age discovery golden living",
+      "keywords": [
+        "age",
+        "discovery",
+        "golden",
+        "living",
+        "specie"
+      ],
+      "item_ids": [
+        "bd151cb4d727"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "775360e088df",
       "topic": "found make physicist thermodynamic",
       "keywords": [
@@ -10806,24 +11140,6 @@
       ],
       "item_ids": [
         "02e5b755e6c0"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "8450ec54d1f0",
-      "topic": "brain empathy feel hidden",
-      "keywords": [
-        "brain",
-        "empathy",
-        "feel",
-        "hidden",
-        "make",
-        "maps"
-      ],
-      "item_ids": [
-        "eb7d3a5216bb"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -12734,6 +13050,142 @@
       ],
       "outlets": [
         "HorrorFix"
+      ]
+    },
+    {
+      "id": "144accaf8f34",
+      "topic": "black figure grogu leaked",
+      "keywords": [
+        "black",
+        "figure",
+        "grogu",
+        "leaked",
+        "mandalorian",
+        "serie"
+      ],
+      "item_ids": [
+        "865da1f58b2e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "37374d8d656c",
+      "topic": "2025 black serie",
+      "keywords": [
+        "2025",
+        "black",
+        "serie"
+      ],
+      "item_ids": [
+        "a6a708d2b0c3"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "7e4f4b714cd0",
+      "topic": "star trek wars",
+      "keywords": [
+        "star",
+        "trek",
+        "wars"
+      ],
+      "item_ids": [
+        "6c445d697472"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "e035bc8e7532",
+      "topic": "hot magnaguard mms856 revenge",
+      "keywords": [
+        "hot",
+        "magnaguard",
+        "mms856",
+        "revenge",
+        "sith",
+        "toys"
+      ],
+      "item_ids": [
+        "1acb08ef7363"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "e2f4eb0bcf07",
+      "topic": "awaken back force looking",
+      "keywords": [
+        "awaken",
+        "back",
+        "force",
+        "looking"
+      ],
+      "item_ids": [
+        "9f99c5067546"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "fa61653efed2",
+      "topic": "collection fan hasbro order",
+      "keywords": [
+        "collection",
+        "fan",
+        "hasbro",
+        "order",
+        "pre",
+        "vintage"
+      ],
+      "item_ids": [
+        "2bf07c12aa9e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "807bcb52eaa5",
+      "topic": "announced brand game knight",
+      "keywords": [
+        "announced",
+        "brand",
+        "game",
+        "knight",
+        "old",
+        "republic"
+      ],
+      "item_ids": [
+        "6f373d98f2fa"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "833f992e43b1",
+      "topic": "black fanstream hasbro reveal",
+      "keywords": [
+        "black",
+        "fanstream",
+        "hasbro",
+        "reveal",
+        "serie",
+        "today"
+      ],
+      "item_ids": [
+        "aa4c0a156448"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
       ]
     },
     {
