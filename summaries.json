@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-24T09:11:31Z",
+  "generated_at": "2025-12-24T10:04:43Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -36,6 +36,74 @@
       "cluster_id": "edd5409bb9c9"
     },
     {
+      "id": "01c92d84c865",
+      "title": "Libya's army chief killed in air crash in Turkey",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 24 Dec 2025 09:27:31 GMT",
+      "bullets": [
+        "• Libya's army chief killed in air crash in Turkey, Libya's prime minister says",
+        "• Gen Mohammed Ali Ahmed al-Haddad was on board a Falcon 50 aircraft flying out of Ankara",
+        "• He was killed along with four other military officials and three crew members",
+        "• The aircraft's wreckage was later found south-west of Ankara, Turkey "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Libya's army chief killed in air crash in Turkey, Libya's prime minister says",
+          "• Gen Mohammed Ali Ahmed al-Haddad was on board a Falcon 50 aircraft flying out of Ankara"
+        ],
+        "hopeful_bullets": [
+          "• Libya's army chief killed in air crash in Turkey, Libya's prime minister says",
+          "• Gen Mohammed Ali Ahmed al-Haddad was on board a Falcon 50 aircraft flying out of Ankara"
+        ],
+        "stakes_bullets": [
+          "• Libya's army chief killed in air crash in Turkey, Libya's prime minister says",
+          "• Gen Mohammed Ali Ahmed al-Haddad was on board a Falcon 50 aircraft flying out of Ankara",
+          "• He was killed along with four other military officials and three crew members"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "45b6d6e6334d"
+    },
+    {
+      "id": "b28d7eb4bce6",
+      "title": "'Witch hunt': Ex-EU commissioner Breton denounces U.S. visa ban targeting 'censorship'",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/24/us-bans-visas-for-ex-eu-commissioner-over-alleged-censorship.html",
+      "published_at": "Wed, 24 Dec 2025 08:51:50 GMT",
+      "bullets": [
+        "• Thierry Breton, a former EU commissioner behind the Digital Services Act, received a U.S",
+        "• visa ban for alleged censorship",
+        "• Secretary of State Marco Rubio said the ban has \"potentially serious adverse foreign policy consequences\" Breton hit back: \"Censorship isn't where you think it is\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Thierry Breton, a former EU commissioner behind the Digital Services Act, received a U.S",
+          "• visa ban for alleged censorship"
+        ],
+        "hopeful_bullets": [
+          "• Thierry Breton, a former EU commissioner behind the Digital Services Act, received a U.S",
+          "• visa ban for alleged censorship"
+        ],
+        "stakes_bullets": [
+          "• visa ban for alleged censorship",
+          "• Secretary of State Marco Rubio said the ban has \"potentially serious adverse foreign policy consequences\" Breton hit back: \"Censorship isn't where you think it is\""
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c7906a568751"
+    },
+    {
       "id": "51f10f5fcc15",
       "title": "Oil giant BP to sell 65% stake in $10 billion Castrol unit",
       "outlet": "US Top News and Analysis",
@@ -68,39 +136,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "3ca50e6c2c31"
-    },
-    {
-      "id": "6c97d6ec3a50",
-      "title": "European markets open higher; Novo Nordisk shares jump 9%, extending rally after GLP-1 pill approval",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/24/european-markets-to-open-soft-stoxx-600-dax-cac-40.html",
-      "published_at": "Wed, 24 Dec 2025 08:08:52 GMT",
-      "bullets": [
-        "• The pan-European Stoxx 600 was almost 0.1% higher at the opening bell on Wednesday",
-        "• The benchmark reached a new record high on Tuesday, buoyed by Copenhagen-listed Novo Nordisk's booming share price",
-        "• French pharmaceutical company Sanofi announced it will acquire U.S",
-        "• company Dynavax in a deal worth $2.2 billion "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.99
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The pan-European Stoxx 600 was almost 0.1% higher at the opening bell on Wednesday",
-          "• The benchmark reached a new record high on Tuesday, buoyed by Copenhagen-listed Novo Nordisk's booming share price"
-        ],
-        "hopeful_bullets": [
-          "• The benchmark reached a new record high on Tuesday, buoyed by Copenhagen-listed Novo Nordisk's booming share price"
-        ],
-        "stakes_bullets": [
-          "• French pharmaceutical company Sanofi announced it will acquire U.S",
-          "• company Dynavax in a deal worth $2.2 billion "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "42fdaefd7cdd"
     },
     {
       "id": "d65317f4cfe7",
@@ -2125,40 +2160,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "54d39175d722"
-    },
-    {
-      "id": "01c92d84c865",
-      "title": "Libya's army chief killed in air crash in Turkey",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS&at_campaign=rss",
-      "published_at": "Tue, 23 Dec 2025 21:33:42 GMT",
-      "bullets": [
-        "• Libya's army chief killed in air crash in Turkey, Libya's prime minister says",
-        "• Gen Mohammed Ali Ahmed al-Haddad and four others were on board a Falcon 50 aircraft",
-        "• Turkish Interior Minister Ali Yerlikaya said signal with the business jet was lost at 20:52 local time (17:52 GMT)"
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Libya's army chief killed in air crash in Turkey, Libya's prime minister says",
-          "• Gen Mohammed Ali Ahmed al-Haddad and four others were on board a Falcon 50 aircraft"
-        ],
-        "hopeful_bullets": [
-          "• Libya's army chief killed in air crash in Turkey, Libya's prime minister says",
-          "• Gen Mohammed Ali Ahmed al-Haddad and four others were on board a Falcon 50 aircraft"
-        ],
-        "stakes_bullets": [
-          "• Libya's army chief killed in air crash in Turkey, Libya's prime minister says",
-          "• Gen Mohammed Ali Ahmed al-Haddad and four others were on board a Falcon 50 aircraft",
-          "• Turkish Interior Minister Ali Yerlikaya said signal with the business jet was lost at 20:52 local time (17:52 GMT)"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "45b6d6e6334d"
     },
     {
       "id": "7918c28a34b3",
@@ -4827,38 +4828,6 @@
       "cluster_id": "d2b398a70f34"
     },
     {
-      "id": "685246c05aa9",
-      "title": "Federal student loans are changing. Here's what to expect in 2026",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/23/nx-s1-5630504/2026-federal-loans-student-changes-save-plan",
-      "published_at": "Tue, 23 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• Borrowers have spent much of 2025 trying to keep up with dizzying changes to the federal student loan system",
-        "• The new agreement would end the popular student loan repayment plan known as SAVE",
-        "• It was so affordable, generous and flexible that Republican state attorneys general sued the Biden administration for exceeding its authority "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.952
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Borrowers have spent much of 2025 trying to keep up with dizzying changes to the federal student loan system",
-          "• The new agreement would end the popular student loan repayment plan known as SAVE"
-        ],
-        "hopeful_bullets": [
-          "• Borrowers have spent much of 2025 trying to keep up with dizzying changes to the federal student loan system",
-          "• The new agreement would end the popular student loan repayment plan known as SAVE"
-        ],
-        "stakes_bullets": [
-          "• The new agreement would end the popular student loan repayment plan known as SAVE"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "9d263be63aa5"
-    },
-    {
       "id": "29f6a6a7550a",
       "title": "Immigrants now have fewer legal options to stay in the U.S. under Trump",
       "outlet": "NPR Topics: Politics",
@@ -4891,6 +4860,38 @@
       },
       "read_minutes": 6,
       "cluster_id": "6c35cefdfe2b"
+    },
+    {
+      "id": "685246c05aa9",
+      "title": "Federal student loans are changing. Here's what to expect in 2026",
+      "outlet": "NPR Topics: Politics",
+      "url": "https://www.npr.org/2025/12/23/nx-s1-5630504/2026-federal-loans-student-changes-save-plan",
+      "published_at": "Tue, 23 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• Borrowers have spent much of 2025 trying to keep up with dizzying changes to the federal student loan system",
+        "• The new agreement would end the popular student loan repayment plan known as SAVE",
+        "• It was so affordable, generous and flexible that Republican state attorneys general sued the Biden administration for exceeding its authority "
+      ],
+      "category": "Politics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.952
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Borrowers have spent much of 2025 trying to keep up with dizzying changes to the federal student loan system",
+          "• The new agreement would end the popular student loan repayment plan known as SAVE"
+        ],
+        "hopeful_bullets": [
+          "• Borrowers have spent much of 2025 trying to keep up with dizzying changes to the federal student loan system",
+          "• The new agreement would end the popular student loan repayment plan known as SAVE"
+        ],
+        "stakes_bullets": [
+          "• The new agreement would end the popular student loan repayment plan known as SAVE"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "9d263be63aa5"
     },
     {
       "id": "ad7360f41d6b",
@@ -10207,6 +10208,24 @@
       ]
     },
     {
+      "id": "c7906a568751",
+      "topic": "breton commissioner denounce hunt",
+      "keywords": [
+        "breton",
+        "commissioner",
+        "denounce",
+        "hunt",
+        "visa",
+        "witch"
+      ],
+      "item_ids": [
+        "b28d7eb4bce6"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "3ca50e6c2c31",
       "topic": "billion castrol giant oil",
       "keywords": [
@@ -10291,24 +10310,6 @@
       ],
       "item_ids": [
         "ce9a7bb193af"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "42fdaefd7cdd",
-      "topic": "european higher market nordisk",
-      "keywords": [
-        "european",
-        "higher",
-        "market",
-        "nordisk",
-        "novo",
-        "open"
-      ],
-      "item_ids": [
-        "6c97d6ec3a50"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -11333,24 +11334,6 @@
       ]
     },
     {
-      "id": "9d263be63aa5",
-      "topic": "changing expect federal here",
-      "keywords": [
-        "changing",
-        "expect",
-        "federal",
-        "here",
-        "loan",
-        "student"
-      ],
-      "item_ids": [
-        "685246c05aa9"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
       "id": "6c35cefdfe2b",
       "topic": "fewer immigrant legal now",
       "keywords": [
@@ -11363,6 +11346,24 @@
       ],
       "item_ids": [
         "29f6a6a7550a"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
+      "id": "9d263be63aa5",
+      "topic": "changing expect federal here",
+      "keywords": [
+        "changing",
+        "expect",
+        "federal",
+        "here",
+        "loan",
+        "student"
+      ],
+      "item_ids": [
+        "685246c05aa9"
       ],
       "outlets": [
         "NPR Topics: Politics"
