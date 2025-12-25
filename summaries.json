@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T06:05:03Z",
+  "generated_at": "2025-12-25T07:16:21Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -68,7 +68,7 @@
         ]
       },
       "read_minutes": 3,
-      "cluster_id": "bee300a5063b"
+      "cluster_id": "9d780339230d"
     },
     {
       "id": "870bf2e033b4",
@@ -907,6 +907,39 @@
       "cluster_id": "84607d5e2d30"
     },
     {
+      "id": "f4d6df9e31bf",
+      "title": "North Carolina Christmas tree farmers are optimistic after Hurricane Helene",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
+      "published_at": "Wed, 24 Dec 2025 16:00:15 GMT",
+      "bullets": [
+        "• North Carolina is the nation's second-largest city of Christmas trees",
+        "• Last year's devastating hurricane destroyed thousands of trees in the state",
+        "• The storm killed at least 80,000 people and destroyed homes and businesses",
+        "• The trees are still recovering from the damage caused by the storm "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.742
+      },
+      "moods": {
+        "brief_bullets": [
+          "• North Carolina is the nation's second-largest city of Christmas trees",
+          "• Last year's devastating hurricane destroyed thousands of trees in the state"
+        ],
+        "hopeful_bullets": [
+          "• North Carolina is the nation's second-largest city of Christmas trees",
+          "• Last year's devastating hurricane destroyed thousands of trees in the state"
+        ],
+        "stakes_bullets": [
+          "• The trees are still recovering from the damage caused by the storm "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e0ab3f2e7eef"
+    },
+    {
       "id": "839f7e17e55b",
       "title": "The 12 days of Trump-mas",
       "outlet": "US news | The Guardian",
@@ -939,39 +972,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "2e12fe5124d5"
-    },
-    {
-      "id": "f4d6df9e31bf",
-      "title": "North Carolina Christmas tree farmers are optimistic after Hurricane Helene",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
-      "published_at": "Wed, 24 Dec 2025 16:00:15 GMT",
-      "bullets": [
-        "• North Carolina is the nation's second-largest city of Christmas trees",
-        "• Last year's devastating hurricane destroyed thousands of trees in the state",
-        "• The storm killed at least 80,000 people and destroyed homes and businesses",
-        "• The trees are still recovering from the damage caused by the storm "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.742
-      },
-      "moods": {
-        "brief_bullets": [
-          "• North Carolina is the nation's second-largest city of Christmas trees",
-          "• Last year's devastating hurricane destroyed thousands of trees in the state"
-        ],
-        "hopeful_bullets": [
-          "• North Carolina is the nation's second-largest city of Christmas trees",
-          "• Last year's devastating hurricane destroyed thousands of trees in the state"
-        ],
-        "stakes_bullets": [
-          "• The trees are still recovering from the damage caused by the storm "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e0ab3f2e7eef"
     },
     {
       "id": "43bd754e1202",
@@ -1237,38 +1237,6 @@
       "cluster_id": "e12cc75095d2"
     },
     {
-      "id": "25003c82a722",
-      "title": "Boston taps into ‘spirit of rebellion’ as it resists ICE’s immigration crackdown",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/24/boston-ice-immigration-resistance",
-      "published_at": "Wed, 24 Dec 2025 15:00:15 GMT",
-      "bullets": [
-        "• Lucia López Belloza will not be home for Christmas",
-        "• The 19-year-old was on a business scholarship at Babson College near Boston",
-        "• She was deported back to Honduras, a country she left aged seven seeking asylum, with chains on her waist, ankles and wrists "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.967
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Lucia López Belloza will not be home for Christmas",
-          "• The 19-year-old was on a business scholarship at Babson College near Boston"
-        ],
-        "hopeful_bullets": [
-          "• Lucia López Belloza will not be home for Christmas",
-          "• The 19-year-old was on a business scholarship at Babson College near Boston"
-        ],
-        "stakes_bullets": [
-          "• Lucia López Belloza will not be home for Christmas"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "f7055bde6306"
-    },
-    {
       "id": "75f9c454021b",
       "title": "Fresh ‘manty’ and cheap figs: a post-Soviet supermarket becomes a must-visit spot in NYC",
       "outlet": "US news | The Guardian",
@@ -1299,6 +1267,38 @@
       },
       "read_minutes": 5,
       "cluster_id": "1baf5572b708"
+    },
+    {
+      "id": "25003c82a722",
+      "title": "Boston taps into ‘spirit of rebellion’ as it resists ICE’s immigration crackdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/24/boston-ice-immigration-resistance",
+      "published_at": "Wed, 24 Dec 2025 15:00:15 GMT",
+      "bullets": [
+        "• Lucia López Belloza will not be home for Christmas",
+        "• The 19-year-old was on a business scholarship at Babson College near Boston",
+        "• She was deported back to Honduras, a country she left aged seven seeking asylum, with chains on her waist, ankles and wrists "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Lucia López Belloza will not be home for Christmas",
+          "• The 19-year-old was on a business scholarship at Babson College near Boston"
+        ],
+        "hopeful_bullets": [
+          "• Lucia López Belloza will not be home for Christmas",
+          "• The 19-year-old was on a business scholarship at Babson College near Boston"
+        ],
+        "stakes_bullets": [
+          "• Lucia López Belloza will not be home for Christmas"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "f7055bde6306"
     },
     {
       "id": "0bd1ef6339bc",
@@ -2196,40 +2196,6 @@
       "cluster_id": "c363283a55de"
     },
     {
-      "id": "51f10f5fcc15",
-      "title": "Oil giant BP to sell 65% stake in $10 billion Castrol unit",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/24/bp-to-sell-65percent-stake-in-10-billion-castrol-lubricants-to-stonepeak.html",
-      "published_at": "Wed, 24 Dec 2025 08:38:34 GMT",
-      "bullets": [
-        "• BP agrees to sell 65% stake in Castrol to Stonepeak for $6 billion",
-        "• Sale values lubricants company at $10.1 billion",
-        "• BP has option to sell remaining 35% stake after two-year lock-up period",
-        "• Deal comes as oil giant launches $20bn divestment of assets by end of 2027 "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.979
-      },
-      "moods": {
-        "brief_bullets": [
-          "• BP agrees to sell 65% stake in Castrol to Stonepeak for $6 billion",
-          "• Sale values lubricants company at $10.1 billion"
-        ],
-        "hopeful_bullets": [
-          "• BP agrees to sell 65% stake in Castrol to Stonepeak for $6 billion",
-          "• Sale values lubricants company at $10.1 billion"
-        ],
-        "stakes_bullets": [
-          "• BP agrees to sell 65% stake in Castrol to Stonepeak for $6 billion",
-          "• Sale values lubricants company at $10.1 billion"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "3ca50e6c2c31"
-    },
-    {
       "id": "1aba3a5665ba",
       "title": "Rep. Ro Khanna, D-Calif., on lawmakers demanding more Epstein files be released",
       "outlet": "NPR Topics: Politics",
@@ -2396,40 +2362,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "88d92a50aba5"
-    },
-    {
-      "id": "5d2f96239e39",
-      "title": "Vitamix Promo Codes and Deals: $25 Off + Free Shipping",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/vitamix-promo-code/",
-      "published_at": "Wed, 24 Dec 2025 06:20:00 +0000",
-      "bullets": [
-        "• The Vitamix New Ascent X5 is now constructed with a stainless steel container",
-        "• It has an automatic self-cleaning program and ten blending programs for smoothies, smoothies and more for a precise blend",
-        "• The 48-ounce stainless steel material resists stains, odors, and corrosion "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.948
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Vitamix New Ascent X5 is now constructed with a stainless steel container",
-          "• It has an automatic self-cleaning program and ten blending programs for smoothies, smoothies and more for a precise blend"
-        ],
-        "hopeful_bullets": [
-          "• The Vitamix New Ascent X5 is now constructed with a stainless steel container",
-          "• It has an automatic self-cleaning program and ten blending programs for smoothies, smoothies and more for a precise blend"
-        ],
-        "stakes_bullets": [
-          "• The Vitamix New Ascent X5 is now constructed with a stainless steel container",
-          "• It has an automatic self-cleaning program and ten blending programs for smoothies, smoothies and more for a precise blend",
-          "• The 48-ounce stainless steel material resists stains, odors, and corrosion "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f3a7c5cb18cf"
     },
     {
       "id": "bd151cb4d727",
@@ -2660,39 +2592,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "a52dc6363640"
-    },
-    {
-      "id": "02bed53f4410",
-      "title": "How cozy Yuletide traditions got their start with raging parties and animal sacrifice",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/24/nx-s1-5643035/yule-christmas-word-origin",
-      "published_at": "Wed, 24 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• Yule was a pagan mid-winter festival around the solstice, dating back to pre-Christian Germanic people",
-        "• It was particularly important to Scandinavian communities during that time of year",
-        "• In this week's installment of \"Word of the Week,\" we travel back in time to the origins of Yule festivals "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Yule was a pagan mid-winter festival around the solstice, dating back to pre-Christian Germanic people",
-          "• It was particularly important to Scandinavian communities during that time of year"
-        ],
-        "hopeful_bullets": [
-          "• Yule was a pagan mid-winter festival around the solstice, dating back to pre-Christian Germanic people"
-        ],
-        "stakes_bullets": [
-          "• Yule was a pagan mid-winter festival around the solstice, dating back to pre-Christian Germanic people",
-          "• It was particularly important to Scandinavian communities during that time of year",
-          "• In this week's installment of \"Word of the Week,\" we travel back in time to the origins of Yule festivals "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "cb7c6ea30e8d"
     },
     {
       "id": "41e09ca5ae78",
@@ -3632,40 +3531,6 @@
       "cluster_id": "b738d0180bdd"
     },
     {
-      "id": "b7bc0e9ba6d5",
-      "title": "Supreme Court rejects Trump's bid to send National Guard to Chicago",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/23/supreme-court-trump-national-guard-chicago.html",
-      "published_at": "Tue, 23 Dec 2025 21:57:17 GMT",
-      "bullets": [
-        "• The Supreme Court declines to overrule a lower court order to allow the deployment of National Guard troops to the Chicago area",
-        "• The order cites the Posse Comitatus Act, which prohibits the military from engaging in domestic law enforcement unless explicitly authorized by the Constitution or Congress",
-        "• Trump's attempts to send troops to mostly blue cities have led to lawsuits "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Supreme Court declines to overrule a lower court order to allow the deployment of National Guard troops to the Chicago area",
-          "• The order cites the Posse Comitatus Act, which prohibits the military from engaging in domestic law enforcement unless explicitly authorized by the Constitution or Congress"
-        ],
-        "hopeful_bullets": [
-          "• The Supreme Court declines to overrule a lower court order to allow the deployment of National Guard troops to the Chicago area",
-          "• The order cites the Posse Comitatus Act, which prohibits the military from engaging in domestic law enforcement unless explicitly authorized by the Constitution or Congress"
-        ],
-        "stakes_bullets": [
-          "• The Supreme Court declines to overrule a lower court order to allow the deployment of National Guard troops to the Chicago area",
-          "• The order cites the Posse Comitatus Act, which prohibits the military from engaging in domestic law enforcement unless explicitly authorized by the Constitution or Congress",
-          "• Trump's attempts to send troops to mostly blue cities have led to lawsuits "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "987c4e34b4ff"
-    },
-    {
       "id": "30cf4039a829",
       "title": "Barbra Streisand Celebrates Years-Long Friendship With Ariana Grande: ‘I’m Very Proud of You’",
       "outlet": "Music News",
@@ -4430,37 +4295,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "0685257f9180"
-    },
-    {
-      "id": "bc86476bb115",
-      "title": "Ministers raise inheritance tax threshold for farms after backlash",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/dec/23/ministers-raise-inheritance-tax-threshold-for-farms-after-backlash",
-      "published_at": "Tue, 23 Dec 2025 17:38:21 GMT",
-      "bullets": [
-        "• Ministers will increase threshold for taxing inherited farmland from £1m to £2.5m after months of pressure from campaigners and MPs",
-        "• The U-turn follows intensive behind-the-scenes efforts from a group of Labour MPs who had been pushing for the threshold to be changed "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.918
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ministers will increase threshold for taxing inherited farmland from £1m to £2.5m after months of pressure from campaigners and MPs",
-          "• The U-turn follows intensive behind-the-scenes efforts from a group of Labour MPs who had been pushing for the threshold to be changed "
-        ],
-        "hopeful_bullets": [
-          "• Ministers will increase threshold for taxing inherited farmland from £1m to £2.5m after months of pressure from campaigners and MPs",
-          "• The U-turn follows intensive behind-the-scenes efforts from a group of Labour MPs who had been pushing for the threshold to be changed "
-        ],
-        "stakes_bullets": [
-          "• Ministers will increase threshold for taxing inherited farmland from £1m to £2.5m after months of pressure from campaigners and MPs"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "3a144b49580f"
     },
     {
       "id": "b7563f5d55f3",
@@ -5446,6 +5280,141 @@
       "cluster_id": "de631f7845cb"
     },
     {
+      "id": "3006246ab669",
+      "title": "5 major trends set to shape travel in 2026",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/25/5-major-trends-set-to-shape-travel-in-2026.html",
+      "published_at": "Thu, 25 Dec 2025 06:36:23 GMT",
+      "bullets": [
+        "• Traveling is no longer just about the destination – or even the journey – it's about the experience you walk away with",
+        "• Travelers are increasingly avoiding peak seasons and heavily visited destinations",
+        "• The anti-tourist trend is fueling the rise of so‑called \"secondary cities\""
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.624
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Traveling is no longer just about the destination – or even the journey – it's about the experience you walk away with",
+          "• Travelers are increasingly avoiding peak seasons and heavily visited destinations"
+        ],
+        "hopeful_bullets": [
+          "• Traveling is no longer just about the destination – or even the journey – it's about the experience you walk away with",
+          "• Travelers are increasingly avoiding peak seasons and heavily visited destinations"
+        ],
+        "stakes_bullets": [
+          "• Traveling is no longer just about the destination – or even the journey – it's about the experience you walk away with",
+          "• Travelers are increasingly avoiding peak seasons and heavily visited destinations",
+          "• The anti-tourist trend is fueling the rise of so‑called \"secondary cities\""
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "748c9afaa44d"
+    },
+    {
+      "id": "62cff209a09a",
+      "title": "Sealy Promo Code: Save $200 on Mattresses This Month",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/sealy-promo-code/",
+      "published_at": "Thu, 25 Dec 2025 06:10:00 +0000",
+      "bullets": [
+        "• Save $200 on an Ease Power Base With This Sealy Coupon",
+        "• Use Sealy promo code on this page to knock $200 off your bed and Ease power base purchase",
+        "• Sealy has kept pace with the times by offering modern variations like memory foam and hybrid mattresses "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.849
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Save $200 on an Ease Power Base With This Sealy Coupon",
+          "• Use Sealy promo code on this page to knock $200 off your bed and Ease power base purchase"
+        ],
+        "hopeful_bullets": [
+          "• Save $200 on an Ease Power Base With This Sealy Coupon",
+          "• Use Sealy promo code on this page to knock $200 off your bed and Ease power base purchase"
+        ],
+        "stakes_bullets": [
+          "• Save $200 on an Ease Power Base With This Sealy Coupon",
+          "• Use Sealy promo code on this page to knock $200 off your bed and Ease power base purchase",
+          "• Sealy has kept pace with the times by offering modern variations like memory foam and hybrid mattresses "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "f847778647b6"
+    },
+    {
+      "id": "471eb39901e0",
+      "title": "Plant ‘tredges’ to boost England’s tree cover, gardeners urged",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/dec/25/plant-tredges-boost-england-tree-cover-gardens-rhs",
+      "published_at": "Thu, 25 Dec 2025 06:00:33 GMT",
+      "bullets": [
+        "• The UK’s woodland cover is approximately 10% and the government aims to increase this to at least 16.5% of all land in England by 2050",
+        "• A garden demonstrating this approach will be unveiled at the Chelsea flower show in May",
+        "• The Woodland Trust: Forgotten Forests Garden will represent a damaged ancient woodland "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.869
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The UK’s woodland cover is approximately 10% and the government aims to increase this to at least 16.5% of all land in England by 2050",
+          "• A garden demonstrating this approach will be unveiled at the Chelsea flower show in May"
+        ],
+        "hopeful_bullets": [
+          "• The UK’s woodland cover is approximately 10% and the government aims to increase this to at least 16.5% of all land in England by 2050",
+          "• A garden demonstrating this approach will be unveiled at the Chelsea flower show in May"
+        ],
+        "stakes_bullets": [
+          "• The UK’s woodland cover is approximately 10% and the government aims to increase this to at least 16.5% of all land in England by 2050",
+          "• A garden demonstrating this approach will be unveiled at the Chelsea flower show in May",
+          "• The Woodland Trust: Forgotten Forests Garden will represent a damaged ancient woodland "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9f3fcc6bb6cc"
+    },
+    {
+      "id": "ff5778e8bb30",
+      "title": "Monetizers vs manufactures: How the AI market could splinter in 2026",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/25/how-the-ai-market-could-splinter-in-2026-.html",
+      "published_at": "Thu, 25 Dec 2025 05:06:31 GMT",
+      "bullets": [
+        "• Last three months of 2025 were a rollercoaster of tech sell-offs and rallies",
+        "• Investors are paying closer attention to who is spending money and who is making it, says Stephen Yiu, chief investment officer at Blue Whale Growth Fund",
+        "• Yiu sees three camps: private companies or startups, listed AI spenders and AI infrastructure firms "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Last three months of 2025 were a rollercoaster of tech sell-offs and rallies",
+          "• Investors are paying closer attention to who is spending money and who is making it, says Stephen Yiu, chief investment officer at Blue Whale Growth Fund"
+        ],
+        "hopeful_bullets": [
+          "• Investors are paying closer attention to who is spending money and who is making it, says Stephen Yiu, chief investment officer at Blue Whale Growth Fund"
+        ],
+        "stakes_bullets": [
+          "• Last three months of 2025 were a rollercoaster of tech sell-offs and rallies",
+          "• Investors are paying closer attention to who is spending money and who is making it, says Stephen Yiu, chief investment officer at Blue Whale Growth Fund",
+          "• Yiu sees three camps: private companies or startups, listed AI spenders and AI infrastructure firms "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "293a02ef2ad6"
+    },
+    {
       "id": "3b998a7b3523",
       "title": "Gekkomon's New Digivolution in Digimon Beatbreak is Perfect",
       "outlet": "CBR",
@@ -5843,6 +5812,38 @@
       },
       "read_minutes": 7,
       "cluster_id": "66cf0061f541"
+    },
+    {
+      "id": "9d1d6d1354e6",
+      "title": "Trump-backed candidate Nasry Asfura declared winner of Honduras' presidential vote",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/25/g-s1-103680/nasry-asfura-winner-honduras-presidential-vote",
+      "published_at": "Thu, 25 Dec 2025 01:30:46 -0500",
+      "bullets": [
+        "• Trump-backed candidate Nasry Asfura declared winner of Honduras' presidential vote",
+        "• Election is continuing Latin America's swing to the right, coming just a week after Chile chose far-right candidate José Antonio Kast as its next president",
+        "• The results were a rebuke of the current leftist leader, whose candidate finished in a distant third place "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.705
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump-backed candidate Nasry Asfura declared winner of Honduras' presidential vote",
+          "• Election is continuing Latin America's swing to the right, coming just a week after Chile chose far-right candidate José Antonio Kast as its next president"
+        ],
+        "hopeful_bullets": [
+          "• Trump-backed candidate Nasry Asfura declared winner of Honduras' presidential vote",
+          "• Election is continuing Latin America's swing to the right, coming just a week after Chile chose far-right candidate José Antonio Kast as its next president"
+        ],
+        "stakes_bullets": [
+          "• The results were a rebuke of the current leftist leader, whose candidate finished in a distant third place "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "9d780339230d"
     },
     {
       "id": "b99dec3073c3",
@@ -9756,20 +9757,23 @@
       ]
     },
     {
-      "id": "bee300a5063b",
+      "id": "9d780339230d",
       "topic": "asfura backed candidate declared",
       "keywords": [
         "asfura",
         "backed",
         "candidate",
         "declared",
+        "nasry",
         "president",
         "trump"
       ],
       "item_ids": [
-        "32f9dc5bd696"
+        "32f9dc5bd696",
+        "9d1d6d1354e6"
       ],
       "outlets": [
+        "NPR Topics: News",
         "World news | The Guardian"
       ]
     },
@@ -9900,21 +9904,6 @@
       ]
     },
     {
-      "id": "2e12fe5124d5",
-      "topic": "days mas trump",
-      "keywords": [
-        "days",
-        "mas",
-        "trump"
-      ],
-      "item_ids": [
-        "839f7e17e55b"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "e0ab3f2e7eef",
       "topic": "carolina christma farmer north",
       "keywords": [
@@ -9927,6 +9916,21 @@
       ],
       "item_ids": [
         "f4d6df9e31bf"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "2e12fe5124d5",
+      "topic": "days mas trump",
+      "keywords": [
+        "days",
+        "mas",
+        "trump"
+      ],
+      "item_ids": [
+        "839f7e17e55b"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9951,24 +9955,6 @@
       ]
     },
     {
-      "id": "f7055bde6306",
-      "topic": "boston ice rebellion resist",
-      "keywords": [
-        "boston",
-        "ice",
-        "rebellion",
-        "resist",
-        "spirit",
-        "taps"
-      ],
-      "item_ids": [
-        "25003c82a722"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "1baf5572b708",
       "topic": "cheap figs fresh manty",
       "keywords": [
@@ -9981,6 +9967,24 @@
       ],
       "item_ids": [
         "75f9c454021b"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "f7055bde6306",
+      "topic": "boston ice rebellion resist",
+      "keywords": [
+        "boston",
+        "ice",
+        "rebellion",
+        "resist",
+        "spirit",
+        "taps"
+      ],
+      "item_ids": [
+        "25003c82a722"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -10183,24 +10187,6 @@
       ]
     },
     {
-      "id": "cb7c6ea30e8d",
-      "topic": "cozy got raging start",
-      "keywords": [
-        "cozy",
-        "got",
-        "raging",
-        "start",
-        "tradition",
-        "yuletide"
-      ],
-      "item_ids": [
-        "02bed53f4410"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "1dd0e2e0d1d5",
       "topic": "buying chip exclusive groq",
       "keywords": [
@@ -10237,6 +10223,23 @@
       ]
     },
     {
+      "id": "293a02ef2ad6",
+      "topic": "2026 manufacture market monetizer",
+      "keywords": [
+        "2026",
+        "manufacture",
+        "market",
+        "monetizer",
+        "splinter"
+      ],
+      "item_ids": [
+        "ff5778e8bb30"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "f61cac5bad1b",
       "topic": "doj epstein file million",
       "keywords": [
@@ -10249,6 +10252,60 @@
       ],
       "item_ids": [
         "ccfef07dedd8"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "748c9afaa44d",
+      "topic": "2026 major set shape",
+      "keywords": [
+        "2026",
+        "major",
+        "set",
+        "shape",
+        "travel",
+        "trend"
+      ],
+      "item_ids": [
+        "3006246ab669"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "1f92647429b9",
+      "topic": "alongside buying earning post",
+      "keywords": [
+        "alongside",
+        "buying",
+        "earning",
+        "post",
+        "slump",
+        "stock"
+      ],
+      "item_ids": [
+        "996c3c4f6450"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "c63f959418a9",
+      "topic": "benefit deduction tax tips",
+      "keywords": [
+        "benefit",
+        "deduction",
+        "tax",
+        "tips",
+        "trump",
+        "won"
+      ],
+      "item_ids": [
+        "2de752261c22"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10309,75 +10366,21 @@
       ]
     },
     {
-      "id": "1f92647429b9",
-      "topic": "alongside buying earning post",
+      "id": "f847778647b6",
+      "topic": "200 code mattresse promo",
       "keywords": [
-        "alongside",
-        "buying",
-        "earning",
-        "post",
-        "slump",
-        "stock"
+        "200",
+        "code",
+        "mattresse",
+        "promo",
+        "save",
+        "sealy"
       ],
       "item_ids": [
-        "996c3c4f6450"
+        "62cff209a09a"
       ],
       "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "c63f959418a9",
-      "topic": "benefit deduction tax tips",
-      "keywords": [
-        "benefit",
-        "deduction",
-        "tax",
-        "tips",
-        "trump",
-        "won"
-      ],
-      "item_ids": [
-        "2de752261c22"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "3ca50e6c2c31",
-      "topic": "billion castrol giant oil",
-      "keywords": [
-        "billion",
-        "castrol",
-        "giant",
-        "oil",
-        "sell",
-        "stake"
-      ],
-      "item_ids": [
-        "51f10f5fcc15"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "987c4e34b4ff",
-      "topic": "bid court reject send",
-      "keywords": [
-        "bid",
-        "court",
-        "reject",
-        "send",
-        "supreme",
-        "trump"
-      ],
-      "item_ids": [
-        "b7bc0e9ba6d5"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
+        "WIRED"
       ]
     },
     {
@@ -10531,24 +10534,6 @@
       ],
       "item_ids": [
         "2fe8276ae251"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "f3a7c5cb18cf",
-      "topic": "code deal free off",
-      "keywords": [
-        "code",
-        "deal",
-        "free",
-        "off",
-        "promo",
-        "vitamix"
-      ],
-      "item_ids": [
-        "5d2f96239e39"
       ],
       "outlets": [
         "WIRED"
@@ -11735,6 +11720,24 @@
       ]
     },
     {
+      "id": "9f3fcc6bb6cc",
+      "topic": "boost cover england plant",
+      "keywords": [
+        "boost",
+        "cover",
+        "england",
+        "plant",
+        "tredge",
+        "tree"
+      ],
+      "item_ids": [
+        "471eb39901e0"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "02bd1c0444fe",
       "topic": "farmer inheritance out snuck",
       "keywords": [
@@ -11765,24 +11768,6 @@
       ],
       "item_ids": [
         "31881694b880"
-      ],
-      "outlets": [
-        "Environment | The Guardian"
-      ]
-    },
-    {
-      "id": "3a144b49580f",
-      "topic": "farm inheritance minister raise",
-      "keywords": [
-        "farm",
-        "inheritance",
-        "minister",
-        "raise",
-        "tax",
-        "threshold"
-      ],
-      "item_ids": [
-        "bc86476bb115"
       ],
       "outlets": [
         "Environment | The Guardian"
