@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T16:20:09Z",
+  "generated_at": "2025-12-25T17:06:55Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -776,7 +776,7 @@
     {
       "id": "f4d6df9e31bf",
       "title": "North Carolina Christmas tree farmers are optimistic after Hurricane Helene",
-      "outlet": "US news | The Guardian",
+      "outlet": "Environment | The Guardian",
       "url": "https://www.theguardian.com/us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
       "published_at": "Wed, 24 Dec 2025 16:00:15 GMT",
       "bullets": [
@@ -785,7 +785,7 @@
         "• The storm killed at least 80,000 people and destroyed homes and businesses",
         "• The trees are still recovering from the damage caused by the storm "
       ],
-      "category": "US",
+      "category": "Environment",
       "sentiment": {
         "label": "positive",
         "score": 0.742
@@ -805,40 +805,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "e0ab3f2e7eef"
-    },
-    {
-      "id": "839f7e17e55b",
-      "title": "The 12 days of Trump-mas",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/23/the-12-days-of-trump-mas",
-      "published_at": "Wed, 24 Dec 2025 16:00:15 GMT",
-      "bullets": [
-        "• The White House gave “Oval Office logs’ to the New York Post",
-        "• The next day Trump appeared to fall asleep during a cabinet meeting",
-        "• “Over the past 11 months, we have brought more positive change to Washington than any other administration,” Trump said in a speech "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The White House gave “Oval Office logs’ to the New York Post",
-          "• The next day Trump appeared to fall asleep during a cabinet meeting"
-        ],
-        "hopeful_bullets": [
-          "• The White House gave “Oval Office logs’ to the New York Post",
-          "• The next day Trump appeared to fall asleep during a cabinet meeting"
-        ],
-        "stakes_bullets": [
-          "• The White House gave “Oval Office logs’ to the New York Post",
-          "• The next day Trump appeared to fall asleep during a cabinet meeting",
-          "• “Over the past 11 months, we have brought more positive change to Washington than any other administration,” Trump said in a speech "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "2e12fe5124d5"
     },
     {
       "id": "43bd754e1202",
@@ -2207,6 +2173,37 @@
       "cluster_id": "af6953ceb98d"
     },
     {
+      "id": "887c9b0f612e",
+      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "hopeful_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "stakes_bullets": [
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6e35bfde9a6"
+    },
+    {
       "id": "b90342b2ae45",
       "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
       "outlet": "NPR Topics: Science",
@@ -2237,37 +2234,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "43bbb6302f3a"
-    },
-    {
-      "id": "887c9b0f612e",
-      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "hopeful_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "stakes_bullets": [
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a6e35bfde9a6"
     },
     {
       "id": "40d030e37f88",
@@ -4096,6 +4062,336 @@
       "cluster_id": "de631f7845cb"
     },
     {
+      "id": "11145d696620",
+      "title": "Event Horizon Sequel Writer Compares His Story to James Cameron's Aliens: 'It's a Different Beast' (Exclusive)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/event-horizon-sequel-writer-james-cameron-aliens-christian-ward/",
+      "published_at": "Thu, 25 Dec 2025 17:00:12 GMT",
+      "bullets": [
+        "• IDW is expanding its IDW Dark comic book imprint with new comic book series set in the universes of famous Paramount horror film franchises",
+        "• A Quiet Place and Smile are new additions to this line, and they are joining Event Horizon, which has already been a major hit for IDW in the line with its current Event Horizon: Dark Descent series "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• IDW is expanding its IDW Dark comic book imprint with new comic book series set in the universes of famous Paramount horror film franchises",
+          "• A Quiet Place and Smile are new additions to this line, and they are joining Event Horizon, which has already been a major hit for IDW in the line with its current Event Horizon: Dark Descent series "
+        ],
+        "hopeful_bullets": [
+          "• IDW is expanding its IDW Dark comic book imprint with new comic book series set in the universes of famous Paramount horror film franchises",
+          "• A Quiet Place and Smile are new additions to this line, and they are joining Event Horizon, which has already been a major hit for IDW in the line with its current Event Horizon: Dark Descent series "
+        ],
+        "stakes_bullets": [
+          "• IDW is expanding its IDW Dark comic book imprint with new comic book series set in the universes of famous Paramount horror film franchises"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "9fd50e539401"
+    },
+    {
+      "id": "975f711a11bf",
+      "title": "The Karate Kid Trilogy Leaves Netflix: Stream Now Before It’s Gone",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-karate-kid-movies-leaving-netflix-january-2026/",
+      "published_at": "Thu, 25 Dec 2025 17:00:12 GMT",
+      "bullets": [
+        "• The Karate Kid trilogy and the 2010 film of the same name are set to leave Netflix",
+        "• The original trilogy will be available to stream until January 1",
+        "• The film was a massive success upon its release",
+        "• Roger Ebert gave it a perfect four out of four stars "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.959
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Karate Kid trilogy and the 2010 film of the same name are set to leave Netflix",
+          "• The original trilogy will be available to stream until January 1"
+        ],
+        "hopeful_bullets": [
+          "• The Karate Kid trilogy and the 2010 film of the same name are set to leave Netflix",
+          "• The original trilogy will be available to stream until January 1"
+        ],
+        "stakes_bullets": [
+          "• The original trilogy will be available to stream until January 1"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "f88965545815"
+    },
+    {
+      "id": "3c9c3c83b3b7",
+      "title": "Best Brainiac Stories to Read or Watch Before Man of Tomorrow",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-superman-brainiac-stories-pre-man-of-tomorrow/",
+      "published_at": "Thu, 25 Dec 2025 17:00:12 GMT",
+      "bullets": [
+        "• James Gunn's Superman follow-up, Man of Tomorrow, confirms the casting of Lars Eidinger as Brainiac",
+        "• The character will finally make his big-screen debut in 2027",
+        "• The film will be the first to bring the villain to the big screen",
+        "• The movie will still feature Lex Luthor and General Zod "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• James Gunn's Superman follow-up, Man of Tomorrow, confirms the casting of Lars Eidinger as Brainiac",
+          "• The character will finally make his big-screen debut in 2027"
+        ],
+        "hopeful_bullets": [
+          "• James Gunn's Superman follow-up, Man of Tomorrow, confirms the casting of Lars Eidinger as Brainiac",
+          "• The character will finally make his big-screen debut in 2027"
+        ],
+        "stakes_bullets": [
+          "• The character will finally make his big-screen debut in 2027",
+          "• The film will be the first to bring the villain to the big screen",
+          "• The movie will still feature Lex Luthor and General Zod "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "e5837d0154aa"
+    },
+    {
+      "id": "a42918234de9",
+      "title": "A Single Throwaway Twilight Scene Hits Even Harder in 2025",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/twilight-bella-charlie-quote-hits-harder-2025/",
+      "published_at": "Thu, 25 Dec 2025 17:00:12 GMT",
+      "bullets": [
+        "• Seventeen years after the release of the first Twilight film, people are still rediscovering and reappraising the film",
+        "• Watching the film as an adult gives viewers a chance to explore the story through a different lens",
+        "• The scene where Bella has to leave Charlie in Twilight turns into one of the most heartbreaking in the entire saga "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Seventeen years after the release of the first Twilight film, people are still rediscovering and reappraising the film",
+          "• Watching the film as an adult gives viewers a chance to explore the story through a different lens"
+        ],
+        "hopeful_bullets": [
+          "• Seventeen years after the release of the first Twilight film, people are still rediscovering and reappraising the film",
+          "• Watching the film as an adult gives viewers a chance to explore the story through a different lens"
+        ],
+        "stakes_bullets": [
+          "• Seventeen years after the release of the first Twilight film, people are still rediscovering and reappraising the film",
+          "• Watching the film as an adult gives viewers a chance to explore the story through a different lens",
+          "• The scene where Bella has to leave Charlie in Twilight turns into one of the most heartbreaking in the entire saga "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "87bb4afeb19d"
+    },
+    {
+      "id": "8c32dbd75e54",
+      "title": "Sean “Diddy” Combs Requests “Immediate Release” From Prison",
+      "outlet": "RSS: News",
+      "url": "https://pitchfork.com/news/sean-diddy-combs-appeals-prison-sentence/",
+      "published_at": "Thu, 25 Dec 2025 16:45:39 +0000",
+      "bullets": [
+        "• Attorneys for Sean “Diddy’s” Combs have filed a notice of appeal",
+        "• The music mogul was sentenced to 50 months in prison and ordered to pay a fine of $500,000",
+        "• The appeal follows an unsuccessful bid in September where Combs asked Judge Subramanian to consider an acquittal or new trial "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Attorneys for Sean “Diddy’s” Combs have filed a notice of appeal",
+          "• The music mogul was sentenced to 50 months in prison and ordered to pay a fine of $500,000"
+        ],
+        "hopeful_bullets": [
+          "• Attorneys for Sean “Diddy’s” Combs have filed a notice of appeal",
+          "• The music mogul was sentenced to 50 months in prison and ordered to pay a fine of $500,000"
+        ],
+        "stakes_bullets": [
+          "• Attorneys for Sean “Diddy’s” Combs have filed a notice of appeal",
+          "• The music mogul was sentenced to 50 months in prison and ordered to pay a fine of $500,000",
+          "• The appeal follows an unsuccessful bid in September where Combs asked Judge Subramanian to consider an acquittal or new trial "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "685e753ecb9b"
+    },
+    {
+      "id": "d311dca69708",
+      "title": "Harry Potter Gets Torn Apart by a Medical Expert",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/harry-potter-gets-torn-apart-by-medical-expert/",
+      "published_at": "Thu, 25 Dec 2025 16:30:12 GMT",
+      "bullets": [
+        "• Doctor Mike Varshavski watched the entire Harry Potter franchise and revealed several things that were accurate",
+        "• He said Harry's lightning bolt scar was treated by a bad plastic surgeon who was trying to practice Z-plasty",
+        "• In the scene in Harry Potter and the Sorcerer's Stone where they learn to fly, he highlighted they needed to wear helmets "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.685
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Doctor Mike Varshavski watched the entire Harry Potter franchise and revealed several things that were accurate",
+          "• He said Harry's lightning bolt scar was treated by a bad plastic surgeon who was trying to practice Z-plasty"
+        ],
+        "hopeful_bullets": [
+          "• He said Harry's lightning bolt scar was treated by a bad plastic surgeon who was trying to practice Z-plasty"
+        ],
+        "stakes_bullets": [
+          "• Doctor Mike Varshavski watched the entire Harry Potter franchise and revealed several things that were accurate",
+          "• He said Harry's lightning bolt scar was treated by a bad plastic surgeon who was trying to practice Z-plasty",
+          "• In the scene in Harry Potter and the Sorcerer's Stone where they learn to fly, he highlighted they needed to wear helmets "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c7729847348a"
+    },
+    {
+      "id": "b43d5d4f93b7",
+      "title": "Official Hololive Cream Puffs Collaboration Heads to the U.S. in Limited-Edition Dessert Rollout",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/hololive-justice-beard-papas-cream-puff-january-2026/",
+      "published_at": "Thu, 25 Dec 2025 16:30:12 GMT",
+      "bullets": [
+        "• Beard Papa's is teaming up with the world's most popular VTuber agency to deliver scrumptious treats based on \"Justice\" The four members of Hololive Justice include Raora Panthera, Cecilia Immergreen, Elizabeth Rose Bloodflame and Gigi Murin",
+        "• Each talent specializes in different anime-inspired hobbies, such as artistry or karaoke performances "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.957
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Beard Papa's is teaming up with the world's most popular VTuber agency to deliver scrumptious treats based on \"Justice\" The four members of Hololive Justice include Raora Panthera, Cecilia Immergreen, Elizabeth Rose Bloodflame and Gigi Murin",
+          "• Each talent specializes in different anime-inspired hobbies, such as artistry or karaoke performances "
+        ],
+        "hopeful_bullets": [
+          "• Beard Papa's is teaming up with the world's most popular VTuber agency to deliver scrumptious treats based on \"Justice\" The four members of Hololive Justice include Raora Panthera, Cecilia Immergreen, Elizabeth Rose Bloodflame and Gigi Murin",
+          "• Each talent specializes in different anime-inspired hobbies, such as artistry or karaoke performances "
+        ],
+        "stakes_bullets": [
+          "• Beard Papa's is teaming up with the world's most popular VTuber agency to deliver scrumptious treats based on \"Justice\" The four members of Hololive Justice include Raora Panthera, Cecilia Immergreen, Elizabeth Rose Bloodflame and Gigi Murin",
+          "• Each talent specializes in different anime-inspired hobbies, such as artistry or karaoke performances "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0cf585335afd"
+    },
+    {
+      "id": "daaf3c29a357",
+      "title": "Pope Leo urges 'courage' to end Ukraine war in first Christmas address",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 25 Dec 2025 16:21:18 GMT",
+      "bullets": [
+        "• Pope calls for an end to conflicts between Russia and Ukraine",
+        "• He urges the parties involved to find the \"courage\" to end the conflict",
+        "• The Pope also calls for the end of the conflict in Ukraine to be restored to the world "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.991
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Pope calls for an end to conflicts between Russia and Ukraine",
+          "• He urges the parties involved to find the \"courage\" to end the conflict"
+        ],
+        "hopeful_bullets": [
+          "• Pope calls for an end to conflicts between Russia and Ukraine",
+          "• He urges the parties involved to find the \"courage\" to end the conflict"
+        ],
+        "stakes_bullets": [
+          "• Pope calls for an end to conflicts between Russia and Ukraine",
+          "• He urges the parties involved to find the \"courage\" to end the conflict",
+          "• The Pope also calls for the end of the conflict in Ukraine to be restored to the world "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "9a6884f05fed"
+    },
+    {
+      "id": "b05504cbacf3",
+      "title": "‘Not an enabler’? A glimpse behind the curtain at Trump’s chief of staff, Susie Wiles",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/25/trump-chief-of-staff-susie-wiles",
+      "published_at": "Thu, 25 Dec 2025 16:18:32 GMT",
+      "bullets": [
+        "• Wiles described the president as having ‘an alcoholic’s personality’ and an eye for vengeance against perceived enemies",
+        "• The first woman to serve as White House chief of staff also called the vice-president, JD Vance, a “conspiracy theorist” and branded tech tycoon Elon Musk an ‘odd, odd duck”"
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.781
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Wiles described the president as having ‘an alcoholic’s personality’ and an eye for vengeance against perceived enemies",
+          "• The first woman to serve as White House chief of staff also called the vice-president, JD Vance, a “conspiracy theorist” and branded tech tycoon Elon Musk an ‘odd, odd duck”"
+        ],
+        "hopeful_bullets": [
+          "• Wiles described the president as having ‘an alcoholic’s personality’ and an eye for vengeance against perceived enemies"
+        ],
+        "stakes_bullets": [
+          "• Wiles described the president as having ‘an alcoholic’s personality’ and an eye for vengeance against perceived enemies",
+          "• The first woman to serve as White House chief of staff also called the vice-president, JD Vance, a “conspiracy theorist” and branded tech tycoon Elon Musk an ‘odd, odd duck”"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "10a27c070c5a"
+    },
+    {
+      "id": "a40dca42c41c",
+      "title": "Jujutsu Kaisen Officially Returns for Season 3 in January",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/jujutsu-kaisen-season-3-return-january-8-2026/",
+      "published_at": "Thu, 25 Dec 2025 16:15:12 GMT",
+      "bullets": [
+        "• Jujutsu Kaisen Season 1 took anime fans by storm when it introduced its dark, curse-infested world",
+        "• Season 2 and \"The Shibuya Incident\" arc left fans both devastated and eager for more",
+        "• With Ryomen Sukuna setting his sights on Megumi Fushiguro and the Culling Game in full-swing "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.986
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Jujutsu Kaisen Season 1 took anime fans by storm when it introduced its dark, curse-infested world",
+          "• Season 2 and \"The Shibuya Incident\" arc left fans both devastated and eager for more"
+        ],
+        "hopeful_bullets": [
+          "• With Ryomen Sukuna setting his sights on Megumi Fushiguro and the Culling Game in full-swing "
+        ],
+        "stakes_bullets": [
+          "• Jujutsu Kaisen Season 1 took anime fans by storm when it introduced its dark, curse-infested world",
+          "• Season 2 and \"The Shibuya Incident\" arc left fans both devastated and eager for more",
+          "• With Ryomen Sukuna setting his sights on Megumi Fushiguro and the Culling Game in full-swing "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "1df55981f4ab"
+    },
+    {
       "id": "9a8b22397be4",
       "title": "Epic Free Holiday 2025 Games: A Complete List",
       "outlet": "CBR",
@@ -4229,39 +4525,6 @@
       "cluster_id": "6959f3b348ea"
     },
     {
-      "id": "64b9f4c119d5",
-      "title": "7 New Movies That Will Become Your Next Sci-Fi Obsession in 2026",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/2026-sci-fi-movies-to-watch/",
-      "published_at": "Thu, 25 Dec 2025 16:00:11 GMT",
-      "bullets": [
-        "• 2026 will be an epic year for the science fiction genre",
-        "• The next twelve months will be filled with epic new sci-fi films that run the gamut",
-        "• Chris Pratt and Rebecca Ferguson star in Mercy, a new film starring Pratt and Ferguson "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 2026 will be an epic year for the science fiction genre",
-          "• The next twelve months will be filled with epic new sci-fi films that run the gamut"
-        ],
-        "hopeful_bullets": [
-          "• 2026 will be an epic year for the science fiction genre",
-          "• The next twelve months will be filled with epic new sci-fi films that run the gamut"
-        ],
-        "stakes_bullets": [
-          "• 2026 will be an epic year for the science fiction genre",
-          "• The next twelve months will be filled with epic new sci-fi films that run the gamut"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "112c2a46536d"
-    },
-    {
       "id": "235c0eb1b292",
       "title": "Bloody Disgusting’s 10 Best Horror Anime of 2025",
       "outlet": "Bloody Disgusting!",
@@ -4294,36 +4557,39 @@
       "cluster_id": "b03d5ba64cf6"
     },
     {
-      "id": "9020eb5a84fe",
-      "title": "The Greatest Lego Superhero Games of All Time, Ranked",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-lego-superhero-game-ranked/",
-      "published_at": "Thu, 25 Dec 2025 15:15:12 GMT",
+      "id": "f62ed0207f0b",
+      "title": "Southern California sees third death from atmospheric river storm drenching region",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/25/southern-california-atmospheric-river-storm",
+      "published_at": "Thu, 25 Dec 2025 15:43:37 GMT",
       "bullets": [
-        "• Lego The Incredibles is one of Pixar’s most beloved films",
-        "• The game's compact experience and smaller open-world will appeal to some players",
-        "• It doesn't fully deliver on some of the collectible gimmicks that the best Lego games have "
+        "• Flood watch extended through Thursday for almost all of the area",
+        "• More than 11in of rainfall measured in some parts Los Angeles county as of Wednesday night",
+        "• Evacuation warnings issued for mountain communities in San Bernardino county",
+        "• Governor Gavin Newsom has declared a state of emergency in southern California counties "
       ],
-      "category": "Comics",
+      "category": "US",
       "sentiment": {
         "label": "negative",
-        "score": 0.676
+        "score": 0.97
       },
       "moods": {
         "brief_bullets": [
-          "• Lego The Incredibles is one of Pixar’s most beloved films",
-          "• The game's compact experience and smaller open-world will appeal to some players"
+          "• Flood watch extended through Thursday for almost all of the area",
+          "• More than 11in of rainfall measured in some parts Los Angeles county as of Wednesday night"
         ],
         "hopeful_bullets": [
-          "• Lego The Incredibles is one of Pixar’s most beloved films",
-          "• The game's compact experience and smaller open-world will appeal to some players"
+          "• Flood watch extended through Thursday for almost all of the area",
+          "• More than 11in of rainfall measured in some parts Los Angeles county as of Wednesday night"
         ],
         "stakes_bullets": [
-          "• The game's compact experience and smaller open-world will appeal to some players"
+          "• Flood watch extended through Thursday for almost all of the area",
+          "• More than 11in of rainfall measured in some parts Los Angeles county as of Wednesday night",
+          "• Evacuation warnings issued for mountain communities in San Bernardino county"
         ]
       },
-      "read_minutes": 5,
-      "cluster_id": "1f3b626ae249"
+      "read_minutes": 2,
+      "cluster_id": "7c7e69fa5436"
     },
     {
       "id": "a4247913357f",
@@ -4355,103 +4621,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "2f9ecc9f3acb"
-    },
-    {
-      "id": "b283f3184e27",
-      "title": "‘Very Realistic’: CBS War Series Receives High Praise From Navy SEAL for Authenticity",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/seal-team-paramount-plus-high-praise-navy-seal/",
-      "published_at": "Thu, 25 Dec 2025 15:00:12 GMT",
-      "bullets": [
-        "• Former Navy SEAL DJ Shipley looks at two episodes of the show, one from its first season",
-        "• Shipley: \"Just the pace they're moving, the angles, and distance you're using look very realistic\" Shipley added some more commentary as the fictional SEAL team prepared to make their entry "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Former Navy SEAL DJ Shipley looks at two episodes of the show, one from its first season",
-          "• Shipley: \"Just the pace they're moving, the angles, and distance you're using look very realistic\" Shipley added some more commentary as the fictional SEAL team prepared to make their entry "
-        ],
-        "hopeful_bullets": [
-          "• Former Navy SEAL DJ Shipley looks at two episodes of the show, one from its first season",
-          "• Shipley: \"Just the pace they're moving, the angles, and distance you're using look very realistic\" Shipley added some more commentary as the fictional SEAL team prepared to make their entry "
-        ],
-        "stakes_bullets": [
-          "• Former Navy SEAL DJ Shipley looks at two episodes of the show, one from its first season",
-          "• Shipley: \"Just the pace they're moving, the angles, and distance you're using look very realistic\" Shipley added some more commentary as the fictional SEAL team prepared to make their entry "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "540f76551143"
-    },
-    {
-      "id": "3cd4662bd9cb",
-      "title": "The Best Supergirl Line Doesn't Even Come from the Girl of Steel",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/supergirl-best-line-cat-grant/",
-      "published_at": "Thu, 25 Dec 2025 15:00:12 GMT",
-      "bullets": [
-        "• Cat Grant first appears in Supergirl as Kara Danvers' boss, but soon enough, she turns into both Kara's and Supergirl's most important mentor and one of the most iconic figures from the Arrowverse",
-        "• Cat Grant sees through her apparently simple and affable assistant, and through veiled--and sometimes not so veiled--advice, helps the hero come to terms with both her super and regular life "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Cat Grant first appears in Supergirl as Kara Danvers' boss, but soon enough, she turns into both Kara's and Supergirl's most important mentor and one of the most iconic figures from the Arrowverse",
-          "• Cat Grant sees through her apparently simple and affable assistant, and through veiled--and sometimes not so veiled--advice, helps the hero come to terms with both her super and regular life "
-        ],
-        "hopeful_bullets": [
-          "• Cat Grant sees through her apparently simple and affable assistant, and through veiled--and sometimes not so veiled--advice, helps the hero come to terms with both her super and regular life "
-        ],
-        "stakes_bullets": [
-          "• Cat Grant first appears in Supergirl as Kara Danvers' boss, but soon enough, she turns into both Kara's and Supergirl's most important mentor and one of the most iconic figures from the Arrowverse",
-          "• Cat Grant sees through her apparently simple and affable assistant, and through veiled--and sometimes not so veiled--advice, helps the hero come to terms with both her super and regular life "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "cfdee3552595"
-    },
-    {
-      "id": "f90d4be8af30",
-      "title": "His Dark Materials Is HBO's Answer to Narnia",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/his-dark-materials-hbos-answer-to-narnia/",
-      "published_at": "Thu, 25 Dec 2025 15:00:12 GMT",
-      "bullets": [
-        "• HBO's His Dark Materials is an anti-Narnia fantasy that challenges the comforting myths of innocence, destiny, and divine authority",
-        "• Instead of focusing on spectacle or nostalgia, the show is a more controlled kind of work",
-        "• The Magisterium is extending its authority under the guise of being the moral guardians "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• HBO's His Dark Materials is an anti-Narnia fantasy that challenges the comforting myths of innocence, destiny, and divine authority",
-          "• Instead of focusing on spectacle or nostalgia, the show is a more controlled kind of work"
-        ],
-        "hopeful_bullets": [
-          "• HBO's His Dark Materials is an anti-Narnia fantasy that challenges the comforting myths of innocence, destiny, and divine authority",
-          "• Instead of focusing on spectacle or nostalgia, the show is a more controlled kind of work"
-        ],
-        "stakes_bullets": [
-          "• HBO's His Dark Materials is an anti-Narnia fantasy that challenges the comforting myths of innocence, destiny, and divine authority",
-          "• Instead of focusing on spectacle or nostalgia, the show is a more controlled kind of work",
-          "• The Magisterium is extending its authority under the guise of being the moral guardians "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f707f71c8807"
     },
     {
       "id": "f476920362f5",
@@ -4516,40 +4685,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "376db7d6f5e3"
-    },
-    {
-      "id": "88014aa71da3",
-      "title": "Pokémon Revives Its Original Designs for New 30th Anniversary Uniqlo Release",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/pokemon-uniqlo-anniversary-original-design-release/",
-      "published_at": "Thu, 25 Dec 2025 14:30:12 GMT",
-      "bullets": [
-        "• The original version of the classic Pokémon series has been released",
-        "• The shirt features the classic designs of Charizard, Gengar and Snorlax",
-        "• The original versions of the series are available on T-shirts and t-shirts for adults "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.818
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The original version of the classic Pokémon series has been released",
-          "• The shirt features the classic designs of Charizard, Gengar and Snorlax"
-        ],
-        "hopeful_bullets": [
-          "• The original version of the classic Pokémon series has been released",
-          "• The shirt features the classic designs of Charizard, Gengar and Snorlax"
-        ],
-        "stakes_bullets": [
-          "• The original version of the classic Pokémon series has been released",
-          "• The shirt features the classic designs of Charizard, Gengar and Snorlax",
-          "• The original versions of the series are available on T-shirts and t-shirts for adults "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e990b223f3d0"
     },
     {
       "id": "2d2854443578",
@@ -4618,37 +4753,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "aa3ae5d1ae2c"
-    },
-    {
-      "id": "ba527fd266f2",
-      "title": "The Best Anime Moments of 2025, Officially Ranked",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/official-best-anime-moments-of-2025-bakugo-reze/",
-      "published_at": "Thu, 25 Dec 2025 14:15:12 GMT",
-      "bullets": [
-        "• 2025 was a special year in many ways for anime, but perhaps most notable has been the observable shift in how anime is being consumed",
-        "• The best fight of 2025 to come from a Shōnen television anime centered around the series' most popular character, Bakugo, and his last stand against All For One "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• 2025 was a special year in many ways for anime, but perhaps most notable has been the observable shift in how anime is being consumed",
-          "• The best fight of 2025 to come from a Shōnen television anime centered around the series' most popular character, Bakugo, and his last stand against All For One "
-        ],
-        "hopeful_bullets": [
-          "• The best fight of 2025 to come from a Shōnen television anime centered around the series' most popular character, Bakugo, and his last stand against All For One "
-        ],
-        "stakes_bullets": [
-          "• 2025 was a special year in many ways for anime, but perhaps most notable has been the observable shift in how anime is being consumed",
-          "• The best fight of 2025 to come from a Shōnen television anime centered around the series' most popular character, Bakugo, and his last stand against All For One "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "31f1943ae1e6"
     },
     {
       "id": "e61e05f378ce",
@@ -4877,40 +4981,6 @@
       "cluster_id": "46cbef68b269"
     },
     {
-      "id": "daaf3c29a357",
-      "title": "Pope Leo urges 'courage' to end Ukraine war in first Christmas address",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 25 Dec 2025 11:41:39 GMT",
-      "bullets": [
-        "• Pope calls for an end to conflicts between Russia and Ukraine",
-        "• He urges the parties involved to find the \"courage\" to end the conflict",
-        "• The Pope also calls for the end of the conflict in Ukraine to be restored to the world "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Pope calls for an end to conflicts between Russia and Ukraine",
-          "• He urges the parties involved to find the \"courage\" to end the conflict"
-        ],
-        "hopeful_bullets": [
-          "• Pope calls for an end to conflicts between Russia and Ukraine",
-          "• He urges the parties involved to find the \"courage\" to end the conflict"
-        ],
-        "stakes_bullets": [
-          "• Pope calls for an end to conflicts between Russia and Ukraine",
-          "• He urges the parties involved to find the \"courage\" to end the conflict",
-          "• The Pope also calls for the end of the conflict in Ukraine to be restored to the world "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "9a6884f05fed"
-    },
-    {
       "id": "8b26acae0b62",
       "title": "Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record",
       "outlet": "US Top News and Analysis",
@@ -5076,33 +5146,36 @@
     },
     {
       "id": "fe314e327705",
-      "title": "Turkey arrests 115 IS suspects 'planning New Year's attacks'",
+      "title": "Turkey detains 115 IS suspects 'planning New Year's attacks'",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cn98w93l8plo?at_medium=RSS&at_campaign=rss",
       "published_at": "Thu, 25 Dec 2025 10:19:28 GMT",
       "bullets": [
-        "• Turkey arrests 115 IS suspects 'planning New Year's attacks' Police seize firearms, ammunition and 'organisational documents' Officials say they disrupted planned attacks on Christmas and New Year events",
-        "• A Turkish national who is alleged to have held a senior role with the IS wing in the region was detained "
+        "• Turkey detains 115 IS suspects 'planning New Year's attacks' Police seize firearms, ammunition and documents from 124 addresses across Istanbul",
+        "• Officials say IS supporters had been actively planning attacks against non-Muslims",
+        "• Turkish national who is alleged to have held a senior role with the IS wing in the region was detained "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.991
+        "score": 0.964
       },
       "moods": {
         "brief_bullets": [
-          "• Turkey arrests 115 IS suspects 'planning New Year's attacks' Police seize firearms, ammunition and 'organisational documents' Officials say they disrupted planned attacks on Christmas and New Year events",
-          "• A Turkish national who is alleged to have held a senior role with the IS wing in the region was detained "
+          "• Turkey detains 115 IS suspects 'planning New Year's attacks' Police seize firearms, ammunition and documents from 124 addresses across Istanbul",
+          "• Officials say IS supporters had been actively planning attacks against non-Muslims"
         ],
         "hopeful_bullets": [
-          "• A Turkish national who is alleged to have held a senior role with the IS wing in the region was detained "
+          "• Officials say IS supporters had been actively planning attacks against non-Muslims",
+          "• Turkish national who is alleged to have held a senior role with the IS wing in the region was detained "
         ],
         "stakes_bullets": [
-          "• Turkey arrests 115 IS suspects 'planning New Year's attacks' Police seize firearms, ammunition and 'organisational documents' Officials say they disrupted planned attacks on Christmas and New Year events"
+          "• Turkey detains 115 IS suspects 'planning New Year's attacks' Police seize firearms, ammunition and documents from 124 addresses across Istanbul",
+          "• Officials say IS supporters had been actively planning attacks against non-Muslims"
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "90ce91d195bf"
+      "cluster_id": "a4a76a87fcdb"
     },
     {
       "id": "8a4635cf7087",
@@ -7954,40 +8027,6 @@
       "cluster_id": "04c5dba1d0e0"
     },
     {
-      "id": "38c691809d3b",
-      "title": "Judge Overturns Conviction in Murder of Jam Master Jay",
-      "outlet": "RSS: News",
-      "url": "https://pitchfork.com/news/jam-master-jay-murder-conviction-overturned/",
-      "published_at": "Fri, 19 Dec 2025 20:55:56 +0000",
-      "bullets": [
-        "• Judge LaShann DeArcy Hall granted the motion for acquittal of Karl Jordan Jr",
-        "• He was found guilty in 2024 of killing Jason Mizell, aka Jam Master Jay",
-        "• Ronald Washington, who was also found guilty, was denied a motion to acquittal "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.927
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Judge LaShann DeArcy Hall granted the motion for acquittal of Karl Jordan Jr",
-          "• He was found guilty in 2024 of killing Jason Mizell, aka Jam Master Jay"
-        ],
-        "hopeful_bullets": [
-          "• Judge LaShann DeArcy Hall granted the motion for acquittal of Karl Jordan Jr",
-          "• He was found guilty in 2024 of killing Jason Mizell, aka Jam Master Jay"
-        ],
-        "stakes_bullets": [
-          "• Judge LaShann DeArcy Hall granted the motion for acquittal of Karl Jordan Jr",
-          "• He was found guilty in 2024 of killing Jason Mizell, aka Jam Master Jay",
-          "• Ronald Washington, who was also found guilty, was denied a motion to acquittal "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "aca13f699a96"
-    },
-    {
       "id": "a6a708d2b0c3",
       "title": "The Black Series In 2025",
       "outlet": "Jedi Temple Archives",
@@ -9249,11 +9288,11 @@
       ]
     },
     {
-      "id": "90ce91d195bf",
-      "topic": "115 arrest planning suspect",
+      "id": "a4a76a87fcdb",
+      "topic": "115 detain planning suspect",
       "keywords": [
         "115",
-        "arrest",
+        "detain",
         "planning",
         "suspect",
         "turkey",
@@ -9575,6 +9614,42 @@
       ]
     },
     {
+      "id": "10a27c070c5a",
+      "topic": "behind chief curtain enabler",
+      "keywords": [
+        "behind",
+        "chief",
+        "curtain",
+        "enabler",
+        "glimpse",
+        "trump"
+      ],
+      "item_ids": [
+        "b05504cbacf3"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "7c7e69fa5436",
+      "topic": "atmospheric california death sees",
+      "keywords": [
+        "atmospheric",
+        "california",
+        "death",
+        "sees",
+        "southern",
+        "third"
+      ],
+      "item_ids": [
+        "f62ed0207f0b"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "aa3ae5d1ae2c",
       "topic": "817bn arkansa lottery player",
       "keywords": [
@@ -9695,39 +9770,6 @@
       ],
       "item_ids": [
         "c5d3194b23bb"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "e0ab3f2e7eef",
-      "topic": "carolina christma farmer north",
-      "keywords": [
-        "carolina",
-        "christma",
-        "farmer",
-        "north",
-        "optimistic",
-        "tree"
-      ],
-      "item_ids": [
-        "f4d6df9e31bf"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "2e12fe5124d5",
-      "topic": "days mas trump",
-      "keywords": [
-        "days",
-        "mas",
-        "trump"
-      ],
-      "item_ids": [
-        "839f7e17e55b"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9930,24 +9972,6 @@
       ]
     },
     {
-      "id": "aece5ae376be",
-      "topic": "bags boot hit leather",
-      "keywords": [
-        "bags",
-        "boot",
-        "hit",
-        "leather",
-        "price",
-        "tariff"
-      ],
-      "item_ids": [
-        "51aab551fad7"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "1dd0e2e0d1d5",
       "topic": "buying chip exclusive groq",
       "keywords": [
@@ -9960,6 +9984,24 @@
       ],
       "item_ids": [
         "8b26acae0b62"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "aece5ae376be",
+      "topic": "bags boot hit leather",
+      "keywords": [
+        "bags",
+        "boot",
+        "hit",
+        "leather",
+        "price",
+        "tariff"
+      ],
+      "item_ids": [
+        "51aab551fad7"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10935,24 +10977,6 @@
       ]
     },
     {
-      "id": "43bbb6302f3a",
-      "topic": "acros build nuclear reactor",
-      "keywords": [
-        "acros",
-        "build",
-        "nuclear",
-        "reactor",
-        "rush",
-        "trump"
-      ],
-      "item_ids": [
-        "b90342b2ae45"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "a6e35bfde9a6",
       "topic": "bird dropping ended holiday",
       "keywords": [
@@ -10965,6 +10989,24 @@
       ],
       "item_ids": [
         "887c9b0f612e"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "43bbb6302f3a",
+      "topic": "acros build nuclear reactor",
+      "keywords": [
+        "acros",
+        "build",
+        "nuclear",
+        "reactor",
+        "rush",
+        "trump"
+      ],
+      "item_ids": [
+        "b90342b2ae45"
       ],
       "outlets": [
         "NPR Topics: Science"
@@ -11246,6 +11288,24 @@
       ],
       "outlets": [
         "CNN.com - RSS Channel - Politics"
+      ]
+    },
+    {
+      "id": "e0ab3f2e7eef",
+      "topic": "carolina christma farmer north",
+      "keywords": [
+        "carolina",
+        "christma",
+        "farmer",
+        "north",
+        "optimistic",
+        "tree"
+      ],
+      "item_ids": [
+        "f4d6df9e31bf"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
       ]
     },
     {
@@ -13253,6 +13313,132 @@
       ]
     },
     {
+      "id": "9fd50e539401",
+      "topic": "compare event horizon sequel",
+      "keywords": [
+        "compare",
+        "event",
+        "horizon",
+        "sequel",
+        "story",
+        "writer"
+      ],
+      "item_ids": [
+        "11145d696620"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "f88965545815",
+      "topic": "karate kid leave netflix",
+      "keywords": [
+        "karate",
+        "kid",
+        "leave",
+        "netflix",
+        "stream",
+        "trilogy"
+      ],
+      "item_ids": [
+        "975f711a11bf"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "e5837d0154aa",
+      "topic": "before best brainiac read",
+      "keywords": [
+        "before",
+        "best",
+        "brainiac",
+        "read",
+        "storie",
+        "watch"
+      ],
+      "item_ids": [
+        "3c9c3c83b3b7"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "87bb4afeb19d",
+      "topic": "even hits scene single",
+      "keywords": [
+        "even",
+        "hits",
+        "scene",
+        "single",
+        "throwaway",
+        "twilight"
+      ],
+      "item_ids": [
+        "a42918234de9"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "c7729847348a",
+      "topic": "apart gets harry medical",
+      "keywords": [
+        "apart",
+        "gets",
+        "harry",
+        "medical",
+        "potter",
+        "torn"
+      ],
+      "item_ids": [
+        "d311dca69708"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "0cf585335afd",
+      "topic": "collaboration cream head hololive",
+      "keywords": [
+        "collaboration",
+        "cream",
+        "head",
+        "hololive",
+        "official",
+        "puff"
+      ],
+      "item_ids": [
+        "b43d5d4f93b7"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "1df55981f4ab",
+      "topic": "january jujutsu kaisen officially",
+      "keywords": [
+        "january",
+        "jujutsu",
+        "kaisen",
+        "officially",
+        "return",
+        "season"
+      ],
+      "item_ids": [
+        "a40dca42c41c"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "cc942c85d13f",
       "topic": "2025 complete epic free",
       "keywords": [
@@ -13301,131 +13487,6 @@
       ],
       "item_ids": [
         "780c6ec87cb1"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "112c2a46536d",
-      "topic": "2026 become movie next",
-      "keywords": [
-        "2026",
-        "become",
-        "movie",
-        "next",
-        "obsession",
-        "sci"
-      ],
-      "item_ids": [
-        "64b9f4c119d5"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "1f3b626ae249",
-      "topic": "all game greatest lego",
-      "keywords": [
-        "all",
-        "game",
-        "greatest",
-        "lego",
-        "superhero",
-        "time"
-      ],
-      "item_ids": [
-        "9020eb5a84fe"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "540f76551143",
-      "topic": "cbs realistic receive serie",
-      "keywords": [
-        "cbs",
-        "realistic",
-        "receive",
-        "serie",
-        "very",
-        "war"
-      ],
-      "item_ids": [
-        "b283f3184e27"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "cfdee3552595",
-      "topic": "best come doesn even",
-      "keywords": [
-        "best",
-        "come",
-        "doesn",
-        "even",
-        "line",
-        "supergirl"
-      ],
-      "item_ids": [
-        "3cd4662bd9cb"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "f707f71c8807",
-      "topic": "answer dark hbo material",
-      "keywords": [
-        "answer",
-        "dark",
-        "hbo",
-        "material",
-        "narnia"
-      ],
-      "item_ids": [
-        "f90d4be8af30"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "e990b223f3d0",
-      "topic": "30th design mon original",
-      "keywords": [
-        "30th",
-        "design",
-        "mon",
-        "original",
-        "pok",
-        "revive"
-      ],
-      "item_ids": [
-        "88014aa71da3"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "31f1943ae1e6",
-      "topic": "2025 anime best moment",
-      "keywords": [
-        "2025",
-        "anime",
-        "best",
-        "moment",
-        "officially",
-        "ranked"
-      ],
-      "item_ids": [
-        "ba527fd266f2"
       ],
       "outlets": [
         "CBR"
@@ -13790,6 +13851,24 @@
       ]
     },
     {
+      "id": "685e753ecb9b",
+      "topic": "comb diddy immediate release",
+      "keywords": [
+        "comb",
+        "diddy",
+        "immediate",
+        "release",
+        "request",
+        "sean"
+      ],
+      "item_ids": [
+        "8c32dbd75e54"
+      ],
+      "outlets": [
+        "RSS: News"
+      ]
+    },
+    {
       "id": "77e6c2bbf246",
       "topic": "bob charge death face",
       "keywords": [
@@ -13910,24 +13989,6 @@
       ],
       "item_ids": [
         "02c85c038f5f"
-      ],
-      "outlets": [
-        "RSS: News"
-      ]
-    },
-    {
-      "id": "aca13f699a96",
-      "topic": "conviction jam judge master",
-      "keywords": [
-        "conviction",
-        "jam",
-        "judge",
-        "master",
-        "murder",
-        "overturn"
-      ],
-      "item_ids": [
-        "38c691809d3b"
       ],
       "outlets": [
         "RSS: News"
