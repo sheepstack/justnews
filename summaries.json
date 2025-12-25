@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T10:06:02Z",
+  "generated_at": "2025-12-25T11:03:07Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -1170,6 +1170,39 @@
       "cluster_id": "ac34250d29ac"
     },
     {
+      "id": "7d8a1f3f6727",
+      "title": "Republicans aim to exempt major polluters from Pfas cleanup costs",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/24/republicans-pfas-cleanup-costs",
+      "published_at": "Wed, 24 Dec 2025 15:00:15 GMT",
+      "bullets": [
+        "• Republicans are attempting to exempt some major polluters from paying for Pfas chemical cleanup",
+        "• If successful, it could mark a major setback in US effort to rein in Pfas pollution",
+        "• Water treatment plants and landfills represent critical points in effort to curb Pfas water pollution nationwide "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Republicans are attempting to exempt some major polluters from paying for Pfas chemical cleanup",
+          "• If successful, it could mark a major setback in US effort to rein in Pfas pollution"
+        ],
+        "hopeful_bullets": [
+          "• Republicans are attempting to exempt some major polluters from paying for Pfas chemical cleanup",
+          "• If successful, it could mark a major setback in US effort to rein in Pfas pollution"
+        ],
+        "stakes_bullets": [
+          "• If successful, it could mark a major setback in US effort to rein in Pfas pollution",
+          "• Water treatment plants and landfills represent critical points in effort to curb Pfas water pollution nationwide "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e12cc75095d2"
+    },
+    {
       "id": "25003c82a722",
       "title": "Boston taps into ‘spirit of rebellion’ as it resists ICE’s immigration crackdown",
       "outlet": "US news | The Guardian",
@@ -1232,39 +1265,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "1baf5572b708"
-    },
-    {
-      "id": "7d8a1f3f6727",
-      "title": "Republicans aim to exempt major polluters from Pfas cleanup costs",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/24/republicans-pfas-cleanup-costs",
-      "published_at": "Wed, 24 Dec 2025 15:00:15 GMT",
-      "bullets": [
-        "• Republicans are attempting to exempt some major polluters from paying for Pfas chemical cleanup",
-        "• If successful, it could mark a major setback in US effort to rein in Pfas pollution",
-        "• Water treatment plants and landfills represent critical points in effort to curb Pfas water pollution nationwide "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Republicans are attempting to exempt some major polluters from paying for Pfas chemical cleanup",
-          "• If successful, it could mark a major setback in US effort to rein in Pfas pollution"
-        ],
-        "hopeful_bullets": [
-          "• Republicans are attempting to exempt some major polluters from paying for Pfas chemical cleanup",
-          "• If successful, it could mark a major setback in US effort to rein in Pfas pollution"
-        ],
-        "stakes_bullets": [
-          "• If successful, it could mark a major setback in US effort to rein in Pfas pollution",
-          "• Water treatment plants and landfills represent critical points in effort to curb Pfas water pollution nationwide "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e12cc75095d2"
     },
     {
       "id": "0bd1ef6339bc",
@@ -1826,41 +1826,6 @@
       "cluster_id": "7e2d6fb2cdc2"
     },
     {
-      "id": "16cd1ec17d11",
-      "title": "Pinterest Users Are Tired of All the AI Slop",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/pinterst-ai-slop-content/",
-      "published_at": "Wed, 24 Dec 2025 10:30:00 +0000",
-      "bullets": [
-        "• Caitlyn Jones has used Pinterest for five years to find recipes for her son",
-        "• In September, she used the app to create a recipe for a slow-cooker",
-        "• The recipe told her to start by “logging” the chicken into the slow cooker",
-        "• She says she has since sworn off the app "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Caitlyn Jones has used Pinterest for five years to find recipes for her son",
-          "• In September, she used the app to create a recipe for a slow-cooker"
-        ],
-        "hopeful_bullets": [
-          "• Caitlyn Jones has used Pinterest for five years to find recipes for her son",
-          "• In September, she used the app to create a recipe for a slow-cooker"
-        ],
-        "stakes_bullets": [
-          "• Caitlyn Jones has used Pinterest for five years to find recipes for her son",
-          "• In September, she used the app to create a recipe for a slow-cooker",
-          "• The recipe told her to start by “logging” the chicken into the slow cooker"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "54f2175a2482"
-    },
-    {
       "id": "19d55072a6c6",
       "title": "Scientists reverse Alzheimer’s in mice and restore memory",
       "outlet": "All Top News -- ScienceDaily",
@@ -1959,40 +1924,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "6f159aedb16c"
-    },
-    {
-      "id": "4319a7905fdb",
-      "title": "AlphaFold Changed Science. After 5 Years, It’s Still Evolving",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/alphafold-changed-science-after-5-years-its-still-evolving/",
-      "published_at": "Wed, 24 Dec 2025 10:00:00 +0000",
-      "bullets": [
-        "• AlphaFold, the artificial intelligence system developed by Google DeepMind, has just turned five years old",
-        "• Last year, it won the Nobel Prize in Chemistry for predicting the shape of proteins with atomic accuracy",
-        "• Its database now contains over 200 million predicted structures, essentially the entire known protein universe "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• AlphaFold, the artificial intelligence system developed by Google DeepMind, has just turned five years old",
-          "• Last year, it won the Nobel Prize in Chemistry for predicting the shape of proteins with atomic accuracy"
-        ],
-        "hopeful_bullets": [
-          "• AlphaFold, the artificial intelligence system developed by Google DeepMind, has just turned five years old",
-          "• Last year, it won the Nobel Prize in Chemistry for predicting the shape of proteins with atomic accuracy"
-        ],
-        "stakes_bullets": [
-          "• AlphaFold, the artificial intelligence system developed by Google DeepMind, has just turned five years old",
-          "• Last year, it won the Nobel Prize in Chemistry for predicting the shape of proteins with atomic accuracy",
-          "• Its database now contains over 200 million predicted structures, essentially the entire known protein universe "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "60f9322ad094"
     },
     {
       "id": "1b1c5fe81f1d",
@@ -2330,137 +2261,6 @@
       "cluster_id": "84aa8956ed23"
     },
     {
-      "id": "6e6c2f0d3282",
-      "title": "U.S. and Ukraine reach consensus on key issues aimed at ending the war",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/24/g-s1-103618/u-s-and-ukraine-reach-consensus-on-key-issues",
-      "published_at": "Wed, 24 Dec 2025 05:38:33 -0500",
-      "bullets": [
-        "• U.S",
-        "• and Ukraine reach consensus on key issues aimed at ending the war",
-        "• But sensitive issues around territorial control in Ukraine's eastern industrial heartland remain unresolved",
-        "• Ukraine's president Volodymyr Zelenskyy spoke as the U.K",
-        "• showed the 20-point plan to Russian negotiators"
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.735
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• and Ukraine reach consensus on key issues aimed at ending the war"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• and Ukraine reach consensus on key issues aimed at ending the war"
-        ],
-        "stakes_bullets": [
-          "• showed the 20-point plan to Russian negotiators"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "0ffa44716fd5"
-    },
-    {
-      "id": "b742622a3409",
-      "title": "What does climate change look like? This year's hurricane season is one example",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/24/nx-s1-5620997/2025-hurricane-season-storm-climate-melissa-category-5",
-      "published_at": "Wed, 24 Dec 2025 05:30:00 -0500",
-      "bullets": [
-        "• No storms made landfall in the U.S",
-        "• for the first time since 2015",
-        "• Yet, the storms that did form were among the most powerful hurricanes ever recorded",
-        "• Years like this one, with an average number of overall storms, but an above-average cohort of very powerful hurricanes, are getting more likely "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.702
-      },
-      "moods": {
-        "brief_bullets": [
-          "• No storms made landfall in the U.S",
-          "• for the first time since 2015"
-        ],
-        "hopeful_bullets": [
-          "• Yet, the storms that did form were among the most powerful hurricanes ever recorded"
-        ],
-        "stakes_bullets": [
-          "• No storms made landfall in the U.S",
-          "• for the first time since 2015",
-          "• Yet, the storms that did form were among the most powerful hurricanes ever recorded"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "882480b7fada"
-    },
-    {
-      "id": "81dca42dae85",
-      "title": "Despite Vatican-Israel tensions, Catholics and Jews work to build trust in Haifa",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/24/g-s1-103018/israel-interfaith-understanding-jews-catholics-christmas",
-      "published_at": "Wed, 24 Dec 2025 05:03:00 -0500",
-      "bullets": [
-        "• Despite Vatican-Israel tensions, Catholics and Jews work to build trust in Haifa, Israel",
-        "• Despite strained relations between the Vatican and Israel during the Gaza war in Gaza",
-        "• Catholic and Jewish leaders in the city of Haifa are trying to forge interreligious understanding "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Despite Vatican-Israel tensions, Catholics and Jews work to build trust in Haifa, Israel",
-          "• Despite strained relations between the Vatican and Israel during the Gaza war in Gaza"
-        ],
-        "hopeful_bullets": [
-          "• Despite Vatican-Israel tensions, Catholics and Jews work to build trust in Haifa, Israel",
-          "• Despite strained relations between the Vatican and Israel during the Gaza war in Gaza"
-        ],
-        "stakes_bullets": [
-          "• Catholic and Jewish leaders in the city of Haifa are trying to forge interreligious understanding "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "142b4750e062"
-    },
-    {
-      "id": "31881694b880",
-      "title": "Crayfish, weevils and fungi released in UK to tackle invasive species such as Japanese knotweed",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/dec/24/crayfish-weevils-fungi-wild-tackle-invasive-species-japanese-knotweed",
-      "published_at": "Wed, 24 Dec 2025 05:00:03 GMT",
-      "bullets": [
-        "• Crayfish, weevils and other species are being released into the wild",
-        "• This is in part to meet tough targets set by the Department for Food and Plant Health Agency",
-        "• Ministers want to reduce establishment of new species by 50% by 2030 "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Crayfish, weevils and other species are being released into the wild",
-          "• This is in part to meet tough targets set by the Department for Food and Plant Health Agency"
-        ],
-        "hopeful_bullets": [
-          "• Ministers want to reduce establishment of new species by 50% by 2030 "
-        ],
-        "stakes_bullets": [
-          "• This is in part to meet tough targets set by the Department for Food and Plant Health Agency"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "3531b08d121f"
-    },
-    {
       "id": "41e09ca5ae78",
       "title": "ICE officer accused of excessive force, then sent back to work despite active probe",
       "outlet": "NPR Topics: Politics",
@@ -2763,6 +2563,41 @@
       },
       "read_minutes": 40,
       "cluster_id": "2310b1aa0d50"
+    },
+    {
+      "id": "6c445d697472",
+      "title": "Star Wars Vs Star Trek",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-17-star-wars-vs-star-trek/?utm_source=rss&utm_medium=rss&utm_campaign=star-wars-vs-star-trek",
+      "published_at": "Wed, 17 Dec 2025 20:24:58 +0000",
+      "bullets": [
+        "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
+        "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet",
+        "• The Enterprise-E for some weird reason finds itself in a galaxy far, far away",
+        "• And they appear in the vicinity of a lone Imperial Star Destroyer on patrol "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.898
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
+          "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet"
+        ],
+        "hopeful_bullets": [
+          "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
+          "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet"
+        ],
+        "stakes_bullets": [
+          "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
+          "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet",
+          "• The Enterprise-E for some weird reason finds itself in a galaxy far, far away"
+        ]
+      },
+      "read_minutes": 24,
+      "cluster_id": "7e4f4b714cd0"
     },
     {
       "id": "fb51ad26c335",
@@ -4658,38 +4493,6 @@
       "cluster_id": "3712a992509f"
     },
     {
-      "id": "d00418fa0c26",
-      "title": "Moulton introduces bill to block federal funds for military action against Venezuela",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/23/nx-s1-5651974/moulton-introduces-bill-to-block-federal-funds-for-military-action-against-venezuela",
-      "published_at": "Tue, 23 Dec 2025 06:50:29 -0500",
-      "bullets": [
-        "• Moulton introduces bill to block federal funds for military action against Venezuela",
-        "• He's sponsoring legislation to prohibit President Trump from using federal dollars to wage war with Venezuela",
-        "• Democratic congressman says Venezuela is not even a national security risk to the United States "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.672
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Moulton introduces bill to block federal funds for military action against Venezuela",
-          "• He's sponsoring legislation to prohibit President Trump from using federal dollars to wage war with Venezuela"
-        ],
-        "hopeful_bullets": [
-          "• Moulton introduces bill to block federal funds for military action against Venezuela"
-        ],
-        "stakes_bullets": [
-          "• Moulton introduces bill to block federal funds for military action against Venezuela",
-          "• Democratic congressman says Venezuela is not even a national security risk to the United States "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "d2b398a70f34"
-    },
-    {
       "id": "756dbb19cd95",
       "title": "RFR Q&A #272: It's Life Day!",
       "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
@@ -4854,6 +4657,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "f10da5775e15"
+    },
+    {
+      "id": "1acb08ef7363",
+      "title": "Hot Toys Revenge of the Sith MagnaGuard (MMS856) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-16-hot-toys-revenge-of-the-sith-magnaguard-mms856-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-revenge-of-the-sith-magnaguard-mms856-1-6-scale-figure",
+      "published_at": "Tue, 16 Dec 2025 12:20:33 +0000",
+      "bullets": [
+        "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+        "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.712
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
+        ],
+        "hopeful_bullets": [
+          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
+        ],
+        "stakes_bullets": [
+          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e035bc8e7532"
     },
     {
       "id": "65e88e7e3350",
@@ -5047,6 +4882,170 @@
       },
       "read_minutes": 12,
       "cluster_id": "de631f7845cb"
+    },
+    {
+      "id": "d845acfea923",
+      "title": "How a $200 Fake Fireplace From Home Depot Soothed My Soul",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/turbro-suburbs-fireplace-rave-2025/",
+      "published_at": "Thu, 25 Dec 2025 10:33:00 +0000",
+      "bullets": [
+        "• Turbro's Suburbs Smart Electric Fireplace was the first model that truly promoted rest and possible recovery",
+        "• After the births of my three children, I never napped when they napped",
+        "• Maybe the fake fireplace is exactly the illusion my nervous system craves "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.884
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Turbro's Suburbs Smart Electric Fireplace was the first model that truly promoted rest and possible recovery",
+          "• After the births of my three children, I never napped when they napped"
+        ],
+        "hopeful_bullets": [
+          "• Turbro's Suburbs Smart Electric Fireplace was the first model that truly promoted rest and possible recovery"
+        ],
+        "stakes_bullets": [
+          "• Turbro's Suburbs Smart Electric Fireplace was the first model that truly promoted rest and possible recovery",
+          "• After the births of my three children, I never napped when they napped",
+          "• Maybe the fake fireplace is exactly the illusion my nervous system craves "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "20a0d0faba1c"
+    },
+    {
+      "id": "8a4635cf7087",
+      "title": "UK electric car charger rollout slows amid worries over EV switch",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/environment/2025/dec/25/uk-electric-car-charger-ev-switch-sales",
+      "published_at": "Thu, 25 Dec 2025 10:00:36 GMT",
+      "bullets": [
+        "• 87,200 chargers were installed in the UK at the end of November, an increase of 13,500",
+        "• That represented the smallest number of new chargers installed in UK since 2022",
+        "• Industry on track for growth of less than 20%, down from 37% the year before "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 87,200 chargers were installed in the UK at the end of November, an increase of 13,500",
+          "• That represented the smallest number of new chargers installed in UK since 2022"
+        ],
+        "hopeful_bullets": [
+          "• Industry on track for growth of less than 20%, down from 37% the year before "
+        ],
+        "stakes_bullets": [
+          "• 87,200 chargers were installed in the UK at the end of November, an increase of 13,500"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "3067027221c6"
+    },
+    {
+      "id": "dc90bf211a25",
+      "title": "‘Wolf DNA’ Lurks in Many Modern Dog Breeds",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/wolf-dna-lurks-in-many-modern-dog-breeds/",
+      "published_at": "Thu, 25 Dec 2025 10:00:00 +0000",
+      "bullets": [
+        "• Study finds 64.1 percent of purebred dogs carry fragments of wolf DNA",
+        "• Study of village dogs found genetic traces of wolves in all 280 analyzed pups",
+        "• Dogs thought to have evolved from populations of gray wolves, which became extinct 20,000 years ago "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.61
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Study finds 64.1 percent of purebred dogs carry fragments of wolf DNA",
+          "• Study of village dogs found genetic traces of wolves in all 280 analyzed pups"
+        ],
+        "hopeful_bullets": [
+          "• Study finds 64.1 percent of purebred dogs carry fragments of wolf DNA",
+          "• Study of village dogs found genetic traces of wolves in all 280 analyzed pups"
+        ],
+        "stakes_bullets": [
+          "• Study finds 64.1 percent of purebred dogs carry fragments of wolf DNA",
+          "• Study of village dogs found genetic traces of wolves in all 280 analyzed pups",
+          "• Dogs thought to have evolved from populations of gray wolves, which became extinct 20,000 years ago "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "411124d7798e"
+    },
+    {
+      "id": "f81166609eb5",
+      "title": "A New Jersey Buyout Program for Flood-Prone Homes Is a National Model",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/25122025/new-jersey-flood-prone-homes-buyout-program/",
+      "published_at": "Thu, 25 Dec 2025 10:00:00 +0000",
+      "bullets": [
+        "• Richard Onderko's childhood home in Manville, New Jersey, was destroyed by a state-run program",
+        "• The program buys and demolishes houses in flood zones and restores the property to open space",
+        "• It's one of some 1,200 properties that have been acquired across New Jersey by the state's Blue Acres program "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Richard Onderko's childhood home in Manville, New Jersey, was destroyed by a state-run program",
+          "• The program buys and demolishes houses in flood zones and restores the property to open space"
+        ],
+        "hopeful_bullets": [
+          "• Richard Onderko's childhood home in Manville, New Jersey, was destroyed by a state-run program",
+          "• The program buys and demolishes houses in flood zones and restores the property to open space"
+        ],
+        "stakes_bullets": [
+          "• Richard Onderko's childhood home in Manville, New Jersey, was destroyed by a state-run program",
+          "• The program buys and demolishes houses in flood zones and restores the property to open space",
+          "• It's one of some 1,200 properties that have been acquired across New Jersey by the state's Blue Acres program "
+        ]
+      },
+      "read_minutes": 10,
+      "cluster_id": "0b594cabd0b0"
+    },
+    {
+      "id": "1188ccd53066",
+      "title": "Lessons on Scaling Gift Economies—and How It Can Help the Planet",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/25122025/gift-economies-can-help-the-planet/",
+      "published_at": "Thu, 25 Dec 2025 09:55:00 +0000",
+      "bullets": [
+        "• Robin Wall Kimmerer is a member of the Citizen Potawatomi Nation and professor of environmental biology at SUNY College of Environmental Science and Forestry",
+        "• In her 2024 book \"The Serviceberry: Abundance and Reciprocity in the Natural World,\" she focuses on gift economies "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Robin Wall Kimmerer is a member of the Citizen Potawatomi Nation and professor of environmental biology at SUNY College of Environmental Science and Forestry",
+          "• In her 2024 book \"The Serviceberry: Abundance and Reciprocity in the Natural World,\" she focuses on gift economies "
+        ],
+        "hopeful_bullets": [
+          "• Robin Wall Kimmerer is a member of the Citizen Potawatomi Nation and professor of environmental biology at SUNY College of Environmental Science and Forestry",
+          "• In her 2024 book \"The Serviceberry: Abundance and Reciprocity in the Natural World,\" she focuses on gift economies "
+        ],
+        "stakes_bullets": [
+          "• Robin Wall Kimmerer is a member of the Citizen Potawatomi Nation and professor of environmental biology at SUNY College of Environmental Science and Forestry",
+          "• In her 2024 book \"The Serviceberry: Abundance and Reciprocity in the Natural World,\" she focuses on gift economies "
+        ]
+      },
+      "read_minutes": 11,
+      "cluster_id": "605db2b862cb"
     },
     {
       "id": "a56cc2547a1a",
@@ -5282,6 +5281,41 @@
       },
       "read_minutes": 3,
       "cluster_id": "293a02ef2ad6"
+    },
+    {
+      "id": "2b1a7cf4312b",
+      "title": "The real ping pong champion — and hustler — who inspired 'Marty Supreme'",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/25/nx-s1-5583930/marty-supreme-timothee-chalamet-marty-reisman-ping-pong-real-player",
+      "published_at": "Thu, 25 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• New York City table tennis was a gritty subculture in the 1940s and '50s",
+        "• In this world, a handsome, bespectacled Jewish teenager named Marty Reisman was a star",
+        "• Reisman represented the U.S",
+        "• in tournaments around the world and won more than 20 major titles "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• New York City table tennis was a gritty subculture in the 1940s and '50s",
+          "• In this world, a handsome, bespectacled Jewish teenager named Marty Reisman was a star"
+        ],
+        "hopeful_bullets": [
+          "• New York City table tennis was a gritty subculture in the 1940s and '50s",
+          "• In this world, a handsome, bespectacled Jewish teenager named Marty Reisman was a star"
+        ],
+        "stakes_bullets": [
+          "• New York City table tennis was a gritty subculture in the 1940s and '50s",
+          "• In this world, a handsome, bespectacled Jewish teenager named Marty Reisman was a star",
+          "• Reisman represented the U.S"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "0436d4ba8815"
     },
     {
       "id": "3b998a7b3523",
@@ -6342,6 +6376,37 @@
       "cluster_id": "b5ebb78247cb"
     },
     {
+      "id": "aa4c0a156448",
+      "title": "The Black Series Reveals From Today's Hasbro Fanstream",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-11-the-black-series-reveals-from-todays-hasbro-fanstream-3/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-series-reveals-from-todays-hasbro-fanstream-3",
+      "published_at": "Thu, 11 Dec 2025 16:35:52 +0000",
+      "bullets": [
+        "• The Black Series gets two new 2-packs, both exclusive to Hasbro Pulse and Disney Store, so no fan channel release and not available at Walmart, Target or Amazon",
+        "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Black Series gets two new 2-packs, both exclusive to Hasbro Pulse and Disney Store, so no fan channel release and not available at Walmart, Target or Amazon",
+          "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
+        ],
+        "hopeful_bullets": [
+          "• The Black Series gets two new 2-packs, both exclusive to Hasbro Pulse and Disney Store, so no fan channel release and not available at Walmart, Target or Amazon",
+          "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
+        ],
+        "stakes_bullets": [
+          "• Both sets will be released in spring 2026 and pre-order will be in early 2026 "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "833f992e43b1"
+    },
+    {
       "id": "186988486d66",
       "title": "Abandoned oil refineries are becoming unlikely havens for wildlife",
       "outlet": "Positive News",
@@ -6704,73 +6769,6 @@
       "cluster_id": "067d0563b84d"
     },
     {
-      "id": "ed4d3ae03653",
-      "title": "Countries Want Debt Relief for Conservation. Is China Ready to Play a Role?",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/21122025/ecuador-debt-for-nature-swap-china-conservation/",
-      "published_at": "Sun, 21 Dec 2025 09:55:00 +0000",
-      "bullets": [
-        "• Ecuador's $49 billion debt is one of the biggest threats to the Amazon",
-        "• In a deal, the government will refinance some of its costliest debt for pennies on the dollar and replace it with a lower-interest bond",
-        "• In return, Ecuador agreed to expand protections across its Amazonian region "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.988
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Ecuador's $49 billion debt is one of the biggest threats to the Amazon",
-          "• In a deal, the government will refinance some of its costliest debt for pennies on the dollar and replace it with a lower-interest bond"
-        ],
-        "hopeful_bullets": [
-          "• Ecuador's $49 billion debt is one of the biggest threats to the Amazon",
-          "• In a deal, the government will refinance some of its costliest debt for pennies on the dollar and replace it with a lower-interest bond"
-        ],
-        "stakes_bullets": [
-          "• Ecuador's $49 billion debt is one of the biggest threats to the Amazon",
-          "• In a deal, the government will refinance some of its costliest debt for pennies on the dollar and replace it with a lower-interest bond",
-          "• In return, Ecuador agreed to expand protections across its Amazonian region "
-        ]
-      },
-      "read_minutes": 21,
-      "cluster_id": "c0ad65442f15"
-    },
-    {
-      "id": "36071c69c3c4",
-      "title": "A Messy Trail of Toxic Oil and Gas Waste",
-      "outlet": "Inside Climate News",
-      "url": "https://insideclimatenews.org/news/21122025/icn-sunday-morning-pennsylvania-fracking-waste/",
-      "published_at": "Sun, 21 Dec 2025 09:50:00 +0000",
-      "bullets": [
-        "• Pennsylvania fracking has increased natural gas production 37-fold since 2008",
-        "• But the state’s ability to track waste has failed to keep up with the increase in production",
-        "• A new ICN investigation found huge discrepancies in state records",
-        "• ICN Sunday Morning is now available as a podcast!"
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Pennsylvania fracking has increased natural gas production 37-fold since 2008",
-          "• But the state’s ability to track waste has failed to keep up with the increase in production"
-        ],
-        "hopeful_bullets": [
-          "• A new ICN investigation found huge discrepancies in state records"
-        ],
-        "stakes_bullets": [
-          "• Pennsylvania fracking has increased natural gas production 37-fold since 2008",
-          "• But the state’s ability to track waste has failed to keep up with the increase in production"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "89f7837abc3e"
-    },
-    {
       "id": "eb57e9ca09a9",
       "title": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
       "outlet": "CNN.com - RSS Channel - Politics",
@@ -6905,6 +6903,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "8e9430e546a3"
+    },
+    {
+      "id": "865da1f58b2e",
+      "title": "Black Series Figure For The Mandalorian & Grogu Has Leaked",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-20-black-series-figure-for-the-mandalorian-grogu-has-leaked/?utm_source=rss&utm_medium=rss&utm_campaign=black-series-figure-for-the-mandalorian-grogu-has-leaked",
+      "published_at": "Sat, 20 Dec 2025 19:36:01 +0000",
+      "bullets": [
+        "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
+        "• The photo was taken with a lowres potato camera and is very blurry",
+        "• It is rumored to be a deluxe set at a price point of maybe $40 (standard figures cost $28)"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
+          "• The photo was taken with a lowres potato camera and is very blurry"
+        ],
+        "hopeful_bullets": [
+          "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
+          "• The photo was taken with a lowres potato camera and is very blurry"
+        ],
+        "stakes_bullets": [
+          "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
+          "• The photo was taken with a lowres potato camera and is very blurry",
+          "• It is rumored to be a deluxe set at a price point of maybe $40 (standard figures cost $28)"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "144accaf8f34"
     },
     {
       "id": "36775b836249",
@@ -7779,6 +7811,38 @@
       "cluster_id": "52e17391afd9"
     },
     {
+      "id": "9f99c5067546",
+      "title": "Looking Back At The Force Awakens",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-15-looking-back-at-the-force-awakens/?utm_source=rss&utm_medium=rss&utm_campaign=looking-back-at-the-force-awakens",
+      "published_at": "Mon, 15 Dec 2025 16:16:09 +0000",
+      "bullets": [
+        "• This week marks the 10th anniversary of The Force Awakens",
+        "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th",
+        "• Its repercussions still haunt Lucasfilm to this day and its effects are still felt everywhere "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• This week marks the 10th anniversary of The Force Awakens",
+          "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th"
+        ],
+        "hopeful_bullets": [
+          "• This week marks the 10th anniversary of The Force Awakens",
+          "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th"
+        ],
+        "stakes_bullets": [
+          "• Its repercussions still haunt Lucasfilm to this day and its effects are still felt everywhere "
+        ]
+      },
+      "read_minutes": 16,
+      "cluster_id": "e2f4eb0bcf07"
+    },
+    {
       "id": "28f08f39d4d5",
       "title": "Now Playing: The Holly Jolly Slasher You’ve Been Waiting For | SILENT NIGHT, DEADLY NIGHT",
       "outlet": "HorrorFix",
@@ -8038,6 +8102,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "aca13f699a96"
+    },
+    {
+      "id": "a6a708d2b0c3",
+      "title": "The Black Series In 2025",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-19-the-black-series-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-series-in-2025",
+      "published_at": "Fri, 19 Dec 2025 19:14:11 +0000",
+      "bullets": [
+        "• In 2025 a total of 63 sets were released in the Black Series, which contained a total number of 77 figures",
+        "• The 63 sets are the lowest number since 2019, a clear indicator that sales for the line are in decline",
+        "• The number of releases has been dialed down again, probably a direct result of a lower budget for the Star Wars line",
+        "• We still get more sets now than we even got during the sequel trilogy years "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In 2025 a total of 63 sets were released in the Black Series, which contained a total number of 77 figures",
+          "• The 63 sets are the lowest number since 2019, a clear indicator that sales for the line are in decline"
+        ],
+        "hopeful_bullets": [
+          "• In 2025 a total of 63 sets were released in the Black Series, which contained a total number of 77 figures",
+          "• The 63 sets are the lowest number since 2019, a clear indicator that sales for the line are in decline"
+        ],
+        "stakes_bullets": [
+          "• The number of releases has been dialed down again, probably a direct result of a lower budget for the Star Wars line"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "37374d8d656c"
     },
     {
       "id": "8c455affe1b5",
@@ -8335,6 +8432,75 @@
       },
       "read_minutes": 40,
       "cluster_id": "cc7d025ab986"
+    },
+    {
+      "id": "2bf07c12aa9e",
+      "title": "Pre-Order Hasbro's The Vintage Collection Fan Channel Wave",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-12-pre-order-hasbros-the-vintage-collection-fan-channel-wave/?utm_source=rss&utm_medium=rss&utm_campaign=pre-order-hasbros-the-vintage-collection-fan-channel-wave",
+      "published_at": "Fri, 12 Dec 2025 18:12:44 +0000",
+      "bullets": [
+        "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
+        "• Click below for links: Full Case Via Entertainment Earth",
+        "• Pre-Orders The Black Series [Phase IV] The Vintage Series "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.992
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
+          "• Click below for links: Full Case Via Entertainment Earth"
+        ],
+        "hopeful_bullets": [
+          "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
+          "• Click below for links: Full Case Via Entertainment Earth"
+        ],
+        "stakes_bullets": [
+          "• The Vintage Collection figures revealed during yesterday’s Fanstream are now available to pre-order via Fan Channel and Amazon",
+          "• Click below for links: Full Case Via Entertainment Earth",
+          "• Pre-Orders The Black Series [Phase IV] The Vintage Series "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "fa61653efed2"
+    },
+    {
+      "id": "6f373d98f2fa",
+      "title": "Brand New Knights Of The Old Republic Game Announced!",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-12-brand-new-knights-of-the-old-republic-game-announced/?utm_source=rss&utm_medium=rss&utm_campaign=brand-new-knights-of-the-old-republic-game-announced",
+      "published_at": "Fri, 12 Dec 2025 13:14:10 +0000",
+      "bullets": [
+        "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
+        "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy",
+        "• The game will be a narrative driven single player RPG",
+        "• It is intended for release on PC and consoles (so not an exclusive title)"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.922
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
+          "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy"
+        ],
+        "hopeful_bullets": [
+          "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
+          "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy"
+        ],
+        "stakes_bullets": [
+          "• Star Wars: Fate of the Old Republic will be developed by new gaming studio Arcanaut, founded by Casey Hudson",
+          "• Hudson was the game director for the original KOTOR I and the entire Mass Effect trilogy",
+          "• The game will be a narrative driven single player RPG"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "807bcb52eaa5"
     },
     {
       "id": "2108915dafea",
@@ -9644,6 +9810,24 @@
       ]
     },
     {
+      "id": "e12cc75095d2",
+      "topic": "aim exempt major pfas",
+      "keywords": [
+        "aim",
+        "exempt",
+        "major",
+        "pfas",
+        "polluter",
+        "republican"
+      ],
+      "item_ids": [
+        "7d8a1f3f6727"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "f7055bde6306",
       "topic": "boston ice rebellion resist",
       "keywords": [
@@ -9674,24 +9858,6 @@
       ],
       "item_ids": [
         "75f9c454021b"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "e12cc75095d2",
-      "topic": "aim exempt major pfas",
-      "keywords": [
-        "aim",
-        "exempt",
-        "major",
-        "pfas",
-        "polluter",
-        "republican"
-      ],
-      "item_ids": [
-        "7d8a1f3f6727"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9731,6 +9897,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "0436d4ba8815",
+      "topic": "champion hustler inspired ping",
+      "keywords": [
+        "champion",
+        "hustler",
+        "inspired",
+        "ping",
+        "pong",
+        "real"
+      ],
+      "item_ids": [
+        "2b1a7cf4312b"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9835,60 +10019,6 @@
       ],
       "item_ids": [
         "8c7d1420752f"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "0ffa44716fd5",
-      "topic": "aimed consensu issue key",
-      "keywords": [
-        "aimed",
-        "consensu",
-        "issue",
-        "key",
-        "reach",
-        "ukraine"
-      ],
-      "item_ids": [
-        "6e6c2f0d3282"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "882480b7fada",
-      "topic": "change climate does like",
-      "keywords": [
-        "change",
-        "climate",
-        "does",
-        "like",
-        "look",
-        "year"
-      ],
-      "item_ids": [
-        "b742622a3409"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "142b4750e062",
-      "topic": "catholic despite israel jews",
-      "keywords": [
-        "catholic",
-        "despite",
-        "israel",
-        "jews",
-        "tension",
-        "vatican"
-      ],
-      "item_ids": [
-        "81dca42dae85"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10074,6 +10204,42 @@
       ]
     },
     {
+      "id": "20a0d0faba1c",
+      "topic": "200 depot fake fireplace",
+      "keywords": [
+        "200",
+        "depot",
+        "fake",
+        "fireplace",
+        "home",
+        "soothed"
+      ],
+      "item_ids": [
+        "d845acfea923"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "411124d7798e",
+      "topic": "dna dog lurk many",
+      "keywords": [
+        "dna",
+        "dog",
+        "lurk",
+        "many",
+        "modern",
+        "wolf"
+      ],
+      "item_ids": [
+        "dc90bf211a25"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
       "id": "ff7ea01fbe06",
       "topic": "code december needle off",
       "keywords": [
@@ -10207,41 +10373,6 @@
       ],
       "item_ids": [
         "d33a962a1cf9"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "54f2175a2482",
-      "topic": "all pinterest slop tired",
-      "keywords": [
-        "all",
-        "pinterest",
-        "slop",
-        "tired",
-        "user"
-      ],
-      "item_ids": [
-        "16cd1ec17d11"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "60f9322ad094",
-      "topic": "alphafold changed evolving science",
-      "keywords": [
-        "alphafold",
-        "changed",
-        "evolving",
-        "science",
-        "still",
-        "year"
-      ],
-      "item_ids": [
-        "4319a7905fdb"
       ],
       "outlets": [
         "WIRED"
@@ -11134,24 +11265,6 @@
       ]
     },
     {
-      "id": "d2b398a70f34",
-      "topic": "bill block federal fund",
-      "keywords": [
-        "bill",
-        "block",
-        "federal",
-        "fund",
-        "introduce",
-        "moulton"
-      ],
-      "item_ids": [
-        "d00418fa0c26"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
       "id": "ae82da00304d",
       "topic": "2024 decision democrat kyrsten",
       "keywords": [
@@ -11412,6 +11525,24 @@
       ]
     },
     {
+      "id": "3067027221c6",
+      "topic": "car charger electric rollout",
+      "keywords": [
+        "car",
+        "charger",
+        "electric",
+        "rollout",
+        "slow",
+        "worrie"
+      ],
+      "item_ids": [
+        "8a4635cf7087"
+      ],
+      "outlets": [
+        "Environment | The Guardian"
+      ]
+    },
+    {
       "id": "9f3fcc6bb6cc",
       "topic": "boost cover england plant",
       "keywords": [
@@ -11448,21 +11579,39 @@
       ]
     },
     {
-      "id": "3531b08d121f",
-      "topic": "crayfish fungi invasive released",
+      "id": "0b594cabd0b0",
+      "topic": "buyout flood home jersey",
       "keywords": [
-        "crayfish",
-        "fungi",
-        "invasive",
-        "released",
-        "tackle",
-        "weevil"
+        "buyout",
+        "flood",
+        "home",
+        "jersey",
+        "program",
+        "prone"
       ],
       "item_ids": [
-        "31881694b880"
+        "f81166609eb5"
       ],
       "outlets": [
-        "Environment | The Guardian"
+        "Inside Climate News"
+      ]
+    },
+    {
+      "id": "605db2b862cb",
+      "topic": "economie gift help lesson",
+      "keywords": [
+        "economie",
+        "gift",
+        "help",
+        "lesson",
+        "planet",
+        "scaling"
+      ],
+      "item_ids": [
+        "1188ccd53066"
+      ],
+      "outlets": [
+        "Inside Climate News"
       ]
     },
     {
@@ -11603,42 +11752,6 @@
       ],
       "item_ids": [
         "9114bd4d9716"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "c0ad65442f15",
-      "topic": "china conservation countrie debt",
-      "keywords": [
-        "china",
-        "conservation",
-        "countrie",
-        "debt",
-        "relief",
-        "want"
-      ],
-      "item_ids": [
-        "ed4d3ae03653"
-      ],
-      "outlets": [
-        "Inside Climate News"
-      ]
-    },
-    {
-      "id": "89f7837abc3e",
-      "topic": "gas messy oil toxic",
-      "keywords": [
-        "gas",
-        "messy",
-        "oil",
-        "toxic",
-        "trail",
-        "waste"
-      ],
-      "item_ids": [
-        "36071c69c3c4"
       ],
       "outlets": [
         "Inside Climate News"
@@ -12681,6 +12794,142 @@
       ],
       "outlets": [
         "HorrorFix"
+      ]
+    },
+    {
+      "id": "144accaf8f34",
+      "topic": "black figure grogu leaked",
+      "keywords": [
+        "black",
+        "figure",
+        "grogu",
+        "leaked",
+        "mandalorian",
+        "serie"
+      ],
+      "item_ids": [
+        "865da1f58b2e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "37374d8d656c",
+      "topic": "2025 black serie",
+      "keywords": [
+        "2025",
+        "black",
+        "serie"
+      ],
+      "item_ids": [
+        "a6a708d2b0c3"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "7e4f4b714cd0",
+      "topic": "star trek wars",
+      "keywords": [
+        "star",
+        "trek",
+        "wars"
+      ],
+      "item_ids": [
+        "6c445d697472"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "e035bc8e7532",
+      "topic": "hot magnaguard mms856 revenge",
+      "keywords": [
+        "hot",
+        "magnaguard",
+        "mms856",
+        "revenge",
+        "sith",
+        "toys"
+      ],
+      "item_ids": [
+        "1acb08ef7363"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "e2f4eb0bcf07",
+      "topic": "awaken back force looking",
+      "keywords": [
+        "awaken",
+        "back",
+        "force",
+        "looking"
+      ],
+      "item_ids": [
+        "9f99c5067546"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "fa61653efed2",
+      "topic": "collection fan hasbro order",
+      "keywords": [
+        "collection",
+        "fan",
+        "hasbro",
+        "order",
+        "pre",
+        "vintage"
+      ],
+      "item_ids": [
+        "2bf07c12aa9e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "807bcb52eaa5",
+      "topic": "announced brand game knight",
+      "keywords": [
+        "announced",
+        "brand",
+        "game",
+        "knight",
+        "old",
+        "republic"
+      ],
+      "item_ids": [
+        "6f373d98f2fa"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "833f992e43b1",
+      "topic": "black fanstream hasbro reveal",
+      "keywords": [
+        "black",
+        "fanstream",
+        "hasbro",
+        "reveal",
+        "serie",
+        "today"
+      ],
+      "item_ids": [
+        "aa4c0a156448"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
       ]
     },
     {
