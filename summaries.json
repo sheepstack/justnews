@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T08:01:23Z",
+  "generated_at": "2025-12-25T08:17:48Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -873,39 +873,6 @@
       "cluster_id": "84607d5e2d30"
     },
     {
-      "id": "f4d6df9e31bf",
-      "title": "North Carolina Christmas tree farmers are optimistic after Hurricane Helene",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
-      "published_at": "Wed, 24 Dec 2025 16:00:15 GMT",
-      "bullets": [
-        "• North Carolina is the nation's second-largest city of Christmas trees",
-        "• Last year's devastating hurricane destroyed thousands of trees in the state",
-        "• The storm killed at least 80,000 people and destroyed homes and businesses",
-        "• The trees are still recovering from the damage caused by the storm "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.742
-      },
-      "moods": {
-        "brief_bullets": [
-          "• North Carolina is the nation's second-largest city of Christmas trees",
-          "• Last year's devastating hurricane destroyed thousands of trees in the state"
-        ],
-        "hopeful_bullets": [
-          "• North Carolina is the nation's second-largest city of Christmas trees",
-          "• Last year's devastating hurricane destroyed thousands of trees in the state"
-        ],
-        "stakes_bullets": [
-          "• The trees are still recovering from the damage caused by the storm "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e0ab3f2e7eef"
-    },
-    {
       "id": "839f7e17e55b",
       "title": "The 12 days of Trump-mas",
       "outlet": "US news | The Guardian",
@@ -938,6 +905,39 @@
       },
       "read_minutes": 3,
       "cluster_id": "2e12fe5124d5"
+    },
+    {
+      "id": "f4d6df9e31bf",
+      "title": "North Carolina Christmas tree farmers are optimistic after Hurricane Helene",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
+      "published_at": "Wed, 24 Dec 2025 16:00:15 GMT",
+      "bullets": [
+        "• North Carolina is the nation's second-largest city of Christmas trees",
+        "• Last year's devastating hurricane destroyed thousands of trees in the state",
+        "• The storm killed at least 80,000 people and destroyed homes and businesses",
+        "• The trees are still recovering from the damage caused by the storm "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.742
+      },
+      "moods": {
+        "brief_bullets": [
+          "• North Carolina is the nation's second-largest city of Christmas trees",
+          "• Last year's devastating hurricane destroyed thousands of trees in the state"
+        ],
+        "hopeful_bullets": [
+          "• North Carolina is the nation's second-largest city of Christmas trees",
+          "• Last year's devastating hurricane destroyed thousands of trees in the state"
+        ],
+        "stakes_bullets": [
+          "• The trees are still recovering from the damage caused by the storm "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e0ab3f2e7eef"
     },
     {
       "id": "43bd754e1202",
@@ -1203,38 +1203,6 @@
       "cluster_id": "e12cc75095d2"
     },
     {
-      "id": "25003c82a722",
-      "title": "Boston taps into ‘spirit of rebellion’ as it resists ICE’s immigration crackdown",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/24/boston-ice-immigration-resistance",
-      "published_at": "Wed, 24 Dec 2025 15:00:15 GMT",
-      "bullets": [
-        "• Lucia López Belloza will not be home for Christmas",
-        "• The 19-year-old was on a business scholarship at Babson College near Boston",
-        "• She was deported back to Honduras, a country she left aged seven seeking asylum, with chains on her waist, ankles and wrists "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.967
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Lucia López Belloza will not be home for Christmas",
-          "• The 19-year-old was on a business scholarship at Babson College near Boston"
-        ],
-        "hopeful_bullets": [
-          "• Lucia López Belloza will not be home for Christmas",
-          "• The 19-year-old was on a business scholarship at Babson College near Boston"
-        ],
-        "stakes_bullets": [
-          "• Lucia López Belloza will not be home for Christmas"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "f7055bde6306"
-    },
-    {
       "id": "75f9c454021b",
       "title": "Fresh ‘manty’ and cheap figs: a post-Soviet supermarket becomes a must-visit spot in NYC",
       "outlet": "US news | The Guardian",
@@ -1265,6 +1233,38 @@
       },
       "read_minutes": 5,
       "cluster_id": "1baf5572b708"
+    },
+    {
+      "id": "25003c82a722",
+      "title": "Boston taps into ‘spirit of rebellion’ as it resists ICE’s immigration crackdown",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/24/boston-ice-immigration-resistance",
+      "published_at": "Wed, 24 Dec 2025 15:00:15 GMT",
+      "bullets": [
+        "• Lucia López Belloza will not be home for Christmas",
+        "• The 19-year-old was on a business scholarship at Babson College near Boston",
+        "• She was deported back to Honduras, a country she left aged seven seeking asylum, with chains on her waist, ankles and wrists "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Lucia López Belloza will not be home for Christmas",
+          "• The 19-year-old was on a business scholarship at Babson College near Boston"
+        ],
+        "hopeful_bullets": [
+          "• Lucia López Belloza will not be home for Christmas",
+          "• The 19-year-old was on a business scholarship at Babson College near Boston"
+        ],
+        "stakes_bullets": [
+          "• Lucia López Belloza will not be home for Christmas"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "f7055bde6306"
     },
     {
       "id": "0bd1ef6339bc",
@@ -2900,6 +2900,37 @@
       "cluster_id": "af6953ceb98d"
     },
     {
+      "id": "887c9b0f612e",
+      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
+      "outlet": "NPR Topics: Science",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
+      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "hopeful_bullets": [
+          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ],
+        "stakes_bullets": [
+          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6e35bfde9a6"
+    },
+    {
       "id": "b90342b2ae45",
       "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
       "outlet": "NPR Topics: Science",
@@ -2930,37 +2961,6 @@
       },
       "read_minutes": 10,
       "cluster_id": "43bbb6302f3a"
-    },
-    {
-      "id": "887c9b0f612e",
-      "title": "From bird droppings to holiday kisses: How we ended up under the mistletoe",
-      "outlet": "NPR Topics: Science",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5641015/mistletoe-dung-manure-etymology",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-        "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "hopeful_bullets": [
-          "• The word \"mist\" comes from the word \"mistletoe\" and \"twig\" It's a way of dispersing seeds from trees",
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ],
-        "stakes_bullets": [
-          "• The word is used to refer to a tree or plant, and it's a symbol of good luck in the world "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a6e35bfde9a6"
     },
     {
       "id": "40d030e37f88",
@@ -9879,6 +9879,21 @@
       ]
     },
     {
+      "id": "2e12fe5124d5",
+      "topic": "days mas trump",
+      "keywords": [
+        "days",
+        "mas",
+        "trump"
+      ],
+      "item_ids": [
+        "839f7e17e55b"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "e0ab3f2e7eef",
       "topic": "carolina christma farmer north",
       "keywords": [
@@ -9891,21 +9906,6 @@
       ],
       "item_ids": [
         "f4d6df9e31bf"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "2e12fe5124d5",
-      "topic": "days mas trump",
-      "keywords": [
-        "days",
-        "mas",
-        "trump"
-      ],
-      "item_ids": [
-        "839f7e17e55b"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9930,24 +9930,6 @@
       ]
     },
     {
-      "id": "f7055bde6306",
-      "topic": "boston ice rebellion resist",
-      "keywords": [
-        "boston",
-        "ice",
-        "rebellion",
-        "resist",
-        "spirit",
-        "taps"
-      ],
-      "item_ids": [
-        "25003c82a722"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "1baf5572b708",
       "topic": "cheap figs fresh manty",
       "keywords": [
@@ -9960,6 +9942,24 @@
       ],
       "item_ids": [
         "75f9c454021b"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "f7055bde6306",
+      "topic": "boston ice rebellion resist",
+      "keywords": [
+        "boston",
+        "ice",
+        "rebellion",
+        "resist",
+        "spirit",
+        "taps"
+      ],
+      "item_ids": [
+        "25003c82a722"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -11202,24 +11202,6 @@
       ]
     },
     {
-      "id": "43bbb6302f3a",
-      "topic": "acros build nuclear reactor",
-      "keywords": [
-        "acros",
-        "build",
-        "nuclear",
-        "reactor",
-        "rush",
-        "trump"
-      ],
-      "item_ids": [
-        "b90342b2ae45"
-      ],
-      "outlets": [
-        "NPR Topics: Science"
-      ]
-    },
-    {
       "id": "a6e35bfde9a6",
       "topic": "bird dropping ended holiday",
       "keywords": [
@@ -11232,6 +11214,24 @@
       ],
       "item_ids": [
         "887c9b0f612e"
+      ],
+      "outlets": [
+        "NPR Topics: Science"
+      ]
+    },
+    {
+      "id": "43bbb6302f3a",
+      "topic": "acros build nuclear reactor",
+      "keywords": [
+        "acros",
+        "build",
+        "nuclear",
+        "reactor",
+        "rush",
+        "trump"
+      ],
+      "item_ids": [
+        "b90342b2ae45"
       ],
       "outlets": [
         "NPR Topics: Science"
