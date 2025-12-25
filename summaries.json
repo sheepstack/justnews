@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T02:44:28Z",
+  "generated_at": "2025-12-25T04:23:52Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -267,40 +267,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "1dd0e2e0d1d5"
-    },
-    {
-      "id": "25bd13bdb864",
-      "title": "Trump-backed candidate wins in knife-edge Honduran election",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cyvgz1jn368o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 24 Dec 2025 22:25:29 GMT",
-      "bullets": [
-        "• Trump-backed candidate wins in knife-edge Honduran election",
-        "• Nasry Asfura wins with 40.3% of the vote, edging out Salvador Nasralla of the centre-right Liberal Party",
-        "• The vote was held on 30 November but the count was delayed twice by technical problems "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.702
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Trump-backed candidate wins in knife-edge Honduran election",
-          "• Nasry Asfura wins with 40.3% of the vote, edging out Salvador Nasralla of the centre-right Liberal Party"
-        ],
-        "hopeful_bullets": [
-          "• Trump-backed candidate wins in knife-edge Honduran election",
-          "• Nasry Asfura wins with 40.3% of the vote, edging out Salvador Nasralla of the centre-right Liberal Party"
-        ],
-        "stakes_bullets": [
-          "• Trump-backed candidate wins in knife-edge Honduran election",
-          "• Nasry Asfura wins with 40.3% of the vote, edging out Salvador Nasralla of the centre-right Liberal Party",
-          "• The vote was held on 30 November but the count was delayed twice by technical problems "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "0d3b0e08338d"
     },
     {
       "id": "e5308dabebbc",
@@ -941,6 +907,39 @@
       "cluster_id": "84607d5e2d30"
     },
     {
+      "id": "f4d6df9e31bf",
+      "title": "North Carolina Christmas tree farmers are optimistic after Hurricane Helene",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
+      "published_at": "Wed, 24 Dec 2025 16:00:15 GMT",
+      "bullets": [
+        "• North Carolina is the nation's second-largest city of Christmas trees",
+        "• Last year's devastating hurricane destroyed thousands of trees in the state",
+        "• The storm killed at least 80,000 people and destroyed homes and businesses",
+        "• The trees are still recovering from the damage caused by the storm "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.742
+      },
+      "moods": {
+        "brief_bullets": [
+          "• North Carolina is the nation's second-largest city of Christmas trees",
+          "• Last year's devastating hurricane destroyed thousands of trees in the state"
+        ],
+        "hopeful_bullets": [
+          "• North Carolina is the nation's second-largest city of Christmas trees",
+          "• Last year's devastating hurricane destroyed thousands of trees in the state"
+        ],
+        "stakes_bullets": [
+          "• The trees are still recovering from the damage caused by the storm "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "e0ab3f2e7eef"
+    },
+    {
       "id": "839f7e17e55b",
       "title": "The 12 days of Trump-mas",
       "outlet": "US news | The Guardian",
@@ -973,39 +972,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "2e12fe5124d5"
-    },
-    {
-      "id": "f4d6df9e31bf",
-      "title": "North Carolina Christmas tree farmers are optimistic after Hurricane Helene",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
-      "published_at": "Wed, 24 Dec 2025 16:00:15 GMT",
-      "bullets": [
-        "• North Carolina is the nation's second-largest city of Christmas trees",
-        "• Last year's devastating hurricane destroyed thousands of trees in the state",
-        "• The storm killed at least 80,000 people and destroyed homes and businesses",
-        "• The trees are still recovering from the damage caused by the storm "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.742
-      },
-      "moods": {
-        "brief_bullets": [
-          "• North Carolina is the nation's second-largest city of Christmas trees",
-          "• Last year's devastating hurricane destroyed thousands of trees in the state"
-        ],
-        "hopeful_bullets": [
-          "• North Carolina is the nation's second-largest city of Christmas trees",
-          "• Last year's devastating hurricane destroyed thousands of trees in the state"
-        ],
-        "stakes_bullets": [
-          "• The trees are still recovering from the damage caused by the storm "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "e0ab3f2e7eef"
     },
     {
       "id": "803dd76bc5a2",
@@ -1462,39 +1428,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "c63f959418a9"
-    },
-    {
-      "id": "bfa68a8b348d",
-      "title": "Trump approves deployment of 350 national guard members to New Orleans",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2025/dec/24/trump-national-guard-deployment-new-orleans",
-      "published_at": "Wed, 24 Dec 2025 14:25:51 GMT",
-      "bullets": [
-        "• National Guard troops deployed in New Orleans ahead of the new year",
-        "• Move comes at same time as border patrol is carrying out an immigration crackdown",
-        "• Louisiana governor says deployment will help crack down on violence in the city",
-        "• Critics say it could cause fear in the community and increase crime rates "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.563
-      },
-      "moods": {
-        "brief_bullets": [
-          "• National Guard troops deployed in New Orleans ahead of the new year",
-          "• Move comes at same time as border patrol is carrying out an immigration crackdown"
-        ],
-        "hopeful_bullets": [
-          "• Louisiana governor says deployment will help crack down on violence in the city"
-        ],
-        "stakes_bullets": [
-          "• Louisiana governor says deployment will help crack down on violence in the city",
-          "• Critics say it could cause fear in the community and increase crime rates "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "d9e57dce4cf8"
     },
     {
       "id": "b28d7eb4bce6",
@@ -2696,6 +2629,40 @@
       "cluster_id": "3531b08d121f"
     },
     {
+      "id": "41e09ca5ae78",
+      "title": "ICE officer accused of excessive force, then sent back to work despite active probe",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/24/nx-s1-5650773/ice-immigration-agent-leave-oversight",
+      "published_at": "Wed, 24 Dec 2025 05:00:00 -0500",
+      "bullets": [
+        "• Victor Mojica was caught on several cameras roughly pushing a woman into the hallway and then to the ground, as the woman screamed",
+        "• The incident at an immigration court in New York rapidly circulated online and prompted the Homeland Security Department to place Mojica on administrative leave – a rare instance of such leave being publicly announced",
+        "• The DHS Office of Inspector General ultimately decided — nearly two months later — that the incident did not merit a criminal probe "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Victor Mojica was caught on several cameras roughly pushing a woman into the hallway and then to the ground, as the woman screamed",
+          "• The incident at an immigration court in New York rapidly circulated online and prompted the Homeland Security Department to place Mojica on administrative leave – a rare instance of such leave being publicly announced"
+        ],
+        "hopeful_bullets": [
+          "• Victor Mojica was caught on several cameras roughly pushing a woman into the hallway and then to the ground, as the woman screamed",
+          "• The incident at an immigration court in New York rapidly circulated online and prompted the Homeland Security Department to place Mojica on administrative leave – a rare instance of such leave being publicly announced"
+        ],
+        "stakes_bullets": [
+          "• Victor Mojica was caught on several cameras roughly pushing a woman into the hallway and then to the ground, as the woman screamed",
+          "• The incident at an immigration court in New York rapidly circulated online and prompted the Homeland Security Department to place Mojica on administrative leave – a rare instance of such leave being publicly announced",
+          "• The DHS Office of Inspector General ultimately decided — nearly two months later — that the incident did not merit a criminal probe "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "1d2d0347d2a1"
+    },
+    {
       "id": "0e66e425a50b",
       "title": "35 years after ADA, people with disabilities still find hotels unaccommodating",
       "outlet": "NPR Topics: News",
@@ -2761,73 +2728,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "a52dc6363640"
-    },
-    {
-      "id": "02bed53f4410",
-      "title": "How cozy Yuletide traditions got their start with raging parties and animal sacrifice",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/24/nx-s1-5643035/yule-christmas-word-origin",
-      "published_at": "Wed, 24 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• Yule was a pagan mid-winter festival around the solstice, dating back to pre-Christian Germanic people",
-        "• It was particularly important to Scandinavian communities during that time of year",
-        "• In this week's installment of \"Word of the Week,\" we travel back in time to the origins of Yule festivals "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.987
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Yule was a pagan mid-winter festival around the solstice, dating back to pre-Christian Germanic people",
-          "• It was particularly important to Scandinavian communities during that time of year"
-        ],
-        "hopeful_bullets": [
-          "• Yule was a pagan mid-winter festival around the solstice, dating back to pre-Christian Germanic people"
-        ],
-        "stakes_bullets": [
-          "• Yule was a pagan mid-winter festival around the solstice, dating back to pre-Christian Germanic people",
-          "• It was particularly important to Scandinavian communities during that time of year",
-          "• In this week's installment of \"Word of the Week,\" we travel back in time to the origins of Yule festivals "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "cb7c6ea30e8d"
-    },
-    {
-      "id": "41e09ca5ae78",
-      "title": "ICE officer accused of excessive force, then sent back to work despite active probe",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/24/nx-s1-5650773/ice-immigration-agent-leave-oversight",
-      "published_at": "Wed, 24 Dec 2025 05:00:00 -0500",
-      "bullets": [
-        "• Victor Mojica was caught on several cameras roughly pushing a woman into the hallway and then to the ground, as the woman screamed",
-        "• The incident at an immigration court in New York rapidly circulated online and prompted the Homeland Security Department to place Mojica on administrative leave – a rare instance of such leave being publicly announced",
-        "• The DHS Office of Inspector General ultimately decided — nearly two months later — that the incident did not merit a criminal probe "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Victor Mojica was caught on several cameras roughly pushing a woman into the hallway and then to the ground, as the woman screamed",
-          "• The incident at an immigration court in New York rapidly circulated online and prompted the Homeland Security Department to place Mojica on administrative leave – a rare instance of such leave being publicly announced"
-        ],
-        "hopeful_bullets": [
-          "• Victor Mojica was caught on several cameras roughly pushing a woman into the hallway and then to the ground, as the woman screamed",
-          "• The incident at an immigration court in New York rapidly circulated online and prompted the Homeland Security Department to place Mojica on administrative leave – a rare instance of such leave being publicly announced"
-        ],
-        "stakes_bullets": [
-          "• Victor Mojica was caught on several cameras roughly pushing a woman into the hallway and then to the ground, as the woman screamed",
-          "• The incident at an immigration court in New York rapidly circulated online and prompted the Homeland Security Department to place Mojica on administrative leave – a rare instance of such leave being publicly announced",
-          "• The DHS Office of Inspector General ultimately decided — nearly two months later — that the incident did not merit a criminal probe "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "1d2d0347d2a1"
     },
     {
       "id": "c54875766473",
@@ -5482,6 +5382,303 @@
       "cluster_id": "de631f7845cb"
     },
     {
+      "id": "dfb9e79c091f",
+      "title": "Mad Men's Season 3 Finale Marked the Start of a New Era",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/mad-men-best-episode-shut-the-door-have-a-seat/",
+      "published_at": "Thu, 25 Dec 2025 04:00:12 GMT",
+      "bullets": [
+        "• Season 3 finale, \"Shut the Door",
+        "• Have a Seat.,\" is the perfect episode of Mad Men",
+        "• Stripping its main protagonist, Donald Draper, down to his foundation, the episode pulls away all that is familiar in the life he's built for himself",
+        "• Forced to embrace the damage brought on by hiding his past "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.985
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Season 3 finale, \"Shut the Door",
+          "• Have a Seat.,\" is the perfect episode of Mad Men"
+        ],
+        "hopeful_bullets": [
+          "• Season 3 finale, \"Shut the Door",
+          "• Have a Seat.,\" is the perfect episode of Mad Men"
+        ],
+        "stakes_bullets": [
+          "• Season 3 finale, \"Shut the Door",
+          "• Have a Seat.,\" is the perfect episode of Mad Men",
+          "• Stripping its main protagonist, Donald Draper, down to his foundation, the episode pulls away all that is familiar in the life he's built for himself"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "8465d355d543"
+    },
+    {
+      "id": "b0c1149626be",
+      "title": "This Avatar: The Last Airbender Secret Makes the Anime Easier to Understand",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/avatar-the-last-airbender-legendofkorra-secrets-explained/",
+      "published_at": "Thu, 25 Dec 2025 03:45:12 GMT",
+      "bullets": [
+        "• Avatar: The Last Airbender is one of the finest examples of Western animation",
+        "• With its combination of nuanced world-building, profound character dynamics, and a power system rooted in East Asian mythology, ATLA will always remain an unparalleled masterpiece "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Avatar: The Last Airbender is one of the finest examples of Western animation",
+          "• With its combination of nuanced world-building, profound character dynamics, and a power system rooted in East Asian mythology, ATLA will always remain an unparalleled masterpiece "
+        ],
+        "hopeful_bullets": [
+          "• Avatar: The Last Airbender is one of the finest examples of Western animation",
+          "• With its combination of nuanced world-building, profound character dynamics, and a power system rooted in East Asian mythology, ATLA will always remain an unparalleled masterpiece "
+        ],
+        "stakes_bullets": [
+          "• With its combination of nuanced world-building, profound character dynamics, and a power system rooted in East Asian mythology, ATLA will always remain an unparalleled masterpiece "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "9ea7a4fe9490"
+    },
+    {
+      "id": "66497431b2b8",
+      "title": "Solo Leveling Misses #1 Spot for World's Most In-Demand TV Anime of 2025",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/mha-most-in-demand-anime-tv-series-overall-2025/",
+      "published_at": "Thu, 25 Dec 2025 03:34:29 GMT",
+      "bullets": [
+        "• Global Demand Awards have named My Hero Academia as the top anime series of 2025",
+        "• Solo Leveling, One Piece, Dandadan and The Apothecary Diaries are among the finalists for the overall TV series category",
+        "• The actual winner of both the anime series and the TV series categories will be announced in January 2026 "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.974
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Global Demand Awards have named My Hero Academia as the top anime series of 2025",
+          "• Solo Leveling, One Piece, Dandadan and The Apothecary Diaries are among the finalists for the overall TV series category"
+        ],
+        "hopeful_bullets": [
+          "• Global Demand Awards have named My Hero Academia as the top anime series of 2025",
+          "• The actual winner of both the anime series and the TV series categories will be announced in January 2026 "
+        ],
+        "stakes_bullets": [
+          "• The actual winner of both the anime series and the TV series categories will be announced in January 2026 "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "52750b5b5a55"
+    },
+    {
+      "id": "25bd13bdb864",
+      "title": "Trump-backed candidate wins in knife-edge Honduran election",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cyvgz1jn368o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 25 Dec 2025 03:32:10 GMT",
+      "bullets": [
+        "• Trump-backed candidate wins in knife-edge Honduran election",
+        "• Nasry Asfura wins with 40.3% of the vote, edging out Salvador Nasralla of the Liberal Party",
+        "• The vote was held on 30 November but the count was delayed twice by technical problems "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.57
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump-backed candidate wins in knife-edge Honduran election",
+          "• Nasry Asfura wins with 40.3% of the vote, edging out Salvador Nasralla of the Liberal Party"
+        ],
+        "hopeful_bullets": [
+          "• Trump-backed candidate wins in knife-edge Honduran election",
+          "• Nasry Asfura wins with 40.3% of the vote, edging out Salvador Nasralla of the Liberal Party"
+        ],
+        "stakes_bullets": [
+          "• Trump-backed candidate wins in knife-edge Honduran election",
+          "• Nasry Asfura wins with 40.3% of the vote, edging out Salvador Nasralla of the Liberal Party",
+          "• The vote was held on 30 November but the count was delayed twice by technical problems "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "0d3b0e08338d"
+    },
+    {
+      "id": "a978a5ae5fd8",
+      "title": "Trump news at a glance: EU could respond to ‘unjustified’ US visa bans, official says",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2025/dec/25/trump-administration-news-updates-today-latest",
+      "published_at": "Thu, 25 Dec 2025 03:26:36 GMT",
+      "bullets": [
+        "• EU could 'respond swiftly and decisively' against 'unjustified' US visa bans on five Europeans involved in combating online hate and disinformation",
+        "• European leaders including Emmanuel Macron accuse Washington of “coercion and intimidation” The ban was imposed on Tuesday on Thierry Breton, the former EU commissioner and one of the architects of the bloc’s Digital Services Act "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.811
+      },
+      "moods": {
+        "brief_bullets": [
+          "• EU could 'respond swiftly and decisively' against 'unjustified' US visa bans on five Europeans involved in combating online hate and disinformation",
+          "• European leaders including Emmanuel Macron accuse Washington of “coercion and intimidation” The ban was imposed on Tuesday on Thierry Breton, the former EU commissioner and one of the architects of the bloc’s Digital Services Act "
+        ],
+        "hopeful_bullets": [
+          "• EU could 'respond swiftly and decisively' against 'unjustified' US visa bans on five Europeans involved in combating online hate and disinformation"
+        ],
+        "stakes_bullets": [
+          "• EU could 'respond swiftly and decisively' against 'unjustified' US visa bans on five Europeans involved in combating online hate and disinformation",
+          "• European leaders including Emmanuel Macron accuse Washington of “coercion and intimidation” The ban was imposed on Tuesday on Thierry Breton, the former EU commissioner and one of the architects of the bloc’s Digital Services Act "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "d7e2e21dea18"
+    },
+    {
+      "id": "740f662530d7",
+      "title": "SpongeBob's Box Office Struggle Is Bad News for Nickelodeon",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/end-of-era-nickelodeon-spongebob-squarepants/",
+      "published_at": "Thu, 25 Dec 2025 03:20:12 GMT",
+      "bullets": [
+        "• The SpongeBob Movie: Search for SquarePants was released in December 2025 to surprisingly positive reviews",
+        "• Despite this, it's had a much lower box office haul than most might have expected",
+        "• Currently, it has made around $16 million on a budget of $64 million USD",
+        "• This is 10 times more than what it's currently made "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The SpongeBob Movie: Search for SquarePants was released in December 2025 to surprisingly positive reviews",
+          "• Despite this, it's had a much lower box office haul than most might have expected"
+        ],
+        "hopeful_bullets": [
+          "• The SpongeBob Movie: Search for SquarePants was released in December 2025 to surprisingly positive reviews",
+          "• Despite this, it's had a much lower box office haul than most might have expected"
+        ],
+        "stakes_bullets": [
+          "• Despite this, it's had a much lower box office haul than most might have expected"
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "f976c242bd14"
+    },
+    {
+      "id": "01a81a318edf",
+      "title": "Dragon Ball’s Biggest Box Office Bomb Secretly Saved the Franchise",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dragon-ball-evolution-box-office-bomb-secretly-saved-the-franchise/",
+      "published_at": "Thu, 25 Dec 2025 03:15:11 GMT",
+      "bullets": [
+        "• The film has a 14% score on Rotten Tomatoes, a 0.9 on Letterboxd.com",
+        "• It is one of the worst movies ever made, but it's also the only reason it exists",
+        "• The film is a complete failure to be a complete adaptation of the original Dragon Ball Z anime "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The film has a 14% score on Rotten Tomatoes, a 0.9 on Letterboxd.com",
+          "• It is one of the worst movies ever made, but it's also the only reason it exists"
+        ],
+        "hopeful_bullets": [
+          "• The film has a 14% score on Rotten Tomatoes, a 0.9 on Letterboxd.com",
+          "• It is one of the worst movies ever made, but it's also the only reason it exists"
+        ],
+        "stakes_bullets": [
+          "• The film has a 14% score on Rotten Tomatoes, a 0.9 on Letterboxd.com",
+          "• It is one of the worst movies ever made, but it's also the only reason it exists",
+          "• The film is a complete failure to be a complete adaptation of the original Dragon Ball Z anime "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "3101a5b6080d"
+    },
+    {
+      "id": "0ca6fe231da9",
+      "title": "8 Near-Perfect 2025 Anime, Officially Ranked",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/official-near-perfect-2025-anime-tv-series-masterpieces/",
+      "published_at": "Thu, 25 Dec 2025 02:45:12 GMT",
+      "bullets": [
+        "• Dandadan blew up when it premiered in late 2024, and it continued to maintain a high standard of quality throughout 2025",
+        "• The anime's depiction of sexual content has been consistently horrible, with its handling of sexual assault specifically being gross, disturbing, and quick to turn viewers away "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Dandadan blew up when it premiered in late 2024, and it continued to maintain a high standard of quality throughout 2025",
+          "• The anime's depiction of sexual content has been consistently horrible, with its handling of sexual assault specifically being gross, disturbing, and quick to turn viewers away "
+        ],
+        "hopeful_bullets": [
+          "• Dandadan blew up when it premiered in late 2024, and it continued to maintain a high standard of quality throughout 2025",
+          "• The anime's depiction of sexual content has been consistently horrible, with its handling of sexual assault specifically being gross, disturbing, and quick to turn viewers away "
+        ],
+        "stakes_bullets": [
+          "• Dandadan blew up when it premiered in late 2024, and it continued to maintain a high standard of quality throughout 2025",
+          "• The anime's depiction of sexual content has been consistently horrible, with its handling of sexual assault specifically being gross, disturbing, and quick to turn viewers away "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "c5a37e8ae0a6"
+    },
+    {
+      "id": "c35d9b6c6c46",
+      "title": "3 Most Perfect Fantasy Shows Ever Made",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/most-perfect-fantasy-shows-list/",
+      "published_at": "Thu, 25 Dec 2025 02:40:12 GMT",
+      "bullets": [
+        "• Lockwood & Co",
+        "• was adapted from the book series of the same name, penned by best-selling author Jonathan Stroud",
+        "• The series explores death and grief in the imaginary world of ghost hunting",
+        "• The perfect fantasy series didn't fumble in the homestretch but delivered brilliant stories right up until the end "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Lockwood & Co",
+          "• was adapted from the book series of the same name, penned by best-selling author Jonathan Stroud"
+        ],
+        "hopeful_bullets": [
+          "• Lockwood & Co",
+          "• was adapted from the book series of the same name, penned by best-selling author Jonathan Stroud"
+        ],
+        "stakes_bullets": [
+          "• Lockwood & Co",
+          "• was adapted from the book series of the same name, penned by best-selling author Jonathan Stroud",
+          "• The series explores death and grief in the imaginary world of ghost hunting"
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "66cf0061f541"
+    },
+    {
       "id": "f04d2be51c12",
       "title": "Tokyo Godfathers Is Still the Best Anime Christmas Movie Ever Made",
       "outlet": "CBR",
@@ -5582,239 +5779,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "bc1ed24841c0"
-    },
-    {
-      "id": "055cffae814f",
-      "title": "Steven Spielberg Reveals His Love for Deadliest Catch",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/steven-spielberg-deadliest-catch-guilty-pleasure-tv/",
-      "published_at": "Thu, 25 Dec 2025 02:00:12 GMT",
-      "bullets": [
-        "• Steven Spielberg is one of the greatest directors ever to pick up a camera",
-        "• His first directing credit was for a short film called The Last Gun in 1959",
-        "• He got his start in television",
-        "• His fans may be surprised to learn that he spends a significant amount of time watching reality TV "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Steven Spielberg is one of the greatest directors ever to pick up a camera",
-          "• His first directing credit was for a short film called The Last Gun in 1959"
-        ],
-        "hopeful_bullets": [
-          "• Steven Spielberg is one of the greatest directors ever to pick up a camera",
-          "• His first directing credit was for a short film called The Last Gun in 1959"
-        ],
-        "stakes_bullets": [
-          "• Steven Spielberg is one of the greatest directors ever to pick up a camera",
-          "• His first directing credit was for a short film called The Last Gun in 1959",
-          "• He got his start in television"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "45ca4e768169"
-    },
-    {
-      "id": "dd8670247ba9",
-      "title": "The Free-to-Play JRPG With Overwhelmingly Positive Steam Reviews",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-free-to-play-jrpg-overwhelmingly-positive-steam-reviews/",
-      "published_at": "Thu, 25 Dec 2025 01:45:12 GMT",
-      "bullets": [
-        "• Free-to-play JRPGs like Reverse: 1999 are blowing up on Steam",
-        "• The game jumps around in time, weaving sci-fi and fantasy elements into a retro setting",
-        "• The title has continued to expand with new chapters since its release in 2023",
-        "• It's the debut game from Chinese studio Bluepoch "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Free-to-play JRPGs like Reverse: 1999 are blowing up on Steam",
-          "• The game jumps around in time, weaving sci-fi and fantasy elements into a retro setting"
-        ],
-        "hopeful_bullets": [
-          "• Free-to-play JRPGs like Reverse: 1999 are blowing up on Steam"
-        ],
-        "stakes_bullets": [
-          "• The title has continued to expand with new chapters since its release in 2023"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "ada90e474e32"
-    },
-    {
-      "id": "24d9063d03fe",
-      "title": "How Seinfeld's Festivus Episode Became the Best Christmas Sitcom Special",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/seinfeld-the-strike-best-sitcom-christmas-episode-all-time/",
-      "published_at": "Thu, 25 Dec 2025 01:40:12 GMT",
-      "bullets": [
-        "• Festivus was a secular secular holiday created by author Daniel O'Keefe in the 1960s",
-        "• Seinfeld's \"The Strike\" is one of the best holiday episodes of all-time",
-        "• The author's son, Dan, grew up in the tradition "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Festivus was a secular secular holiday created by author Daniel O'Keefe in the 1960s",
-          "• Seinfeld's \"The Strike\" is one of the best holiday episodes of all-time"
-        ],
-        "hopeful_bullets": [
-          "• Festivus was a secular secular holiday created by author Daniel O'Keefe in the 1960s",
-          "• Seinfeld's \"The Strike\" is one of the best holiday episodes of all-time"
-        ],
-        "stakes_bullets": [
-          "• Festivus was a secular secular holiday created by author Daniel O'Keefe in the 1960s",
-          "• Seinfeld's \"The Strike\" is one of the best holiday episodes of all-time",
-          "• The author's son, Dan, grew up in the tradition "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "579e86d8dc65"
-    },
-    {
-      "id": "d329a87f09b0",
-      "title": "Eyes Wide Shut: Stanley Kubrick's Chilling Christmas Masterpiece",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/stanley-kubrick-eyes-wide-shut-christmas-masterpiece/",
-      "published_at": "Thu, 25 Dec 2025 01:30:12 GMT",
-      "bullets": [
-        "• Stanley Kubrick’s final film, Eyes Wide Shut (1999), is the ultimate dark horse of the holiday genre",
-        "• Released in July but set entirely during the festive season in New York City, it uses the most wonderful time of the year as a trap",
-        "• It has aged into a hard look at how the rich and powerful play by a different set of rules "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Stanley Kubrick’s final film, Eyes Wide Shut (1999), is the ultimate dark horse of the holiday genre",
-          "• Released in July but set entirely during the festive season in New York City, it uses the most wonderful time of the year as a trap"
-        ],
-        "hopeful_bullets": [
-          "• Stanley Kubrick’s final film, Eyes Wide Shut (1999), is the ultimate dark horse of the holiday genre",
-          "• Released in July but set entirely during the festive season in New York City, it uses the most wonderful time of the year as a trap"
-        ],
-        "stakes_bullets": [
-          "• Stanley Kubrick’s final film, Eyes Wide Shut (1999), is the ultimate dark horse of the holiday genre",
-          "• Released in July but set entirely during the festive season in New York City, it uses the most wonderful time of the year as a trap",
-          "• It has aged into a hard look at how the rich and powerful play by a different set of rules "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "d559086ba312"
-    },
-    {
-      "id": "f98daec98425",
-      "title": "6 Old-School Sci-Fi Movies Better Than Anything on Streaming",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/old-school-sci-fi-movies-better-than-streaming-list/",
-      "published_at": "Thu, 25 Dec 2025 01:20:11 GMT",
-      "bullets": [
-        "• There are a handful of classic sci-fi films that will always be better than anything that comes out on streaming, and fans can still watch them",
-        "• Planet of the Apes wasn't always the epic franchise many modern audiences know it to be today",
-        "• It started as a brilliant new genre hit that came out right at the beginning of the New Hollywood era "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• There are a handful of classic sci-fi films that will always be better than anything that comes out on streaming, and fans can still watch them",
-          "• Planet of the Apes wasn't always the epic franchise many modern audiences know it to be today"
-        ],
-        "hopeful_bullets": [
-          "• There are a handful of classic sci-fi films that will always be better than anything that comes out on streaming, and fans can still watch them",
-          "• Planet of the Apes wasn't always the epic franchise many modern audiences know it to be today"
-        ],
-        "stakes_bullets": [
-          "• There are a handful of classic sci-fi films that will always be better than anything that comes out on streaming, and fans can still watch them",
-          "• Planet of the Apes wasn't always the epic franchise many modern audiences know it to be today"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "b561e0007c74"
-    },
-    {
-      "id": "a4784c8b00bf",
-      "title": "Every Dragon Ball Villain Who Officially Surpassed Goku, In Chronological Order",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-dragon-ball-villains-stronger-than-goku-timeline/",
-      "published_at": "Thu, 25 Dec 2025 01:15:12 GMT",
-      "bullets": [
-        "• In the world of Dragon Ball, every character's power is measured in comparison to Goku's strength",
-        "• Demon King Piccolo is such a terrifying threat because he systematically eliminates the world’s strongest fighters and then proceeds to use the Dragon Balls to regain his youth and the superior power "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In the world of Dragon Ball, every character's power is measured in comparison to Goku's strength",
-          "• Demon King Piccolo is such a terrifying threat because he systematically eliminates the world’s strongest fighters and then proceeds to use the Dragon Balls to regain his youth and the superior power "
-        ],
-        "hopeful_bullets": [
-          "• Demon King Piccolo is such a terrifying threat because he systematically eliminates the world’s strongest fighters and then proceeds to use the Dragon Balls to regain his youth and the superior power "
-        ],
-        "stakes_bullets": [
-          "• Demon King Piccolo is such a terrifying threat because he systematically eliminates the world’s strongest fighters and then proceeds to use the Dragon Balls to regain his youth and the superior power "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "f7f57faa8c41"
-    },
-    {
-      "id": "f9b54a1bd095",
-      "title": "Hit Noir Detective Series Veronica Mars Is Heading to Netflix in January",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/veronica-mars-noir-detective-series-streaming-netflix/",
-      "published_at": "Thu, 25 Dec 2025 01:00:12 GMT",
-      "bullets": [
-        "• Veronica Mars is officially coming to Netflix at the beginning of next year",
-        "• Only the first three seasons will be available for Netflix users",
-        "• The fourth season revival will continue to be exclusively available on Hulu and Disney+",
-        "• The 2014 Veronica Mars film will remain on HBO Max "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Veronica Mars is officially coming to Netflix at the beginning of next year",
-          "• Only the first three seasons will be available for Netflix users"
-        ],
-        "hopeful_bullets": [
-          "• Veronica Mars is officially coming to Netflix at the beginning of next year",
-          "• Only the first three seasons will be available for Netflix users"
-        ],
-        "stakes_bullets": [
-          "• Only the first three seasons will be available for Netflix users",
-          "• The fourth season revival will continue to be exclusively available on Hulu and Disney+",
-          "• The 2014 Veronica Mars film will remain on HBO Max "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "64892237df69"
     },
     {
       "id": "b99dec3073c3",
@@ -8531,7 +8495,7 @@
           "• Anker’s Laptop Power Bank is once again on sale at Amazon and Walmart for $87.99 ($47 off) The 25,000mAh / 90Wh power bank also sports a USB-A port and an additional USB-C port"
         ]
       },
-      "read_minutes": 2,
+      "read_minutes": 3,
       "cluster_id": "67ed8ff35fb2"
     },
     {
@@ -8563,7 +8527,7 @@
           "• Sony’s full suite of PlayStation 5 consoles jumped in price in August due to increased US tariffs"
         ]
       },
-      "read_minutes": 1,
+      "read_minutes": 2,
       "cluster_id": "6b5ca70310ed"
     },
     {
@@ -8632,7 +8596,7 @@
           "• Some of the largest game studios claim it’s being implemented everywhere in the industry including in their own development processes "
         ]
       },
-      "read_minutes": 5,
+      "read_minutes": 6,
       "cluster_id": "e61d76d97211"
     },
     {
@@ -9619,6 +9583,24 @@
       ]
     },
     {
+      "id": "d7e2e21dea18",
+      "topic": "bans glance respond trump",
+      "keywords": [
+        "bans",
+        "glance",
+        "respond",
+        "trump",
+        "unjustified",
+        "visa"
+      ],
+      "item_ids": [
+        "a978a5ae5fd8"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
       "id": "e6fc558b63de",
       "topic": "brace california powerful southern",
       "keywords": [
@@ -9655,21 +9637,6 @@
       ]
     },
     {
-      "id": "2e12fe5124d5",
-      "topic": "days mas trump",
-      "keywords": [
-        "days",
-        "mas",
-        "trump"
-      ],
-      "item_ids": [
-        "839f7e17e55b"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "e0ab3f2e7eef",
       "topic": "carolina christma farmer north",
       "keywords": [
@@ -9682,6 +9649,21 @@
       ],
       "item_ids": [
         "f4d6df9e31bf"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "2e12fe5124d5",
+      "topic": "days mas trump",
+      "keywords": [
+        "days",
+        "mas",
+        "trump"
+      ],
+      "item_ids": [
+        "839f7e17e55b"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9754,24 +9736,6 @@
       ],
       "item_ids": [
         "0bd1ef6339bc"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "d9e57dce4cf8",
-      "topic": "350 approve deployment guard",
-      "keywords": [
-        "350",
-        "approve",
-        "deployment",
-        "guard",
-        "national",
-        "trump"
-      ],
-      "item_ids": [
-        "bfa68a8b348d"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9921,6 +9885,24 @@
       ]
     },
     {
+      "id": "1d2d0347d2a1",
+      "topic": "accused excessive force ice",
+      "keywords": [
+        "accused",
+        "excessive",
+        "force",
+        "ice",
+        "officer",
+        "then"
+      ],
+      "item_ids": [
+        "41e09ca5ae78"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "b80539535dad",
       "topic": "ada disabilitie find people",
       "keywords": [
@@ -9950,24 +9932,6 @@
       ],
       "item_ids": [
         "0e857817cc1a"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "cb7c6ea30e8d",
-      "topic": "cozy got raging start",
-      "keywords": [
-        "cozy",
-        "got",
-        "raging",
-        "start",
-        "tradition",
-        "yuletide"
-      ],
-      "item_ids": [
-        "02bed53f4410"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -11080,24 +11044,6 @@
       ],
       "item_ids": [
         "1aba3a5665ba"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "1d2d0347d2a1",
-      "topic": "accused excessive force ice",
-      "keywords": [
-        "accused",
-        "excessive",
-        "force",
-        "ice",
-        "officer",
-        "then"
-      ],
-      "item_ids": [
-        "41e09ca5ae78"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -13319,6 +13265,132 @@
       ]
     },
     {
+      "id": "8465d355d543",
+      "topic": "finale mad marked men",
+      "keywords": [
+        "finale",
+        "mad",
+        "marked",
+        "men",
+        "season",
+        "start"
+      ],
+      "item_ids": [
+        "dfb9e79c091f"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "9ea7a4fe9490",
+      "topic": "airbender anime avatar last",
+      "keywords": [
+        "airbender",
+        "anime",
+        "avatar",
+        "last",
+        "make",
+        "secret"
+      ],
+      "item_ids": [
+        "b0c1149626be"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "52750b5b5a55",
+      "topic": "leveling misse most solo",
+      "keywords": [
+        "leveling",
+        "misse",
+        "most",
+        "solo",
+        "spot",
+        "world"
+      ],
+      "item_ids": [
+        "66497431b2b8"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "f976c242bd14",
+      "topic": "bad box nickelodeon office",
+      "keywords": [
+        "bad",
+        "box",
+        "nickelodeon",
+        "office",
+        "spongebob",
+        "struggle"
+      ],
+      "item_ids": [
+        "740f662530d7"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "3101a5b6080d",
+      "topic": "ball biggest bomb box",
+      "keywords": [
+        "ball",
+        "biggest",
+        "bomb",
+        "box",
+        "dragon",
+        "office"
+      ],
+      "item_ids": [
+        "01a81a318edf"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "c5a37e8ae0a6",
+      "topic": "2025 anime near officially",
+      "keywords": [
+        "2025",
+        "anime",
+        "near",
+        "officially",
+        "perfect",
+        "ranked"
+      ],
+      "item_ids": [
+        "0ca6fe231da9"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "66cf0061f541",
+      "topic": "ever fantasy made most",
+      "keywords": [
+        "ever",
+        "fantasy",
+        "made",
+        "most",
+        "perfect",
+        "show"
+      ],
+      "item_ids": [
+        "c35d9b6c6c46"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "9786277620f3",
       "topic": "anime best christma godfather",
       "keywords": [
@@ -13366,132 +13438,6 @@
       ],
       "item_ids": [
         "8e61b5eff8aa"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "45ca4e768169",
-      "topic": "catch deadliest love reveal",
-      "keywords": [
-        "catch",
-        "deadliest",
-        "love",
-        "reveal",
-        "spielberg",
-        "steven"
-      ],
-      "item_ids": [
-        "055cffae814f"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "ada90e474e32",
-      "topic": "free jrpg overwhelmingly play",
-      "keywords": [
-        "free",
-        "jrpg",
-        "overwhelmingly",
-        "play",
-        "positive",
-        "steam"
-      ],
-      "item_ids": [
-        "dd8670247ba9"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "579e86d8dc65",
-      "topic": "became best christma episode",
-      "keywords": [
-        "became",
-        "best",
-        "christma",
-        "episode",
-        "festivu",
-        "seinfeld"
-      ],
-      "item_ids": [
-        "24d9063d03fe"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "d559086ba312",
-      "topic": "chilling eyes kubrick shut",
-      "keywords": [
-        "chilling",
-        "eyes",
-        "kubrick",
-        "shut",
-        "stanley",
-        "wide"
-      ],
-      "item_ids": [
-        "d329a87f09b0"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "b561e0007c74",
-      "topic": "anything better movie old",
-      "keywords": [
-        "anything",
-        "better",
-        "movie",
-        "old",
-        "school",
-        "sci"
-      ],
-      "item_ids": [
-        "f98daec98425"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "f7f57faa8c41",
-      "topic": "ball dragon every officially",
-      "keywords": [
-        "ball",
-        "dragon",
-        "every",
-        "officially",
-        "surpassed",
-        "villain"
-      ],
-      "item_ids": [
-        "a4784c8b00bf"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "64892237df69",
-      "topic": "detective hit mars noir",
-      "keywords": [
-        "detective",
-        "hit",
-        "mars",
-        "noir",
-        "serie",
-        "veronica"
-      ],
-      "item_ids": [
-        "f9b54a1bd095"
       ],
       "outlets": [
         "CBR"
