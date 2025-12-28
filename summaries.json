@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T05:27:07Z",
+  "generated_at": "2025-12-28T05:57:30Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -3216,6 +3216,38 @@
       },
       "read_minutes": 6,
       "cluster_id": "61932cf045ef"
+    },
+    {
+      "id": "4d75fa14a903",
+      "title": "Central African Republic goes to polls as president seeks third term",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/dec/28/central-african-republic-goes-to-polls-as-president-seeks-third-term",
+      "published_at": "Sun, 28 Dec 2025 05:00:00 GMT",
+      "bullets": [
+        "• Central African Republic goes to the polls on Sunday with the president seeking a third term",
+        "• As many as 2.3 million registered voters will cast ballots for what observers are calling a quadruple election",
+        "• Seven candidates are on the ballot for president, including the former prime ministers Anicet Georges Dologuélé and Henri-Marie Dondra "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.832
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Central African Republic goes to the polls on Sunday with the president seeking a third term",
+          "• As many as 2.3 million registered voters will cast ballots for what observers are calling a quadruple election"
+        ],
+        "hopeful_bullets": [
+          "• Central African Republic goes to the polls on Sunday with the president seeking a third term",
+          "• As many as 2.3 million registered voters will cast ballots for what observers are calling a quadruple election"
+        ],
+        "stakes_bullets": [
+          "• As many as 2.3 million registered voters will cast ballots for what observers are calling a quadruple election"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "f2843dfb1663"
     },
     {
       "id": "dacdd3980a44",
@@ -7092,39 +7124,6 @@
       "cluster_id": "f701a189b761"
     },
     {
-      "id": "b43467510993",
-      "title": "Nigeria provided US with intelligence for strikes on Islamist militants, says foreign minister – as it happened",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2025/dec/26/us-nigeria-strikes-militants-donald-trump-zelenskyy-ukraine-epstein-us-politics-latest-news-updates",
-      "published_at": "Fri, 26 Dec 2025 17:16:44 GMT",
-      "bullets": [
-        "• Nigeria provided US with intelligence for strikes on militants, foreign minister says",
-        "• Foreign minister Yusuf Tuggar says he spoke with US secretary of state, Marco Rubio, before the strikes",
-        "• Donald Trump said the US military carried out strikes against Islamic State militants in Nigeria "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.958
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nigeria provided US with intelligence for strikes on militants, foreign minister says",
-          "• Foreign minister Yusuf Tuggar says he spoke with US secretary of state, Marco Rubio, before the strikes"
-        ],
-        "hopeful_bullets": [
-          "• Donald Trump said the US military carried out strikes against Islamic State militants in Nigeria "
-        ],
-        "stakes_bullets": [
-          "• Nigeria provided US with intelligence for strikes on militants, foreign minister says",
-          "• Foreign minister Yusuf Tuggar says he spoke with US secretary of state, Marco Rubio, before the strikes",
-          "• Donald Trump said the US military carried out strikes against Islamic State militants in Nigeria "
-        ]
-      },
-      "read_minutes": 14,
-      "cluster_id": "efe05089d949"
-    },
-    {
       "id": "86022043dbd9",
       "title": "Daisy Ridley Realizes The Dead Are Returning in ‘We Bury the Dead’ Exclusive Clip",
       "outlet": "Bloody Disgusting!",
@@ -9536,6 +9535,24 @@
       ]
     },
     {
+      "id": "f2843dfb1663",
+      "topic": "african central goes poll",
+      "keywords": [
+        "african",
+        "central",
+        "goes",
+        "poll",
+        "president",
+        "republic"
+      ],
+      "item_ids": [
+        "4d75fa14a903"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "fef1e0e79db7",
       "topic": "anger frontrunner guinea junta",
       "keywords": [
@@ -9602,24 +9619,6 @@
       ],
       "item_ids": [
         "3a887a9257c7"
-      ],
-      "outlets": [
-        "World news | The Guardian"
-      ]
-    },
-    {
-      "id": "efe05089d949",
-      "topic": "intelligence islamist militant nigeria",
-      "keywords": [
-        "intelligence",
-        "islamist",
-        "militant",
-        "nigeria",
-        "provided",
-        "strike"
-      ],
-      "item_ids": [
-        "b43467510993"
       ],
       "outlets": [
         "World news | The Guardian"
