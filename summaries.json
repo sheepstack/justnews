@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T08:05:26Z",
+  "generated_at": "2025-12-29T09:03:41Z",
   "items": [
     {
       "id": "066ac95944d7",
@@ -5442,6 +5442,73 @@
       "cluster_id": "ce5a5a3ce234"
     },
     {
+      "id": "b06fd46e30c9",
+      "title": "European markets start the last trading week of 2025 in flat territory",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/29/european-markets-live-updates-stoxx-600-ftse-dax-cac.html",
+      "published_at": "Mon, 29 Dec 2025 08:27:59 GMT",
+      "bullets": [
+        "• The pan-European Stoxx 600 was up 0.07% shortly after markets opened, hitting an intraday record high",
+        "• European defense stocks were falling in morning trading following weekend peace talks between President Donald Trump and Ukrainian counterpart Volodymyr Zelensky",
+        "• Abivax was up 4.9% before the open, topping Europe's blue-chip index "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The pan-European Stoxx 600 was up 0.07% shortly after markets opened, hitting an intraday record high",
+          "• European defense stocks were falling in morning trading following weekend peace talks between President Donald Trump and Ukrainian counterpart Volodymyr Zelensky"
+        ],
+        "hopeful_bullets": [
+          "• The pan-European Stoxx 600 was up 0.07% shortly after markets opened, hitting an intraday record high",
+          "• European defense stocks were falling in morning trading following weekend peace talks between President Donald Trump and Ukrainian counterpart Volodymyr Zelensky"
+        ],
+        "stakes_bullets": [
+          "• The pan-European Stoxx 600 was up 0.07% shortly after markets opened, hitting an intraday record high",
+          "• European defense stocks were falling in morning trading following weekend peace talks between President Donald Trump and Ukrainian counterpart Volodymyr Zelensky",
+          "• Abivax was up 4.9% before the open, topping Europe's blue-chip index "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d3a53fddf306"
+    },
+    {
+      "id": "43fb7f28d58a",
+      "title": "China holds military drills around Taiwan as warning to 'separatist forces'",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c87l7xjp235o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Mon, 29 Dec 2025 08:16:59 GMT",
+      "bullets": [
+        "• China is holding a series of drills to protect Taiwan's sovereignty",
+        "• The move is part of a plan to protect the island from the Chinese mainland",
+        "• The country is also trying to protect its sovereignty from China's growing influence in the region",
+        "• It is the first time the Chinese government has taken action against the island nation "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.819
+      },
+      "moods": {
+        "brief_bullets": [
+          "• China is holding a series of drills to protect Taiwan's sovereignty",
+          "• The move is part of a plan to protect the island from the Chinese mainland"
+        ],
+        "hopeful_bullets": [
+          "• The country is also trying to protect its sovereignty from China's growing influence in the region",
+          "• It is the first time the Chinese government has taken action against the island nation "
+        ],
+        "stakes_bullets": [
+          "• The move is part of a plan to protect the island from the Chinese mainland"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "03f2d25528cb"
+    },
+    {
       "id": "ab702c0f7a41",
       "title": "A Swedish city is being moved — building by building — amid Europe’s minerals push",
       "outlet": "US Top News and Analysis",
@@ -5572,38 +5639,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "2b46c0924331"
-    },
-    {
-      "id": "b06fd46e30c9",
-      "title": "European markets set to start the last trading week of 2025 in flat territory",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/29/european-markets-live-updates-stoxx-600-ftse-dax-cac.html",
-      "published_at": "Mon, 29 Dec 2025 06:13:23 GMT",
-      "bullets": [
-        "• FTSE, Germany's DAX, France's CAC 40, and Italy's FTSe MIB seen opening just a touch higher",
-        "• Trading volumes could be lighter this week, with regional markets set to close Thursday for New Year's Day",
-        "• Prospect of a peace deal for Ukraine fading after U.S",
-        "• President Donald Trump and his Ukrainian counterpart said on Sunday that progress had been made during talks to end the war "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• FTSE, Germany's DAX, France's CAC 40, and Italy's FTSe MIB seen opening just a touch higher",
-          "• Trading volumes could be lighter this week, with regional markets set to close Thursday for New Year's Day"
-        ],
-        "hopeful_bullets": [
-          "• President Donald Trump and his Ukrainian counterpart said on Sunday that progress had been made during talks to end the war "
-        ],
-        "stakes_bullets": [
-          "• Trading volumes could be lighter this week, with regional markets set to close Thursday for New Year's Day"
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "19a01fb3f366"
     },
     {
       "id": "4d50ee9b2aec",
@@ -5841,39 +5876,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "2ffeef9f8e56"
-    },
-    {
-      "id": "43fb7f28d58a",
-      "title": "China holds military drills around Taiwan as warning to 'separatist forces'",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c87l7xjp235o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Mon, 29 Dec 2025 04:14:11 GMT",
-      "bullets": [
-        "• China is holding a series of drills to protect Taiwan's sovereignty",
-        "• The move is part of a plan to protect the island from the Chinese mainland",
-        "• The country is also trying to protect its sovereignty from China's growing influence in the region",
-        "• It is the first time the Chinese government has taken action against the island nation "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.819
-      },
-      "moods": {
-        "brief_bullets": [
-          "• China is holding a series of drills to protect Taiwan's sovereignty",
-          "• The move is part of a plan to protect the island from the Chinese mainland"
-        ],
-        "hopeful_bullets": [
-          "• The country is also trying to protect its sovereignty from China's growing influence in the region",
-          "• It is the first time the Chinese government has taken action against the island nation "
-        ],
-        "stakes_bullets": [
-          "• The move is part of a plan to protect the island from the Chinese mainland"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "03f2d25528cb"
     },
     {
       "id": "08978b6d963b",
@@ -9896,15 +9898,15 @@
       ]
     },
     {
-      "id": "19a01fb3f366",
-      "topic": "european last market set",
+      "id": "d3a53fddf306",
+      "topic": "european last market start",
       "keywords": [
         "european",
         "last",
         "market",
-        "set",
         "start",
-        "trading"
+        "trading",
+        "week"
       ],
       "item_ids": [
         "b06fd46e30c9"
