@@ -28,7 +28,7 @@ type Cluster = {
   outlets?: string[];
 };
 
-const FEED = "https://coreylamb90.github.io/justnews/summaries.json";
+const FEED = "https://sheepstack.github.io/justnews/summaries.json";
 
 /* ---------- Helpers ---------- */
 function timeAgo(iso?: string) {
