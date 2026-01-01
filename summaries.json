@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-01T20:16:01Z",
+  "generated_at": "2026-01-01T21:05:49Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -1586,6 +1586,41 @@
       "cluster_id": "2310b1aa0d50"
     },
     {
+      "id": "6c445d697472",
+      "title": "Star Wars Vs Star Trek",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-17-star-wars-vs-star-trek/?utm_source=rss&utm_medium=rss&utm_campaign=star-wars-vs-star-trek",
+      "published_at": "Wed, 17 Dec 2025 20:24:58 +0000",
+      "bullets": [
+        "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
+        "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet",
+        "• The Enterprise-E for some weird reason finds itself in a galaxy far, far away",
+        "• And they appear in the vicinity of a lone Imperial Star Destroyer on patrol "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.898
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
+          "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet"
+        ],
+        "hopeful_bullets": [
+          "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
+          "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet"
+        ],
+        "stakes_bullets": [
+          "• The Force Awakens was released last week and I feel it's time for some good old silly fun",
+          "• Here is a hypothetical encounter between the Empire and Star Trek’s Starfleet",
+          "• The Enterprise-E for some weird reason finds itself in a galaxy far, far away"
+        ]
+      },
+      "read_minutes": 24,
+      "cluster_id": "7e4f4b714cd0"
+    },
+    {
       "id": "fb51ad26c335",
       "title": "Solar, reimagined: meet the bright minds pushing it into the future",
       "outlet": "Positive News",
@@ -1918,7 +1953,7 @@
     },
     {
       "id": "e031022f4d71",
-      "title": "The science of how (and when) we decide to speak out—or self-censor",
+      "title": "The science of how (and when) we decide to self-censor",
       "outlet": "Ars Technica - All content",
       "url": "https://arstechnica.com/science/2025/12/the-science-of-how-and-when-we-decide-to-speak-out-or-self-censor/",
       "published_at": "Tue, 30 Dec 2025 21:30:04 +0000",
@@ -1930,7 +1965,7 @@
       "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.837
+        "score": 0.944
       },
       "moods": {
         "brief_bullets": [
@@ -1948,7 +1983,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "4a39e25c52c3"
+      "cluster_id": "daf99cf76176"
     },
     {
       "id": "4a255017a413",
@@ -2014,40 +2049,6 @@
       "cluster_id": "47506ba1ae40"
     },
     {
-      "id": "66c1d1133c47",
-      "title": "NJ’s answer to flooding: it has bought out and demolished 1,200 properties",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2025/12/as-floods-become-more-severe-a-new-jersey-program-provides-a-model/",
-      "published_at": "Tue, 30 Dec 2025 20:00:43 +0000",
-      "bullets": [
-        "• Richard Onderko's childhood home in Manville, New Jersey, was destroyed by state-run Blue Acres program",
-        "• The program buys and demolishes houses in flood zones and restores the property to open space",
-        "• It's one of 1,200 properties that have been acquired across New Jersey by the program "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Richard Onderko's childhood home in Manville, New Jersey, was destroyed by state-run Blue Acres program",
-          "• The program buys and demolishes houses in flood zones and restores the property to open space"
-        ],
-        "hopeful_bullets": [
-          "• Richard Onderko's childhood home in Manville, New Jersey, was destroyed by state-run Blue Acres program",
-          "• The program buys and demolishes houses in flood zones and restores the property to open space"
-        ],
-        "stakes_bullets": [
-          "• Richard Onderko's childhood home in Manville, New Jersey, was destroyed by state-run Blue Acres program",
-          "• The program buys and demolishes houses in flood zones and restores the property to open space",
-          "• It's one of 1,200 properties that have been acquired across New Jersey by the program "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f7b62df80d98"
-    },
-    {
       "id": "9d0da90aa916",
       "title": "Trump’s shadow war in Venezuela grows, but country’s strongman leader still clings to power",
       "outlet": "World news | The Guardian",
@@ -2109,40 +2110,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "d0b88d86ae47"
-    },
-    {
-      "id": "45d5b66ba358",
-      "title": "Stranger Things series finale trailer is here",
-      "outlet": "Ars Technica - All content",
-      "url": "https://arstechnica.com/culture/2025/12/stranger-things-series-finale-trailer-is-here/",
-      "published_at": "Tue, 30 Dec 2025 19:00:00 +0000",
-      "bullets": [
-        "• Netflix has dropped one last trailer for the Stranger Things finale",
-        "• The series finale is set to air on New Year's Eve",
-        "• It will be the first time the series has aired on Netflix",
-        "• The final episode is expected to be released on January 31 "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Netflix has dropped one last trailer for the Stranger Things finale",
-          "• The series finale is set to air on New Year's Eve"
-        ],
-        "hopeful_bullets": [
-          "• Netflix has dropped one last trailer for the Stranger Things finale",
-          "• The series finale is set to air on New Year's Eve"
-        ],
-        "stakes_bullets": [
-          "• It will be the first time the series has aired on Netflix",
-          "• The final episode is expected to be released on January 31 "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "fb8e8d3a75c9"
     },
     {
       "id": "65ee08e74fb0",
@@ -2637,6 +2604,38 @@
       },
       "read_minutes": 1,
       "cluster_id": "4de6bb9ce9f5"
+    },
+    {
+      "id": "1acb08ef7363",
+      "title": "Hot Toys Revenge of the Sith MagnaGuard (MMS856) 1/6 Scale Figure",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-16-hot-toys-revenge-of-the-sith-magnaguard-mms856-1-6-scale-figure/?utm_source=rss&utm_medium=rss&utm_campaign=hot-toys-revenge-of-the-sith-magnaguard-mms856-1-6-scale-figure",
+      "published_at": "Tue, 16 Dec 2025 12:20:33 +0000",
+      "bullets": [
+        "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+        "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.712
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
+        ],
+        "hopeful_bullets": [
+          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
+        ],
+        "stakes_bullets": [
+          "• Hot Toys is adding to their Revenge of the Sith lineup with the release of the MagnaGuard (MMS856) Sixth Scale Figure",
+          "• Equipped with electrostaffs capable of resisting lightsabers, these elite droids were feared for their ruthlessness and resilience "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "e035bc8e7532"
     },
     {
       "id": "65e88e7e3350",
@@ -3466,6 +3465,339 @@
       "cluster_id": "062e5dfb5e07"
     },
     {
+      "id": "f2f744d3e9c0",
+      "title": "Lucy Dacus Performs ‘Bread and Roses’ at NYC Mayor Zohran Mamdani’s Inauguration",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/lucy-dacus-bread-and-roses-zohran-mamdani-inauguration-1235493211/",
+      "published_at": "Thu, 01 Jan 2026 20:58:57 +0000",
+      "bullets": [
+        "• Lucy Dacus performed the political anthem at New York City Mayor Zohran Mamdani’s inauguration",
+        "• The singer-songwriter and boygenius member was accompanied by keyboardist Sarah Goldstone on omnichord",
+        "• She wished the crowd a Happy New Year and congratulated the mayor and his wife "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Lucy Dacus performed the political anthem at New York City Mayor Zohran Mamdani’s inauguration",
+          "• The singer-songwriter and boygenius member was accompanied by keyboardist Sarah Goldstone on omnichord"
+        ],
+        "hopeful_bullets": [
+          "• Lucy Dacus performed the political anthem at New York City Mayor Zohran Mamdani’s inauguration",
+          "• The singer-songwriter and boygenius member was accompanied by keyboardist Sarah Goldstone on omnichord"
+        ],
+        "stakes_bullets": [
+          "• Lucy Dacus performed the political anthem at New York City Mayor Zohran Mamdani’s inauguration",
+          "• The singer-songwriter and boygenius member was accompanied by keyboardist Sarah Goldstone on omnichord",
+          "• She wished the crowd a Happy New Year and congratulated the mayor and his wife "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "9fcfa8b90a0d"
+    },
+    {
+      "id": "3780ae7d12ab",
+      "title": "Diana Ross Gives a Supreme Send Off to 2025 on ‘New Year’s Rockin’ Eve’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/diana-ross-new-years-rockin-eve-performance-1235491816/",
+      "published_at": "Thu, 01 Jan 2026 20:49:09 +0000",
+      "bullets": [
+        "• Diana Ross delivered a medley of hits on New Year's Rockin' Eve With Ryan Seacrest",
+        "• The diva also hosted her Celebrating Timeless Classics tour this year",
+        "• The appearance comes around the 50th anniversary of her Number One hit on the Billboard Hot 100 for “Theme from Mahogany (Do You Know Where You're Going To)”"
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Diana Ross delivered a medley of hits on New Year's Rockin' Eve With Ryan Seacrest",
+          "• The diva also hosted her Celebrating Timeless Classics tour this year"
+        ],
+        "hopeful_bullets": [
+          "• Diana Ross delivered a medley of hits on New Year's Rockin' Eve With Ryan Seacrest",
+          "• The diva also hosted her Celebrating Timeless Classics tour this year"
+        ],
+        "stakes_bullets": [
+          "• The appearance comes around the 50th anniversary of her Number One hit on the Billboard Hot 100 for “Theme from Mahogany (Do You Know Where You're Going To)”"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "c5e512035e09"
+    },
+    {
+      "id": "87194cd18a5b",
+      "title": "The Newest Ultimate Just Killed One of Marvel’s Greatest Heroes",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-ultimates-19-ultimate-vision-debut/",
+      "published_at": "Thu, 01 Jan 2026 20:30:12 GMT",
+      "bullets": [
+        "• The Ultimates #19 is on sale now from Marvel Comics",
+        "• The Wasp has been a double agent for the Maker's Council in the name of protecting her family",
+        "• She betrayed her fellow Ultimates for the sake of the Maker, but at the behest of the Vision "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.822
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Ultimates #19 is on sale now from Marvel Comics",
+          "• The Wasp has been a double agent for the Maker's Council in the name of protecting her family"
+        ],
+        "hopeful_bullets": [
+          "• The Ultimates #19 is on sale now from Marvel Comics",
+          "• The Wasp has been a double agent for the Maker's Council in the name of protecting her family"
+        ],
+        "stakes_bullets": [
+          "• The Ultimates #19 is on sale now from Marvel Comics",
+          "• The Wasp has been a double agent for the Maker's Council in the name of protecting her family",
+          "• She betrayed her fellow Ultimates for the sake of the Maker, but at the behest of the Vision "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "d95e89f70fe0"
+    },
+    {
+      "id": "ed96f058e881",
+      "title": "Netflix Finally Ends Yu-Gi-Oh's 5-Year Anime Streaming Drought",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/yugioh-netflix-anime-renew/",
+      "published_at": "Thu, 01 Jan 2026 20:30:12 GMT",
+      "bullets": [
+        "• Netflix has gone years without any Yu-Gi-Oh! anime, but that lack of entries has now come to an end",
+        "• The original anime in the franchise is finally available to stream once more on Netflix",
+        "• The first season of the show is added in its English dubbed form, with this being the first 49 episodes "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Netflix has gone years without any Yu-Gi-Oh! anime, but that lack of entries has now come to an end",
+          "• The original anime in the franchise is finally available to stream once more on Netflix"
+        ],
+        "hopeful_bullets": [
+          "• Netflix has gone years without any Yu-Gi-Oh! anime, but that lack of entries has now come to an end",
+          "• The original anime in the franchise is finally available to stream once more on Netflix"
+        ],
+        "stakes_bullets": [
+          "• Netflix has gone years without any Yu-Gi-Oh! anime, but that lack of entries has now come to an end",
+          "• The original anime in the franchise is finally available to stream once more on Netflix",
+          "• The first season of the show is added in its English dubbed form, with this being the first 49 episodes "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "67c99eb76db5"
+    },
+    {
+      "id": "b97ab5fced41",
+      "title": "Around 40 dead in Swiss ski resort bar fire, police say",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 01 Jan 2026 20:20:57 GMT",
+      "bullets": [
+        "• Fire broke out at around 01:30 (00:30 GMT) during new year celebrations in a bar called Le Constellation in Crans-Montana",
+        "• A further 115 people are injured, many of them \"severely\" Most of the injured experienced severe burns and 60 people were sent to Sion hospital in Valais "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.997
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Fire broke out at around 01:30 (00:30 GMT) during new year celebrations in a bar called Le Constellation in Crans-Montana",
+          "• A further 115 people are injured, many of them \"severely\" Most of the injured experienced severe burns and 60 people were sent to Sion hospital in Valais "
+        ],
+        "hopeful_bullets": [
+          "• Fire broke out at around 01:30 (00:30 GMT) during new year celebrations in a bar called Le Constellation in Crans-Montana",
+          "• A further 115 people are injured, many of them \"severely\" Most of the injured experienced severe burns and 60 people were sent to Sion hospital in Valais "
+        ],
+        "stakes_bullets": [
+          "• Fire broke out at around 01:30 (00:30 GMT) during new year celebrations in a bar called Le Constellation in Crans-Montana",
+          "• A further 115 people are injured, many of them \"severely\" Most of the injured experienced severe burns and 60 people were sent to Sion hospital in Valais "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "866429081167"
+    },
+    {
+      "id": "aa1bff3c5be6",
+      "title": "Marvel rings in new year with Wonder Man trailer",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/culture/2026/01/marvel-rings-in-new-year-with-wonder-man-trailer/",
+      "published_at": "Thu, 01 Jan 2026 20:18:26 +0000",
+      "bullets": [
+        "• Yahya Abdul-Mateen II stars as Simon Williams, aka Wonder Man",
+        "• The eight-episode miniseries is part of the MCU’s Phase Six",
+        "• Ben Kingsley is reprising his Iron Man 3 role as failed actor Trevor Slattery",
+        "• The series is a reboot of an earlier Wonder Man incarnation "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Yahya Abdul-Mateen II stars as Simon Williams, aka Wonder Man",
+          "• The eight-episode miniseries is part of the MCU’s Phase Six"
+        ],
+        "hopeful_bullets": [
+          "• Yahya Abdul-Mateen II stars as Simon Williams, aka Wonder Man",
+          "• The eight-episode miniseries is part of the MCU’s Phase Six"
+        ],
+        "stakes_bullets": [
+          "• Yahya Abdul-Mateen II stars as Simon Williams, aka Wonder Man"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b49556ba295d"
+    },
+    {
+      "id": "a35f061e9cc4",
+      "title": "Zohran Mamdani promises ‘new era’ for New York City in first speech as mayor",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-inauguration-speech",
+      "published_at": "Thu, 01 Jan 2026 20:17:00 GMT",
+      "bullets": [
+        "• Zohran Mamdani is the city’s first Muslim mayor and first of south Asian descent",
+        "• He is also the first to be sworn in using the Qur’an",
+        "• The 34-year-old political star is a democratic socialist and democratic socialist "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Zohran Mamdani is the city’s first Muslim mayor and first of south Asian descent",
+          "• He is also the first to be sworn in using the Qur’an"
+        ],
+        "hopeful_bullets": [
+          "• Zohran Mamdani is the city’s first Muslim mayor and first of south Asian descent",
+          "• He is also the first to be sworn in using the Qur’an"
+        ],
+        "stakes_bullets": [
+          "• Zohran Mamdani is the city’s first Muslim mayor and first of south Asian descent",
+          "• He is also the first to be sworn in using the Qur’an",
+          "• The 34-year-old political star is a democratic socialist and democratic socialist "
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "94c64669fbe1"
+    },
+    {
+      "id": "6dfa989d2d0e",
+      "title": "Zohran Mamdani vows to govern New York ‘expansively and audaciously’ after being sworn in by Bernie Sanders – live",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/01/zohran-mamdani-inauguration-mayor-new-york",
+      "published_at": "Thu, 01 Jan 2026 20:15:58 GMT",
+      "bullets": [
+        "• Blue and gold confetti rains down on the crowd (who are freezing by the way!), whose spirits remain high",
+        "• “The work, my friends, has only just begun,” says a beaming Mamdani, closing his speech "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Blue and gold confetti rains down on the crowd (who are freezing by the way!), whose spirits remain high",
+          "• “The work, my friends, has only just begun,” says a beaming Mamdani, closing his speech "
+        ],
+        "hopeful_bullets": [
+          "• Blue and gold confetti rains down on the crowd (who are freezing by the way!), whose spirits remain high",
+          "• “The work, my friends, has only just begun,” says a beaming Mamdani, closing his speech "
+        ],
+        "stakes_bullets": [
+          "• Blue and gold confetti rains down on the crowd (who are freezing by the way!), whose spirits remain high",
+          "• “The work, my friends, has only just begun,” says a beaming Mamdani, closing his speech "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "355da87aa3ee"
+    },
+    {
+      "id": "e207f1bd9d99",
+      "title": "10 Best Anime Power Systems of 2025, Officially Ranked",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/official-best-anime-power-systems-of-2025-sololeveling/",
+      "published_at": "Thu, 01 Jan 2026 20:15:12 GMT",
+      "bullets": [
+        "• 2025 delivered a rare mix of shonen sequels, breakout newcomers and cross-border hits",
+        "• The year’s biggest leap happened in the mechanics of power itself",
+        "• Anime that stood out sharpened the power systems that make abilities feel legible and narratively meaningful "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 2025 delivered a rare mix of shonen sequels, breakout newcomers and cross-border hits",
+          "• The year’s biggest leap happened in the mechanics of power itself"
+        ],
+        "hopeful_bullets": [
+          "• 2025 delivered a rare mix of shonen sequels, breakout newcomers and cross-border hits",
+          "• The year’s biggest leap happened in the mechanics of power itself"
+        ],
+        "stakes_bullets": [
+          "• 2025 delivered a rare mix of shonen sequels, breakout newcomers and cross-border hits",
+          "• The year’s biggest leap happened in the mechanics of power itself",
+          "• Anime that stood out sharpened the power systems that make abilities feel legible and narratively meaningful "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "0282fe696656"
+    },
+    {
+      "id": "15283b0d0e45",
+      "title": "Tobey Maguire's Spider-Man Returns Looking Ripped, Torn, and Collector-Ready In Hot Toys Form",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/tobey-maguire-spider-man-returns-collector-toy-marvel-mcu/",
+      "published_at": "Thu, 01 Jan 2026 20:14:19 GMT",
+      "bullets": [
+        "• Hot Toys Collectibles is releasing a Spider-Man (Battle-Damaged Ver) in 2026",
+        "• The red and dark blue suit is crafted from elastic fabric material",
+        "• Six strings of spider web in varying shapes and lengths are included, attachable to the web shooting and holding hands "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Hot Toys Collectibles is releasing a Spider-Man (Battle-Damaged Ver) in 2026",
+          "• The red and dark blue suit is crafted from elastic fabric material"
+        ],
+        "hopeful_bullets": [
+          "• Hot Toys Collectibles is releasing a Spider-Man (Battle-Damaged Ver) in 2026",
+          "• The red and dark blue suit is crafted from elastic fabric material"
+        ],
+        "stakes_bullets": [
+          "• Hot Toys Collectibles is releasing a Spider-Man (Battle-Damaged Ver) in 2026",
+          "• The red and dark blue suit is crafted from elastic fabric material",
+          "• Six strings of spider web in varying shapes and lengths are included, attachable to the web shooting and holding hands "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "4832252bbcc2"
+    },
+    {
       "id": "2b24cf7c0196",
       "title": "What Happened to Vickie in Stranger Things Season 5? Netflix's Big Finale Leaves Fans Confused",
       "outlet": "CBR",
@@ -3501,36 +3833,36 @@
     },
     {
       "id": "3f59100e7438",
-      "title": "BTS Is Back in 2026 With New Music",
+      "title": "BTS Is Dropping New Music in March — and Heading Out on Tour",
       "outlet": "Music News",
       "url": "https://www.rollingstone.com/music/music-news/bts-announces-new-album-in-march-followed-by-world-tour-1235493202/",
       "published_at": "Thu, 01 Jan 2026 20:01:47 +0000",
       "bullets": [
         "• BTS is returning from a multi-year hiatus with a new album",
-        "• The K-pop group’s agency Big Hit Music said in a post Thursday",
+        "• The K-pop group's first album since 2020’s Be",
         "• The seven members teased their return in handwritten notes sent to fans",
-        "• The band has been back in the studio since July "
+        "• The band has been back in the studio together working since July "
       ],
       "category": "Music",
       "sentiment": {
         "label": "negative",
-        "score": 0.907
+        "score": 0.663
       },
       "moods": {
         "brief_bullets": [
           "• BTS is returning from a multi-year hiatus with a new album",
-          "• The K-pop group’s agency Big Hit Music said in a post Thursday"
+          "• The K-pop group's first album since 2020’s Be"
         ],
         "hopeful_bullets": [
           "• BTS is returning from a multi-year hiatus with a new album",
-          "• The K-pop group’s agency Big Hit Music said in a post Thursday"
+          "• The K-pop group's first album since 2020’s Be"
         ],
         "stakes_bullets": [
-          "• The band has been back in the studio since July "
+          "• The band has been back in the studio together working since July "
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "7618c85d7cef"
+      "cluster_id": "21e514b35e10"
     },
     {
       "id": "15e1fd210449",
@@ -3601,38 +3933,32 @@
       "cluster_id": "f982347bf31a"
     },
     {
-      "id": "6dfa989d2d0e",
-      "title": "New York chose ‘courage over fear’, AOC says at Zohran Mamdani’s inauguration ceremony – live",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/01/zohran-mamdani-inauguration-mayor-new-york",
-      "published_at": "Thu, 01 Jan 2026 19:34:32 GMT",
+      "id": "2680f32ea297",
+      "title": "Research roundup: 7 cool science stories we almost missed",
+      "outlet": "Ars Technica - All content",
+      "url": "https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/",
+      "published_at": "Thu, 01 Jan 2026 19:43:45 +0000",
       "bullets": [
-        "• Throughout the country and the world, people are ‘losing faith in democracy’, Sanders says",
-        "• But Mamdani’s campaign inspired thousands of volunteers, he says",
-        "• When working people stand up, there is nothing we cannot accomplish, Sanders said "
+        "• December's list includes a fossilized bird that choked to death on rocks; a double-detonating “superkilonova”; recovering an ancient seafarer’s fingerprint; cracking a dark matter puzzle that stumped fictional physicists on The Big Bang Theory "
       ],
-      "category": "US",
+      "category": "Technology",
       "sentiment": {
         "label": "positive",
-        "score": 0.841
+        "score": 0.994
       },
       "moods": {
         "brief_bullets": [
-          "• Throughout the country and the world, people are ‘losing faith in democracy’, Sanders says",
-          "• But Mamdani’s campaign inspired thousands of volunteers, he says"
+          "• December's list includes a fossilized bird that choked to death on rocks; a double-detonating “superkilonova”; recovering an ancient seafarer’s fingerprint; cracking a dark matter puzzle that stumped fictional physicists on The Big Bang Theory "
         ],
         "hopeful_bullets": [
-          "• Throughout the country and the world, people are ‘losing faith in democracy’, Sanders says",
-          "• But Mamdani’s campaign inspired thousands of volunteers, he says"
+          "• December's list includes a fossilized bird that choked to death on rocks; a double-detonating “superkilonova”; recovering an ancient seafarer’s fingerprint; cracking a dark matter puzzle that stumped fictional physicists on The Big Bang Theory "
         ],
         "stakes_bullets": [
-          "• Throughout the country and the world, people are ‘losing faith in democracy’, Sanders says",
-          "• But Mamdani’s campaign inspired thousands of volunteers, he says",
-          "• When working people stand up, there is nothing we cannot accomplish, Sanders said "
+          "• December's list includes a fossilized bird that choked to death on rocks; a double-detonating “superkilonova”; recovering an ancient seafarer’s fingerprint; cracking a dark matter puzzle that stumped fictional physicists on The Big Bang Theory "
         ]
       },
-      "read_minutes": 2,
-      "cluster_id": "3fb482ec4e1d"
+      "read_minutes": 1,
+      "cluster_id": "97ea2d45b1a7"
     },
     {
       "id": "dea5075d0741",
@@ -3898,39 +4224,6 @@
       "cluster_id": "148461ecc877"
     },
     {
-      "id": "9b481cef25da",
-      "title": "Men In Black Tubi Streaming Release Date Confirmed",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/men-in-black-streaming-on-tubi-january-2026/",
-      "published_at": "Thu, 01 Jan 2026 18:48:14 GMT",
-      "bullets": [
-        "• The original Men in Black film trilogy has been added to the Tubi streaming library",
-        "• The 1997 film stars Will Smith as James Darrel Edwards III and Tommy Lee Jones as Agent K",
-        "• Tubi has added two of the three films to its streaming library as of Jan",
-        "• 1 "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.706
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The original Men in Black film trilogy has been added to the Tubi streaming library",
-          "• The 1997 film stars Will Smith as James Darrel Edwards III and Tommy Lee Jones as Agent K"
-        ],
-        "hopeful_bullets": [
-          "• The original Men in Black film trilogy has been added to the Tubi streaming library",
-          "• The 1997 film stars Will Smith as James Darrel Edwards III and Tommy Lee Jones as Agent K"
-        ],
-        "stakes_bullets": [
-          "• The 1997 film stars Will Smith as James Darrel Edwards III and Tommy Lee Jones as Agent K"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "c095b2bf48d5"
-    },
-    {
       "id": "337b1678ab68",
       "title": "Two killed in clashes between protesters and security forces in Iran",
       "outlet": "BBC News",
@@ -3961,71 +4254,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "f915e7b3aedc"
-    },
-    {
-      "id": "b98a9a09bd2e",
-      "title": "This Is the Best RPG of 2025 (& It's Not Even Close)",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-rpg-of-2025-xenoblade-chronicles-x-definitive-edition/",
-      "published_at": "Thu, 01 Jan 2026 18:15:12 GMT",
-      "bullets": [
-        "• Nintendo and Monolith Software's Xenoblade Chronicles X: Definitive Edition sees the classic Wii U JRPG ported over to the Nintendo Switch",
-        "• The original game was already fantastic, but this new Definitive Edition is a massive improvement on the title in all respects",
-        "• The game goes from merely being great to becoming an all-timer "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Nintendo and Monolith Software's Xenoblade Chronicles X: Definitive Edition sees the classic Wii U JRPG ported over to the Nintendo Switch",
-          "• The original game was already fantastic, but this new Definitive Edition is a massive improvement on the title in all respects"
-        ],
-        "hopeful_bullets": [
-          "• The original game was already fantastic, but this new Definitive Edition is a massive improvement on the title in all respects"
-        ],
-        "stakes_bullets": [
-          "• Nintendo and Monolith Software's Xenoblade Chronicles X: Definitive Edition sees the classic Wii U JRPG ported over to the Nintendo Switch",
-          "• The original game was already fantastic, but this new Definitive Edition is a massive improvement on the title in all respects",
-          "• The game goes from merely being great to becoming an all-timer "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "afaf30692284"
-    },
-    {
-      "id": "b22db0efd296",
-      "title": "Next Demon Slayer Infinity Castle Movies Get Surprise 2-Year Release Update",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/demon-slayer-infinity-castle-movie-2-3-release-window/",
-      "published_at": "Thu, 01 Jan 2026 18:03:45 GMT",
-      "bullets": [
-        "• Demon Slayer: Infinity Castle Part 2 will be released in 2027",
-        "• The final Infinity Castle film is scheduled for 2029",
-        "• Infinity Castle was first released in Japan on July 18, 2025, and internationally in August and September of the same year "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.912
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Demon Slayer: Infinity Castle Part 2 will be released in 2027",
-          "• The final Infinity Castle film is scheduled for 2029"
-        ],
-        "hopeful_bullets": [
-          "• Demon Slayer: Infinity Castle Part 2 will be released in 2027",
-          "• The final Infinity Castle film is scheduled for 2029"
-        ],
-        "stakes_bullets": [
-          "• Demon Slayer: Infinity Castle Part 2 will be released in 2027"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "90f83d7a3e57"
     },
     {
       "id": "736f9010732f",
@@ -4061,40 +4289,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "e561b45f187e"
-    },
-    {
-      "id": "4567c9cd1124",
-      "title": "Community's Best Seasons are Now Streaming on Peacock",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/community-streaming-peacock-january-2026/",
-      "published_at": "Thu, 01 Jan 2026 18:02:32 GMT",
-      "bullets": [
-        "• The first two seasons of Community are now available for streaming on Peacock",
-        "• The series premiered on NBC in 2009",
-        "• It was picked up by Yahoo! Screen for its sixth and final season",
-        "• Community was nominated for a total of 60 major industry awards "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.974
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The first two seasons of Community are now available for streaming on Peacock",
-          "• The series premiered on NBC in 2009"
-        ],
-        "hopeful_bullets": [
-          "• Community was nominated for a total of 60 major industry awards "
-        ],
-        "stakes_bullets": [
-          "• The first two seasons of Community are now available for streaming on Peacock",
-          "• The series premiered on NBC in 2009",
-          "• It was picked up by Yahoo! Screen for its sixth and final season"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "1c203bfc6d37"
     },
     {
       "id": "434d6cdea1b5",
@@ -4137,28 +4331,29 @@
       "url": "https://www.theguardian.com/us-news/2026/jan/01/trump-interview-health",
       "published_at": "Thu, 01 Jan 2026 17:38:43 GMT",
       "bullets": [
-        "• Trump says he takes more aspirin than his doctors recommend but says 'my health is perfect' The 79-year-old president has been taking aspirin daily for 25 years",
-        "• He said he is superstitious about thinning out the blood from his heart",
-        "• Trump said he has asked his staff to modify his schedule so he can have fewer, more important meetings that he can give more attention "
+        "• Trump says he is 'a little superstitious' about his health",
+        "• The president says he takes more aspirin than his doctors recommend",
+        "• Trump has been seen to be drowsy in recent months after being seen with make-up on his hand",
+        "• He has asked his staff to slow down his schedule so he can have more meetings "
       ],
       "category": "US",
       "sentiment": {
         "label": "positive",
-        "score": 0.995
+        "score": 0.871
       },
       "moods": {
         "brief_bullets": [
-          "• Trump says he takes more aspirin than his doctors recommend but says 'my health is perfect' The 79-year-old president has been taking aspirin daily for 25 years",
-          "• He said he is superstitious about thinning out the blood from his heart"
+          "• Trump says he is 'a little superstitious' about his health",
+          "• The president says he takes more aspirin than his doctors recommend"
         ],
         "hopeful_bullets": [
-          "• Trump says he takes more aspirin than his doctors recommend but says 'my health is perfect' The 79-year-old president has been taking aspirin daily for 25 years",
-          "• He said he is superstitious about thinning out the blood from his heart"
+          "• Trump says he is 'a little superstitious' about his health",
+          "• The president says he takes more aspirin than his doctors recommend"
         ],
         "stakes_bullets": [
-          "• Trump says he takes more aspirin than his doctors recommend but says 'my health is perfect' The 79-year-old president has been taking aspirin daily for 25 years",
-          "• He said he is superstitious about thinning out the blood from his heart",
-          "• Trump said he has asked his staff to modify his schedule so he can have fewer, more important meetings that he can give more attention "
+          "• Trump says he is 'a little superstitious' about his health",
+          "• The president says he takes more aspirin than his doctors recommend",
+          "• Trump has been seen to be drowsy in recent months after being seen with make-up on his hand"
         ]
       },
       "read_minutes": 3,
@@ -4262,40 +4457,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "77f4bde70c68"
-    },
-    {
-      "id": "b97ab5fced41",
-      "title": "Around 40 dead in Swiss ski resort bar fire",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 01 Jan 2026 16:55:50 GMT",
-      "bullets": [
-        "• Around 40 dead in Swiss ski resort bar fire in Crans-Montana",
-        "• 115 people injured, many of them \"severely\", police say",
-        "• Fire broke out at around 01:30 (00:30 GMT) during new year celebrations "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Around 40 dead in Swiss ski resort bar fire in Crans-Montana",
-          "• 115 people injured, many of them \"severely\", police say"
-        ],
-        "hopeful_bullets": [
-          "• Around 40 dead in Swiss ski resort bar fire in Crans-Montana",
-          "• 115 people injured, many of them \"severely\", police say"
-        ],
-        "stakes_bullets": [
-          "• Around 40 dead in Swiss ski resort bar fire in Crans-Montana",
-          "• 115 people injured, many of them \"severely\", police say",
-          "• Fire broke out at around 01:30 (00:30 GMT) during new year celebrations "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "866429081167"
     },
     {
       "id": "8f80340335f2",
@@ -5088,40 +5249,6 @@
       "cluster_id": "ed9ff4d83860"
     },
     {
-      "id": "70fca25c912b",
-      "title": "How to talk dating like gen Z: 51 (hyperspecific) terms for love, sex and bad behavior",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/01/gen-z-dating-terms-explained",
-      "published_at": "Thu, 01 Jan 2026 11:00:37 GMT",
-      "bullets": [
-        "• This year marked a decade since the term “ghosting’s” hit the mainstream",
-        "• Gen Z came of age during a loneliness epidemic and a masculinity crisis",
-        "• Their dating glossary has grown longer and more deranged, with phrases like “Shrekking” testing the limits of your sanity "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.984
-      },
-      "moods": {
-        "brief_bullets": [
-          "• This year marked a decade since the term “ghosting’s” hit the mainstream",
-          "• Gen Z came of age during a loneliness epidemic and a masculinity crisis"
-        ],
-        "hopeful_bullets": [
-          "• This year marked a decade since the term “ghosting’s” hit the mainstream",
-          "• Gen Z came of age during a loneliness epidemic and a masculinity crisis"
-        ],
-        "stakes_bullets": [
-          "• This year marked a decade since the term “ghosting’s” hit the mainstream",
-          "• Gen Z came of age during a loneliness epidemic and a masculinity crisis",
-          "• Their dating glossary has grown longer and more deranged, with phrases like “Shrekking” testing the limits of your sanity "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "6d71f92eb7cf"
-    },
-    {
       "id": "a27265e78b01",
       "title": "AI Labor Is Boring. AI Lust Is Big Business",
       "outlet": "WIRED",
@@ -5816,7 +5943,7 @@
     },
     {
       "id": "bb0fff6bb857",
-      "title": "Warren Buffett officially retires as Berkshire Hathway's CEO",
+      "title": "Warren Buffett officially retires as Berkshire Hathaway's CEO",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-retires-berkshire-hathaway-ceo",
       "published_at": "Thu, 01 Jan 2026 05:00:00 -0500",
@@ -5828,7 +5955,7 @@
       "category": "General",
       "sentiment": {
         "label": "neutral",
-        "score": 0.641
+        "score": 0.565
       },
       "moods": {
         "brief_bullets": [
@@ -5846,7 +5973,7 @@
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "0fc7b9b8a3ca"
+      "cluster_id": "4181c69ff752"
     },
     {
       "id": "b2fc866a83c7",
@@ -5909,69 +6036,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "26cfc2d19eb8"
-    },
-    {
-      "id": "7efcbe7d72a4",
-      "title": "Mariah Carey Brings Heat for New Year’s Eve With Stellar ‘Rockin” Performance",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/mariah-carey-new-years-eve-rockin-performance-obsessed-song-1235491736/",
-      "published_at": "Thu, 01 Jan 2026 02:47:30 +0000",
-      "bullets": [
-        "• Mariah Carey joined Dick Clark's New Year’s Rockin’ Eve With Ryan Seacrest for a performance of “Obsessed” from Las Vegas",
-        "• The singer is part of a star-studded lineup that includes Chappell Roan, 50 Cent and 50 Cent "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mariah Carey joined Dick Clark's New Year’s Rockin’ Eve With Ryan Seacrest for a performance of “Obsessed” from Las Vegas",
-          "• The singer is part of a star-studded lineup that includes Chappell Roan, 50 Cent and 50 Cent "
-        ],
-        "hopeful_bullets": [
-          "• Mariah Carey joined Dick Clark's New Year’s Rockin’ Eve With Ryan Seacrest for a performance of “Obsessed” from Las Vegas",
-          "• The singer is part of a star-studded lineup that includes Chappell Roan, 50 Cent and 50 Cent "
-        ],
-        "stakes_bullets": [
-          "• Mariah Carey joined Dick Clark's New Year’s Rockin’ Eve With Ryan Seacrest for a performance of “Obsessed” from Las Vegas",
-          "• The singer is part of a star-studded lineup that includes Chappell Roan, 50 Cent and 50 Cent "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "90dd761c6d1e"
-    },
-    {
-      "id": "a713334943a8",
-      "title": "Post Malone Declares ‘That’s My Story’ in Nashville for ‘New Year’s Rockin’ Eve’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/post-malone-thats-my-story-nashville-new-years-rockin-eve-1235492679/",
-      "published_at": "Thu, 01 Jan 2026 02:28:46 +0000",
-      "bullets": [
-        "• Post Malone brought in 2026 with a rendition of Collin Raye’s Nineties country song “That’re My Story” The Texas musician made his headlining debut at Coachella in April",
-        "• Mariah Carey, 50 Cent, Ciara, 4 Non Blondes, Jessie Murph, Pitbull, Zara Larsson, Madison Beer, Lil Jon, Charlie Puth, and Little Big Town will perform on New Year's Rockin' Eve "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Post Malone brought in 2026 with a rendition of Collin Raye’s Nineties country song “That’re My Story” The Texas musician made his headlining debut at Coachella in April",
-          "• Mariah Carey, 50 Cent, Ciara, 4 Non Blondes, Jessie Murph, Pitbull, Zara Larsson, Madison Beer, Lil Jon, Charlie Puth, and Little Big Town will perform on New Year's Rockin' Eve "
-        ],
-        "hopeful_bullets": [
-          "• Post Malone brought in 2026 with a rendition of Collin Raye’s Nineties country song “That’re My Story” The Texas musician made his headlining debut at Coachella in April",
-          "• Mariah Carey, 50 Cent, Ciara, 4 Non Blondes, Jessie Murph, Pitbull, Zara Larsson, Madison Beer, Lil Jon, Charlie Puth, and Little Big Town will perform on New Year's Rockin' Eve "
-        ],
-        "stakes_bullets": [
-          "• Mariah Carey, 50 Cent, Ciara, 4 Non Blondes, Jessie Murph, Pitbull, Zara Larsson, Madison Beer, Lil Jon, Charlie Puth, and Little Big Town will perform on New Year's Rockin' Eve "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "1acd864c80a5"
     },
     {
       "id": "bcd529fa8b5a",
@@ -6776,6 +6840,40 @@
       },
       "read_minutes": 1,
       "cluster_id": "8e9430e546a3"
+    },
+    {
+      "id": "865da1f58b2e",
+      "title": "Black Series Figure For The Mandalorian & Grogu Has Leaked",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-20-black-series-figure-for-the-mandalorian-grogu-has-leaked/?utm_source=rss&utm_medium=rss&utm_campaign=black-series-figure-for-the-mandalorian-grogu-has-leaked",
+      "published_at": "Sat, 20 Dec 2025 19:36:01 +0000",
+      "bullets": [
+        "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
+        "• The photo was taken with a lowres potato camera and is very blurry",
+        "• It is rumored to be a deluxe set at a price point of maybe $40 (standard figures cost $28)"
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
+          "• The photo was taken with a lowres potato camera and is very blurry"
+        ],
+        "hopeful_bullets": [
+          "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
+          "• The photo was taken with a lowres potato camera and is very blurry"
+        ],
+        "stakes_bullets": [
+          "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
+          "• The photo was taken with a lowres potato camera and is very blurry",
+          "• It is rumored to be a deluxe set at a price point of maybe $40 (standard figures cost $28)"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "144accaf8f34"
     },
     {
       "id": "36775b836249",
@@ -7615,6 +7713,38 @@
       "cluster_id": "52e17391afd9"
     },
     {
+      "id": "9f99c5067546",
+      "title": "Looking Back At The Force Awakens",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-15-looking-back-at-the-force-awakens/?utm_source=rss&utm_medium=rss&utm_campaign=looking-back-at-the-force-awakens",
+      "published_at": "Mon, 15 Dec 2025 16:16:09 +0000",
+      "bullets": [
+        "• This week marks the 10th anniversary of The Force Awakens",
+        "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th",
+        "• Its repercussions still haunt Lucasfilm to this day and its effects are still felt everywhere "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• This week marks the 10th anniversary of The Force Awakens",
+          "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th"
+        ],
+        "hopeful_bullets": [
+          "• This week marks the 10th anniversary of The Force Awakens",
+          "• The movie had its world premiere on December 14th, opened in most of Europe on the 16th and official mainstream release in the US was the 18th"
+        ],
+        "stakes_bullets": [
+          "• Its repercussions still haunt Lucasfilm to this day and its effects are still felt everywhere "
+        ]
+      },
+      "read_minutes": 16,
+      "cluster_id": "e2f4eb0bcf07"
+    },
+    {
       "id": "e18ab1677ce3",
       "title": "Breaking boundaries: the headsets bringing cricket to partially sighted fans",
       "outlet": "Positive News",
@@ -7946,6 +8076,39 @@
       },
       "read_minutes": 1,
       "cluster_id": "04c5dba1d0e0"
+    },
+    {
+      "id": "a6a708d2b0c3",
+      "title": "The Black Series In 2025",
+      "outlet": "Jedi Temple Archives",
+      "url": "https://www.jeditemplearchives.com/2025-12-19-the-black-series-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-series-in-2025",
+      "published_at": "Fri, 19 Dec 2025 19:14:11 +0000",
+      "bullets": [
+        "• In 2025 a total of 63 sets were released in the Black Series, which contained a total number of 77 figures",
+        "• The 63 sets are the lowest number since 2019, a clear indicator that sales for the line are in decline",
+        "• The number of releases has been dialed down again, probably a direct result of a lower budget for the Star Wars line",
+        "• We still get more sets now than we even got during the sequel trilogy years "
+      ],
+      "category": "Star Wars",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In 2025 a total of 63 sets were released in the Black Series, which contained a total number of 77 figures",
+          "• The 63 sets are the lowest number since 2019, a clear indicator that sales for the line are in decline"
+        ],
+        "hopeful_bullets": [
+          "• In 2025 a total of 63 sets were released in the Black Series, which contained a total number of 77 figures",
+          "• The 63 sets are the lowest number since 2019, a clear indicator that sales for the line are in decline"
+        ],
+        "stakes_bullets": [
+          "• The number of releases has been dialed down again, probably a direct result of a lower budget for the Star Wars line"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "37374d8d656c"
     },
     {
       "id": "93713583f51f",
@@ -9307,13 +9470,31 @@
       ]
     },
     {
-      "id": "3fb482ec4e1d",
-      "topic": "aoc chose courage fear",
+      "id": "94c64669fbe1",
+      "topic": "city era mamdani promise",
       "keywords": [
-        "aoc",
-        "chose",
-        "courage",
-        "fear",
+        "city",
+        "era",
+        "mamdani",
+        "promise",
+        "york",
+        "zohran"
+      ],
+      "item_ids": [
+        "a35f061e9cc4"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "355da87aa3ee",
+      "topic": "expansively govern mamdani vows",
+      "keywords": [
+        "expansively",
+        "govern",
+        "mamdani",
+        "vows",
         "york",
         "zohran"
       ],
@@ -9454,24 +9635,6 @@
       ]
     },
     {
-      "id": "6d71f92eb7cf",
-      "topic": "dating gen hyperspecific like",
-      "keywords": [
-        "dating",
-        "gen",
-        "hyperspecific",
-        "like",
-        "talk",
-        "term"
-      ],
-      "item_ids": [
-        "70fca25c912b"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "8b1152966674",
       "topic": "abortion democratic longer priority",
       "keywords": [
@@ -9561,12 +9724,12 @@
       ]
     },
     {
-      "id": "0fc7b9b8a3ca",
-      "topic": "berkshire buffett hathway officially",
+      "id": "4181c69ff752",
+      "topic": "berkshire buffett hathaway officially",
       "keywords": [
         "berkshire",
         "buffett",
-        "hathway",
+        "hathaway",
         "officially",
         "retire",
         "warren"
@@ -10181,6 +10344,42 @@
       ]
     },
     {
+      "id": "b49556ba295d",
+      "topic": "man marvel ring trailer",
+      "keywords": [
+        "man",
+        "marvel",
+        "ring",
+        "trailer",
+        "wonder",
+        "year"
+      ],
+      "item_ids": [
+        "aa1bff3c5be6"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
+      "id": "97ea2d45b1a7",
+      "topic": "almost cool research roundup",
+      "keywords": [
+        "almost",
+        "cool",
+        "research",
+        "roundup",
+        "science",
+        "storie"
+      ],
+      "item_ids": [
+        "2680f32ea297"
+      ],
+      "outlets": [
+        "Ars Technica - All content"
+      ]
+    },
+    {
       "id": "ab8f3cb5f647",
       "topic": "expect feeling infinite stop",
       "keywords": [
@@ -10271,15 +10470,13 @@
       ]
     },
     {
-      "id": "4a39e25c52c3",
-      "topic": "censor decide out science",
+      "id": "daf99cf76176",
+      "topic": "censor decide science self",
       "keywords": [
         "censor",
         "decide",
-        "out",
         "science",
-        "self",
-        "speak"
+        "self"
       ],
       "item_ids": [
         "e031022f4d71"
@@ -10319,42 +10516,6 @@
       ],
       "item_ids": [
         "861d3cce3867"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "f7b62df80d98",
-      "topic": "200 answer bought demolished",
-      "keywords": [
-        "200",
-        "answer",
-        "bought",
-        "demolished",
-        "flooding",
-        "out"
-      ],
-      "item_ids": [
-        "66c1d1133c47"
-      ],
-      "outlets": [
-        "Ars Technica - All content"
-      ]
-    },
-    {
-      "id": "fb8e8d3a75c9",
-      "topic": "finale here serie stranger",
-      "keywords": [
-        "finale",
-        "here",
-        "serie",
-        "stranger",
-        "thing",
-        "trailer"
-      ],
-      "item_ids": [
-        "45d5b66ba358"
       ],
       "outlets": [
         "Ars Technica - All content"
@@ -12288,6 +12449,88 @@
       ]
     },
     {
+      "id": "144accaf8f34",
+      "topic": "black figure grogu leaked",
+      "keywords": [
+        "black",
+        "figure",
+        "grogu",
+        "leaked",
+        "mandalorian",
+        "serie"
+      ],
+      "item_ids": [
+        "865da1f58b2e"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "37374d8d656c",
+      "topic": "2025 black serie",
+      "keywords": [
+        "2025",
+        "black",
+        "serie"
+      ],
+      "item_ids": [
+        "a6a708d2b0c3"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "7e4f4b714cd0",
+      "topic": "star trek wars",
+      "keywords": [
+        "star",
+        "trek",
+        "wars"
+      ],
+      "item_ids": [
+        "6c445d697472"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "e035bc8e7532",
+      "topic": "hot magnaguard mms856 revenge",
+      "keywords": [
+        "hot",
+        "magnaguard",
+        "mms856",
+        "revenge",
+        "sith",
+        "toys"
+      ],
+      "item_ids": [
+        "1acb08ef7363"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
+      "id": "e2f4eb0bcf07",
+      "topic": "awaken back force looking",
+      "keywords": [
+        "awaken",
+        "back",
+        "force",
+        "looking"
+      ],
+      "item_ids": [
+        "9f99c5067546"
+      ],
+      "outlets": [
+        "Jedi Temple Archives"
+      ]
+    },
+    {
       "id": "4d68b7d6cb41",
       "topic": "eclipse favorite revealed rotj",
       "keywords": [
@@ -12811,6 +13054,78 @@
       ]
     },
     {
+      "id": "d95e89f70fe0",
+      "topic": "greatest just killed marvel",
+      "keywords": [
+        "greatest",
+        "just",
+        "killed",
+        "marvel",
+        "newest",
+        "ultimate"
+      ],
+      "item_ids": [
+        "87194cd18a5b"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "67c99eb76db5",
+      "topic": "anime ends finally netflix",
+      "keywords": [
+        "anime",
+        "ends",
+        "finally",
+        "netflix",
+        "streaming",
+        "year"
+      ],
+      "item_ids": [
+        "ed96f058e881"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "0282fe696656",
+      "topic": "2025 anime best officially",
+      "keywords": [
+        "2025",
+        "anime",
+        "best",
+        "officially",
+        "power",
+        "system"
+      ],
+      "item_ids": [
+        "e207f1bd9d99"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "4832252bbcc2",
+      "topic": "looking maguire man return",
+      "keywords": [
+        "looking",
+        "maguire",
+        "man",
+        "return",
+        "spider",
+        "tobey"
+      ],
+      "item_ids": [
+        "15283b0d0e45"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "9ef257f7865d",
       "topic": "happened netflix season stranger",
       "keywords": [
@@ -12911,77 +13226,6 @@
       ],
       "item_ids": [
         "1b3474503ea1"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "c095b2bf48d5",
-      "topic": "black date men release",
-      "keywords": [
-        "black",
-        "date",
-        "men",
-        "release",
-        "streaming",
-        "tubi"
-      ],
-      "item_ids": [
-        "9b481cef25da"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "afaf30692284",
-      "topic": "2025 best close even",
-      "keywords": [
-        "2025",
-        "best",
-        "close",
-        "even",
-        "rpg"
-      ],
-      "item_ids": [
-        "b98a9a09bd2e"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "90f83d7a3e57",
-      "topic": "castle demon infinity movie",
-      "keywords": [
-        "castle",
-        "demon",
-        "infinity",
-        "movie",
-        "next",
-        "slayer"
-      ],
-      "item_ids": [
-        "b22db0efd296"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "1c203bfc6d37",
-      "topic": "best community now peacock",
-      "keywords": [
-        "best",
-        "community",
-        "now",
-        "peacock",
-        "season",
-        "streaming"
-      ],
-      "item_ids": [
-        "4567c9cd1124"
       ],
       "outlets": [
         "CBR"
@@ -13166,13 +13410,51 @@
       ]
     },
     {
-      "id": "7618c85d7cef",
-      "topic": "2026 back bts music",
+      "id": "9fcfa8b90a0d",
+      "topic": "bread dacu lucy nyc",
       "keywords": [
-        "2026",
-        "back",
+        "bread",
+        "dacu",
+        "lucy",
+        "nyc",
+        "perform",
+        "rose"
+      ],
+      "item_ids": [
+        "f2f744d3e9c0"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
+      "id": "c5e512035e09",
+      "topic": "diana give off ross",
+      "keywords": [
+        "diana",
+        "give",
+        "off",
+        "ross",
+        "send",
+        "supreme"
+      ],
+      "item_ids": [
+        "3780ae7d12ab"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
+      "id": "21e514b35e10",
+      "topic": "bts dropping heading march",
+      "keywords": [
         "bts",
-        "music"
+        "dropping",
+        "heading",
+        "march",
+        "music",
+        "out"
       ],
       "item_ids": [
         "3f59100e7438"
@@ -13302,42 +13584,6 @@
       ],
       "item_ids": [
         "e0277b029951"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "90dd761c6d1e",
-      "topic": "bring carey eve heat",
-      "keywords": [
-        "bring",
-        "carey",
-        "eve",
-        "heat",
-        "mariah",
-        "year"
-      ],
-      "item_ids": [
-        "7efcbe7d72a4"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "1acd864c80a5",
-      "topic": "declare malone nashville post",
-      "keywords": [
-        "declare",
-        "malone",
-        "nashville",
-        "post",
-        "story",
-        "year"
-      ],
-      "item_ids": [
-        "a713334943a8"
       ],
       "outlets": [
         "Music News"
