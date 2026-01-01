@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-01T03:01:47Z",
+  "generated_at": "2026-01-01T04:36:46Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -93,6 +93,40 @@
       },
       "read_minutes": 4,
       "cluster_id": "235a19ceadf6"
+    },
+    {
+      "id": "c7af3e322685",
+      "title": "The history behind the NYC subway station chosen for Mamdani's swearing-in",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/31/nx-s1-5662726/mamdani-nyc-subway-station-history",
+      "published_at": "Wed, 31 Dec 2025 23:05:02 -0500",
+      "bullets": [
+        "• Zohran Mamdani takes oath of office at City Hall subway station in Lower Manhattan",
+        "• The station, which opened in 1904, is noted for its architectural grandeur with chandeliers, glass skylights and tiled vaulted tunnels",
+        "• The small, underground ceremony's invitees include his family and political ally Letitia James "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Zohran Mamdani takes oath of office at City Hall subway station in Lower Manhattan",
+          "• The station, which opened in 1904, is noted for its architectural grandeur with chandeliers, glass skylights and tiled vaulted tunnels"
+        ],
+        "hopeful_bullets": [
+          "• Zohran Mamdani takes oath of office at City Hall subway station in Lower Manhattan",
+          "• The station, which opened in 1904, is noted for its architectural grandeur with chandeliers, glass skylights and tiled vaulted tunnels"
+        ],
+        "stakes_bullets": [
+          "• Zohran Mamdani takes oath of office at City Hall subway station in Lower Manhattan",
+          "• The station, which opened in 1904, is noted for its architectural grandeur with chandeliers, glass skylights and tiled vaulted tunnels",
+          "• The small, underground ceremony's invitees include his family and political ally Letitia James "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "54cf19510dd7"
     },
     {
       "id": "11af9d921881",
@@ -425,6 +459,42 @@
       "cluster_id": "eabba6013f88"
     },
     {
+      "id": "81c5c873488a",
+      "title": "U.S. military strikes 5 more alleged drug boats, killing 8",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2025/12/31/g-s1-104194/us-military-strikes-drug-boats-survivors",
+      "published_at": "Wed, 31 Dec 2025 21:44:45 -0500",
+      "bullets": [
+        "• U.S",
+        "• military strikes 5 more alleged drug-smuggling boats, killing 8 people over two days",
+        "• The military did not reveal where the attacks occurred",
+        "• Previous attacks have been in the Caribbean Sea and in the eastern Pacific Ocean",
+        "• Video of Tuesday's attack shows three boats traveling in a close formation, which is unusual "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.967
+      },
+      "moods": {
+        "brief_bullets": [
+          "• U.S",
+          "• military strikes 5 more alleged drug-smuggling boats, killing 8 people over two days"
+        ],
+        "hopeful_bullets": [
+          "• U.S",
+          "• military strikes 5 more alleged drug-smuggling boats, killing 8 people over two days"
+        ],
+        "stakes_bullets": [
+          "• U.S",
+          "• military strikes 5 more alleged drug-smuggling boats, killing 8 people over two days",
+          "• The military did not reveal where the attacks occurred"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "5d1ef535699c"
+    },
+    {
       "id": "6f5460a421e8",
       "title": "End of an era as New York City transit retires three-decade-old MetroCard",
       "outlet": "US news | The Guardian",
@@ -520,6 +590,37 @@
       },
       "read_minutes": 1,
       "cluster_id": "d95acefb5966"
+    },
+    {
+      "id": "1764508aabc6",
+      "title": "Astronomers ring in the new year with a stunning galaxy collision",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/12/251231203753.htm",
+      "published_at": "Wed, 31 Dec 2025 21:04:28 EST",
+      "bullets": [
+        "• The Champagne Cluster is a rare and beautiful example of two galaxy clusters smashing together",
+        "• Images reveal superheated gas and galaxies spread across a massive collision zone",
+        "• Astronomers believe this system could help explain how dark matter responds when giant structures collide "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Champagne Cluster is a rare and beautiful example of two galaxy clusters smashing together",
+          "• Images reveal superheated gas and galaxies spread across a massive collision zone"
+        ],
+        "hopeful_bullets": [
+          "• Astronomers believe this system could help explain how dark matter responds when giant structures collide "
+        ],
+        "stakes_bullets": [
+          "• Astronomers believe this system could help explain how dark matter responds when giant structures collide "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a80de7dbdb32"
     },
     {
       "id": "610f65f9cf25",
@@ -959,27 +1060,25 @@
       "url": "https://www.npr.org/2025/12/31/nx-s1-5662722/trump-national-guard-illinois-chicago-portland-los-angeles",
       "published_at": "Wed, 31 Dec 2025 19:07:14 -0500",
       "bullets": [
-        "• U.S",
-        "• Supreme Court rules against President Obama's plan to deploy troops to Chicago, Los Angeles and Portland, Oregon",
-        "• Trump says the decision was necessary to quell crime and protect federal immigration officers",
-        "• The White House will now drop the plan after a series of legal setbacks "
+        "• Trump will drop push for National Guard deployments in Chicago, LA and Portland, Ore., after a series of legal setbacks",
+        "• The deployments in the Democratic-led cities were blocked by the courts",
+        "• The Supreme Court last week ruled against the administration's emergency appeal to deploy troops to Chicago "
       ],
       "category": "General",
       "sentiment": {
         "label": "negative",
-        "score": 0.996
+        "score": 0.974
       },
       "moods": {
         "brief_bullets": [
-          "• U.S",
-          "• Supreme Court rules against President Obama's plan to deploy troops to Chicago, Los Angeles and Portland, Oregon"
+          "• Trump will drop push for National Guard deployments in Chicago, LA and Portland, Ore., after a series of legal setbacks",
+          "• The deployments in the Democratic-led cities were blocked by the courts"
         ],
         "hopeful_bullets": [
-          "• Supreme Court rules against President Obama's plan to deploy troops to Chicago, Los Angeles and Portland, Oregon"
+          "• The Supreme Court last week ruled against the administration's emergency appeal to deploy troops to Chicago "
         ],
         "stakes_bullets": [
-          "• Supreme Court rules against President Obama's plan to deploy troops to Chicago, Los Angeles and Portland, Oregon",
-          "• The White House will now drop the plan after a series of legal setbacks "
+          "• Trump will drop push for National Guard deployments in Chicago, LA and Portland, Ore., after a series of legal setbacks"
         ]
       },
       "read_minutes": 2,
@@ -2050,40 +2149,6 @@
       "cluster_id": "3f43acd3d2ce"
     },
     {
-      "id": "e9c51116aba4",
-      "title": "Watch Jennifer Lopez Cover Lana Del Rey, Barbra Streisand at Vegas Show",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/jennifer-lopez-lana-del-rey-barbra-streisand-covers-1235492741/",
-      "published_at": "Wed, 31 Dec 2025 12:29:24 +0000",
-      "bullets": [
-        "• Jennifer Lopez kicked off her Up All Night Live residency at Caesars last night",
-        "• She performed renditions of Lana Del Rey, Barbra Streisand and Elvis",
-        "• The pop star also performed a variety of her own music, including hits like \"Jenny From the Block\""
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jennifer Lopez kicked off her Up All Night Live residency at Caesars last night",
-          "• She performed renditions of Lana Del Rey, Barbra Streisand and Elvis"
-        ],
-        "hopeful_bullets": [
-          "• Jennifer Lopez kicked off her Up All Night Live residency at Caesars last night",
-          "• She performed renditions of Lana Del Rey, Barbra Streisand and Elvis"
-        ],
-        "stakes_bullets": [
-          "• Jennifer Lopez kicked off her Up All Night Live residency at Caesars last night",
-          "• She performed renditions of Lana Del Rey, Barbra Streisand and Elvis",
-          "• The pop star also performed a variety of her own music, including hits like \"Jenny From the Block\""
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "9f28e5bb14de"
-    },
-    {
       "id": "1acabc2895b0",
       "title": "Machu Picchu train crash leaves one dead and dozens injured",
       "outlet": "BBC News",
@@ -2508,73 +2573,6 @@
       "cluster_id": "ad1acf0e04be"
     },
     {
-      "id": "ce6fd64aff43",
-      "title": "His brother's mental illness isolated his family. Now he's helping other caregivers",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/31/nx-s1-5660892/caregiver-family-mental-illness-support",
-      "published_at": "Wed, 31 Dec 2025 07:00:00 -0500",
-      "bullets": [
-        "• Mitul Desai felt that the best way to deal with his brother's schizophrenia was to avoid talking about it",
-        "• During these years, he focused on the brilliant career he was building as an intellectual property attorney, Wall Street analyst and senior adviser at the State Department",
-        "• Now he's helping other caregivers "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mitul Desai felt that the best way to deal with his brother's schizophrenia was to avoid talking about it",
-          "• During these years, he focused on the brilliant career he was building as an intellectual property attorney, Wall Street analyst and senior adviser at the State Department"
-        ],
-        "hopeful_bullets": [
-          "• Now he's helping other caregivers "
-        ],
-        "stakes_bullets": [
-          "• Mitul Desai felt that the best way to deal with his brother's schizophrenia was to avoid talking about it",
-          "• During these years, he focused on the brilliant career he was building as an intellectual property attorney, Wall Street analyst and senior adviser at the State Department",
-          "• Now he's helping other caregivers "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "8dbcf1ee52dc"
-    },
-    {
-      "id": "bf5901e5b1c9",
-      "title": "Out with the mayo: How Ukrainians reclaim holiday food",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2025/12/31/nx-s1-5660765/ukrainian-food-holidays",
-      "published_at": "Wed, 31 Dec 2025 07:00:00 -0500",
-      "bullets": [
-        "• Many Ukrainians are rediscovering traditional holiday dishes for New Year's Eve",
-        "• A centerpiece of the dinner is kutia, a sweet, warm porridge of barley mixed with berries, nuts and stewed fruit",
-        "• Traditional dishes include shuba, known as herring under a fur coat, and potato salad "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Many Ukrainians are rediscovering traditional holiday dishes for New Year's Eve",
-          "• A centerpiece of the dinner is kutia, a sweet, warm porridge of barley mixed with berries, nuts and stewed fruit"
-        ],
-        "hopeful_bullets": [
-          "• Many Ukrainians are rediscovering traditional holiday dishes for New Year's Eve",
-          "• A centerpiece of the dinner is kutia, a sweet, warm porridge of barley mixed with berries, nuts and stewed fruit"
-        ],
-        "stakes_bullets": [
-          "• Many Ukrainians are rediscovering traditional holiday dishes for New Year's Eve",
-          "• A centerpiece of the dinner is kutia, a sweet, warm porridge of barley mixed with berries, nuts and stewed fruit",
-          "• Traditional dishes include shuba, known as herring under a fur coat, and potato salad "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "2fb08e55ef04"
-    },
-    {
       "id": "8442734340c0",
       "title": "Walmart Promo Codes and Coupons: Up to 65% Off",
       "outlet": "WIRED",
@@ -2839,39 +2837,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "c8df95d4f115"
-    },
-    {
-      "id": "51024c135f4b",
-      "title": "Kennedy Center renaming prompts a new round of cancellations",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/31/g-s1-104070/kennedy-center-renaming-prompts-a-new-round-of-cancellations",
-      "published_at": "Wed, 31 Dec 2025 02:44:46 -0500",
-      "bullets": [
-        "• The Cookers, a jazz supergroup that has performed together for nearly two decades, say they're pulling out of a New Year's Eve performance",
-        "• Doug Varone and Dancers, a dance group based in New York, also cancels a performance scheduled for April",
-        "• The moves come after musician Chuck Redd canceled a Christmas Eve performance last week",
-        "• The Kennedy Center's president accuses the performers of making their decisions because of politics "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Cookers, a jazz supergroup that has performed together for nearly two decades, say they're pulling out of a New Year's Eve performance",
-          "• Doug Varone and Dancers, a dance group based in New York, also cancels a performance scheduled for April"
-        ],
-        "hopeful_bullets": [
-          "• The Cookers, a jazz supergroup that has performed together for nearly two decades, say they're pulling out of a New Year's Eve performance",
-          "• Doug Varone and Dancers, a dance group based in New York, also cancels a performance scheduled for April"
-        ],
-        "stakes_bullets": [
-          "• The Kennedy Center's president accuses the performers of making their decisions because of politics "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "b26f34db288b"
     },
     {
       "id": "e3d7fbd0de87",
@@ -3595,41 +3560,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "567ecf18da07"
-    },
-    {
-      "id": "bd6a68b4f1b2",
-      "title": "Trump administration says it's freezing child care funds to Minnesota",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/30/g-s1-104049/trump-minnesota-child-care-funding-freeze-fraud-schemes",
-      "published_at": "Tue, 30 Dec 2025 19:47:17 -0500",
-      "bullets": [
-        "• The move is in response to \"rampant fraud that appears to be rampant\" in Minnesota",
-        "• The move comes one day after U.S",
-        "• officials went to Minneapolis to find fraudsters in day care centers",
-        "• \"We have turned off the money spigot and we are finding the fraud,\" O'Neill said "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The move is in response to \"rampant fraud that appears to be rampant\" in Minnesota",
-          "• The move comes one day after U.S"
-        ],
-        "hopeful_bullets": [
-          "• The move is in response to \"rampant fraud that appears to be rampant\" in Minnesota",
-          "• The move comes one day after U.S"
-        ],
-        "stakes_bullets": [
-          "• The move is in response to \"rampant fraud that appears to be rampant\" in Minnesota",
-          "• The move comes one day after U.S",
-          "• officials went to Minneapolis to find fraudsters in day care centers"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "84ca54a1ada2"
     },
     {
       "id": "9d0da90aa916",
@@ -5277,6 +5207,301 @@
       "cluster_id": "062e5dfb5e07"
     },
     {
+      "id": "701311524919",
+      "title": "2025: A Pivotal Year for Gaming - Highs and Lows",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/video-games-2025-retrospective-silksong-nintendo/",
+      "published_at": "Thu, 01 Jan 2026 04:16:12 GMT",
+      "bullets": [
+        "• Video games have had their biggest year yet in 2025",
+        "• The year was marked with the launch of the Nintendo Switch 2 and the releases of games like Hollow Knight: Silksong",
+        "• The Switch 2 already had a stellar line-up at launch, with stand-out examples including Mario Kart World and Deltarune's third and fourth chapters "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Video games have had their biggest year yet in 2025",
+          "• The year was marked with the launch of the Nintendo Switch 2 and the releases of games like Hollow Knight: Silksong"
+        ],
+        "hopeful_bullets": [
+          "• Video games have had their biggest year yet in 2025",
+          "• The year was marked with the launch of the Nintendo Switch 2 and the releases of games like Hollow Knight: Silksong"
+        ],
+        "stakes_bullets": [
+          "• Video games have had their biggest year yet in 2025",
+          "• The year was marked with the launch of the Nintendo Switch 2 and the releases of games like Hollow Knight: Silksong",
+          "• The Switch 2 already had a stellar line-up at launch, with stand-out examples including Mario Kart World and Deltarune's third and fourth chapters "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "a6310f527a2c"
+    },
+    {
+      "id": "c726f9343450",
+      "title": "Stranger Things Series Finale Review: A Tragic Final Bow",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/stranger-things-season-5-vol-3-review/",
+      "published_at": "Thu, 01 Jan 2026 04:03:09 GMT",
+      "bullets": [
+        "• The series finale of \"Stranger Things\" was released on New Year's Eve",
+        "• It's definitely not the worst conclusion that's released in recent years, but it's not the best either",
+        "• There's no big swing or final blow "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.995
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The series finale of \"Stranger Things\" was released on New Year's Eve",
+          "• It's definitely not the worst conclusion that's released in recent years, but it's not the best either"
+        ],
+        "hopeful_bullets": [
+          "• There's no big swing or final blow "
+        ],
+        "stakes_bullets": [
+          "• The series finale of \"Stranger Things\" was released on New Year's Eve",
+          "• It's definitely not the worst conclusion that's released in recent years, but it's not the best either",
+          "• There's no big swing or final blow "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "6841b4333544"
+    },
+    {
+      "id": "bb1ca4c55219",
+      "title": "Star Trek's Greatest Worf Episode Remains an Untouchable Sci-Fi Gem",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/star-trek-greatest-worf-episode-sins-of-the-father/",
+      "published_at": "Thu, 01 Jan 2026 04:00:12 GMT",
+      "bullets": [
+        "• Star Trek: The Next Generation underwent a noticeable shift in storytelling in its third season",
+        "• Season 3's \"Sins of the Father\" is considered an important episode in Star Trek history",
+        "• Michael Piller took over in the fifth episode of the third season, changing the focus to more character-driven stories "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Star Trek: The Next Generation underwent a noticeable shift in storytelling in its third season",
+          "• Season 3's \"Sins of the Father\" is considered an important episode in Star Trek history"
+        ],
+        "hopeful_bullets": [
+          "• Star Trek: The Next Generation underwent a noticeable shift in storytelling in its third season",
+          "• Season 3's \"Sins of the Father\" is considered an important episode in Star Trek history"
+        ],
+        "stakes_bullets": [
+          "• Star Trek: The Next Generation underwent a noticeable shift in storytelling in its third season",
+          "• Season 3's \"Sins of the Father\" is considered an important episode in Star Trek history",
+          "• Michael Piller took over in the fifth episode of the third season, changing the focus to more character-driven stories "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "56e07a6c4298"
+    },
+    {
+      "id": "8e7caec2f3fe",
+      "title": "The Best Anime From Every Major Streaming Service in 2025",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-anime-every-streaming-service-2025/",
+      "published_at": "Thu, 01 Jan 2026 03:45:12 GMT",
+      "bullets": [
+        "• Netflix, Prime Video, Crunchyroll, and many more streaming services released new anime in 2025",
+        "• The Apothecary Diaries Season 2 was one of the most successful anime series of the 2020s",
+        "• Gachiakuta, City the Animation, and City of the Animation are among the best new anime of the year "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Netflix, Prime Video, Crunchyroll, and many more streaming services released new anime in 2025",
+          "• The Apothecary Diaries Season 2 was one of the most successful anime series of the 2020s"
+        ],
+        "hopeful_bullets": [
+          "• Netflix, Prime Video, Crunchyroll, and many more streaming services released new anime in 2025",
+          "• The Apothecary Diaries Season 2 was one of the most successful anime series of the 2020s"
+        ],
+        "stakes_bullets": [
+          "• Netflix, Prime Video, Crunchyroll, and many more streaming services released new anime in 2025",
+          "• The Apothecary Diaries Season 2 was one of the most successful anime series of the 2020s",
+          "• Gachiakuta, City the Animation, and City of the Animation are among the best new anime of the year "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "590f234425c2"
+    },
+    {
+      "id": "86e88a7ac89d",
+      "title": "Batman Revealed a Shocking Secret About the Joker 75 Years Ago",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/batman-revealed-joker-shocking-secret-red-hood/",
+      "published_at": "Thu, 01 Jan 2026 03:44:28 GMT",
+      "bullets": [
+        "• In every Look Back, we examine a comic book issue from 10/25/50 years ago (plus a wild card every month with a fifth week in it) This time around, I head to December 1950 for Bill Finger making a shocking revelation about the Joker!"
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.993
+      },
+      "moods": {
+        "brief_bullets": [
+          "• In every Look Back, we examine a comic book issue from 10/25/50 years ago (plus a wild card every month with a fifth week in it) This time around, I head to December 1950 for Bill Finger making a shocking revelation about the Joker!"
+        ],
+        "hopeful_bullets": [
+          "• In every Look Back, we examine a comic book issue from 10/25/50 years ago (plus a wild card every month with a fifth week in it) This time around, I head to December 1950 for Bill Finger making a shocking revelation about the Joker!"
+        ],
+        "stakes_bullets": [
+          "• In every Look Back, we examine a comic book issue from 10/25/50 years ago (plus a wild card every month with a fifth week in it) This time around, I head to December 1950 for Bill Finger making a shocking revelation about the Joker!"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "62b39d90bc88"
+    },
+    {
+      "id": "e0277b029951",
+      "title": "4 Non Blondes Ignite ‘Rockin’ Eve’ With Cathartic Anthem ‘What’s Up?’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/4-non-blondes-new-years-rockin-eve-performance-whats-up-1235492719/",
+      "published_at": "Thu, 01 Jan 2026 03:38:32 +0000",
+      "bullets": [
+        "• 4 Non Blondes took over the stage during Dick Clark's New Year’s Rockin’ Eve With Ryan Seacrest",
+        "• Lead singer Linda Perry and her band captivated the crowd with their performance of ‘What’�s Up?”"
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• 4 Non Blondes took over the stage during Dick Clark's New Year’s Rockin’ Eve With Ryan Seacrest",
+          "• Lead singer Linda Perry and her band captivated the crowd with their performance of ‘What’�s Up?”"
+        ],
+        "hopeful_bullets": [
+          "• 4 Non Blondes took over the stage during Dick Clark's New Year’s Rockin’ Eve With Ryan Seacrest",
+          "• Lead singer Linda Perry and her band captivated the crowd with their performance of ‘What’�s Up?”"
+        ],
+        "stakes_bullets": [
+          "• Lead singer Linda Perry and her band captivated the crowd with their performance of ‘What’�s Up?”"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "26cfc2d19eb8"
+    },
+    {
+      "id": "67efc7504208",
+      "title": "7 DC Next Level Comics Coming in 2026 That I Can't Wait to Read",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/dc-next-level-comics-2026-upcoming-batman/",
+      "published_at": "Thu, 01 Jan 2026 03:35:12 GMT",
+      "bullets": [
+        "• DC Comics is introducing new branding for their next wave of titles",
+        "• DC Next Level is meant to be somewhere between eight and twelve new titles",
+        "• They're all meant to focus on some of the lesser-known characters",
+        "• Batman: Shadow of the Bat was a comic from the '90s that was originally a vehicle for creator Alan Grant "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.968
+      },
+      "moods": {
+        "brief_bullets": [
+          "• DC Comics is introducing new branding for their next wave of titles",
+          "• DC Next Level is meant to be somewhere between eight and twelve new titles"
+        ],
+        "hopeful_bullets": [
+          "• DC Comics is introducing new branding for their next wave of titles",
+          "• DC Next Level is meant to be somewhere between eight and twelve new titles"
+        ],
+        "stakes_bullets": [
+          "• DC Comics is introducing new branding for their next wave of titles",
+          "• DC Next Level is meant to be somewhere between eight and twelve new titles",
+          "• They're all meant to focus on some of the lesser-known characters"
+        ]
+      },
+      "read_minutes": 5,
+      "cluster_id": "a683a8dd0f9f"
+    },
+    {
+      "id": "d9961a1793c2",
+      "title": "Akame ga Kill! 1.8 million debut viewers watched the premiere",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/akame-ga-kill-bigger-debut-than-frieren-season-2/",
+      "published_at": "Thu, 01 Jan 2026 03:15:12 GMT",
+      "bullets": [
+        "• One of Crunchyroll's most underrated anime titles, Akame Ga Kill! debuted in 2015 on Toonami as part of its dark fantasy lineup",
+        "• Over 2.2 million loyal fans still show their support for the series on MyAnimeList "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• One of Crunchyroll's most underrated anime titles, Akame Ga Kill! debuted in 2015 on Toonami as part of its dark fantasy lineup",
+          "• Over 2.2 million loyal fans still show their support for the series on MyAnimeList "
+        ],
+        "hopeful_bullets": [
+          "• One of Crunchyroll's most underrated anime titles, Akame Ga Kill! debuted in 2015 on Toonami as part of its dark fantasy lineup",
+          "• Over 2.2 million loyal fans still show their support for the series on MyAnimeList "
+        ],
+        "stakes_bullets": [
+          "• One of Crunchyroll's most underrated anime titles, Akame Ga Kill! debuted in 2015 on Toonami as part of its dark fantasy lineup",
+          "• Over 2.2 million loyal fans still show their support for the series on MyAnimeList "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "a274b4a320e1"
+    },
+    {
+      "id": "416d4c0b1efc",
+      "title": "Doctor Strange Goes on the Weirdest Killing Spree (Exclusive Preview)",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/doctor-strange-killing-spree-marvel-exclusive-preview/",
+      "published_at": "Thu, 01 Jan 2026 02:58:54 GMT",
+      "bullets": [
+        "• Marvel: Black, White, Blood, and Guts #4, on sale next week from Marvel Comics",
+        "• Archie Goodwin was the early creative force on Warren Magazine's black and white comic book magazines in the mid-1960s",
+        "• Mark Chiarello took inspiration from Goodwin to create Batman: Black and White, a miniseries to honor Goodwin "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Marvel: Black, White, Blood, and Guts #4, on sale next week from Marvel Comics",
+          "• Archie Goodwin was the early creative force on Warren Magazine's black and white comic book magazines in the mid-1960s"
+        ],
+        "hopeful_bullets": [
+          "• Archie Goodwin was the early creative force on Warren Magazine's black and white comic book magazines in the mid-1960s",
+          "• Mark Chiarello took inspiration from Goodwin to create Batman: Black and White, a miniseries to honor Goodwin "
+        ],
+        "stakes_bullets": [
+          "• Marvel: Black, White, Blood, and Guts #4, on sale next week from Marvel Comics",
+          "• Archie Goodwin was the early creative force on Warren Magazine's black and white comic book magazines in the mid-1960s",
+          "• Mark Chiarello took inspiration from Goodwin to create Batman: Black and White, a miniseries to honor Goodwin "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "87aecdf0b63a"
+    },
+    {
       "id": "7efcbe7d72a4",
       "title": "Mariah Carey Brings Heat for New Year’s Eve With Stellar ‘Rockin” Performance",
       "outlet": "Music News",
@@ -5373,40 +5598,6 @@
       "cluster_id": "a669fb989c9e"
     },
     {
-      "id": "98532632c632",
-      "title": "Dragon Ball Super's Toyotarou Must 'Throw Away Akira Toriyama' to Succeed, According to Shonen Jump Editor",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/dragon-ball-editor-toyotarou-jump-festa-2026/",
-      "published_at": "Thu, 01 Jan 2026 02:30:12 GMT",
-      "bullets": [
-        "• Kazuhiko Torishima, Shonen Jump's former Editor-in-Chief and Dragon Ball's editor on Dragon Ball, discussed his controversial social media post in which he thrashed the Dragon Ball Super Volume 24 cover artwork by Toyotaro",
-        "• Despite the overwhelming online rejection of his criticism of the artwork, he stood his ground",
-        "• He also revealed that he attended Jump Festa 2026 to have the opportunity to speak with Toyotar "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.951
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Kazuhiko Torishima, Shonen Jump's former Editor-in-Chief and Dragon Ball's editor on Dragon Ball, discussed his controversial social media post in which he thrashed the Dragon Ball Super Volume 24 cover artwork by Toyotaro",
-          "• Despite the overwhelming online rejection of his criticism of the artwork, he stood his ground"
-        ],
-        "hopeful_bullets": [
-          "• Kazuhiko Torishima, Shonen Jump's former Editor-in-Chief and Dragon Ball's editor on Dragon Ball, discussed his controversial social media post in which he thrashed the Dragon Ball Super Volume 24 cover artwork by Toyotaro",
-          "• Despite the overwhelming online rejection of his criticism of the artwork, he stood his ground"
-        ],
-        "stakes_bullets": [
-          "• Kazuhiko Torishima, Shonen Jump's former Editor-in-Chief and Dragon Ball's editor on Dragon Ball, discussed his controversial social media post in which he thrashed the Dragon Ball Super Volume 24 cover artwork by Toyotaro",
-          "• Despite the overwhelming online rejection of his criticism of the artwork, he stood his ground",
-          "• He also revealed that he attended Jump Festa 2026 to have the opportunity to speak with Toyotar "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8ccd2f536f03"
-    },
-    {
       "id": "a713334943a8",
       "title": "Post Malone Declares ‘That’s My Story’ in Nashville for ‘New Year’s Rockin’ Eve’",
       "outlet": "Music News",
@@ -5436,72 +5627,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "1acd864c80a5"
-    },
-    {
-      "id": "51eb0090254c",
-      "title": "10 Anime Perfect for Stranger Things Fans After the Season 5 Finale",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/anime-similar-to-stranger-things-after-season-5-finale/",
-      "published_at": "Thu, 01 Jan 2026 02:26:12 GMT",
-      "bullets": [
-        "• The anime explores a reality where human children are kept on farms like livestock",
-        "• The Promised Neverland is everything that Stranger Things would be if Vecna managed to upend the mortal world and make the monsters of the Upside Down the dominant species",
-        "• From the early 2000s to the current decade, there are a myriad of anime that can offer similar stories that match the horror, oddities, and wholesome friendships "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The anime explores a reality where human children are kept on farms like livestock",
-          "• The Promised Neverland is everything that Stranger Things would be if Vecna managed to upend the mortal world and make the monsters of the Upside Down the dominant species"
-        ],
-        "hopeful_bullets": [
-          "• The anime explores a reality where human children are kept on farms like livestock",
-          "• The Promised Neverland is everything that Stranger Things would be if Vecna managed to upend the mortal world and make the monsters of the Upside Down the dominant species"
-        ],
-        "stakes_bullets": [
-          "• The anime explores a reality where human children are kept on farms like livestock",
-          "• The Promised Neverland is everything that Stranger Things would be if Vecna managed to upend the mortal world and make the monsters of the Upside Down the dominant species",
-          "• From the early 2000s to the current decade, there are a myriad of anime that can offer similar stories that match the horror, oddities, and wholesome friendships "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "973836af16f9"
-    },
-    {
-      "id": "3df04f700294",
-      "title": "This Epic Crossover Event Is The Most Anticipated Comic Book of 2026",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/ultimate-endgame-most-anticipated-2026-comic-book/",
-      "published_at": "Thu, 01 Jan 2026 02:26:12 GMT",
-      "bullets": [
-        "• In 2026, the Ultimate Universe will end with a five-part finale",
-        "• Writer Deniz Camp is taking over from Jonathan Hickman, who started the series with Ultimate Invasion",
-        "• Camp is the man behind the series Absolute Martian Manhunter and Assorted Crisis Events "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In 2026, the Ultimate Universe will end with a five-part finale",
-          "• Writer Deniz Camp is taking over from Jonathan Hickman, who started the series with Ultimate Invasion"
-        ],
-        "hopeful_bullets": [
-          "• In 2026, the Ultimate Universe will end with a five-part finale",
-          "• Writer Deniz Camp is taking over from Jonathan Hickman, who started the series with Ultimate Invasion"
-        ],
-        "stakes_bullets": [
-          "• In 2026, the Ultimate Universe will end with a five-part finale"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "263ef18b125a"
     },
     {
       "id": "d6155ab81537",
@@ -5536,47 +5661,13 @@
       "cluster_id": "405cf7dd1938"
     },
     {
-      "id": "20e99c3229dd",
-      "title": "Apple TV's Pluribus Takes Away the 1 Thing Sci-Fi Always Promises",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/apple-tv-pluribus-removes-perfect-hero-trope/",
-      "published_at": "Thu, 01 Jan 2026 02:00:12 GMT",
-      "bullets": [
-        "• The showrunner who cut his teeth on The X-Files returned to the sci-fi genre in Apple TV's Pluribus",
-        "• The show posited that the human race came in contact with a signal from a distant planet known as Kepler-22b",
-        "• Carol Sturka was the only person who was unaffected by the phenomenon and became an outlier "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The showrunner who cut his teeth on The X-Files returned to the sci-fi genre in Apple TV's Pluribus",
-          "• The show posited that the human race came in contact with a signal from a distant planet known as Kepler-22b"
-        ],
-        "hopeful_bullets": [
-          "• The showrunner who cut his teeth on The X-Files returned to the sci-fi genre in Apple TV's Pluribus",
-          "• The show posited that the human race came in contact with a signal from a distant planet known as Kepler-22b"
-        ],
-        "stakes_bullets": [
-          "• The showrunner who cut his teeth on The X-Files returned to the sci-fi genre in Apple TV's Pluribus",
-          "• The show posited that the human race came in contact with a signal from a distant planet known as Kepler-22b",
-          "• Carol Sturka was the only person who was unaffected by the phenomenon and became an outlier "
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "7a0c4ce0e961"
-    },
-    {
       "id": "de48581325f9",
-      "title": "Disney worker hurt stopping 400-lb fake boulder from hitting audience",
+      "title": "Disney worker hurt stopping 180-kg fake boulder from hitting audience",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cn8jlm07nz4o?at_medium=RSS&at_campaign=rss",
       "published_at": "Thu, 01 Jan 2026 01:49:26 GMT",
       "bullets": [
-        "• Disney worker hurt stopping 400-lb fake boulder from hitting audience",
+        "• Disney worker hurt stopping 180-kg fake boulder from hitting audience",
         "• Incident took place at Indiana Jones Epic Stunt Spectacular! during a live recreation of a famous scene from 1981's Raiders of the Lost Ark",
         "• Video shows the boulder rolling towards the audience as a staff member jumps into its path, preventing it from reaching the crowd "
       ],
@@ -5587,148 +5678,21 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Disney worker hurt stopping 400-lb fake boulder from hitting audience",
+          "• Disney worker hurt stopping 180-kg fake boulder from hitting audience",
           "• Incident took place at Indiana Jones Epic Stunt Spectacular! during a live recreation of a famous scene from 1981's Raiders of the Lost Ark"
         ],
         "hopeful_bullets": [
-          "• Disney worker hurt stopping 400-lb fake boulder from hitting audience",
+          "• Disney worker hurt stopping 180-kg fake boulder from hitting audience",
           "• Incident took place at Indiana Jones Epic Stunt Spectacular! during a live recreation of a famous scene from 1981's Raiders of the Lost Ark"
         ],
         "stakes_bullets": [
-          "• Disney worker hurt stopping 400-lb fake boulder from hitting audience",
+          "• Disney worker hurt stopping 180-kg fake boulder from hitting audience",
           "• Incident took place at Indiana Jones Epic Stunt Spectacular! during a live recreation of a famous scene from 1981's Raiders of the Lost Ark",
           "• Video shows the boulder rolling towards the audience as a staff member jumps into its path, preventing it from reaching the crowd "
         ]
       },
       "read_minutes": 1,
-      "cluster_id": "f04ba470133a"
-    },
-    {
-      "id": "19272c7face2",
-      "title": "30 Years Later, The Greatest Sega Genesis Game of All Time Is More Powerful Than Ever",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/30-years-later-greatest-sega-genesis-game-all-time-more-powerful-than-ever/",
-      "published_at": "Thu, 01 Jan 2026 01:45:12 GMT",
-      "bullets": [
-        "• Thirty years after its original release, Phantasy Star IV stands as a towering achievement not just within Sega’s catalog, but across the entire 16-bit era",
-        "• Released late in the Sega Genesis’ lifespan, the game arrived with the confidence of a studio that had fully mastered its hardware",
-        "• It's absolutely one of the best JRPGs ever made "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Thirty years after its original release, Phantasy Star IV stands as a towering achievement not just within Sega’s catalog, but across the entire 16-bit era",
-          "• Released late in the Sega Genesis’ lifespan, the game arrived with the confidence of a studio that had fully mastered its hardware"
-        ],
-        "hopeful_bullets": [
-          "• Thirty years after its original release, Phantasy Star IV stands as a towering achievement not just within Sega’s catalog, but across the entire 16-bit era",
-          "• Released late in the Sega Genesis’ lifespan, the game arrived with the confidence of a studio that had fully mastered its hardware"
-        ],
-        "stakes_bullets": [
-          "• Thirty years after its original release, Phantasy Star IV stands as a towering achievement not just within Sega’s catalog, but across the entire 16-bit era",
-          "• Released late in the Sega Genesis’ lifespan, the game arrived with the confidence of a studio that had fully mastered its hardware",
-          "• It's absolutely one of the best JRPGs ever made "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "eaa0db084f05"
-    },
-    {
-      "id": "c513e9ca3b37",
-      "title": "5 Best Thriller Movies on Netflix to Watch Right Now",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-thriller-movies-on-netflix-december-2025-list/",
-      "published_at": "Thu, 01 Jan 2026 01:45:12 GMT",
-      "bullets": [
-        "• The Highwaymen is a mystery Western that takes place during the Great Depression and focuses on the crime spree of Clyde Barrow and Bonnie Parker",
-        "• The thriller genre has become synonymous with good storytelling and intriguing mystery",
-        "• From true crime epics to haunting assassin stories, Netflix offers up one of the best selections of the streaming age "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Highwaymen is a mystery Western that takes place during the Great Depression and focuses on the crime spree of Clyde Barrow and Bonnie Parker",
-          "• The thriller genre has become synonymous with good storytelling and intriguing mystery"
-        ],
-        "hopeful_bullets": [
-          "• The Highwaymen is a mystery Western that takes place during the Great Depression and focuses on the crime spree of Clyde Barrow and Bonnie Parker",
-          "• The thriller genre has become synonymous with good storytelling and intriguing mystery"
-        ],
-        "stakes_bullets": [
-          "• The Highwaymen is a mystery Western that takes place during the Great Depression and focuses on the crime spree of Clyde Barrow and Bonnie Parker",
-          "• The thriller genre has become synonymous with good storytelling and intriguing mystery",
-          "• From true crime epics to haunting assassin stories, Netflix offers up one of the best selections of the streaming age "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8283ea924b97"
-    },
-    {
-      "id": "a4134396f0ab",
-      "title": "10 Best Winona Ryder Roles, Ranked",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-winona-ryder-roles-list/",
-      "published_at": "Thu, 01 Jan 2026 01:21:12 GMT",
-      "bullets": [
-        "• Winona Ryder has defied the standards of Hollywood that phase out female performers once they have reached a certain age",
-        "• She played the infamous Abigail Williams in the 1996 film adaptation of Arthur Miller's play The Crucible",
-        "• The play was a pointed commentary about the Salem Witch Trials "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Winona Ryder has defied the standards of Hollywood that phase out female performers once they have reached a certain age",
-          "• She played the infamous Abigail Williams in the 1996 film adaptation of Arthur Miller's play The Crucible"
-        ],
-        "hopeful_bullets": [
-          "• Winona Ryder has defied the standards of Hollywood that phase out female performers once they have reached a certain age"
-        ],
-        "stakes_bullets": [
-          "• She played the infamous Abigail Williams in the 1996 film adaptation of Arthur Miller's play The Crucible"
-        ]
-      },
-      "read_minutes": 8,
-      "cluster_id": "85530eca464d"
-    },
-    {
-      "id": "0cbc77a4cc3b",
-      "title": "Batman's Perfect Origin Was Somehow Improved 50 Years Ago With the Debut of Leslie Thompkins",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/batmans-perfect-origin-improved-leslie-thompkins/",
-      "published_at": "Thu, 01 Jan 2026 01:20:21 GMT",
-      "bullets": [
-        "• In every Look Back, we examine a comic book issue from 10/25/50 years ago (plus a wild card every month with a fifth week in it) This time around, I head to December 1975 for Denny O'Neil and Dick Giordano somehow IMPROVING on Batman's origin "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.624
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In every Look Back, we examine a comic book issue from 10/25/50 years ago (plus a wild card every month with a fifth week in it) This time around, I head to December 1975 for Denny O'Neil and Dick Giordano somehow IMPROVING on Batman's origin "
-        ],
-        "hopeful_bullets": [
-          "• In every Look Back, we examine a comic book issue from 10/25/50 years ago (plus a wild card every month with a fifth week in it) This time around, I head to December 1975 for Denny O'Neil and Dick Giordano somehow IMPROVING on Batman's origin "
-        ],
-        "stakes_bullets": [
-          "• In every Look Back, we examine a comic book issue from 10/25/50 years ago (plus a wild card every month with a fifth week in it) This time around, I head to December 1975 for Denny O'Neil and Dick Giordano somehow IMPROVING on Batman's origin "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "dd607404f9a1"
+      "cluster_id": "3046f7120065"
     },
     {
       "id": "68db3889537a",
@@ -5801,36 +5765,36 @@
     },
     {
       "id": "5192e0464b37",
-      "title": "Teen who died after falling 500 feet from California's Mt Baldy identified",
+      "title": "Teen who died after falling 150 metres from California's Mt Baldy identified",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/crrnlw4rxeyo?at_medium=RSS&at_campaign=rss",
       "published_at": "Thu, 01 Jan 2026 00:40:36 GMT",
       "bullets": [
-        "• Marcus Alexander Muench Casanova, 19, found dead after falling 500 feet from California's Mt Baldy",
+        "• Marcus Alexander Muench Casanova, 19, died after falling 150 metres from California's Mt Baldy",
         "• Casanova went hiking on 29 December with a friend who was able to call for help after the teen fell",
         "• The friend had to hike away from the fall site near the Devil's Backbone trail to an area with cell reception "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.984
+        "score": 0.959
       },
       "moods": {
         "brief_bullets": [
-          "• Marcus Alexander Muench Casanova, 19, found dead after falling 500 feet from California's Mt Baldy",
+          "• Marcus Alexander Muench Casanova, 19, died after falling 150 metres from California's Mt Baldy",
           "• Casanova went hiking on 29 December with a friend who was able to call for help after the teen fell"
         ],
         "hopeful_bullets": [
           "• Casanova went hiking on 29 December with a friend who was able to call for help after the teen fell"
         ],
         "stakes_bullets": [
-          "• Marcus Alexander Muench Casanova, 19, found dead after falling 500 feet from California's Mt Baldy",
+          "• Marcus Alexander Muench Casanova, 19, died after falling 150 metres from California's Mt Baldy",
           "• Casanova went hiking on 29 December with a friend who was able to call for help after the teen fell",
           "• The friend had to hike away from the fall site near the Devil's Backbone trail to an area with cell reception "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "a10b2840f8ed"
+      "cluster_id": "950ca3f21783"
     },
     {
       "id": "aaa480a0a7c8",
@@ -6427,37 +6391,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "bbde830b9b91"
-    },
-    {
-      "id": "4c8a780d2c08",
-      "title": "A rare cancer-fighting plant compound has finally been decoded",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/12/251227082728.htm",
-      "published_at": "Sat, 27 Dec 2025 10:05:08 EST",
-      "bullets": [
-        "• Researchers at UBC Okanagan have figured out how plants make mitraphylline, a rare natural substance linked to anti-cancer effects",
-        "• By identifying two key enzymes that shape and twist molecules into their final form, the team solved a puzzle that had stumped scientists for years "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.795
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers at UBC Okanagan have figured out how plants make mitraphylline, a rare natural substance linked to anti-cancer effects",
-          "• By identifying two key enzymes that shape and twist molecules into their final form, the team solved a puzzle that had stumped scientists for years "
-        ],
-        "hopeful_bullets": [
-          "• Researchers at UBC Okanagan have figured out how plants make mitraphylline, a rare natural substance linked to anti-cancer effects",
-          "• By identifying two key enzymes that shape and twist molecules into their final form, the team solved a puzzle that had stumped scientists for years "
-        ],
-        "stakes_bullets": [
-          "• Researchers at UBC Okanagan have figured out how plants make mitraphylline, a rare natural substance linked to anti-cancer effects"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "f98d942c26dd"
     },
     {
       "id": "0e38c3d82b7c",
@@ -9133,10 +9066,10 @@
       ]
     },
     {
-      "id": "f04ba470133a",
-      "topic": "400 disney fake hurt",
+      "id": "3046f7120065",
+      "topic": "180 disney fake hurt",
       "keywords": [
-        "400",
+        "180",
         "disney",
         "fake",
         "hurt",
@@ -9205,14 +9138,14 @@
       ]
     },
     {
-      "id": "a10b2840f8ed",
-      "topic": "500 california died falling",
+      "id": "950ca3f21783",
+      "topic": "150 california died falling",
       "keywords": [
-        "500",
+        "150",
         "california",
         "died",
         "falling",
-        "feet",
+        "metre",
         "teen"
       ],
       "item_ids": [
@@ -9619,6 +9552,42 @@
       ]
     },
     {
+      "id": "54cf19510dd7",
+      "topic": "behind chosen history nyc",
+      "keywords": [
+        "behind",
+        "chosen",
+        "history",
+        "nyc",
+        "station",
+        "subway"
+      ],
+      "item_ids": [
+        "c7af3e322685"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
+      "id": "5d1ef535699c",
+      "topic": "alleged boat drug killing",
+      "keywords": [
+        "alleged",
+        "boat",
+        "drug",
+        "killing",
+        "military",
+        "strike"
+      ],
+      "item_ids": [
+        "81c5c873488a"
+      ],
+      "outlets": [
+        "NPR Topics: News"
+      ]
+    },
+    {
       "id": "92b67efc05b8",
       "topic": "capitol does happen riot",
       "keywords": [
@@ -9753,42 +9722,6 @@
       ],
       "item_ids": [
         "d5cbe9cc157e"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "8dbcf1ee52dc",
-      "topic": "brother family illnes isolated",
-      "keywords": [
-        "brother",
-        "family",
-        "illnes",
-        "isolated",
-        "mental",
-        "now"
-      ],
-      "item_ids": [
-        "ce6fd64aff43"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "2fb08e55ef04",
-      "topic": "food holiday mayo out",
-      "keywords": [
-        "food",
-        "holiday",
-        "mayo",
-        "out",
-        "reclaim",
-        "ukrainian"
-      ],
-      "item_ids": [
-        "bf5901e5b1c9"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10504,6 +10437,24 @@
       ]
     },
     {
+      "id": "a80de7dbdb32",
+      "topic": "astronomer collision galaxy ring",
+      "keywords": [
+        "astronomer",
+        "collision",
+        "galaxy",
+        "ring",
+        "stunning",
+        "year"
+      ],
+      "item_ids": [
+        "1764508aabc6"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "8260949004fe",
       "topic": "deep finally link missing",
       "keywords": [
@@ -10656,24 +10607,6 @@
       ],
       "item_ids": [
         "efebffa34e66"
-      ],
-      "outlets": [
-        "All Top News -- ScienceDaily"
-      ]
-    },
-    {
-      "id": "f98d942c26dd",
-      "topic": "cancer compound fighting finally",
-      "keywords": [
-        "cancer",
-        "compound",
-        "fighting",
-        "finally",
-        "plant",
-        "rare"
-      ],
-      "item_ids": [
-        "4c8a780d2c08"
       ],
       "outlets": [
         "All Top News -- ScienceDaily"
@@ -10886,42 +10819,6 @@
       ],
       "item_ids": [
         "495e7dd4872e"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "b26f34db288b",
-      "topic": "cancellation center kennedy prompt",
-      "keywords": [
-        "cancellation",
-        "center",
-        "kennedy",
-        "prompt",
-        "renaming",
-        "round"
-      ],
-      "item_ids": [
-        "51024c135f4b"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "84ca54a1ada2",
-      "topic": "administration care child freezing",
-      "keywords": [
-        "administration",
-        "care",
-        "child",
-        "freezing",
-        "fund",
-        "trump"
-      ],
-      "item_ids": [
-        "bd6a68b4f1b2"
       ],
       "outlets": [
         "NPR Topics: Politics"
@@ -13057,6 +12954,150 @@
       ]
     },
     {
+      "id": "a6310f527a2c",
+      "topic": "2025 gaming high lows",
+      "keywords": [
+        "2025",
+        "gaming",
+        "high",
+        "lows",
+        "pivotal",
+        "year"
+      ],
+      "item_ids": [
+        "701311524919"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "6841b4333544",
+      "topic": "finale review serie stranger",
+      "keywords": [
+        "finale",
+        "review",
+        "serie",
+        "stranger",
+        "thing",
+        "tragic"
+      ],
+      "item_ids": [
+        "c726f9343450"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "56e07a6c4298",
+      "topic": "episode greatest remain star",
+      "keywords": [
+        "episode",
+        "greatest",
+        "remain",
+        "star",
+        "trek",
+        "worf"
+      ],
+      "item_ids": [
+        "bb1ca4c55219"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "590f234425c2",
+      "topic": "anime best every major",
+      "keywords": [
+        "anime",
+        "best",
+        "every",
+        "major",
+        "service",
+        "streaming"
+      ],
+      "item_ids": [
+        "8e7caec2f3fe"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "62b39d90bc88",
+      "topic": "batman joker revealed secret",
+      "keywords": [
+        "batman",
+        "joker",
+        "revealed",
+        "secret",
+        "shocking",
+        "year"
+      ],
+      "item_ids": [
+        "86e88a7ac89d"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "a683a8dd0f9f",
+      "topic": "2026 comic coming level",
+      "keywords": [
+        "2026",
+        "comic",
+        "coming",
+        "level",
+        "next",
+        "wait"
+      ],
+      "item_ids": [
+        "67efc7504208"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "a274b4a320e1",
+      "topic": "akame debut kill million",
+      "keywords": [
+        "akame",
+        "debut",
+        "kill",
+        "million",
+        "viewer",
+        "watched"
+      ],
+      "item_ids": [
+        "d9961a1793c2"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "87aecdf0b63a",
+      "topic": "doctor goes killing spree",
+      "keywords": [
+        "doctor",
+        "goes",
+        "killing",
+        "spree",
+        "strange",
+        "weirdest"
+      ],
+      "item_ids": [
+        "416d4c0b1efc"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "9007fa26a4df",
       "topic": "best later ps2 rpg",
       "keywords": [
@@ -13087,149 +13128,6 @@
       ],
       "item_ids": [
         "ea57298b9f5b"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "8ccd2f536f03",
-      "topic": "ball dragon must super",
-      "keywords": [
-        "ball",
-        "dragon",
-        "must",
-        "super",
-        "throw",
-        "toyotarou"
-      ],
-      "item_ids": [
-        "98532632c632"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "973836af16f9",
-      "topic": "anime fans perfect season",
-      "keywords": [
-        "anime",
-        "fans",
-        "perfect",
-        "season",
-        "stranger",
-        "thing"
-      ],
-      "item_ids": [
-        "51eb0090254c"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "263ef18b125a",
-      "topic": "anticipated comic crossover epic",
-      "keywords": [
-        "anticipated",
-        "comic",
-        "crossover",
-        "epic",
-        "event",
-        "most"
-      ],
-      "item_ids": [
-        "3df04f700294"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "7a0c4ce0e961",
-      "topic": "apple away pluribu sci",
-      "keywords": [
-        "apple",
-        "away",
-        "pluribu",
-        "sci",
-        "take",
-        "thing"
-      ],
-      "item_ids": [
-        "20e99c3229dd"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "eaa0db084f05",
-      "topic": "game genesi greatest later",
-      "keywords": [
-        "game",
-        "genesi",
-        "greatest",
-        "later",
-        "sega",
-        "year"
-      ],
-      "item_ids": [
-        "19272c7face2"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "8283ea924b97",
-      "topic": "best movie netflix right",
-      "keywords": [
-        "best",
-        "movie",
-        "netflix",
-        "right",
-        "thriller",
-        "watch"
-      ],
-      "item_ids": [
-        "c513e9ca3b37"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "85530eca464d",
-      "topic": "best ranked role ryder",
-      "keywords": [
-        "best",
-        "ranked",
-        "role",
-        "ryder",
-        "winona"
-      ],
-      "item_ids": [
-        "a4134396f0ab"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "dd607404f9a1",
-      "topic": "batman improved origin perfect",
-      "keywords": [
-        "batman",
-        "improved",
-        "origin",
-        "perfect",
-        "somehow",
-        "year"
-      ],
-      "item_ids": [
-        "0cbc77a4cc3b"
       ],
       "outlets": [
         "CBR"
@@ -13414,6 +13312,24 @@
       ]
     },
     {
+      "id": "26cfc2d19eb8",
+      "topic": "blonde cathartic eve ignite",
+      "keywords": [
+        "blonde",
+        "cathartic",
+        "eve",
+        "ignite",
+        "non",
+        "rockin"
+      ],
+      "item_ids": [
+        "e0277b029951"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "90dd761c6d1e",
       "topic": "bring carey eve heat",
       "keywords": [
@@ -13570,24 +13486,6 @@
       ],
       "item_ids": [
         "0060680bcdd9"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "9f28e5bb14de",
-      "topic": "cover del jennifer lana",
-      "keywords": [
-        "cover",
-        "del",
-        "jennifer",
-        "lana",
-        "lopez",
-        "watch"
-      ],
-      "item_ids": [
-        "e9c51116aba4"
       ],
       "outlets": [
         "Music News"
