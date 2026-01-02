@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T11:57:04Z",
+  "generated_at": "2026-01-02T12:13:45Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -28,40 +28,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "592ecc5047c1"
-    },
-    {
-      "id": "c7af3e322685",
-      "title": "The history behind the NYC subway station chosen for Mamdani's swearing-in",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/31/nx-s1-5662726/mamdani-nyc-subway-station-history",
-      "published_at": "Wed, 31 Dec 2025 23:05:02 -0500",
-      "bullets": [
-        "• Zohran Mamdani chose a decommissioned subway station beneath City Hall as the venue for his swearing-in ceremony",
-        "• The site, which closed 80 years ago, is noted for its architectural grandeur with chandeliers, glass skylights and tiled vaulted tunnels",
-        "• The Democratic socialist opted to take the oath of office past midnight on New Year's Eve "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Zohran Mamdani chose a decommissioned subway station beneath City Hall as the venue for his swearing-in ceremony",
-          "• The site, which closed 80 years ago, is noted for its architectural grandeur with chandeliers, glass skylights and tiled vaulted tunnels"
-        ],
-        "hopeful_bullets": [
-          "• Zohran Mamdani chose a decommissioned subway station beneath City Hall as the venue for his swearing-in ceremony",
-          "• The site, which closed 80 years ago, is noted for its architectural grandeur with chandeliers, glass skylights and tiled vaulted tunnels"
-        ],
-        "stakes_bullets": [
-          "• Zohran Mamdani chose a decommissioned subway station beneath City Hall as the venue for his swearing-in ceremony",
-          "• The site, which closed 80 years ago, is noted for its architectural grandeur with chandeliers, glass skylights and tiled vaulted tunnels",
-          "• The Democratic socialist opted to take the oath of office past midnight on New Year's Eve "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "54cf19510dd7"
     },
     {
       "id": "dc3323add4de",
@@ -133,42 +99,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "dd241135cf48"
-    },
-    {
-      "id": "81c5c873488a",
-      "title": "U.S. military strikes 5 more alleged drug boats, killing 8",
-      "outlet": "NPR Topics: Politics",
-      "url": "https://www.npr.org/2025/12/31/g-s1-104194/us-military-strikes-drug-boats-survivors",
-      "published_at": "Wed, 31 Dec 2025 21:44:45 -0500",
-      "bullets": [
-        "• U.S",
-        "• military strikes 5 more alleged drug-smuggling boats, killing 8 people over two days",
-        "• The military did not reveal where the attacks occurred",
-        "• Previous attacks have been in the Caribbean Sea and in the eastern Pacific Ocean",
-        "• Video of Tuesday's attack shows three boats traveling in a close formation, which is unusual "
-      ],
-      "category": "Politics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.967
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• military strikes 5 more alleged drug-smuggling boats, killing 8 people over two days"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• military strikes 5 more alleged drug-smuggling boats, killing 8 people over two days"
-        ],
-        "stakes_bullets": [
-          "• U.S",
-          "• military strikes 5 more alleged drug-smuggling boats, killing 8 people over two days",
-          "• The military did not reveal where the attacks occurred"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "5d1ef535699c"
     },
     {
       "id": "1764508aabc6",
@@ -366,6 +296,38 @@
       },
       "read_minutes": 6,
       "cluster_id": "71b85425022f"
+    },
+    {
+      "id": "8b8095e8a05a",
+      "title": "USPS changes may delay postmark dates. What it means for your tax returns, ballots, bills and more",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2025/12/31/usps-postmark-delays-taxes-ballots-bills.html",
+      "published_at": "Wed, 31 Dec 2025 18:13:40 GMT",
+      "bullets": [
+        "• Postal Service expects an increase in delays between when you mail something and when it is postmarked",
+        "• A postmark shows the date your mail was processed, and historically has been applied the same day you mail an item",
+        "• Postal Service is implementing operational changes in an effort to shore up its finances and modernize its infrastructure "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Postal Service expects an increase in delays between when you mail something and when it is postmarked",
+          "• A postmark shows the date your mail was processed, and historically has been applied the same day you mail an item"
+        ],
+        "hopeful_bullets": [
+          "• Postal Service expects an increase in delays between when you mail something and when it is postmarked",
+          "• A postmark shows the date your mail was processed, and historically has been applied the same day you mail an item"
+        ],
+        "stakes_bullets": [
+          "• Postal Service expects an increase in delays between when you mail something and when it is postmarked"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "ee4288935951"
     },
     {
       "id": "718b1d622cea",
@@ -3674,73 +3636,6 @@
       "cluster_id": "77f4bde70c68"
     },
     {
-      "id": "d56d7e35a7c8",
-      "title": "In newly released testimony, Jack Smith defends his investigations into Trump",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/01/nx-s1-5664080/in-newly-released-testimony-jack-smith-defends-his-investigations-into-trump",
-      "published_at": "Thu, 01 Jan 2026 16:41:13 -0500",
-      "bullets": [
-        "• In newly released testimony, Jack Smith defends his investigations into Trump",
-        "• Smith led two probes - one focused on Trump's attempt to overthrow the 2020 election results",
-        "• The Department of Justice dropped both cases once Trump won another term, and Smith resigned in the final weeks of Biden's tenure "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.795
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In newly released testimony, Jack Smith defends his investigations into Trump",
-          "• Smith led two probes - one focused on Trump's attempt to overthrow the 2020 election results"
-        ],
-        "hopeful_bullets": [
-          "• In newly released testimony, Jack Smith defends his investigations into Trump",
-          "• Smith led two probes - one focused on Trump's attempt to overthrow the 2020 election results"
-        ],
-        "stakes_bullets": [
-          "• Smith led two probes - one focused on Trump's attempt to overthrow the 2020 election results"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "5ebeca005658"
-    },
-    {
-      "id": "79bd10d63e28",
-      "title": "Mobile crisis teams shut down amid funding troubles",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/01/nx-s1-5652076/mobile-crisis-teams-shut-down-amid-funding-troubles",
-      "published_at": "Thu, 01 Jan 2026 16:41:05 -0500",
-      "bullets": [
-        "• Mobile crisis response teams respond to 911 calls about people in mental crisis",
-        "• Many cities send teams of mental health professionals to respond to those calls instead of police",
-        "• But the funding for teams like that can be unreliable",
-        "• Some crisis units have now closed for lack of consistent funding "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Mobile crisis response teams respond to 911 calls about people in mental crisis",
-          "• Many cities send teams of mental health professionals to respond to those calls instead of police"
-        ],
-        "hopeful_bullets": [
-          "• Mobile crisis response teams respond to 911 calls about people in mental crisis",
-          "• Many cities send teams of mental health professionals to respond to those calls instead of police"
-        ],
-        "stakes_bullets": [
-          "• Mobile crisis response teams respond to 911 calls about people in mental crisis",
-          "• Many cities send teams of mental health professionals to respond to those calls instead of police",
-          "• But the funding for teams like that can be unreliable"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "35b5cf5209be"
-    },
-    {
       "id": "8f80340335f2",
       "title": "Watch Chappell Roan, Mariah Carey, Post Malone, and More Perform at Dick Clark’s New Year’s Rockin’ Eve",
       "outlet": "RSS: News",
@@ -3878,7 +3773,7 @@
     {
       "id": "2bd4107817e0",
       "title": "Congress failed to extend Obamacare subsidies. This Democrat says Trump can save them",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Politics",
       "url": "https://www.npr.org/2026/01/01/g-s1-104216/obamacare-subsidies-congress-peter-welch",
       "published_at": "Thu, 01 Jan 2026 15:48:39 -0500",
       "bullets": [
@@ -3887,7 +3782,7 @@
         "• The compromise is only doable with the support of President Trump, a Democratic senator says",
         "• President Trump has a \"major role in this,\" he says "
       ],
-      "category": "General",
+      "category": "Politics",
       "sentiment": {
         "label": "negative",
         "score": 0.995
@@ -4272,71 +4167,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "ed6a8e05c27d"
-    },
-    {
-      "id": "577e30db1eb8",
-      "title": "14 Best Fitness Trackers (2026), Tested and Reviewed",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/gallery/best-fitness-tracker/",
-      "published_at": "Thu, 01 Jan 2026 12:00:00 +0000",
-      "bullets": [
-        "• The best fitness tracker should be comfortable, attractive, and tailored to your lifestyle",
-        "• Garmin Vivoactive 6 ($300) works well with Android and iOS",
-        "• Oura Ring ($349) and the Whoop MG ($359 with annual subscription) are our top picks "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The best fitness tracker should be comfortable, attractive, and tailored to your lifestyle",
-          "• Garmin Vivoactive 6 ($300) works well with Android and iOS"
-        ],
-        "hopeful_bullets": [
-          "• The best fitness tracker should be comfortable, attractive, and tailored to your lifestyle",
-          "• Garmin Vivoactive 6 ($300) works well with Android and iOS"
-        ],
-        "stakes_bullets": [
-          "• The best fitness tracker should be comfortable, attractive, and tailored to your lifestyle",
-          "• Garmin Vivoactive 6 ($300) works well with Android and iOS",
-          "• Oura Ring ($349) and the Whoop MG ($359 with annual subscription) are our top picks "
-        ]
-      },
-      "read_minutes": 11,
-      "cluster_id": "add614d543c1"
-    },
-    {
-      "id": "104606807835",
-      "title": "How to Start (and Keep) a Healthy Habit (2026)",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/story/how-to-start-a-healthy-habit/",
-      "published_at": "Thu, 01 Jan 2026 12:00:00 +0000",
-      "bullets": [
-        "• The first and most important part of changing something in your life is to forget the resolutions and forget the goals",
-        "• As WIRED editor Adrienne So says, “reduce friction wherever you can’t” Avoid distractions as a way to bypass some of the friction holding you back from your goals "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.986
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The first and most important part of changing something in your life is to forget the resolutions and forget the goals",
-          "• As WIRED editor Adrienne So says, “reduce friction wherever you can’t” Avoid distractions as a way to bypass some of the friction holding you back from your goals "
-        ],
-        "hopeful_bullets": [
-          "• As WIRED editor Adrienne So says, “reduce friction wherever you can’t” Avoid distractions as a way to bypass some of the friction holding you back from your goals "
-        ],
-        "stakes_bullets": [
-          "• The first and most important part of changing something in your life is to forget the resolutions and forget the goals",
-          "• As WIRED editor Adrienne So says, “reduce friction wherever you can’t” Avoid distractions as a way to bypass some of the friction holding you back from your goals "
-        ]
-      },
-      "read_minutes": 10,
-      "cluster_id": "4829abf2d85c"
     },
     {
       "id": "6ed28f80fc65",
@@ -6573,6 +6403,104 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "27228099a93e",
+      "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/gallery/best-meal-kit-services-1/",
+      "published_at": "Fri, 02 Jan 2026 11:34:00 +0000",
+      "bullets": [
+        "• The Best Meal Delivery Services and Meal Kits of 2026",
+        "• HelloFresh and Blue Apron have each undergone updates that expand both convenience and options",
+        "• The WIRED Reviews team has tested and retested more than two dozen meal kit delivery services since 2017 "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Best Meal Delivery Services and Meal Kits of 2026",
+          "• HelloFresh and Blue Apron have each undergone updates that expand both convenience and options"
+        ],
+        "hopeful_bullets": [
+          "• The Best Meal Delivery Services and Meal Kits of 2026",
+          "• HelloFresh and Blue Apron have each undergone updates that expand both convenience and options"
+        ],
+        "stakes_bullets": [
+          "• HelloFresh and Blue Apron have each undergone updates that expand both convenience and options"
+        ]
+      },
+      "read_minutes": 17,
+      "cluster_id": "f5193849c1fb"
+    },
+    {
+      "id": "1f590d0ed867",
+      "title": "Here's How Long You Should Walk Every Day to Prevent Back Pain",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/story/heres-how-long-you-should-walk-every-day-to-prevent-back-pain/",
+      "published_at": "Fri, 02 Jan 2026 11:30:00 +0000",
+      "bullets": [
+        "• Back pain is a serious health issue affecting hundreds of millions of people worldwide",
+        "• People who walk more than 100 minutes every day have a 23 percent lower risk of lower back problems",
+        "• Researchers conducted a large-scale, four-year follow-up study of 11,194 adults (average age 55)"
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.781
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Back pain is a serious health issue affecting hundreds of millions of people worldwide",
+          "• People who walk more than 100 minutes every day have a 23 percent lower risk of lower back problems"
+        ],
+        "hopeful_bullets": [
+          "• Back pain is a serious health issue affecting hundreds of millions of people worldwide",
+          "• People who walk more than 100 minutes every day have a 23 percent lower risk of lower back problems"
+        ],
+        "stakes_bullets": [
+          "• Back pain is a serious health issue affecting hundreds of millions of people worldwide",
+          "• People who walk more than 100 minutes every day have a 23 percent lower risk of lower back problems"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "59683c9d00bc"
+    },
+    {
+      "id": "a681c5e4fc09",
+      "title": "Trump warns US will intervene if Iran kills protesters",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Fri, 02 Jan 2026 11:27:29 GMT",
+      "bullets": [
+        "• Trump warns US will intervene if Iran kills protesters protesters",
+        "• He wrote: \"We are locked and loaded and ready to go\" in a brief post on social media post",
+        "• Senior adviser to Iran's Supreme Leader, Ayatollah Ali Khamenei, responded by saying Trump should \"be careful\" if he intervened "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Trump warns US will intervene if Iran kills protesters protesters",
+          "• He wrote: \"We are locked and loaded and ready to go\" in a brief post on social media post"
+        ],
+        "hopeful_bullets": [
+          "• Trump warns US will intervene if Iran kills protesters protesters",
+          "• He wrote: \"We are locked and loaded and ready to go\" in a brief post on social media post"
+        ],
+        "stakes_bullets": [
+          "• Trump warns US will intervene if Iran kills protesters protesters",
+          "• Senior adviser to Iran's Supreme Leader, Ayatollah Ali Khamenei, responded by saying Trump should \"be careful\" if he intervened "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c5ce5477768a"
+    },
+    {
       "id": "16f091932e56",
       "title": "Buffett says Berkshire has the best odds of any company for lasting a century as he hands over reins",
       "outlet": "US Top News and Analysis",
@@ -7638,7 +7566,7 @@
     },
     {
       "id": "62ee3b9ba55f",
-      "title": "A fire in an Swiss ski resort bar has left about 40 people dead",
+      "title": "A fire in a Swiss ski resort bar has left about 40 people dead",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2026/01/02/g-s1-104257/a-fire-in-an-swiss-ski-resort-bar-has-left-about-40-people-dead",
       "published_at": "Fri, 02 Jan 2026 03:51:50 -0500",
@@ -7909,38 +7837,6 @@
       "cluster_id": "45a793d3cb31"
     },
     {
-      "id": "f6bf4c16b0bb",
-      "title": "Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html",
-      "published_at": "Fri, 02 Jan 2026 02:49:50 GMT",
-      "bullets": [
-        "• Some 6,000 workers' vehicles pour into the site each morning",
-        "• At roughly $50 billion per site, OpenAI's Stargate projects add up to about $850 billion in spending",
-        "• \"This is what it takes to deliver AI,\" CEO Sam Altman told CNBC in September "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.983
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Some 6,000 workers' vehicles pour into the site each morning",
-          "• At roughly $50 billion per site, OpenAI's Stargate projects add up to about $850 billion in spending"
-        ],
-        "hopeful_bullets": [
-          "• Some 6,000 workers' vehicles pour into the site each morning",
-          "• At roughly $50 billion per site, OpenAI's Stargate projects add up to about $850 billion in spending"
-        ],
-        "stakes_bullets": [
-          "• At roughly $50 billion per site, OpenAI's Stargate projects add up to about $850 billion in spending"
-        ]
-      },
-      "read_minutes": 12,
-      "cluster_id": "03428d0a2acc"
-    },
-    {
       "id": "54b56dd362d0",
       "title": "'You're invisible, you don't exist' - life without a birth certificate",
       "outlet": "BBC News",
@@ -7973,40 +7869,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "128032b82d26"
-    },
-    {
-      "id": "337b1678ab68",
-      "title": "Deadly clashes between protesters and security forces as Iran unrest grows",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Fri, 02 Jan 2026 02:08:41 GMT",
-      "bullets": [
-        "• Two people killed in clashes between protesters and security forces in Lordegan, Iran",
-        "• Three more killed in Azna and another in Kouhdasht, semi-official Fars news agency reports",
-        "• Videos posted on social media show clashes between demonstrators and security force "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.991
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Two people killed in clashes between protesters and security forces in Lordegan, Iran",
-          "• Three more killed in Azna and another in Kouhdasht, semi-official Fars news agency reports"
-        ],
-        "hopeful_bullets": [
-          "• Two people killed in clashes between protesters and security forces in Lordegan, Iran",
-          "• Three more killed in Azna and another in Kouhdasht, semi-official Fars news agency reports"
-        ],
-        "stakes_bullets": [
-          "• Two people killed in clashes between protesters and security forces in Lordegan, Iran",
-          "• Three more killed in Azna and another in Kouhdasht, semi-official Fars news agency reports",
-          "• Videos posted on social media show clashes between demonstrators and security force "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "a70dc66f8b96"
     },
     {
       "id": "caf0f4d7484c",
@@ -9062,6 +8924,24 @@
   ],
   "clusters": [
     {
+      "id": "c5ce5477768a",
+      "topic": "intervene iran kill protester",
+      "keywords": [
+        "intervene",
+        "iran",
+        "kill",
+        "protester",
+        "trump",
+        "warn"
+      ],
+      "item_ids": [
+        "a681c5e4fc09"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "f54293e936c2",
       "topic": "drug maduro open talk",
       "keywords": [
@@ -9094,24 +8974,6 @@
       ],
       "item_ids": [
         "54b56dd362d0"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
-      "id": "a70dc66f8b96",
-      "topic": "between clashe deadly force",
-      "keywords": [
-        "between",
-        "clashe",
-        "deadly",
-        "force",
-        "protester",
-        "security"
-      ],
-      "item_ids": [
-        "337b1678ab68"
       ],
       "outlets": [
         "BBC News"
@@ -9694,60 +9556,6 @@
       ]
     },
     {
-      "id": "5ebeca005658",
-      "topic": "defend jack newly released",
-      "keywords": [
-        "defend",
-        "jack",
-        "newly",
-        "released",
-        "smith",
-        "testimony"
-      ],
-      "item_ids": [
-        "d56d7e35a7c8"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "35b5cf5209be",
-      "topic": "crisi down funding mobile",
-      "keywords": [
-        "crisi",
-        "down",
-        "funding",
-        "mobile",
-        "shut",
-        "team"
-      ],
-      "item_ids": [
-        "79bd10d63e28"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "0d9c0b10b2cb",
-      "topic": "congres democrat extend failed",
-      "keywords": [
-        "congres",
-        "democrat",
-        "extend",
-        "failed",
-        "obamacare",
-        "subsidie"
-      ],
-      "item_ids": [
-        "2bd4107817e0"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "dc4fc061bfc5",
       "topic": "any berkshire best buffett",
       "keywords": [
@@ -9910,21 +9718,57 @@
       ]
     },
     {
-      "id": "03428d0a2acc",
-      "topic": "center data dust giant",
+      "id": "ee4288935951",
+      "topic": "change date delay mean",
       "keywords": [
-        "center",
-        "data",
-        "dust",
-        "giant",
-        "tech",
-        "year"
+        "change",
+        "date",
+        "delay",
+        "mean",
+        "postmark",
+        "usps"
       ],
       "item_ids": [
-        "f6bf4c16b0bb"
+        "8b8095e8a05a"
       ],
       "outlets": [
         "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "f5193849c1fb",
+      "topic": "best delivery meal restaurant",
+      "keywords": [
+        "best",
+        "delivery",
+        "meal",
+        "restaurant",
+        "service",
+        "tested"
+      ],
+      "item_ids": [
+        "27228099a93e"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "59683c9d00bc",
+      "topic": "day every here long",
+      "keywords": [
+        "day",
+        "every",
+        "here",
+        "long",
+        "prevent",
+        "walk"
+      ],
+      "item_ids": [
+        "1f590d0ed867"
+      ],
+      "outlets": [
+        "WIRED"
       ]
     },
     {
@@ -10063,41 +9907,6 @@
       ],
       "item_ids": [
         "3a3090361010"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "add614d543c1",
-      "topic": "2026 best fitnes reviewed",
-      "keywords": [
-        "2026",
-        "best",
-        "fitnes",
-        "reviewed",
-        "tested",
-        "tracker"
-      ],
-      "item_ids": [
-        "577e30db1eb8"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
-      "id": "4829abf2d85c",
-      "topic": "2026 habit healthy keep",
-      "keywords": [
-        "2026",
-        "habit",
-        "healthy",
-        "keep",
-        "start"
-      ],
-      "item_ids": [
-        "104606807835"
       ],
       "outlets": [
         "WIRED"
@@ -10774,6 +10583,24 @@
       ]
     },
     {
+      "id": "0d9c0b10b2cb",
+      "topic": "congres democrat extend failed",
+      "keywords": [
+        "congres",
+        "democrat",
+        "extend",
+        "failed",
+        "obamacare",
+        "subsidie"
+      ],
+      "item_ids": [
+        "2bd4107817e0"
+      ],
+      "outlets": [
+        "NPR Topics: Politics"
+      ]
+    },
+    {
       "id": "fd606e813e17",
       "topic": "limit media rideshare right",
       "keywords": [
@@ -10822,42 +10649,6 @@
       ],
       "item_ids": [
         "b2fc866a83c7"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "54cf19510dd7",
-      "topic": "behind chosen history nyc",
-      "keywords": [
-        "behind",
-        "chosen",
-        "history",
-        "nyc",
-        "station",
-        "subway"
-      ],
-      "item_ids": [
-        "c7af3e322685"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
-      ]
-    },
-    {
-      "id": "5d1ef535699c",
-      "topic": "alleged boat drug killing",
-      "keywords": [
-        "alleged",
-        "boat",
-        "drug",
-        "killing",
-        "military",
-        "strike"
-      ],
-      "item_ids": [
-        "81c5c873488a"
       ],
       "outlets": [
         "NPR Topics: Politics"
