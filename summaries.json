@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T05:21:04Z",
+  "generated_at": "2026-01-02T06:05:28Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -298,39 +298,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "ae41a9c91e2e"
-    },
-    {
-      "id": "bc29aea740b0",
-      "title": "Trump’s first vetoes of his second term hit bipartisan infrastructure projects, draw accusations of retribution",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2025/12/31/trumps-first-vetoes-hit-bipartisan-infrastructure-projects.html",
-      "published_at": "Wed, 31 Dec 2025 19:54:16 GMT",
-      "bullets": [
-        "• President Donald Trump vetoes infrastructure bills in Colorado and Florida",
-        "• The bills would support a pipeline to provide clean drinking water to rural communities in Colorado",
-        "• The bill would reduce the payments local communities must provide to the federal government for the construction of the Arkansas Valley Conduit, a pipeline "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.941
-      },
-      "moods": {
-        "brief_bullets": [
-          "• President Donald Trump vetoes infrastructure bills in Colorado and Florida",
-          "• The bills would support a pipeline to provide clean drinking water to rural communities in Colorado"
-        ],
-        "hopeful_bullets": [
-          "• The bill would reduce the payments local communities must provide to the federal government for the construction of the Arkansas Valley Conduit, a pipeline "
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump vetoes infrastructure bills in Colorado and Florida",
-          "• The bills would support a pipeline to provide clean drinking water to rural communities in Colorado",
-          "• The bill would reduce the payments local communities must provide to the federal government for the construction of the Arkansas Valley Conduit, a pipeline "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "662717f542ed"
     },
     {
       "id": "8e0375322557",
@@ -7428,6 +7395,71 @@
       "cluster_id": "76c61b84461a"
     },
     {
+      "id": "2650741b764c",
+      "title": "South Korea's Kospi hits record high as region trades mixed at the start of 2026",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/02/asia-pacific-markets-asx-200-hang-seng-index.html",
+      "published_at": "Fri, 02 Jan 2026 05:28:48 GMT",
+      "bullets": [
+        "• South Korea's Kospi hit a new record Friday as Asia-Pacific markets kicked off the new year trading mixed",
+        "• Heavyweight Samsung Electronics was about 6% higher after the company reportedly claimed that customers praised its high memory bandwidth chips",
+        "• Singapore's economy expanded 5.7% year on year for the fourth quarter, driven mainly by strong manufacturing growth "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• South Korea's Kospi hit a new record Friday as Asia-Pacific markets kicked off the new year trading mixed",
+          "• Heavyweight Samsung Electronics was about 6% higher after the company reportedly claimed that customers praised its high memory bandwidth chips"
+        ],
+        "hopeful_bullets": [
+          "• South Korea's Kospi hit a new record Friday as Asia-Pacific markets kicked off the new year trading mixed",
+          "• Singapore's economy expanded 5.7% year on year for the fourth quarter, driven mainly by strong manufacturing growth "
+        ],
+        "stakes_bullets": [
+          "• Heavyweight Samsung Electronics was about 6% higher after the company reportedly claimed that customers praised its high memory bandwidth chips",
+          "• Singapore's economy expanded 5.7% year on year for the fourth quarter, driven mainly by strong manufacturing growth "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "f28f66a330a8"
+    },
+    {
+      "id": "0263153f109a",
+      "title": "Baidu’s semiconductor unit Kunlunxin files for Hong Kong listing amid AI chip boom in China",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/02/baidus-semiconductor-kunlunxin-hong-kong-ipo-ai-chips-listing-china.html",
+      "published_at": "Fri, 02 Jan 2026 05:08:12 GMT",
+      "bullets": [
+        "• Chinese tech giant Baidu has announced plans to spin off its artificial intelligence chip subsidiary, Kunlunxin, and list it in Hong Kong",
+        "• The company said in an announcement Friday that it had confidentially filed a listing application on the Hong Kong Stock Exchange",
+        "• Details of the offering, including size and structure, remain undecided",
+        "• The move comes against a backdrop of intensifying U.S.-China tech tensions "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.982
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Chinese tech giant Baidu has announced plans to spin off its artificial intelligence chip subsidiary, Kunlunxin, and list it in Hong Kong",
+          "• The company said in an announcement Friday that it had confidentially filed a listing application on the Hong Kong Stock Exchange"
+        ],
+        "hopeful_bullets": [
+          "• The move comes against a backdrop of intensifying U.S.-China tech tensions "
+        ],
+        "stakes_bullets": [
+          "• Chinese tech giant Baidu has announced plans to spin off its artificial intelligence chip subsidiary, Kunlunxin, and list it in Hong Kong"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "569995a689f7"
+    },
+    {
       "id": "c0d820e0a45d",
       "title": "Winter blooming of hundreds of plants in UK ‘visible signal’ of climate breakdown",
       "outlet": "Environment | The Guardian",
@@ -8058,39 +8090,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "128032b82d26"
-    },
-    {
-      "id": "2650741b764c",
-      "title": "South Korea's Kospi hits record high as region trades mixed at the start of 2026",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/02/asia-pacific-markets-asx-200-hang-seng-index.html",
-      "published_at": "Fri, 02 Jan 2026 02:12:15 GMT",
-      "bullets": [
-        "• South Korea's Kospi hit a new record Friday as Asia-Pacific markets kicked off the new year trading mixed",
-        "• Heavyweight Samsung Electronics was about 3% higher after the company reportedly claimed that customers praised its high memory bandwidth, or HBM chips",
-        "• Singapore's economy expanded 5.7% year on year for the fourth quarter, driven mainly by strong manufacturing growth in the three months through December "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• South Korea's Kospi hit a new record Friday as Asia-Pacific markets kicked off the new year trading mixed",
-          "• Heavyweight Samsung Electronics was about 3% higher after the company reportedly claimed that customers praised its high memory bandwidth, or HBM chips"
-        ],
-        "hopeful_bullets": [
-          "• South Korea's Kospi hit a new record Friday as Asia-Pacific markets kicked off the new year trading mixed",
-          "• Singapore's economy expanded 5.7% year on year for the fourth quarter, driven mainly by strong manufacturing growth in the three months through December "
-        ],
-        "stakes_bullets": [
-          "• Heavyweight Samsung Electronics was about 3% higher after the company reportedly claimed that customers praised its high memory bandwidth, or HBM chips",
-          "• Singapore's economy expanded 5.7% year on year for the fourth quarter, driven mainly by strong manufacturing growth in the three months through December "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "f28f66a330a8"
     },
     {
       "id": "337b1678ab68",
@@ -9940,6 +9939,24 @@
       ]
     },
     {
+      "id": "569995a689f7",
+      "topic": "baidu file hong kunlunxin",
+      "keywords": [
+        "baidu",
+        "file",
+        "hong",
+        "kunlunxin",
+        "semiconductor",
+        "unit"
+      ],
+      "item_ids": [
+        "0263153f109a"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "0fd9af14f7aa",
       "topic": "economy fourth highest jump",
       "keywords": [
@@ -9994,6 +10011,24 @@
       ]
     },
     {
+      "id": "175e500cc44a",
+      "topic": "account investment like powered",
+      "keywords": [
+        "account",
+        "investment",
+        "like",
+        "powered",
+        "roth",
+        "super"
+      ],
+      "item_ids": [
+        "3bb89dd00c14"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
       "id": "5c00f4202c80",
       "topic": "best google street wall",
       "keywords": [
@@ -10024,42 +10059,6 @@
       ],
       "item_ids": [
         "1d65998692da"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "662717f542ed",
-      "topic": "first hit second term",
-      "keywords": [
-        "first",
-        "hit",
-        "second",
-        "term",
-        "trump",
-        "vetoe"
-      ],
-      "item_ids": [
-        "bc29aea740b0"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
-      "id": "175e500cc44a",
-      "topic": "account investment like powered",
-      "keywords": [
-        "account",
-        "investment",
-        "like",
-        "powered",
-        "roth",
-        "super"
-      ],
-      "item_ids": [
-        "3bb89dd00c14"
       ],
       "outlets": [
         "US Top News and Analysis"
