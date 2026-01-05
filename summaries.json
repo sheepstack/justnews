@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-04T23:59:36Z",
+  "generated_at": "2026-01-05T00:16:13Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -2522,6 +2522,40 @@
       "cluster_id": "85c2f547443d"
     },
     {
+      "id": "bf633272b8c2",
+      "title": "High tides and heavy rain flood parts of California’s Bay Area",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/04/rain-flooding-california-bay-area",
+      "published_at": "Sun, 04 Jan 2026 23:41:30 GMT",
+      "bullets": [
+        "• Floodwaters rise to 2.56ft on Saturday in San Francisco, the highest since 1998",
+        "• Five northern counties remain under a flood watch, with up to 3in (7.6cm) of rain possible through Monday night",
+        "• At least a foot (0.3 meters) of snow likely in the mountains "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.893
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Floodwaters rise to 2.56ft on Saturday in San Francisco, the highest since 1998",
+          "• Five northern counties remain under a flood watch, with up to 3in (7.6cm) of rain possible through Monday night"
+        ],
+        "hopeful_bullets": [
+          "• Floodwaters rise to 2.56ft on Saturday in San Francisco, the highest since 1998",
+          "• Five northern counties remain under a flood watch, with up to 3in (7.6cm) of rain possible through Monday night"
+        ],
+        "stakes_bullets": [
+          "• Floodwaters rise to 2.56ft on Saturday in San Francisco, the highest since 1998",
+          "• Five northern counties remain under a flood watch, with up to 3in (7.6cm) of rain possible through Monday night",
+          "• At least a foot (0.3 meters) of snow likely in the mountains "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "5aee0e2c883e"
+    },
+    {
       "id": "8d72bac64703",
       "title": "Every Major Movie Sequel Releasing in 2026",
       "outlet": "CBR",
@@ -2584,8 +2618,40 @@
           "• Sinners has the most nominations of all movies, followed by One Battle After Another and Hamnet "
         ]
       },
-      "read_minutes": 8,
+      "read_minutes": 9,
       "cluster_id": "8dac1a3f360d"
+    },
+    {
+      "id": "c26b6227adf4",
+      "title": "Evangeline Lilly reveals she has brain damage after hitting her head in fall",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jan/05/evangeline-lilly-brain-damage-beach-fall",
+      "published_at": "Sun, 04 Jan 2026 23:29:32 GMT",
+      "bullets": [
+        "• Actress Evangeline Lilly has revealed she has brain damage",
+        "• The 46-year-old actor fainted and hit her head on a rock in May",
+        "• A recent brain scan has revealed that 'almost every area in my brain is functioning at a decreased capacity' The actor, known for her roles in Lost, The Hobbit and The Marvel Cinematic Universe, shared the news on Instagram "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Actress Evangeline Lilly has revealed she has brain damage",
+          "• The 46-year-old actor fainted and hit her head on a rock in May"
+        ],
+        "hopeful_bullets": [
+          "• Actress Evangeline Lilly has revealed she has brain damage",
+          "• The 46-year-old actor fainted and hit her head on a rock in May"
+        ],
+        "stakes_bullets": [
+          "• A recent brain scan has revealed that 'almost every area in my brain is functioning at a decreased capacity' The actor, known for her roles in Lost, The Hobbit and The Marvel Cinematic Universe, shared the news on Instagram "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "6ecc93a2baf6"
     },
     {
       "id": "6937552fa6cd",
@@ -2620,6 +2686,39 @@
       },
       "read_minutes": 5,
       "cluster_id": "5dcd6aad5fc8"
+    },
+    {
+      "id": "e5d6a905713c",
+      "title": "‘Extremely dangerous precedent’ set by Trump’s attack on Venezuela, six countries warn – live",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jan/04/nicolas-maduro-jailed-us-attack-venezuela-donald-trump-reaction-latest-news-updates-live",
+      "published_at": "Sun, 04 Jan 2026 23:20:58 GMT",
+      "bullets": [
+        "• It's a lively day in international politics after the US intervention in Venezuela",
+        "• Spain, Brazil, Chile, Colombia, Mexico and Uruguay put out a strong joint statement",
+        "• Venezuela’s defense minister, General Vladímir Padrino López, issued a statement recognizing the vice-president, Delcy Rodríguez, as the acting president "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• It's a lively day in international politics after the US intervention in Venezuela",
+          "• Spain, Brazil, Chile, Colombia, Mexico and Uruguay put out a strong joint statement"
+        ],
+        "hopeful_bullets": [
+          "• Spain, Brazil, Chile, Colombia, Mexico and Uruguay put out a strong joint statement"
+        ],
+        "stakes_bullets": [
+          "• It's a lively day in international politics after the US intervention in Venezuela",
+          "• Spain, Brazil, Chile, Colombia, Mexico and Uruguay put out a strong joint statement",
+          "• Venezuela’s defense minister, General Vladímir Padrino López, issued a statement recognizing the vice-president, Delcy Rodríguez, as the acting president "
+        ]
+      },
+      "read_minutes": 15,
+      "cluster_id": "9ef139d71da0"
     },
     {
       "id": "115eb46db591",
@@ -2752,39 +2851,6 @@
       "cluster_id": "cdd6ca9087a2"
     },
     {
-      "id": "e5d6a905713c",
-      "title": "‘Extremely dangerous precedent’ set by Trump’s attack on Venezuela, six countries warn – live",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jan/04/nicolas-maduro-jailed-us-attack-venezuela-donald-trump-reaction-latest-news-updates-live",
-      "published_at": "Sun, 04 Jan 2026 22:59:26 GMT",
-      "bullets": [
-        "• It's a lively day in international politics after the US intervention in Venezuela",
-        "• Spain, Brazil, Chile, Colombia, Mexico and Uruguay put out a strong joint statement",
-        "• Venezuela’s defense minister, General Vladímir Padrino López, issued a statement recognizing the vice-president, Delcy Rodríguez, as the acting president "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• It's a lively day in international politics after the US intervention in Venezuela",
-          "• Spain, Brazil, Chile, Colombia, Mexico and Uruguay put out a strong joint statement"
-        ],
-        "hopeful_bullets": [
-          "• Spain, Brazil, Chile, Colombia, Mexico and Uruguay put out a strong joint statement"
-        ],
-        "stakes_bullets": [
-          "• It's a lively day in international politics after the US intervention in Venezuela",
-          "• Spain, Brazil, Chile, Colombia, Mexico and Uruguay put out a strong joint statement",
-          "• Venezuela’s defense minister, General Vladímir Padrino López, issued a statement recognizing the vice-president, Delcy Rodríguez, as the acting president "
-        ]
-      },
-      "read_minutes": 14,
-      "cluster_id": "9ef139d71da0"
-    },
-    {
       "id": "118758139f32",
       "title": "1 Year Before Alita: Battle Angel, Rosa Salazar Made 1 of Netflix's Most Rewatched Movies",
       "outlet": "CBR",
@@ -2887,38 +2953,6 @@
       },
       "read_minutes": 5,
       "cluster_id": "02b6b9937d1e"
-    },
-    {
-      "id": "0cd6195bba12",
-      "title": "5 Mandatory Star Trek Episodes You Can't Skip",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/star-trek-must-watch-episodes-list/",
-      "published_at": "Sun, 04 Jan 2026 22:25:12 GMT",
-      "bullets": [
-        "• Star Trek: The Original Series, Season 1, Episode 28, \"The City on the Edge of Forever\" is one of the greatest Star Trek episodes of all time",
-        "• The episode is where prospective Star Trek fans should naturally start their journey, considering it's the first installment "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Star Trek: The Original Series, Season 1, Episode 28, \"The City on the Edge of Forever\" is one of the greatest Star Trek episodes of all time",
-          "• The episode is where prospective Star Trek fans should naturally start their journey, considering it's the first installment "
-        ],
-        "hopeful_bullets": [
-          "• Star Trek: The Original Series, Season 1, Episode 28, \"The City on the Edge of Forever\" is one of the greatest Star Trek episodes of all time",
-          "• The episode is where prospective Star Trek fans should naturally start their journey, considering it's the first installment "
-        ],
-        "stakes_bullets": [
-          "• Star Trek: The Original Series, Season 1, Episode 28, \"The City on the Edge of Forever\" is one of the greatest Star Trek episodes of all time",
-          "• The episode is where prospective Star Trek fans should naturally start their journey, considering it's the first installment "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8621a6c2140e"
     },
     {
       "id": "5d47088c4b79",
@@ -3319,7 +3353,7 @@
     {
       "id": "4fa731ce2970",
       "title": "Miami mayor calls for Trump to 'immediately' reinstate TPS for Venezuelans",
-      "outlet": "NPR Topics: Politics",
+      "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2026/01/04/nx-s1-5666340/venezuela-nicolas-maduro-venezuelans-asylum-seekers-refugee",
       "published_at": "Sun, 04 Jan 2026 18:33:13 -0500",
       "bullets": [
@@ -3328,7 +3362,7 @@
         "• Supreme Court in May allowed temporary protections to more than 350,000 Venezuelans under TPS",
         "• Miami has a large population of Venezuelan expats "
       ],
-      "category": "Politics",
+      "category": "General",
       "sentiment": {
         "label": "negative",
         "score": 0.882
@@ -3354,7 +3388,7 @@
     {
       "id": "0fcf035132c8",
       "title": "‘They lied to our face’: Democrats decry Trump’s military raid on Venezuela",
-      "outlet": "World news | The Guardian",
+      "outlet": "US news | The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jan/04/democrats-trump-white-house-venezuela",
       "published_at": "Sun, 04 Jan 2026 18:12:27 GMT",
       "bullets": [
@@ -3362,7 +3396,7 @@
         "• The 1973 War Powers Resolution requires presidents to seek approval from Congress for military engagements",
         "• Yet in the case of Saturday’s dawn bombardment on Venezuela, only Congress has the power to declare war "
       ],
-      "category": "World",
+      "category": "US",
       "sentiment": {
         "label": "negative",
         "score": 0.993
@@ -3848,38 +3882,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "d545052a672a"
-    },
-    {
-      "id": "67fb0a2305f0",
-      "title": "Republican claims of ‘terrorism’ leave everyone unsafe, Muslim leader warns",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/04/republican-governors-muslim-community-attacks",
-      "published_at": "Sun, 04 Jan 2026 13:00:08 GMT",
-      "bullets": [
-        "• The Council on American-Islamic Relations deputy director warns that Republican governors’ steps to declare his organization a “terrorist organization’s” won’t stop with the Muslim community",
-        "• Texas governor Greg Abbott designated Cair and the Muslim Brotherhood as “foreign terrorist and transnational criminal organizations”"
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.821
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Council on American-Islamic Relations deputy director warns that Republican governors’ steps to declare his organization a “terrorist organization’s” won’t stop with the Muslim community",
-          "• Texas governor Greg Abbott designated Cair and the Muslim Brotherhood as “foreign terrorist and transnational criminal organizations”"
-        ],
-        "hopeful_bullets": [
-          "• The Council on American-Islamic Relations deputy director warns that Republican governors’ steps to declare his organization a “terrorist organization’s” won’t stop with the Muslim community",
-          "• Texas governor Greg Abbott designated Cair and the Muslim Brotherhood as “foreign terrorist and transnational criminal organizations”"
-        ],
-        "stakes_bullets": [
-          "• The Council on American-Islamic Relations deputy director warns that Republican governors’ steps to declare his organization a “terrorist organization’s” won’t stop with the Muslim community",
-          "• Texas governor Greg Abbott designated Cair and the Muslim Brotherhood as “foreign terrorist and transnational criminal organizations”"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "ebc54b50d473"
     },
     {
       "id": "333c3c086f8a",
@@ -4709,40 +4711,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "5a99fb2b9f08"
-    },
-    {
-      "id": "ab83dd3631f1",
-      "title": "Venezuela opposition in limbo as the world wonders who is in charge",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/04/g-s1-104439/venezuelans-wonder-who-in-charge",
-      "published_at": "Sun, 04 Jan 2026 00:19:41 -0500",
-      "bullets": [
-        "• U.S",
-        "• President Donald Trump says Venezuela will be \"run\" by the end of the year",
-        "• Venezuela's vice president has been sworn in as acting president",
-        "• President Nicolas Maduro's government has been overthrown by the U.N",
-        "• military"
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.965
-      },
-      "moods": {
-        "brief_bullets": [
-          "• U.S",
-          "• President Donald Trump says Venezuela will be \"run\" by the end of the year"
-        ],
-        "hopeful_bullets": [
-          "• U.S",
-          "• President Donald Trump says Venezuela will be \"run\" by the end of the year"
-        ],
-        "stakes_bullets": [
-          "• President Donald Trump says Venezuela will be \"run\" by the end of the year"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "57f6377b73cf"
     },
     {
       "id": "fb57ddda1651",
@@ -6282,6 +6250,38 @@
       },
       "read_minutes": 3,
       "cluster_id": "b235c16fb40e"
+    },
+    {
+      "id": "d34031e09f19",
+      "title": "4 Western Performances That Still Haven’t Been Topped",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/iconic-western-performances-list/",
+      "published_at": "Mon, 05 Jan 2026 00:05:13 GMT",
+      "bullets": [
+        "• There Will Be Blood's Daniel Plainview is one of the most iconic Westerns",
+        "• Daniel Day-Daniel's performance in the film still holds up as an amazing performance",
+        "• The Western genre has too many stories, characters, and combat scenes to name "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.965
+      },
+      "moods": {
+        "brief_bullets": [
+          "• There Will Be Blood's Daniel Plainview is one of the most iconic Westerns",
+          "• Daniel Day-Daniel's performance in the film still holds up as an amazing performance"
+        ],
+        "hopeful_bullets": [
+          "• There Will Be Blood's Daniel Plainview is one of the most iconic Westerns",
+          "• Daniel Day-Daniel's performance in the film still holds up as an amazing performance"
+        ],
+        "stakes_bullets": [
+          "• There Will Be Blood's Daniel Plainview is one of the most iconic Westerns"
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "4ea785b3d6fb"
     },
     {
       "id": "a26a8ab19edb",
@@ -9311,6 +9311,24 @@
       ]
     },
     {
+      "id": "6ecc93a2baf6",
+      "topic": "brain damage evangeline lilly",
+      "keywords": [
+        "brain",
+        "damage",
+        "evangeline",
+        "lilly",
+        "reveal",
+        "she"
+      ],
+      "item_ids": [
+        "c26b6227adf4"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "9ef139d71da0",
       "topic": "attack dangerou extremely precedent",
       "keywords": [
@@ -9383,21 +9401,21 @@
       ]
     },
     {
-      "id": "93c5a6b8410c",
-      "topic": "decry democrat face lied",
+      "id": "5aee0e2c883e",
+      "topic": "flood heavy high part",
       "keywords": [
-        "decry",
-        "democrat",
-        "face",
-        "lied",
-        "military",
-        "trump"
+        "flood",
+        "heavy",
+        "high",
+        "part",
+        "rain",
+        "tide"
       ],
       "item_ids": [
-        "0fcf035132c8"
+        "bf633272b8c2"
       ],
       "outlets": [
-        "World news | The Guardian"
+        "US news | The Guardian"
       ]
     },
     {
@@ -9413,6 +9431,24 @@
       ],
       "item_ids": [
         "5d47088c4b79"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "93c5a6b8410c",
+      "topic": "decry democrat face lied",
+      "keywords": [
+        "decry",
+        "democrat",
+        "face",
+        "lied",
+        "military",
+        "trump"
+      ],
+      "item_ids": [
+        "0fcf035132c8"
       ],
       "outlets": [
         "US news | The Guardian"
@@ -9509,21 +9545,21 @@
       ]
     },
     {
-      "id": "ebc54b50d473",
-      "topic": "claim everyone leave republican",
+      "id": "0b109ed36db1",
+      "topic": "call immediately mayor miami",
       "keywords": [
-        "claim",
-        "everyone",
-        "leave",
-        "republican",
-        "terrorism",
-        "unsafe"
+        "call",
+        "immediately",
+        "mayor",
+        "miami",
+        "reinstate",
+        "trump"
       ],
       "item_ids": [
-        "67fb0a2305f0"
+        "4fa731ce2970"
       ],
       "outlets": [
-        "US news | The Guardian"
+        "NPR Topics: News"
       ]
     },
     {
@@ -9681,24 +9717,6 @@
       ],
       "item_ids": [
         "162cce1dc2cc"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "57f6377b73cf",
-      "topic": "charge limbo opposition venezuela",
-      "keywords": [
-        "charge",
-        "limbo",
-        "opposition",
-        "venezuela",
-        "wonder",
-        "world"
-      ],
-      "item_ids": [
-        "ab83dd3631f1"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -10748,24 +10766,6 @@
       ],
       "outlets": [
         "NPR Topics: Science"
-      ]
-    },
-    {
-      "id": "0b109ed36db1",
-      "topic": "call immediately mayor miami",
-      "keywords": [
-        "call",
-        "immediately",
-        "mayor",
-        "miami",
-        "reinstate",
-        "trump"
-      ],
-      "item_ids": [
-        "4fa731ce2970"
-      ],
-      "outlets": [
-        "NPR Topics: Politics"
       ]
     },
     {
@@ -12931,6 +12931,23 @@
       ]
     },
     {
+      "id": "4ea785b3d6fb",
+      "topic": "haven performance still topped",
+      "keywords": [
+        "haven",
+        "performance",
+        "still",
+        "topped",
+        "western"
+      ],
+      "item_ids": [
+        "d34031e09f19"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "3c85cf8e73d1",
       "topic": "2026 every major movie",
       "keywords": [
@@ -13087,23 +13104,6 @@
       ],
       "item_ids": [
         "bd9d7989d880"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "8621a6c2140e",
-      "topic": "episode mandatory skip star",
-      "keywords": [
-        "episode",
-        "mandatory",
-        "skip",
-        "star",
-        "trek"
-      ],
-      "item_ids": [
-        "0cd6195bba12"
       ],
       "outlets": [
         "CBR"
