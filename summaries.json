@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-08T08:02:19Z",
+  "generated_at": "2026-01-08T09:13:14Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -608,6 +608,40 @@
       "cluster_id": "1aa65f44529c"
     },
     {
+      "id": "5ee51b835813",
+      "title": "Nick Reiner's lawyer removes himself from murder case",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0ke5lx6kyno?at_medium=RSS&at_campaign=rss",
+      "published_at": "Wed, 07 Jan 2026 23:11:35 GMT",
+      "bullets": [
+        "• Nick Reiner is charged with murdering his Hollywood director father Rob Reiner and mother Michele",
+        "• Reiner, 32, did not enter a plea to charges of first-degree murder of his parents",
+        "• Alan Jackson, who has previously represented Harvey Weinstein and Kevin Spacey, withdrew from the case "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.988
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Nick Reiner is charged with murdering his Hollywood director father Rob Reiner and mother Michele",
+          "• Reiner, 32, did not enter a plea to charges of first-degree murder of his parents"
+        ],
+        "hopeful_bullets": [
+          "• Nick Reiner is charged with murdering his Hollywood director father Rob Reiner and mother Michele",
+          "• Reiner, 32, did not enter a plea to charges of first-degree murder of his parents"
+        ],
+        "stakes_bullets": [
+          "• Nick Reiner is charged with murdering his Hollywood director father Rob Reiner and mother Michele",
+          "• Reiner, 32, did not enter a plea to charges of first-degree murder of his parents",
+          "• Alan Jackson, who has previously represented Harvey Weinstein and Kevin Spacey, withdrew from the case "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "1034ec5dbafb"
+    },
+    {
       "id": "3e5b06e8b366",
       "title": "Cable news networks scramble to cover fatal Minnesota ICE shooting – with both caution and commentary",
       "outlet": "US news | The Guardian",
@@ -969,39 +1003,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "b6359d4c5b4a"
-    },
-    {
-      "id": "d6a7b6c1f40b",
-      "title": "Woman in Minnesota fatally shot by ICE agent during raid, video shows",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/07/minneapolis-shooting-immigration-crackdown",
-      "published_at": "Wed, 07 Jan 2026 22:05:06 GMT",
-      "bullets": [
-        "• Federal agents shot and killed a woman during a large-scale immigration enforcement operation in Minneapolis on Wednesday",
-        "• The victim has been identified as 37-year-old Renee Nicole MacklinGood, a US citizen and mother of three",
-        "• Immigration and Customs Enforcement had sent a surge of agents into the city in recent days tied in part to allegations of fraud involving Somali residents "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.962
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Federal agents shot and killed a woman during a large-scale immigration enforcement operation in Minneapolis on Wednesday",
-          "• The victim has been identified as 37-year-old Renee Nicole MacklinGood, a US citizen and mother of three"
-        ],
-        "hopeful_bullets": [
-          "• Immigration and Customs Enforcement had sent a surge of agents into the city in recent days tied in part to allegations of fraud involving Somali residents "
-        ],
-        "stakes_bullets": [
-          "• Federal agents shot and killed a woman during a large-scale immigration enforcement operation in Minneapolis on Wednesday",
-          "• The victim has been identified as 37-year-old Renee Nicole MacklinGood, a US citizen and mother of three",
-          "• Immigration and Customs Enforcement had sent a surge of agents into the city in recent days tied in part to allegations of fraud involving Somali residents "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "8603d5165ee2"
     },
     {
       "id": "9563de7e04f6",
@@ -1685,40 +1686,6 @@
       "cluster_id": "99527bccb440"
     },
     {
-      "id": "191345f74269",
-      "title": "Trump actively discussing potentially buying Greenland, White House says",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly39pgmvrzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Wed, 07 Jan 2026 19:39:42 GMT",
-      "bullets": [
-        "• US President Donald Trump and his officials are \"actively\" discussing a potential offer to buy Greenland, White House says",
-        "• Greenland and Denmark have repeatedly stressed the island was not for sale",
-        "• Greenland's location between North America and the Arctic makes it well placed for early warning systems "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US President Donald Trump and his officials are \"actively\" discussing a potential offer to buy Greenland, White House says",
-          "• Greenland and Denmark have repeatedly stressed the island was not for sale"
-        ],
-        "hopeful_bullets": [
-          "• US President Donald Trump and his officials are \"actively\" discussing a potential offer to buy Greenland, White House says",
-          "• Greenland and Denmark have repeatedly stressed the island was not for sale"
-        ],
-        "stakes_bullets": [
-          "• US President Donald Trump and his officials are \"actively\" discussing a potential offer to buy Greenland, White House says",
-          "• Greenland and Denmark have repeatedly stressed the island was not for sale",
-          "• Greenland's location between North America and the Arctic makes it well placed for early warning systems "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "0965a59c70b6"
-    },
-    {
       "id": "b01afb00db98",
       "title": "‘Return to Silent Hill’ – Tickets On Sale Now for Christophe Gans’ Long-Awaited Sequel",
       "outlet": "Bloody Disgusting!",
@@ -2017,36 +1984,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "0685e65795b4"
-    },
-    {
-      "id": "61b9b8b18e0a",
-      "title": "’28 Years Later: The Bone Temple’ Rated R For Bloody Violence, Gore, Graphic Nudity",
-      "outlet": "Bloody Disgusting!",
-      "url": "https://bloody-disgusting.com/movie/3924271/28-years-later-the-bone-temple-rated-r-for-bloody-violence-gore-graphic-nudity/",
-      "published_at": "Wed, 07 Jan 2026 18:07:14 +0000",
-      "bullets": [
-        "• The MPA has given the film an R rating for “strong bloody violence, gore, graphic nudity, language throughout, and brief drug use” The fourth installment in the post-apocalyptic horror franchise opens in theaters on January 16",
-        "• Ralph Fiennes, Jack O'Connell, Alfie Williams, Erin Kellyman, and Chi Lewis-Parry star "
-      ],
-      "category": "Horror",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The MPA has given the film an R rating for “strong bloody violence, gore, graphic nudity, language throughout, and brief drug use” The fourth installment in the post-apocalyptic horror franchise opens in theaters on January 16",
-          "• Ralph Fiennes, Jack O'Connell, Alfie Williams, Erin Kellyman, and Chi Lewis-Parry star "
-        ],
-        "hopeful_bullets": [
-          "• The MPA has given the film an R rating for “strong bloody violence, gore, graphic nudity, language throughout, and brief drug use” The fourth installment in the post-apocalyptic horror franchise opens in theaters on January 16"
-        ],
-        "stakes_bullets": [
-          "• Ralph Fiennes, Jack O'Connell, Alfie Williams, Erin Kellyman, and Chi Lewis-Parry star "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "de9e866babbd"
     },
     {
       "id": "715b29df2bc8",
@@ -2778,7 +2715,7 @@
     {
       "id": "ea936777922d",
       "title": "How large is Greenland, really? Your map may be deceiving you",
-      "outlet": "NPR Topics: News",
+      "outlet": "NPR Topics: Science",
       "url": "https://www.npr.org/2026/01/07/nx-s1-5668482/greenland-mercator-map-size-distortion",
       "published_at": "Wed, 07 Jan 2026 14:01:59 -0500",
       "bullets": [
@@ -2786,7 +2723,7 @@
         "• President Trump is again floating the idea of annexing Greenland",
         "• Greenland's location between North America and Russia gives it strategic value for the U.S"
       ],
-      "category": "General",
+      "category": "Science",
       "sentiment": {
         "label": "positive",
         "score": 0.963
@@ -3014,37 +2951,6 @@
       "cluster_id": "408730e8ba3b"
     },
     {
-      "id": "6db3b2e22517",
-      "title": "Béla Fleck Withdraws From Kennedy Center Performance, Calling It ‘Charged and Political’",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/bela-fleck-kennedy-center-performance-withdraw-1235495243/",
-      "published_at": "Wed, 07 Jan 2026 09:09:27 +0000",
-      "bullets": [
-        "• Béla Fleck pulls out of upcoming performance at the Kennedy Center",
-        "• The Grammy-winning banjoist was set to perform with the National Symphony Orchestra in February",
-        "• Fleck: \"Performing there has become politically charged and political\""
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Béla Fleck pulls out of upcoming performance at the Kennedy Center",
-          "• The Grammy-winning banjoist was set to perform with the National Symphony Orchestra in February"
-        ],
-        "hopeful_bullets": [
-          "• The Grammy-winning banjoist was set to perform with the National Symphony Orchestra in February"
-        ],
-        "stakes_bullets": [
-          "• The Grammy-winning banjoist was set to perform with the National Symphony Orchestra in February"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "7701b4ce653a"
-    },
-    {
       "id": "243b599b5770",
       "title": "Japanese scientists just built human brain circuits in the lab",
       "outlet": "All Top News -- ScienceDaily",
@@ -3075,40 +2981,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "c7d18e0e2a91"
-    },
-    {
-      "id": "00c147e22801",
-      "title": "Ancient skeletons reveal viruses embedded in human DNA",
-      "outlet": "All Top News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260106224628.htm",
-      "published_at": "Wed, 07 Jan 2026 07:07:41 EST",
-      "bullets": [
-        "• Researchers have reconstructed ancient herpesvirus genomes from Iron Age and medieval Europeans, revealing that HHV-6 has been infecting humans for at least 2,500 years",
-        "• Some people inherited the virus directly in their DNA, passing it down across generations",
-        "• Study shows that these viruses evolved alongside humansâand that one strain eventually lost its ability to integrate into our chromosomes "
-      ],
-      "category": "Science",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.957
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Researchers have reconstructed ancient herpesvirus genomes from Iron Age and medieval Europeans, revealing that HHV-6 has been infecting humans for at least 2,500 years",
-          "• Some people inherited the virus directly in their DNA, passing it down across generations"
-        ],
-        "hopeful_bullets": [
-          "• Researchers have reconstructed ancient herpesvirus genomes from Iron Age and medieval Europeans, revealing that HHV-6 has been infecting humans for at least 2,500 years",
-          "• Some people inherited the virus directly in their DNA, passing it down across generations"
-        ],
-        "stakes_bullets": [
-          "• Researchers have reconstructed ancient herpesvirus genomes from Iron Age and medieval Europeans, revealing that HHV-6 has been infecting humans for at least 2,500 years",
-          "• Some people inherited the virus directly in their DNA, passing it down across generations",
-          "• Study shows that these viruses evolved alongside humansâand that one strain eventually lost its ability to integrate into our chromosomes "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "d1ad82b55cb8"
     },
     {
       "id": "98e25c188006",
@@ -3345,39 +3217,6 @@
       },
       "read_minutes": 24,
       "cluster_id": "3ca00631e3f2"
-    },
-    {
-      "id": "0674a19e9d68",
-      "title": "Hasbro's First Fanstream of 2026 Launches January 12th",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2026-01-06-hasbros-first-fanstream-of-2026-launches-january-12th/?utm_source=rss&utm_medium=rss&utm_campaign=hasbros-first-fanstream-of-2026-launches-january-12th",
-      "published_at": "Wed, 07 Jan 2026 01:35:44 +0000",
-      "bullets": [
-        "• The first 2026 Hasbro Pulse Fanstream of the year is scheduled for January 12 at 11 AM Eastern",
-        "• The Star Wars Fanstream will be exclusively available on the hasbro Pulse YouTube Channel",
-        "• It will be available exclusively on the channel's YouTube channel "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.928
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The first 2026 Hasbro Pulse Fanstream of the year is scheduled for January 12 at 11 AM Eastern",
-          "• The Star Wars Fanstream will be exclusively available on the hasbro Pulse YouTube Channel"
-        ],
-        "hopeful_bullets": [
-          "• The first 2026 Hasbro Pulse Fanstream of the year is scheduled for January 12 at 11 AM Eastern",
-          "• The Star Wars Fanstream will be exclusively available on the hasbro Pulse YouTube Channel"
-        ],
-        "stakes_bullets": [
-          "• The Star Wars Fanstream will be exclusively available on the hasbro Pulse YouTube Channel",
-          "• It will be available exclusively on the channel's YouTube channel "
-        ]
-      },
-      "read_minutes": 1,
-      "cluster_id": "4b5254e66a7e"
     },
     {
       "id": "eb12f6b6e178",
@@ -4144,40 +3983,6 @@
       "cluster_id": "6921ee0db203"
     },
     {
-      "id": "88022b530637",
-      "title": "Kathleen Kennedy's Replacements May Have Been Revealed",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2026-01-06-kathleen-kennedys-replacements-may-have-been-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=kathleen-kennedys-replacements-may-have-been-revealed",
-      "published_at": "Tue, 06 Jan 2026 15:33:39 +0000",
-      "bullets": [
-        "• According to Puck News two people will replace Kathleen Kennedy as Lucasfilm president",
-        "• Dave Filoni will take over the creative side of the studio and shape the narrative future of the franchise",
-        "• Lynwen Brennan will oversee the financial side of things "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.914
-      },
-      "moods": {
-        "brief_bullets": [
-          "• According to Puck News two people will replace Kathleen Kennedy as Lucasfilm president",
-          "• Dave Filoni will take over the creative side of the studio and shape the narrative future of the franchise"
-        ],
-        "hopeful_bullets": [
-          "• According to Puck News two people will replace Kathleen Kennedy as Lucasfilm president",
-          "• Dave Filoni will take over the creative side of the studio and shape the narrative future of the franchise"
-        ],
-        "stakes_bullets": [
-          "• According to Puck News two people will replace Kathleen Kennedy as Lucasfilm president",
-          "• Dave Filoni will take over the creative side of the studio and shape the narrative future of the franchise",
-          "• Lynwen Brennan will oversee the financial side of things "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "f82850ee9406"
-    },
-    {
       "id": "2235e9da3974",
       "title": "Kali Uchis, Lorde, and Geese to Play Governors Ball 2026",
       "outlet": "RSS: News",
@@ -4740,6 +4545,242 @@
       "cluster_id": "b5ebb78247cb"
     },
     {
+      "id": "7bc89e731c0e",
+      "title": "Meta faces China probe over acquisition of AI agent startup Manus",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/08/china-investigate-meta-acquisition-manus-export.html",
+      "published_at": "Thu, 08 Jan 2026 08:43:58 GMT",
+      "bullets": [
+        "• Meta acquired Singapore-based artificial intelligence startup Manus last month",
+        "• China's Ministry of Commerce said it will conduct an assessment and investigation into how the acquisition complies with laws and regulations concerning export controls, technology import and export, and overseas investment",
+        "• The startup was hailed as the next DeepSeek after it launched its first AI agent in March "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.958
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Meta acquired Singapore-based artificial intelligence startup Manus last month",
+          "• China's Ministry of Commerce said it will conduct an assessment and investigation into how the acquisition complies with laws and regulations concerning export controls, technology import and export, and overseas investment"
+        ],
+        "hopeful_bullets": [
+          "• Meta acquired Singapore-based artificial intelligence startup Manus last month",
+          "• China's Ministry of Commerce said it will conduct an assessment and investigation into how the acquisition complies with laws and regulations concerning export controls, technology import and export, and overseas investment"
+        ],
+        "stakes_bullets": [
+          "• China's Ministry of Commerce said it will conduct an assessment and investigation into how the acquisition complies with laws and regulations concerning export controls, technology import and export, and overseas investment"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "b34a9392a273"
+    },
+    {
+      "id": "69a457f8ec04",
+      "title": "Venezuela says 100 killed in U.S. military operation that captured Maduro",
+      "outlet": "US Top News and Analysis",
+      "url": "https://www.cnbc.com/2026/01/07/us-venezuela-military-operation-maduro-injuries-casualties.html",
+      "published_at": "Thu, 08 Jan 2026 08:18:26 GMT",
+      "bullets": [
+        "• Interior Minister Diosdado Cabello says more than 100 people were killed in the raid",
+        "• Maduro and his wife, Cilia Flores, were injured during the operation, Cabello said",
+        "• Seven U.S",
+        "• service members were injured, a Pentagon official told MS Now "
+      ],
+      "category": "Business",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.975
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Interior Minister Diosdado Cabello says more than 100 people were killed in the raid",
+          "• Maduro and his wife, Cilia Flores, were injured during the operation, Cabello said"
+        ],
+        "hopeful_bullets": [
+          "• Interior Minister Diosdado Cabello says more than 100 people were killed in the raid",
+          "• Maduro and his wife, Cilia Flores, were injured during the operation, Cabello said"
+        ],
+        "stakes_bullets": [
+          "• Interior Minister Diosdado Cabello says more than 100 people were killed in the raid",
+          "• Maduro and his wife, Cilia Flores, were injured during the operation, Cabello said",
+          "• Seven U.S"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "e504d363c4fc"
+    },
+    {
+      "id": "12ac6cf5d609",
+      "title": "Watch Robyn Showcase New Single ‘Sexistential’ on ‘Colbert’",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/robyn-sexistential-performance-colbert-1235495848/",
+      "published_at": "Thu, 08 Jan 2026 08:15:54 +0000",
+      "bullets": [
+        "• Robyn appeared on The Late Show to perform the title track of her new album Sexistential",
+        "• The Swedish pop star said she was inspired to write the song after Andre 3000 claimed no one would want to hear him rap about getting a colonoscopy",
+        "• The singer performed solo for the dynamic rendition of the song, which saw her dancing along "
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.989
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Robyn appeared on The Late Show to perform the title track of her new album Sexistential",
+          "• The Swedish pop star said she was inspired to write the song after Andre 3000 claimed no one would want to hear him rap about getting a colonoscopy"
+        ],
+        "hopeful_bullets": [
+          "• Robyn appeared on The Late Show to perform the title track of her new album Sexistential",
+          "• The Swedish pop star said she was inspired to write the song after Andre 3000 claimed no one would want to hear him rap about getting a colonoscopy"
+        ],
+        "stakes_bullets": [
+          "• Robyn appeared on The Late Show to perform the title track of her new album Sexistential",
+          "• The Swedish pop star said she was inspired to write the song after Andre 3000 claimed no one would want to hear him rap about getting a colonoscopy",
+          "• The singer performed solo for the dynamic rendition of the song, which saw her dancing along "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "a7848a0addb8"
+    },
+    {
+      "id": "51efd678970a",
+      "title": "US immigration agent fatally shoots woman in Minneapolis",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0jvnl4j1n4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 08 Jan 2026 08:11:42 GMT",
+      "bullets": [
+        "• US immigration agent fatally shoots a 37-year-old woman in Minneapolis, Minnesota",
+        "• The woman, Renee Nicole Good, had tried to run over immigration agents with her car",
+        "• Hundreds of agents have been deployed to the city as part of the White House's crackdown on illegal immigration "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.987
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US immigration agent fatally shoots a 37-year-old woman in Minneapolis, Minnesota",
+          "• The woman, Renee Nicole Good, had tried to run over immigration agents with her car"
+        ],
+        "hopeful_bullets": [
+          "• US immigration agent fatally shoots a 37-year-old woman in Minneapolis, Minnesota",
+          "• The woman, Renee Nicole Good, had tried to run over immigration agents with her car"
+        ],
+        "stakes_bullets": [
+          "• US immigration agent fatally shoots a 37-year-old woman in Minneapolis, Minnesota",
+          "• The woman, Renee Nicole Good, had tried to run over immigration agents with her car",
+          "• Hundreds of agents have been deployed to the city as part of the White House's crackdown on illegal immigration "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "1aa65f44529c"
+    },
+    {
+      "id": "6ef1e6d7916e",
+      "title": "Starfleet Academy Review: New Star Trek Series Perfectly Blends the Old & the New",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/star-trek-starfleet-academy-season-1-review/",
+      "published_at": "Thu, 08 Jan 2026 08:00:15 GMT",
+      "bullets": [
+        "• Star Trek: Starfleet Academy is the latest series in the Star Trek universe",
+        "• The series centers on the first new Starfleet cadets in more than a century",
+        "• It is a spiritual sequel to Discovery, the first of Alex Kurtzman's third-wave series "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Star Trek: Starfleet Academy is the latest series in the Star Trek universe",
+          "• The series centers on the first new Starfleet cadets in more than a century"
+        ],
+        "hopeful_bullets": [
+          "• Star Trek: Starfleet Academy is the latest series in the Star Trek universe",
+          "• The series centers on the first new Starfleet cadets in more than a century"
+        ],
+        "stakes_bullets": [
+          "• Star Trek: Starfleet Academy is the latest series in the Star Trek universe",
+          "• The series centers on the first new Starfleet cadets in more than a century",
+          "• It is a spiritual sequel to Discovery, the first of Alex Kurtzman's third-wave series "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "116e4d7432d1"
+    },
+    {
+      "id": "1f9e41aa5f05",
+      "title": "A24’s Terrifying ‘undertone’ Trailer Wants to Be Heard",
+      "outlet": "Bloody Disgusting!",
+      "url": "https://bloody-disgusting.com/movie/3924335/a24s-terrifying-undertone-trailer-wants-to-be-heard/",
+      "published_at": "Thu, 08 Jan 2026 08:00:08 +0000",
+      "bullets": [
+        "• Undertone is the feature debut of writer-director Ian Tuason",
+        "• The film follows a paranormal podcast host who moves into her dying mother's house",
+        "• It stars Nina Kiri, Kris Holden-Ried, Michèle Duquet and Keana Lyn Bastidas "
+      ],
+      "category": "Horror",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.622
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Undertone is the feature debut of writer-director Ian Tuason",
+          "• The film follows a paranormal podcast host who moves into her dying mother's house"
+        ],
+        "hopeful_bullets": [
+          "• Undertone is the feature debut of writer-director Ian Tuason",
+          "• The film follows a paranormal podcast host who moves into her dying mother's house"
+        ],
+        "stakes_bullets": [
+          "• Undertone is the feature debut of writer-director Ian Tuason",
+          "• The film follows a paranormal podcast host who moves into her dying mother's house",
+          "• It stars Nina Kiri, Kris Holden-Ried, Michèle Duquet and Keana Lyn Bastidas "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "bafcbe5e3652"
+    },
+    {
+      "id": "557266e30cd2",
+      "title": "Australia PM announces royal commission into Bondi shooting",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8x94lz0gevo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 08 Jan 2026 07:53:16 GMT",
+      "bullets": [
+        "• Australia PM announces royal commission into Bondi massacre",
+        "• Commission will examine four key areas of inquiry into last month's attack",
+        "• 15 people were killed in the attack, one of the deadliest in Australia's history",
+        "• Commission has broad powers to investigate, the ability to summon witnesses and compel them to produce documents "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.966
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Australia PM announces royal commission into Bondi massacre",
+          "• Commission will examine four key areas of inquiry into last month's attack"
+        ],
+        "hopeful_bullets": [
+          "• Australia PM announces royal commission into Bondi massacre",
+          "• Commission will examine four key areas of inquiry into last month's attack"
+        ],
+        "stakes_bullets": [
+          "• Commission will examine four key areas of inquiry into last month's attack"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "551f568774fb"
+    },
+    {
       "id": "340f4380b0ee",
       "title": "Bose Promo Code: 40% Off Bose for January 2026",
       "outlet": "WIRED",
@@ -4780,29 +4821,27 @@
       "url": "https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss",
       "published_at": "Thu, 08 Jan 2026 07:15:19 GMT",
       "bullets": [
-        "• Cambodia extradites alleged scam mastermind to China after arrest",
-        "• Chen Zhi among three Chinese nationals arrested on 6 January",
-        "• US charged the 37-year-old last October with running internet scams from Cambodia",
-        "• The UK also sanctioned his global business empire, Prince Group "
+        "• Chen Zhi is accused of masterminding a vast cryptocurrency scam in which trafficked workers were lured to forced labour camps to defraud victims globally",
+        "• He was among three Chinese nationals arrested on 6 January after a joint investigation into transnational crime lasting several months",
+        "• US charged the 37-year-old last October with running internet scams from Cambodia that it said had stolen billions in cryptocurrency",
+        "• UK sanctioned his global business empire, Prince Group "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.959
+        "score": 0.989
       },
       "moods": {
         "brief_bullets": [
-          "• Cambodia extradites alleged scam mastermind to China after arrest",
-          "• Chen Zhi among three Chinese nationals arrested on 6 January"
+          "• Chen Zhi is accused of masterminding a vast cryptocurrency scam in which trafficked workers were lured to forced labour camps to defraud victims globally",
+          "• He was among three Chinese nationals arrested on 6 January after a joint investigation into transnational crime lasting several months"
         ],
         "hopeful_bullets": [
-          "• Cambodia extradites alleged scam mastermind to China after arrest",
-          "• Chen Zhi among three Chinese nationals arrested on 6 January"
+          "• Chen Zhi is accused of masterminding a vast cryptocurrency scam in which trafficked workers were lured to forced labour camps to defraud victims globally",
+          "• He was among three Chinese nationals arrested on 6 January after a joint investigation into transnational crime lasting several months"
         ],
         "stakes_bullets": [
-          "• Cambodia extradites alleged scam mastermind to China after arrest",
-          "• Chen Zhi among three Chinese nationals arrested on 6 January",
-          "• US charged the 37-year-old last October with running internet scams from Cambodia"
+          "• US charged the 37-year-old last October with running internet scams from Cambodia that it said had stolen billions in cryptocurrency"
         ]
       },
       "read_minutes": 2,
@@ -4842,69 +4881,39 @@
       "cluster_id": "b1b10f1b6f1d"
     },
     {
-      "id": "e3cedd0f7b83",
-      "title": "The first of China’s 'AI tigers' goes public as Zhipu climbs in Hong Kong debut",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/08/china-ai-tiger-goes-ipo-zhipu-hong-kong-debut-openai-knowledge-atlas-hsi-hang-seng-listing.html",
-      "published_at": "Thu, 08 Jan 2026 07:02:30 GMT",
-      "bullets": [
-        "• Shares of Knowledge Atlas Technology JSC, better known as Zhipu, edged higher on their Hong Kong debut",
-        "• The IPO valued the firm at around HK$4.3 billion, making it one of the larger AI flotations in recent years",
-        "• The listing marks another key milestone for China's broader artificial intelligence sector "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Shares of Knowledge Atlas Technology JSC, better known as Zhipu, edged higher on their Hong Kong debut",
-          "• The IPO valued the firm at around HK$4.3 billion, making it one of the larger AI flotations in recent years"
-        ],
-        "hopeful_bullets": [
-          "• Shares of Knowledge Atlas Technology JSC, better known as Zhipu, edged higher on their Hong Kong debut",
-          "• The IPO valued the firm at around HK$4.3 billion, making it one of the larger AI flotations in recent years"
-        ],
-        "stakes_bullets": [
-          "• The IPO valued the firm at around HK$4.3 billion, making it one of the larger AI flotations in recent years"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c1dfae5a09db"
-    },
-    {
-      "id": "557266e30cd2",
-      "title": "Australia PM announces royal commission into Bondi shooting",
+      "id": "c1e046da5fc8",
+      "title": "Australia to deport British man over alleged neo-Nazi links",
       "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8x94lz0gevo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 08 Jan 2026 06:54:21 GMT",
+      "url": "https://www.bbc.com/news/articles/cgez1drnzxdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Thu, 08 Jan 2026 06:50:06 GMT",
       "bullets": [
-        "• Australia PM announces royal commission into Bondi massacre",
-        "• Commission will examine four key areas of inquiry into last month's attack",
-        "• 15 people were killed in the attack, one of the deadliest in Australia's history",
-        "• Commission has broad powers to investigate, the ability to summon witnesses and compel them to produce documents "
+        "• Ryan Turner's visa was cancelled on character grounds and he was taken into immigration detention on Tuesday",
+        "• Turner is understood to be a member of the National Socialist Network",
+        "• The group organised an anti-Jewish rally outside the New South Wales parliament last year",
+        "• The BBC has contacted the UK Foreign Office for comment "
       ],
       "category": "World",
       "sentiment": {
-        "label": "positive",
-        "score": 0.966
+        "label": "negative",
+        "score": 0.987
       },
       "moods": {
         "brief_bullets": [
-          "• Australia PM announces royal commission into Bondi massacre",
-          "• Commission will examine four key areas of inquiry into last month's attack"
+          "• Ryan Turner's visa was cancelled on character grounds and he was taken into immigration detention on Tuesday",
+          "• Turner is understood to be a member of the National Socialist Network"
         ],
         "hopeful_bullets": [
-          "• Australia PM announces royal commission into Bondi massacre",
-          "• Commission will examine four key areas of inquiry into last month's attack"
+          "• Ryan Turner's visa was cancelled on character grounds and he was taken into immigration detention on Tuesday",
+          "• Turner is understood to be a member of the National Socialist Network"
         ],
         "stakes_bullets": [
-          "• Commission will examine four key areas of inquiry into last month's attack"
+          "• Ryan Turner's visa was cancelled on character grounds and he was taken into immigration detention on Tuesday",
+          "• Turner is understood to be a member of the National Socialist Network",
+          "• The group organised an anti-Jewish rally outside the New South Wales parliament last year"
         ]
       },
-      "read_minutes": 3,
-      "cluster_id": "551f568774fb"
+      "read_minutes": 2,
+      "cluster_id": "d78e2667fe64"
     },
     {
       "id": "9849d4563599",
@@ -4969,41 +4978,6 @@
       },
       "read_minutes": 7,
       "cluster_id": "3c13c40efca4"
-    },
-    {
-      "id": "69a457f8ec04",
-      "title": "Venezuela says 100 killed in U.S. military operation that captured Maduro",
-      "outlet": "US Top News and Analysis",
-      "url": "https://www.cnbc.com/2026/01/07/us-venezuela-military-operation-maduro-injuries-casualties.html",
-      "published_at": "Thu, 08 Jan 2026 06:40:35 GMT",
-      "bullets": [
-        "• Interior Minister Diosdado Cabello said Wednesday that more than 100 people were killed in the U.S",
-        "• military operation",
-        "• Maduro and his wife, Cilia Flores, were injured during the operation, he said",
-        "• Two senior Venezuelan officials had previously said more than 70 people died in the raid "
-      ],
-      "category": "Business",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.982
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Interior Minister Diosdado Cabello said Wednesday that more than 100 people were killed in the U.S",
-          "• military operation"
-        ],
-        "hopeful_bullets": [
-          "• Interior Minister Diosdado Cabello said Wednesday that more than 100 people were killed in the U.S",
-          "• military operation"
-        ],
-        "stakes_bullets": [
-          "• Interior Minister Diosdado Cabello said Wednesday that more than 100 people were killed in the U.S",
-          "• military operation",
-          "• Maduro and his wife, Cilia Flores, were injured during the operation, he said"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "e504d363c4fc"
     },
     {
       "id": "9fa0a7f320c9",
@@ -5170,40 +5144,6 @@
       "cluster_id": "086c7fcb9881"
     },
     {
-      "id": "c317b3c96b53",
-      "title": "Children in Gaza return to school after years without formal education",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62vmn30j3yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 08 Jan 2026 06:11:11 GMT",
-      "bullets": [
-        "• Children in Gaza City return to school after two years without formal education",
-        "• More than 97% of schools were damaged or destroyed during the war",
-        "• Many have had no formal education for nearly two years, but this is the first return to normal life "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.994
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Children in Gaza City return to school after two years without formal education",
-          "• More than 97% of schools were damaged or destroyed during the war"
-        ],
-        "hopeful_bullets": [
-          "• Children in Gaza City return to school after two years without formal education",
-          "• More than 97% of schools were damaged or destroyed during the war"
-        ],
-        "stakes_bullets": [
-          "• Children in Gaza City return to school after two years without formal education",
-          "• More than 97% of schools were damaged or destroyed during the war",
-          "• Many have had no formal education for nearly two years, but this is the first return to normal life "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "570f2566a650"
-    },
-    {
       "id": "415caa43c90d",
       "title": "Litter-Robot Promo Codes and Deals: Up to $150 Off",
       "outlet": "WIRED",
@@ -5309,7 +5249,7 @@
       "published_at": "Thu, 08 Jan 2026 06:00:02 GMT",
       "bullets": [
         "• Dog food accounts for 1% of the UK’s total greenhouse gas emissions, research finds",
-        "• The highest-impact foods are responsible for up to 65 times more emissions than the lowest-rated options",
+        "• The highest-impact foods were responsible for up to 65 times more emissions than the lowest-rated options",
         "• The findings will leave pet owners torn between giving their dogs the most delicious food and minimising their impact on the climate "
       ],
       "category": "Environment",
@@ -5320,14 +5260,14 @@
       "moods": {
         "brief_bullets": [
           "• Dog food accounts for 1% of the UK’s total greenhouse gas emissions, research finds",
-          "• The highest-impact foods are responsible for up to 65 times more emissions than the lowest-rated options"
+          "• The highest-impact foods were responsible for up to 65 times more emissions than the lowest-rated options"
         ],
         "hopeful_bullets": [
           "• Dog food accounts for 1% of the UK’s total greenhouse gas emissions, research finds",
-          "• The highest-impact foods are responsible for up to 65 times more emissions than the lowest-rated options"
+          "• The highest-impact foods were responsible for up to 65 times more emissions than the lowest-rated options"
         ],
         "stakes_bullets": [
-          "• The highest-impact foods are responsible for up to 65 times more emissions than the lowest-rated options",
+          "• The highest-impact foods were responsible for up to 65 times more emissions than the lowest-rated options",
           "• The findings will leave pet owners torn between giving their dogs the most delicious food and minimising their impact on the climate "
         ]
       },
@@ -5535,40 +5475,6 @@
       "cluster_id": "c68b2b974074"
     },
     {
-      "id": "51efd678970a",
-      "title": "US immigration agent fatally shoots woman in Minneapolis",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0jvnl4j1n4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "Thu, 08 Jan 2026 04:43:46 GMT",
-      "bullets": [
-        "• US immigration agent fatally shoots woman in Minneapolis, Minnesota, sparking war of words",
-        "• Department of Homeland Security said the woman, Renee Nicole Good, was a \"violent rioter\" who tried to run over agents",
-        "• Hundreds of ICE agents have been deployed to Minneapolis, in the state of Minnesota, as part of the White House's crackdown on illegal immigration "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.985
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US immigration agent fatally shoots woman in Minneapolis, Minnesota, sparking war of words",
-          "• Department of Homeland Security said the woman, Renee Nicole Good, was a \"violent rioter\" who tried to run over agents"
-        ],
-        "hopeful_bullets": [
-          "• US immigration agent fatally shoots woman in Minneapolis, Minnesota, sparking war of words",
-          "• Department of Homeland Security said the woman, Renee Nicole Good, was a \"violent rioter\" who tried to run over agents"
-        ],
-        "stakes_bullets": [
-          "• US immigration agent fatally shoots woman in Minneapolis, Minnesota, sparking war of words",
-          "• Department of Homeland Security said the woman, Renee Nicole Good, was a \"violent rioter\" who tried to run over agents",
-          "• Hundreds of ICE agents have been deployed to Minneapolis, in the state of Minnesota, as part of the White House's crackdown on illegal immigration "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "1aa65f44529c"
-    },
-    {
       "id": "da936a40b8f8",
       "title": "6 Greatest Shows of the 1960s, Ranked",
       "outlet": "CBR",
@@ -5770,6 +5676,40 @@
       "cluster_id": "384d140768c8"
     },
     {
+      "id": "a65fd67e0ac1",
+      "title": "Scientists find exercise rivals therapy for depression",
+      "outlet": "All Top News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
+      "published_at": "Thu, 08 Jan 2026 03:30:18 EST",
+      "bullets": [
+        "• Scientists find exercise rivals therapy for depression",
+        "• Light to moderate activity over multiple sessions worked best, with few side effects",
+        "• Compared with antidepressants, exercise showed similar benefits, though the evidence was less certain",
+        "• Depression affects more than 280 million people worldwide and contributes significantly to disability "
+      ],
+      "category": "Science",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.741
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Scientists find exercise rivals therapy for depression",
+          "• Light to moderate activity over multiple sessions worked best, with few side effects"
+        ],
+        "hopeful_bullets": [
+          "• Scientists find exercise rivals therapy for depression",
+          "• Light to moderate activity over multiple sessions worked best, with few side effects"
+        ],
+        "stakes_bullets": [
+          "• Light to moderate activity over multiple sessions worked best, with few side effects",
+          "• Depression affects more than 280 million people worldwide and contributes significantly to disability "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "20e50388028a"
+    },
+    {
       "id": "3d3ac3274e13",
       "title": "Soylent Green's Chilling Message Still Hits Hard",
       "outlet": "CBR",
@@ -5865,6 +5805,41 @@
       },
       "read_minutes": 6,
       "cluster_id": "599e6afd0a3f"
+    },
+    {
+      "id": "a04920233aa1",
+      "title": "Snow and ice ground flights and choke highways in parts of Europe",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/08/nx-s1-5670932/weather-flights-europe",
+      "published_at": "Thu, 08 Jan 2026 03:11:56 -0500",
+      "bullets": [
+        "• Snow and ice ground flights and choke highways in parts of Europe",
+        "• More than 1,000 stranded passengers spent the night at Amsterdam's international airport",
+        "• At least 800 flights were canceled Wednesday at the airport, one of Europe's busiest aviation hubs",
+        "• Power restored to thousands of households in Berlin after four days without electricity "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.976
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Snow and ice ground flights and choke highways in parts of Europe",
+          "• More than 1,000 stranded passengers spent the night at Amsterdam's international airport"
+        ],
+        "hopeful_bullets": [
+          "• Snow and ice ground flights and choke highways in parts of Europe",
+          "• More than 1,000 stranded passengers spent the night at Amsterdam's international airport"
+        ],
+        "stakes_bullets": [
+          "• Snow and ice ground flights and choke highways in parts of Europe",
+          "• More than 1,000 stranded passengers spent the night at Amsterdam's international airport",
+          "• At least 800 flights were canceled Wednesday at the airport, one of Europe's busiest aviation hubs"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "5a952dbc2ced"
     },
     {
       "id": "97c857cfd339",
@@ -6033,39 +6008,6 @@
       },
       "read_minutes": 6,
       "cluster_id": "c28855b245cb"
-    },
-    {
-      "id": "773681d2b168",
-      "title": "This Delicious Supernatural Anime Is Food For the Soul That Will Make You Hungry",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/best-cooking-anime-kakuriyo-bed-and-breakfast-for-spirits/",
-      "published_at": "Thu, 08 Jan 2026 02:35:12 GMT",
-      "bullets": [
-        "• Kakuriyo: Bed & Breakfast for Spirits isn’t a thrilling ride with over-the-top battles, it’s an anime that calmly makes its audience crave delicious foods",
-        "• Even in a world where powerful demons, spirits, and other mysterious creatures reside, food is still the element that helps them bond",
-        "• Aoi Tsubaki is dragged to the spirit realm to marry the ogre owner of an inn "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.996
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Kakuriyo: Bed & Breakfast for Spirits isn’t a thrilling ride with over-the-top battles, it’s an anime that calmly makes its audience crave delicious foods",
-          "• Even in a world where powerful demons, spirits, and other mysterious creatures reside, food is still the element that helps them bond"
-        ],
-        "hopeful_bullets": [
-          "• Even in a world where powerful demons, spirits, and other mysterious creatures reside, food is still the element that helps them bond"
-        ],
-        "stakes_bullets": [
-          "• Kakuriyo: Bed & Breakfast for Spirits isn’t a thrilling ride with over-the-top battles, it’s an anime that calmly makes its audience crave delicious foods",
-          "• Even in a world where powerful demons, spirits, and other mysterious creatures reside, food is still the element that helps them bond",
-          "• Aoi Tsubaki is dragged to the spirit realm to marry the ogre owner of an inn "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "defd37ac47e7"
     },
     {
       "id": "67bcf7f74f92",
@@ -6240,27 +6182,29 @@
       "url": "https://arstechnica.com/space/2026/01/nasa-postpones-space-station-spacewalk-due-to-crew-members-medical-concern/",
       "published_at": "Thu, 08 Jan 2026 01:58:33 +0000",
       "bullets": [
-        "• A planned spacewalk outside the International Space Station has been postponed due to a “medical concern” with one of the crew members",
-        "• The excursion was set to begin Thursday morning",
-        "• Astronauts Mike Fincke and Zena Cardman planned to head outside the space station for six-and-a-half hours "
+        "• Someone on the International Space Station suffers an unspecified “medical situation’s” problem, NASA says",
+        "• It is rare, but not unprecedented, for a medical issue to occur at the ISS",
+        "• The person involved in the incident is stable, the agency says",
+        "• The incident occurred on the ISS on August 1 "
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.994
+        "score": 0.992
       },
       "moods": {
         "brief_bullets": [
-          "• A planned spacewalk outside the International Space Station has been postponed due to a “medical concern” with one of the crew members",
-          "• The excursion was set to begin Thursday morning"
+          "• Someone on the International Space Station suffers an unspecified “medical situation’s” problem, NASA says",
+          "• It is rare, but not unprecedented, for a medical issue to occur at the ISS"
         ],
         "hopeful_bullets": [
-          "• A planned spacewalk outside the International Space Station has been postponed due to a “medical concern” with one of the crew members",
-          "• The excursion was set to begin Thursday morning"
+          "• Someone on the International Space Station suffers an unspecified “medical situation’s” problem, NASA says",
+          "• It is rare, but not unprecedented, for a medical issue to occur at the ISS"
         ],
         "stakes_bullets": [
-          "• A planned spacewalk outside the International Space Station has been postponed due to a “medical concern” with one of the crew members",
-          "• Astronauts Mike Fincke and Zena Cardman planned to head outside the space station for six-and-a-half hours "
+          "• Someone on the International Space Station suffers an unspecified “medical situation’s” problem, NASA says",
+          "• It is rare, but not unprecedented, for a medical issue to occur at the ISS",
+          "• The person involved in the incident is stable, the agency says"
         ]
       },
       "read_minutes": 1,
@@ -7138,40 +7082,6 @@
       "cluster_id": "8e9430e546a3"
     },
     {
-      "id": "865da1f58b2e",
-      "title": "Black Series Figure For The Mandalorian & Grogu Has Leaked",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-12-20-black-series-figure-for-the-mandalorian-grogu-has-leaked/?utm_source=rss&utm_medium=rss&utm_campaign=black-series-figure-for-the-mandalorian-grogu-has-leaked",
-      "published_at": "Sat, 20 Dec 2025 19:36:01 +0000",
-      "bullets": [
-        "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
-        "• The photo was taken with a lowres potato camera and is very blurry",
-        "• It is rumored to be a deluxe set at a price point of maybe $40 (standard figures cost $28)"
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
-          "• The photo was taken with a lowres potato camera and is very blurry"
-        ],
-        "hopeful_bullets": [
-          "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
-          "• The photo was taken with a lowres potato camera and is very blurry"
-        ],
-        "stakes_bullets": [
-          "• We have an in hand photo of an upcoming Black Series figure for The Mandalorian & Grogu movie",
-          "• The photo was taken with a lowres potato camera and is very blurry",
-          "• It is rumored to be a deluxe set at a price point of maybe $40 (standard figures cost $28)"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "144accaf8f34"
-    },
-    {
       "id": "4c8dc337739b",
       "title": "New Titles Coming To Wicked Horror TV",
       "outlet": "Wicked Horror",
@@ -7613,37 +7523,6 @@
       "cluster_id": "2a7bfd901b8d"
     },
     {
-      "id": "e2a9a55daaae",
-      "title": "The Vintage Collection March Madness 2026",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2026-01-05-the-vintage-collection-march-madness-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-vintage-collection-march-madness-2026",
-      "published_at": "Mon, 05 Jan 2026 21:40:01 +0000",
-      "bullets": [
-        "• The Vintage Collection March Madness is back! Now is your chance to help shape this year’s bracket by submitting up to 25 of your most-wanted all-new TVC figures",
-        "• Early voting starts now through January 25th "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Vintage Collection March Madness is back! Now is your chance to help shape this year’s bracket by submitting up to 25 of your most-wanted all-new TVC figures",
-          "• Early voting starts now through January 25th "
-        ],
-        "hopeful_bullets": [
-          "• The Vintage Collection March Madness is back! Now is your chance to help shape this year’s bracket by submitting up to 25 of your most-wanted all-new TVC figures"
-        ],
-        "stakes_bullets": [
-          "• The Vintage Collection March Madness is back! Now is your chance to help shape this year’s bracket by submitting up to 25 of your most-wanted all-new TVC figures",
-          "• Early voting starts now through January 25th "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c8255fd5d2e2"
-    },
-    {
       "id": "b360cfdb8139",
       "title": "RFR Q&A #274: Star Wars Celebration Chicago Flashback",
       "outlet": "All Shows - Rebel Force Radio: Star Wars Podcast",
@@ -7970,39 +7849,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "04c5dba1d0e0"
-    },
-    {
-      "id": "a6a708d2b0c3",
-      "title": "The Black Series In 2025",
-      "outlet": "Jedi Temple Archives",
-      "url": "https://www.jeditemplearchives.com/2025-12-19-the-black-series-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-series-in-2025",
-      "published_at": "Fri, 19 Dec 2025 19:14:11 +0000",
-      "bullets": [
-        "• In 2025 a total of 63 sets were released in the Black Series, which contained a total number of 77 figures",
-        "• The 63 sets are the lowest number since 2019, a clear indicator that sales for the line are in decline",
-        "• The number of releases has been dialed down again, probably a direct result of a lower budget for the Star Wars line",
-        "• We still get more sets now than we even got during the sequel trilogy years "
-      ],
-      "category": "Star Wars",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In 2025 a total of 63 sets were released in the Black Series, which contained a total number of 77 figures",
-          "• The 63 sets are the lowest number since 2019, a clear indicator that sales for the line are in decline"
-        ],
-        "hopeful_bullets": [
-          "• In 2025 a total of 63 sets were released in the Black Series, which contained a total number of 77 figures",
-          "• The 63 sets are the lowest number since 2019, a clear indicator that sales for the line are in decline"
-        ],
-        "stakes_bullets": [
-          "• The number of releases has been dialed down again, probably a direct result of a lower budget for the Star Wars line"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "37374d8d656c"
     },
     {
       "id": "34455b103b91",
@@ -8373,32 +8219,63 @@
       "cluster_id": "db4d9c940e36"
     },
     {
+      "id": "b5ec767c1133",
+      "title": "Volvo touts EX60’s range and charging speed ahead of official debut",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery",
+      "published_at": "2026-01-08T03:00:00-05:00",
+      "bullets": [
+        "• The EX60 will have an estimated range of 400 miles (or 810km based on the generous WLTP standard in Europe)",
+        "• That’s significantly more range than any previous Volvo EV — at least until the 434-mile-range ES90 sedan comes out "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The EX60 will have an estimated range of 400 miles (or 810km based on the generous WLTP standard in Europe)",
+          "• That’s significantly more range than any previous Volvo EV — at least until the 434-mile-range ES90 sedan comes out "
+        ],
+        "hopeful_bullets": [
+          "• The EX60 will have an estimated range of 400 miles (or 810km based on the generous WLTP standard in Europe)",
+          "• That’s significantly more range than any previous Volvo EV — at least until the 434-mile-range ES90 sedan comes out "
+        ],
+        "stakes_bullets": [
+          "• The EX60 will have an estimated range of 400 miles (or 810km based on the generous WLTP standard in Europe)"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "3d987d60bb4d"
+    },
+    {
       "id": "8bebeeeed50f",
       "title": "Disney Plus is getting vertical video",
       "outlet": "The Verge",
       "url": "https://www.theverge.com/tech/858277/disney-plus-vertical-video",
       "published_at": "2026-01-07T19:51:26-05:00",
       "bullets": [
-        "• Disney Plus will be getting a vertical video feed later this year, Disney announced at CES",
-        "• The feed could include “original short-form programming, repurposed social clips, refashioned scenes from longer-form episodic or feature titles or a combination”"
+        "• A TikTok-like vertical video feed is coming to Disney Plus later this year",
+        "• Disney announced the move as part of its Global Tech & Data Showcase for advertisers at CES",
+        "• It could include “original short-form programming, repurposed social clips, refashioned scenes from longer-form episodic or feature titles or a combination”"
       ],
       "category": "Technology",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.986
       },
       "moods": {
         "brief_bullets": [
-          "• Disney Plus will be getting a vertical video feed later this year, Disney announced at CES",
-          "• The feed could include “original short-form programming, repurposed social clips, refashioned scenes from longer-form episodic or feature titles or a combination”"
+          "• A TikTok-like vertical video feed is coming to Disney Plus later this year",
+          "• Disney announced the move as part of its Global Tech & Data Showcase for advertisers at CES"
         ],
         "hopeful_bullets": [
-          "• Disney Plus will be getting a vertical video feed later this year, Disney announced at CES",
-          "• The feed could include “original short-form programming, repurposed social clips, refashioned scenes from longer-form episodic or feature titles or a combination”"
+          "• A TikTok-like vertical video feed is coming to Disney Plus later this year",
+          "• Disney announced the move as part of its Global Tech & Data Showcase for advertisers at CES"
         ],
         "stakes_bullets": [
-          "• Disney Plus will be getting a vertical video feed later this year, Disney announced at CES",
-          "• The feed could include “original short-form programming, repurposed social clips, refashioned scenes from longer-form episodic or feature titles or a combination”"
+          "• It could include “original short-form programming, repurposed social clips, refashioned scenes from longer-form episodic or feature titles or a combination”"
         ]
       },
       "read_minutes": 1,
@@ -8668,38 +8545,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "333b36b6ccc7"
-    },
-    {
-      "id": "4c5d12aa7939",
-      "title": "X’s deepfake machine is infuriating policymakers around the globe",
-      "outlet": "The Verge",
-      "url": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress",
-      "published_at": "2026-01-07T16:09:54-05:00",
-      "bullets": [
-        "• X’s Grok chatbot hasn’t stopped accepting users’ requests to strip down women and, in some cases, apparent minors to AI-generated bikinis",
-        "• The UK communications regulator Ofcom said it had “made urgent contact with X and xAI to understand what steps they have taken to comply with their legal duties to protect users in the UK,” and would quickly assess “potential compliance issues that warrant investigation "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.972
-      },
-      "moods": {
-        "brief_bullets": [
-          "• X’s Grok chatbot hasn’t stopped accepting users’ requests to strip down women and, in some cases, apparent minors to AI-generated bikinis",
-          "• The UK communications regulator Ofcom said it had “made urgent contact with X and xAI to understand what steps they have taken to comply with their legal duties to protect users in the UK,” and would quickly assess “potential compliance issues that warrant investigation "
-        ],
-        "hopeful_bullets": [
-          "• X’s Grok chatbot hasn’t stopped accepting users’ requests to strip down women and, in some cases, apparent minors to AI-generated bikinis",
-          "• The UK communications regulator Ofcom said it had “made urgent contact with X and xAI to understand what steps they have taken to comply with their legal duties to protect users in the UK,” and would quickly assess “potential compliance issues that warrant investigation "
-        ],
-        "stakes_bullets": [
-          "• X’s Grok chatbot hasn’t stopped accepting users’ requests to strip down women and, in some cases, apparent minors to AI-generated bikinis",
-          "• The UK communications regulator Ofcom said it had “made urgent contact with X and xAI to understand what steps they have taken to comply with their legal duties to protect users in the UK,” and would quickly assess “potential compliance issues that warrant investigation "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "98869a22a328"
     },
     {
       "id": "c41ff758b36a",
@@ -9054,24 +8899,6 @@
       ]
     },
     {
-      "id": "570f2566a650",
-      "topic": "children gaza return school",
-      "keywords": [
-        "children",
-        "gaza",
-        "return",
-        "school",
-        "without",
-        "year"
-      ],
-      "item_ids": [
-        "c317b3c96b53"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "2034a522561a",
       "topic": "fleet linked seize shadow",
       "keywords": [
@@ -9129,6 +8956,24 @@
       ]
     },
     {
+      "id": "8b3ba8daed5a",
+      "topic": "alleged cambodia china extradite",
+      "keywords": [
+        "alleged",
+        "cambodia",
+        "china",
+        "extradite",
+        "mastermind",
+        "scam"
+      ],
+      "item_ids": [
+        "22972f21deb3"
+      ],
+      "outlets": [
+        "BBC News"
+      ]
+    },
+    {
       "id": "23dca1a72daa",
       "topic": "attack blackout leave region",
       "keywords": [
@@ -9183,36 +9028,36 @@
       ]
     },
     {
-      "id": "8b3ba8daed5a",
-      "topic": "alleged cambodia china extradite",
+      "id": "d78e2667fe64",
+      "topic": "alleged australia british deport",
       "keywords": [
         "alleged",
-        "cambodia",
-        "china",
-        "extradite",
-        "mastermind",
-        "scam"
+        "australia",
+        "british",
+        "deport",
+        "man",
+        "neo"
       ],
       "item_ids": [
-        "22972f21deb3"
+        "c1e046da5fc8"
       ],
       "outlets": [
         "BBC News"
       ]
     },
     {
-      "id": "0965a59c70b6",
-      "topic": "actively buying discussing greenland",
+      "id": "1034ec5dbafb",
+      "topic": "himself lawyer murder nick",
       "keywords": [
-        "actively",
-        "buying",
-        "discussing",
-        "greenland",
-        "potentially",
-        "trump"
+        "himself",
+        "lawyer",
+        "murder",
+        "nick",
+        "reiner",
+        "remove"
       ],
       "item_ids": [
-        "191345f74269"
+        "5ee51b835813"
       ],
       "outlets": [
         "BBC News"
@@ -9504,24 +9349,6 @@
       ]
     },
     {
-      "id": "8603d5165ee2",
-      "topic": "agent fatally ice minnesota",
-      "keywords": [
-        "agent",
-        "fatally",
-        "ice",
-        "minnesota",
-        "shot",
-        "woman"
-      ],
-      "item_ids": [
-        "d6a7b6c1f40b"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "8566bbb15ace",
       "topic": "crackdown defense executive firm",
       "keywords": [
@@ -9537,6 +9364,24 @@
       ],
       "outlets": [
         "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "5a952dbc2ced",
+      "topic": "choke flight ground highway",
+      "keywords": [
+        "choke",
+        "flight",
+        "ground",
+        "highway",
+        "ice",
+        "snow"
+      ],
+      "item_ids": [
+        "a04920233aa1"
+      ],
+      "outlets": [
+        "NPR Topics: News"
       ]
     },
     {
@@ -9702,23 +9547,6 @@
       ]
     },
     {
-      "id": "a4c0a8698a33",
-      "topic": "deceiving greenland large map",
-      "keywords": [
-        "deceiving",
-        "greenland",
-        "large",
-        "map",
-        "really"
-      ],
-      "item_ids": [
-        "ea936777922d"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
       "id": "f5c5d8d0e2c6",
       "topic": "ban buying home investor",
       "keywords": [
@@ -9749,6 +9577,24 @@
       ],
       "item_ids": [
         "220f823adbb1"
+      ],
+      "outlets": [
+        "US Top News and Analysis"
+      ]
+    },
+    {
+      "id": "b34a9392a273",
+      "topic": "acquisition agent china face",
+      "keywords": [
+        "acquisition",
+        "agent",
+        "china",
+        "face",
+        "meta",
+        "probe"
+      ],
+      "item_ids": [
+        "7bc89e731c0e"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -9809,24 +9655,6 @@
       ]
     },
     {
-      "id": "e504d363c4fc",
-      "topic": "100 captured killed military",
-      "keywords": [
-        "100",
-        "captured",
-        "killed",
-        "military",
-        "operation",
-        "venezuela"
-      ],
-      "item_ids": [
-        "69a457f8ec04"
-      ],
-      "outlets": [
-        "US Top News and Analysis"
-      ]
-    },
-    {
       "id": "a0422e6427a3",
       "topic": "fully here stressful unwind",
       "keywords": [
@@ -9863,18 +9691,18 @@
       ]
     },
     {
-      "id": "c1dfae5a09db",
-      "topic": "china first goes public",
+      "id": "e504d363c4fc",
+      "topic": "100 captured killed military",
       "keywords": [
-        "china",
-        "first",
-        "goes",
-        "public",
-        "tiger",
-        "zhipu"
+        "100",
+        "captured",
+        "killed",
+        "military",
+        "operation",
+        "venezuela"
       ],
       "item_ids": [
-        "e3cedd0f7b83"
+        "69a457f8ec04"
       ],
       "outlets": [
         "US Top News and Analysis"
@@ -10024,6 +9852,24 @@
       ],
       "outlets": [
         "WIRED"
+      ]
+    },
+    {
+      "id": "3d987d60bb4d",
+      "topic": "charging ex60 range speed",
+      "keywords": [
+        "charging",
+        "ex60",
+        "range",
+        "speed",
+        "tout",
+        "volvo"
+      ],
+      "item_ids": [
+        "b5ec767c1133"
+      ],
+      "outlets": [
+        "The Verge"
       ]
     },
     {
@@ -10177,24 +10023,6 @@
       ],
       "item_ids": [
         "18484372f7fd"
-      ],
-      "outlets": [
-        "The Verge"
-      ]
-    },
-    {
-      "id": "98869a22a328",
-      "topic": "around deepfake globe infuriating",
-      "keywords": [
-        "around",
-        "deepfake",
-        "globe",
-        "infuriating",
-        "machine",
-        "policymaker"
-      ],
-      "item_ids": [
-        "4c5d12aa7939"
       ],
       "outlets": [
         "The Verge"
@@ -10399,6 +10227,24 @@
       ]
     },
     {
+      "id": "20e50388028a",
+      "topic": "depression exercise find rival",
+      "keywords": [
+        "depression",
+        "exercise",
+        "find",
+        "rival",
+        "scientist",
+        "therapy"
+      ],
+      "item_ids": [
+        "a65fd67e0ac1"
+      ],
+      "outlets": [
+        "All Top News -- ScienceDaily"
+      ]
+    },
+    {
       "id": "16263ebd19bd",
       "topic": "energy enormou galaxy pumping",
       "keywords": [
@@ -10542,21 +10388,20 @@
       ]
     },
     {
-      "id": "d1ad82b55cb8",
-      "topic": "ancient embedded human reveal",
+      "id": "a4c0a8698a33",
+      "topic": "deceiving greenland large map",
       "keywords": [
-        "ancient",
-        "embedded",
-        "human",
-        "reveal",
-        "skeleton",
-        "viruse"
+        "deceiving",
+        "greenland",
+        "large",
+        "map",
+        "really"
       ],
       "item_ids": [
-        "00c147e22801"
+        "ea936777922d"
       ],
       "outlets": [
-        "All Top News -- ScienceDaily"
+        "NPR Topics: Science"
       ]
     },
     {
@@ -11423,6 +11268,24 @@
       ]
     },
     {
+      "id": "bafcbe5e3652",
+      "topic": "a24 heard terrifying trailer",
+      "keywords": [
+        "a24",
+        "heard",
+        "terrifying",
+        "trailer",
+        "undertone",
+        "want"
+      ],
+      "item_ids": [
+        "1f9e41aa5f05"
+      ],
+      "outlets": [
+        "Bloody Disgusting!"
+      ]
+    },
+    {
       "id": "c6d7ec6b3d4d",
       "topic": "chimp horror killer movie",
       "keywords": [
@@ -11579,24 +11442,6 @@
       ],
       "item_ids": [
         "5d14d0075c98"
-      ],
-      "outlets": [
-        "Bloody Disgusting!"
-      ]
-    },
-    {
-      "id": "de9e866babbd",
-      "topic": "bloody bone later rated",
-      "keywords": [
-        "bloody",
-        "bone",
-        "later",
-        "rated",
-        "temple",
-        "year"
-      ],
-      "item_ids": [
-        "61b9b8b18e0a"
       ],
       "outlets": [
         "Bloody Disgusting!"
@@ -12258,90 +12103,6 @@
       ]
     },
     {
-      "id": "4b5254e66a7e",
-      "topic": "2026 fanstream first hasbro",
-      "keywords": [
-        "2026",
-        "fanstream",
-        "first",
-        "hasbro",
-        "january",
-        "launche"
-      ],
-      "item_ids": [
-        "0674a19e9d68"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "f82850ee9406",
-      "topic": "kathleen kennedy replacement revealed",
-      "keywords": [
-        "kathleen",
-        "kennedy",
-        "replacement",
-        "revealed"
-      ],
-      "item_ids": [
-        "88022b530637"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "c8255fd5d2e2",
-      "topic": "2026 collection madnes march",
-      "keywords": [
-        "2026",
-        "collection",
-        "madnes",
-        "march",
-        "vintage"
-      ],
-      "item_ids": [
-        "e2a9a55daaae"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "144accaf8f34",
-      "topic": "black figure grogu leaked",
-      "keywords": [
-        "black",
-        "figure",
-        "grogu",
-        "leaked",
-        "mandalorian",
-        "serie"
-      ],
-      "item_ids": [
-        "865da1f58b2e"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
-      "id": "37374d8d656c",
-      "topic": "2025 black serie",
-      "keywords": [
-        "2025",
-        "black",
-        "serie"
-      ],
-      "item_ids": [
-        "a6a708d2b0c3"
-      ],
-      "outlets": [
-        "Jedi Temple Archives"
-      ]
-    },
-    {
       "id": "4d68b7d6cb41",
       "topic": "eclipse favorite revealed rotj",
       "keywords": [
@@ -12865,6 +12626,24 @@
       ]
     },
     {
+      "id": "116e4d7432d1",
+      "topic": "academy review serie star",
+      "keywords": [
+        "academy",
+        "review",
+        "serie",
+        "star",
+        "starfleet",
+        "trek"
+      ],
+      "item_ids": [
+        "6ef1e6d7916e"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
       "id": "c68b2b974074",
       "topic": "arc chainsaw devil hell",
       "keywords": [
@@ -13019,24 +12798,6 @@
       ],
       "item_ids": [
         "6025f324829f"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "defd37ac47e7",
-      "topic": "anime deliciou food make",
-      "keywords": [
-        "anime",
-        "deliciou",
-        "food",
-        "make",
-        "soul",
-        "supernatural"
-      ],
-      "item_ids": [
-        "773681d2b168"
       ],
       "outlets": [
         "CBR"
@@ -13221,6 +12982,24 @@
       ]
     },
     {
+      "id": "a7848a0addb8",
+      "topic": "colbert robyn sexistential showcase",
+      "keywords": [
+        "colbert",
+        "robyn",
+        "sexistential",
+        "showcase",
+        "single",
+        "watch"
+      ],
+      "item_ids": [
+        "12ac6cf5d609"
+      ],
+      "outlets": [
+        "Music News"
+      ]
+    },
+    {
       "id": "a5ab2942b3ac",
       "topic": "duff hilary mom risqu",
       "keywords": [
@@ -13376,24 +13155,6 @@
       ],
       "item_ids": [
         "766b67b3c4f1"
-      ],
-      "outlets": [
-        "Music News"
-      ]
-    },
-    {
-      "id": "7701b4ce653a",
-      "topic": "calling center fleck kennedy",
-      "keywords": [
-        "calling",
-        "center",
-        "fleck",
-        "kennedy",
-        "performance",
-        "withdraw"
-      ],
-      "item_ids": [
-        "6db3b2e22517"
       ],
       "outlets": [
         "Music News"
