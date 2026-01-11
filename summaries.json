@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-11T00:17:45Z",
+  "generated_at": "2026-01-11T02:57:13Z",
   "items": [
     {
       "id": "d71133ccc5dc",
@@ -1891,15 +1891,412 @@
       "cluster_id": "f5cbbc6c3bcb"
     },
     {
-      "id": "83c7615a1312",
-      "title": "5 Best Space Movies on Netflix Right Now",
+      "id": "d3e131eb1647",
+      "title": "10 Worst Sci-Fi Movies of All Time, According to Richard Roeper",
       "outlet": "CBR",
-      "url": "https://www.cbr.com/5best-space-movies-on-netflix-list/",
-      "published_at": "Sun, 11 Jan 2026 00:05:12 GMT",
+      "url": "https://www.cbr.com/worst-sci-fi-movies-according-richard-roeper-list/",
+      "published_at": "Sun, 11 Jan 2026 02:35:12 GMT",
       "bullets": [
-        "• Sci-fi is one of the most exhilarating genres in cinema, exploring everything from dystopian societies to alien species",
-        "• Director Neill Blomkamp brought his ambitious sci-fi vision to a larger scale with Elysium",
-        "• The film follows Max (Matt Damon) a parolee living in poverty on a desolate Earth "
+        "• Gene Siskel's regular TV partner Gene Ebert died in 2000",
+        "• Richard Roeper stepped in as co-host of the show Ebert & Roeper",
+        "• Roeper gave the film a thumbs down to The Lord of the Rings: The Fellowship of the Ring in 2001 "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Gene Siskel's regular TV partner Gene Ebert died in 2000",
+          "• Richard Roeper stepped in as co-host of the show Ebert & Roeper"
+        ],
+        "hopeful_bullets": [
+          "• Gene Siskel's regular TV partner Gene Ebert died in 2000",
+          "• Richard Roeper stepped in as co-host of the show Ebert & Roeper"
+        ],
+        "stakes_bullets": [
+          "• Gene Siskel's regular TV partner Gene Ebert died in 2000",
+          "• Richard Roeper stepped in as co-host of the show Ebert & Roeper",
+          "• Roeper gave the film a thumbs down to The Lord of the Rings: The Fellowship of the Ring in 2001 "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "821c34bfabd4"
+    },
+    {
+      "id": "363ad099e8ff",
+      "title": "Australia news live: Victorian premier says 10 ‘major fires’ among 32 active blazes burning across state as more than 300 structures lost",
+      "outlet": "Environment | The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jan/11/australia-news-live-victoria-bushfires-queensland-cyclone-koji-weather-jacinta-allan-anthony-albanese-politics",
+      "published_at": "Sun, 11 Jan 2026 02:27:44 GMT",
+      "bullets": [
+        "• Two women and a cat were airlifted to safety after a fire broke out in a remote Queensland suburb",
+        "• The family was forced to live in a shipping container after their home caught on fire",
+        "• The storm is expected to continue for the rest of the week "
+      ],
+      "category": "Environment",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.972
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Two women and a cat were airlifted to safety after a fire broke out in a remote Queensland suburb",
+          "• The family was forced to live in a shipping container after their home caught on fire"
+        ],
+        "hopeful_bullets": [
+          "• Two women and a cat were airlifted to safety after a fire broke out in a remote Queensland suburb",
+          "• The family was forced to live in a shipping container after their home caught on fire"
+        ],
+        "stakes_bullets": [
+          "• The storm is expected to continue for the rest of the week "
+        ]
+      },
+      "read_minutes": 9,
+      "cluster_id": "c40b8b2a0dcd"
+    },
+    {
+      "id": "90e39d1f6333",
+      "title": "Trump news at a glance: Death of Renee Good at hands of ICE sparks nationwide protests",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/11/trump-news-at-a-glance-death-of-renee-good-at-hands-of-ice-sparks-nationwide-protests",
+      "published_at": "Sun, 11 Jan 2026 02:17:10 GMT",
+      "bullets": [
+        "• Death of Renee Good at hands of ICE sparks nationwide protests",
+        "• Large crowds marched in Boston, San Francisco and Portland, Oregon",
+        "• Trump administration claims Good was part of a shadowy ‘leftwing network’ who was trying “to incite violence” against federal agents "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.964
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Death of Renee Good at hands of ICE sparks nationwide protests",
+          "• Large crowds marched in Boston, San Francisco and Portland, Oregon"
+        ],
+        "hopeful_bullets": [
+          "• Trump administration claims Good was part of a shadowy ‘leftwing network’ who was trying “to incite violence” against federal agents "
+        ],
+        "stakes_bullets": [
+          "• Death of Renee Good at hands of ICE sparks nationwide protests",
+          "• Large crowds marched in Boston, San Francisco and Portland, Oregon",
+          "• Trump administration claims Good was part of a shadowy ‘leftwing network’ who was trying “to incite violence” against federal agents "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "8946515b039d"
+    },
+    {
+      "id": "9220c1424a11",
+      "title": "A New Yellowstone Update Confirms Taylor Sheridan Is Officially Making Franchise History",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-madison-season-2-filming-update-makes-yellowstone-franchise-history/",
+      "published_at": "Sun, 11 Jan 2026 02:10:12 GMT",
+      "bullets": [
+        "• A Yellowstone update confirms that Taylor Sheridan is making history with the new spinoff of the original series, titled The Madison",
+        "• The series will star Michelle Pfeiffer, Kurt Russell, Matthew Fox, and Patrick J",
+        "• Adams",
+        "• The Madison will follow Stacy Clyburn, who moves to Montana’s Madison River Valley "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• A Yellowstone update confirms that Taylor Sheridan is making history with the new spinoff of the original series, titled The Madison",
+          "• The series will star Michelle Pfeiffer, Kurt Russell, Matthew Fox, and Patrick J"
+        ],
+        "hopeful_bullets": [
+          "• A Yellowstone update confirms that Taylor Sheridan is making history with the new spinoff of the original series, titled The Madison",
+          "• The series will star Michelle Pfeiffer, Kurt Russell, Matthew Fox, and Patrick J"
+        ],
+        "stakes_bullets": [
+          "• The series will star Michelle Pfeiffer, Kurt Russell, Matthew Fox, and Patrick J",
+          "• The Madison will follow Stacy Clyburn, who moves to Montana’s Madison River Valley "
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "8b3d377b8f36"
+    },
+    {
+      "id": "999a3213e1c0",
+      "title": "The MCU Needs to Fix the X-Men's Relationship With This Key Hero",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/mcu-must-fix-captain-america-mutant-relationship/",
+      "published_at": "Sun, 11 Jan 2026 02:05:12 GMT",
+      "bullets": [
+        "• Captain America and the X-Men have a long history of being at odds with each other in the comics",
+        "• The Marvel Cinematic Universe must not contribute to this unfortunate reputation",
+        "• Steve Rogers has always been a champion of the downtrodden "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Captain America and the X-Men have a long history of being at odds with each other in the comics",
+          "• The Marvel Cinematic Universe must not contribute to this unfortunate reputation"
+        ],
+        "hopeful_bullets": [
+          "• Captain America and the X-Men have a long history of being at odds with each other in the comics",
+          "• The Marvel Cinematic Universe must not contribute to this unfortunate reputation"
+        ],
+        "stakes_bullets": [
+          "• Captain America and the X-Men have a long history of being at odds with each other in the comics",
+          "• The Marvel Cinematic Universe must not contribute to this unfortunate reputation",
+          "• Steve Rogers has always been a champion of the downtrodden "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "c9ebc1022a9c"
+    },
+    {
+      "id": "daecf028c351",
+      "title": "US military strikes Islamic State group targets in Syria, officials say",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly9597r4qpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 11 Jan 2026 01:50:00 GMT",
+      "bullets": [
+        "• US military strikes Islamic State group targets in Syria, officials say",
+        "• US President Donald Trump directed the strikes on Saturday, which are part of Operation Hawkeye Strike",
+        "• The US fired more than 90 precision munitions at more than 35 targets in an operation that involved more than 20 aircraft "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.968
+      },
+      "moods": {
+        "brief_bullets": [
+          "• US military strikes Islamic State group targets in Syria, officials say",
+          "• US President Donald Trump directed the strikes on Saturday, which are part of Operation Hawkeye Strike"
+        ],
+        "hopeful_bullets": [
+          "• US military strikes Islamic State group targets in Syria, officials say",
+          "• US President Donald Trump directed the strikes on Saturday, which are part of Operation Hawkeye Strike"
+        ],
+        "stakes_bullets": [
+          "• US military strikes Islamic State group targets in Syria, officials say",
+          "• US President Donald Trump directed the strikes on Saturday, which are part of Operation Hawkeye Strike",
+          "• The US fired more than 90 precision munitions at more than 35 targets in an operation that involved more than 20 aircraft "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "c944cddb98b3"
+    },
+    {
+      "id": "363a0aed3efe",
+      "title": "ABC's Better Off Ted Is a Sci-Fi Masterpiece That Deserves Another Chance",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/better-off-ted-sci-fi-sitcom-deserves-another-chance/",
+      "published_at": "Sun, 11 Jan 2026 01:45:12 GMT",
+      "bullets": [
+        "• Better Off Ted is set in a futuristic, post-apocalyptic office environment called Veridian Dynamics",
+        "• Despite being considered a standard sitcom, it can be seen as a clever parody of what a sci-fi comedy looks like",
+        "• The show has an 89% fresh rating from the tomato-hating masses at Rotten Tomatoes "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.969
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Better Off Ted is set in a futuristic, post-apocalyptic office environment called Veridian Dynamics",
+          "• Despite being considered a standard sitcom, it can be seen as a clever parody of what a sci-fi comedy looks like"
+        ],
+        "hopeful_bullets": [
+          "• Better Off Ted is set in a futuristic, post-apocalyptic office environment called Veridian Dynamics",
+          "• Despite being considered a standard sitcom, it can be seen as a clever parody of what a sci-fi comedy looks like"
+        ],
+        "stakes_bullets": [
+          "• Better Off Ted is set in a futuristic, post-apocalyptic office environment called Veridian Dynamics",
+          "• Despite being considered a standard sitcom, it can be seen as a clever parody of what a sci-fi comedy looks like",
+          "• The show has an 89% fresh rating from the tomato-hating masses at Rotten Tomatoes "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "9bfcef7bc383"
+    },
+    {
+      "id": "98060bded16c",
+      "title": "27 Years Later, This Cult Classic PS1 Game Is Still Untouchable",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/throwback-cult-classic-ps1-game-parasite-eve-2/",
+      "published_at": "Sun, 11 Jan 2026 01:30:12 GMT",
+      "bullets": [
+        "• Parasite Eve II is a direct sequel to the first game, and takes place three years after the events of the first",
+        "• At the time of the game's release, it was vastly overshadowed by its competitors, which also happen to be two of the biggest names in the video game world "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.902
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Parasite Eve II is a direct sequel to the first game, and takes place three years after the events of the first",
+          "• At the time of the game's release, it was vastly overshadowed by its competitors, which also happen to be two of the biggest names in the video game world "
+        ],
+        "hopeful_bullets": [
+          "• Parasite Eve II is a direct sequel to the first game, and takes place three years after the events of the first",
+          "• At the time of the game's release, it was vastly overshadowed by its competitors, which also happen to be two of the biggest names in the video game world "
+        ],
+        "stakes_bullets": [
+          "• Parasite Eve II is a direct sequel to the first game, and takes place three years after the events of the first",
+          "• At the time of the game's release, it was vastly overshadowed by its competitors, which also happen to be two of the biggest names in the video game world "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "6737aec21289"
+    },
+    {
+      "id": "457f8608a4e6",
+      "title": "Bob Weir, Grateful Dead co-founder, dies aged 78",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly95x9qe4ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 11 Jan 2026 01:26:10 GMT",
+      "bullets": [
+        "• Bob Weir died after a battle with cancer and lung issues, according to Instagram post",
+        "• He \"transitioned peacefully, surrounded by loved ones\", post says",
+        "• Weir was a cornerstone of the psychedelic rock group and many of its offshoots",
+        "• The group was inducted in the Rock and Roll Hall of Fame in 1994 "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.99
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Bob Weir died after a battle with cancer and lung issues, according to Instagram post",
+          "• He \"transitioned peacefully, surrounded by loved ones\", post says"
+        ],
+        "hopeful_bullets": [
+          "• Bob Weir died after a battle with cancer and lung issues, according to Instagram post",
+          "• He \"transitioned peacefully, surrounded by loved ones\", post says"
+        ],
+        "stakes_bullets": [
+          "• Bob Weir died after a battle with cancer and lung issues, according to Instagram post",
+          "• He \"transitioned peacefully, surrounded by loved ones\", post says",
+          "• Weir was a cornerstone of the psychedelic rock group and many of its offshoots"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "22237cbded58"
+    },
+    {
+      "id": "f45d4cd035e6",
+      "title": "5 Perfect Thriller Movies Nobody Talks About Anymore",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-forgotten-thriller-movies-list/",
+      "published_at": "Sun, 11 Jan 2026 01:20:13 GMT",
+      "bullets": [
+        "• The Perfect Host is an extended remake of Nicholas Tomnay's 2001 short film, The Host",
+        "• The black comedy thriller stars Clayne Crawford as John Taylor, a criminal on the run, who enters Warwick Wilson's house under false pretenses "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.998
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Perfect Host is an extended remake of Nicholas Tomnay's 2001 short film, The Host",
+          "• The black comedy thriller stars Clayne Crawford as John Taylor, a criminal on the run, who enters Warwick Wilson's house under false pretenses "
+        ],
+        "hopeful_bullets": [
+          "• The Perfect Host is an extended remake of Nicholas Tomnay's 2001 short film, The Host",
+          "• The black comedy thriller stars Clayne Crawford as John Taylor, a criminal on the run, who enters Warwick Wilson's house under false pretenses "
+        ],
+        "stakes_bullets": [
+          "• The Perfect Host is an extended remake of Nicholas Tomnay's 2001 short film, The Host",
+          "• The black comedy thriller stars Clayne Crawford as John Taylor, a criminal on the run, who enters Warwick Wilson's house under false pretenses "
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "d43786bc3d98"
+    },
+    {
+      "id": "cc0868a168b9",
+      "title": "Solo Leveling’s Best Manhwa Scene Is a Modern Masterpiece",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/solo-leveling-best-manhwa-scene-deep-story-moment/",
+      "published_at": "Sun, 11 Jan 2026 01:15:11 GMT",
+      "bullets": [
+        "• \"Solo Leveling is Deeper Than You Think\" is a South Korean power fantasy series",
+        "• The series has its share of haters, but the impressive depth of the series shines through when dissecting the finer details of Sung Jinwoo’s individual development arc "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• \"Solo Leveling is Deeper Than You Think\" is a South Korean power fantasy series",
+          "• The series has its share of haters, but the impressive depth of the series shines through when dissecting the finer details of Sung Jinwoo’s individual development arc "
+        ],
+        "hopeful_bullets": [
+          "• \"Solo Leveling is Deeper Than You Think\" is a South Korean power fantasy series",
+          "• The series has its share of haters, but the impressive depth of the series shines through when dissecting the finer details of Sung Jinwoo’s individual development arc "
+        ],
+        "stakes_bullets": [
+          "• \"Solo Leveling is Deeper Than You Think\" is a South Korean power fantasy series",
+          "• The series has its share of haters, but the impressive depth of the series shines through when dissecting the finer details of Sung Jinwoo’s individual development arc "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "3613146bd8b9"
+    },
+    {
+      "id": "6f7c88ed254a",
+      "title": "Don Felder, Andy Cohen, and More Remember ‘Impossibly Beautiful and Wildly Fiery’ Bob Weir",
+      "outlet": "Music News",
+      "url": "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-death-tributes-reactions-1235497291/",
+      "published_at": "Sun, 11 Jan 2026 01:05:21 +0000",
+      "bullets": [
+        "• Don Felder, Andy Cohen, Don Was, and Don Was pay tribute to Bob Weir",
+        "• Cohen: \"He was impossibly beautiful and wildly fiery, intense and passionate\" Felder: \"I feel so blessed to have been able to have him sing on 'Rock You' from Felder's solo album\""
+      ],
+      "category": "Music",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Don Felder, Andy Cohen, Don Was, and Don Was pay tribute to Bob Weir",
+          "• Cohen: \"He was impossibly beautiful and wildly fiery, intense and passionate\" Felder: \"I feel so blessed to have been able to have him sing on 'Rock You' from Felder's solo album\""
+        ],
+        "hopeful_bullets": [
+          "• Don Felder, Andy Cohen, Don Was, and Don Was pay tribute to Bob Weir",
+          "• Cohen: \"He was impossibly beautiful and wildly fiery, intense and passionate\" Felder: \"I feel so blessed to have been able to have him sing on 'Rock You' from Felder's solo album\""
+        ],
+        "stakes_bullets": [
+          "• Don Felder, Andy Cohen, Don Was, and Don Was pay tribute to Bob Weir",
+          "• Cohen: \"He was impossibly beautiful and wildly fiery, intense and passionate\" Felder: \"I feel so blessed to have been able to have him sing on 'Rock You' from Felder's solo album\""
+        ]
+      },
+      "read_minutes": 4,
+      "cluster_id": "ab0c0303f7d2"
+    },
+    {
+      "id": "692175a1cce7",
+      "title": "One of The Best Indie Comics In Years Is The Perfect Game of Thrones Replacement",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/the-sacrificers-perfect-game-of-thrones-replacement/",
+      "published_at": "Sun, 11 Jan 2026 01:05:12 GMT",
+      "bullets": [
+        "• The Sacrificers is a sprawling epic set in a world where a pantheon of uber-powerful gods rule over a world and maintain peace and harmony for its inhabitants",
+        "• Writer Rick Remender is one of the most exciting creatives working in the comic book industry today "
       ],
       "category": "Comics",
       "sentiment": {
@@ -1908,21 +2305,182 @@
       },
       "moods": {
         "brief_bullets": [
-          "• Sci-fi is one of the most exhilarating genres in cinema, exploring everything from dystopian societies to alien species",
-          "• Director Neill Blomkamp brought his ambitious sci-fi vision to a larger scale with Elysium"
+          "• The Sacrificers is a sprawling epic set in a world where a pantheon of uber-powerful gods rule over a world and maintain peace and harmony for its inhabitants",
+          "• Writer Rick Remender is one of the most exciting creatives working in the comic book industry today "
         ],
         "hopeful_bullets": [
-          "• Sci-fi is one of the most exhilarating genres in cinema, exploring everything from dystopian societies to alien species",
-          "• Director Neill Blomkamp brought his ambitious sci-fi vision to a larger scale with Elysium"
+          "• The Sacrificers is a sprawling epic set in a world where a pantheon of uber-powerful gods rule over a world and maintain peace and harmony for its inhabitants",
+          "• Writer Rick Remender is one of the most exciting creatives working in the comic book industry today "
         ],
         "stakes_bullets": [
-          "• Sci-fi is one of the most exhilarating genres in cinema, exploring everything from dystopian societies to alien species",
-          "• Director Neill Blomkamp brought his ambitious sci-fi vision to a larger scale with Elysium",
-          "• The film follows Max (Matt Damon) a parolee living in poverty on a desolate Earth "
+          "• The Sacrificers is a sprawling epic set in a world where a pantheon of uber-powerful gods rule over a world and maintain peace and harmony for its inhabitants",
+          "• Writer Rick Remender is one of the most exciting creatives working in the comic book industry today "
+        ]
+      },
+      "read_minutes": 6,
+      "cluster_id": "bf4e87f155d6"
+    },
+    {
+      "id": "095bf4676839",
+      "title": "Bob Weir, co-founder of rock group the Grateful Dead, dies at age 78",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/10/bob-weir-grateful-dead-dies-78",
+      "published_at": "Sun, 11 Jan 2026 01:01:17 GMT",
+      "bullets": [
+        "• “There is no final curtain here, not really",
+        "• Only the sense of someone setting off again.” The singer was one of the band’s two main vocalists",
+        "• He was at the center of the Grateful Dead "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.977
+      },
+      "moods": {
+        "brief_bullets": [
+          "• “There is no final curtain here, not really",
+          "• Only the sense of someone setting off again.” The singer was one of the band’s two main vocalists"
+        ],
+        "hopeful_bullets": [
+          "• “There is no final curtain here, not really",
+          "• Only the sense of someone setting off again.” The singer was one of the band’s two main vocalists"
+        ],
+        "stakes_bullets": [
+          "• Only the sense of someone setting off again.” The singer was one of the band’s two main vocalists"
+        ]
+      },
+      "read_minutes": 3,
+      "cluster_id": "0954a8f6e4cf"
+    },
+    {
+      "id": "799984cff17c",
+      "title": "Gundam Redesigns 1 of Its Most Underrated Mecha in New International Reveal",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/gundam-sentinel-metal-robot-spirits-new-release/",
+      "published_at": "Sun, 11 Jan 2026 01:00:12 GMT",
+      "bullets": [
+        "• Bandai's Metal Robot Spirits line recreates the most epic mecha from various anime franchises",
+        "• The＜SIDE MS＞Ex-S GUNDAM [Re:Coordinate] is a new action figure from the Metal Robots Spirits line",
+        "• Featuring a renewed color scheme, it also boasts a new head feature that makes the optics glow red "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Bandai's Metal Robot Spirits line recreates the most epic mecha from various anime franchises",
+          "• The＜SIDE MS＞Ex-S GUNDAM [Re:Coordinate] is a new action figure from the Metal Robots Spirits line"
+        ],
+        "hopeful_bullets": [
+          "• Bandai's Metal Robot Spirits line recreates the most epic mecha from various anime franchises",
+          "• The＜SIDE MS＞Ex-S GUNDAM [Re:Coordinate] is a new action figure from the Metal Robots Spirits line"
+        ],
+        "stakes_bullets": [
+          "• Bandai's Metal Robot Spirits line recreates the most epic mecha from various anime franchises"
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "a38d0bc089ed"
+    },
+    {
+      "id": "9ea43350706e",
+      "title": "6 Best Crime Shows More Than 5 Seasons",
+      "outlet": "CBR",
+      "url": "https://www.cbr.com/best-crime-shows-more-than-5-seasons-list/",
+      "published_at": "Sun, 11 Jan 2026 00:55:12 GMT",
+      "bullets": [
+        "• Criminal Minds is a police procedural series that focuses on the FBI's Behavioral Analysis Unit (or BAU) This unit is called to help around the country in some of the most shocking cases involving serial killers, child abductions, terrorist attacks, and more",
+        "• With more than five seasons, these crime shows allow viewers to get invested in the characters' personal lives "
+      ],
+      "category": "Comics",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.999
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Criminal Minds is a police procedural series that focuses on the FBI's Behavioral Analysis Unit (or BAU) This unit is called to help around the country in some of the most shocking cases involving serial killers, child abductions, terrorist attacks, and more",
+          "• With more than five seasons, these crime shows allow viewers to get invested in the characters' personal lives "
+        ],
+        "hopeful_bullets": [
+          "• Criminal Minds is a police procedural series that focuses on the FBI's Behavioral Analysis Unit (or BAU) This unit is called to help around the country in some of the most shocking cases involving serial killers, child abductions, terrorist attacks, and more"
+        ],
+        "stakes_bullets": [
+          "• Criminal Minds is a police procedural series that focuses on the FBI's Behavioral Analysis Unit (or BAU) This unit is called to help around the country in some of the most shocking cases involving serial killers, child abductions, terrorist attacks, and more",
+          "• With more than five seasons, these crime shows allow viewers to get invested in the characters' personal lives "
+        ]
+      },
+      "read_minutes": 7,
+      "cluster_id": "ae924316ac67"
+    },
+    {
+      "id": "bb71aa80aa2a",
+      "title": "US protests condemn ICE killing of Renee Good and ‘a regime that is willing to kill its own citizens’",
+      "outlet": "US news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/10/protests-ice-renee-nicole-good-philadelphia",
+      "published_at": "Sun, 11 Jan 2026 00:25:35 GMT",
+      "bullets": [
+        "• Two separate protests held in Philadelphia on Saturday in the wake of three ICE-related deaths in Venezuela",
+        "• More than a thousand people planned to take part in the nationwide protests",
+        "• Organizers say they want to put an end to Donald Trump’s ‘scrambling’ of Venezuela "
+      ],
+      "category": "US",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.976
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Two separate protests held in Philadelphia on Saturday in the wake of three ICE-related deaths in Venezuela",
+          "• More than a thousand people planned to take part in the nationwide protests"
+        ],
+        "hopeful_bullets": [
+          "• Two separate protests held in Philadelphia on Saturday in the wake of three ICE-related deaths in Venezuela",
+          "• More than a thousand people planned to take part in the nationwide protests"
+        ],
+        "stakes_bullets": [
+          "• More than a thousand people planned to take part in the nationwide protests"
         ]
       },
       "read_minutes": 4,
-      "cluster_id": "937ee7efc0d2"
+      "cluster_id": "ee0da6f22b90"
+    },
+    {
+      "id": "61d67795209f",
+      "title": "'The answer cannot be nothing': The battle over Canada's mystery brain disease",
+      "outlet": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c623r47d67lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "Sun, 11 Jan 2026 00:23:09 GMT",
+      "bullets": [
+        "• Creutzfeldt-Jakob Disease, or CJD, is both fatal and potentially contagious",
+        "• A group of experts was quickly assembled to investigate the disease",
+        "• Fortunately for New Brunswick, the disease didn't spread",
+        "• But the story didn't end there, it was just beginning "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.972
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Creutzfeldt-Jakob Disease, or CJD, is both fatal and potentially contagious",
+          "• A group of experts was quickly assembled to investigate the disease"
+        ],
+        "hopeful_bullets": [
+          "• Creutzfeldt-Jakob Disease, or CJD, is both fatal and potentially contagious",
+          "• A group of experts was quickly assembled to investigate the disease"
+        ],
+        "stakes_bullets": [
+          "• Creutzfeldt-Jakob Disease, or CJD, is both fatal and potentially contagious",
+          "• A group of experts was quickly assembled to investigate the disease",
+          "• Fortunately for New Brunswick, the disease didn't spread"
+        ]
+      },
+      "read_minutes": 22,
+      "cluster_id": "333ef88f4429"
     },
     {
       "id": "eb57e9ca09a9",
@@ -2095,6 +2653,41 @@
       "cluster_id": "f9d9b30901e6"
     },
     {
+      "id": "33ba1684f92d",
+      "title": "US urges its citizens to flee Venezuela amid reports of paramilitaries",
+      "outlet": "World news | The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jan/10/us-citizens-venezuela-paramilitaries",
+      "published_at": "Sat, 10 Jan 2026 23:53:22 GMT",
+      "bullets": [
+        "• The U.S",
+        "• State Department has issued a security alert to Venezuelan citizens",
+        "• The alert comes one week after the capture of Venezuela's president, Nicolás Maduro",
+        "• US citizens urged to leave the country immediately amid reports of armed militias searching for evidence "
+      ],
+      "category": "World",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.994
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The U.S",
+          "• State Department has issued a security alert to Venezuelan citizens"
+        ],
+        "hopeful_bullets": [
+          "• The U.S",
+          "• State Department has issued a security alert to Venezuelan citizens"
+        ],
+        "stakes_bullets": [
+          "• The U.S",
+          "• State Department has issued a security alert to Venezuelan citizens",
+          "• The alert comes one week after the capture of Venezuela's president, Nicolás Maduro"
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b97cba779134"
+    },
+    {
       "id": "1a7333cb4044",
       "title": "Paramount’s ‘Passenger’ Trailer Wins Early Buzz With Theater-Only Rollout!",
       "outlet": "Dread Central",
@@ -2132,79 +2725,46 @@
       "url": "https://pitchfork.com/news/bob-weir-dead-78-grateful-dead/",
       "published_at": "Sat, 10 Jan 2026 23:40:35 +0000",
       "bullets": [
-        "• Weir played rhythm guitar and sang lead vocals for the entire Grateful Dead's 30-year tenure",
-        "• He also founded and played in several bands, including Kingfish, the Bob Weir Band, Bobby and the Midnites, Scaring the Children, and Furthur",
-        "• Weir was diagnosed with lung cancer in July "
+        "• Weir played rhythm guitar and sang lead vocals for the entire 30-year Grateful Dead",
+        "• He also founded and played in several bands during and after his time with the Dead, including Kingfish, the Bob Weir Band, Bobby and the Midnites, Scaring the Children, and Furthur "
       ],
       "category": "Music",
       "sentiment": {
-        "label": "negative",
-        "score": 0.88
+        "label": "positive",
+        "score": 0.993
       },
       "moods": {
         "brief_bullets": [
-          "• Weir played rhythm guitar and sang lead vocals for the entire Grateful Dead's 30-year tenure",
-          "• He also founded and played in several bands, including Kingfish, the Bob Weir Band, Bobby and the Midnites, Scaring the Children, and Furthur"
+          "• Weir played rhythm guitar and sang lead vocals for the entire 30-year Grateful Dead",
+          "• He also founded and played in several bands during and after his time with the Dead, including Kingfish, the Bob Weir Band, Bobby and the Midnites, Scaring the Children, and Furthur "
         ],
         "hopeful_bullets": [
-          "• Weir played rhythm guitar and sang lead vocals for the entire Grateful Dead's 30-year tenure",
-          "• He also founded and played in several bands, including Kingfish, the Bob Weir Band, Bobby and the Midnites, Scaring the Children, and Furthur"
+          "• Weir played rhythm guitar and sang lead vocals for the entire 30-year Grateful Dead",
+          "• He also founded and played in several bands during and after his time with the Dead, including Kingfish, the Bob Weir Band, Bobby and the Midnites, Scaring the Children, and Furthur "
         ],
         "stakes_bullets": [
-          "• Weir played rhythm guitar and sang lead vocals for the entire Grateful Dead's 30-year tenure",
-          "• He also founded and played in several bands, including Kingfish, the Bob Weir Band, Bobby and the Midnites, Scaring the Children, and Furthur"
+          "• Weir played rhythm guitar and sang lead vocals for the entire 30-year Grateful Dead",
+          "• He also founded and played in several bands during and after his time with the Dead, including Kingfish, the Bob Weir Band, Bobby and the Midnites, Scaring the Children, and Furthur "
         ]
       },
       "read_minutes": 2,
-      "cluster_id": "bbaabe56636c"
-    },
-    {
-      "id": "a2c1c18c462a",
-      "title": "It’s Officially the End of an Era for Twilight",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/twilight-end-of-an-era/",
-      "published_at": "Sat, 10 Jan 2026 23:40:12 GMT",
-      "bullets": [
-        "• The Twilight Saga has seen it all: crazed fandoms, extreme hate, a Renaissance during the pandemic, and a certified place in the franchise hall of fame",
-        "• The actress has recently made her directorial debut with The Chronology of Water "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Twilight Saga has seen it all: crazed fandoms, extreme hate, a Renaissance during the pandemic, and a certified place in the franchise hall of fame",
-          "• The actress has recently made her directorial debut with The Chronology of Water "
-        ],
-        "hopeful_bullets": [
-          "• The Twilight Saga has seen it all: crazed fandoms, extreme hate, a Renaissance during the pandemic, and a certified place in the franchise hall of fame",
-          "• The actress has recently made her directorial debut with The Chronology of Water "
-        ],
-        "stakes_bullets": [
-          "• The Twilight Saga has seen it all: crazed fandoms, extreme hate, a Renaissance during the pandemic, and a certified place in the franchise hall of fame",
-          "• The actress has recently made her directorial debut with The Chronology of Water "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "e2699653701c"
+      "cluster_id": "365e1f57ea5e"
     },
     {
       "id": "7f6e5ef2b7c6",
-      "title": "Bob Weir, Grateful Dead Co-Founder, Dead at 78",
+      "title": "Bob Weir, Grateful Dead Co-Founder and Guitarist, Dead at 78",
       "outlet": "Music News",
       "url": "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/",
       "published_at": "Sat, 10 Jan 2026 23:39:14 +0000",
       "bullets": [
         "• Bob Weir, co-founder of the Grateful Dead, has died at age 78",
         "• He died peacefully, surrounded by loved ones, after \"courageously beating cancer as only Bobby could,\" his family said",
-        "• Weir often went under-recognized compared to larger-than-life Garcia "
+        "• Weir often went under-recognized compared to the larger-than-life Garcia "
       ],
       "category": "Music",
       "sentiment": {
         "label": "negative",
-        "score": 0.909
+        "score": 0.964
       },
       "moods": {
         "brief_bullets": [
@@ -2217,210 +2777,10 @@
         ],
         "stakes_bullets": [
           "• He died peacefully, surrounded by loved ones, after \"courageously beating cancer as only Bobby could,\" his family said"
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "bbaabe56636c"
-    },
-    {
-      "id": "363ad099e8ff",
-      "title": "Australia news live: more than 30 bushfires burning across Victoria as premier warns of ‘another difficult day’",
-      "outlet": "Environment | The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jan/11/australia-news-live-victoria-bushfires-queensland-cyclone-koji-weather-jacinta-allan-anthony-albanese-politics",
-      "published_at": "Sat, 10 Jan 2026 23:37:56 GMT",
-      "bullets": [
-        "• Residents told to leave areas on the border with Victoria as the fire has spilled across state lines",
-        "• Residents of Nariel Valley, Cumbria, Burleigh and Sydney have been told to take shelter now",
-        "• Residents are advised to stay away from the fires "
-      ],
-      "category": "Environment",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.705
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Residents told to leave areas on the border with Victoria as the fire has spilled across state lines",
-          "• Residents of Nariel Valley, Cumbria, Burleigh and Sydney have been told to take shelter now"
-        ],
-        "hopeful_bullets": [
-          "• Residents told to leave areas on the border with Victoria as the fire has spilled across state lines",
-          "• Residents of Nariel Valley, Cumbria, Burleigh and Sydney have been told to take shelter now"
-        ],
-        "stakes_bullets": [
-          "• Residents told to leave areas on the border with Victoria as the fire has spilled across state lines",
-          "• Residents of Nariel Valley, Cumbria, Burleigh and Sydney have been told to take shelter now",
-          "• Residents are advised to stay away from the fires "
-        ]
-      },
-      "read_minutes": 5,
-      "cluster_id": "71ee874b45ca"
-    },
-    {
-      "id": "1730022f6f2d",
-      "title": "The MCU's Trevor Slattery, From Mandarin to Wonder Man, Explained",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/mcu-trevor-slattery-mandarin-wonder-man-explained/",
-      "published_at": "Sat, 10 Jan 2026 23:25:12 GMT",
-      "bullets": [
-        "• All eight episodes of Wonder Man premiere on January 27, exclusively on Disney+",
-        "• Academy Award-winning actor Ben Kingsley joins Yahya Abdul-Mateen II in the miniseries",
-        "• The series kicks off a major year for Marvel, which culminates in Avengers: Doomsday "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• All eight episodes of Wonder Man premiere on January 27, exclusively on Disney+",
-          "• Academy Award-winning actor Ben Kingsley joins Yahya Abdul-Mateen II in the miniseries"
-        ],
-        "hopeful_bullets": [
-          "• Academy Award-winning actor Ben Kingsley joins Yahya Abdul-Mateen II in the miniseries"
-        ],
-        "stakes_bullets": [
-          "• All eight episodes of Wonder Man premiere on January 27, exclusively on Disney+",
-          "• Academy Award-winning actor Ben Kingsley joins Yahya Abdul-Mateen II in the miniseries",
-          "• The series kicks off a major year for Marvel, which culminates in Avengers: Doomsday "
         ]
       },
       "read_minutes": 6,
-      "cluster_id": "eed181c7876c"
-    },
-    {
-      "id": "6a401ea70d4c",
-      "title": "The Biggest Anime Tragedy of 2025 Still Breaks My Heart",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/biggest-anime-tragedy-of-2025-wind-breaker-plagiarism/",
-      "published_at": "Sat, 10 Jan 2026 23:15:12 GMT",
-      "bullets": [
-        "• Jo Yongseok’s Wind Breaker was incredibly popular during its run from 2013 to 2025",
-        "• The series featured the League of Streets, an underground cycling event where talented cyclists form teams to compete against each other",
-        "• The main character is Jo ‘Jay’ Jahyeon, the nephew of professional cyclist Jo Mahyeon "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.997
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Jo Yongseok’s Wind Breaker was incredibly popular during its run from 2013 to 2025",
-          "• The series featured the League of Streets, an underground cycling event where talented cyclists form teams to compete against each other"
-        ],
-        "hopeful_bullets": [
-          "• Jo Yongseok’s Wind Breaker was incredibly popular during its run from 2013 to 2025",
-          "• The series featured the League of Streets, an underground cycling event where talented cyclists form teams to compete against each other"
-        ],
-        "stakes_bullets": [
-          "• Jo Yongseok’s Wind Breaker was incredibly popular during its run from 2013 to 2025",
-          "• The series featured the League of Streets, an underground cycling event where talented cyclists form teams to compete against each other",
-          "• The main character is Jo ‘Jay’ Jahyeon, the nephew of professional cyclist Jo Mahyeon "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "8c2a3bc9412b"
-    },
-    {
-      "id": "8dd5204cc31d",
-      "title": "Dark's Untouchable Finale Remains a Sci-Fi Masterpiece 5 Years On",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/netflix-dark-ending-sci-fi-masterpiece/",
-      "published_at": "Sat, 10 Jan 2026 23:15:12 GMT",
-      "bullets": [
-        "• The ending of Netflix’s sci-fi masterpiece Dark remains untouchable",
-        "• While other shows like Stranger Things leaned into nostalgic comfort, Dark committed to a closed-loop philosophy",
-        "• Showrunners Jantje Friese and Baran bo Odar approached Netflix with a distinct three-season plan "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.989
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The ending of Netflix’s sci-fi masterpiece Dark remains untouchable",
-          "• While other shows like Stranger Things leaned into nostalgic comfort, Dark committed to a closed-loop philosophy"
-        ],
-        "hopeful_bullets": [
-          "• The ending of Netflix’s sci-fi masterpiece Dark remains untouchable",
-          "• While other shows like Stranger Things leaned into nostalgic comfort, Dark committed to a closed-loop philosophy"
-        ],
-        "stakes_bullets": [
-          "• Showrunners Jantje Friese and Baran bo Odar approached Netflix with a distinct three-season plan "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "ae60b65e397e"
-    },
-    {
-      "id": "d2891d17ff5b",
-      "title": "Mark Ruffalo's Gritty Crime Thriller Series Task Shoots Up the Streaming Charts Ahead of Highly Anticipated Season 2",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/task-crime-thriller-hbo-max-success-january-2026/",
-      "published_at": "Sat, 10 Jan 2026 23:00:12 GMT",
-      "bullets": [
-        "• The gritty crime drama premiered on HBO Max on Sept",
-        "• 7, 2025",
-        "• The series debuted in fifth place on the domestic charts",
-        "• It was one of Ruffalo's biggest hits",
-        "• The actor also starred in Hal & Harper and Now You See Me: Now You Don't "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The gritty crime drama premiered on HBO Max on Sept",
-          "• 7, 2025"
-        ],
-        "hopeful_bullets": [
-          "• The gritty crime drama premiered on HBO Max on Sept",
-          "• 7, 2025"
-        ],
-        "stakes_bullets": [
-          "• The gritty crime drama premiered on HBO Max on Sept",
-          "• 7, 2025",
-          "• The series debuted in fifth place on the domestic charts"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "ba1c90137804"
-    },
-    {
-      "id": "2e04c5b87765",
-      "title": "Attack on Titan Anime Star Calls Ending 'The Final, Final Scam'",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/attack-on-titan-yui-ishikawa-anime-ending-scam/",
-      "published_at": "Sat, 10 Jan 2026 23:00:12 GMT",
-      "bullets": [
-        "• Attack on Titan's final compilation film, The Last Attack, is due to return to Japanese theaters for a special series of additional screenings later this month",
-        "• Yui Ishikawa, who voices Mikasa Ackerman in the series, says she hopes the \"true end never comes\""
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Attack on Titan's final compilation film, The Last Attack, is due to return to Japanese theaters for a special series of additional screenings later this month",
-          "• Yui Ishikawa, who voices Mikasa Ackerman in the series, says she hopes the \"true end never comes\""
-        ],
-        "hopeful_bullets": [
-          "• Yui Ishikawa, who voices Mikasa Ackerman in the series, says she hopes the \"true end never comes\""
-        ],
-        "stakes_bullets": [
-          "• Attack on Titan's final compilation film, The Last Attack, is due to return to Japanese theaters for a special series of additional screenings later this month",
-          "• Yui Ishikawa, who voices Mikasa Ackerman in the series, says she hopes the \"true end never comes\""
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "c10f817edeea"
+      "cluster_id": "22237cbded58"
     },
     {
       "id": "74ed3b9e7225",
@@ -2453,73 +2813,6 @@
       },
       "read_minutes": 2,
       "cluster_id": "3c0e9b4ace87"
-    },
-    {
-      "id": "adcbc4962f51",
-      "title": "Guy Ritchie’s RocknRolla Has the Greatest 5-Minute Action Scene Ever",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/guy-ritchie-rocknrolla-forgotten-crime-film-greatest-action-scene/",
-      "published_at": "Sat, 10 Jan 2026 22:50:12 GMT",
-      "bullets": [
-        "• RocknRolla was a litmus test for talent across the pond",
-        "• It was easy for critics to call it a weaker version of Lock, Stock and Snatch",
-        "• However, it remains an engaging crime film that does what Ritchie does best "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• RocknRolla was a litmus test for talent across the pond",
-          "• It was easy for critics to call it a weaker version of Lock, Stock and Snatch"
-        ],
-        "hopeful_bullets": [
-          "• RocknRolla was a litmus test for talent across the pond",
-          "• It was easy for critics to call it a weaker version of Lock, Stock and Snatch"
-        ],
-        "stakes_bullets": [
-          "• RocknRolla was a litmus test for talent across the pond",
-          "• It was easy for critics to call it a weaker version of Lock, Stock and Snatch",
-          "• However, it remains an engaging crime film that does what Ritchie does best "
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "012f32ae523b"
-    },
-    {
-      "id": "23f5f4dc9e93",
-      "title": "Every Canon Dragon Ball Fusion, Ranked By Strength",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/every-dragon-ball-canon-fusion-strength-ranked/",
-      "published_at": "Sat, 10 Jan 2026 22:45:20 GMT",
-      "bullets": [
-        "• Akira Toriyama’s Dragon Ball has introduced many different ways for its characters to grow stronger",
-        "• Fusion has been a little more reserved when it comes to Dragon Ball's featured canonical combinations",
-        "• The complementary duo of Shin and Kibito become a foundational lesson in fusion "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Akira Toriyama’s Dragon Ball has introduced many different ways for its characters to grow stronger",
-          "• Fusion has been a little more reserved when it comes to Dragon Ball's featured canonical combinations"
-        ],
-        "hopeful_bullets": [
-          "• Akira Toriyama’s Dragon Ball has introduced many different ways for its characters to grow stronger"
-        ],
-        "stakes_bullets": [
-          "• Akira Toriyama’s Dragon Ball has introduced many different ways for its characters to grow stronger",
-          "• Fusion has been a little more reserved when it comes to Dragon Ball's featured canonical combinations",
-          "• The complementary duo of Shin and Kibito become a foundational lesson in fusion "
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "c5ce39a1d9dd"
     },
     {
       "id": "5b53261fcf42",
@@ -2556,99 +2849,32 @@
       "cluster_id": "09a6c8f257a8"
     },
     {
-      "id": "f8ee142b4552",
-      "title": "Everything We Know About Enola Holmes 3",
-      "outlet": "CBR",
-      "url": "https://www.cbr.com/enola-holmes-3-everything-we-know/",
-      "published_at": "Sat, 10 Jan 2026 22:25:12 GMT",
-      "bullets": [
-        "• Enola Holmes 3 promises to be even more exciting than the first two movies",
-        "• The film's synopsis reveals that the third film will take place on the island of Malta",
-        "• It also features a man, likely Enola's love interest, Lord Tewkesbury, kneeling on one knee "
-      ],
-      "category": "Comics",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.998
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Enola Holmes 3 promises to be even more exciting than the first two movies",
-          "• The film's synopsis reveals that the third film will take place on the island of Malta"
-        ],
-        "hopeful_bullets": [
-          "• Enola Holmes 3 promises to be even more exciting than the first two movies",
-          "• The film's synopsis reveals that the third film will take place on the island of Malta"
-        ],
-        "stakes_bullets": [
-          "• The film's synopsis reveals that the third film will take place on the island of Malta"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "345773118d84"
-    },
-    {
-      "id": "daecf028c351",
-      "title": "US military strikes Islamic State group targets in Syria, officials say",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly9597r4qpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 10 Jan 2026 22:21:36 GMT",
-      "bullets": [
-        "• US military strikes Islamic State group targets in Syria, officials say",
-        "• US and its partner forces fire more than 90 precision munitions at more than 35 targets",
-        "• The strikes are part of Operation Hawkeye Strike, US Central Command says",
-        "• The location of the strikes and the extent of any casualties are not yet clear "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US military strikes Islamic State group targets in Syria, officials say",
-          "• US and its partner forces fire more than 90 precision munitions at more than 35 targets"
-        ],
-        "hopeful_bullets": [
-          "• US military strikes Islamic State group targets in Syria, officials say",
-          "• US and its partner forces fire more than 90 precision munitions at more than 35 targets"
-        ],
-        "stakes_bullets": [
-          "• US military strikes Islamic State group targets in Syria, officials say",
-          "• US and its partner forces fire more than 90 precision munitions at more than 35 targets",
-          "• The strikes are part of Operation Hawkeye Strike, US Central Command says"
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "c944cddb98b3"
-    },
-    {
       "id": "ebf406ccdbc2",
       "title": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
       "outlet": "BBC News",
       "url": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
       "published_at": "Sat, 10 Jan 2026 21:12:03 GMT",
       "bullets": [
-        "• Medical staff describe 'direct shots to the heads of the young people, to their hearts' Hundreds of protesters are believed to have been killed and injured",
+        "• Medical staff describe 'direct shots to the heads of the young people, to their hearts' Hundreds of protesters are believed to have been killed or injured",
         "• The protests began in the capital Tehran a fortnight ago over economic hardship",
         "• They have since spread to more than 100 cities and towns across Iran's provinces "
       ],
       "category": "World",
       "sentiment": {
         "label": "negative",
-        "score": 0.823
+        "score": 0.879
       },
       "moods": {
         "brief_bullets": [
-          "• Medical staff describe 'direct shots to the heads of the young people, to their hearts' Hundreds of protesters are believed to have been killed and injured",
+          "• Medical staff describe 'direct shots to the heads of the young people, to their hearts' Hundreds of protesters are believed to have been killed or injured",
           "• The protests began in the capital Tehran a fortnight ago over economic hardship"
         ],
         "hopeful_bullets": [
-          "• Medical staff describe 'direct shots to the heads of the young people, to their hearts' Hundreds of protesters are believed to have been killed and injured",
+          "• Medical staff describe 'direct shots to the heads of the young people, to their hearts' Hundreds of protesters are believed to have been killed or injured",
           "• The protests began in the capital Tehran a fortnight ago over economic hardship"
         ],
         "stakes_bullets": [
-          "• Medical staff describe 'direct shots to the heads of the young people, to their hearts' Hundreds of protesters are believed to have been killed and injured",
+          "• Medical staff describe 'direct shots to the heads of the young people, to their hearts' Hundreds of protesters are believed to have been killed or injured",
           "• The protests began in the capital Tehran a fortnight ago over economic hardship",
           "• They have since spread to more than 100 cities and towns across Iran's provinces "
         ]
@@ -2823,6 +3049,39 @@
       "cluster_id": "903e0fc3eba3"
     },
     {
+      "id": "7f22fdf170b3",
+      "title": "Veteran actor T.K. Carter, known for 'The Thing' and 'Punky Brewster,' dies at 69",
+      "outlet": "NPR Topics: News",
+      "url": "https://www.npr.org/2026/01/10/nx-s1-5673448/actor-t-k-carter-obit",
+      "published_at": "Sat, 10 Jan 2026 19:35:10 -0500",
+      "bullets": [
+        "• Veteran actor T.K",
+        "• Carter, known for 'The Thing' and 'Punky Brewster,' dies at 69",
+        "• Carter was declared dead Friday evening after deputies responded to a call regarding an unresponsive male",
+        "• Police did not disclose a cause of death or other details, but said no foul play was suspected "
+      ],
+      "category": "General",
+      "sentiment": {
+        "label": "negative",
+        "score": 0.996
+      },
+      "moods": {
+        "brief_bullets": [
+          "• Veteran actor T.K",
+          "• Carter, known for 'The Thing' and 'Punky Brewster,' dies at 69"
+        ],
+        "hopeful_bullets": [
+          "• Veteran actor T.K",
+          "• Carter, known for 'The Thing' and 'Punky Brewster,' dies at 69"
+        ],
+        "stakes_bullets": [
+          "• Police did not disclose a cause of death or other details, but said no foul play was suspected "
+        ]
+      },
+      "read_minutes": 1,
+      "cluster_id": "b625cc5f048f"
+    },
+    {
       "id": "97e5ef7803ad",
       "title": "Australia’s Cop31 chief negotiator plans to lobby petrostates on fossil fuel phaseout",
       "outlet": "Environment | The Guardian",
@@ -2926,7 +3185,7 @@
     },
     {
       "id": "ac40592a75ec",
-      "title": "Who is Reza Pahlavi, the exiled Crown Prince encouraging demonstrations across Iran?",
+      "title": "Who is Reza Pahlavi, the exiled crown prince encouraging demonstrations across Iran?",
       "outlet": "NPR Topics: News",
       "url": "https://www.npr.org/2026/01/10/nx-s1-5673238/reza-pahlavi-iran-protests",
       "published_at": "Sat, 10 Jan 2026 17:10:49 -0500",
@@ -3092,37 +3351,6 @@
       "cluster_id": "39b54ab6722a"
     },
     {
-      "id": "6f13623a1f8a",
-      "title": "David Lammy: JD Vance agrees that sexualised AI images on X are ‘unacceptable’",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/10/ai-generated-sexualised-images-x-jd-vance-grok",
-      "published_at": "Sat, 10 Jan 2026 17:00:02 GMT",
-      "bullets": [
-        "• US vice-president agrees it is “entirely unacceptable’ for platforms such as X to allow proliferation of sexualised images of women and children",
-        "• Comments come amid growing transatlantic row over use of X’s artificial intelligence chatbot, Grok "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.999
-      },
-      "moods": {
-        "brief_bullets": [
-          "• US vice-president agrees it is “entirely unacceptable’ for platforms such as X to allow proliferation of sexualised images of women and children",
-          "• Comments come amid growing transatlantic row over use of X’s artificial intelligence chatbot, Grok "
-        ],
-        "hopeful_bullets": [
-          "• Comments come amid growing transatlantic row over use of X’s artificial intelligence chatbot, Grok "
-        ],
-        "stakes_bullets": [
-          "• US vice-president agrees it is “entirely unacceptable’ for platforms such as X to allow proliferation of sexualised images of women and children",
-          "• Comments come amid growing transatlantic row over use of X’s artificial intelligence chatbot, Grok "
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "0ccc72cea73f"
-    },
-    {
       "id": "8b8e144e7d45",
       "title": "6 killed in Mississippi shooting rampage, authorities say",
       "outlet": "NPR Topics: News",
@@ -3253,38 +3481,6 @@
       },
       "read_minutes": 3,
       "cluster_id": "7802004a8ac1"
-    },
-    {
-      "id": "e7eb0230f788",
-      "title": "Self-interest over ideology as disparate inner circle shapes Trump foreign policy",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/10/trump-worldview-inner-circle-personal-whim",
-      "published_at": "Sat, 10 Jan 2026 16:00:03 GMT",
-      "bullets": [
-        "• In his first year in office, Donald Trump has bullied Ukraine, bombed Iran and toppled the leader of Venezuela",
-        "• In the eyes of critics, he has turned the US into a rogue superpower that poses a greater threat to Nato allies than its foes",
-        "• The blitzkrieg has left diplomats in foreign capitals scrambling to understand Trump's motivations "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• In his first year in office, Donald Trump has bullied Ukraine, bombed Iran and toppled the leader of Venezuela",
-          "• In the eyes of critics, he has turned the US into a rogue superpower that poses a greater threat to Nato allies than its foes"
-        ],
-        "hopeful_bullets": [
-          "• In his first year in office, Donald Trump has bullied Ukraine, bombed Iran and toppled the leader of Venezuela",
-          "• In the eyes of critics, he has turned the US into a rogue superpower that poses a greater threat to Nato allies than its foes"
-        ],
-        "stakes_bullets": [
-          "• In his first year in office, Donald Trump has bullied Ukraine, bombed Iran and toppled the leader of Venezuela"
-        ]
-      },
-      "read_minutes": 7,
-      "cluster_id": "c2f9d7065f7a"
     },
     {
       "id": "d8ed2e750c30",
@@ -3448,109 +3644,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "e627dc8644cf"
-    },
-    {
-      "id": "28be679909bd",
-      "title": "Mamdani’s first 10 days: getting things done despite right’s dystopian fantasies",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jan/10/zohran-mamdani-new-york-10-days",
-      "published_at": "Sat, 10 Jan 2026 15:00:00 GMT",
-      "bullets": [
-        "• Zohran Mamdani took office in New York on New Year's Day",
-        "• The 34-year-old is determined to build new housing projects and crack down on 'rental rip-off' landlords",
-        "• New York City's new mayor has been accused of turning the city into a dystopian nightmare "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.894
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Zohran Mamdani took office in New York on New Year's Day",
-          "• The 34-year-old is determined to build new housing projects and crack down on 'rental rip-off' landlords"
-        ],
-        "hopeful_bullets": [
-          "• Zohran Mamdani took office in New York on New Year's Day",
-          "• The 34-year-old is determined to build new housing projects and crack down on 'rental rip-off' landlords"
-        ],
-        "stakes_bullets": [
-          "• Zohran Mamdani took office in New York on New Year's Day",
-          "• The 34-year-old is determined to build new housing projects and crack down on 'rental rip-off' landlords",
-          "• New York City's new mayor has been accused of turning the city into a dystopian nightmare "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "5b3f42f0badf"
-    },
-    {
-      "id": "0dd312af58d5",
-      "title": "Federal judge blocks White House freeze of childcare subsidies in Democratic states",
-      "outlet": "US news | The Guardian",
-      "url": "https://www.theguardian.com/law/2026/jan/10/federal-judge-blocks-white-house-freeze-childcare-subsidies-democratic-states",
-      "published_at": "Sat, 10 Jan 2026 14:53:02 GMT",
-      "bullets": [
-        "• Five states have been hit by a freeze on funding for children's education programs",
-        "• The government says it has no reason to delay the funding for the children's program",
-        "• The freeze is meant to protect the children from the government's decision to withhold the funds "
-      ],
-      "category": "US",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.995
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Five states have been hit by a freeze on funding for children's education programs",
-          "• The government says it has no reason to delay the funding for the children's program"
-        ],
-        "hopeful_bullets": [
-          "• Five states have been hit by a freeze on funding for children's education programs",
-          "• The government says it has no reason to delay the funding for the children's program"
-        ],
-        "stakes_bullets": [
-          "• Five states have been hit by a freeze on funding for children's education programs",
-          "• The government says it has no reason to delay the funding for the children's program",
-          "• The freeze is meant to protect the children from the government's decision to withhold the funds "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "a251045e3be2"
-    },
-    {
-      "id": "51c9ecd0f56e",
-      "title": "Video emerges of Minneapolis shooting filmed by ICE agent who opened fire",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz7yv4524gqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 10 Jan 2026 14:42:37 GMT",
-      "bullets": [
-        "• Video emerges of the moment Good tried to run over Good's car",
-        "• Video shows the moment the incident occurred in Minneapolis, Minnesota",
-        "• The video has been posted on social media and posted by the White House",
-        "• Good's death has sparked protests across the country "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.928
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Video emerges of the moment Good tried to run over Good's car",
-          "• Video shows the moment the incident occurred in Minneapolis, Minnesota"
-        ],
-        "hopeful_bullets": [
-          "• Video emerges of the moment Good tried to run over Good's car",
-          "• Video shows the moment the incident occurred in Minneapolis, Minnesota"
-        ],
-        "stakes_bullets": [
-          "• Video emerges of the moment Good tried to run over Good's car",
-          "• Video shows the moment the incident occurred in Minneapolis, Minnesota",
-          "• The video has been posted on social media and posted by the White House"
-        ]
-      },
-      "read_minutes": 4,
-      "cluster_id": "32ccca890ab5"
     },
     {
       "id": "0ef1d1351d91",
@@ -3922,40 +4015,6 @@
       "cluster_id": "cb9a318ed099"
     },
     {
-      "id": "838573b05012",
-      "title": "Musk says X outcry is 'excuse for censorship'",
-      "outlet": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce3kqzepp5zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "Sat, 10 Jan 2026 11:41:06 GMT",
-      "bullets": [
-        "• Elon Musk says X outcry is 'excuse for censorship' over sexualised images of people",
-        "• X has now limited the use of Grok to those who pay a monthly fee",
-        "• Ofcom says it is conducting an urgent assessment of X in response "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.993
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Elon Musk says X outcry is 'excuse for censorship' over sexualised images of people",
-          "• X has now limited the use of Grok to those who pay a monthly fee"
-        ],
-        "hopeful_bullets": [
-          "• Elon Musk says X outcry is 'excuse for censorship' over sexualised images of people",
-          "• X has now limited the use of Grok to those who pay a monthly fee"
-        ],
-        "stakes_bullets": [
-          "• Elon Musk says X outcry is 'excuse for censorship' over sexualised images of people",
-          "• X has now limited the use of Grok to those who pay a monthly fee",
-          "• Ofcom says it is conducting an urgent assessment of X in response "
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "6a2e5a4db9c9"
-    },
-    {
       "id": "b3f1e36e2add",
       "title": "Rescuers race to find dozens missing in deadly Philippines landfill collapse",
       "outlet": "BBC News",
@@ -4024,6 +4083,37 @@
       "cluster_id": "3674be6a7047"
     },
     {
+      "id": "7e1cf50310b8",
+      "title": "Shokz OpenFit Pro Review: ANC on Open Earbuds?",
+      "outlet": "WIRED",
+      "url": "https://www.wired.com/review/shokz-openfit-pro/",
+      "published_at": "Sat, 10 Jan 2026 11:30:00 +0000",
+      "bullets": [
+        "• The Shokz OpenFit Pro ($250) is the first open-ear noise reduction system",
+        "• It's not as effective as the kind of active noise canceling you’ll find on closed earbuds like the Apple AirPods Pro "
+      ],
+      "category": "Technology",
+      "sentiment": {
+        "label": "negative",
+        "score": 1.0
+      },
+      "moods": {
+        "brief_bullets": [
+          "• The Shokz OpenFit Pro ($250) is the first open-ear noise reduction system",
+          "• It's not as effective as the kind of active noise canceling you’ll find on closed earbuds like the Apple AirPods Pro "
+        ],
+        "hopeful_bullets": [
+          "• The Shokz OpenFit Pro ($250) is the first open-ear noise reduction system",
+          "• It's not as effective as the kind of active noise canceling you’ll find on closed earbuds like the Apple AirPods Pro "
+        ],
+        "stakes_bullets": [
+          "• It's not as effective as the kind of active noise canceling you’ll find on closed earbuds like the Apple AirPods Pro "
+        ]
+      },
+      "read_minutes": 2,
+      "cluster_id": "49049e9559ca"
+    },
+    {
       "id": "5dead23e3b26",
       "title": "ICE Can Now Spy on Every Phone in Your Neighborhood",
       "outlet": "WIRED",
@@ -4056,37 +4146,6 @@
       },
       "read_minutes": 4,
       "cluster_id": "3d1c58041797"
-    },
-    {
-      "id": "7e1cf50310b8",
-      "title": "Shokz OpenFit Pro Review: ANC on Open Earbuds?",
-      "outlet": "WIRED",
-      "url": "https://www.wired.com/review/shokz-openfit-pro/",
-      "published_at": "Sat, 10 Jan 2026 11:30:00 +0000",
-      "bullets": [
-        "• The Shokz OpenFit Pro ($250) is the first open-ear noise reduction system",
-        "• It's not as effective as the kind of active noise canceling you’ll find on closed earbuds like the Apple AirPods Pro "
-      ],
-      "category": "Technology",
-      "sentiment": {
-        "label": "negative",
-        "score": 1.0
-      },
-      "moods": {
-        "brief_bullets": [
-          "• The Shokz OpenFit Pro ($250) is the first open-ear noise reduction system",
-          "• It's not as effective as the kind of active noise canceling you’ll find on closed earbuds like the Apple AirPods Pro "
-        ],
-        "hopeful_bullets": [
-          "• The Shokz OpenFit Pro ($250) is the first open-ear noise reduction system",
-          "• It's not as effective as the kind of active noise canceling you’ll find on closed earbuds like the Apple AirPods Pro "
-        ],
-        "stakes_bullets": [
-          "• It's not as effective as the kind of active noise canceling you’ll find on closed earbuds like the Apple AirPods Pro "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "49049e9559ca"
     },
     {
       "id": "626e1d6deed4",
@@ -5067,41 +5126,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "1488beaad5e0"
-    },
-    {
-      "id": "d59cd9ed8446",
-      "title": "New video shows fatal Minnesota ICE shooting from officer's perspective",
-      "outlet": "NPR Topics: News",
-      "url": "https://www.npr.org/2026/01/10/g-s1-105387/new-video-minnesota-shooting-officer-perspective",
-      "published_at": "Sat, 10 Jan 2026 01:18:03 -0500",
-      "bullets": [
-        "• New video shows fatal Minnesota ICE shooting from officer's perspective",
-        "• Renee Good was shot and killed by an immigration officer in her car",
-        "• The killing and a separate shooting in Portland, Oregon, have set off protests",
-        "• The Trump administration has defended the officer who shot Good, saying he was protecting himself "
-      ],
-      "category": "General",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.873
-      },
-      "moods": {
-        "brief_bullets": [
-          "• New video shows fatal Minnesota ICE shooting from officer's perspective",
-          "• Renee Good was shot and killed by an immigration officer in her car"
-        ],
-        "hopeful_bullets": [
-          "• New video shows fatal Minnesota ICE shooting from officer's perspective",
-          "• Renee Good was shot and killed by an immigration officer in her car"
-        ],
-        "stakes_bullets": [
-          "• New video shows fatal Minnesota ICE shooting from officer's perspective",
-          "• Renee Good was shot and killed by an immigration officer in her car",
-          "• The killing and a separate shooting in Portland, Oregon, have set off protests"
-        ]
-      },
-      "read_minutes": 6,
-      "cluster_id": "5790aa456474"
     },
     {
       "id": "8c596375f431",
@@ -6424,38 +6448,6 @@
       "cluster_id": "1a87337e05e5"
     },
     {
-      "id": "fe19757b3414",
-      "title": "Boosie Badazz Sentenced to Time Served, 3 Years Supervised Release in Gun Case",
-      "outlet": "Music News",
-      "url": "https://www.rollingstone.com/music/music-news/boosie-badazz-sentenced-time-served-gun-case-1235496728/",
-      "published_at": "Fri, 09 Jan 2026 20:58:41 +0000",
-      "bullets": [
-        "• Boosie Badazz sentenced to time served, 3 years supervised release, 300 hours of community service",
-        "• Rapper pleaded guilty to being a felon in possession of a firearm in San Diego in June 2023",
-        "• Federal probation officials had recommended 46 months in prison "
-      ],
-      "category": "Music",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.944
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Boosie Badazz sentenced to time served, 3 years supervised release, 300 hours of community service",
-          "• Rapper pleaded guilty to being a felon in possession of a firearm in San Diego in June 2023"
-        ],
-        "hopeful_bullets": [
-          "• Boosie Badazz sentenced to time served, 3 years supervised release, 300 hours of community service",
-          "• Rapper pleaded guilty to being a felon in possession of a firearm in San Diego in June 2023"
-        ],
-        "stakes_bullets": [
-          "• Rapper pleaded guilty to being a felon in possession of a firearm in San Diego in June 2023"
-        ]
-      },
-      "read_minutes": 3,
-      "cluster_id": "781d881d7765"
-    },
-    {
       "id": "8e52453bd3f9",
       "title": "Trump claims he has cancelled second wave of attacks on Venezuela",
       "outlet": "World news | The Guardian",
@@ -6945,39 +6937,6 @@
       },
       "read_minutes": 1,
       "cluster_id": "a3164f185a4d"
-    },
-    {
-      "id": "1ed1584f153d",
-      "title": "EU states back controversial Mercosur deal with Latin American countries",
-      "outlet": "World news | The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jan/09/eu-states-back-controversial-mercosur-deal-with-latin-american-countries",
-      "published_at": "Fri, 09 Jan 2026 17:27:00 GMT",
-      "bullets": [
-        "• Controversial Mercosur deal with Argentina, Brazil, Paraguay and Uruguay prompted immediate protests in Poland, France, Greece and Belgium",
-        "• France, Poland, Austria, Ireland and Hungary voted against while Belgium abstained",
-        "• Italy’s Giorgia Meloni, long seen as a key vote, backed it "
-      ],
-      "category": "World",
-      "sentiment": {
-        "label": "negative",
-        "score": 0.76
-      },
-      "moods": {
-        "brief_bullets": [
-          "• Controversial Mercosur deal with Argentina, Brazil, Paraguay and Uruguay prompted immediate protests in Poland, France, Greece and Belgium",
-          "• France, Poland, Austria, Ireland and Hungary voted against while Belgium abstained"
-        ],
-        "hopeful_bullets": [
-          "• France, Poland, Austria, Ireland and Hungary voted against while Belgium abstained"
-        ],
-        "stakes_bullets": [
-          "• Controversial Mercosur deal with Argentina, Brazil, Paraguay and Uruguay prompted immediate protests in Poland, France, Greece and Belgium",
-          "• France, Poland, Austria, Ireland and Hungary voted against while Belgium abstained",
-          "• Italy’s Giorgia Meloni, long seen as a key vote, backed it "
-        ]
-      },
-      "read_minutes": 2,
-      "cluster_id": "fd1da1e15cfd"
     },
     {
       "id": "b0492b069843",
@@ -7951,12 +7910,12 @@
         "• withdrawal from IPCC is damaging to the world's reputation",
         "• Climate scientists fear they may be labelled an enemy of the state by the Trump administration",
         "• They say they are committed to advancing climate research in the United States",
-        "• Climate change experts say the decision to withdraw from the IPCC is troubling "
+        "• The U.N"
       ],
       "category": "Environment",
       "sentiment": {
         "label": "negative",
-        "score": 0.997
+        "score": 0.99
       },
       "moods": {
         "brief_bullets": [
@@ -8888,18 +8847,39 @@
       ]
     },
     {
-      "id": "32ccca890ab5",
-      "topic": "emerge filmed ice minneapoli",
+      "id": "22237cbded58",
+      "topic": "bob dead dies founder",
       "keywords": [
-        "emerge",
-        "filmed",
-        "ice",
-        "minneapoli",
-        "shooting",
-        "video"
+        "bob",
+        "dead",
+        "dies",
+        "founder",
+        "grateful",
+        "guitarist",
+        "weir"
       ],
       "item_ids": [
-        "51c9ecd0f56e"
+        "457f8608a4e6",
+        "7f6e5ef2b7c6"
+      ],
+      "outlets": [
+        "BBC News",
+        "Music News"
+      ]
+    },
+    {
+      "id": "333ef88f4429",
+      "topic": "answer battle canada cannot",
+      "keywords": [
+        "answer",
+        "battle",
+        "canada",
+        "cannot",
+        "mystery",
+        "nothing"
+      ],
+      "item_ids": [
+        "61d67795209f"
       ],
       "outlets": [
         "BBC News"
@@ -8996,22 +8976,6 @@
       ]
     },
     {
-      "id": "6a2e5a4db9c9",
-      "topic": "censorship excuse musk outcry",
-      "keywords": [
-        "censorship",
-        "excuse",
-        "musk",
-        "outcry"
-      ],
-      "item_ids": [
-        "838573b05012"
-      ],
-      "outlets": [
-        "BBC News"
-      ]
-    },
-    {
       "id": "474171da2062",
       "topic": "attempt ban fgm gambia",
       "keywords": [
@@ -9102,6 +9066,24 @@
       ]
     },
     {
+      "id": "b97cba779134",
+      "topic": "citizen flee paramilitarie report",
+      "keywords": [
+        "citizen",
+        "flee",
+        "paramilitarie",
+        "report",
+        "urge",
+        "venezuela"
+      ],
+      "item_ids": [
+        "33ba1684f92d"
+      ],
+      "outlets": [
+        "World news | The Guardian"
+      ]
+    },
+    {
       "id": "adb57fcbbd41",
       "topic": "arrest authoritie dozen nicaraguan",
       "keywords": [
@@ -9174,21 +9156,57 @@
       ]
     },
     {
-      "id": "fd1da1e15cfd",
-      "topic": "back controversial deal latin",
+      "id": "8946515b039d",
+      "topic": "death glance good hand",
       "keywords": [
-        "back",
-        "controversial",
-        "deal",
-        "latin",
-        "mercosur",
-        "state"
+        "death",
+        "glance",
+        "good",
+        "hand",
+        "renee",
+        "trump"
       ],
       "item_ids": [
-        "1ed1584f153d"
+        "90e39d1f6333"
       ],
       "outlets": [
-        "World news | The Guardian"
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "0954a8f6e4cf",
+      "topic": "bob founder grateful group",
+      "keywords": [
+        "bob",
+        "founder",
+        "grateful",
+        "group",
+        "rock",
+        "weir"
+      ],
+      "item_ids": [
+        "095bf4676839"
+      ],
+      "outlets": [
+        "US news | The Guardian"
+      ]
+    },
+    {
+      "id": "ee0da6f22b90",
+      "topic": "condemn good ice killing",
+      "keywords": [
+        "condemn",
+        "good",
+        "ice",
+        "killing",
+        "protest",
+        "renee"
+      ],
+      "item_ids": [
+        "bb71aa80aa2a"
+      ],
+      "outlets": [
+        "US news | The Guardian"
       ]
     },
     {
@@ -9282,24 +9300,6 @@
       ]
     },
     {
-      "id": "0ccc72cea73f",
-      "topic": "agree david image lammy",
-      "keywords": [
-        "agree",
-        "david",
-        "image",
-        "lammy",
-        "sexualised",
-        "vance"
-      ],
-      "item_ids": [
-        "6f13623a1f8a"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
       "id": "7802004a8ac1",
       "topic": "announce cap card credit",
       "keywords": [
@@ -9318,57 +9318,21 @@
       ]
     },
     {
-      "id": "c2f9d7065f7a",
-      "topic": "circle disparate ideology inner",
+      "id": "b625cc5f048f",
+      "topic": "actor carter known punky",
       "keywords": [
-        "circle",
-        "disparate",
-        "ideology",
-        "inner",
-        "interest",
-        "self"
+        "actor",
+        "carter",
+        "known",
+        "punky",
+        "thing",
+        "veteran"
       ],
       "item_ids": [
-        "e7eb0230f788"
+        "7f22fdf170b3"
       ],
       "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "5b3f42f0badf",
-      "topic": "days done first getting",
-      "keywords": [
-        "days",
-        "done",
-        "first",
-        "getting",
-        "mamdani",
-        "thing"
-      ],
-      "item_ids": [
-        "28be679909bd"
-      ],
-      "outlets": [
-        "US news | The Guardian"
-      ]
-    },
-    {
-      "id": "a251045e3be2",
-      "topic": "block federal freeze house",
-      "keywords": [
-        "block",
-        "federal",
-        "freeze",
-        "house",
-        "judge",
-        "white"
-      ],
-      "item_ids": [
-        "0dd312af58d5"
-      ],
-      "outlets": [
-        "US news | The Guardian"
+        "NPR Topics: News"
       ]
     },
     {
@@ -9526,24 +9490,6 @@
       ],
       "item_ids": [
         "042e838559c2"
-      ],
-      "outlets": [
-        "NPR Topics: News"
-      ]
-    },
-    {
-      "id": "5790aa456474",
-      "topic": "fatal ice minnesota shooting",
-      "keywords": [
-        "fatal",
-        "ice",
-        "minnesota",
-        "shooting",
-        "show",
-        "video"
-      ],
-      "item_ids": [
-        "d59cd9ed8446"
       ],
       "outlets": [
         "NPR Topics: News"
@@ -9786,24 +9732,6 @@
       ]
     },
     {
-      "id": "3d1c58041797",
-      "topic": "every ice neighborhood now",
-      "keywords": [
-        "every",
-        "ice",
-        "neighborhood",
-        "now",
-        "phone",
-        "spy"
-      ],
-      "item_ids": [
-        "5dead23e3b26"
-      ],
-      "outlets": [
-        "WIRED"
-      ]
-    },
-    {
       "id": "49049e9559ca",
       "topic": "anc open openfit pro",
       "keywords": [
@@ -9816,6 +9744,24 @@
       ],
       "item_ids": [
         "7e1cf50310b8"
+      ],
+      "outlets": [
+        "WIRED"
+      ]
+    },
+    {
+      "id": "3d1c58041797",
+      "topic": "every ice neighborhood now",
+      "keywords": [
+        "every",
+        "ice",
+        "neighborhood",
+        "now",
+        "phone",
+        "spy"
+      ],
+      "item_ids": [
+        "5dead23e3b26"
       ],
       "outlets": [
         "WIRED"
@@ -11007,15 +10953,15 @@
       ]
     },
     {
-      "id": "71ee874b45ca",
-      "topic": "acros australia burning bushfire",
+      "id": "c40b8b2a0dcd",
+      "topic": "australia fire live major",
       "keywords": [
-        "acros",
         "australia",
-        "burning",
-        "bushfire",
+        "fire",
         "live",
-        "victoria"
+        "major",
+        "premier",
+        "victorian"
       ],
       "item_ids": [
         "363ad099e8ff"
@@ -12632,176 +12578,178 @@
       ]
     },
     {
-      "id": "937ee7efc0d2",
-      "topic": "best movie netflix now",
+      "id": "821c34bfabd4",
+      "topic": "according all movie sci",
       "keywords": [
-        "best",
+        "according",
+        "all",
         "movie",
-        "netflix",
-        "now",
-        "right",
-        "space"
-      ],
-      "item_ids": [
-        "83c7615a1312"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "e2699653701c",
-      "topic": "end era officially twilight",
-      "keywords": [
-        "end",
-        "era",
-        "officially",
-        "twilight"
-      ],
-      "item_ids": [
-        "a2c1c18c462a"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "eed181c7876c",
-      "topic": "man mandarin mcu slattery",
-      "keywords": [
-        "man",
-        "mandarin",
-        "mcu",
-        "slattery",
-        "trevor",
-        "wonder"
-      ],
-      "item_ids": [
-        "1730022f6f2d"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "8c2a3bc9412b",
-      "topic": "2025 anime biggest break",
-      "keywords": [
-        "2025",
-        "anime",
-        "biggest",
-        "break",
-        "still",
-        "tragedy"
-      ],
-      "item_ids": [
-        "6a401ea70d4c"
-      ],
-      "outlets": [
-        "CBR"
-      ]
-    },
-    {
-      "id": "ae60b65e397e",
-      "topic": "dark finale masterpiece remain",
-      "keywords": [
-        "dark",
-        "finale",
-        "masterpiece",
-        "remain",
         "sci",
-        "untouchable"
+        "time",
+        "worst"
       ],
       "item_ids": [
-        "8dd5204cc31d"
+        "d3e131eb1647"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "ba1c90137804",
-      "topic": "crime gritty mark ruffalo",
+      "id": "8b3d377b8f36",
+      "topic": "confirm making officially sheridan",
       "keywords": [
-        "crime",
-        "gritty",
-        "mark",
-        "ruffalo",
-        "serie",
+        "confirm",
+        "making",
+        "officially",
+        "sheridan",
+        "taylor",
+        "yellowstone"
+      ],
+      "item_ids": [
+        "9220c1424a11"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "c9ebc1022a9c",
+      "topic": "fix key mcu men",
+      "keywords": [
+        "fix",
+        "key",
+        "mcu",
+        "men",
+        "need",
+        "relationship"
+      ],
+      "item_ids": [
+        "999a3213e1c0"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "9bfcef7bc383",
+      "topic": "abc better masterpiece off",
+      "keywords": [
+        "abc",
+        "better",
+        "masterpiece",
+        "off",
+        "sci",
+        "ted"
+      ],
+      "item_ids": [
+        "363a0aed3efe"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "6737aec21289",
+      "topic": "classic cult game later",
+      "keywords": [
+        "classic",
+        "cult",
+        "game",
+        "later",
+        "ps1",
+        "year"
+      ],
+      "item_ids": [
+        "98060bded16c"
+      ],
+      "outlets": [
+        "CBR"
+      ]
+    },
+    {
+      "id": "d43786bc3d98",
+      "topic": "anymore movie nobody perfect",
+      "keywords": [
+        "anymore",
+        "movie",
+        "nobody",
+        "perfect",
+        "talk",
         "thriller"
       ],
       "item_ids": [
-        "d2891d17ff5b"
+        "f45d4cd035e6"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "c10f817edeea",
-      "topic": "anime attack call ending",
+      "id": "3613146bd8b9",
+      "topic": "best leveling manhwa modern",
       "keywords": [
-        "anime",
-        "attack",
-        "call",
-        "ending",
-        "star",
-        "titan"
+        "best",
+        "leveling",
+        "manhwa",
+        "modern",
+        "scene",
+        "solo"
       ],
       "item_ids": [
-        "2e04c5b87765"
+        "cc0868a168b9"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "012f32ae523b",
-      "topic": "action greatest guy minute",
+      "id": "bf4e87f155d6",
+      "topic": "best comic game indie",
       "keywords": [
-        "action",
-        "greatest",
-        "guy",
-        "minute",
-        "ritchie",
-        "rocknrolla"
+        "best",
+        "comic",
+        "game",
+        "indie",
+        "perfect",
+        "year"
       ],
       "item_ids": [
-        "adcbc4962f51"
+        "692175a1cce7"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "c5ce39a1d9dd",
-      "topic": "ball canon dragon every",
+      "id": "a38d0bc089ed",
+      "topic": "gundam international mecha most",
       "keywords": [
-        "ball",
-        "canon",
-        "dragon",
-        "every",
-        "fusion",
-        "ranked"
+        "gundam",
+        "international",
+        "mecha",
+        "most",
+        "redesign",
+        "underrated"
       ],
       "item_ids": [
-        "23f5f4dc9e93"
+        "799984cff17c"
       ],
       "outlets": [
         "CBR"
       ]
     },
     {
-      "id": "345773118d84",
-      "topic": "enola everything holme know",
+      "id": "ae924316ac67",
+      "topic": "best crime season show",
       "keywords": [
-        "enola",
-        "everything",
-        "holme",
-        "know"
+        "best",
+        "crime",
+        "season",
+        "show"
       ],
       "item_ids": [
-        "f8ee142b4552"
+        "9ea43350706e"
       ],
       "outlets": [
         "CBR"
@@ -12986,22 +12934,21 @@
       ]
     },
     {
-      "id": "bbaabe56636c",
-      "topic": "bob dead founder grateful",
+      "id": "ab0c0303f7d2",
+      "topic": "andy cohen don felder",
       "keywords": [
-        "bob",
-        "dead",
-        "founder",
-        "grateful",
-        "weir"
+        "andy",
+        "cohen",
+        "don",
+        "felder",
+        "impossibly",
+        "remember"
       ],
       "item_ids": [
-        "7f6e5ef2b7c6",
-        "8474029f4539"
+        "6f7c88ed254a"
       ],
       "outlets": [
-        "Music News",
-        "RSS: News"
+        "Music News"
       ]
     },
     {
@@ -13149,21 +13096,19 @@
       ]
     },
     {
-      "id": "781d881d7765",
-      "topic": "badazz boosie sentenced served",
+      "id": "365e1f57ea5e",
+      "topic": "bob dead grateful weir",
       "keywords": [
-        "badazz",
-        "boosie",
-        "sentenced",
-        "served",
-        "time",
-        "year"
+        "bob",
+        "dead",
+        "grateful",
+        "weir"
       ],
       "item_ids": [
-        "fe19757b3414"
+        "8474029f4539"
       ],
       "outlets": [
-        "Music News"
+        "RSS: News"
       ]
     },
     {
